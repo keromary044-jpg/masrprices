@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="110" fill="#102b50"/>
+  <path d="M90 350 L180 250 L260 300 L390 130" fill="none" stroke="#ffffff" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M320 130 H390 V200" fill="none" stroke="#e63946" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="256" y="425" font-size="75" font-weight="bold" text-anchor="middle" fill="#ffffff" font-family="Arial">MP</text>
+</svg>
