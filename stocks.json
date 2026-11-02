@@ -1,0 +1,139 @@
+{
+  "updatedAt": "2026-11-01",
+  "currency": "EGP",
+  "notice": "لقطة أسعار تاريخية منشورة بتاريخ 1 نوفمبر 2026 وليست أسعارًا لحظية أو توصيات شراء أو بيع. تحقق من بيانات البورصة قبل أي قرار.",
+  "products": [
+    {
+      "id": "stock-comi",
+      "name": "البنك التجاري الدولي CIB",
+      "category": "بنوك",
+      "brand": "COMI",
+      "price": 118,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-swdy",
+      "name": "السويدي إليكتريك",
+      "category": "صناعة",
+      "brand": "SWDY",
+      "price": 110.41,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-etel",
+      "name": "المصرية للاتصالات",
+      "category": "اتصالات",
+      "brand": "ETEL",
+      "price": 117.82,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-tmgh",
+      "name": "مجموعة طلعت مصطفى",
+      "category": "عقارات",
+      "brand": "TMGH",
+      "price": 79.5,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-mfpc",
+      "name": "موبكو للأسمدة",
+      "category": "كيماويات وأسمدة",
+      "brand": "MFPC",
+      "price": 44,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-egal",
+      "name": "مصر للألومنيوم",
+      "category": "موارد أساسية",
+      "brand": "EGAL",
+      "price": 304,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-qnbe",
+      "name": "بنك قطر الوطني الأهلي",
+      "category": "بنوك",
+      "brand": "QNBE",
+      "price": 53.8,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-abuk",
+      "name": "أبو قير للأسمدة",
+      "category": "كيماويات وأسمدة",
+      "brand": "ABUK",
+      "price": 84.55,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-hdbk",
+      "name": "بنك التعمير والإسكان",
+      "category": "بنوك",
+      "brand": "HDBK",
+      "price": 97.9,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-east",
+      "name": "الشرقية للدخان",
+      "category": "صناعة",
+      "brand": "EAST",
+      "price": 31.99,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-amoc",
+      "name": "الإسكندرية للزيوت المعدنية",
+      "category": "طاقة",
+      "brand": "AMOC",
+      "price": 14.31,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    },
+    {
+      "id": "stock-cpci",
+      "name": "القاهرة للأدوية",
+      "category": "رعاية صحية",
+      "brand": "CPCI",
+      "price": 613.48,
+      "merchant": "بيانات سوق منشورة",
+      "details": "سعر إغلاق/آخر سعر منشور في 1 نوفمبر 2026؛ تحقق من جلسة التداول الأحدث.",
+      "source": "https://www.richerfin.com/en/egx/",
+      "checkedAt": "2026-11-01"
+    }
+  ]
+}
