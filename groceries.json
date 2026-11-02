@@ -1,0 +1,128 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "region": "أسعار متجر كارفور الإلكتروني في مصر؛ قد تختلف حسب الفرع والتوصيل",
+  "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000",
+  "products": [
+    {
+      "id": "grocery-rice-almezag",
+      "name": "أرز أبيض مصري المزاج 1 كجم",
+      "category": "أرز وبقوليات",
+      "brand": "المزاج",
+      "unit": "1 كجم",
+      "price": 26.99,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-rice-darham",
+      "name": "أرز مصري دراهم 1 كجم",
+      "category": "أرز وبقوليات",
+      "brand": "دراهم",
+      "unit": "1 كجم",
+      "price": 23.99,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-rice-doha",
+      "name": "أرز مصري الضحى 1 كجم",
+      "category": "أرز وبقوليات",
+      "brand": "الضحى",
+      "unit": "1 كجم",
+      "price": 44.5,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-pasta-ahl300",
+      "name": "مكرونة فرن أهل القمة 300 جم",
+      "category": "مكرونة",
+      "brand": "أهل القمة",
+      "unit": "300 جم",
+      "price": 7.5,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-pasta-queen",
+      "name": "مكرونة خواتم الملكة 1 كجم",
+      "category": "مكرونة",
+      "brand": "الملكة",
+      "unit": "1 كجم",
+      "price": 34.99,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-pasta-italiano",
+      "name": "مكرونة إيطاليانو 400 جم",
+      "category": "مكرونة",
+      "brand": "إيطاليانو",
+      "unit": "400 جم",
+      "price": 23.5,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-oil-afia",
+      "name": "زيت عباد الشمس عافية 2.2 لتر",
+      "category": "زيوت",
+      "brand": "عافية",
+      "unit": "2.2 لتر",
+      "price": 221.99,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-oil-crystal",
+      "name": "زيت عباد الشمس كريستال 2.2 لتر",
+      "category": "زيوت",
+      "brand": "كريستال",
+      "unit": "2.2 لتر",
+      "price": 237.5,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-sugar-ahlam",
+      "name": "سكر أبيض أحلى مذاق 1 كجم",
+      "category": "سكر ودقيق",
+      "brand": "أحلى مذاق",
+      "unit": "1 كجم",
+      "price": 27.99,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-sugar-almezag",
+      "name": "سكر أبيض المزاج 1 كجم",
+      "category": "سكر ودقيق",
+      "brand": "المزاج",
+      "unit": "1 كجم",
+      "price": 29.99,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-flour",
+      "name": "دقيق المزاج لجميع الاستخدامات 1 كجم",
+      "category": "سكر ودقيق",
+      "brand": "المزاج",
+      "unit": "1 كجم",
+      "price": 21.99,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-tomato",
+      "name": "صلصة طماطم هارفست 320 جم",
+      "category": "صلصات ومعلبات",
+      "brand": "هارفست",
+      "unit": "320 جم",
+      "price": 30.5,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
