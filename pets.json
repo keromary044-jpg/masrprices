@@ -1,0 +1,87 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار منشورة في متاجر مصرية وقت الرصد؛ تأكد من النوع والوزن وملاءمة الطعام لعمر الحيوان من الطبيب البيطري.",
+  "products": [
+    {
+      "id": "pet-friskies-gravy",
+      "name": "طعام قطط Friskies بالدجاج في صوص 85 جم",
+      "category": "طعام قطط",
+      "brand": "Purina Friskies",
+      "price": 44.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pet-litter-first1",
+      "name": "رمل قطط First 1 وزن 7 كجم",
+      "category": "رمل قطط",
+      "brand": "First 1",
+      "price": 109.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pet-drill-kitten",
+      "name": "طعام قطط صغيرة Drill وزن 1 كجم",
+      "category": "طعام قطط",
+      "brand": "Drill",
+      "price": 172.5,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pet-wonder-litter5",
+      "name": "رمل قطط Wonder Cat متكتل برائحة اللافندر 5 كجم",
+      "category": "رمل قطط",
+      "brand": "Wonder Cat",
+      "price": 284.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pet-friskies-chicken300",
+      "name": "طعام قطط Friskies بالدجاج والخضار 300 جم",
+      "category": "طعام قطط",
+      "brand": "Friskies",
+      "price": 99.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pet-wonder-nonclump24",
+      "name": "رمل قطط Wonder Cat غير متكتل 24 لتر",
+      "category": "رمل قطط",
+      "brand": "Wonder Cat",
+      "price": 349.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pet-carlito-dog",
+      "name": "طعام كلاب Carlito للبالغين 1.5 كجم",
+      "category": "طعام كلاب",
+      "brand": "Carlito",
+      "price": 198.5,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pet-drill-dog4",
+      "name": "طعام كلاب Drill للبالغين 4 كجم",
+      "category": "طعام كلاب",
+      "brand": "Drill",
+      "price": 535.5,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
