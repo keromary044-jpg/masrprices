@@ -157,6 +157,8 @@
       if (phoneCatalog) phoneCatalog.hidden=true;
       const bookCatalog=document.getElementById("bookCatalog");
       if (bookCatalog) bookCatalog.hidden=true;
+      const constructionCatalog=document.getElementById("constructionCatalog");
+      if (constructionCatalog) constructionCatalog.hidden=true;
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
@@ -167,6 +169,9 @@
         } else if (title.includes("كتب") || title.includes("روايات")) {
           panel.hidden=true;
           if (bookCatalog) { bookCatalog.hidden=false; bookCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
+        } else if (title.includes("مواد البناء")) {
+          panel.hidden=true;
+          if (constructionCatalog) { constructionCatalog.hidden=false; constructionCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
         }
       }
     });
