@@ -57,6 +57,46 @@
       "merchant": "Raneen",
       "source": "https://www.raneen.com/en/",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "clothing-andora-hoodie",
+      "name": "هودي Andora Essential Plain بأكمام طويلة",
+      "category": "ملابس رجالي",
+      "brand": "Andora",
+      "price": 599,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "clothing-roomba-sneaker",
+      "name": "حذاء Roomba Fashion Sneakers",
+      "category": "أحذية",
+      "brand": "Roomba",
+      "price": 335,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "clothing-activ-sneaker",
+      "name": "حذاء Activ White Perforated Unisex",
+      "category": "أحذية",
+      "brand": "Activ",
+      "price": 699,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "clothing-andora-tee",
+      "name": "تيشيرت Andora Essential Plain قصير الأكمام",
+      "category": "ملابس رجالي",
+      "brand": "Andora",
+      "price": 229,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
