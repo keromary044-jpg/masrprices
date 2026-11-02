@@ -134,6 +134,72 @@
       "merchant": "Carrefour",
       "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY4000000",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-ac-midea-15",
+      "name": "تكييف ميديا إكستريم برو 1.5 حصان بارد",
+      "category": "تكييفات",
+      "brand": "Midea",
+      "model": "MSEFT-12CRN",
+      "price": 22999,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-washer-zanussi-9",
+      "name": "غسالة زانوسي 9 كجم تحميل أمامي",
+      "category": "غسالات",
+      "brand": "Zanussi",
+      "model": "TC2 ZWF9221SD7",
+      "price": 22499,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances/large-home-appliances/washing-machines.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-freezer-fresh",
+      "name": "ديب فريزر فريش رأسي 6 درج",
+      "category": "ديب فريزر",
+      "brand": "Fresh",
+      "model": "FNU-MT271B",
+      "price": 23499,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-washer-lg-8",
+      "name": "غسالة LG سعة 8 كجم",
+      "category": "غسالات",
+      "brand": "LG",
+      "model": "F4R5TYG2T",
+      "price": 26989,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances/large-home-appliances/washing-machines.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-airfryer-kenwood",
+      "name": "قلاية كينوود هوائية 7 لتر",
+      "category": "قلايات هوائية",
+      "brand": "Kenwood",
+      "model": "HFP80.000BK",
+      "price": 6599,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-microwave-samsung40",
+      "name": "ميكروويف سامسونج 40 لتر بشواية",
+      "category": "ميكروويف",
+      "brand": "Samsung",
+      "model": "MG40DG5524ATSG",
+      "price": 11999,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances/kitchen-appliances/microwaves-and-electric-ovens.html",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
