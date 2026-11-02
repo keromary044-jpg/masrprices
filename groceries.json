@@ -123,6 +123,50 @@
       "price": 30.5,
       "merchant": "Carrefour",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-rice-darahem",
+      "name": "أرز دراهم مصري 1 كجم",
+      "category": "أرز وبقوليات",
+      "brand": "دراهم",
+      "unit": "1 كجم",
+      "price": 24.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-pasta-maleka",
+      "name": "مكرونة خواتم الملكة 400 جم",
+      "category": "مكرونة",
+      "brand": "الملكة",
+      "unit": "400 جم",
+      "price": 14.5,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-vermicelli",
+      "name": "شعرية أهل القمة 400 جم",
+      "category": "مكرونة",
+      "brand": "أهل القمة",
+      "unit": "400 جم",
+      "price": 10.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-rice-elSaa",
+      "name": "أرز الساعة أبيض 1 كجم",
+      "category": "أرز وبقوليات",
+      "brand": "الساعة",
+      "unit": "1 كجم",
+      "price": 31.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
