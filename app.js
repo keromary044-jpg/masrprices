@@ -153,16 +153,18 @@
         other.setAttribute("aria-expanded","false");
       });
       if (phoneCatalog) phoneCatalog.hidden=true;
+      const bookCatalog=document.getElementById("bookCatalog");
+      if (bookCatalog) bookCatalog.hidden=true;
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
-        if (normalize(getTitle(card)).includes("موبايلات") || normalize(getTitle(card)).includes("الكترونيات")) {
+        const title=normalize(getTitle(card));
+        if (title.includes("موبايلات") || title.includes("الكترونيات")) {
           panel.hidden=true;
-          if (phoneCatalog) {
-            phoneCatalog.hidden=false;
-            loadPhones();
-            phoneCatalog.scrollIntoView({behavior:"smooth",block:"start"});
-          }
+          if (phoneCatalog) { phoneCatalog.hidden=false; loadPhones(); phoneCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
+        } else if (title.includes("كتب") || title.includes("روايات")) {
+          panel.hidden=true;
+          if (bookCatalog) { bookCatalog.hidden=false; bookCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
         }
       }
     });
