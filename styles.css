@@ -39,3 +39,9 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .market-rates{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:20px}.market-rate-group{background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:16px}.market-rate-group h3{margin:0 0 12px}.market-rate-row{display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #eee}.market-rate-row span{text-align:left;font-variant-numeric:tabular-nums}.market-rate-group .catalog-footnote{display:block;margin-top:12px;line-height:1.7}
 
 .car-catalog .book-card{min-width:0}.car-catalog .book-price{font-weight:800}
+
+/* Book selection: grade > subject > teacher/series > titles */
+.book-stepper{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;margin:18px 0}
+.book-stepper label{display:flex;flex-direction:column;gap:6px;color:var(--navy);font-weight:700}
+.book-stepper select{width:100%;min-height:50px;border:1px solid var(--line);border-radius:11px;background:#fff;padding:9px 12px;font:inherit;color:var(--ink)}
+.book-stepper select:focus{outline:3px solid #527eae30;border-color:#527eae}
