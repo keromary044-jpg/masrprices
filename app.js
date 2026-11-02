@@ -96,7 +96,8 @@
       const response = await fetch("./phones.json", {cache:"no-cache"});
       if (!response.ok) throw new Error("تعذر تحميل ملف المنتجات");
       phoneData = await response.json();
-      renderPhones(phoneData);\n      loadModelIndex();
+      renderPhones(phoneData);
+      loadModelIndex();
     } catch (error) {
       phoneProducts.textContent = "تعذر تحميل كتالوج الموبايلات حاليًا. جرّب تحديث الصفحة بعد اكتمال النشر.";
       console.error(error);
