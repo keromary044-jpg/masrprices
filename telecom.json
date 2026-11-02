@@ -98,6 +98,54 @@
       "merchant": "Vodafone Egypt",
       "source": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-orange-go-150",
+      "name": "Orange GO 150 – إنترنت للخطوط",
+      "category": "إنترنت موبايل للراوتر",
+      "brand": "Orange",
+      "price": 150,
+      "unit": "3 أشهر",
+      "details": "5,500 ميجابايت؛ باقة مخصصة لخطوط الإنترنت فقط.",
+      "merchant": "Orange Egypt",
+      "source": "https://www.orange.eg/ar/internet/internet-lines",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-orange-go-265",
+      "name": "Orange GO 265 – إنترنت للخطوط",
+      "category": "إنترنت موبايل للراوتر",
+      "brand": "Orange",
+      "price": 265,
+      "unit": "3 أشهر",
+      "details": "12,500 ميجابايت؛ باقة مخصصة لخطوط الإنترنت فقط.",
+      "merchant": "Orange Egypt",
+      "source": "https://www.orange.eg/ar/internet/internet-lines",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-orange-go-530",
+      "name": "Orange GO 530 – إنترنت للخطوط",
+      "category": "إنترنت موبايل للراوتر",
+      "brand": "Orange",
+      "price": 530,
+      "unit": "3 أشهر",
+      "details": "30,000 ميجابايت؛ باقة مخصصة لخطوط الإنترنت فقط.",
+      "merchant": "Orange Egypt",
+      "source": "https://www.orange.eg/ar/internet/internet-lines",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-orange-go-900",
+      "name": "Orange GO 900 – إنترنت للخطوط",
+      "category": "إنترنت موبايل للراوتر",
+      "brand": "Orange",
+      "price": 900,
+      "unit": "6 أشهر",
+      "details": "60,000 ميجابايت؛ باقة مخصصة لخطوط الإنترنت فقط.",
+      "merchant": "Orange Egypt",
+      "source": "https://www.orange.eg/ar/internet/internet-lines",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
