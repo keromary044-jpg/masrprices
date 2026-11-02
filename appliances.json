@@ -244,6 +244,28 @@
       "merchant": "Jumia",
       "source": "https://www.jumia.com.eg/",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-fresh-micro20",
+      "name": "ميكروويف فريش 20 لتر 700 وات FMW-20MC-B",
+      "category": "ميكروويف",
+      "brand": "Fresh",
+      "model": "FMW-20MC-B",
+      "price": 3599,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-midea-dishwasher",
+      "name": "غسالة أطباق Midea WiFi MDWPF1333C",
+      "category": "غسالات أطباق",
+      "brand": "Midea",
+      "model": "MDWPF1333C",
+      "price": 15999,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
