@@ -122,6 +122,36 @@
       "merchant": "Carrefour Egypt",
       "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-power-strip",
+      "name": "مشترك كهرباء 1.5 متر",
+      "category": "مشتركات",
+      "brand": "Panda Market",
+      "price": 89.95,
+      "merchant": "Panda Market",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-ilock-socket",
+      "name": "مقبس كهرباء iLock",
+      "category": "مقابس",
+      "brand": "iLock",
+      "price": 219,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-ecolink-bulb",
+      "name": "لمبة Philips LED Ecolink 11 وات – قطعتان",
+      "category": "إضاءة",
+      "brand": "Ecolink",
+      "price": 150,
+      "merchant": "Hyper One",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
