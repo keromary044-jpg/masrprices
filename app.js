@@ -185,6 +185,7 @@
       });
       if(noResults) noResults.hidden=count>0;
       if(phoneCatalog) phoneCatalog.hidden=true;
+      const bookCatalog=document.getElementById("bookCatalog"); if(bookCatalog) bookCatalog.hidden=true;
     });
   }
 
