@@ -269,7 +269,7 @@
     searchInput.setAttribute("autocomplete","off");
     searchInput.addEventListener("input",async()=>{
       const query=normalize(searchInput.value);
-      if(query.length<2){globalSearchBox.hidden=true;globalSearchBox.replaceChildren();cards.forEach(c=>c.hidden=false);if(noResults)noResults.hidden=true;return;}
+      if(query.length<1){globalSearchBox.hidden=true;globalSearchBox.replaceChildren();cards.forEach(c=>c.hidden=false);if(noResults)noResults.hidden=true;return;}
       globalSearchBox.hidden=false;globalSearchBox.replaceChildren(element("p","catalog-footnote","جارٍ البحث في جميع الأقسام..."));
       const datasets=await loadAllSearchData();
       if(normalize(searchInput.value)!==query)return;
@@ -281,7 +281,11 @@
       matches.slice(0,15).forEach(({meta,item})=>{
         const button=element("button","global-search-result");
         button.type="button";
-        button.append(element("strong","",item.name||item.title||"منتج"),element("small","",meta[1]+" · "+(item.price==null?"السعر غير متاح":Number(item.price).toLocaleString("en-US")+" جنيه")));
+        const imageUrl=item.image||item.imageUrl||item.image_url||"";
+        if(/^https?:\\/\\//i.test(imageUrl)){const thumb=element("img","global-search-thumb");thumb.src=imageUrl;thumb.alt="";thumb.loading="lazy";thumb.referrerPolicy="no-referrer";button.append(thumb);}
+        const rawPrice=item.price??item.priceEGP??null;
+        const priceLabel=rawPrice==null?"السعر غير متاح":Number(rawPrice).toLocaleString("en-US")+" جنيه";
+        button.append(element("strong","",item.name||item.title||"منتج"),element("small","",meta[1]+" · "+priceLabel));
         button.addEventListener("click",()=>openSearchResult(meta,item));
         globalSearchBox.append(button);
       });
