@@ -1,0 +1,127 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار منشورة في متاجر مصرية وقت الرصد؛ راجع المتجر لتأكيد السعر والتوافر.",
+  "products": [
+    {
+      "id": "tool-tape3",
+      "name": "متر قياس 3 أمتار",
+      "category": "قياس",
+      "brand": "Carrefour",
+      "price": 74.95,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-wrench",
+      "name": "مفتاح ربط Giza",
+      "category": "عدد يدوية",
+      "brand": "Giza",
+      "price": 70,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-testdriver",
+      "name": "مفك اختبار كهرباء Giza",
+      "category": "عدد يدوية",
+      "brand": "Giza",
+      "price": 50,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-screwdriver-cross",
+      "name": "مفكات صليبة Giza",
+      "category": "عدد يدوية",
+      "brand": "Giza",
+      "price": 65,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-screwdriver-set",
+      "name": "طقم مفكات Elgiza قطعتان",
+      "category": "عدد يدوية",
+      "brand": "Elgiza",
+      "price": 119,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-hammer",
+      "name": "شاكوش Elgiza وزن 500 جرام",
+      "category": "عدد يدوية",
+      "brand": "Elgiza",
+      "price": 249,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-toolbox",
+      "name": "حقيبة عدة Port Ekono مقاس 40 سم",
+      "category": "تخزين عدة",
+      "brand": "Port",
+      "price": 629,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-measure3m",
+      "name": "شريط قياس INGCO طول 3 متر",
+      "category": "قياس",
+      "brand": "INGCO",
+      "price": 60,
+      "merchant": "Alasad Store",
+      "source": "https://www.alasadstore.com/shop/category/tools-2",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-allen",
+      "name": "طقم مفاتيح ألن INGCO عدد 9",
+      "category": "عدد يدوية",
+      "brand": "INGCO",
+      "price": 160,
+      "merchant": "Alasad Store",
+      "source": "https://www.alasadstore.com/shop/category/tools-2",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-screwdrivers",
+      "name": "طقم مفكات Bosch عدد 3",
+      "category": "عدد يدوية",
+      "brand": "Bosch",
+      "price": 399,
+      "merchant": "Shabana Stores",
+      "source": "https://www.shabanastores.com/en/product-category/tools/hand-tools/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-bitset",
+      "name": "طقم رؤوس مفكات Bosch عدد 32",
+      "category": "ملحقات يدوية",
+      "brand": "Bosch",
+      "price": 598,
+      "merchant": "Shabana Stores",
+      "source": "https://www.shabanastores.com/en/product-category/tools/hand-tools/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-level",
+      "name": "ميزان استواء TRIXIG",
+      "category": "قياس",
+      "brand": "IKEA",
+      "price": 999,
+      "merchant": "IKEA Egypt",
+      "source": "https://www.ikea.com/eg/en/cat/tools-16293/",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
