@@ -1,0 +1,127 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار منشورة لدى كارفور مصر وقت الرصد؛ راجع المواصفات والتوافق مع فني مختص.",
+  "products": [
+    {
+      "id": "elec-led-elsewedy",
+      "name": "لمبة ليد السويدي E14 شمعة 6 وات – 4 قطع",
+      "category": "إضاءة",
+      "brand": "Elsewedy",
+      "price": 209,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-led-eveready",
+      "name": "لمبة ليد Eveready 9 وات أبيض دافئ",
+      "category": "إضاءة",
+      "brand": "Eveready",
+      "price": 85,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-led-philips",
+      "name": "لمبات Philips Essential LED 14 وات – قطعتان",
+      "category": "إضاءة",
+      "brand": "Philips",
+      "price": 269,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-tape",
+      "name": "شريط عزل كهربائي 10 متر",
+      "category": "مستلزمات كهرباء",
+      "brand": "غير محدد",
+      "price": 20,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-multisocket3",
+      "name": "مشترك كهرباء Elios Premio – 3 مخارج",
+      "category": "مشتركات ومقابس",
+      "brand": "Elios",
+      "price": 379,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-multisocket5",
+      "name": "مشترك كهرباء Elios Premio – 5 مخارج",
+      "category": "مشتركات ومقابس",
+      "brand": "Elios",
+      "price": 449,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-plug",
+      "name": "فيشة Elios Schuko 16 أمبير",
+      "category": "مشتركات ومقابس",
+      "brand": "Elios",
+      "price": 45,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-philips-9w",
+      "name": "لمبات Philips E27 LED 9 وات – 4 قطع",
+      "category": "إضاءة",
+      "brand": "Philips",
+      "price": 210,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-bulb3",
+      "name": "لمبات LED 15 وات – 3 قطع",
+      "category": "إضاءة",
+      "brand": "غير محدد",
+      "price": 260,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-multisocket6usb",
+      "name": "مشترك Elios بستة مخارج وUSB",
+      "category": "مشتركات ومقابس",
+      "brand": "Elios",
+      "price": 959,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-adapter",
+      "name": "محول Elios Type F إلى Type G",
+      "category": "مشتركات ومقابس",
+      "brand": "Elios",
+      "price": 139,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elec-plug-replacement",
+      "name": "فيشة بديلة 10 أمبير",
+      "category": "مشتركات ومقابس",
+      "brand": "غير محدد",
+      "price": 25,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30789",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
