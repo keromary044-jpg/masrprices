@@ -282,7 +282,7 @@
         const button=element("button","global-search-result");
         button.type="button";
         const imageUrl=item.image||item.imageUrl||item.image_url||"";
-        if(/^https?:\\/\\//i.test(imageUrl)){const thumb=element("img","global-search-thumb");thumb.src=imageUrl;thumb.alt="";thumb.loading="lazy";thumb.referrerPolicy="no-referrer";button.append(thumb);}
+        if(imageUrl.startsWith("https://")||imageUrl.startsWith("http://")){const thumb=element("img","global-search-thumb");thumb.src=imageUrl;thumb.alt="";thumb.loading="lazy";thumb.referrerPolicy="no-referrer";button.append(thumb);}
         const rawPrice=item.price??item.priceEGP??null;
         const priceLabel=rawPrice==null?"السعر غير متاح":Number(rawPrice).toLocaleString("en-US")+" جنيه";
         button.append(element("strong","",item.name||item.title||"منتج"),element("small","",meta[1]+" · "+priceLabel));
