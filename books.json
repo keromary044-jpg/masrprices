@@ -1,0 +1,157 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار رصدت من صفحات المتاجر في 2 نوفمبر 2026؛ قد تتغير حسب الطبعة والتوافر والشحن.",
+  "products": [
+    {
+      "id": "ahram-politics",
+      "title": "السياسة الخارجية الأمريكية",
+      "author": "",
+      "category": "سياسة وتاريخ",
+      "price": 45,
+      "merchant": "الأهرام ستور",
+      "source": "https://store.ahram.org.eg/ar/Home/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "ahram-heykl",
+      "title": "هيكل.. لمحات إنسانية",
+      "author": "",
+      "category": "سيرة وفكر",
+      "price": 63,
+      "merchant": "الأهرام ستور",
+      "source": "https://store.ahram.org.eg/ar/Home/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "ahram-life",
+      "title": "لقطات من العمر",
+      "author": "",
+      "category": "سيرة وفكر",
+      "price": 72,
+      "merchant": "الأهرام ستور",
+      "source": "https://store.ahram.org.eg/ar/Home/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "ahram-journey",
+      "title": "رحلة إلى جهنم",
+      "author": "",
+      "category": "أدب وروايات",
+      "price": 67.5,
+      "merchant": "الأهرام ستور",
+      "source": "https://store.ahram.org.eg/ar/Home/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "ahram-may",
+      "title": "مي زيادة",
+      "author": "",
+      "category": "سيرة وفكر",
+      "price": 144,
+      "merchant": "الأهرام ستور",
+      "source": "https://store.ahram.org.eg/ar/Home/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "insan-sherlock-bohemia",
+      "title": "مغامرات شارلوك هولمز: فضيحة في بوهيميا",
+      "author": "آرثر كونان دويل",
+      "category": "غموض وتحقيق",
+      "price": 190,
+      "merchant": "مكتبات إنسان",
+      "source": "https://insancenter.org/shop/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "insan-blue-carbuncle",
+      "title": "مغامرات شارلوك هولمز: الجوهرة الزرقاء",
+      "author": "آرثر كونان دويل",
+      "category": "غموض وتحقيق",
+      "price": 170,
+      "merchant": "مكتبات إنسان",
+      "source": "https://insancenter.org/shop/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "insan-dracula",
+      "title": "ضيف دراكولا",
+      "author": "",
+      "category": "رعب",
+      "price": 170,
+      "merchant": "مكتبات إنسان",
+      "source": "https://insancenter.org/shop/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "insan-horse-boy",
+      "title": "الحصان والصبي",
+      "author": "C. S. Lewis",
+      "category": "أطفال وفانتازيا",
+      "price": 170,
+      "merchant": "مكتبات إنسان",
+      "source": "https://insancenter.org/shop/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "insan-silver-chair",
+      "title": "الكرسي الفضي",
+      "author": "C. S. Lewis",
+      "category": "أطفال وفانتازيا",
+      "price": 210,
+      "merchant": "مكتبات إنسان",
+      "source": "https://insancenter.org/shop/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "kotobzone-happiness",
+      "title": "للسعادة وجوه أخرى",
+      "author": "هدى السبكي",
+      "category": "أدب وروايات",
+      "price": 600,
+      "merchant": "كتب زون",
+      "source": "https://www.kotobzone.com/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "kotobzone-microphone",
+      "title": "ميكروفون كاتم صوت",
+      "author": "محمد طرزي",
+      "category": "أدب وروايات",
+      "price": 260,
+      "merchant": "كتب زون",
+      "source": "https://www.kotobzone.com/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "kotobzone-last-cassette",
+      "title": "آخر شريط كاسيت في مصر",
+      "author": "عمر طاهر",
+      "category": "أدب وروايات",
+      "price": 270,
+      "merchant": "كتب زون",
+      "source": "https://www.kotobzone.com/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "kotobzone-returns",
+      "title": "عودة التمائم",
+      "author": "نور عبد المجيد",
+      "category": "أدب وروايات",
+      "price": 275,
+      "merchant": "كتب زون",
+      "source": "https://www.kotobzone.com/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "kotobzone-sunrise",
+      "title": "Sunrise on the Reaping",
+      "author": "Suzanne Collins",
+      "category": "كتب إنجليزية",
+      "price": 1825,
+      "merchant": "كتب زون",
+      "source": "https://www.kotobzone.com/",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
