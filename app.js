@@ -167,7 +167,7 @@
       if (groceryCatalog) groceryCatalog.hidden=true;
       const stationeryCatalog=document.getElementById("stationeryCatalog");
       if (stationeryCatalog) stationeryCatalog.hidden=true;
-      ["clothingCatalog","furnitureCatalog","personalCareCatalog","sportsCatalog"].forEach(id=>{const node=document.getElementById(id);if(node)node.hidden=true;});
+      ["clothingCatalog","furnitureCatalog","personalCareCatalog","sportsCatalog","electricalCatalog","toolsCatalog"].forEach(id=>{const node=document.getElementById(id);if(node)node.hidden=true;});
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
@@ -190,6 +190,8 @@
         else if(title.includes("الأثاث")||title.includes("المفروشات")){panel.hidden=true;const n=document.getElementById("furnitureCatalog");if(n){n.hidden=false;loadSimpleCatalog("furniture");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("العناية")||title.includes("التجميل")){panel.hidden=true;const n=document.getElementById("personalCareCatalog");if(n){n.hidden=false;loadGenericCatalog("personalCare");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الرياضة")||title.includes("الترفيه")){panel.hidden=true;const n=document.getElementById("sportsCatalog");if(n){n.hidden=false;loadGenericCatalog("sports");n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("الكهرباء")||title.includes("السباكة")){panel.hidden=true;const n=document.getElementById("electricalCatalog");if(n){n.hidden=false;loadGenericCatalog("electrical");n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("الأدوات")||title.includes("المعدات")){panel.hidden=true;const n=document.getElementById("toolsCatalog");if(n){n.hidden=false;loadGenericCatalog("tools");n.scrollIntoView({behavior:"smooth",block:"start"});}}
       }
     });
     card.addEventListener("keydown",event => {
@@ -484,7 +486,7 @@
   }
   Object.entries(simpleCatalogs).forEach(([key,cfg])=>[cfg.search,cfg.category,cfg.sort].forEach(id=>document.getElementById(id).addEventListener(id===cfg.search?"input":"change",()=>renderSimpleCatalog(key))));
 
-  const genericCatalogs={personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"}};
+  const genericCatalogs={personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"}};
   const genericData={};
   function renderGenericCatalog(key){
     const cfg=genericCatalogs[key],data=genericData[key];if(!data)return;
