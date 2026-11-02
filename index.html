@@ -53,7 +53,7 @@
         <a class="category-card" href="#markets" data-search="حديد أسمنت طوب رمل">🏗️ <strong>مواد البناء</strong></a>
         <a class="category-card" href="#markets" data-search="أدوية مستلزمات طبية">💊 <strong>الأدوية والصحة</strong></a>
         <a class="category-card" href="#markets" data-search="أجهزة كهربائية منزلية">🏠 <strong>الأجهزة المنزلية</strong></a>
-        <a class="category-card" href="#markets" data-search="سيارات قطع غيار">🚗 <strong>السيارات وقطع الغيار</strong></a>
+        <a class="category-card" href="#markets" data-search="سيارات">🚗 <strong>السيارات وقطع الغيار</strong></a>
         <a class="category-card" href="#markets" data-search="طعام بقالة غذاء">🛒 <strong>الطعام والبقالة</strong></a>
         <a class="category-card" href="#markets" data-search="ملابس أحذية شنط">👕 <strong>الملابس والأحذية</strong></a>
         <a class="category-card" href="#markets" data-search="أدوات مدرسية مكتبية">✏️ <strong>الأدوات المدرسية</strong></a>
@@ -61,7 +61,7 @@
         <a class="category-card" href="#markets" data-search="تجميل عناية شخصية">🧴 <strong>التجميل والعناية</strong></a>
         <a class="category-card" href="#markets" data-search="كهرباء سباكة">🔌 <strong>الكهرباء والسباكة</strong></a>
         <a class="category-card" href="#markets" data-search="رياضة أدوات رياضية">⚽ <strong>الرياضة والترفيه</strong></a>
-        <a class="category-card" href="#markets" data-search="خدمات اتصالات إنترنت">📡 <strong>الخدمات والاتصالات</strong></a>
+        <a class="category-card" href="#servicesCatalog" data-search="خدمات عامة حكومية اتصالات إنترنت">📡 <strong>الخدمات والاتصالات</strong></a>
         <a class="category-card" href="#markets" data-search="ذهب عيار 24 21 18">🥇 <strong>أسعار الذهب</strong></a>
         <a class="category-card" href="#markets" data-search="فضة">🥈 <strong>أسعار الفضة</strong></a>
         <a class="category-card" href="#markets" data-search="دولار يورو عملات">💵 <strong>العملات الأجنبية</strong></a>
@@ -164,7 +164,19 @@
 <section class="container section" id="stocksCatalog" hidden><h2>البورصة والأسهم – معلومات تاريخية</h2><p>أسعار تاريخية مؤرخة للتعريف بالسوق فقط، وليست توصيات استثمارية أو بيانات لحظية.</p><div class="book-tools"><input id="stocksCatalogSearch" type="search" placeholder="ابحث بالاسم أو الرمز..." aria-label="البحث"><select id="stocksCatalogCategory" aria-label="تصفية الفئة"><option value="">كل الفئات</option></select><select id="stocksCatalogSort" aria-label="الترتيب"><option value="name">الاسم أبجديًا</option><option value="price">السعر من الأقل</option></select></div><p id="stocksCatalogCount" class="catalog-footnote"></p><div id="stocksCatalogProducts" class="book-grid" aria-live="polite">جارٍ التحميل...</div></section>
 
 <section class="container section" id="electronicsCatalog" hidden><h2>الإلكترونيات والملحقات</h2><p>سماعات وراوترات وباور بانك وملحقات كمبيوتر بأسعار مرصودة من متاجر مصرية.</p><div class="book-tools"><input id="electronicsCatalogSearch" type="search" placeholder="ابحث بالاسم أو الماركة..." aria-label="البحث"><select id="electronicsCatalogCategory" aria-label="تصفية الفئة"><option value="">كل الفئات</option></select><select id="electronicsCatalogSort" aria-label="الترتيب"><option value="name">الاسم أبجديًا</option><option value="price">السعر من الأقل</option></select></div><p id="electronicsCatalogCount" class="catalog-footnote"></p><div id="electronicsCatalogProducts" class="book-grid" aria-live="polite">جارٍ التحميل...</div></section>
-    <section class="market-section" id="markets">
+        <section class="container section" id="sparePartsCatalog" hidden>
+      <h2>قطع غيار السيارات</h2>
+      <p>دليل أولي لفئات قطع الغيار. الأسعار غير منشورة أو غير متحقق منها؛ تأكد من توافق القطعة مع موديل السيارة ورقمها قبل الشراء.</p>
+      <div class="phone-tools"><input id="sparePartsCatalogSearch" type="search" placeholder="ابحث عن قطعة غيار..." aria-label="البحث في قطع الغيار"><select id="sparePartsCatalogCategory" aria-label="تصفية حسب نوع القطعة"><option value="">كل الأنواع</option></select><select id="sparePartsCatalogSort" aria-label="ترتيب القطع"><option value="name">الاسم</option><option value="price">السعر</option></select></div>
+      <p id="sparePartsCatalogCount" class="catalog-footnote"></p><div id="sparePartsCatalogProducts" class="phone-grid"></div>
+    </section>
+    <section class="container section" id="servicesCatalog" hidden>
+      <h2>الخدمات العامة والحكومية</h2>
+      <p>دليل روابط لخدمات منشورة على بوابة وزارة المالية. لا نعرض رسومًا إلا بعد التحقق من الجهة الرسمية.</p>
+      <div class="phone-tools"><input id="servicesCatalogSearch" type="search" placeholder="ابحث عن خدمة..." aria-label="البحث في الخدمات"><select id="servicesCatalogCategory" aria-label="تصفية حسب نوع الخدمة"><option value="">كل الخدمات</option></select><select id="servicesCatalogSort" aria-label="ترتيب الخدمات"><option value="name">الاسم</option><option value="price">السعر</option></select></div>
+      <p id="servicesCatalogCount" class="catalog-footnote"></p><div id="servicesCatalogProducts" class="phone-grid"></div>
+    </section>
+<section class="market-section" id="markets">
       <div class="container section">
         <h2>الأسواق المالية</h2>
         <div class="market-grid">
