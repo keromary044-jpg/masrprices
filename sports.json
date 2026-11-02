@@ -93,6 +93,26 @@
       "merchant": "Decathlon Egypt",
       "source": "https://www.decathlon.eg/en/4913-balls",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-light-learning",
+      "name": "كرة قدم KIPSTA Light Learning مقاس 5",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 749,
+      "merchant": "Decathlon",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-fans-ligue1",
+      "name": "كرة KIPSTA Fans Ball Ligue 1 مقاس 5",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 899,
+      "merchant": "Decathlon",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
