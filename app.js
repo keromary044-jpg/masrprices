@@ -165,6 +165,8 @@
       if (applianceCatalog) applianceCatalog.hidden=true;
       const groceryCatalog=document.getElementById("groceryCatalog");
       if (groceryCatalog) groceryCatalog.hidden=true;
+      const stationeryCatalog=document.getElementById("stationeryCatalog");
+      if (stationeryCatalog) stationeryCatalog.hidden=true;
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
@@ -182,6 +184,7 @@
         else if (title.includes("السيارات")) { panel.hidden=true; if(carCatalog){carCatalog.hidden=false;carCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if (title.includes("الأجهزة المنزلية")) { panel.hidden=true; if(applianceCatalog){applianceCatalog.hidden=false;loadAppliances();applianceCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if (title.includes("البقالة") || title.includes("مواد غذائية")) { panel.hidden=true; if(groceryCatalog){groceryCatalog.hidden=false;loadGroceries();groceryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
+        else if (title.includes("الأدوات المدرسية")) { panel.hidden=true; if(stationeryCatalog){stationeryCatalog.hidden=false;loadStationery();stationeryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
       }
     });
     card.addEventListener("keydown",event => {
@@ -418,3 +421,37 @@
     }catch(e){root.textContent="تعذر تحميل أسعار البقالة حاليًا.";}
   }
   ["grocerySearch","groceryCategory","grocerySort"].forEach(id=>{const el=document.getElementById(id);if(el)el.addEventListener(id==="grocerySearch"?"input":"change",()=>{if(groceryData)renderGroceries(groceryData);});});
+
+  let stationeryData=null;
+  function renderStationery(data){
+    const root=document.getElementById("stationeryProducts");if(!root)return;
+    const q=normalize(document.getElementById("stationerySearch")?.value||"");
+    const cat=document.getElementById("stationeryCategory")?.value||"";
+    const sort=document.getElementById("stationerySort")?.value||"name";
+    const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.category,x.unit].join(" ")).includes(q)));
+    rows.sort((a,b)=>sort==="price"?a.priceFrom-b.priceFrom:a.name.localeCompare(b.name,"ar"));
+    root.replaceChildren();
+    rows.forEach(x=>{
+      const card=element("article","book-card");
+      card.append(element("span","book-category",x.category));
+      card.append(element("h3","",x.name));
+      card.append(element("p","book-price",x.priceFrom===x.priceTo?x.priceFrom.toLocaleString("en-US")+" جنيه":x.priceFrom.toLocaleString("en-US")+"–"+x.priceTo.toLocaleString("en-US")+" جنيه"));
+      card.append(element("p","book-store","الوحدة: "+x.unit));
+      card.append(element("small","book-date","آخر رصد: "+x.checkedAt+" · نطاق تقريبي منشور"));
+      const link=element("a","book-source","مصدر نطاق السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
+      root.append(card);
+    });
+    const count=document.getElementById("stationeryCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" مستلزمًا";
+    if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
+  }
+  async function loadStationery(){
+    const root=document.getElementById("stationeryProducts");if(!root||stationeryData)return;
+    try{
+      const res=await fetch("./stationery.json",{cache:"no-cache"});if(!res.ok)throw new Error();
+      stationeryData=await res.json();
+      const sel=document.getElementById("stationeryCategory");
+      [...new Set(stationeryData.products.map(x=>x.category))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});
+      renderStationery(stationeryData);
+    }catch(e){root.textContent="تعذر تحميل أسعار الأدوات المدرسية حاليًا.";}
+  }
+  ["stationerySearch","stationeryCategory","stationerySort"].forEach(id=>{const el=document.getElementById(id);if(el)el.addEventListener(id==="stationerySearch"?"input":"change",()=>{if(stationeryData)renderStationery(stationeryData);});});
