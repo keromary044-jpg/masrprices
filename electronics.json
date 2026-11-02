@@ -262,6 +262,86 @@
       "merchant": "Carrefour Egypt",
       "source": "https://www.carrefouregypt.com/mafegy/en",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-lenovo-mouse400",
+      "name": "ماوس لاسلكي Lenovo 400 Wireless Mouse",
+      "category": "ملحقات الكمبيوتر",
+      "brand": "Lenovo",
+      "price": 599,
+      "merchant": "Amazon.eg",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-dell-wm126",
+      "name": "ماوس لاسلكي Dell WM126",
+      "category": "ملحقات الكمبيوتر",
+      "brand": "Dell",
+      "price": 645,
+      "merchant": "Amazon.eg",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-logitech-mk120",
+      "name": "طقم Logitech MK120 لوحة مفاتيح وماوس سلكي",
+      "category": "لوحات مفاتيح وماوس",
+      "brand": "Logitech",
+      "price": 670,
+      "merchant": "Dream 2000",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-logitech-mk220",
+      "name": "طقم Logitech MK220 لاسلكي",
+      "category": "لوحات مفاتيح وماوس",
+      "brand": "Logitech",
+      "price": 999,
+      "merchant": "Raneen",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-hyperx-cloud-mini",
+      "name": "سماعة ألعاب HyperX Cloud Mini",
+      "category": "سماعات",
+      "brand": "HyperX",
+      "price": 1550,
+      "merchant": "Dream 2000",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-hyperx-stinger2",
+      "name": "سماعة ألعاب HyperX Cloud Stinger 2 Core",
+      "category": "سماعات",
+      "brand": "HyperX",
+      "price": 2450,
+      "merchant": "Dream 2000",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-baseus-hub5",
+      "name": "موزع USB Baseus UltraJoy بخمسة منافذ",
+      "category": "ملحقات الكمبيوتر",
+      "brand": "Baseus",
+      "price": 1475,
+      "merchant": "Dream 2000",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-lenovo-webcam",
+      "name": "كاميرا ويب Lenovo HD",
+      "category": "كاميرات ويب",
+      "brand": "Lenovo",
+      "price": 2499,
+      "merchant": "2B",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
