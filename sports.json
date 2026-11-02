@@ -1,0 +1,98 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار معروضة على موقع Decathlon Egypt وقت الرصد وقد تختلف حسب التوافر.",
+  "source": "https://www.decathlon.eg/en/4913-balls",
+  "products": [
+    {
+      "id": "sport-ball-kids3",
+      "name": "كرة قدم KIPSTA للأطفال مقاس 3",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 379,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-kids4",
+      "name": "كرة قدم KIPSTA للأطفال مقاس 4",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 379,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-kids5",
+      "name": "كرة قدم KIPSTA للأطفال مقاس 5",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 399,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-training5",
+      "name": "كرة قدم تدريب KIPSTA مقاس 5 مخيطة آليًا",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 749,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-sunny300",
+      "name": "كرة قدم KIPSTA Sunny 300 مقاس 4",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 319,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-fifa-match",
+      "name": "كرة قدم KIPSTA Match مقاس 5 FIFA Quality",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 1899,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-fifa-basic",
+      "name": "كرة قدم KIPSTA FIFA Basic Hybrid مقاس 5",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 1199,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-learning",
+      "name": "كرة قدم KIPSTA Light Learning مقاس 5",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 749,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "sport-ball-mini",
+      "name": "كرة مصغرة KIPSTA UEFA Europa League 25/26 مقاس 5",
+      "category": "كرات قدم",
+      "brand": "KIPSTA",
+      "price": 1899,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4913-balls",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
