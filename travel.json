@@ -90,6 +90,116 @@
       "details": "معلومات الزيارة والتنقل من البوابة السياحية الرسمية.",
       "source": "https://www.experienceegypt.eg/en/home",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-kom-el-dikka",
+      "name": "كوم الدكة الأثري",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: الإسكندرية. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-qubbat-al-hawa",
+      "name": "مقابر قبة الهواء",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: أسوان. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-elephantine",
+      "name": "جزيرة إلفنتين",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: أسوان. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-el-kab",
+      "name": "الكاب الأثرية",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: أسوان. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-al-bahnasa",
+      "name": "آثار البهنسا",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: المنيا. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-graeco-roman",
+      "name": "المتحف اليوناني الروماني",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: الإسكندرية. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/museums/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-suez-museum",
+      "name": "المتحف القومي بالسويس",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: السويس. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/museums/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-military-museum",
+      "name": "المتحف الحربي القومي",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: القاهرة. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/museums/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-nubia",
+      "name": "متحف النوبة",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: أسوان. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/museums/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-crocodile",
+      "name": "متحف التمساح",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة الآثار الرسمية",
+      "details": "الموقع: أسوان. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
+      "source": "https://egymonuments.gov.eg/museums/",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
