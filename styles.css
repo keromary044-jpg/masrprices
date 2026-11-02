@@ -104,3 +104,27 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
  .category-card{min-height:104px;padding:12px 8px;border-radius:15px}
  #globalSearchResults{max-height:58vh;border-radius:15px}
 }
+
+
+/* Professional multi-store price comparison */
+.offer-comparison{margin-top:16px;padding:14px;border:1px solid #dce5ef;border-radius:16px;background:#fbfdff}
+.offer-comparison-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:12px;color:#102b50}
+.offer-comparison-head strong{font-size:1rem}
+.offer-count,.offer-disclaimer{font-size:.75rem;color:#64748b}
+.best-offer{display:grid;grid-template-columns:1fr auto;gap:3px 12px;padding:12px;border-radius:12px;background:#eaf5ef;border:1px solid #cfe8d8}
+.best-label{font-size:.75rem;color:#276749;font-weight:700}
+.best-price{grid-column:2;grid-row:1/3;align-self:center;color:#17633d;font-size:1.2rem}
+.best-store{font-size:.88rem;color:#24543a}
+.offer-list{display:grid;gap:8px;margin-top:10px}
+.offer-row{display:grid;grid-template-columns:28px minmax(0,1fr) auto;align-items:center;gap:9px;padding:10px;border:1px solid #e5ebf2;border-radius:12px;background:#fff}
+.offer-row.is-best{border-color:#9bc9aa}
+.offer-rank{display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:#edf2f7;color:#42546a;font-size:.78rem;font-weight:800}
+.offer-main{display:grid;min-width:0;gap:3px}
+.offer-merchant{font-size:.88rem;color:#172b43}
+.offer-variant{font-size:.72rem;color:#718096;line-height:1.5}
+.offer-side{display:grid;justify-items:end;gap:4px}
+.offer-price{font-size:.9rem;color:#102b50;white-space:nowrap}
+.offer-link{font-size:.75rem;color:#1d5e9b;text-decoration:underline}
+.offer-savings{margin:10px 0 4px;font-size:.8rem;font-weight:700;color:#102b50}
+.offer-disclaimer{display:block;margin-top:10px;line-height:1.7}
+@media(max-width:420px){.offer-comparison{padding:10px}.offer-row{grid-template-columns:24px minmax(0,1fr) auto;gap:6px;padding:8px}.offer-price{font-size:.82rem}.offer-variant{font-size:.68rem}}
