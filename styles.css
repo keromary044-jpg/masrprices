@@ -45,3 +45,5 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .book-stepper label{display:flex;flex-direction:column;gap:6px;color:var(--navy);font-weight:700}
 .book-stepper select{width:100%;min-height:50px;border:1px solid var(--line);border-radius:11px;background:#fff;padding:9px 12px;font:inherit;color:var(--ink)}
 .book-stepper select:focus{outline:3px solid #527eae30;border-color:#527eae}
+
+.appliance-catalog .book-card{min-width:0}.appliance-catalog .book-price{font-weight:800}
