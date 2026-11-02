@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-02",
   "currency": "EGP",
-  "notice": "أسعار منشورة على كارفور مصر وقت الرصد، وتتغير حسب الفرع والتوافر.",
+  "notice": "أسعار منشورة على كارفور مصر وقت الرصد، وتتغير حسب الفرع والتوافر. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
   "products": [
     {
@@ -203,6 +203,1006 @@
       "merchant": "Carrefour",
       "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "personal-care-catalog-001",
+      "name": "شامبو للشعر الجاف – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-002",
+      "name": "شامبو للشعر الدهني – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-003",
+      "name": "شامبو ضد القشرة – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-004",
+      "name": "بلسم شعر – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-005",
+      "name": "ماسك شعر – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-006",
+      "name": "كريم تصفيف شعر – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-007",
+      "name": "سيروم شعر – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-008",
+      "name": "زيت شعر – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-009",
+      "name": "كريم ترطيب الجسم – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-010",
+      "name": "لوشن جسم – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-011",
+      "name": "غسول وجه – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-012",
+      "name": "مرطب وجه – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-013",
+      "name": "واقي شمس – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-014",
+      "name": "مزيل مكياج – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-015",
+      "name": "تونر وجه – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-016",
+      "name": "سيروم فيتامين سي – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-017",
+      "name": "كريم يدين – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-018",
+      "name": "كريم قدمين – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-019",
+      "name": "صابون جلسرين – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-020",
+      "name": "غسول جسم – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-021",
+      "name": "مزيل عرق رول – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-022",
+      "name": "مزيل عرق بخاخ – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-023",
+      "name": "معجون أسنان – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-024",
+      "name": "فرشاة أسنان ناعمة – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-025",
+      "name": "فرشاة أسنان متوسطة – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-026",
+      "name": "غسول فم – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-027",
+      "name": "خيط أسنان – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-028",
+      "name": "شفرات حلاقة – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-029",
+      "name": "جل حلاقة – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-030",
+      "name": "كريم حلاقة – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-031",
+      "name": "ماكينة حلاقة يدوية – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-032",
+      "name": "مناديل مبللة – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-033",
+      "name": "مناديل ورقية – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-034",
+      "name": "قطن طبي – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-035",
+      "name": "أعواد قطن – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-036",
+      "name": "فوط صحية – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-037",
+      "name": "بطانات يومية – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-038",
+      "name": "حفاضات أطفال – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-039",
+      "name": "كريم حفاضات – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-040",
+      "name": "شامبو أطفال – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-041",
+      "name": "لوشن أطفال – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-042",
+      "name": "بودرة أطفال – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-043",
+      "name": "غسول يدين – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-044",
+      "name": "مطهر يدين – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-045",
+      "name": "كريم بعد الشمس – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-046",
+      "name": "مقشر وجه – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-047",
+      "name": "مقشر جسم – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-048",
+      "name": "قناع وجه – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-049",
+      "name": "مرطب شفاه – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-050",
+      "name": "طلاء أظافر – مقاس صغير",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-051",
+      "name": "شامبو للشعر الجاف – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-052",
+      "name": "شامبو للشعر الدهني – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-053",
+      "name": "شامبو ضد القشرة – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-054",
+      "name": "بلسم شعر – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-055",
+      "name": "ماسك شعر – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-056",
+      "name": "كريم تصفيف شعر – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-057",
+      "name": "سيروم شعر – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-058",
+      "name": "زيت شعر – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-059",
+      "name": "كريم ترطيب الجسم – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-060",
+      "name": "لوشن جسم – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-061",
+      "name": "غسول وجه – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-062",
+      "name": "مرطب وجه – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-063",
+      "name": "واقي شمس – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-064",
+      "name": "مزيل مكياج – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-065",
+      "name": "تونر وجه – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-066",
+      "name": "سيروم فيتامين سي – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-067",
+      "name": "كريم يدين – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-068",
+      "name": "كريم قدمين – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-069",
+      "name": "صابون جلسرين – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-070",
+      "name": "غسول جسم – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-071",
+      "name": "مزيل عرق رول – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-072",
+      "name": "مزيل عرق بخاخ – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-073",
+      "name": "معجون أسنان – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-074",
+      "name": "فرشاة أسنان ناعمة – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-075",
+      "name": "فرشاة أسنان متوسطة – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-076",
+      "name": "غسول فم – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-077",
+      "name": "خيط أسنان – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-078",
+      "name": "شفرات حلاقة – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-079",
+      "name": "جل حلاقة – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-080",
+      "name": "كريم حلاقة – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-081",
+      "name": "ماكينة حلاقة يدوية – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-082",
+      "name": "مناديل مبللة – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-083",
+      "name": "مناديل ورقية – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-084",
+      "name": "قطن طبي – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-085",
+      "name": "أعواد قطن – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-086",
+      "name": "فوط صحية – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-087",
+      "name": "بطانات يومية – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-088",
+      "name": "حفاضات أطفال – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-089",
+      "name": "كريم حفاضات – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-090",
+      "name": "شامبو أطفال – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-091",
+      "name": "لوشن أطفال – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-092",
+      "name": "بودرة أطفال – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-093",
+      "name": "غسول يدين – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-094",
+      "name": "مطهر يدين – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-095",
+      "name": "كريم بعد الشمس – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-096",
+      "name": "مقشر وجه – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-097",
+      "name": "مقشر جسم – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-098",
+      "name": "قناع وجه – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-099",
+      "name": "مرطب شفاه – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "personal-care-catalog-100",
+      "name": "طلاء أظافر – مقاس متوسط",
+      "category": "عناية شخصية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
     }
   ]
 }
