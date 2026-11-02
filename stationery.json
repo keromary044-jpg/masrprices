@@ -1,0 +1,127 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "نطاقات أسعار منشورة في تقارير صحفية عن السوق المصري ومعارض أهلا مدارس خلال 2026؛ ليست أسعار متجر واحد وقد تختلف حسب الجودة والمكان.",
+  "products": [
+    {
+      "id": "stationery-notebook-28",
+      "name": "كراسة عادية 28 ورقة",
+      "category": "كراسات وكشاكيل",
+      "unit": "للكراسة",
+      "priceFrom": 8,
+      "priceTo": 10,
+      "source": "https://www.almasryalyoum.com/news/details/4340917",
+      "checkedAt": "2026-08-19"
+    },
+    {
+      "id": "stationery-notebook-60",
+      "name": "كشكول 60 ورقة",
+      "category": "كراسات وكشاكيل",
+      "unit": "للكشكول",
+      "priceFrom": 11,
+      "priceTo": 15,
+      "source": "https://www.almasryalyoum.com/news/details/4340917",
+      "checkedAt": "2026-08-19"
+    },
+    {
+      "id": "stationery-notebook-80",
+      "name": "كشكول 80 ورقة",
+      "category": "كراسات وكشاكيل",
+      "unit": "للكشكول",
+      "priceFrom": 13,
+      "priceTo": 18,
+      "source": "https://www.almasryalyoum.com/news/details/4340917",
+      "checkedAt": "2026-08-19"
+    },
+    {
+      "id": "stationery-notebook-100",
+      "name": "كشكول سلك 100 ورقة",
+      "category": "كراسات وكشاكيل",
+      "unit": "للكشكول",
+      "priceFrom": 20,
+      "priceTo": 55,
+      "source": "https://www.elwatannews.com/news/details/8356738",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "stationery-pencil-dozen",
+      "name": "دستة أقلام رصاص اقتصادية",
+      "category": "أقلام وألوان",
+      "unit": "12 قلمًا",
+      "priceFrom": 12,
+      "priceTo": 35,
+      "source": "https://www.elwatannews.com/news/details/8356738",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "stationery-pens-dozen",
+      "name": "دستة أقلام جاف شعبية",
+      "category": "أقلام وألوان",
+      "unit": "12 قلمًا",
+      "priceFrom": 30,
+      "priceTo": 30,
+      "source": "https://www.elwatannews.com/news/details/8356738",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "stationery-colors",
+      "name": "علبة ألوان",
+      "category": "أقلام وألوان",
+      "unit": "للعلبة حسب النوع",
+      "priceFrom": 15,
+      "priceTo": 150,
+      "source": "https://www.elwatannews.com/news/details/8356738",
+      "checkedAt": "2026-09-12"
+    },
+    {
+      "id": "stationery-backpack-primary",
+      "name": "شنطة مدرسية للمرحلة الابتدائية",
+      "category": "شنط ومقالم",
+      "unit": "للشنطة",
+      "priceFrom": 150,
+      "priceTo": 250,
+      "source": "https://www.youm7.com/story/2026/9/6/7536087",
+      "checkedAt": "2026-09-06"
+    },
+    {
+      "id": "stationery-backpack-prep-secondary",
+      "name": "شنطة مدرسية للإعدادي والثانوي",
+      "category": "شنط ومقالم",
+      "unit": "للشنطة",
+      "priceFrom": 250,
+      "priceTo": 500,
+      "source": "https://www.youm7.com/story/2026/9/6/7536087",
+      "checkedAt": "2026-09-06"
+    },
+    {
+      "id": "stationery-pencilcase",
+      "name": "مقلمة قماش محلية",
+      "category": "شنط ومقالم",
+      "unit": "للمقلمة",
+      "priceFrom": 20,
+      "priceTo": 100,
+      "source": "https://www.elwatannews.com/news/details/8346704",
+      "checkedAt": "2026-08-26"
+    },
+    {
+      "id": "stationery-lunchbox",
+      "name": "لانش بوكس",
+      "category": "مستلزمات طعام وشراب",
+      "unit": "للقطعة",
+      "priceFrom": 80,
+      "priceTo": 450,
+      "source": "https://www.almasryalyoum.com/news/details/4340917",
+      "checkedAt": "2026-08-19"
+    },
+    {
+      "id": "stationery-waterbottle",
+      "name": "زجاجة مياه مدرسية",
+      "category": "مستلزمات طعام وشراب",
+      "unit": "للزجاجة",
+      "priceFrom": 30,
+      "priceTo": 250,
+      "source": "https://www.almasryalyoum.com/news/details/4340917",
+      "checkedAt": "2026-08-19"
+    }
+  ]
+}
