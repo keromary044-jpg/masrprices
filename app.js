@@ -196,8 +196,9 @@
     if(!container) return;
     const query=normalize(document.getElementById("bookSearch")?.value || "");
     const category=document.getElementById("bookCategory")?.value || "";
+    const grade=document.getElementById("bookGrade")?.value || "";
     const sort=document.getElementById("bookSort")?.value || "name";
-    const items=data.products.filter(book=>(!category || book.category===category) && (!query || normalize([book.title,book.author,book.category,book.merchant].join(" ")).includes(query)));
+    const items=data.products.filter(book=>(!category || book.category===category) && (!grade || book.grade===grade) && (!query || normalize([book.title,book.author,book.category,book.merchant,book.grade,book.subject,book.series].join(" ")).includes(query)));
     items.sort((a,b)=>sort==="price" ? a.price-b.price : a.title.localeCompare(b.title,"ar"));
     container.replaceChildren();
     items.forEach(book=>{
@@ -226,6 +227,8 @@
       if(!response.ok) throw new Error("books data unavailable");
       bookData=await response.json();
       const select=document.getElementById("bookCategory");
+      const gradeSelect=document.getElementById("bookGrade");
+      [...new Set(bookData.products.map(book=>book.grade).filter(Boolean))].sort().forEach(grade=>{const option=element("option","",grade);option.value=grade;gradeSelect.append(option);});
       [...new Set(bookData.products.map(book=>book.category))].sort().forEach(category=>{
         const option=element("option","",category);option.value=category;select.append(option);
       });
@@ -235,7 +238,7 @@
       console.error(error);
     }
   }
-  ["bookSearch","bookCategory","bookSort"].forEach(id=>{
+  ["bookSearch","bookCategory","bookGrade","bookSort"].forEach(id=>{
     const control=document.getElementById(id);
     if(control) control.addEventListener(id==="bookSearch"?"input":"change",()=>{if(bookData)renderBooks(bookData);});
   });
