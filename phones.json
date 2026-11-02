@@ -134,22 +134,16 @@
     {
       "id": "samsung-a17-256",
       "name": "Samsung Galaxy A17 5G 256GB / 8GB RAM",
-      "brand": 20615,
+      "brand": "Samsung",
       "category": "اقتصادي ومتوسط",
       "release": "2026",
-      "priceEGP": "https://www.jumia.com.eg/phones-tablets/",
-      "priceSource": "سعر رصد منشور على Jumia",
+      "priceEGP": null,
+      "priceSource": "لم يتم التحقق من سعر نسخة 256GB / 8GB في مصدر مباشر",
       "priceCheckedAt": "2026-11-02",
-      "priceStatus": "سعر متجر قابل للتغيير",
-      "sourceLabel": "Jumia Egypt",
-      "priceOffers": [
-        {
-          "merchant": "Jumia",
-          "priceEGP": "https://www.jumia.com.eg/phones-tablets/",
-          "sourceLabel": "Jumia Egypt",
-          "checkedAt": "2026-11-02"
-        }
-      ]
+      "priceStatus": "السعر غير متاح حاليًا",
+      "sourceLabel": "Samsung Egypt – المواصفات الرسمية",
+      "priceOffers": [],
+      "source": "https://www.samsung.com/eg/smartphones/galaxy-a/"
     },
     {
       "id": "honor-x5c-plus",
