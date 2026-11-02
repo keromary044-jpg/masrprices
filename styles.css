@@ -53,3 +53,5 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .stationery-catalog .book-card{min-width:0}.stationery-catalog .book-price{font-weight:800}
 
 #clothingCatalog .book-card,#furnitureCatalog .book-card{min-width:0}
+
+#personalCareCatalog .book-card,#sportsCatalog .book-card{min-width:0}
