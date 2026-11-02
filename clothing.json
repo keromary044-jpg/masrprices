@@ -1,0 +1,62 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار منشورة في قوائم متاجر إلكترونية وقت الرصد؛ المقاسات والألوان والمخزون قد تختلف.",
+  "products": [
+    {
+      "id": "clothing-women-vneck",
+      "name": "تيشيرت نسائي La Collection برقبة V مقاس L",
+      "category": "ملابس نسائية",
+      "brand": "La Collection",
+      "size": "L",
+      "price": 199.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY5040012",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "clothing-women-top",
+      "name": "توب نسائي Marco Lorie بدون أكمام مقاس L",
+      "category": "ملابس نسائية",
+      "brand": "Marco Lorie",
+      "size": "L",
+      "price": 189,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY5040012",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "clothing-men-jil",
+      "name": "تيشيرت رجالي Jil سادة كم قصير مقاس L",
+      "category": "ملابس رجالية",
+      "brand": "Jil",
+      "size": "L",
+      "price": 399,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY5030600",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "clothing-men-print",
+      "name": "تيشيرت رجالي مطبوع برسمة نخيل",
+      "category": "ملابس رجالية",
+      "brand": "Carrefour",
+      "size": "حسب المتاح",
+      "price": 249,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY5030600",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "clothing-women-raneen",
+      "name": "تيشيرت نسائي قطن وليكرا مقاسات 4–12",
+      "category": "ملابس أطفال",
+      "brand": "Raneen",
+      "size": "4–12",
+      "price": 99,
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/en/",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
