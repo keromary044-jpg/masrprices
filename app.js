@@ -457,28 +457,81 @@
   loadConstruction();
 
 
+  let marketStaticData=null;
+  let marketETag=null;
+  let marketTimer=null;
+  function marketAssetName(asset){
+    const names={"gold-24k":"ذهب عيار 24","gold-22k":"ذهب عيار 22","gold-21k":"ذهب عيار 21","gold-18k":"ذهب عيار 18","silver-999":"فضة عيار 999","silver-925":"فضة عيار 925","silver-900":"فضة عيار 900","silver-800":"فضة عيار 800","silver-600":"فضة عيار 600","us-dollar":"الدولار الأمريكي","euro":"اليورو","british-pound":"الجنيه الإسترليني","saudi-riyal":"الريال السعودي","uae-dirham":"الدرهم الإماراتي","kuwaiti-dinar":"الدينار الكويتي","japanese-yen":"الين الياباني","chinese-yuan":"اليوان الصيني"};
+    return names[asset.slug]||asset.nameAr||asset.name||asset.slug||asset.id;
+  }
+  function renderMarketGroups(groups,live,generatedAt){
+    const root=document.getElementById("marketRates");if(!root)return;
+    root.replaceChildren();
+    groups.forEach(group=>{
+      if(!group.items.length)return;
+      const box=element("section","market-rate-group");box.append(element("h3","",group.title));
+      const table=element("div","market-rate-list");
+      group.items.forEach(x=>{
+        const row=element("div","market-rate-row");row.append(element("strong","",x.name));
+        row.append(element("span","",x.value));table.append(row);
+      });
+      box.append(table);
+      const note=element("small","catalog-footnote",group.note);
+      const link=element("a","","فتح المصدر");link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";note.append(link);box.append(note);root.append(box);
+    });
+    const status=element("p","catalog-footnote",live
+      ? "تحديث تلقائي من المصدر كل 5 دقائق تقريبًا · آخر استجابة: "+new Date(generatedAt||Date.now()).toLocaleString("ar-EG")
+      : "تعذر الاتصال بالمصدر المباشر؛ المعروض بيانات محفوظة وقد لا تكون محدثة.");
+    root.append(status);
+  }
+  function groupsFromLiveFeed(feed){
+    const assets=Array.isArray(feed.assets)?feed.assets:[];
+    const gold=[],silver=[],currencies=[];
+    assets.forEach(asset=>{
+      const slug=String(asset.slug||"");
+      const isSilver=/silver/i.test(slug)||/silver/i.test(String(asset.kind||""));
+      const isGold=/gold/i.test(slug)||/gold/i.test(String(asset.kind||""));
+      const isCurrency=asset.category==="currencies"||asset.kind==="currency";
+      const buy=asset.directions?.buy?.best?.value;
+      const sell=asset.directions?.sell?.best?.value;
+      const fmt=n=>Number.isFinite(Number(n))?Number(n).toLocaleString("en-US",{maximumFractionDigits:4}):"غير متاح";
+      if(isGold||isSilver){
+        const row={name:marketAssetName(asset),value:"الجهة تشتري منك: "+fmt(buy)+" · الجهة تبيع لك: "+fmt(sell)+" جنيه"};
+        (isSilver?silver:gold).push(row);
+      }else if(isCurrency){
+        const value=sell??asset.benchmark?.sell??asset.global?.value;
+        if(value!=null)currencies.push({name:marketAssetName(asset),value:fmt(value)+" جنيه"});
+      }
+    });
+    const stamp=feed.generatedAt||new Date().toISOString();
+    const make=(title,items)=>({title,items,note:"آخر رصد من المصدر: "+stamp+" · الأسعار استرشادية وليست عرض بيع ملزم. ",source:"https://getdaleelak.com/ar/api"});
+    return [make("أسعار الذهب",gold),make("أسعار الفضة",silver),make("أسعار العملات مقابل الجنيه",currencies)];
+  }
   async function loadMarketRates(){
     const root=document.getElementById("marketRates");if(!root)return;
     try{
-      const res=await fetch("./market-rates.json",{cache:"no-cache"});if(!res.ok)throw new Error("market data unavailable");
-      const d=await res.json();root.replaceChildren();
-      const addTable=(title,group,kind)=>{
-        const box=element("section","market-rate-group");box.append(element("h3","",title));
-        const table=element("div","market-rate-list");
-        group.items.forEach(x=>{
-          const row=element("div","market-rate-row");
-          row.append(element("strong","",x.name));
-          const val=kind==="currency"?(x.rate.toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه"):(("شراء "+x.buy.toLocaleString("en-US")+" · بيع "+x.sell.toLocaleString("en-US"))+" جنيه / "+x.unit);
-          row.append(element("span","",val));table.append(row);
-        });
-        box.append(table);
-        const note=element("small","catalog-footnote","آخر رصد: "+group.checkedAt+" · المصدر: "+group.sourceLabel+" ");
-        const link=element("a","","فتح المصدر");link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";note.append(link);box.append(note);root.append(box);
-      };
-      addTable("أسعار الذهب",d.gold,"gold");addTable("أسعار الفضة",d.silver,"silver");addTable("أسعار العملات مقابل الجنيه",d.currencies,"currency");
-    }catch(e){root.textContent="تعذر تحميل أسعار الأسواق المالية حاليًا.";}
+      const headers={};if(marketETag)headers["If-None-Match"]=marketETag;
+      const res=await fetch("https://getdaleelak.com/api/v1/feed.json",{headers,cache:"no-store"});
+      if(res.status===304)return;
+      if(!res.ok)throw new Error("Live market feed unavailable: "+res.status);
+      const feed=await res.json();if(!Array.isArray(feed.assets))throw new Error("Invalid market feed");
+      marketETag=res.headers.get("ETag")||marketETag;
+      const groups=groupsFromLiveFeed(feed);
+      if(!groups.some(g=>g.items.length))throw new Error("No supported assets in feed");
+      renderMarketGroups(groups,true,feed.generatedAt);
+    }catch(error){
+      if(!marketStaticData){
+        try{const fallback=await fetch("./market-rates.json",{cache:"no-cache"});if(fallback.ok)marketStaticData=await fallback.json();}catch(_){}
+      }
+      if(marketStaticData){
+        const d=marketStaticData;
+        const make=(title,g,kind)=>({title,source:g.source,items:g.items.map(x=>({name:x.name,value:kind==="currency"?(Number(x.rate).toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه"):"شراء "+Number(x.buy).toLocaleString("en-US")+" · بيع "+Number(x.sell).toLocaleString("en-US")+" جنيه / "+x.unit})),note:"آخر رصد محفوظ: "+g.checkedAt+" · "+g.sourceLabel+" · قد لا يكون السعر الحالي. "});
+        renderMarketGroups([make("أسعار الذهب",d.gold,"gold"),make("أسعار الفضة",d.silver,"silver"),make("أسعار العملات مقابل الجنيه",d.currencies,"currency")],false);
+      }else root.textContent="بيانات الأسواق غير متاحة حاليًا.";
+    }
   }
   loadMarketRates();
+  marketTimer=setInterval(loadMarketRates,5*60*1000);
 
 
   let carData=null;
