@@ -206,13 +206,13 @@
       card.append(element("span","book-category",book.category));
       card.append(element("h3","",book.title));
       if(book.author) card.append(element("p","book-author","المؤلف: "+book.author));
-      card.append(element("p","book-price",book.price.toLocaleString("en-US")+" جنيه"));
+      card.append(element("p","book-price",book.category==="كتب الوزارة" ? "مجاني – من موقع الوزارة" : book.price.toLocaleString("en-US")+" جنيه"));
       card.append(element("p","book-store","المتجر: "+book.merchant));
       card.append(element("small","book-date","آخر رصد: "+book.checkedAt));
       const link=element("a","book-source","راجع السعر لدى المتجر");
       link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";
       card.append(link);
-      if(book.legalPdfUrl){const pdf=element("a","book-pdf","تحميل PDF قانوني");pdf.href=book.legalPdfUrl;pdf.target="_blank";pdf.rel="noopener noreferrer";card.append(pdf);}else{card.append(element("small","book-pdf-unavailable",book.pdfStatus || "لا يتوفر ملف PDF مرخّص"));}
+      if(book.legalPdfUrl){const pdf=element("a","book-pdf",book.category==="كتب الوزارة" ? "فتح مكتبة الوزارة وتحميل الكتاب" : "تحميل PDF قانوني");pdf.href=book.legalPdfUrl;pdf.target="_blank";pdf.rel="noopener noreferrer";card.append(pdf);}else{card.append(element("small","book-pdf-unavailable",book.pdfStatus || "لا يتوفر ملف PDF مرخّص"));}
       container.append(card);
     });
     const count=document.getElementById("bookCount");
