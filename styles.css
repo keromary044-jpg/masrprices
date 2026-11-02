@@ -20,3 +20,6 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .spec-row dt{font-weight:700;color:var(--navy);font-size:.88rem}.spec-row dd{margin:3px 0 0;color:var(--muted);font-size:.88rem}
 .phone-source{display:inline-block;margin-top:12px;color:#174f86;text-decoration:underline;font-weight:700}
 .catalog-footnote{font-size:.85rem;color:var(--muted)}
+
+/* Official smartphone model index */
+.model-index{margin-top:28px;padding:18px;background:#f5f8fc;border:1px solid #dce5f0;border-radius:16px}.model-index h3{color:#102b50;margin-top:0}.model-brand-group{padding:14px 0;border-top:1px solid #dce5f0}.model-brand-group h4{margin:0 0 8px;color:#102b50}.model-brand-group>a{color:#b42332;font-weight:700}.model-name-list{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:7px 22px;padding-right:20px;margin:12px 0 0}.model-name-list li{line-height:1.6}
