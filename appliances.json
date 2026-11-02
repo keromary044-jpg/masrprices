@@ -200,6 +200,50 @@
       "merchant": "2B",
       "source": "https://2b.com.eg/ar/home-appliances/kitchen-appliances/microwaves-and-electric-ovens.html",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-zanussi-cooker90",
+      "name": "بوتاجاز زانوسي 90 سم Cool Max ZCG94396XB",
+      "category": "بوتاجازات",
+      "brand": "Zanussi",
+      "model": "ZCG94396XB",
+      "price": 17199,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-lg-topload11",
+      "name": "غسالة LG تحميل علوي 11 كجم T11V1TEHGX",
+      "category": "غسالات",
+      "brand": "LG",
+      "model": "T11V1TEHGX",
+      "price": 15899,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-blackdecker-airfryer12",
+      "name": "قلاية هوائية Black+Decker سعة 12 لتر AOF100",
+      "category": "قلايات هوائية",
+      "brand": "Black+Decker",
+      "model": "AOF100",
+      "price": 5399,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "app-argosta-washer6",
+      "name": "غسالة ARGOSTA تحميل أمامي 6 كجم",
+      "category": "غسالات",
+      "brand": "ARGOSTA",
+      "model": "6KG",
+      "price": 9999,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
