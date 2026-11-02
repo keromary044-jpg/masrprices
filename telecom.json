@@ -1,0 +1,103 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "باقات منشورة على المواقع الرسمية وقت الرصد. قد لا تشمل الأسعار ضريبة القيمة المضافة أو تكلفة الراوتر/التركيب ما لم يذكر خلاف ذلك.",
+  "products": [
+    {
+      "id": "tel-we-150",
+      "name": "WE OneHome إنترنت منزلي 150 جيجابايت",
+      "category": "إنترنت منزلي",
+      "brand": "WE",
+      "price": 300,
+      "unit": "شهريًا",
+      "details": "سرعة تصل إلى 30 ميجابت/ثانية",
+      "merchant": "Telecom Egypt",
+      "source": "https://te.eg/ar/web/guest/personal/home/one-home-monthly-600mins-100mbps",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-we-200",
+      "name": "WE OneHome إنترنت منزلي 200 جيجابايت",
+      "category": "إنترنت منزلي",
+      "brand": "WE",
+      "price": 370,
+      "unit": "شهريًا",
+      "details": "سرعة تصل إلى 30 ميجابت/ثانية",
+      "merchant": "Telecom Egypt",
+      "source": "https://te.eg/ar/web/guest/personal/home/one-home-monthly-600mins-100mbps",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-we-250",
+      "name": "WE OneHome إنترنت منزلي 250 جيجابايت",
+      "category": "إنترنت منزلي",
+      "brand": "WE",
+      "price": 435,
+      "unit": "شهريًا",
+      "details": "سرعة تصل إلى 30 ميجابت/ثانية",
+      "merchant": "Telecom Egypt",
+      "source": "https://te.eg/ar/web/guest/personal/home/one-home-monthly-600mins-100mbps",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-we-300",
+      "name": "WE OneHome إنترنت منزلي 300 جيجابايت",
+      "category": "إنترنت منزلي",
+      "brand": "WE",
+      "price": 500,
+      "unit": "شهريًا",
+      "details": "سرعة تصل إلى 30 ميجابت/ثانية",
+      "merchant": "Telecom Egypt",
+      "source": "https://te.eg/ar/web/guest/personal/home/one-home-monthly-600mins-100mbps",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-voda-40",
+      "name": "Vodafone Home Wireless 40 جيجابايت",
+      "category": "إنترنت منزلي لاسلكي",
+      "brand": "Vodafone",
+      "price": 290,
+      "unit": "شهريًا",
+      "details": "باقة 40 جيجابايت",
+      "merchant": "Vodafone Egypt",
+      "source": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-voda-135",
+      "name": "Vodafone Home Wireless 135 جيجابايت",
+      "category": "إنترنت منزلي لاسلكي",
+      "brand": "Vodafone",
+      "price": 520,
+      "unit": "شهريًا",
+      "details": "باقة 135 جيجابايت",
+      "merchant": "Vodafone Egypt",
+      "source": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-voda-250",
+      "name": "Vodafone Home Wireless 250 جيجابايت",
+      "category": "إنترنت منزلي لاسلكي",
+      "brand": "Vodafone",
+      "price": 830,
+      "unit": "شهريًا",
+      "details": "باقة 250 جيجابايت",
+      "merchant": "Vodafone Egypt",
+      "source": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tel-voda-400",
+      "name": "Vodafone Home Wireless 400 جيجابايت",
+      "category": "إنترنت منزلي لاسلكي",
+      "brand": "Vodafone",
+      "price": 1270,
+      "unit": "شهريًا",
+      "details": "باقة 400 جيجابايت",
+      "merchant": "Vodafone Egypt",
+      "source": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
