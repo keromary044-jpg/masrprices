@@ -41,6 +41,7 @@
       article.append(element("h3", "phone-name", phone.name));
       article.append(element("p", "phone-price", phone.priceEGP ? ("السعر في مصر: "+phone.priceEGP.toLocaleString("en-US")+" جنيه") : "السعر في مصر: لم يُتحقق منه بعد"));
       if(phone.priceEGP){article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")+" · "+(phone.priceCheckedAt || "تاريخ الرصد غير محدد")));}
+      if(Array.isArray(phone.priceOffers) && phone.priceOffers.length){const offers=element("details","phone-offers");offers.append(element("summary","","مقارنة الأسعار ("+phone.priceOffers.length+" عروض مرصودة)"));phone.priceOffers.forEach(offer=>{const row=element("p","phone-offer",offer.merchant+" — "+offer.priceEGP.toLocaleString("en-US")+" جنيه · "+offer.variant);const link=element("a","","المصدر");link.href=offer.source;link.target="_blank";link.rel="noopener noreferrer";row.append(" ",link);offers.append(row);});article.append(offers);}
       const details = element("details", "phone-details");
       details.append(element("summary", "", "عرض المواصفات التفصيلية"));
       const list = element("dl", "spec-list");
