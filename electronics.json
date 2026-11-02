@@ -1,0 +1,127 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار رصد منشورة على SnapFlyer لعروض متاجر مصرية، وقد تتغير سريعًا حسب الفرع والتوافر. تحقق من صفحة المتجر قبل الشراء.",
+  "products": [
+    {
+      "id": "elc-mouse-speedlink",
+      "name": "ماوس لاسلكي Speedlink",
+      "category": "ملحقات الكمبيوتر",
+      "brand": "Speedlink",
+      "price": 249,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-earbuds-riversong",
+      "name": "سماعة RIVERSONG AIRFLY L2 TWS أبيض",
+      "category": "سماعات",
+      "brand": "Riversong",
+      "price": 599,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-band-huawei",
+      "name": "سوار Huawei Band 10S B19",
+      "category": "ساعات وأساور ذكية",
+      "brand": "Huawei",
+      "price": 1399,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-powerbank-smartgate",
+      "name": "باور بانك SMART GATE سعة 20000mAh",
+      "category": "شواحن وباور بانك",
+      "brand": "Smart Gate",
+      "price": 849,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-router-huawei",
+      "name": "راوتر Huawei WiFi AX2 WS7001 V2",
+      "category": "راوترات وشبكات",
+      "brand": "Huawei",
+      "price": 1249,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-printer-canon",
+      "name": "طابعة Canon PIXMA TS3640 متعددة الوظائف",
+      "category": "طابعات",
+      "brand": "Canon",
+      "price": 2199,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-headphones-majentk",
+      "name": "سماعة رأس MAJENTK MH-003",
+      "category": "سماعات",
+      "brand": "Majentk",
+      "price": 749,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-earbuds-zerotech",
+      "name": "سماعات ZEROTECH AIRBUDS-C010-BL",
+      "category": "سماعات",
+      "brand": "Zerotech",
+      "price": 999,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-watch-riversong",
+      "name": "ساعة RIVERSONG SW903",
+      "category": "ساعات وأساور ذكية",
+      "brand": "Riversong",
+      "price": 2199,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-mouse-hp",
+      "name": "ماوس HP 240 Bluetooth MO172",
+      "category": "ملحقات الكمبيوتر",
+      "brand": "HP",
+      "price": 699,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-watch-riversong9",
+      "name": "ساعة RIVERSONG Watch 9 Pro",
+      "category": "ساعات وأساور ذكية",
+      "brand": "Riversong",
+      "price": 1999,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-powerbank-majentk",
+      "name": "باور بانك MAJENTK MJ-16 سعة 30000mAh",
+      "category": "شواحن وباور بانك",
+      "brand": "Majentk",
+      "price": 1444,
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
