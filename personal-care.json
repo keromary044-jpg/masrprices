@@ -123,6 +123,86 @@
       "merchant": "Carrefour Egypt",
       "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-lifebuoy-soap",
+      "name": "صابون لايف بوي Mild Care 115 جم",
+      "category": "صابون ونظافة",
+      "brand": "Lifebuoy",
+      "price": 31.5,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-listerine",
+      "name": "غسول فم Listerine Advanced White 250 مل",
+      "category": "العناية بالفم",
+      "brand": "Listerine",
+      "price": 99.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-loreal-shampoo",
+      "name": "شامبو لوريال إلفيف 400 مل",
+      "category": "العناية بالشعر",
+      "brand": "L'Oreal",
+      "price": 191.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-diva-handwash",
+      "name": "صابون يدين سائل Diva 500 مل",
+      "category": "صابون ونظافة",
+      "brand": "Diva",
+      "price": 45,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-closeup",
+      "name": "معجون أسنان Close Up Ever Fresh 100 مل",
+      "category": "العناية بالفم",
+      "brand": "Close Up",
+      "price": 47.5,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-nivea-deo",
+      "name": "مزيل عرق Nivea Deep Black 150 مل",
+      "category": "مزيلات العرق",
+      "brand": "Nivea",
+      "price": 169.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-sunsilk",
+      "name": "شامبو Sunsilk Stunning Black Shine 1 لتر",
+      "category": "العناية بالشعر",
+      "brand": "Sunsilk",
+      "price": 218.5,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-caremore-cream",
+      "name": "كريم يدين Care & More 50 مل",
+      "category": "العناية بالبشرة",
+      "brand": "Care & More",
+      "price": 57.5,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
