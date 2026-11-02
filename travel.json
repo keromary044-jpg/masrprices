@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "دليل معلومات وروابط رسمية؛ أسعار التذاكر والفنادق والنقل تتغير حسب التاريخ والفئة، لذلك لا نعرض رقمًا غير متحقق.",
+  "products": [
+    {
+      "id": "travel-egyptian-museum",
+      "name": "المتحف المصري بالتحرير",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "تحقق من سعر التذكرة وموعد الزيارة قبل الذهاب.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-grand-egyptian",
+      "name": "المتحف المصري الكبير",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "التذاكر والحجز من البوابة الرسمية.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-karnak",
+      "name": "معبد الكرنك – الأقصر",
+      "category": "مواقع أثرية",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "تحقق من رسوم الدخول وساعات الزيارة.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-valley-kings",
+      "name": "وادي الملوك – الأقصر",
+      "category": "مواقع أثرية",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "قد تختلف رسوم المقابر الإضافية عن تذكرة الموقع.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-philae",
+      "name": "معبد فيلة – أسوان",
+      "category": "مواقع أثرية",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "راجع تفاصيل النقل والتذكرة في المصدر الرسمي.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-abu-simbel",
+      "name": "معبدا أبو سمبل – أسوان",
+      "category": "مواقع أثرية",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "تحقق من مواعيد الزيارة ووسيلة الانتقال.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-citadel",
+      "name": "قلعة صلاح الدين – القاهرة",
+      "category": "مواقع أثرية",
+      "brand": "وزارة السياحة والآثار",
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "تأكد من سعر التذكرة للمصريين والزوار.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "travel-coptic",
+      "name": "مجمع الأديان – القاهرة",
+      "category": "مزارات ثقافية",
+      "brand": "Experience Egypt",
+      "price": null,
+      "merchant": "Experience Egypt",
+      "details": "معلومات الزيارة والتنقل من البوابة السياحية الرسمية.",
+      "source": "https://www.experienceegypt.eg/en/home",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
