@@ -172,7 +172,7 @@
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
         const title=normalize(getTitle(card));
-        if (title.includes("موبايلات") && !title.includes("الإلكترونيات") && !title.includes("الكترونيات")) {
+        if (title.includes("موبايلات")) {
           panel.hidden=true;
           if (phoneCatalog) { phoneCatalog.hidden=false; loadPhones(); phoneCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
         } else if (title.includes("كتب") || title.includes("روايات")) {
@@ -242,7 +242,7 @@
   function searchText(item){return normalize([item.name,item.title,item.brand,item.category,item.model,item.spec,item.author,item.merchant,item.unit,item.grade,item.subject,item.variant,item.memory,item.processor].filter(Boolean).join(" "));}
   function openSearchResult(meta,item){
     const routeWords={
-      "phones.json":["موبايلات"],"electronics.json":["موبايلات"],
+      "phones.json":["موبايلات"],"electronics.json":["الإلكترونيات والملحقات"],
       "books.json":["كتب"],"construction.json":["مواد البناء"],
       "cars.json":["سيارات"],"appliances.json":["الأجهزة المنزلية"],
       "groceries.json":["البقالة"],"stationery.json":["الأدوات المدرسية"],
