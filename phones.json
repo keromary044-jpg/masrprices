@@ -1,8 +1,30 @@
 {
   "updatedAt": "2026-11-02",
   "currency": "EGP",
-  "notice": "لا توجد أسعار مؤكدة مضافة بعد. ستظهر الأسعار فقط بعد التحقق من متجر مصري ومطابقة نسخة الهاتف.",
+  "notice": "تُعرض الأسعار فقط عند وجود مصدر مصري واضح وتكوين مطابق. الأسعار تتغير حسب السعة واللون والعروض وتاريخ الرصد.",
   "products": [
+    {
+      "id": "samsung-galaxy-s26-ultra",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy S26 Ultra 5G",
+      "category": "رائد",
+      "release": "2026",
+      "display": "6.9 بوصة حسب صفحة الشراء الرسمية",
+      "processor": "المعالج: راجع صفحة المواصفات الرسمية للنسخة المصرية",
+      "memory": "256GB تخزين و12GB RAM؛ تتوفر خيارات أخرى حسب المتجر",
+      "rearCamera": "راجع المواصفات الرسمية التفصيلية",
+      "frontCamera": "راجع المواصفات الرسمية التفصيلية",
+      "battery": "راجع المواصفات الرسمية التفصيلية",
+      "os": "راجع صفحة المواصفات الرسمية",
+      "connectivity": "5G",
+      "build": "راجع صفحة المواصفات الرسمية",
+      "source": "https://www.samsung.com/eg/smartphones/galaxy-s26-ultra/buy/",
+      "sourceLabel": "Samsung Egypt – صفحة الشراء الرسمية",
+      "priceEGP": 76490,
+      "priceSource": "Samsung Egypt – السعر المعروض لنسخة 256GB/12GB",
+      "priceCheckedAt": "2026-11-02",
+      "priceStatus": "سعر رسمي منشور وقت الرصد؛ قد يتغير"
+    },
     {
       "id": "samsung-galaxy-a56-5g",
       "brand": "Samsung",
