@@ -122,6 +122,16 @@
       "merchant": "Hub Furniture",
       "source": "https://hubfurniture.com.eg/en/bedroom-furniture/shop-by-item",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-bath-trolley",
+      "name": "عربة حمام بثلاثة أرفف",
+      "category": "تخزين وتنظيم",
+      "brand": "Jumia",
+      "price": 350,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
