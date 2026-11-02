@@ -1,0 +1,123 @@
+{
+  "updatedAt": "2026-11-02",
+  "purpose": "فهرس موديلات معلنة على صفحات الشركات الرسمية. وجود الموديل هنا لا يعني توافره أو بيعه حاليًا في مصر.",
+  "availabilityPolicy": "لا يُعرض سعر أو مواصفة تفصيلية قبل مطابقة النسخة المصرية ومراجعة مصدرها.",
+  "brands": [
+    {
+      "brand": "Samsung",
+      "source": "https://www.samsung.com/eg/smartphones/",
+      "sourceLabel": "سامسونج مصر",
+      "models": [
+        "Galaxy S26 Ultra",
+        "Galaxy S26+",
+        "Galaxy S26",
+        "Galaxy S26 FE",
+        "Galaxy A56 5G"
+      ]
+    },
+    {
+      "brand": "Xiaomi",
+      "source": "https://www.mi.com/eg/mobile/",
+      "sourceLabel": "شاومي مصر",
+      "models": [
+        "Xiaomi 17T",
+        "Xiaomi 17 Ultra",
+        "Xiaomi 15T",
+        "REDMI Note 15 Pro 5G",
+        "REDMI Note 15 5G",
+        "REDMI Note 15",
+        "REDMI A5",
+        "REDMI Note 14 Pro+ 5G",
+        "REDMI Note 14"
+      ]
+    },
+    {
+      "brand": "OPPO",
+      "source": "https://www.oppo.com/eg-en/smartphones/",
+      "sourceLabel": "أوبو مصر",
+      "models": [
+        "OPPO Reno16 Pro 5G",
+        "OPPO Reno16 5G",
+        "OPPO Reno16 F 5G",
+        "OPPO Find N6",
+        "OPPO Find N5",
+        "OPPO Find X9 Pro",
+        "OPPO Find X8 Pro",
+        "OPPO Find X8",
+        "OPPO Reno15 Pro Max 5G",
+        "OPPO Reno15 Pro 5G",
+        "OPPO Reno15 5G",
+        "OPPO Reno15 F 5G",
+        "OPPO Reno14 Pro 5G",
+        "OPPO Reno14 5G",
+        "OPPO Reno14 F 5G",
+        "OPPO A6 5G",
+        "OPPO A6t 5G",
+        "OPPO A6",
+        "OPPO A6x",
+        "OPPO A6 Pro 5G",
+        "OPPO A6 Pro",
+        "OPPO A5i Pro 5G",
+        "OPPO A5",
+        "OPPO A5 Pro",
+        "OPPO A3",
+        "OPPO A3x",
+        "OPPO A60",
+        "OPPO A98 5G",
+        "OPPO A78",
+        "OPPO A77s",
+        "OPPO A58",
+        "OPPO A57",
+        "OPPO A55",
+        "OPPO A38",
+        "OPPO A16"
+      ]
+    },
+    {
+      "brand": "HONOR",
+      "source": "https://www.honor.com/eg/phones/",
+      "sourceLabel": "هونر مصر",
+      "models": [
+        "HONOR Magic V6",
+        "HONOR Magic8 Pro",
+        "HONOR Magic V5",
+        "HONOR 600 Pro",
+        "HONOR 600",
+        "HONOR 600 Lite",
+        "HONOR X9e Pro",
+        "HONOR Play20A",
+        "HONOR X7e Plus 5G",
+        "HONOR X7e",
+        "HONOR X9d",
+        "HONOR X7d 5G",
+        "HONOR X5c Plus",
+        "HONOR X7d"
+      ]
+    },
+    {
+      "brand": "realme",
+      "source": "https://www.realme.com/eg/",
+      "sourceLabel": "ريلمي مصر",
+      "models": [
+        "realme C100x",
+        "realme C100",
+        "realme P4x",
+        "realme P4 Power 5G",
+        "realme C100i",
+        "realme 16 Pro+ 5G",
+        "realme 16 Pro 5G",
+        "realme 16 5G",
+        "realme C85",
+        "realme C85 Pro",
+        "realme 15T",
+        "realme Note 70",
+        "realme 15 Pro 5G",
+        "realme 15 5G",
+        "realme C71",
+        "realme C75x",
+        "realme C75",
+        "realme Note 60x"
+      ]
+    }
+  ]
+}
