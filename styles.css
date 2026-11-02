@@ -9,3 +9,14 @@
 .market-section{background:#eaf0f7}.market-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px;margin-top:18px}.market-card{display:flex;flex-direction:column;gap:7px;background:#fff;padding:18px;border:1px solid var(--line);border-radius:13px}.market-card span{color:var(--navy);font-weight:700}.market-card strong{font-size:.98rem}.market-card small{color:var(--muted)}.notice{padding:12px 15px;border-right:4px solid var(--red);background:#fff;border-radius:8px}
 footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;font-size:.9rem}
 @media(max-width:600px){.header-content{justify-content:center}nav{justify-content:center;gap:14px}.hero{padding:46px 0 52px}.category-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.category-card{min-height:100px}.section{padding-block:26px}}
+.phone-catalog{scroll-margin-top:18px}
+.phone-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;margin-top:18px}
+.phone-card{background:#fff;border:1px solid var(--line);border-radius:15px;padding:17px;box-shadow:0 5px 18px #102b500a}
+.phone-card-top{display:flex;justify-content:space-between;gap:8px;color:var(--muted);font-size:.82rem}
+.phone-brand{font-weight:800;color:var(--navy)}.phone-name{font-size:1.15rem;color:var(--navy);margin:10px 0 4px}
+.phone-price{background:#fff3f3;color:#8b3b42;padding:8px 10px;border-radius:8px;font-weight:700;font-size:.9rem}
+.phone-details{margin-top:10px}.phone-details summary{cursor:pointer;color:var(--navy);font-weight:700;padding:8px 0}
+.spec-list{margin:8px 0}.spec-row{padding:8px 0;border-bottom:1px solid var(--line)}
+.spec-row dt{font-weight:700;color:var(--navy);font-size:.88rem}.spec-row dd{margin:3px 0 0;color:var(--muted);font-size:.88rem}
+.phone-source{display:inline-block;margin-top:12px;color:#174f86;text-decoration:underline;font-weight:700}
+.catalog-footnote{font-size:.85rem;color:var(--muted)}
