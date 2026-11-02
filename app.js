@@ -198,6 +198,7 @@
         else if(title.includes("السياحة")||title.includes("السفر")){panel.hidden=true;const n=document.getElementById("travelCatalog");if(n){n.hidden=false;loadGenericCatalog("travel");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("البورصة")||title.includes("الأسهم")){panel.hidden=true;const n=document.getElementById("stocksCatalog");if(n){n.hidden=false;loadGenericCatalog("stocks");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الإلكترونيات")){panel.hidden=true;const n=document.getElementById("electronicsCatalog");if(n){n.hidden=false;loadGenericCatalog("electronics");n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("الذهب")||title.includes("الفضة")||title.includes("العملات")){panel.hidden=true;const n=document.getElementById("markets");if(n)n.scrollIntoView({behavior:"smooth",block:"start"});}
       }
     });
     card.addEventListener("keydown",event => {
