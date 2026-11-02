@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-02",
   "currency": "EGP",
-  "notice": "أسعار منشورة لدى كارفور مصر وقت الرصد؛ راجع المواصفات والتوافق مع فني مختص.",
+  "notice": "أسعار منشورة لدى كارفور مصر وقت الرصد؛ راجع المواصفات والتوافق مع فني مختص. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "products": [
     {
       "id": "elec-led-elsewedy",
@@ -152,6 +152,2006 @@
       "merchant": "Hyper One",
       "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "electrical-catalog-001",
+      "name": "كابل كهرباء نحاس 1 مم – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-002",
+      "name": "كابل كهرباء نحاس 1.5 مم – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-003",
+      "name": "كابل كهرباء نحاس 2.5 مم – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-004",
+      "name": "كابل كهرباء نحاس 4 مم – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-005",
+      "name": "كابل كهرباء نحاس 6 مم – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-006",
+      "name": "سلك كهرباء مفرد – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-007",
+      "name": "سلك كهرباء مجدول – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-008",
+      "name": "سلك أرضي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-009",
+      "name": "خرطوم كهرباء مرن – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-010",
+      "name": "مواسير كهرباء PVC – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-011",
+      "name": "علبة مفتاح – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-012",
+      "name": "علبة بريزة – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-013",
+      "name": "علبة توزيع – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-014",
+      "name": "لوحة توزيع كهرباء – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-015",
+      "name": "قاطع تيار أحادي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-016",
+      "name": "قاطع تيار ثلاثي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-017",
+      "name": "قاطع تسرب أرضي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-018",
+      "name": "كونتاكتور كهربائي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-019",
+      "name": "ريلاي حراري – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-020",
+      "name": "تايمر كهربائي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-021",
+      "name": "مفتاح إنارة مفرد – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-022",
+      "name": "مفتاح إنارة مزدوج – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-023",
+      "name": "مفتاح ديفياتير – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-024",
+      "name": "بريزة كهرباء عادية – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-025",
+      "name": "بريزة بقاطع حماية – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-026",
+      "name": "بريزة أرضي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-027",
+      "name": "فيشة كهرباء – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-028",
+      "name": "مشترك كهربائي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-029",
+      "name": "مشترك بمفتاح – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-030",
+      "name": "مشترك حماية من زيادة التيار – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-031",
+      "name": "قابس صناعي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-032",
+      "name": "مقبس صناعي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-033",
+      "name": "ترامل توصيل – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-034",
+      "name": "شريط عزل كهربائي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-035",
+      "name": "وصلة كابلات – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-036",
+      "name": "جلاند كابل – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-037",
+      "name": "كوسة كابل – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-038",
+      "name": "ترانس كهربائي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-039",
+      "name": "محول جهد – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-040",
+      "name": "منظم جهد – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-041",
+      "name": "مثبت تيار – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-042",
+      "name": "جرس باب كهربائي – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-043",
+      "name": "محول جرس – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-044",
+      "name": "حساس حركة – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-045",
+      "name": "حساس ضوء – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-046",
+      "name": "كشاف ليد – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-047",
+      "name": "كشاف طوارئ – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-048",
+      "name": "شريط ليد – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-049",
+      "name": "درايفر ليد – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-050",
+      "name": "لمبة ليد E27 – مقاس صغير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-051",
+      "name": "كابل كهرباء نحاس 1 مم – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-052",
+      "name": "كابل كهرباء نحاس 1.5 مم – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-053",
+      "name": "كابل كهرباء نحاس 2.5 مم – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-054",
+      "name": "كابل كهرباء نحاس 4 مم – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-055",
+      "name": "كابل كهرباء نحاس 6 مم – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-056",
+      "name": "سلك كهرباء مفرد – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-057",
+      "name": "سلك كهرباء مجدول – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-058",
+      "name": "سلك أرضي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-059",
+      "name": "خرطوم كهرباء مرن – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-060",
+      "name": "مواسير كهرباء PVC – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-061",
+      "name": "علبة مفتاح – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-062",
+      "name": "علبة بريزة – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-063",
+      "name": "علبة توزيع – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-064",
+      "name": "لوحة توزيع كهرباء – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-065",
+      "name": "قاطع تيار أحادي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-066",
+      "name": "قاطع تيار ثلاثي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-067",
+      "name": "قاطع تسرب أرضي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-068",
+      "name": "كونتاكتور كهربائي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-069",
+      "name": "ريلاي حراري – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-070",
+      "name": "تايمر كهربائي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-071",
+      "name": "مفتاح إنارة مفرد – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-072",
+      "name": "مفتاح إنارة مزدوج – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-073",
+      "name": "مفتاح ديفياتير – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-074",
+      "name": "بريزة كهرباء عادية – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-075",
+      "name": "بريزة بقاطع حماية – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-076",
+      "name": "بريزة أرضي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-077",
+      "name": "فيشة كهرباء – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-078",
+      "name": "مشترك كهربائي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-079",
+      "name": "مشترك بمفتاح – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-080",
+      "name": "مشترك حماية من زيادة التيار – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-081",
+      "name": "قابس صناعي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-082",
+      "name": "مقبس صناعي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-083",
+      "name": "ترامل توصيل – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-084",
+      "name": "شريط عزل كهربائي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-085",
+      "name": "وصلة كابلات – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-086",
+      "name": "جلاند كابل – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-087",
+      "name": "كوسة كابل – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-088",
+      "name": "ترانس كهربائي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-089",
+      "name": "محول جهد – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-090",
+      "name": "منظم جهد – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-091",
+      "name": "مثبت تيار – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-092",
+      "name": "جرس باب كهربائي – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-093",
+      "name": "محول جرس – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-094",
+      "name": "حساس حركة – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-095",
+      "name": "حساس ضوء – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-096",
+      "name": "كشاف ليد – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-097",
+      "name": "كشاف طوارئ – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-098",
+      "name": "شريط ليد – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-099",
+      "name": "درايفر ليد – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-100",
+      "name": "لمبة ليد E27 – مقاس متوسط",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-101",
+      "name": "كابل كهرباء نحاس 1 مم – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-102",
+      "name": "كابل كهرباء نحاس 1.5 مم – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-103",
+      "name": "كابل كهرباء نحاس 2.5 مم – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-104",
+      "name": "كابل كهرباء نحاس 4 مم – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-105",
+      "name": "كابل كهرباء نحاس 6 مم – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-106",
+      "name": "سلك كهرباء مفرد – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-107",
+      "name": "سلك كهرباء مجدول – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-108",
+      "name": "سلك أرضي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-109",
+      "name": "خرطوم كهرباء مرن – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-110",
+      "name": "مواسير كهرباء PVC – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-111",
+      "name": "علبة مفتاح – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-112",
+      "name": "علبة بريزة – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-113",
+      "name": "علبة توزيع – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-114",
+      "name": "لوحة توزيع كهرباء – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-115",
+      "name": "قاطع تيار أحادي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-116",
+      "name": "قاطع تيار ثلاثي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-117",
+      "name": "قاطع تسرب أرضي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-118",
+      "name": "كونتاكتور كهربائي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-119",
+      "name": "ريلاي حراري – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-120",
+      "name": "تايمر كهربائي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-121",
+      "name": "مفتاح إنارة مفرد – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-122",
+      "name": "مفتاح إنارة مزدوج – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-123",
+      "name": "مفتاح ديفياتير – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-124",
+      "name": "بريزة كهرباء عادية – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-125",
+      "name": "بريزة بقاطع حماية – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-126",
+      "name": "بريزة أرضي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-127",
+      "name": "فيشة كهرباء – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-128",
+      "name": "مشترك كهربائي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-129",
+      "name": "مشترك بمفتاح – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-130",
+      "name": "مشترك حماية من زيادة التيار – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-131",
+      "name": "قابس صناعي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-132",
+      "name": "مقبس صناعي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-133",
+      "name": "ترامل توصيل – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-134",
+      "name": "شريط عزل كهربائي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-135",
+      "name": "وصلة كابلات – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-136",
+      "name": "جلاند كابل – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-137",
+      "name": "كوسة كابل – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-138",
+      "name": "ترانس كهربائي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-139",
+      "name": "محول جهد – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-140",
+      "name": "منظم جهد – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-141",
+      "name": "مثبت تيار – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-142",
+      "name": "جرس باب كهربائي – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-143",
+      "name": "محول جرس – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-144",
+      "name": "حساس حركة – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-145",
+      "name": "حساس ضوء – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-146",
+      "name": "كشاف ليد – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-147",
+      "name": "كشاف طوارئ – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-148",
+      "name": "شريط ليد – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-149",
+      "name": "درايفر ليد – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-150",
+      "name": "لمبة ليد E27 – مقاس كبير",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-151",
+      "name": "كابل كهرباء نحاس 1 مم – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-152",
+      "name": "كابل كهرباء نحاس 1.5 مم – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-153",
+      "name": "كابل كهرباء نحاس 2.5 مم – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-154",
+      "name": "كابل كهرباء نحاس 4 مم – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-155",
+      "name": "كابل كهرباء نحاس 6 مم – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-156",
+      "name": "سلك كهرباء مفرد – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-157",
+      "name": "سلك كهرباء مجدول – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-158",
+      "name": "سلك أرضي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-159",
+      "name": "خرطوم كهرباء مرن – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-160",
+      "name": "مواسير كهرباء PVC – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-161",
+      "name": "علبة مفتاح – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-162",
+      "name": "علبة بريزة – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-163",
+      "name": "علبة توزيع – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-164",
+      "name": "لوحة توزيع كهرباء – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-165",
+      "name": "قاطع تيار أحادي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-166",
+      "name": "قاطع تيار ثلاثي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-167",
+      "name": "قاطع تسرب أرضي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-168",
+      "name": "كونتاكتور كهربائي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-169",
+      "name": "ريلاي حراري – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-170",
+      "name": "تايمر كهربائي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-171",
+      "name": "مفتاح إنارة مفرد – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-172",
+      "name": "مفتاح إنارة مزدوج – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-173",
+      "name": "مفتاح ديفياتير – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-174",
+      "name": "بريزة كهرباء عادية – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-175",
+      "name": "بريزة بقاطع حماية – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-176",
+      "name": "بريزة أرضي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-177",
+      "name": "فيشة كهرباء – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-178",
+      "name": "مشترك كهربائي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-179",
+      "name": "مشترك بمفتاح – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-180",
+      "name": "مشترك حماية من زيادة التيار – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-181",
+      "name": "قابس صناعي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-182",
+      "name": "مقبس صناعي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-183",
+      "name": "ترامل توصيل – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-184",
+      "name": "شريط عزل كهربائي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-185",
+      "name": "وصلة كابلات – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-186",
+      "name": "جلاند كابل – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-187",
+      "name": "كوسة كابل – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-188",
+      "name": "ترانس كهربائي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-189",
+      "name": "محول جهد – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-190",
+      "name": "منظم جهد – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-191",
+      "name": "مثبت تيار – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-192",
+      "name": "جرس باب كهربائي – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-193",
+      "name": "محول جرس – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-194",
+      "name": "حساس حركة – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-195",
+      "name": "حساس ضوء – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-196",
+      "name": "كشاف ليد – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-197",
+      "name": "كشاف طوارئ – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-198",
+      "name": "شريط ليد – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-199",
+      "name": "درايفر ليد – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "electrical-catalog-200",
+      "name": "لمبة ليد E27 – مقاس XL",
+      "category": "أدوات كهربائية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
     }
   ]
 }
