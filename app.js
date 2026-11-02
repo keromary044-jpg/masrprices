@@ -239,11 +239,22 @@
     })).then(rows=>(allSearchData=rows));
     return searchLoadPromise;
   }
-  function searchText(item){return normalize([item.name,item.title,item.brand,item.category,item.model,item.spec,item.author,item.merchant,item.unit,item.grade,item.subject].filter(Boolean).join(" "));}
+  function searchText(item){return normalize([item.name,item.title,item.brand,item.category,item.model,item.spec,item.author,item.merchant,item.unit,item.grade,item.subject,item.variant,item.memory,item.processor].filter(Boolean).join(" "));}
   function openSearchResult(meta,item){
-    const card=cards.find(c=>normalize(getTitle(c)).includes(normalize(meta[1]).slice(0,8))||normalize(c.dataset.search||"").includes(normalize(meta[1]).slice(0,8)));
-    const direct=cards.find(c=>{const t=normalize(getTitle(c));return (meta[0]==="phones.json"||meta[0]==="electronics.json")?t.includes("موبايلات"):t.includes(normalize(meta[1]).split(" ")[0]);});
-    const target=direct||card;
+    const routeWords={
+      "phones.json":["موبايلات"],"electronics.json":["موبايلات"],
+      "books.json":["كتب"],"construction.json":["مواد البناء"],
+      "cars.json":["سيارات"],"appliances.json":["الأجهزة المنزلية"],
+      "groceries.json":["البقالة"],"stationery.json":["الأدوات المدرسية"],
+      "clothing.json":["الملابس"],"furniture.json":["الأثاث"],
+      "personal-care.json":["التجميل"],"sports.json":["الرياضة"],
+      "electrical.json":["الكهرباء"],"tools.json":["الأدوات والمعدات"],
+      "pets.json":["الحيوانات"],"plants.json":["الزراعة"],
+      "telecom.json":["الخدمات"],"travel.json":["السياحة"],
+      "stocks.json":["البورصة"]
+    };
+    const wanted=routeWords[meta[0]]||[];
+    const target=cards.find(c=>wanted.some(word=>normalize(getTitle(c)).includes(normalize(word))));
     if(target)target.click();
     setTimeout(()=>{
       const field=document.getElementById(meta[3]);
@@ -437,7 +448,7 @@
       const card=element("article","book-card");
       card.append(element("span","book-category",x.brand+" · "+x.category));
       card.append(element("h3","",x.name));
-      card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه"));
+      card.append(element("p","book-price",x.price==null?"السعر غير منشور — راجع المصدر الرسمي":Number(x.price).toLocaleString("en-US")+" جنيه"));
       card.append(element("p","book-store","المتجر: "+x.merchant+" · الموديل: "+x.model));
       card.append(element("small","book-date","آخر رصد: "+x.checkedAt));
       const link=element("a","book-source","راجع السعر لدى المتجر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
