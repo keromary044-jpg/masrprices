@@ -41,7 +41,43 @@
       article.append(element("h3", "phone-name", phone.name));
       article.append(element("p", "phone-price", phone.priceEGP ? ("السعر في مصر: "+phone.priceEGP.toLocaleString("en-US")+" جنيه") : "السعر في مصر: لم يُتحقق منه بعد"));
       if(phone.priceEGP){article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")+" · "+(phone.priceCheckedAt || "تاريخ الرصد غير محدد")));}
-      if(Array.isArray(phone.priceOffers) && phone.priceOffers.length){const offers=element("details","phone-offers");offers.append(element("summary","","مقارنة الأسعار ("+phone.priceOffers.length+" عروض مرصودة)"));phone.priceOffers.forEach(offer=>{const row=element("p","phone-offer",offer.merchant+" — "+offer.priceEGP.toLocaleString("en-US")+" جنيه · "+offer.variant);const link=element("a","","المصدر");link.href=offer.source;link.target="_blank";link.rel="noopener noreferrer";row.append(" ",link);offers.append(row);});article.append(offers);}
+      if(Array.isArray(phone.priceOffers) && phone.priceOffers.length){
+        const validOffers=phone.priceOffers.filter(o=>Number.isFinite(Number(o.priceEGP))&&Number(o.priceEGP)>0&&o.merchant&&o.source);
+        validOffers.sort((a,b)=>Number(a.priceEGP)-Number(b.priceEGP));
+        const compare=element("section","offer-comparison");
+        const head=element("div","offer-comparison-head");
+        head.append(element("strong","","مقارنة المتاجر"));
+        head.append(element("span","offer-count",validOffers.length+" عروض موثقة المصدر"));
+        compare.append(head);
+        if(validOffers.length){
+          const best=validOffers[0];
+          const bestBox=element("div","best-offer");
+          bestBox.append(element("span","best-label","أقل سعر مرصود"));
+          bestBox.append(element("strong","best-price",Number(best.priceEGP).toLocaleString("en-US")+" جنيه"));
+          bestBox.append(element("span","best-store",best.merchant));
+          compare.append(bestBox);
+          const list=element("div","offer-list");
+          validOffers.forEach((offer,index)=>{
+            const row=element("article","offer-row"+(index===0?" is-best":""));
+            const rank=element("span","offer-rank",String(index+1));
+            const info=element("div","offer-main");
+            info.append(element("strong","offer-merchant",offer.merchant));
+            info.append(element("small","offer-variant",(offer.variant||"النسخة غير محددة")+" · تحقق: "+(offer.checkedAt||"غير محدد")));
+            const side=element("div","offer-side");
+            side.append(element("strong","offer-price",Number(offer.priceEGP).toLocaleString("en-US")+" ج.م"));
+            const link=element("a","offer-link","تحقق من العرض");
+            link.href=offer.source;link.target="_blank";link.rel="noopener noreferrer";
+            side.append(link);row.append(rank,info,side);list.append(row);
+          });
+          compare.append(list);
+          if(validOffers.length>1){
+            const diff=Number(validOffers[validOffers.length-1].priceEGP)-Number(best.priceEGP);
+            compare.append(element("p","offer-savings","الفرق بين أقل وأعلى عرض: "+diff.toLocaleString("en-US")+" جنيه"));
+          }
+        }else compare.append(element("p","catalog-footnote","لا توجد عروض مكتملة المصدر والسعر حاليًا."));
+        compare.append(element("small","offer-disclaimer","الأسعار رُصدت في أوقات مختلفة وقد تتغير؛ تأكد من السعر النهائي والتوافر والنسخة والضمان لدى المتجر قبل الشراء."));
+        article.append(compare);
+      }
       const details = element("details", "phone-details");
       details.append(element("summary", "", "عرض المواصفات التفصيلية"));
       const list = element("dl", "spec-list");
