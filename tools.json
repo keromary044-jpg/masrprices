@@ -122,6 +122,96 @@
       "merchant": "IKEA Egypt",
       "source": "https://www.ikea.com/eg/en/cat/tools-16293/",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-hacksaw-apt",
+      "name": "منشار حديد يدوي APT مقاس 12 بوصة",
+      "category": "عدد يدوية",
+      "brand": "APT",
+      "price": 215,
+      "merchant": "Shabana Stores",
+      "source": "https://www.shabanastores.com/en/product-category/tools/hand-tools/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-bosch-brick-bits",
+      "name": "طقم بنط حائط Bosch عدد 7",
+      "category": "ملحقات العدد",
+      "brand": "Bosch",
+      "price": 798,
+      "merchant": "Shabana Stores",
+      "source": "https://www.shabanastores.com/en/product-category/tools/hand-tools/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-bosch-concrete-bits",
+      "name": "طقم بنط خرسانة Bosch عدد 7",
+      "category": "ملحقات العدد",
+      "brand": "Bosch",
+      "price": 484,
+      "merchant": "Shabana Stores",
+      "source": "https://www.shabanastores.com/en/product-category/tools/hand-tools/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-bosch-laser40",
+      "name": "متر قياس ليزر Bosch حتى 40 متر",
+      "category": "قياس",
+      "brand": "Bosch",
+      "price": 5130,
+      "merchant": "Shabana Stores",
+      "source": "https://www.shabanastores.com/en/product-category/tools/hand-tools/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-bosch-tripod",
+      "name": "حامل قياس Bosch BT 150 ارتفاع 1.5 متر",
+      "category": "قياس",
+      "brand": "Bosch",
+      "price": 2850,
+      "merchant": "Shabana Stores",
+      "source": "https://www.shabanastores.com/en/product-category/tools/hand-tools/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-weneed-set",
+      "name": "طقم إصلاح منزلي Weneed عدد 5 قطع",
+      "category": "عدد يدوية",
+      "brand": "Weneed",
+      "price": 260,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-giza-pincer",
+      "name": "كماشة Giza",
+      "category": "عدد يدوية",
+      "brand": "Giza",
+      "price": 209,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-weneed-spanner",
+      "name": "طقم مفاتيح ربط Weneed ثلاثة مقاسات",
+      "category": "عدد يدوية",
+      "brand": "Weneed",
+      "price": 177,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tool-bosch-marker",
+      "name": "قلم تحديد عميق Bosch",
+      "category": "قياس وتعليم",
+      "brand": "Bosch",
+      "price": 229,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
