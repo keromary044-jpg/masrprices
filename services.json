@@ -1,0 +1,73 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "دليل روابط لخدمات حكومية؛ هذه السجلات ليست أسعارًا مدفوعة. تحقق من الجهة الرسمية لمعرفة الرسوم والشروط إن وجدت.",
+  "products": [
+    {
+      "id": "service-mof-digital",
+      "name": "الخدمات الرقمية لوزارة المالية",
+      "category": "خدمات حكومية رقمية",
+      "brand": "وزارة المالية المصرية",
+      "price": null,
+      "merchant": "بوابة وزارة المالية المصرية",
+      "details": "دليل الخدمات الرقمية المتاح رسميًا.",
+      "source": "https://mof-web-prd.apps.fslabs.net/en/services",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "service-mof-government",
+      "name": "الخدمات الحكومية بوزارة المالية",
+      "category": "خدمات حكومية",
+      "brand": "وزارة المالية المصرية",
+      "price": null,
+      "merchant": "بوابة وزارة المالية المصرية",
+      "details": "استعرض الخدمات الحكومية المنشورة على بوابة الوزارة.",
+      "source": "https://mof-web-prd.apps.fslabs.net/en/services",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "service-mof-general",
+      "name": "الخدمات العامة لوزارة المالية",
+      "category": "خدمات عامة",
+      "brand": "وزارة المالية المصرية",
+      "price": null,
+      "merchant": "بوابة وزارة المالية المصرية",
+      "details": "دليل الخدمات العامة المنشورة على بوابة الوزارة.",
+      "source": "https://mof-web-prd.apps.fslabs.net/en/services",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "service-mof-accountants",
+      "name": "خدمات المحاسبين والمراجعين",
+      "category": "خدمات مهنية",
+      "brand": "وزارة المالية المصرية",
+      "price": null,
+      "merchant": "بوابة وزارة المالية المصرية",
+      "details": "قسم مخصص للمحاسبين والمراجعين.",
+      "source": "https://mof-web-prd.apps.fslabs.net/en/services",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "service-mof-scholarships",
+      "name": "المنح الدراسية المنشورة",
+      "category": "تعليم ومنح",
+      "brand": "وزارة المالية المصرية",
+      "price": null,
+      "merchant": "بوابة وزارة المالية المصرية",
+      "details": "تابع الإعلانات والخدمات المتعلقة بالمنح.",
+      "source": "https://mof-web-prd.apps.fslabs.net/en/services",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "service-mof-procurement",
+      "name": "شكاوى المشتريات العامة",
+      "category": "شكاوى حكومية",
+      "brand": "وزارة المالية المصرية",
+      "price": null,
+      "merchant": "بوابة وزارة المالية المصرية",
+      "details": "قناة الشكاوى الخاصة بالمشتريات العامة.",
+      "source": "https://mof-web-prd.apps.fslabs.net/en/services",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
