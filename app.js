@@ -10,10 +10,10 @@
 
   function normalize(value) {
     return String(value || "").toLocaleLowerCase("ar").normalize("NFD")
-      .replace(/[\\u064B-\\u065F\\u0670]/g, "")
+      .replace(/[\u064B-\u065F\u0670]/g, "")
       .replace(/[أإآٱ]/g, "ا").replace(/[ىي]/g, "ي")
       .replace(/ة/g, "ه").replace(/[ـ]/g, "")
-      .replace(/\\s+/g, " ").trim();
+      .replace(/\s+/g, " ").trim();
   }
 
   function getTitle(card) {
