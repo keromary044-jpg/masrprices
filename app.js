@@ -6,7 +6,8 @@
   const noResults = document.getElementById("noResults");
   const phoneCatalog = document.getElementById("phoneCatalog");
   const phoneProducts = document.getElementById("phoneProducts");
-  let phoneData = null;\n  let modelIndexData = null;
+  let phoneData = null;
+  let modelIndexData = null;
 
   function normalize(value) {
     return String(value || "").toLocaleLowerCase("ar").normalize("NFD")
@@ -36,7 +37,8 @@
       const top = element("div", "phone-card-top");
       top.append(element("span", "phone-brand", phone.brand), element("span", "phone-category", phone.category));
       article.append(top);
-      article.dataset.search = normalize([phone.brand,phone.name,phone.category,phone.processor,phone.memory].join(" "));\n      article.append(element("h3", "phone-name", phone.name));
+      article.dataset.search = normalize([phone.brand,phone.name,phone.category,phone.processor,phone.memory].join(" "));
+      article.append(element("h3", "phone-name", phone.name));
       article.append(element("p", "phone-price", "السعر في مصر: لم يُتحقق منه بعد"));
       const details = element("details", "phone-details");
       details.append(element("summary", "", "عرض المواصفات التفصيلية"));
@@ -71,9 +73,14 @@
       section.id = "officialModelIndex";
       section.append(element("h3", "", "فهرس موديلات الشركات الرسمية"));
       section.append(element("p", "catalog-footnote", index.purpose));
-      modelIndexData = index;\n      const brandFilter = document.getElementById("phoneBrandFilter");\n      index.brands.forEach(brand => {\n        if (brandFilter) { const option=element("option","",brand.brand); option.value=brand.brand; brandFilter.append(option); }
+      modelIndexData = index;
+      const brandFilter = document.getElementById("phoneBrandFilter");
+      index.brands.forEach(brand => {
+        if (brandFilter) { const option=element("option","",brand.brand); option.value=brand.brand; brandFilter.append(option); }
         const group = element("div", "model-brand-group");
-        group.dataset.brand = brand.brand;\n        group.dataset.search = normalize(brand.brand + " " + brand.models.join(" "));\n        group.append(element("h4", "", brand.brand + " (" + brand.models.length + " موديل)"));
+        group.dataset.brand = brand.brand;
+        group.dataset.search = normalize(brand.brand + " " + brand.models.join(" "));
+        group.append(element("h4", "", brand.brand + " (" + brand.models.length + " موديل)"));
         const link = element("a", "", "صفحة الشركة الرسمية");
         link.href = brand.source; link.target = "_blank"; link.rel = "noopener noreferrer";
         group.append(link);
@@ -82,7 +89,8 @@
         group.append(list);
         section.append(group);
       });
-      phoneCatalog.append(section);\n      applyPhoneFilters();
+      phoneCatalog.append(section);
+      applyPhoneFilters();
     } catch (error) {
       console.error(error);
     }
@@ -104,7 +112,26 @@
     }
   }
 
-\n  function applyPhoneFilters() {\n    const query=normalize(document.getElementById("phoneSearch")?.value || "");\n    const brand=document.getElementById("phoneBrandFilter")?.value || "";\n    const sort=document.getElementById("phoneSort")?.value || "name";\n    const productCards=Array.from(phoneProducts?.querySelectorAll(".phone-card") || []);\n    let visible=0;\n    productCards.forEach(card=>{const show=(!query || card.dataset.search.includes(query)) && (!brand || card.querySelector(".phone-brand")?.textContent===brand);card.hidden=!show;if(show)visible++;});\n    const groups=Array.from(document.querySelectorAll("#officialModelIndex .model-brand-group"));\n    groups.forEach(group=>{const show=(!brand || group.dataset.brand===brand) && (!query || group.dataset.search.includes(query));group.hidden=!show;const list=group.querySelector(".model-name-list");if(list){Array.from(list.children).forEach(item=>item.hidden=!!query && !item.dataset.search.includes(query));}});\n    if(sort==="brand" && phoneProducts){productCards.sort((a,b)=>(a.querySelector(".phone-brand")?.textContent||"").localeCompare(b.querySelector(".phone-brand")?.textContent||""));productCards.forEach(card=>phoneProducts.append(card));}\n    const totalModels=(modelIndexData?.brands||[]).reduce((n,b)=>n+b.models.length,0);\n    const modelVisible=groups.filter(g=>!g.hidden).reduce((n,g)=>n+g.querySelectorAll(".model-name-list li:not([hidden])").length,0);\n    const count=document.getElementById("phoneResultCount");\n    if(count) count.textContent="المواصفات التفصيلية: "+visible+" من "+productCards.length+" • فهرس الموديلات: "+modelVisible+" من "+totalModels;\n  }\n\n  ["phoneSearch","phoneBrandFilter","phoneSort"].forEach(id=>{const control=document.getElementById(id);if(control){control.addEventListener(id==="phoneSearch"?"input":"change",applyPhoneFilters);}});\n\n  const panels = new Map();
+
+  function applyPhoneFilters() {
+    const query=normalize(document.getElementById("phoneSearch")?.value || "");
+    const brand=document.getElementById("phoneBrandFilter")?.value || "";
+    const sort=document.getElementById("phoneSort")?.value || "name";
+    const productCards=Array.from(phoneProducts?.querySelectorAll(".phone-card") || []);
+    let visible=0;
+    productCards.forEach(card=>{const show=(!query || card.dataset.search.includes(query)) && (!brand || card.querySelector(".phone-brand")?.textContent===brand);card.hidden=!show;if(show)visible++;});
+    const groups=Array.from(document.querySelectorAll("#officialModelIndex .model-brand-group"));
+    groups.forEach(group=>{const show=(!brand || group.dataset.brand===brand) && (!query || group.dataset.search.includes(query));group.hidden=!show;const list=group.querySelector(".model-name-list");if(list){Array.from(list.children).forEach(item=>item.hidden=!!query && !item.dataset.search.includes(query));}});
+    if(sort==="brand" && phoneProducts){productCards.sort((a,b)=>(a.querySelector(".phone-brand")?.textContent||"").localeCompare(b.querySelector(".phone-brand")?.textContent||""));productCards.forEach(card=>phoneProducts.append(card));}
+    const totalModels=(modelIndexData?.brands||[]).reduce((n,b)=>n+b.models.length,0);
+    const modelVisible=groups.filter(g=>!g.hidden).reduce((n,g)=>n+g.querySelectorAll(".model-name-list li:not([hidden])").length,0);
+    const count=document.getElementById("phoneResultCount");
+    if(count) count.textContent="المواصفات التفصيلية: "+visible+" من "+productCards.length+" • فهرس الموديلات: "+modelVisible+" من "+totalModels;
+  }
+
+  ["phoneSearch","phoneBrandFilter","phoneSort"].forEach(id=>{const control=document.getElementById(id);if(control){control.addEventListener(id==="phoneSearch"?"input":"change",applyPhoneFilters);}});
+
+  const panels = new Map();
   cards.forEach((card,index) => {
     card.setAttribute("aria-expanded","false");
     card.setAttribute("aria-controls","details-"+(index+1));
