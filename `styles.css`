@@ -1,262 +1,144 @@
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&display=swap');
+"use strict";
 
-:root {
-  --blue: #12365f;
-  --blue-dark: #0b2442;
-  --red: #e63946;
-  --light: #f4f7fb;
-  --white: #ffffff;
-  --text: #202b3c;
-  --muted: #718096;
+// توحيد النص العربي لتسهيل البحث
+function normalizeText(text) {
+  return String(text || "")
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u064B-\u065F\u0670]/g, "")
+    .replace(/[أإآ]/g, "ا")
+    .replace(/ى/g, "ي")
+    .replace(/ة/g, "ه")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
-* {
-  box-sizing: border-box;
-}
+// عناصر الصفحة
+const searchInput = document.getElementById("searchInput");
+const categoryCards = document.querySelectorAll(".category-card");
+const noResults = document.getElementById("noResults");
 
-html {
-  scroll-behavior: smooth;
-}
+// إنشاء لوحة تفاصيل القسم
+function createPanel(card) {
+  let panel = card.nextElementSibling;
 
-body {
-  margin: 0;
-  font-family: 'Cairo', Tahoma, Arial, sans-serif;
-  background: var(--white);
-  color: var(--text);
-  line-height: 1.8;
-}
-
-.container {
-  width: min(1120px, 92%);
-  margin: auto;
-}
-
-.site-header {
-  background: var(--blue-dark);
-  color: white;
-  padding: 15px 0;
-}
-
-.header-content {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-.logo {
-  color: white;
-  text-decoration: none;
-  font-size: 25px;
-  font-weight: 800;
-  direction: ltr;
-}
-
-.logo span {
-  color: #ff6975;
-}
-
-nav {
-  display: flex;
-  gap: 22px;
-  flex-wrap: wrap;
-}
-
-nav a {
-  color: white;
-  text-decoration: none;
-  font-size: 14px;
-}
-
-nav a:hover {
-  color: #ff8992;
-}
-
-.hero {
-  background: linear-gradient(135deg, #102f55, #1c568d);
-  color: white;
-  padding: 75px 0;
-  text-align: center;
-}
-
-.eyebrow {
-  color: #ffb2b8;
-  font-weight: 700;
-}
-
-.hero h1 {
-  font-size: clamp(30px, 5vw, 48px);
-  margin: 10px 0;
-}
-
-.hero p {
-  color: #e1eaf5;
-  font-size: 17px;
-}
-
-.primary-button {
-  display: inline-block;
-  background: var(--red);
-  color: white;
-  text-decoration: none;
-  padding: 11px 28px;
-  border-radius: 9px;
-  margin-top: 15px;
-  font-weight: 700;
-}
-
-.primary-button:hover {
-  background: #c92d3b;
-}
-
-.search-section {
-  padding-top: 30px;
-}
-
-#searchInput {
-  width: 100%;
-  padding: 16px;
-  border: 1px solid #dce3ed;
-  border-radius: 10px;
-  font-family: inherit;
-  font-size: 16px;
-  outline: none;
-}
-
-#searchInput:focus {
-  border-color: var(--blue);
-}
-
-.section {
-  padding-top: 45px;
-  padding-bottom: 45px;
-}
-
-.section h2 {
-  color: var(--blue);
-  font-size: 27px;
-  margin-bottom: 5px;
-}
-
-.section > p {
-  color: var(--muted);
-}
-
-.category-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
-  gap: 15px;
-  margin-top: 25px;
-}
-
-.category-card {
-  display: flex;
-  align-items: center;
-  gap: 12px;
-  padding: 20px 15px;
-  background: white;
-  border: 1px solid #e5eaf1;
-  border-radius: 12px;
-  color: var(--blue);
-  text-decoration: none;
-  transition: 0.2s;
-  box-shadow: 0 3px 12px rgba(20, 50, 80, 0.04);
-}
-
-.category-card:hover {
-  transform: translateY(-3px);
-  border-color: #8aa9cb;
-  box-shadow: 0 7px 20px rgba(20, 50, 80, 0.1);
-}
-
-.category-card strong {
-  font-size: 14px;
-}
-
-.market-section {
-  background: var(--light);
-}
-
-.market-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 18px;
-  margin-top: 25px;
-}
-
-.market-card {
-  background: white;
-  padding: 22px;
-  border-radius: 12px;
-  border: 1px solid #e5eaf1;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.market-card span {
-  font-weight: 800;
-  color: var(--blue);
-  font-size: 18px;
-}
-
-.market-card strong {
-  font-size: 14px;
-}
-
-.market-card small {
-  color: var(--muted);
-}
-
-.notice {
-  background: #fff6e8;
-  color: #80551c !important;
-  padding: 14px;
-  border-radius: 8px;
-}
-
-footer {
-  background: var(--blue-dark);
-  color: white;
-  padding: 20px 0;
-  text-align: center;
-}
-
-footer p {
-  margin: 0;
-  font-size: 13px;
-}
-
-[hidden] {
-  display: none !important;
-}
-
-@media (max-width: 600px) {
-  .header-content {
-    justify-content: center;
+  if (panel && panel.classList.contains("category-details")) {
+    return panel;
   }
 
-  nav {
-    justify-content: center;
-    gap: 14px;
-  }
+  panel = document.createElement("div");
+  panel.className = "category-details";
+  panel.hidden = true;
+  panel.setAttribute("role", "region");
 
-  .hero {
-    padding: 55px 0;
-  }
+  const title = card.querySelector("strong")?.textContent || "القسم";
 
-  .category-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 10px;
-  }
+  panel.innerHTML = `
+    <h3></h3>
+    <p>نعمل على تجهيز المنتجات والأسعار الموثوقة لهذا القسم.</p>
+    <p>سيتم إضافة الأسعار مع توضيح المصدر وتاريخ التحديث.</p>
+  `;
 
-  .category-card {
-    padding: 14px 9px;
-    gap: 7px;
-  }
+  panel.querySelector("h3").textContent = title;
+  card.insertAdjacentElement("afterend", panel);
 
-  .category-card strong {
-    font-size: 12px;
+  return panel;
+}
+
+// فتح وإغلاق الأقسام
+categoryCards.forEach(function (card) {
+  const panel = createPanel(card);
+
+  card.setAttribute("aria-expanded", "false");
+
+  card.addEventListener("click", function (event) {
+    event.preventDefault();
+
+    const isOpen = !panel.hidden;
+
+    categoryCards.forEach(function (otherCard) {
+      const otherPanel = otherCard.nextElementSibling;
+
+      if (
+        otherPanel &&
+        otherPanel.classList.contains("category-details")
+      ) {
+        otherPanel.hidden = true;
+        otherCard.setAttribute("aria-expanded", "false");
+      }
+    });
+
+    if (!isOpen) {
+      panel.hidden = false;
+      card.setAttribute("aria-expanded", "true");
+    }
+  });
+});
+
+// البحث داخل الأقسام
+if (searchInput) {
+  searchInput.addEventListener("input", function () {
+    const term = normalizeText(this.value);
+    let visibleCount = 0;
+
+    categoryCards.forEach(function (card) {
+      const text = normalizeText(
+        card.textContent + " " + (card.dataset.search || "")
+      );
+
+      const matches = text.includes(term);
+
+      card.hidden = !matches;
+
+      const panel = card.nextElementSibling;
+
+      if (panel && panel.classList.contains("category-details")) {
+        panel.hidden = true;
+        card.setAttribute("aria-expanded", "false");
+      }
+
+      if (matches) visibleCount++;
+    });
+
+    if (noResults) {
+      noResults.hidden = visibleCount !== 0;
+    }
+  });
+}
+
+// تثبيت الموقع كتطبيق
+let deferredPrompt;
+
+const installBtn = document.getElementById("installBtn");
+
+window.addEventListener("beforeinstallprompt", function (event) {
+  event.preventDefault();
+  deferredPrompt = event;
+
+  if (installBtn) {
+    installBtn.hidden = false;
   }
+});
+
+if (installBtn) {
+  installBtn.addEventListener("click", async function () {
+    if (!deferredPrompt) return;
+
+    deferredPrompt.prompt();
+    await deferredPrompt.userChoice;
+
+    deferredPrompt = null;
+    installBtn.hidden = true;
+  });
+}
+
+// تشغيل الموقع دون اتصال عند توفر الخدمة
+if ("serviceWorker" in navigator && location.protocol === "https:") {
+  window.addEventListener("load", function () {
+    navigator.serviceWorker
+      .register("./sw.js")
+      .catch(function (error) {
+        console.error("Service Worker Error:", error);
+      });
+  });
 }
