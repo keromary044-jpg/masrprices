@@ -212,6 +212,56 @@
       "price": 10299,
       "merchant": "Carrefour",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tv-haier50-cf",
+      "name": "Haier 50-inch 4K UHD Smart TV H50K75GUX",
+      "category": "تلفزيونات",
+      "brand": "Haier",
+      "price": 14777,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tv-fresh-micro",
+      "name": "Fresh Microwave 20L 700W FMW-20MC-B",
+      "category": "ميكروويف",
+      "brand": "Fresh",
+      "price": 3599,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tv-samsung55-mini",
+      "name": "Samsung 55-inch Mini LED 4K UA55M70HAUXEG",
+      "category": "تلفزيونات",
+      "brand": "Samsung",
+      "price": 23333,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tv-jac50-4k",
+      "name": "JAC 50-inch 4K Smart TV 50JE8136F",
+      "category": "تلفزيونات",
+      "brand": "JAC",
+      "price": 15177,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tv-samsung55-crystal",
+      "name": "Samsung 55-inch Crystal UHD UA55AU8000",
+      "category": "تلفزيونات",
+      "brand": "Samsung",
+      "price": 22777,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
