@@ -1,4 +1,4 @@
-const CACHE_NAME = "masrprices-v15";
+const CACHE_NAME = "masrprices-v16";
 const FILES_TO_CACHE = ["./","./index.html","./styles.css","./app.js","./manifest.webmanifest","./phones.json","./phone-model-index.json","./books.json","./construction.json","./market-rates.json","./cars.json"];
 
 self.addEventListener("install", event => {
