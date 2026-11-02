@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-02",
   "currency": "EGP",
-  "notice": "أسعار منشورة لدى متاجر مصرية وقت الرصد، وليست تحديثًا لحظيًا. قد تتغير الأسعار والتوافر حسب الفرع والعروض.",
+  "notice": "أسعار منشورة لدى متاجر مصرية وقت الرصد، وليست تحديثًا لحظيًا. قد تتغير الأسعار والتوافر حسب الفرع والعروض. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "products": [
     {
       "id": "midea-fridge-330l",
@@ -266,6 +266,1006 @@
       "merchant": "Carrefour Egypt",
       "source": "https://www.carrefouregypt.com/mafegy/en",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "appliances-catalog-001",
+      "name": "غسالة ملابس أوتوماتيك – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-002",
+      "name": "غسالة فوق أوتوماتيك – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-003",
+      "name": "ثلاجة بابين – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-004",
+      "name": "ثلاجة باب واحد – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-005",
+      "name": "ديب فريزر رأسي – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-006",
+      "name": "ديب فريزر أفقي – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-007",
+      "name": "بوتاجاز 4 شعلة – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-008",
+      "name": "بوتاجاز 5 شعلة – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-009",
+      "name": "فرن كهربائي – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-010",
+      "name": "فرن بلت إن – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-011",
+      "name": "ميكروويف – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-012",
+      "name": "شفاط مطبخ – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-013",
+      "name": "غسالة أطباق – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-014",
+      "name": "مبرد مياه – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-015",
+      "name": "سخان مياه كهربائي – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-016",
+      "name": "سخان مياه غاز – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-017",
+      "name": "مكيف سبليت – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-018",
+      "name": "مكيف شباك – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-019",
+      "name": "مروحة سقف – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-020",
+      "name": "مروحة عمود – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-021",
+      "name": "مروحة حائط – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-022",
+      "name": "مروحة مكتب – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-023",
+      "name": "مكنسة كهربائية – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-024",
+      "name": "مكنسة روبوت – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-025",
+      "name": "خلاط كهربائي – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-026",
+      "name": "كبة كهربائية – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-027",
+      "name": "محضر طعام – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-028",
+      "name": "عجان كهربائي – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-029",
+      "name": "مضرب يدوي – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-030",
+      "name": "عصارة فواكه – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-031",
+      "name": "مطحنة قهوة – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-032",
+      "name": "ماكينة قهوة – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-033",
+      "name": "غلاية مياه – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-034",
+      "name": "توستر – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-035",
+      "name": "قلاية هوائية – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-036",
+      "name": "شواية كهربائية – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-037",
+      "name": "طباخ أرز – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-038",
+      "name": "ميزان مطبخ – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-039",
+      "name": "مكواة بخار – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-040",
+      "name": "مكواة جافة – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-041",
+      "name": "مجفف شعر – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-042",
+      "name": "مصفف شعر – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-043",
+      "name": "ماكينة حلاقة – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-044",
+      "name": "جهاز تنقية هواء – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-045",
+      "name": "مرطب هواء – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-046",
+      "name": "مزيل رطوبة – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-047",
+      "name": "دفاية كهربائية – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-048",
+      "name": "دفاية زيت – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-049",
+      "name": "مبرد هواء – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-050",
+      "name": "موزع مياه – مقاس صغير",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-051",
+      "name": "غسالة ملابس أوتوماتيك – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-052",
+      "name": "غسالة فوق أوتوماتيك – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-053",
+      "name": "ثلاجة بابين – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-054",
+      "name": "ثلاجة باب واحد – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-055",
+      "name": "ديب فريزر رأسي – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-056",
+      "name": "ديب فريزر أفقي – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-057",
+      "name": "بوتاجاز 4 شعلة – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-058",
+      "name": "بوتاجاز 5 شعلة – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-059",
+      "name": "فرن كهربائي – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-060",
+      "name": "فرن بلت إن – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-061",
+      "name": "ميكروويف – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-062",
+      "name": "شفاط مطبخ – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-063",
+      "name": "غسالة أطباق – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-064",
+      "name": "مبرد مياه – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-065",
+      "name": "سخان مياه كهربائي – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-066",
+      "name": "سخان مياه غاز – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-067",
+      "name": "مكيف سبليت – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-068",
+      "name": "مكيف شباك – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-069",
+      "name": "مروحة سقف – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-070",
+      "name": "مروحة عمود – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-071",
+      "name": "مروحة حائط – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-072",
+      "name": "مروحة مكتب – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-073",
+      "name": "مكنسة كهربائية – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-074",
+      "name": "مكنسة روبوت – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-075",
+      "name": "خلاط كهربائي – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-076",
+      "name": "كبة كهربائية – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-077",
+      "name": "محضر طعام – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-078",
+      "name": "عجان كهربائي – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-079",
+      "name": "مضرب يدوي – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-080",
+      "name": "عصارة فواكه – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-081",
+      "name": "مطحنة قهوة – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-082",
+      "name": "ماكينة قهوة – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-083",
+      "name": "غلاية مياه – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-084",
+      "name": "توستر – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-085",
+      "name": "قلاية هوائية – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-086",
+      "name": "شواية كهربائية – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-087",
+      "name": "طباخ أرز – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-088",
+      "name": "ميزان مطبخ – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-089",
+      "name": "مكواة بخار – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-090",
+      "name": "مكواة جافة – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-091",
+      "name": "مجفف شعر – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-092",
+      "name": "مصفف شعر – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-093",
+      "name": "ماكينة حلاقة – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-094",
+      "name": "جهاز تنقية هواء – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-095",
+      "name": "مرطب هواء – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-096",
+      "name": "مزيل رطوبة – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-097",
+      "name": "دفاية كهربائية – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-098",
+      "name": "دفاية زيت – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-099",
+      "name": "مبرد هواء – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "appliances-catalog-100",
+      "name": "موزع مياه – مقاس متوسط",
+      "category": "أجهزة منزلية",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
     }
   ]
 }
