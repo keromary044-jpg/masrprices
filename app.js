@@ -85,7 +85,7 @@
         link.href = brand.source; link.target = "_blank"; link.rel = "noopener noreferrer";
         group.append(link);
         const list = element("ul", "model-name-list");
-        brand.models.forEach(name => list.append(element("li", "", name)));
+        brand.models.forEach(name => { const item=element("li", "", name); item.dataset.search=normalize(name); list.append(item); });
         group.append(list);
         section.append(group);
       });
@@ -122,7 +122,7 @@
     productCards.forEach(card=>{const show=(!query || card.dataset.search.includes(query)) && (!brand || card.querySelector(".phone-brand")?.textContent===brand);card.hidden=!show;if(show)visible++;});
     const groups=Array.from(document.querySelectorAll("#officialModelIndex .model-brand-group"));
     groups.forEach(group=>{const show=(!brand || group.dataset.brand===brand) && (!query || group.dataset.search.includes(query));group.hidden=!show;const list=group.querySelector(".model-name-list");if(list){Array.from(list.children).forEach(item=>item.hidden=!!query && !item.dataset.search.includes(query));}});
-    if(sort==="brand" && phoneProducts){productCards.sort((a,b)=>(a.querySelector(".phone-brand")?.textContent||"").localeCompare(b.querySelector(".phone-brand")?.textContent||""));productCards.forEach(card=>phoneProducts.append(card));}
+    if(phoneProducts){productCards.sort((a,b)=>sort==="brand" ? (a.querySelector(".phone-brand")?.textContent||"").localeCompare(b.querySelector(".phone-brand")?.textContent||"") : (a.querySelector(".phone-name")?.textContent||"").localeCompare(b.querySelector(".phone-name")?.textContent||""));productCards.forEach(card=>phoneProducts.append(card));}
     const totalModels=(modelIndexData?.brands||[]).reduce((n,b)=>n+b.models.length,0);
     const modelVisible=groups.filter(g=>!g.hidden).reduce((n,g)=>n+g.querySelectorAll(".model-name-list li:not([hidden])").length,0);
     const count=document.getElementById("phoneResultCount");
