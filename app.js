@@ -159,6 +159,8 @@
       if (bookCatalog) bookCatalog.hidden=true;
       const constructionCatalog=document.getElementById("constructionCatalog");
       if (constructionCatalog) constructionCatalog.hidden=true;
+      const carCatalog=document.getElementById("carCatalog");
+      if (carCatalog) carCatalog.hidden=true;
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
@@ -173,6 +175,7 @@
           panel.hidden=true;
           if (constructionCatalog) { constructionCatalog.hidden=false; constructionCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
         }
+        else if (title.includes("السيارات")) { panel.hidden=true; if(carCatalog){carCatalog.hidden=false;carCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
       }
     });
     card.addEventListener("keydown",event => {
@@ -296,6 +299,23 @@
     }catch(e){root.textContent="تعذر تحميل أسعار الأسواق المالية حاليًا.";}
   }
   loadMarketRates();
+
+
+  let carData=null;
+  function renderCars(data){
+    const root=document.getElementById("carProducts");if(!root)return;
+    const q=normalize(document.getElementById("carSearch")?.value||"");
+    const cat=document.getElementById("carCategory")?.value||"";
+    const sort=document.getElementById("carSort")?.value||"name";
+    const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.spec].join(" ")).includes(q)));
+    rows.sort((a,b)=>sort==="price"?a.price-b.price:a.name.localeCompare(b.name,"ar"));
+    root.replaceChildren();
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه"));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));const link=element("a","book-source","مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);root.append(card);});
+    const count=document.getElementById("carCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" فئة";
+  }
+  async function loadCars(){const root=document.getElementById("carProducts");if(!root)return;try{const res=await fetch("./cars.json",{cache:"no-cache"});if(!res.ok)throw new Error();carData=await res.json();const sel=document.getElementById("carCategory");[...new Set(carData.products.map(x=>x.category))].forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderCars(carData);}catch(e){root.textContent="تعذر تحميل أسعار السيارات حاليًا.";}}
+  ["carSearch","carCategory","carSort"].forEach(id=>{const el=document.getElementById(id);if(el)el.addEventListener(id==="carSearch"?"input":"change",()=>{if(carData)renderCars(carData);});});
+  loadCars();
 
   let installPrompt=null;
   const installButton=document.getElementById("installBtn");
