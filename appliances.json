@@ -1,0 +1,139 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار منشورة لدى متاجر مصرية وقت الرصد، وليست تحديثًا لحظيًا. قد تتغير الأسعار والتوافر حسب الفرع والعروض.",
+  "products": [
+    {
+      "id": "midea-fridge-330l",
+      "name": "ثلاجة ميديا 330 لتر MDRB489FGN46",
+      "category": "ثلاجات",
+      "brand": "Midea",
+      "model": "MDRB489FGN46",
+      "price": 22749,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances/large-home-appliances/refrigerators.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "beko-fridge-590l",
+      "name": "ثلاجة بيكو 590 لتر B3RDNE590ZB",
+      "category": "ثلاجات",
+      "brand": "Beko",
+      "model": "B3RDNE590ZB",
+      "price": 53299,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances/large-home-appliances/refrigerators.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "toshiba-fridge-338l",
+      "name": "ثلاجة توشيبا 338 لتر GR-RT468WE-PMN(49)-Pro",
+      "category": "ثلاجات",
+      "brand": "Toshiba",
+      "model": "GR-RT468WE-PMN(49)-Pro",
+      "price": 19149,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances/large-home-appliances/refrigerators.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "fresh-minibar-50l",
+      "name": "ميني بار فريش 50 لتر FMB-70",
+      "category": "ثلاجات",
+      "brand": "Fresh",
+      "model": "FMB-70",
+      "price": 8059,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances/large-home-appliances/refrigerators.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "lg-fridge-450l",
+      "name": "ثلاجة إل جي 450 لتر GTF452SSAN",
+      "category": "ثلاجات",
+      "brand": "LG",
+      "model": "GTF452SSAN",
+      "price": 35989,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/ar/home-appliances/large-home-appliances/refrigerators.html",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "samsung-washer-8kg",
+      "name": "غسالة سامسونج 8 كجم WW80T4040CX1AS",
+      "category": "غسالات",
+      "brand": "Samsung",
+      "model": "WW80T4040CX1AS",
+      "price": 24773,
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/en/appliances/samsung",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "samsung-washer-11kg",
+      "name": "غسالة سامسونج 11 كجم WW11B1534DABAS",
+      "category": "غسالات",
+      "brand": "Samsung",
+      "model": "WW11B1534DABAS",
+      "price": 35999,
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/en/appliances/samsung",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "whitepoint-washer-9kg",
+      "name": "غسالة وايت بوينت تحميل علوي 9 كجم WPTL9DBTEA",
+      "category": "غسالات",
+      "brand": "White Point",
+      "model": "WPTL9DBTEA",
+      "price": 9599,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY4000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "toshiba-tv-65",
+      "name": "تلفزيون توشيبا 65 بوصة 4K Smart 65C350RP",
+      "category": "تلفزيونات",
+      "brand": "Toshiba",
+      "model": "65C350RP",
+      "price": 23499,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY4000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "samsung-tv-55",
+      "name": "تلفزيون سامسونج 55 بوصة 4K Crystal 55U8000F",
+      "category": "تلفزيونات",
+      "brand": "Samsung",
+      "model": "55U8000F",
+      "price": 24786,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY4000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "midea-dishwasher-14",
+      "name": "غسالة أطباق ميديا 14 فرد Mdwef1433D",
+      "category": "غسالات أطباق",
+      "brand": "Midea",
+      "model": "Mdwef1433D(SS)-Wi-Eg",
+      "price": 22999,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY4000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "fresh-microwave-28",
+      "name": "ميكروويف فريش 28 لتر FMW-28ECB",
+      "category": "ميكروويف",
+      "brand": "Fresh",
+      "model": "FMW-28ECB",
+      "price": 6749,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY4000000",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
