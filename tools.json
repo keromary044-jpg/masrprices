@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-02",
   "currency": "EGP",
-  "notice": "أسعار منشورة في متاجر مصرية وقت الرصد؛ راجع المتجر لتأكيد السعر والتوافر.",
+  "notice": "أسعار منشورة في متاجر مصرية وقت الرصد؛ راجع المتجر لتأكيد السعر والتوافر. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "products": [
     {
       "id": "tool-tape3",
@@ -212,6 +212,1006 @@
       "merchant": "Carrefour Egypt",
       "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "tools-catalog-001",
+      "name": "مفك مسطح – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-002",
+      "name": "مفك صليبة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-003",
+      "name": "طقم مفكات – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-004",
+      "name": "كماشة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-005",
+      "name": "زرادية – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-006",
+      "name": "بنسة أنف طويل – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-007",
+      "name": "قصافة أسلاك – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-008",
+      "name": "مفتاح إنجليزي – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-009",
+      "name": "طقم مفاتيح ربط – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-010",
+      "name": "مفتاح ألن – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-011",
+      "name": "مفتاح توركس – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-012",
+      "name": "شاكوش نجارة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-013",
+      "name": "شاكوش حدادة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-014",
+      "name": "مطرقة مطاط – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-015",
+      "name": "منشار يدوي – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-016",
+      "name": "منشار حديد – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-017",
+      "name": "منشار خشب – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-018",
+      "name": "قاطع بلاط يدوي – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-019",
+      "name": "متر قياس – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-020",
+      "name": "ميزان مياه – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-021",
+      "name": "ميزان ليزر – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-022",
+      "name": "زاوية قياس – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-023",
+      "name": "كتر متعدد الاستخدام – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-024",
+      "name": "شفرة كتر – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-025",
+      "name": "مقص صاج – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-026",
+      "name": "مقص مواسير – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-027",
+      "name": "مبرد معدني – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-028",
+      "name": "مبرد خشب – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-029",
+      "name": "إزميل – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-030",
+      "name": "عتلة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-031",
+      "name": "كماشة قفل – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-032",
+      "name": "مسدس شمع – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-033",
+      "name": "مسدس سيليكون – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-034",
+      "name": "مسدس رش دهان – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-035",
+      "name": "فرشاة دهان – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-036",
+      "name": "رول دهان – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-037",
+      "name": "سلم ألومنيوم – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-038",
+      "name": "حامل عدة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-039",
+      "name": "صندوق عدة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-040",
+      "name": "حزام عدة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-041",
+      "name": "قفازات عمل – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-042",
+      "name": "نظارة حماية – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-043",
+      "name": "خوذة سلامة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-044",
+      "name": "كمامة غبار – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-045",
+      "name": "منفاخ يدوي – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-046",
+      "name": "مضخة هواء يدوية – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-047",
+      "name": "ملزمة منضدة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-048",
+      "name": "مشبك تثبيت – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-049",
+      "name": "ورق صنفرة – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-050",
+      "name": "قرص جلخ – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-051",
+      "name": "قرص قطع – مقاس صغير",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-052",
+      "name": "مفك مسطح – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-053",
+      "name": "مفك صليبة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-054",
+      "name": "طقم مفكات – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-055",
+      "name": "كماشة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-056",
+      "name": "زرادية – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-057",
+      "name": "بنسة أنف طويل – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-058",
+      "name": "قصافة أسلاك – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-059",
+      "name": "مفتاح إنجليزي – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-060",
+      "name": "طقم مفاتيح ربط – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-061",
+      "name": "مفتاح ألن – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-062",
+      "name": "مفتاح توركس – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-063",
+      "name": "شاكوش نجارة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-064",
+      "name": "شاكوش حدادة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-065",
+      "name": "مطرقة مطاط – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-066",
+      "name": "منشار يدوي – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-067",
+      "name": "منشار حديد – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-068",
+      "name": "منشار خشب – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-069",
+      "name": "قاطع بلاط يدوي – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-070",
+      "name": "متر قياس – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-071",
+      "name": "ميزان مياه – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-072",
+      "name": "ميزان ليزر – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-073",
+      "name": "زاوية قياس – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-074",
+      "name": "كتر متعدد الاستخدام – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-075",
+      "name": "شفرة كتر – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-076",
+      "name": "مقص صاج – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-077",
+      "name": "مقص مواسير – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-078",
+      "name": "مبرد معدني – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-079",
+      "name": "مبرد خشب – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-080",
+      "name": "إزميل – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-081",
+      "name": "عتلة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-082",
+      "name": "كماشة قفل – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-083",
+      "name": "مسدس شمع – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-084",
+      "name": "مسدس سيليكون – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-085",
+      "name": "مسدس رش دهان – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-086",
+      "name": "فرشاة دهان – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-087",
+      "name": "رول دهان – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-088",
+      "name": "سلم ألومنيوم – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-089",
+      "name": "حامل عدة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-090",
+      "name": "صندوق عدة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-091",
+      "name": "حزام عدة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-092",
+      "name": "قفازات عمل – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-093",
+      "name": "نظارة حماية – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-094",
+      "name": "خوذة سلامة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-095",
+      "name": "كمامة غبار – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-096",
+      "name": "منفاخ يدوي – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-097",
+      "name": "مضخة هواء يدوية – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-098",
+      "name": "ملزمة منضدة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-099",
+      "name": "مشبك تثبيت – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
+    },
+    {
+      "id": "tools-catalog-100",
+      "name": "ورق صنفرة – مقاس متوسط",
+      "category": "أدوات",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
+      "brand": "غير محدد"
     }
   ]
 }
