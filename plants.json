@@ -1,0 +1,107 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار بذور وتربة ونباتات وأصص معلنة على متاجر مصرية؛ تحقق من النوع والموسم وتعليمات المورد.",
+  "products": [
+    {
+      "id": "plant-thyme-seeds",
+      "name": "بذور زعتر Green Valley – 20 بذرة",
+      "category": "بذور",
+      "brand": "Green Valley",
+      "price": 45,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8070100",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-basil-seeds",
+      "name": "بذور ريحان Green Valley – 10 جم",
+      "category": "بذور",
+      "brand": "Green Valley",
+      "price": 45,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8070100",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-parsley-seeds",
+      "name": "بذور بقدونس Green Valley – 20 جم",
+      "category": "بذور",
+      "brand": "Green Valley",
+      "price": 50,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8070100",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-peat5",
+      "name": "بيتموس Green Valley – 5 كجم",
+      "category": "تربة وزراعة",
+      "brand": "Green Valley",
+      "price": 315,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8070100",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-peat2",
+      "name": "بيتموس Green Valley – 2 كجم",
+      "category": "تربة وزراعة",
+      "brand": "Green Valley",
+      "price": 125,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8070100",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-peat1",
+      "name": "بيتموس Green Valley – 1 كجم",
+      "category": "تربة وزراعة",
+      "brand": "Green Valley",
+      "price": 65,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8070100",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-seed-cucumber",
+      "name": "بذور خيار",
+      "category": "بذور",
+      "brand": "Plantos",
+      "price": 20,
+      "merchant": "Plantos",
+      "source": "https://www.plantoseg.store/category/trb-o-bthor",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-seed-anise",
+      "name": "بذور ينسون",
+      "category": "بذور",
+      "brand": "Plantos",
+      "price": 20,
+      "merchant": "Plantos",
+      "source": "https://www.plantoseg.store/category/trb-o-bthor",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-seed-mint",
+      "name": "بذور نعناع",
+      "category": "بذور",
+      "brand": "Plantos",
+      "price": 20,
+      "merchant": "Plantos",
+      "source": "https://www.plantoseg.store/category/trb-o-bthor",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "plant-pot",
+      "name": "أصيص بلاستيك أسود مقاس 30 سم",
+      "category": "أصص ومستلزمات",
+      "brand": "Plantos",
+      "price": 35,
+      "merchant": "Plantos",
+      "source": "https://www.plantoseg.store/shop",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
