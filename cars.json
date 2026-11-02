@@ -1,0 +1,127 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار السيارات الجديدة المنشورة فقط؛ لا تشمل بالضرورة الترخيص والتأمين والإضافات. راجع الوكيل لتأكيد السعر والتوفر قبل الشراء.",
+  "products": [
+    {
+      "name": "Nissan Sunny 2027 – Base MT",
+      "brand": "Nissan",
+      "modelYear": "2027",
+      "price": 665000,
+      "category": "سيدان",
+      "source": "https://hatgebk.com/en/catalog/nissan/prices",
+      "checkedAt": "2026-10-31",
+      "spec": "سعر رسمي منشور من قائمة موزع نيسان؛ فئة مانيوال، راجع الوكيل لتأكيد التوفر."
+    },
+    {
+      "name": "Nissan Sunny 2027 – AT Base",
+      "brand": "Nissan",
+      "modelYear": "2027",
+      "price": 765000,
+      "category": "سيدان",
+      "source": "https://www.contactcars.com/en/new-cars/nissan-sunny",
+      "checkedAt": "2026-11-01",
+      "spec": "سعر رسمي منشور لفئة أوتوماتيك أساسية."
+    },
+    {
+      "name": "Nissan Sunny 2027 – AT Mid",
+      "brand": "Nissan",
+      "modelYear": "2027",
+      "price": 799999,
+      "category": "سيدان",
+      "source": "https://www.contactcars.com/en/new-cars/nissan-sunny",
+      "checkedAt": "2026-11-01",
+      "spec": "سعر رسمي منشور لفئة أوتوماتيك متوسطة."
+    },
+    {
+      "name": "Nissan Sunny 2027 – Super Saloon",
+      "brand": "Nissan",
+      "modelYear": "2027",
+      "price": 835000,
+      "category": "سيدان",
+      "source": "https://www.contactcars.com/en/new-cars/nissan-sunny",
+      "checkedAt": "2026-11-01",
+      "spec": "سعر رسمي منشور للفئة الأعلى."
+    },
+    {
+      "name": "Toyota Corolla 2026 – Active",
+      "brand": "Toyota",
+      "modelYear": "2026",
+      "price": 1280000,
+      "category": "سيدان",
+      "source": "https://toyota.com.eg/ar/models/corolla",
+      "checkedAt": "2026-10-27",
+      "spec": "محرك 1.6 لتر، 120 حصان، ناقل CVT وفق صفحة تويوتا مصر."
+    },
+    {
+      "name": "Toyota Corolla 2026 – Comfort",
+      "brand": "Toyota",
+      "modelYear": "2026",
+      "price": 1380000,
+      "category": "سيدان",
+      "source": "https://toyota.com.eg/ar/models/corolla",
+      "checkedAt": "2026-10-27",
+      "spec": "سعر الفئة المنشور على صفحة تويوتا مصر."
+    },
+    {
+      "name": "Toyota Corolla 2026 – Smart",
+      "brand": "Toyota",
+      "modelYear": "2026",
+      "price": 1480000,
+      "category": "سيدان",
+      "source": "https://toyota.com.eg/ar/models/corolla",
+      "checkedAt": "2026-10-27",
+      "spec": "سعر الفئة المنشور على صفحة تويوتا مصر."
+    },
+    {
+      "name": "Toyota Corolla 2026 – Elegance",
+      "brand": "Toyota",
+      "modelYear": "2026",
+      "price": 1630000,
+      "category": "سيدان",
+      "source": "https://toyota.com.eg/ar/models/corolla",
+      "checkedAt": "2026-10-27",
+      "spec": "سعر الفئة المنشور على صفحة تويوتا مصر."
+    },
+    {
+      "name": "MG 5 2026 – Comfort",
+      "brand": "MG",
+      "modelYear": "2026",
+      "price": 874990,
+      "category": "سيدان",
+      "source": "https://hatgebk.com/en/catalog/mg/prices",
+      "checkedAt": "2026-09-10",
+      "spec": "سعر قائمة الموزع الرسمي؛ السعر السابق 899,990 جنيه."
+    },
+    {
+      "name": "MG 5 2026 – Luxury",
+      "brand": "MG",
+      "modelYear": "2026",
+      "price": 974990,
+      "category": "سيدان",
+      "source": "https://hatgebk.com/en/catalog/mg/prices",
+      "checkedAt": "2026-09-10",
+      "spec": "سعر قائمة الموزع الرسمي؛ السعر السابق 999,990 جنيه."
+    },
+    {
+      "name": "MG ZS 2026 – Comfort",
+      "brand": "MG",
+      "modelYear": "2026",
+      "price": 1075000,
+      "category": "SUV",
+      "source": "https://hatgebk.com/en/catalog/mg/prices",
+      "checkedAt": "2026-08-05",
+      "spec": "سعر قائمة الموزع الرسمي."
+    },
+    {
+      "name": "MG ZS 2026 – Luxury",
+      "brand": "MG",
+      "modelYear": "2026",
+      "price": 1150000,
+      "category": "SUV",
+      "source": "https://hatgebk.com/en/catalog/mg/prices",
+      "checkedAt": "2026-08-05",
+      "spec": "سعر قائمة الموزع الرسمي."
+    }
+  ]
+}
