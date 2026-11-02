@@ -186,6 +186,56 @@
     });
   }
 
+
+  let bookData = null;
+  function renderBooks(data) {
+    const container=document.getElementById("bookProducts");
+    if(!container) return;
+    const query=normalize(document.getElementById("bookSearch")?.value || "");
+    const category=document.getElementById("bookCategory")?.value || "";
+    const sort=document.getElementById("bookSort")?.value || "name";
+    const items=data.products.filter(book=>(!category || book.category===category) && (!query || normalize([book.title,book.author,book.category,book.merchant].join(" ")).includes(query)));
+    items.sort((a,b)=>sort==="price" ? a.price-b.price : a.title.localeCompare(b.title,"ar"));
+    container.replaceChildren();
+    items.forEach(book=>{
+      const card=element("article","book-card");
+      card.append(element("span","book-category",book.category));
+      card.append(element("h3","",book.title));
+      if(book.author) card.append(element("p","book-author","المؤلف: "+book.author));
+      card.append(element("p","book-price",book.price.toLocaleString("en-US")+" جنيه"));
+      card.append(element("p","book-store","المتجر: "+book.merchant));
+      card.append(element("small","book-date","آخر رصد: "+book.checkedAt));
+      const link=element("a","book-source","راجع السعر لدى المتجر");
+      link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";
+      card.append(link);container.append(card);
+    });
+    const count=document.getElementById("bookCount");
+    if(count) count.textContent="عرض "+items.length+" من "+data.products.length+" كتابًا";
+    if(!items.length) container.append(element("p","catalog-footnote","لا توجد كتب مطابقة. جرّب كلمة بحث أخرى."));
+  }
+  async function loadBooks() {
+    const container=document.getElementById("bookProducts");
+    if(!container) return;
+    try {
+      const response=await fetch("./books.json",{cache:"no-cache"});
+      if(!response.ok) throw new Error("books data unavailable");
+      bookData=await response.json();
+      const select=document.getElementById("bookCategory");
+      [...new Set(bookData.products.map(book=>book.category))].sort().forEach(category=>{
+        const option=element("option","",category);option.value=category;select.append(option);
+      });
+      renderBooks(bookData);
+    } catch(error) {
+      container.textContent="تعذر تحميل قائمة الكتب حاليًا.";
+      console.error(error);
+    }
+  }
+  ["bookSearch","bookCategory","bookSort"].forEach(id=>{
+    const control=document.getElementById(id);
+    if(control) control.addEventListener(id==="bookSearch"?"input":"change",()=>{if(bookData)renderBooks(bookData);});
+  });
+  loadBooks();
+
   let installPrompt=null;
   const installButton=document.getElementById("installBtn");
   window.addEventListener("beforeinstallprompt",event => {
