@@ -59,3 +59,5 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 #electricalCatalog .book-card,#toolsCatalog .book-card{min-width:0}
 
 #petsCatalog .book-card,#plantsCatalog .book-card,#telecomCatalog .book-card{min-width:0}
+
+#travelCatalog .book-card,#stocksCatalog .book-card{min-width:0}
