@@ -122,6 +122,96 @@
       "merchant": "Carrefour",
       "source": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-samsung-tv65",
+      "name": "Samsung OLED TV 65 بوصة S85F مع ساوند بار B450",
+      "category": "تلفزيونات",
+      "brand": "Samsung",
+      "price": 44777,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-toshiba-tv75",
+      "name": "Toshiba QLED TV 75 بوصة M450R",
+      "category": "تلفزيونات",
+      "brand": "Toshiba",
+      "price": 39999,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-haier-tv50",
+      "name": "Haier QLED TV 50 بوصة H50S80G",
+      "category": "تلفزيونات",
+      "brand": "Haier",
+      "price": 18499,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-jac-tv32",
+      "name": "JAC LED TV 32 بوصة JD3110B",
+      "category": "تلفزيونات",
+      "brand": "JAC",
+      "price": 4777,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-hp-printer",
+      "name": "HP DeskJet IA 2976 All-in-One",
+      "category": "طابعات",
+      "brand": "HP",
+      "price": 2849,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-pantum-printer",
+      "name": "PANTUM BM2300AW",
+      "category": "طابعات",
+      "brand": "Pantum",
+      "price": 4799,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-lenovo-tablet",
+      "name": "Lenovo Tablet TB K11 8GB RAM 256GB",
+      "category": "أجهزة لوحية",
+      "brand": "Lenovo",
+      "price": 18999,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-inoi-tablet",
+      "name": "INOI TAB 2 PRO 6GB RAM 256GB",
+      "category": "أجهزة لوحية",
+      "brand": "INOI",
+      "price": 5699,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-jbl-headset",
+      "name": "JBL T530BT سماعة رأس لاسلكية",
+      "category": "سماعات",
+      "brand": "JBL",
+      "price": 2699,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "elc-speaker-zerotech",
+      "name": "ZEROTECH Speaker 8 بوصة Trolley P8DT",
+      "category": "سماعات",
+      "brand": "Zerotech",
+      "price": 10299,
+      "merchant": "Carrefour",
+      "checkedAt": "2026-11-02"
     }
   ]
 }
