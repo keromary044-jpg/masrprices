@@ -167,6 +167,61 @@
       "merchant": "Carrefour",
       "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "grocery-wafeer-dishgel",
+      "name": "جل غسيل أطباق Wafeer ليمون 4 كجم",
+      "category": "منظفات منزلية",
+      "brand": "Wafeer",
+      "price": "4 كجم",
+      "merchant": 126,
+      "source": "Jumia",
+      "checkedAt": "2026-11-02",
+      "unit": "4 كجم"
+    },
+    {
+      "id": "grocery-eggs-index",
+      "name": "متوسط سعر البيضة – مؤشر القاهرة",
+      "category": "بيض وألبان",
+      "brand": "متوسط سوق القاهرة",
+      "price": "للوحدة",
+      "merchant": 6.5,
+      "source": "ElBasket",
+      "checkedAt": "2026-11-02",
+      "unit": "للوحدة"
+    },
+    {
+      "id": "grocery-salt-index",
+      "name": "متوسط سعر الملح – مؤشر القاهرة",
+      "category": "مواد أساسية",
+      "brand": "متوسط سوق القاهرة",
+      "price": "250 جم",
+      "merchant": 6.75,
+      "source": "ElBasket",
+      "checkedAt": "2026-11-02",
+      "unit": "250 جم"
+    },
+    {
+      "id": "grocery-vermicelli-index",
+      "name": "متوسط سعر الشعرية – مؤشر القاهرة",
+      "category": "مكرونة وحبوب",
+      "brand": "متوسط سوق القاهرة",
+      "price": "250 جم",
+      "merchant": 10.49,
+      "source": "ElBasket",
+      "checkedAt": "2026-11-02",
+      "unit": "250 جم"
+    },
+    {
+      "id": "grocery-tomato-paste-index",
+      "name": "متوسط سعر معجون الطماطم – مؤشر القاهرة",
+      "category": "معلبات",
+      "brand": "متوسط سوق القاهرة",
+      "price": "250 جم",
+      "merchant": 25.94,
+      "source": "ElBasket",
+      "checkedAt": "2026-11-02",
+      "unit": "250 جم"
     }
   ]
 }
