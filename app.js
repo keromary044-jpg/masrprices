@@ -210,7 +210,9 @@
       card.append(element("small","book-date","آخر رصد: "+book.checkedAt));
       const link=element("a","book-source","راجع السعر لدى المتجر");
       link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";
-      card.append(link);container.append(card);
+      card.append(link);
+      if(book.legalPdfUrl){const pdf=element("a","book-pdf","تحميل PDF قانوني");pdf.href=book.legalPdfUrl;pdf.target="_blank";pdf.rel="noopener noreferrer";card.append(pdf);}else{card.append(element("small","book-pdf-unavailable",book.pdfStatus || "لا يتوفر ملف PDF مرخّص"));}
+      container.append(card);
     });
     const count=document.getElementById("bookCount");
     if(count) count.textContent="عرض "+items.length+" من "+data.products.length+" كتابًا";
