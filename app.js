@@ -61,15 +61,42 @@
     });
   }
 
+  async function loadModelIndex() {
+    if (!phoneCatalog || document.getElementById("officialModelIndex")) return;
+    try {
+      const response = await fetch("./phone-model-index.json", {cache:"no-cache"});
+      if (!response.ok) throw new Error("تعذر تحميل فهرس الموديلات");
+      const index = await response.json();
+      const section = element("section", "model-index");
+      section.id = "officialModelIndex";
+      section.append(element("h3", "", "فهرس موديلات الشركات الرسمية"));
+      section.append(element("p", "catalog-footnote", index.purpose));
+      index.brands.forEach(brand => {
+        const group = element("div", "model-brand-group");
+        group.append(element("h4", "", brand.brand));
+        const link = element("a", "", "صفحة الشركة الرسمية");
+        link.href = brand.source; link.target = "_blank"; link.rel = "noopener noreferrer";
+        group.append(link);
+        const list = element("ul", "model-name-list");
+        brand.models.forEach(name => list.append(element("li", "", name)));
+        group.append(list);
+        section.append(group);
+      });
+      phoneCatalog.append(section);
+    } catch (error) {
+      console.error(error);
+    }
+  }
+
   async function loadPhones() {
-    if (phoneData) { renderPhones(phoneData); return; }
+    if (phoneData) { renderPhones(phoneData); loadModelIndex(); return; }
     if (!phoneProducts) return;
     phoneProducts.textContent = "جارٍ تحميل الموبايلات...";
     try {
       const response = await fetch("./phones.json", {cache:"no-cache"});
       if (!response.ok) throw new Error("تعذر تحميل ملف المنتجات");
       phoneData = await response.json();
-      renderPhones(phoneData);
+      renderPhones(phoneData);\n      loadModelIndex();
     } catch (error) {
       phoneProducts.textContent = "تعذر تحميل كتالوج الموبايلات حاليًا. جرّب تحديث الصفحة بعد اكتمال النشر.";
       console.error(error);
