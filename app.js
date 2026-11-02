@@ -268,6 +268,30 @@
   ["constructionSearch","constructionCategory","constructionSort"].forEach(id=>{const el=document.getElementById(id);if(el)el.addEventListener(id==="constructionSearch"?"input":"change",()=>{if(constructionData)renderConstruction(constructionData);});});
   loadConstruction();
 
+
+  async function loadMarketRates(){
+    const root=document.getElementById("marketRates");if(!root)return;
+    try{
+      const res=await fetch("./market-rates.json",{cache:"no-cache"});if(!res.ok)throw new Error("market data unavailable");
+      const d=await res.json();root.replaceChildren();
+      const addTable=(title,group,kind)=>{
+        const box=element("section","market-rate-group");box.append(element("h3","",title));
+        const table=element("div","market-rate-list");
+        group.items.forEach(x=>{
+          const row=element("div","market-rate-row");
+          row.append(element("strong","",x.name));
+          const val=kind==="currency"?(x.rate.toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه"):(("شراء "+x.buy.toLocaleString("en-US")+" · بيع "+x.sell.toLocaleString("en-US"))+" جنيه / "+x.unit);
+          row.append(element("span","",val));table.append(row);
+        });
+        box.append(table);
+        const note=element("small","catalog-footnote","آخر رصد: "+group.checkedAt+" · المصدر: "+group.sourceLabel+" ");
+        const link=element("a","","فتح المصدر");link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";note.append(link);box.append(note);root.append(box);
+      };
+      addTable("أسعار الذهب",d.gold,"gold");addTable("أسعار الفضة",d.silver,"silver");addTable("أسعار العملات مقابل الجنيه",d.currencies,"currency");
+    }catch(e){root.textContent="تعذر تحميل أسعار الأسواق المالية حاليًا.";}
+  }
+  loadMarketRates();
+
   let installPrompt=null;
   const installButton=document.getElementById("installBtn");
   window.addEventListener("beforeinstallprompt",event => {
