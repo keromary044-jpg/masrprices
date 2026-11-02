@@ -205,20 +205,78 @@
     });
   });
 
-  if(searchInput) {
-    searchInput.addEventListener("input",() => {
-      const term=normalize(searchInput.value);
-      let count=0;
-      cards.forEach(card => {
-        const match=!term || normalize(card.textContent+" "+(card.dataset.search||"")).includes(term);
-        card.hidden=!match; panels.get(card).hidden=true;
-        card.setAttribute("aria-expanded","false");
-        if(match) count++;
+  const globalSearchBox=element("div","global-search-results");
+  globalSearchBox.id="globalSearchResults";globalSearchBox.hidden=true;
+  if(searchInput)searchInput.insertAdjacentElement("afterend",globalSearchBox);
+  const searchableFiles=[
+    ["phones.json","الموبايلات والإلكترونيات","phoneCatalog","phoneSearch"],
+    ["books.json","الكتب والروايات","bookCatalog","bookSearch"],
+    ["construction.json","مواد البناء","constructionCatalog","constructionSearch"],
+    ["cars.json","السيارات وقطع الغيار","carCatalog","carSearch"],
+    ["appliances.json","الأجهزة المنزلية","applianceCatalog","applianceSearch"],
+    ["groceries.json","الطعام والبقالة","groceryCatalog","grocerySearch"],
+    ["stationery.json","الأدوات المدرسية","stationeryCatalog","stationerySearch"],
+    ["clothing.json","الملابس والأحذية","clothingCatalog","clothingSearch"],
+    ["furniture.json","الأثاث والمفروشات","furnitureCatalog","furnitureSearch"],
+    ["personal-care.json","التجميل والعناية","personalCareCatalog","personalCareCatalogSearch"],
+    ["sports.json","الرياضة والترفيه","sportsCatalog","sportsCatalogSearch"],
+    ["electrical.json","الكهرباء والسباكة","electricalCatalog","electricalCatalogSearch"],
+    ["tools.json","الأدوات والمعدات","toolsCatalog","toolsCatalogSearch"],
+    ["pets.json","الحيوانات الأليفة","petsCatalog","petsCatalogSearch"],
+    ["plants.json","الزراعة والنباتات","plantsCatalog","plantsCatalogSearch"],
+    ["telecom.json","الخدمات والاتصالات","telecomCatalog","telecomCatalogSearch"],
+    ["travel.json","السياحة والسفر","travelCatalog","travelCatalogSearch"],
+    ["stocks.json","البورصة والأسهم","stocksCatalog","stocksCatalogSearch"],
+    ["electronics.json","الموبايلات والإلكترونيات","electronicsCatalog","electronicsCatalogSearch"]
+  ];
+  let allSearchData=null,searchLoadPromise=null;
+  async function loadAllSearchData(){
+    if(allSearchData)return allSearchData;
+    if(searchLoadPromise)return searchLoadPromise;
+    searchLoadPromise=Promise.all(searchableFiles.map(async meta=>{
+      try{const response=await fetch("./"+meta[0],{cache:"no-cache"});if(!response.ok)return {meta,items:[]};const data=await response.json();return {meta,items:Array.isArray(data.products)?data.products:[]};}
+      catch(e){return {meta,items:[]};}
+    })).then(rows=>(allSearchData=rows));
+    return searchLoadPromise;
+  }
+  function searchText(item){return normalize([item.name,item.title,item.brand,item.category,item.model,item.spec,item.author,item.merchant,item.unit,item.grade,item.subject].filter(Boolean).join(" "));}
+  function openSearchResult(meta,item){
+    const card=cards.find(c=>normalize(getTitle(c)).includes(normalize(meta[1]).slice(0,8))||normalize(c.dataset.search||"").includes(normalize(meta[1]).slice(0,8)));
+    const direct=cards.find(c=>{const t=normalize(getTitle(c));return (meta[0]==="phones.json"||meta[0]==="electronics.json")?t.includes("موبايلات"):t.includes(normalize(meta[1]).split(" ")[0]);});
+    const target=direct||card;
+    if(target)target.click();
+    setTimeout(()=>{
+      const field=document.getElementById(meta[3]);
+      if(field){field.value=item.name||item.title||"";field.dispatchEvent(new Event("input",{bubbles:true}));}
+      const section=document.getElementById(meta[2]);if(section)section.scrollIntoView({behavior:"smooth",block:"start"});
+      globalSearchBox.hidden=true;
+    },180);
+  }
+  let searchTimer=null;
+  if(searchInput){
+    searchInput.setAttribute("aria-controls","globalSearchResults");
+    searchInput.setAttribute("autocomplete","off");
+    searchInput.addEventListener("input",async()=>{
+      const query=normalize(searchInput.value);
+      if(query.length<2){globalSearchBox.hidden=true;globalSearchBox.replaceChildren();cards.forEach(c=>c.hidden=false);if(noResults)noResults.hidden=true;return;}
+      globalSearchBox.hidden=false;globalSearchBox.replaceChildren(element("p","catalog-footnote","جارٍ البحث في جميع الأقسام..."));
+      const datasets=await loadAllSearchData();
+      if(normalize(searchInput.value)!==query)return;
+      const matches=[];
+      datasets.forEach(({meta,items})=>items.forEach(item=>{const text=searchText(item);if(text.includes(query))matches.push({meta,item});}));
+      matches.sort((a,b)=>{const an=normalize(a.item.name||a.item.title||""),bn=normalize(b.item.name||b.item.title||"");return (an===query?-1:bn===query?1:an.indexOf(query)-bn.indexOf(query));});
+      globalSearchBox.replaceChildren();
+      if(!matches.length){globalSearchBox.append(element("p","catalog-footnote","لا توجد منتجات مطابقة. جرّب اسمًا أقصر أو اكتب اسم الماركة."));return;}
+      matches.slice(0,15).forEach(({meta,item})=>{
+        const button=element("button","global-search-result");
+        button.type="button";
+        button.append(element("strong","",item.name||item.title||"منتج"),element("small","",meta[1]+" · "+(item.price==null?"السعر غير متاح":Number(item.price).toLocaleString("en-US")+" جنيه")));
+        button.addEventListener("click",()=>openSearchResult(meta,item));
+        globalSearchBox.append(button);
       });
-      if(noResults) noResults.hidden=count>0;
-      if(phoneCatalog) phoneCatalog.hidden=true;
-      const bookCatalog=document.getElementById("bookCatalog"); if(bookCatalog) bookCatalog.hidden=true;
+      globalSearchBox.append(element("small","catalog-footnote","أظهرنا أول "+Math.min(matches.length,15)+" نتيجة من "+matches.length+" نتيجة."));
     });
+    document.addEventListener("click",event=>{if(!globalSearchBox.contains(event.target)&&event.target!==searchInput)globalSearchBox.hidden=true;});
   }
 
 
@@ -342,7 +400,7 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.spec].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?a.price-b.price:a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه"));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));const link=element("a","book-source","مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);root.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price==null?"السعر غير منشور — راجع المصدر الرسمي":x.price.toLocaleString("en-US")+" جنيه"));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));const link=element("a","book-source","مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);root.append(card);});
     const count=document.getElementById("carCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" فئة";
   }
   async function loadCars(){const root=document.getElementById("carProducts");if(!root)return;try{const res=await fetch("./cars.json",{cache:"no-cache"});if(!res.ok)throw new Error();carData=await res.json();const sel=document.getElementById("carCategory");[...new Set(carData.products.map(x=>x.category))].forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderCars(carData);}catch(e){root.textContent="تعذر تحميل أسعار السيارات حاليًا.";}}
@@ -366,7 +424,6 @@
       navigator.serviceWorker.register("./sw.js").catch(error => console.error("تعذر تشغيل وضع عدم الاتصال:",error));
     });
   }
-})();
   let applianceData=null;
   function renderAppliances(data){
     const root=document.getElementById("applianceProducts");if(!root)return;
@@ -508,3 +565,5 @@
     catch(e){root.textContent="تعذر تحميل بيانات القسم.";}
   }
   Object.entries(genericCatalogs).forEach(([key,cfg])=>[cfg.id+"Search",cfg.id+"Category",cfg.id+"Sort"].forEach(id=>document.getElementById(id).addEventListener(id.endsWith("Search")?"input":"change",()=>renderGenericCatalog(key))));
+
+})();
