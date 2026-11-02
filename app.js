@@ -161,6 +161,8 @@
       if (constructionCatalog) constructionCatalog.hidden=true;
       const carCatalog=document.getElementById("carCatalog");
       if (carCatalog) carCatalog.hidden=true;
+      const applianceCatalog=document.getElementById("applianceCatalog");
+      if (applianceCatalog) applianceCatalog.hidden=true;
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
@@ -176,6 +178,7 @@
           if (constructionCatalog) { constructionCatalog.hidden=false; constructionCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
         }
         else if (title.includes("السيارات")) { panel.hidden=true; if(carCatalog){carCatalog.hidden=false;carCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
+        else if (title.includes("الأجهزة المنزلية")) { panel.hidden=true; if(applianceCatalog){applianceCatalog.hidden=false;loadAppliances();applianceCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
       }
     });
     card.addEventListener("keydown",event => {
@@ -345,3 +348,36 @@
     });
   }
 })();
+  let applianceData=null;
+  function renderAppliances(data){
+    const root=document.getElementById("applianceProducts");if(!root)return;
+    const q=normalize(document.getElementById("applianceSearch")?.value||"");
+    const cat=document.getElementById("applianceCategory")?.value||"";
+    const sort=document.getElementById("applianceSort")?.value||"name";
+    const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.model,x.category,x.merchant].join(" ")).includes(q)));
+    rows.sort((a,b)=>sort==="price"?a.price-b.price:a.name.localeCompare(b.name,"ar"));
+    root.replaceChildren();
+    rows.forEach(x=>{
+      const card=element("article","book-card");
+      card.append(element("span","book-category",x.brand+" · "+x.category));
+      card.append(element("h3","",x.name));
+      card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه"));
+      card.append(element("p","book-store","المتجر: "+x.merchant+" · الموديل: "+x.model));
+      card.append(element("small","book-date","آخر رصد: "+x.checkedAt));
+      const link=element("a","book-source","راجع السعر لدى المتجر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
+      root.append(card);
+    });
+    const count=document.getElementById("applianceCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" جهازًا";
+    if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
+  }
+  async function loadAppliances(){
+    const root=document.getElementById("applianceProducts");if(!root||applianceData)return;
+    try{
+      const res=await fetch("./appliances.json",{cache:"no-cache"});if(!res.ok)throw new Error();
+      applianceData=await res.json();
+      const sel=document.getElementById("applianceCategory");
+      [...new Set(applianceData.products.map(x=>x.category))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});
+      renderAppliances(applianceData);
+    }catch(e){root.textContent="تعذر تحميل أسعار الأجهزة المنزلية حاليًا.";}
+  }
+  ["applianceSearch","applianceCategory","applianceSort"].forEach(id=>{const el=document.getElementById(id);if(el)el.addEventListener(id==="applianceSearch"?"input":"change",()=>{if(applianceData)renderAppliances(applianceData);});});
