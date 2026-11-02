@@ -172,7 +172,7 @@
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
         const title=normalize(getTitle(card));
-        if (title.includes("موبايلات") || title.includes("الكترونيات")) {
+        if (title.includes("موبايلات") && !title.includes("الإلكترونيات") && !title.includes("الكترونيات")) {
           panel.hidden=true;
           if (phoneCatalog) { phoneCatalog.hidden=false; loadPhones(); phoneCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
         } else if (title.includes("كتب") || title.includes("روايات")) {
