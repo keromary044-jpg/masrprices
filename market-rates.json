@@ -1,0 +1,129 @@
+{
+  "updatedAt": "2026-11-02",
+  "gold": {
+    "source": "https://yespro.net/en/gold-price",
+    "sourceLabel": "YesPro – أسعار الذهب في مصر",
+    "checkedAt": "2026-11-02 06:26 Cairo",
+    "items": [
+      {
+        "name": "ذهب عيار 24",
+        "buy": 7011,
+        "sell": 7040,
+        "unit": "جرام"
+      },
+      {
+        "name": "ذهب عيار 22",
+        "buy": 6427,
+        "sell": 6453,
+        "unit": "جرام"
+      },
+      {
+        "name": "ذهب عيار 21",
+        "buy": 6135,
+        "sell": 6160,
+        "unit": "جرام"
+      },
+      {
+        "name": "ذهب عيار 18",
+        "buy": 5258,
+        "sell": 5280,
+        "unit": "جرام"
+      },
+      {
+        "name": "جنيه ذهب (8 جرام عيار 21)",
+        "buy": 49079,
+        "sell": 49279,
+        "unit": "قطعة"
+      }
+    ]
+  },
+  "silver": {
+    "source": "https://goldprice.dev/physical/eg",
+    "sourceLabel": "GoldPrice.dev – أسعار الفضة الاسترشادية",
+    "checkedAt": "2026-11-02 09:45 UTC",
+    "items": [
+      {
+        "name": "فضة عيار 600",
+        "buy": 55.75,
+        "sell": 57.75,
+        "unit": "جرام"
+      },
+      {
+        "name": "فضة عيار 800",
+        "buy": 74.5,
+        "sell": 77,
+        "unit": "جرام"
+      },
+      {
+        "name": "فضة عيار 900",
+        "buy": 83.75,
+        "sell": 86.5,
+        "unit": "جرام"
+      },
+      {
+        "name": "فضة عيار 925",
+        "buy": 86,
+        "sell": 89,
+        "unit": "جرام"
+      },
+      {
+        "name": "فضة عيار 999",
+        "buy": 93,
+        "sell": 96,
+        "unit": "جرام"
+      }
+    ]
+  },
+  "currencies": {
+    "source": "https://www.nafeza.gov.eg/ar/currencies",
+    "sourceLabel": "مصلحة الجمارك المصرية عبر نافذة",
+    "checkedAt": "2026-11-02",
+    "items": [
+      {
+        "name": "الدولار الأمريكي",
+        "code": "USD",
+        "rate": 55.8571
+      },
+      {
+        "name": "اليورو",
+        "code": "EUR",
+        "rate": 62.3477
+      },
+      {
+        "name": "الجنيه الإسترليني",
+        "code": "GBP",
+        "rate": 74.8151
+      },
+      {
+        "name": "الريال السعودي",
+        "code": "SAR",
+        "rate": 14.8841
+      },
+      {
+        "name": "الدرهم الإماراتي",
+        "code": "AED",
+        "rate": 15.2079
+      },
+      {
+        "name": "الدينار الكويتي",
+        "code": "KWD",
+        "rate": 181.2955
+      },
+      {
+        "name": "اليوان الصيني",
+        "code": "CNY",
+        "rate": 8.3948
+      },
+      {
+        "name": "الدينار الأردني",
+        "code": "JOD",
+        "rate": 78.8943
+      },
+      {
+        "name": "الين الياباني",
+        "code": "JPY",
+        "rate": 0.3546
+      }
+    ]
+  }
+}
