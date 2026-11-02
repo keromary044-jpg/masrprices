@@ -122,6 +122,72 @@
       "source": "https://hatgebk.com/en/catalog/mg/prices",
       "checkedAt": "2026-08-05",
       "spec": "سعر قائمة الموزع الرسمي."
+    },
+    {
+      "id": "hyundai-elantra-shadow-2026",
+      "name": "Hyundai Elantra 2026 1.6L Shadow",
+      "brand": "Hyundai",
+      "modelYear": "2026",
+      "price": 1375000,
+      "category": "سيدان",
+      "source": "https://egypt.yallamotor.com/new-cars/hyundai/elantra",
+      "checkedAt": "2026-11-02",
+      "spec": "السعر المنشور على YallaMotor؛ تأكد من التوفر والفئة والرسوم لدى الوكيل قبل الشراء."
+    },
+    {
+      "id": "hyundai-elantra-blaze-2026",
+      "name": "Hyundai Elantra 2026 1.6L Blaze",
+      "brand": "Hyundai",
+      "modelYear": "2026",
+      "price": 1530000,
+      "category": "سيدان",
+      "source": "https://egypt.yallamotor.com/new-cars/hyundai/elantra",
+      "checkedAt": "2026-11-02",
+      "spec": "السعر المنشور على YallaMotor؛ تأكد من التوفر والفئة والرسوم لدى الوكيل قبل الشراء."
+    },
+    {
+      "id": "hyundai-elantra-redline-2026",
+      "name": "Hyundai Elantra 2026 1.6L RedLine",
+      "brand": "Hyundai",
+      "modelYear": "2026",
+      "price": 1700000,
+      "category": "سيدان",
+      "source": "https://egypt.yallamotor.com/new-cars/hyundai/elantra",
+      "checkedAt": "2026-11-02",
+      "spec": "السعر المنشور على YallaMotor؛ تأكد من التوفر والفئة والرسوم لدى الوكيل قبل الشراء."
+    },
+    {
+      "id": "hyundai-elantra-blackdiamond-2026",
+      "name": "Hyundai Elantra 2026 1.6L Black Diamond",
+      "brand": "Hyundai",
+      "modelYear": "2026",
+      "price": 1930000,
+      "category": "سيدان",
+      "source": "https://egypt.yallamotor.com/new-cars/hyundai/elantra",
+      "checkedAt": "2026-11-02",
+      "spec": "السعر المنشور على YallaMotor؛ تأكد من التوفر والفئة والرسوم لدى الوكيل قبل الشراء."
+    },
+    {
+      "id": "nissan-sentra-s-2026",
+      "name": "Nissan Sentra 2026 1.6L S",
+      "brand": "Nissan",
+      "modelYear": "2026",
+      "price": 949000,
+      "category": "سيدان",
+      "source": "https://egypt.yallamotor.com/new-cars/nissan/sentra/2026",
+      "checkedAt": "2026-11-02",
+      "spec": "السعر المنشور على YallaMotor؛ تأكد من التوفر والفئة والرسوم لدى الوكيل قبل الشراء."
+    },
+    {
+      "id": "nissan-sentra-full-2026",
+      "name": "Nissan Sentra 2026 1.6L Full Option",
+      "brand": "Nissan",
+      "modelYear": "2026",
+      "price": 1049000,
+      "category": "سيدان",
+      "source": "https://egypt.yallamotor.com/new-cars/nissan/sentra/2026",
+      "checkedAt": "2026-11-02",
+      "spec": "السعر المنشور على YallaMotor؛ تأكد من التوفر والفئة والرسوم لدى الوكيل قبل الشراء."
     }
   ]
 }
