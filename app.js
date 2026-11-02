@@ -163,6 +163,8 @@
       if (carCatalog) carCatalog.hidden=true;
       const applianceCatalog=document.getElementById("applianceCatalog");
       if (applianceCatalog) applianceCatalog.hidden=true;
+      const groceryCatalog=document.getElementById("groceryCatalog");
+      if (groceryCatalog) groceryCatalog.hidden=true;
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
@@ -179,6 +181,7 @@
         }
         else if (title.includes("السيارات")) { panel.hidden=true; if(carCatalog){carCatalog.hidden=false;carCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if (title.includes("الأجهزة المنزلية")) { panel.hidden=true; if(applianceCatalog){applianceCatalog.hidden=false;loadAppliances();applianceCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
+        else if (title.includes("البقالة") || title.includes("مواد غذائية")) { panel.hidden=true; if(groceryCatalog){groceryCatalog.hidden=false;loadGroceries();groceryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
       }
     });
     card.addEventListener("keydown",event => {
@@ -381,3 +384,37 @@
     }catch(e){root.textContent="تعذر تحميل أسعار الأجهزة المنزلية حاليًا.";}
   }
   ["applianceSearch","applianceCategory","applianceSort"].forEach(id=>{const el=document.getElementById(id);if(el)el.addEventListener(id==="applianceSearch"?"input":"change",()=>{if(applianceData)renderAppliances(applianceData);});});
+
+  let groceryData=null;
+  function renderGroceries(data){
+    const root=document.getElementById("groceryProducts");if(!root)return;
+    const q=normalize(document.getElementById("grocerySearch")?.value||"");
+    const cat=document.getElementById("groceryCategory")?.value||"";
+    const sort=document.getElementById("grocerySort")?.value||"name";
+    const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.unit].join(" ")).includes(q)));
+    rows.sort((a,b)=>sort==="price"?a.price-b.price:a.name.localeCompare(b.name,"ar"));
+    root.replaceChildren();
+    rows.forEach(x=>{
+      const card=element("article","book-card");
+      card.append(element("span","book-category",x.category+" · "+x.brand));
+      card.append(element("h3","",x.name));
+      card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه"));
+      card.append(element("p","book-store","العبوة: "+x.unit+" · المتجر: "+x.merchant));
+      card.append(element("small","book-date","آخر رصد: "+x.checkedAt));
+      const link=element("a","book-source","فتح قائمة المتجر");link.href=data.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
+      root.append(card);
+    });
+    const count=document.getElementById("groceryCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" سلعة";
+    if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
+  }
+  async function loadGroceries(){
+    const root=document.getElementById("groceryProducts");if(!root||groceryData)return;
+    try{
+      const res=await fetch("./groceries.json",{cache:"no-cache"});if(!res.ok)throw new Error();
+      groceryData=await res.json();
+      const sel=document.getElementById("groceryCategory");
+      [...new Set(groceryData.products.map(x=>x.category))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});
+      renderGroceries(groceryData);
+    }catch(e){root.textContent="تعذر تحميل أسعار البقالة حاليًا.";}
+  }
+  ["grocerySearch","groceryCategory","grocerySort"].forEach(id=>{const el=document.getElementById(id);if(el)el.addEventListener(id==="grocerySearch"?"input":"change",()=>{if(groceryData)renderGroceries(groceryData);});});
