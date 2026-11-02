@@ -1,0 +1,1568 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "قائمة تعريفية بالمواد الفعالة. لا تحتوي على أسعار أو جرعات أو توصيات علاجية. المضادات الحيوية وأدوية الأمراض المزمنة والأدوية التخصصية لا تستخدم إلا بتوجيه طبي. تحقق من التسجيل والتركيز والشكل الدوائي لدى هيئة الدواء المصرية والصيدلي.",
+  "source": "https://edaegypt.gov.eg/",
+  "products": [
+    {
+      "id": "med-001",
+      "name": "باراسيتامول",
+      "activeIngredient": "Paracetamol",
+      "category": "مسكن وخافض حرارة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-002",
+      "name": "إيبوبروفين",
+      "activeIngredient": "Ibuprofen",
+      "category": "مسكن ومضاد التهاب",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-003",
+      "name": "ديكلوفيناك",
+      "activeIngredient": "Diclofenac",
+      "category": "مسكن ومضاد التهاب",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-004",
+      "name": "نابروكسين",
+      "activeIngredient": "Naproxen",
+      "category": "مسكن ومضاد التهاب",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-005",
+      "name": "كيتوبروفين",
+      "activeIngredient": "Ketoprofen",
+      "category": "مسكن ومضاد التهاب",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-006",
+      "name": "ميلوكسيكام",
+      "activeIngredient": "Meloxicam",
+      "category": "مسكن ومضاد التهاب",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-007",
+      "name": "سيليكوكسيب",
+      "activeIngredient": "Celecoxib",
+      "category": "مسكن ومضاد التهاب",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-008",
+      "name": "إيتوريكوكسيب",
+      "activeIngredient": "Etoricoxib",
+      "category": "مسكن ومضاد التهاب",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-009",
+      "name": "أسبرين",
+      "activeIngredient": "Acetylsalicylic acid",
+      "category": "مسكن ومضاد التهاب",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-010",
+      "name": "ميثوكاربامول",
+      "activeIngredient": "Methocarbamol",
+      "category": "باسط عضلات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-011",
+      "name": "تيزانيدين",
+      "activeIngredient": "Tizanidine",
+      "category": "باسط عضلات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-012",
+      "name": "باكلوفين",
+      "activeIngredient": "Baclofen",
+      "category": "باسط عضلات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-013",
+      "name": "ليدوكايين موضعي",
+      "activeIngredient": "Lidocaine",
+      "category": "مستحضرات موضعية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-014",
+      "name": "كابسيسين",
+      "activeIngredient": "Capsaicin",
+      "category": "مستحضرات موضعية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-015",
+      "name": "أوميبرازول",
+      "activeIngredient": "Omeprazole",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-016",
+      "name": "إيزوميبرازول",
+      "activeIngredient": "Esomeprazole",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-017",
+      "name": "بانتوبرازول",
+      "activeIngredient": "Pantoprazole",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-018",
+      "name": "لانسوبرازول",
+      "activeIngredient": "Lansoprazole",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-019",
+      "name": "فاموتيدين",
+      "activeIngredient": "Famotidine",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-020",
+      "name": "ألجينات الصوديوم",
+      "activeIngredient": "Sodium alginate",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-021",
+      "name": "دومبيريدون",
+      "activeIngredient": "Domperidone",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-022",
+      "name": "ميتوكلوبراميد",
+      "activeIngredient": "Metoclopramide",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-023",
+      "name": "أوندانسيترون",
+      "activeIngredient": "Ondansetron",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-024",
+      "name": "دايمينهيدرينات",
+      "activeIngredient": "Dimenhydrinate",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-025",
+      "name": "هيوسين بيوتيل بروميد",
+      "activeIngredient": "Hyoscine butylbromide",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-026",
+      "name": "مبيفيرين",
+      "activeIngredient": "Mebeverine",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-027",
+      "name": "تريميبوتين",
+      "activeIngredient": "Trimebutine",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-028",
+      "name": "لاكتولوز",
+      "activeIngredient": "Lactulose",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-029",
+      "name": "ماكروجول",
+      "activeIngredient": "Macrogol",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-030",
+      "name": "بيساكوديل",
+      "activeIngredient": "Bisacodyl",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-031",
+      "name": "لوبيراميد",
+      "activeIngredient": "Loperamide",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-032",
+      "name": "ديوسمكتيت",
+      "activeIngredient": "Diosmectite",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-033",
+      "name": "سيميثيكون",
+      "activeIngredient": "Simethicone",
+      "category": "الجهاز الهضمي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-034",
+      "name": "سيتريزين",
+      "activeIngredient": "Cetirizine",
+      "category": "الحساسية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-035",
+      "name": "ليفوسيتريزين",
+      "activeIngredient": "Levocetirizine",
+      "category": "الحساسية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-036",
+      "name": "لوراتادين",
+      "activeIngredient": "Loratadine",
+      "category": "الحساسية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-037",
+      "name": "ديسلوراتادين",
+      "activeIngredient": "Desloratadine",
+      "category": "الحساسية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-038",
+      "name": "فيكسوفينادين",
+      "activeIngredient": "Fexofenadine",
+      "category": "الحساسية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-039",
+      "name": "كلورفينيرامين",
+      "activeIngredient": "Chlorpheniramine",
+      "category": "الحساسية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-040",
+      "name": "مونتيلوكاست",
+      "activeIngredient": "Montelukast",
+      "category": "الحساسية والتنفس",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-041",
+      "name": "سالبيوتامول",
+      "activeIngredient": "Salbutamol",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-042",
+      "name": "بوديزونيد",
+      "activeIngredient": "Budesonide",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-043",
+      "name": "فلوتيكازون",
+      "activeIngredient": "Fluticasone",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-044",
+      "name": "إبراتروبيوم",
+      "activeIngredient": "Ipratropium",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-045",
+      "name": "أسيتيل سيستايين",
+      "activeIngredient": "Acetylcysteine",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-046",
+      "name": "أمبروكسول",
+      "activeIngredient": "Ambroxol",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-047",
+      "name": "برومهيكسين",
+      "activeIngredient": "Bromhexine",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-048",
+      "name": "ديكستروميثورفان",
+      "activeIngredient": "Dextromethorphan",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-049",
+      "name": "جوايفينيسين",
+      "activeIngredient": "Guaifenesin",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-050",
+      "name": "أوكسيميتازولين",
+      "activeIngredient": "Oxymetazoline",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-051",
+      "name": "زايلوميتازولين",
+      "activeIngredient": "Xylometazoline",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-052",
+      "name": "أموكسيسيلين",
+      "activeIngredient": "Amoxicillin",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-053",
+      "name": "أموكسيسيلين مع كلافولانيك",
+      "activeIngredient": "Amoxicillin + Clavulanic acid",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-054",
+      "name": "أزيثروميسين",
+      "activeIngredient": "Azithromycin",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-055",
+      "name": "كلاريثروميسين",
+      "activeIngredient": "Clarithromycin",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-056",
+      "name": "سيفيكسيم",
+      "activeIngredient": "Cefixime",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-057",
+      "name": "سيفوروكسيم",
+      "activeIngredient": "Cefuroxime",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-058",
+      "name": "سيفترياكسون",
+      "activeIngredient": "Ceftriaxone",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-059",
+      "name": "سيبروفلوكساسين",
+      "activeIngredient": "Ciprofloxacin",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-060",
+      "name": "ليفوفلوكساسين",
+      "activeIngredient": "Levofloxacin",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-061",
+      "name": "ميترونيدازول",
+      "activeIngredient": "Metronidazole",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-062",
+      "name": "نيتروفورانتوين",
+      "activeIngredient": "Nitrofurantoin",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-063",
+      "name": "فوسفوميسين",
+      "activeIngredient": "Fosfomycin",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-064",
+      "name": "دوكسيسيكلين",
+      "activeIngredient": "Doxycycline",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-065",
+      "name": "كليندامايسين",
+      "activeIngredient": "Clindamycin",
+      "category": "مضادات حيوية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-066",
+      "name": "فلوكونازول",
+      "activeIngredient": "Fluconazole",
+      "category": "مضادات فطريات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-067",
+      "name": "ميكونازول",
+      "activeIngredient": "Miconazole",
+      "category": "مضادات فطريات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-068",
+      "name": "كلوتريمازول",
+      "activeIngredient": "Clotrimazole",
+      "category": "مضادات فطريات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-069",
+      "name": "تيربينافين",
+      "activeIngredient": "Terbinafine",
+      "category": "مضادات فطريات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-070",
+      "name": "أسيكلوفير",
+      "activeIngredient": "Acyclovir",
+      "category": "مضادات فيروسية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-071",
+      "name": "ميتفورمين",
+      "activeIngredient": "Metformin",
+      "category": "السكري والغدد",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-072",
+      "name": "جليكلازيد",
+      "activeIngredient": "Gliclazide",
+      "category": "السكري والغدد",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-073",
+      "name": "جليميبرايد",
+      "activeIngredient": "Glimepiride",
+      "category": "السكري والغدد",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-074",
+      "name": "سيتاجليبتين",
+      "activeIngredient": "Sitagliptin",
+      "category": "السكري والغدد",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-075",
+      "name": "إمباجليفلوزين",
+      "activeIngredient": "Empagliflozin",
+      "category": "السكري والغدد",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-076",
+      "name": "داباجليفلوزين",
+      "activeIngredient": "Dapagliflozin",
+      "category": "السكري والغدد",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-077",
+      "name": "ليفوثيروكسين",
+      "activeIngredient": "Levothyroxine",
+      "category": "السكري والغدد",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-078",
+      "name": "كاربميزول",
+      "activeIngredient": "Carbimazole",
+      "category": "السكري والغدد",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-079",
+      "name": "بريدنيزولون",
+      "activeIngredient": "Prednisolone",
+      "category": "الهرمونات والمناعة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-080",
+      "name": "هيدروكورتيزون",
+      "activeIngredient": "Hydrocortisone",
+      "category": "الهرمونات والمناعة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-081",
+      "name": "ديكساميثازون",
+      "activeIngredient": "Dexamethasone",
+      "category": "الهرمونات والمناعة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-082",
+      "name": "أملوديبين",
+      "activeIngredient": "Amlodipine",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-083",
+      "name": "بيسوبرولول",
+      "activeIngredient": "Bisoprolol",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-084",
+      "name": "ميتوبرولول",
+      "activeIngredient": "Metoprolol",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-085",
+      "name": "كابتوبريل",
+      "activeIngredient": "Captopril",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-086",
+      "name": "إنالابريل",
+      "activeIngredient": "Enalapril",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-087",
+      "name": "راميبريل",
+      "activeIngredient": "Ramipril",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-088",
+      "name": "لوسارتان",
+      "activeIngredient": "Losartan",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-089",
+      "name": "فالسارتان",
+      "activeIngredient": "Valsartan",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-090",
+      "name": "فالسارتان مع أملوديبين",
+      "activeIngredient": "Valsartan + Amlodipine",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-091",
+      "name": "فوروسيميد",
+      "activeIngredient": "Furosemide",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-092",
+      "name": "إنداباميد",
+      "activeIngredient": "Indapamide",
+      "category": "القلب والضغط",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-093",
+      "name": "أتورفاستاتين",
+      "activeIngredient": "Atorvastatin",
+      "category": "الكوليسترول",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-094",
+      "name": "روسوفاستاتين",
+      "activeIngredient": "Rosuvastatin",
+      "category": "الكوليسترول",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-095",
+      "name": "إيزيتيميب",
+      "activeIngredient": "Ezetimibe",
+      "category": "الكوليسترول",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-096",
+      "name": "كلوبيدوجريل",
+      "activeIngredient": "Clopidogrel",
+      "category": "القلب والأوعية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-097",
+      "name": "وارفارين",
+      "activeIngredient": "Warfarin",
+      "category": "القلب والأوعية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-098",
+      "name": "ريفاروكسابان",
+      "activeIngredient": "Rivaroxaban",
+      "category": "القلب والأوعية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-099",
+      "name": "أبيكسابان",
+      "activeIngredient": "Apixaban",
+      "category": "القلب والأوعية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-100",
+      "name": "نيتروجليسرين",
+      "activeIngredient": "Nitroglycerin",
+      "category": "القلب والأوعية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-101",
+      "name": "كبريتات الحديدوز",
+      "activeIngredient": "Ferrous sulfate",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-102",
+      "name": "فومارات الحديدوز",
+      "activeIngredient": "Ferrous fumarate",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-103",
+      "name": "حمض الفوليك",
+      "activeIngredient": "Folic acid",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-104",
+      "name": "فيتامين د3",
+      "activeIngredient": "Cholecalciferol",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-105",
+      "name": "فيتامين ب12",
+      "activeIngredient": "Cyanocobalamin",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-106",
+      "name": "فيتامين ب1",
+      "activeIngredient": "Thiamine",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-107",
+      "name": "فيتامين ب6",
+      "activeIngredient": "Pyridoxine",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-108",
+      "name": "فيتامين ج",
+      "activeIngredient": "Ascorbic acid",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-109",
+      "name": "كالسيوم كربونات",
+      "activeIngredient": "Calcium carbonate",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-110",
+      "name": "زنك",
+      "activeIngredient": "Zinc",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-111",
+      "name": "ماغنسيوم",
+      "activeIngredient": "Magnesium",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-112",
+      "name": "فيتامين هـ",
+      "activeIngredient": "Vitamin E",
+      "category": "الفيتامينات والمعادن",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-113",
+      "name": "سيرترالين",
+      "activeIngredient": "Sertraline",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-114",
+      "name": "إسيتالوبرام",
+      "activeIngredient": "Escitalopram",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-115",
+      "name": "فلوكسيتين",
+      "activeIngredient": "Fluoxetine",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-116",
+      "name": "دولوكسيتين",
+      "activeIngredient": "Duloxetine",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-117",
+      "name": "أميتريبتيلين",
+      "activeIngredient": "Amitriptyline",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-118",
+      "name": "جابابنتين",
+      "activeIngredient": "Gabapentin",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-119",
+      "name": "بريجابالين",
+      "activeIngredient": "Pregabalin",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-120",
+      "name": "لاموتريجين",
+      "activeIngredient": "Lamotrigine",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-121",
+      "name": "ليفيتيراسيتام",
+      "activeIngredient": "Levetiracetam",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-122",
+      "name": "كاربامازيبين",
+      "activeIngredient": "Carbamazepine",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-123",
+      "name": "فالبروات الصوديوم",
+      "activeIngredient": "Sodium valproate",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-124",
+      "name": "دونيبيزيل",
+      "activeIngredient": "Donepezil",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-125",
+      "name": "سوماتريبتان",
+      "activeIngredient": "Sumatriptan",
+      "category": "الصحة النفسية والعصبية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-126",
+      "name": "تادالافيل",
+      "activeIngredient": "Tadalafil",
+      "category": "أدوية أخرى بوصفة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-127",
+      "name": "تامسولوسين",
+      "activeIngredient": "Tamsulosin",
+      "category": "المسالك البولية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-128",
+      "name": "فيناسترايد",
+      "activeIngredient": "Finasteride",
+      "category": "المسالك البولية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-129",
+      "name": "ألفوزوسين",
+      "activeIngredient": "Alfuzosin",
+      "category": "المسالك البولية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-130",
+      "name": "أوكسيبوتينين",
+      "activeIngredient": "Oxybutynin",
+      "category": "المسالك البولية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-131",
+      "name": "سوليفيناسين",
+      "activeIngredient": "Solifenacin",
+      "category": "المسالك البولية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-132",
+      "name": "سيترات البوتاسيوم",
+      "activeIngredient": "Potassium citrate",
+      "category": "المسالك البولية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-133",
+      "name": "ميثوتركسات",
+      "activeIngredient": "Methotrexate",
+      "category": "أدوية تخصصية بوصفة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-134",
+      "name": "هيدروكسي كلوروكين",
+      "activeIngredient": "Hydroxychloroquine",
+      "category": "أدوية تخصصية بوصفة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-135",
+      "name": "ألوبيورينول",
+      "activeIngredient": "Allopurinol",
+      "category": "أدوية تخصصية بوصفة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-136",
+      "name": "كولشيسين",
+      "activeIngredient": "Colchicine",
+      "category": "أدوية تخصصية بوصفة",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-137",
+      "name": "ألبيندازول",
+      "activeIngredient": "Albendazole",
+      "category": "مضادات الطفيليات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-138",
+      "name": "ميبيندازول",
+      "activeIngredient": "Mebendazole",
+      "category": "مضادات الطفيليات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-139",
+      "name": "إيفرمكتين",
+      "activeIngredient": "Ivermectin",
+      "category": "مضادات الطفيليات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-140",
+      "name": "بيرميثرين",
+      "activeIngredient": "Permethrin",
+      "category": "مضادات الطفيليات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-141",
+      "name": "كلورهيكسيدين",
+      "activeIngredient": "Chlorhexidine",
+      "category": "مطهرات ومستحضرات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-142",
+      "name": "بوفيدون يود",
+      "activeIngredient": "Povidone-iodine",
+      "category": "مطهرات ومستحضرات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-143",
+      "name": "ديكسبانثينول",
+      "activeIngredient": "Dexpanthenol",
+      "category": "مطهرات ومستحضرات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-144",
+      "name": "أكسيد الزنك",
+      "activeIngredient": "Zinc oxide",
+      "category": "مطهرات ومستحضرات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-145",
+      "name": "فيوسيديك أسيد",
+      "activeIngredient": "Fusidic acid",
+      "category": "مطهرات ومستحضرات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-146",
+      "name": "ميوبيروسين",
+      "activeIngredient": "Mupirocin",
+      "category": "مطهرات ومستحضرات",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-147",
+      "name": "تريتينوين",
+      "activeIngredient": "Tretinoin",
+      "category": "الجلدية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-148",
+      "name": "أدابالين",
+      "activeIngredient": "Adapalene",
+      "category": "الجلدية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-149",
+      "name": "بنزويل بيروكسيد",
+      "activeIngredient": "Benzoyl peroxide",
+      "category": "الجلدية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-150",
+      "name": "كيتوكونازول",
+      "activeIngredient": "Ketoconazole",
+      "category": "الجلدية",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-151",
+      "name": "محلول ملحي للأنف",
+      "activeIngredient": "Sodium chloride",
+      "category": "الجهاز التنفسي",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-152",
+      "name": "دموع صناعية",
+      "activeIngredient": "Carboxymethylcellulose",
+      "category": "العيون",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-153",
+      "name": "تيمولول للعين",
+      "activeIngredient": "Timolol",
+      "category": "العيون",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-154",
+      "name": "لاتانوبروست",
+      "activeIngredient": "Latanoprost",
+      "category": "العيون",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-155",
+      "name": "توبراميسين للعين",
+      "activeIngredient": "Tobramycin",
+      "category": "العيون",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    },
+    {
+      "id": "med-156",
+      "name": "أزيلاستين للعين",
+      "activeIngredient": "Azelastine",
+      "category": "العيون",
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "source": "https://edaegypt.gov.eg/",
+      "note": "بيانات تعريفية فقط، وليست توصية بالاستخدام. تحقق من التسجيل والتركيز والشكل الدوائي والسعر لدى الصيدلي أو هيئة الدواء المصرية."
+    }
+  ]
+}
