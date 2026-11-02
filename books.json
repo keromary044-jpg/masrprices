@@ -11,7 +11,9 @@
       "price": 45,
       "merchant": "الأهرام ستور",
       "source": "https://store.ahram.org.eg/ar/Home/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "ahram-heykl",
@@ -21,7 +23,9 @@
       "price": 63,
       "merchant": "الأهرام ستور",
       "source": "https://store.ahram.org.eg/ar/Home/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "ahram-life",
@@ -31,7 +35,9 @@
       "price": 72,
       "merchant": "الأهرام ستور",
       "source": "https://store.ahram.org.eg/ar/Home/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "ahram-journey",
@@ -41,7 +47,9 @@
       "price": 67.5,
       "merchant": "الأهرام ستور",
       "source": "https://store.ahram.org.eg/ar/Home/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "ahram-may",
@@ -51,7 +59,9 @@
       "price": 144,
       "merchant": "الأهرام ستور",
       "source": "https://store.ahram.org.eg/ar/Home/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "insan-sherlock-bohemia",
@@ -61,7 +71,9 @@
       "price": 190,
       "merchant": "مكتبات إنسان",
       "source": "https://insancenter.org/shop/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "insan-blue-carbuncle",
@@ -71,7 +83,9 @@
       "price": 170,
       "merchant": "مكتبات إنسان",
       "source": "https://insancenter.org/shop/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "insan-dracula",
@@ -81,7 +95,9 @@
       "price": 170,
       "merchant": "مكتبات إنسان",
       "source": "https://insancenter.org/shop/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "insan-horse-boy",
@@ -91,7 +107,9 @@
       "price": 170,
       "merchant": "مكتبات إنسان",
       "source": "https://insancenter.org/shop/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "insan-silver-chair",
@@ -101,7 +119,9 @@
       "price": 210,
       "merchant": "مكتبات إنسان",
       "source": "https://insancenter.org/shop/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "kotobzone-happiness",
@@ -111,7 +131,9 @@
       "price": 600,
       "merchant": "كتب زون",
       "source": "https://www.kotobzone.com/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "kotobzone-microphone",
@@ -121,7 +143,9 @@
       "price": 260,
       "merchant": "كتب زون",
       "source": "https://www.kotobzone.com/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "kotobzone-last-cassette",
@@ -131,7 +155,9 @@
       "price": 270,
       "merchant": "كتب زون",
       "source": "https://www.kotobzone.com/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "kotobzone-returns",
@@ -141,7 +167,9 @@
       "price": 275,
       "merchant": "كتب زون",
       "source": "https://www.kotobzone.com/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     },
     {
       "id": "kotobzone-sunrise",
@@ -151,7 +179,9 @@
       "price": 1825,
       "merchant": "كتب زون",
       "source": "https://www.kotobzone.com/",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "legalPdfUrl": null,
+      "pdfStatus": "لا يتوفر رابط PDF مجاني مرخّص تم التحقق منه"
     }
   ]
 }
