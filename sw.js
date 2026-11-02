@@ -1,5 +1,5 @@
-const CACHE_NAME = "masrprices-v5";
-const FILES_TO_CACHE = ["./","./index.html","./styles.css","./app.js","./manifest.webmanifest","./phones.json","./phone-model-index.json"];
+const CACHE_NAME = "masrprices-v6";
+const FILES_TO_CACHE = ["./","./index.html","./styles.css","./app.js","./manifest.webmanifest","./phones.json","./phone-model-index.json","./books.json"];
 
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE_NAME).then(cache => cache.addAll(FILES_TO_CACHE)).then(() => self.skipWaiting()));
