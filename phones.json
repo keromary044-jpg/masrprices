@@ -20,10 +20,44 @@
       "build": "راجع صفحة المواصفات الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/galaxy-s26-ultra/buy/",
       "sourceLabel": "Samsung Egypt – صفحة الشراء الرسمية",
-      "priceEGP": 76490,
-      "priceSource": "Samsung Egypt – السعر المعروض لنسخة 256GB/12GB",
+      "priceEGP": 54999,
+      "priceSource": "أقل سعر مرصود عبر PriceTeq؛ راجع المتجر وتأكد من النسخة والضمان",
       "priceCheckedAt": "2026-11-02",
-      "priceStatus": "سعر رسمي منشور وقت الرصد؛ قد يتغير"
+      "priceStatus": "سعر مقارنة مجمّع، وليس سعرًا مضمونًا أو عرضًا مباشرًا من المتجر",
+      "priceOffers": [
+        {
+          "merchant": "Ennap Egypt",
+          "priceEGP": 54999,
+          "variant": "256GB / 12GB – Dual SIM 5G",
+          "source": "https://priceteq.com/eg/product/0f603b6d-eb40-4420-b120-6ab770a8a285",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر",
+          "checkedAt": "2026-11-02"
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 69000,
+          "variant": "256GB / 12GB – حسب صفحة المقارنة",
+          "source": "https://priceteq.com/eg/product/0f603b6d-eb40-4420-b120-6ab770a8a285",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر",
+          "checkedAt": "2026-11-02"
+        },
+        {
+          "merchant": "Smart Koshk Egypt",
+          "priceEGP": 69990,
+          "variant": "256GB / 12GB – حسب صفحة المقارنة",
+          "source": "https://priceteq.com/eg/product/0f603b6d-eb40-4420-b120-6ab770a8a285",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر",
+          "checkedAt": "2026-11-02"
+        },
+        {
+          "merchant": "Samsung Egypt",
+          "priceEGP": 76490,
+          "variant": "256GB / 12GB – SM-S948BLBIMEA",
+          "source": "https://www.samsung.com/eg/smartphones/galaxy-s26-ultra/buy/",
+          "sourceLabel": "متجر سامسونج الرسمي",
+          "checkedAt": "2026-11-02"
+        }
+      ]
     },
     {
       "id": "samsung-galaxy-a56-5g",
