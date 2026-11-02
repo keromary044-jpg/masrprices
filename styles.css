@@ -37,3 +37,5 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .construction-catalog .book-card{min-width:0}.construction-catalog .book-card p{line-height:1.6}.construction-catalog .book-price{font-weight:800}
 
 .market-rates{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px;margin-top:20px}.market-rate-group{background:#fff;border:1px solid #e5e7eb;border-radius:14px;padding:16px}.market-rate-group h3{margin:0 0 12px}.market-rate-row{display:flex;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid #eee}.market-rate-row span{text-align:left;font-variant-numeric:tabular-nums}.market-rate-group .catalog-footnote{display:block;margin-top:12px;line-height:1.7}
+
+.car-catalog .book-card{min-width:0}.car-catalog .book-price{font-weight:800}
