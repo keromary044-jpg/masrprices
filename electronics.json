@@ -130,7 +130,9 @@
       "brand": "Samsung",
       "price": 44777,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-toshiba-tv75",
@@ -139,7 +141,9 @@
       "brand": "Toshiba",
       "price": 39999,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-haier-tv50",
@@ -148,7 +152,9 @@
       "brand": "Haier",
       "price": 18499,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-jac-tv32",
@@ -157,7 +163,9 @@
       "brand": "JAC",
       "price": 4777,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-hp-printer",
@@ -166,7 +174,9 @@
       "brand": "HP",
       "price": 2849,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-pantum-printer",
@@ -175,7 +185,9 @@
       "brand": "Pantum",
       "price": 4799,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-lenovo-tablet",
@@ -184,7 +196,9 @@
       "brand": "Lenovo",
       "price": 18999,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-inoi-tablet",
@@ -193,7 +207,9 @@
       "brand": "INOI",
       "price": 5699,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-jbl-headset",
@@ -202,7 +218,9 @@
       "brand": "JBL",
       "price": 2699,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "elc-speaker-zerotech",
@@ -211,7 +229,9 @@
       "brand": "Zerotech",
       "price": 10299,
       "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "checkedAt": "2026-11-02",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
+      "sourceLabel": "Carrefour Egypt – كتالوج الإلكترونيات"
     },
     {
       "id": "tv-haier50-cf",
