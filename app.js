@@ -246,6 +246,28 @@
   });
   loadBooks();
 
+
+  let constructionData=null;
+  function renderConstruction(data){
+    const container=document.getElementById("constructionProducts");if(!container)return;
+    const q=normalize(document.getElementById("constructionSearch")?.value||"");
+    const cat=document.getElementById("constructionCategory")?.value||"";
+    const sort=document.getElementById("constructionSort")?.value||"name";
+    const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.category,x.spec,x.unit].join(" ")).includes(q)));
+    rows.sort((a,b)=>sort==="price"?a.price-b.price:a.name.localeCompare(b.name,"ar"));
+    container.replaceChildren();
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه / "+x.unit));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر رصد: "+x.checkedAt+" · "+data.region));const link=element("a","book-source","تفاصيل المصدر");link.href=data.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);container.append(card);});
+    const count=document.getElementById("constructionCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" بندًا";
+    if(!rows.length)container.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
+  }
+  async function loadConstruction(){
+    const container=document.getElementById("constructionProducts");if(!container)return;
+    try{const response=await fetch("./construction.json",{cache:"no-cache"});if(!response.ok)throw new Error("construction data unavailable");constructionData=await response.json();const select=document.getElementById("constructionCategory");[...new Set(constructionData.products.map(x=>x.category))].sort().forEach(x=>{const o=element("option","",x);o.value=x;select.append(o);});renderConstruction(constructionData);}
+    catch(e){container.textContent="تعذر تحميل أسعار مواد البناء حاليًا.";}
+  }
+  ["constructionSearch","constructionCategory","constructionSort"].forEach(id=>{const el=document.getElementById(id);if(el)el.addEventListener(id==="constructionSearch"?"input":"change",()=>{if(constructionData)renderConstruction(constructionData);});});
+  loadConstruction();
+
   let installPrompt=null;
   const installButton=document.getElementById("installBtn");
   window.addEventListener("beforeinstallprompt",event => {
