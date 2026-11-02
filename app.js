@@ -368,9 +368,9 @@
     const cat=document.getElementById("constructionCategory")?.value||"";
     const sort=document.getElementById("constructionSort")?.value||"name";
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.category,x.spec,x.unit].join(" ")).includes(q)));
-    rows.sort((a,b)=>sort==="price"?a.price-b.price:a.name.localeCompare(b.name,"ar"));
+    rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     container.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه / "+x.unit));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر رصد: "+x.checkedAt+" · "+data.region));const link=element("a","book-source","تفاصيل المصدر");link.href=data.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);container.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",(Number.isFinite(x.price)?x.price.toLocaleString("en-US")+" جنيه / "+x.unit:"السعر غير متاح")));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر رصد: "+x.checkedAt+" · "+data.region));const link=element("a","book-source","تفاصيل المصدر");link.href=data.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);container.append(card);});
     const count=document.getElementById("constructionCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" بندًا";
     if(!rows.length)container.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
@@ -416,7 +416,7 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.spec].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?a.price-b.price:a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price==null?"السعر غير منشور — راجع المصدر الرسمي":x.price.toLocaleString("en-US")+" جنيه"));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));const link=element("a","book-source","مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);root.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price==null?"السعر غير منشور — راجع المصدر الرسمي":(Number.isFinite(x.price)?x.price.toLocaleString("en-US")+" جنيه":"السعر غير متاح")));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));const link=element("a","book-source","مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);root.append(card);});
     const count=document.getElementById("carCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" فئة";
   }
   async function loadCars(){const root=document.getElementById("carProducts");if(!root)return;try{const res=await fetch("./cars.json",{cache:"no-cache"});if(!res.ok)throw new Error();carData=await res.json();const sel=document.getElementById("carCategory");[...new Set(carData.products.map(x=>x.category))].forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderCars(carData);}catch(e){root.textContent="تعذر تحميل أسعار السيارات حاليًا.";}}
@@ -515,13 +515,13 @@
     const cat=document.getElementById("stationeryCategory")?.value||"";
     const sort=document.getElementById("stationerySort")?.value||"name";
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.category,x.unit].join(" ")).includes(q)));
-    rows.sort((a,b)=>sort==="price"?a.priceFrom-b.priceFrom:a.name.localeCompare(b.name,"ar"));
+    rows.sort((a,b)=>sort==="price"?((a.priceFrom??Infinity)-(b.priceFrom??Infinity)):a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
     rows.forEach(x=>{
       const card=element("article","book-card");
       card.append(element("span","book-category",x.category));
       card.append(element("h3","",x.name));
-      card.append(element("p","book-price",x.priceFrom===x.priceTo?x.priceFrom.toLocaleString("en-US")+" جنيه":x.priceFrom.toLocaleString("en-US")+"–"+x.priceTo.toLocaleString("en-US")+" جنيه"));
+      card.append(element("p","book-price",(Number.isFinite(x.priceFrom)&&Number.isFinite(x.priceTo)?(x.priceFrom===x.priceTo?x.priceFrom.toLocaleString("en-US")+" جنيه":x.priceFrom.toLocaleString("en-US")+"–"+x.priceTo.toLocaleString("en-US")+" جنيه"):"السعر غير متاح")));
       card.append(element("p","book-store","الوحدة: "+x.unit));
       card.append(element("small","book-date","آخر رصد: "+x.checkedAt+" · نطاق تقريبي منشور"));
       const link=element("a","book-source","مصدر نطاق السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
