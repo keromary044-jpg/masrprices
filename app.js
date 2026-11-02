@@ -264,35 +264,73 @@
       globalSearchBox.hidden=true;
     },180);
   }
-  let searchTimer=null;
+  let searchTimer=null,activeSearchIndex=-1,lastSearchMatches=[];
+  function closeGlobalSearch(){globalSearchBox.hidden=true;activeSearchIndex=-1;}
+  function showSearchMatches(query,datasets){
+    const matches=[];
+    datasets.forEach(({meta,items})=>items.forEach(item=>{
+      const full=searchText(item);
+      const score=full===query?0:normalize(item.name||item.title||"")===query?1:
+        normalize(item.name||item.title||"").startsWith(query)?2:
+        normalize(item.brand||"").startsWith(query)?3:full.includes(query)?4:99;
+      if(score<99)matches.push({meta,item,score});
+    }));
+    matches.sort((a,b)=>a.score-b.score||(a.item.name||a.item.title||"").localeCompare(b.item.name||b.item.title||"","ar"));
+    lastSearchMatches=matches.slice(0,20);
+    globalSearchBox.replaceChildren();
+    if(!matches.length){
+      globalSearchBox.append(element("p","search-empty-title","مفيش نتائج مطابقة"));
+      globalSearchBox.append(element("p","catalog-footnote","جرّب اسم الماركة أو جزءًا من اسم المنتج، أو اختصر كلمة البحث."));
+      return;
+    }
+    const heading=element("div","search-results-heading","نتائج البحث · "+matches.length+" نتيجة");
+    globalSearchBox.append(heading);
+    lastSearchMatches.forEach(({meta,item},index)=>{
+      const button=element("button","global-search-result");button.type="button";button.dataset.index=String(index);
+      const imageUrl=item.image||item.imageUrl||item.image_url||"";
+      if(/^https?:\/\//i.test(imageUrl)){const thumb=element("img","global-search-thumb");thumb.src=imageUrl;thumb.alt="";thumb.loading="lazy";thumb.referrerPolicy="no-referrer";thumb.onerror=()=>thumb.remove();button.append(thumb);}
+      const info=element("span","global-search-info");
+      info.append(element("strong","",item.name||item.title||"منتج"));
+      const rawPrice=item.price??item.priceEGP??item.priceFrom??null;
+      const priceLabel=typeof rawPrice==="number"&&Number.isFinite(rawPrice)?rawPrice.toLocaleString("en-US")+" جنيه": "السعر غير متاح حاليًا";
+      info.append(element("small","",meta[1]+" · "+priceLabel));
+      button.append(info);
+      button.addEventListener("click",()=>openSearchResult(meta,item));
+      globalSearchBox.append(button);
+    });
+    if(matches.length>20)globalSearchBox.append(element("small","catalog-footnote","أول 20 نتيجة من "+matches.length+". حدّد البحث لمزيد من الدقة."));
+  }
   if(searchInput){
     searchInput.setAttribute("aria-controls","globalSearchResults");
     searchInput.setAttribute("autocomplete","off");
-    searchInput.addEventListener("input",async()=>{
+    searchInput.setAttribute("aria-expanded","false");
+    searchInput.addEventListener("input",()=>{
+      clearTimeout(searchTimer);
       const query=normalize(searchInput.value);
-      if(query.length<1){globalSearchBox.hidden=true;globalSearchBox.replaceChildren();cards.forEach(c=>c.hidden=false);if(noResults)noResults.hidden=true;return;}
-      globalSearchBox.hidden=false;globalSearchBox.replaceChildren(element("p","catalog-footnote","جارٍ البحث في جميع الأقسام..."));
-      const datasets=await loadAllSearchData();
-      if(normalize(searchInput.value)!==query)return;
-      const matches=[];
-      datasets.forEach(({meta,items})=>items.forEach(item=>{const text=searchText(item);if(text.includes(query))matches.push({meta,item});}));
-      matches.sort((a,b)=>{const an=normalize(a.item.name||a.item.title||""),bn=normalize(b.item.name||b.item.title||"");return (an===query?-1:bn===query?1:an.indexOf(query)-bn.indexOf(query));});
-      globalSearchBox.replaceChildren();
-      if(!matches.length){globalSearchBox.append(element("p","catalog-footnote","لا توجد منتجات مطابقة. جرّب اسمًا أقصر أو اكتب اسم الماركة."));return;}
-      matches.slice(0,15).forEach(({meta,item})=>{
-        const button=element("button","global-search-result");
-        button.type="button";
-        const imageUrl=item.image||item.imageUrl||item.image_url||"";
-        if(imageUrl.startsWith("https://")||imageUrl.startsWith("http://")){const thumb=element("img","global-search-thumb");thumb.src=imageUrl;thumb.alt="";thumb.loading="lazy";thumb.referrerPolicy="no-referrer";button.append(thumb);}
-        const rawPrice=item.price??item.priceEGP??null;
-        const priceLabel=rawPrice==null?"السعر غير متاح":Number(rawPrice).toLocaleString("en-US")+" جنيه";
-        button.append(element("strong","",item.name||item.title||"منتج"),element("small","",meta[1]+" · "+priceLabel));
-        button.addEventListener("click",()=>openSearchResult(meta,item));
-        globalSearchBox.append(button);
-      });
-      globalSearchBox.append(element("small","catalog-footnote","أظهرنا أول "+Math.min(matches.length,15)+" نتيجة من "+matches.length+" نتيجة."));
+      cards.forEach(card=>{card.hidden=!!query&&!normalize(getTitle(card)+" "+(card.dataset.search||"")).includes(query);});
+      if(!query){closeGlobalSearch();globalSearchBox.replaceChildren();if(noResults)noResults.hidden=true;return;}
+      if(noResults)noResults.hidden=!Array.from(cards).some(card=>!card.hidden);
+      searchInput.setAttribute("aria-expanded","true");
+      globalSearchBox.hidden=false;
+      globalSearchBox.replaceChildren(element("p","catalog-footnote","جارٍ البحث في المنتجات والأقسام..."));
+      searchTimer=setTimeout(async()=>{
+        const datasets=await loadAllSearchData();
+        if(normalize(searchInput.value)!==query)return;
+        showSearchMatches(query,datasets);
+      },160);
     });
-    document.addEventListener("click",event=>{if(!globalSearchBox.contains(event.target)&&event.target!==searchInput)globalSearchBox.hidden=true;});
+    searchInput.addEventListener("keydown",event=>{
+      const buttons=Array.from(globalSearchBox.querySelectorAll(".global-search-result"));
+      if(event.key==="Escape"){closeGlobalSearch();searchInput.blur();return;}
+      if(event.key==="ArrowDown"&&buttons.length){event.preventDefault();activeSearchIndex=Math.min(activeSearchIndex+1,buttons.length-1);buttons[activeSearchIndex].focus();}
+    });
+    globalSearchBox.addEventListener("keydown",event=>{
+      const buttons=Array.from(globalSearchBox.querySelectorAll(".global-search-result"));
+      if(event.key==="ArrowDown"||event.key==="ArrowUp"){
+        event.preventDefault();activeSearchIndex=(activeSearchIndex+(event.key==="ArrowDown"?1:-1)+buttons.length)%buttons.length;buttons[activeSearchIndex]?.focus();
+      }else if(event.key==="Escape"){closeGlobalSearch();searchInput.focus();}
+    });
+    document.addEventListener("click",event=>{if(!globalSearchBox.contains(event.target)&&event.target!==searchInput){closeGlobalSearch();searchInput.setAttribute("aria-expanded","false");}});
   }
 
 
