@@ -1,0 +1,127 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار معلنة على مواقع المتاجر وقت الرصد؛ قد تختلف حسب المقاس والخامة واللون والتوصيل والتركيب.",
+  "products": [
+    {
+      "id": "furn-homecentre-chair",
+      "name": "كرسي سفرة قماش Trixia",
+      "category": "كراسي",
+      "brand": "Home Centre",
+      "price": 3999,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-homecentre-wardrobe",
+      "name": "دولاب Mabel ستة أبواب مع أدراج",
+      "category": "دواليب وتخزين",
+      "brand": "Home Centre",
+      "price": 61799,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-homecentre-sofa",
+      "name": "كنبة Kipper مقعدين قماش",
+      "category": "كنب",
+      "brand": "Home Centre",
+      "price": 26000,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-homecentre-mattress",
+      "name": "مرتبة Jan Deluxe مفردة 120×200 سم",
+      "category": "مراتب",
+      "brand": "Home Centre",
+      "price": 6499,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-ileera-table",
+      "name": "ترابيزة طعام ومذاكرة خشبية Talqa",
+      "category": "ترابيزات",
+      "brand": "ILEERA",
+      "price": 3999,
+      "merchant": "ILEERA Furniture",
+      "source": "https://ileerafurniture.com/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-ileera-side",
+      "name": "ترابيزة جانبية Estekana",
+      "category": "ترابيزات",
+      "brand": "ILEERA",
+      "price": 1099,
+      "merchant": "ILEERA Furniture",
+      "source": "https://ileerafurniture.com/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-woodco-sofabed",
+      "name": "كنبة سرير WOODCO مودرن",
+      "category": "كنب وسراير",
+      "brand": "WOODCO",
+      "price": 6850,
+      "merchant": "WOODCO Furniture",
+      "source": "https://woodcoegypt.com/ar/collections/sofa-bed",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-cataloug-bed",
+      "name": "سرير MDF مقاس 160×195 سم",
+      "category": "سراير",
+      "brand": "Cataloug",
+      "price": 10499,
+      "merchant": "Cataloug",
+      "source": "https://cataloug.com/en/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-cataloug-wardrobe",
+      "name": "دولاب MDF مقاس 160×50×185 سم",
+      "category": "دواليب وتخزين",
+      "brand": "Cataloug",
+      "price": 19699,
+      "merchant": "Cataloug",
+      "source": "https://cataloug.com/en/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-cataloug-tv",
+      "name": "وحدة تلفزيون MDF مقاس 200×40×35 سم",
+      "category": "وحدات تلفزيون",
+      "brand": "Cataloug",
+      "price": 11499,
+      "merchant": "Cataloug",
+      "source": "https://cataloug.com/en/",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-hub-bed",
+      "name": "سرير METROPOL-EM عرض 180 سم",
+      "category": "سراير",
+      "brand": "Hub Furniture",
+      "price": 18580,
+      "merchant": "Hub Furniture",
+      "source": "https://hubfurniture.com.eg/en/bedroom-furniture/shop-by-item",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "furn-hub-bed120",
+      "name": "سرير CITY-EM عرض 120 سم",
+      "category": "سراير",
+      "brand": "Hub Furniture",
+      "price": 12038,
+      "merchant": "Hub Furniture",
+      "source": "https://hubfurniture.com.eg/en/bedroom-furniture/shop-by-item",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
