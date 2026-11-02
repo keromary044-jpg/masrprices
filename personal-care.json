@@ -1,0 +1,128 @@
+{
+  "updatedAt": "2026-11-02",
+  "currency": "EGP",
+  "notice": "أسعار منشورة على كارفور مصر وقت الرصد، وتتغير حسب الفرع والتوافر.",
+  "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+  "products": [
+    {
+      "id": "pc-soap-lux",
+      "name": "صابون لوكس Soft Touch 75 جم",
+      "category": "صابون ونظافة",
+      "brand": "Lux",
+      "price": 15.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-soap-dettol",
+      "name": "صابون ديتول مضاد للبكتيريا 115 جم",
+      "category": "صابون ونظافة",
+      "brand": "Dettol",
+      "price": 34.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-toothpaste-signal",
+      "name": "معجون أسنان Signal Cavity Fighter 120 مل",
+      "category": "العناية بالفم",
+      "brand": "Signal",
+      "price": 52.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-toothbrush",
+      "name": "فرشاة أسنان Signal Triple Clean – 3 قطع",
+      "category": "العناية بالفم",
+      "brand": "Signal",
+      "price": 52.5,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-shampoo-sunsilk",
+      "name": "شامبو Sunsilk Natural Recharge 350 مل",
+      "category": "العناية بالشعر",
+      "brand": "Sunsilk",
+      "price": 109.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-shampoo-tresemme",
+      "name": "شامبو Tresemme Keratin Smooth 400 مل",
+      "category": "العناية بالشعر",
+      "brand": "Tresemme",
+      "price": 184.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-deodorant-nivea",
+      "name": "مزيل عرق Nivea Fresh Active 150 مل",
+      "category": "العناية الشخصية",
+      "brand": "Nivea",
+      "price": 169.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-handwash-diva",
+      "name": "غسول يدين سائل Diva Family Care 500 مل",
+      "category": "صابون ونظافة",
+      "brand": "Diva",
+      "price": 45,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-mouthwash-listerine",
+      "name": "غسول فم Listerine Advanced White 250 مل",
+      "category": "العناية بالفم",
+      "brand": "Listerine",
+      "price": 99.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-lotion-glysolid",
+      "name": "لوشن Glysolid للبشرة الحساسة 200 مل",
+      "category": "العناية بالبشرة",
+      "brand": "Glysolid",
+      "price": 109.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-handcream-caremore",
+      "name": "كريم يدين Care & More 50 مل",
+      "category": "العناية بالبشرة",
+      "brand": "Care & More",
+      "price": 57.5,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pc-showergel-lux",
+      "name": "جل استحمام Lux Magical Beauty 500 مل",
+      "category": "صابون ونظافة",
+      "brand": "Lux",
+      "price": 86.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+      "checkedAt": "2026-11-02"
+    }
+  ]
+}
