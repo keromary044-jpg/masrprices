@@ -160,3 +160,10 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .education-results strong{color:var(--navy);font-size:1.1rem}
 @media(max-width:600px){.education-panel{padding:13px}.education-calculator{grid-template-columns:1fr 1fr}.education-calculator label{font-size:.83rem}.education-results{grid-template-columns:1fr 1fr}}
 @media(max-width:380px){.education-calculator,.education-results{grid-template-columns:1fr}}
+
+/* Generic catalog detail panels */
+.catalog-item-details{margin:12px 0;border:1px solid #dce5ef;border-radius:12px;background:#f8fafc;padding:10px 12px}
+.catalog-item-details summary{cursor:pointer;font-weight:800;color:#17416b}
+.catalog-item-detail-body{padding-top:8px}
+.catalog-item-detail-body p{margin:6px 0;color:#526176;font-size:.86rem;line-height:1.75}
+.catalog-item-detail-body strong{color:#102b50}
