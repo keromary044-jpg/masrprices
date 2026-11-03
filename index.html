@@ -249,6 +249,55 @@
     </div>
   </footer>
 
+
+  <button class="suggestion-fab" id="suggestionOpen" type="button" aria-haspopup="dialog" aria-controls="suggestionDialog">💡 اقترح تعديلًا</button>
+  <dialog class="suggestion-dialog" id="suggestionDialog" aria-labelledby="suggestionTitle">
+    <form id="suggestionForm" class="suggestion-form">
+      <button class="suggestion-close" id="suggestionClose" type="button" aria-label="إغلاق">×</button>
+      <h2 id="suggestionTitle">شاركنا اقتراحك</h2>
+      <p>رأيك يساعدنا على تحسين MasrPrices. اكتب اقتراحًا واضحًا أو أبلغنا عن مشكلة.</p>
+      <label for="suggestionType">نوع الرسالة</label>
+      <select id="suggestionType" name="type" required>
+        <option value="اقتراح تطوير">اقتراح تطوير</option>
+        <option value="الإبلاغ عن خطأ">الإبلاغ عن خطأ</option>
+        <option value="إضافة منتج أو قسم">إضافة منتج أو قسم</option>
+        <option value="مشكلة في الموقع">مشكلة في الموقع</option>
+      </select>
+      <label for="suggestionSection">القسم المرتبط (اختياري)</label>
+      <input id="suggestionSection" name="section" maxlength="80" placeholder="مثال: الموبايلات أو الذهب">
+      <label for="suggestionMessage">اكتب اقتراحك</label>
+      <textarea id="suggestionMessage" name="message" rows="5" minlength="8" maxlength="1500" required placeholder="اكتب التفاصيل هنا..."></textarea>
+      <label for="suggestionContact">وسيلة تواصل (اختياري)</label>
+      <input id="suggestionContact" name="contact" maxlength="100" placeholder="بريد أو اسم مستخدم، دون بيانات حساسة">
+      <input class="suggestion-trap" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <button class="suggestion-submit" type="submit">إرسال الاقتراح</button>
+      <p class="suggestion-status" id="suggestionStatus" role="status" aria-live="polite">لن نطلب منك كلمة مرور أو بيانات دفع.</p>
+    </form>
+  </dialog>
+  <script>
+  (() => {
+    const dialog=document.getElementById("suggestionDialog");
+    const form=document.getElementById("suggestionForm");
+    const status=document.getElementById("suggestionStatus");
+    document.getElementById("suggestionOpen").addEventListener("click",()=>dialog.showModal());
+    document.getElementById("suggestionClose").addEventListener("click",()=>dialog.close());
+    dialog.addEventListener("click",e=>{if(e.target===dialog)dialog.close();});
+    form.addEventListener("submit",async e=>{
+      e.preventDefault();
+      const submit=form.querySelector('button[type="submit"]');
+      submit.disabled=true;status.textContent="جارٍ إرسال اقتراحك...";
+      const data=Object.fromEntries(new FormData(form).entries());
+      try{
+        const response=await fetch("/api/suggestion",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(data)});
+        const result=await response.json().catch(()=>({}));
+        if(!response.ok) throw new Error(result.error||"تعذر إرسال الاقتراح الآن.");
+        status.textContent="تم إرسال اقتراحك بنجاح. شكرًا لمساعدتنا!";
+        form.reset();
+      }catch(error){status.textContent=error.message||"حدث خطأ. حاول مرة أخرى لاحقًا.";}
+      finally{submit.disabled=false;}
+    });
+  })();
+  </script>
   <script src="app.js"></script>
 </body>
   </html>
