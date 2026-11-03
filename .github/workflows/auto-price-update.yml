@@ -1,6 +1,11 @@
 name: MasrPrices automatic price updates
 
 on:
+  push:
+    paths:
+      - "price-updater/**"
+      - "price-feeds.json"
+      - ".github/workflows/auto-price-update.yml"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
