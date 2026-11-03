@@ -29,6 +29,43 @@
     return node;
   }
 
+
+  function stableProductId(product){
+    if(product && product.id) return String(product.id);
+    const raw=[product?.brand,product?.name,product?.modelYear,product?.variant,product?.size].filter(Boolean).join("-");
+    return raw.toLowerCase().normalize("NFD").replace(/[\\u0300-\\u036f]/g,"").replace(/[^a-z0-9\\u0600-\\u06ff]+/g,"-").replace(/^-|-$/g,"").slice(0,120);
+  }
+  function addDatabaseComparison(card, product){
+    const id=stableProductId(product); if(!id) return;
+    const button=element("button","book-source","مقارنة أسعار المتاجر");
+    button.type="button";
+    const panel=element("section","offer-comparison"); panel.hidden=true;
+    button.addEventListener("click",async()=>{
+      if(!panel.hidden){panel.hidden=true;return;}
+      panel.hidden=false; panel.textContent="جارٍ تحميل عروض المتاجر...";
+      try{
+        const response=await fetch("./api/compare?product_id="+encodeURIComponent(id),{cache:"no-store"});
+        const data=await response.json();
+        panel.replaceChildren();
+        if(!response.ok) throw new Error(data.error||"المقارنة غير متاحة حاليًا.");
+        panel.append(element("strong","","مقارنة المتاجر — "+(data.offers?.length||0)+" عرض"));
+        if(!data.offers?.length){panel.append(element("p","catalog-footnote","لا توجد عروض مسجلة لهذا المنتج حتى الآن."));return;}
+        data.offers.forEach((offer,index)=>{
+          const row=element("article","offer-row"+(index===0?" is-best":""));
+          const info=element("div","offer-main");
+          info.append(element("strong","offer-merchant",offer.store_name));
+          info.append(element("small","offer-variant",(offer.variant||"النسخة غير محددة")+" · "+(offer.source_name||"مصدر غير محدد")+" · "+(offer.checked_at||"تاريخ غير محدد")));
+          const side=element("div","offer-side");
+          side.append(element("strong","offer-price",Number(offer.price_egp).toLocaleString("en-US")+" ج.م"));
+          const link=element("a","offer-link","افتح المتجر");link.href=offer.product_url;link.target="_blank";link.rel="noopener noreferrer";
+          side.append(link);row.append(info,side);panel.append(row);
+        });
+        panel.append(element("small","offer-disclaimer","الأسعار حسب آخر رصد مسجل وقد تتغير؛ تأكد من النسخة والتوافر والسعر النهائي."));
+      }catch(error){panel.textContent=error.message;}
+    });
+    card.append(button,panel);
+  }
+
   function renderPhones(data) {
     if (!phoneProducts) return;
     phoneProducts.replaceChildren();
@@ -78,7 +115,7 @@
         compare.append(element("small","offer-disclaimer","الأسعار رُصدت في أوقات مختلفة وقد تتغير؛ تأكد من السعر النهائي والتوافر والنسخة والضمان لدى المتجر قبل الشراء."));
         article.append(compare);
       }
-      const details = element("details", "phone-details");
+      addDatabaseComparison(article,phone);\n      const details = element("details", "phone-details");
       details.append(element("summary", "", "عرض المواصفات التفصيلية"));
       const list = element("dl", "spec-list");
       const specs = [
@@ -543,7 +580,7 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.spec].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price==null?"السعر غير منشور — راجع المصدر الرسمي":(Number.isFinite(x.price)?x.price.toLocaleString("en-US")+" جنيه":"السعر غير متاح")));card.append(element("p","",x.spec));if(x.checkedAt)card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));if(x.source){const link=element("a","book-source",x.price==null?"معلومات عن السيارة":"مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}root.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price==null?"السعر غير منشور — راجع المصدر الرسمي":(Number.isFinite(x.price)?x.price.toLocaleString("en-US")+" جنيه":"السعر غير متاح")));card.append(element("p","",x.spec));if(x.checkedAt)card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));if(x.source){const link=element("a","book-source",x.price==null?"معلومات عن السيارة":"مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}addDatabaseComparison(card,x);root.append(card);});
     const count=document.getElementById("carCount");if(count)count.textContent="عرض "+rows.length+" من "+data.products.length+" فئة";
   }
   async function loadCars(){const root=document.getElementById("carProducts");if(!root)return;try{const res=await fetch("./cars.json",{cache:"no-cache"});if(!res.ok)throw new Error();carData=await res.json();const sel=document.getElementById("carCategory");[...new Set(carData.products.map(x=>x.category))].forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderCars(carData);}catch(e){root.textContent="تعذر تحميل أسعار السيارات حاليًا.";}}
@@ -680,7 +717,7 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.model||"",x.size||""].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));card.append(element("h3","",x.name));card.append(element("p","book-price",Number.isFinite(Number(x.price))&&x.price!==null?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متاح أو لم يتم التحقق منه"));if(x.size)card.append(element("p","book-store","المقاس: "+x.size));if(x.merchant)card.append(element("p","book-store","المتجر: "+x.merchant));if(x.checkedAt)card.append(element("small","book-date","آخر رصد: "+x.checkedAt));if(x.source){const a=element("a","book-source","فتح صفحة المتجر");a.href=x.source;a.target="_blank";a.rel="noopener noreferrer";card.append(a);}root.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));card.append(element("h3","",x.name));card.append(element("p","book-price",Number.isFinite(Number(x.price))&&x.price!==null?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متاح أو لم يتم التحقق منه"));if(x.size)card.append(element("p","book-store","المقاس: "+x.size));if(x.merchant)card.append(element("p","book-store","المتجر: "+x.merchant));if(x.checkedAt)card.append(element("small","book-date","آخر رصد: "+x.checkedAt));if(x.source){const a=element("a","book-source","فتح صفحة المتجر");a.href=x.source;a.target="_blank";a.rel="noopener noreferrer";card.append(a);}addDatabaseComparison(card,x);root.append(card);});
     document.getElementById(cfg.count).textContent="عرض "+rows.length+" من "+data.products.length+" منتجًا";
     if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
@@ -699,7 +736,7 @@
     const root=document.getElementById(cfg.id+"Products"),q=normalize(document.getElementById(cfg.id+"Search").value||""),cat=document.getElementById(cfg.id+"Category").value,sort=document.getElementById(cfg.id+"Sort").value;
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")),element("h3","",x.name),element("p","book-price",x.price==null?"السعر غير منشور أو لم يتم التحقق منه":Number(x.price).toLocaleString("en-US")+" جنيه"),element("p","book-store",x.merchant?"المتجر: "+x.merchant:"راجع المصدر لمعرفة جهة البيع"),element("small","book-date","آخر رصد: "+(x.checkedAt||"غير محدد")));if(x.source){const a=element("a","book-source","عرض المصدر");a.href=x.source;a.target="_blank";a.rel="noopener noreferrer";card.append(a);}root.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")),element("h3","",x.name),element("p","book-price",x.price==null?"السعر غير منشور أو لم يتم التحقق منه":Number(x.price).toLocaleString("en-US")+" جنيه"),element("p","book-store",x.merchant?"المتجر: "+x.merchant:"راجع المصدر لمعرفة جهة البيع"),element("small","book-date","آخر رصد: "+(x.checkedAt||"غير محدد")));if(x.source){const a=element("a","book-source","عرض المصدر");a.href=x.source;a.target="_blank";a.rel="noopener noreferrer";card.append(a);}addDatabaseComparison(card,x);root.append(card);});
     document.getElementById(cfg.id+"Count").textContent="عرض "+rows.length+" من "+data.products.length+" منتجًا";if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
   async function loadGenericCatalog(key){
