@@ -25,9 +25,10 @@ export async function onRequest({request,env}){
     }catch{return reply(500,{error:"تعذر تحميل الإعلانات العقارية."});}
   }
   if(request.method!=="POST")return reply(405,{error:"طريقة الطلب غير مدعومة."});
-  if(request.headers.get("Origin")&&request.headers.get("Origin")!==new URL(request.url).origin)return reply(403,{error:"طلب غير مسموح."});
-  const length=Number(request.headers.get("Content-Length")||0);if(length>20000)return reply(413,{error:"حجم البيانات أكبر من المسموح."});
-  let data;try{data=await request.json();}catch{return reply(400,{error:"بيانات غير صالحة."});}
+  if(request.headers.get("Origin")!==new URL(request.url).origin)return reply(403,{error:"طلب غير مسموح."});
+  if(!(request.headers.get("Content-Type")||"").toLowerCase().startsWith("application/json"))return reply(415,{error:"نوع البيانات غير مدعوم."});
+  let raw;try{raw=await request.text();if(new TextEncoder().encode(raw).length>20000)return reply(413,{error:"حجم البيانات أكبر من المسموح."});}catch{return reply(400,{error:"بيانات غير صالحة."});}
+  let data;try{data=JSON.parse(raw);if(!data||typeof data!=="object"||Array.isArray(data))throw new Error();}catch{return reply(400,{error:"بيانات غير صالحة."});}
   if(data.website)return reply(200,{ok:true});
   const title=clean(data.title,140),type=clean(data.type,30),governorate=clean(data.governorate,80),center=clean(data.center,100),area=clean(data.area,120),description=clean(data.description,1800),owner=clean(data.owner_name,80),phone=clean(data.contact_phone,20);
   const price=data.price===""||data.price===null?null:Number(data.price),areaM2=data.area_m2===""||data.area_m2===null?null:Number(data.area_m2);
