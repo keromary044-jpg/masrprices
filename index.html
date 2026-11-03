@@ -33,17 +33,21 @@
       <div class="container">
         <p class="eyebrow">دليلك للأسعار في مصر</p>
         <h1>اعرف السعر قبل ما تشتري</h1>
-        <p>منصة واحدة لمتابعة أسعار المنتجات والخدمات والأسواق المصرية.</p>
+        <p>ابحث عن المنتج وشوف الأسعار المتاحة.</p>
         <a class="primary-button" href="#categories">تصفح الأقسام</a>
       </div>
     </section>
 
     <section class="container search-section">
-      <input id="searchInput" type="search" placeholder="ابحث عن منتج أو قسم...">
+      <div class="search-control">
+        <input id="searchInput" type="search" placeholder="ابحث عن منتج أو قسم..." aria-label="ابحث عن منتج أو قسم">
+        <button id="clearSearch" type="button" hidden>مسح</button>
+      </div>
     </section>
 
     <section class="container section" id="categories">
       <h2>تصفح الأقسام</h2>
+      <p id="categoryCount" class="category-count" aria-live="polite"></p>
       <div class="category-grid" id="categoryGrid">
         <a class="category-card" href="#phoneCatalog" data-search="موبايلات إلكترونيات هواتف">📱 <strong>الموبايلات والإلكترونيات</strong></a>
         <a class="category-card" href="#electronicsCatalog" data-search="إلكترونيات ملحقات سماعات راوتر باور بانك كمبيوتر">🎧 <strong>الإلكترونيات والملحقات</strong></a>
