@@ -241,43 +241,49 @@
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
-        const title=normalize(getTitle(card));
-        if (title.includes("موبايلات")) {
+        const targetId=(card.getAttribute("href")||"").replace(/^#/,"");
+        const openCatalog=(id,loader)=>{
+          const section=document.getElementById(id);
+          if(!section)return false;
           panel.hidden=true;
-          if (phoneCatalog) { phoneCatalog.hidden=false; loadPhones(); phoneCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
-        } else if (title.includes("كتب") || title.includes("روايات")) {
-          panel.hidden=true;
-          if (bookCatalog) { bookCatalog.hidden=false; bookCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
-        } else if (title.includes("مواد البناء")) {
-          panel.hidden=true;
-          if (constructionCatalog) { constructionCatalog.hidden=false; constructionCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
-        }
-        else if(title.includes("قطع غيار")&&!title.includes("السيارات وقطع الغيار")){panel.hidden=true;const n=document.getElementById("sparePartsCatalog");if(n){n.hidden=false;loadGenericCatalog("spareParts");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if (title.includes("السيارات")) { panel.hidden=true; if(carCatalog){carCatalog.hidden=false;carCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
-        else if(title.includes("العقارات")){panel.hidden=true;const n=document.getElementById("realEstateCatalog");if(n){n.hidden=false;loadRealEstate();n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if (title.includes("الأجهزة المنزلية")) { panel.hidden=true; if(applianceCatalog){applianceCatalog.hidden=false;loadAppliances();applianceCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
-        else if (title.includes("البقالة") || title.includes("مواد غذائية")) { panel.hidden=true; if(groceryCatalog){groceryCatalog.hidden=false;loadGroceries();groceryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
-        else if (title.includes("الأدوات المدرسية")) { panel.hidden=true; if(stationeryCatalog){stationeryCatalog.hidden=false;loadStationery();stationeryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
-        else if(title.includes("مصاريف التعليم")){panel.hidden=true;const n=document.getElementById("educationCostsCatalog");if(n){n.hidden=false;n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الوقود")||title.includes("مشتقاته")){panel.hidden=true;const n=document.getElementById("fuelCatalog");if(n){n.hidden=false;loadGenericCatalog("fuel");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الأطفال")||title.includes("الرضع")){panel.hidden=true;const n=document.getElementById("babyCatalog");if(n){n.hidden=false;loadGenericCatalog("baby");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الملابس")||title.includes("الأحذية")){panel.hidden=true;const n=document.getElementById("clothingCatalog");if(n){n.hidden=false;loadSimpleCatalog("clothing");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الأثاث")||title.includes("المفروشات")){panel.hidden=true;const n=document.getElementById("furnitureCatalog");if(n){n.hidden=false;loadSimpleCatalog("furniture");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("العناية")||title.includes("التجميل")){panel.hidden=true;const n=document.getElementById("personalCareCatalog");if(n){n.hidden=false;loadGenericCatalog("personalCare");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الرياضة")||title.includes("الترفيه")){panel.hidden=true;const n=document.getElementById("sportsCatalog");if(n){n.hidden=false;loadGenericCatalog("sports");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الكهرباء")||title.includes("السباكة")){panel.hidden=true;const n=document.getElementById("electricalCatalog");if(n){n.hidden=false;loadGenericCatalog("electrical");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الأدوات")||title.includes("المعدات")){panel.hidden=true;const n=document.getElementById("toolsCatalog");if(n){n.hidden=false;loadGenericCatalog("tools");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الحيوانات")){panel.hidden=true;const n=document.getElementById("petsCatalog");if(n){n.hidden=false;loadGenericCatalog("pets");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الزراعة")||title.includes("النباتات")){panel.hidden=true;const n=document.getElementById("plantsCatalog");if(n){n.hidden=false;loadGenericCatalog("plants");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الخدمات الحكومية")){panel.hidden=true;const n=document.getElementById("servicesCatalog");if(n){n.hidden=false;loadGenericCatalog("services");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الخدمات")||title.includes("الاتصالات")){panel.hidden=true;const n=document.getElementById("telecomCatalog");if(n){n.hidden=false;loadGenericCatalog("telecom");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("السياحة")||title.includes("السفر")){panel.hidden=true;const n=document.getElementById("travelCatalog");if(n){n.hidden=false;loadGenericCatalog("travel");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("البورصة")||title.includes("الأسهم")){panel.hidden=true;const n=document.getElementById("stocksCatalog");if(n){n.hidden=false;loadGenericCatalog("stocks");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الإلكترونيات")){panel.hidden=true;const n=document.getElementById("electronicsCatalog");if(n){n.hidden=false;loadGenericCatalog("electronics");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الأدوية")||title.includes("الصحة")){panel.hidden=true;const n=document.getElementById("medicinesCatalog");if(n){n.hidden=false;loadGenericCatalog("medicines");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الذهب")){panel.hidden=true;const n=document.getElementById("goldRatesCatalog");if(n){n.hidden=false;loadMarketRates();n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("الفضة")){panel.hidden=true;const n=document.getElementById("silverRatesCatalog");if(n){n.hidden=false;loadMarketRates();n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("العملات")){panel.hidden=true;const n=document.getElementById("currencyRatesCatalog");if(n){n.hidden=false;loadMarketRates();n.scrollIntoView({behavior:"smooth",block:"start"});}}
+          section.hidden=false;
+          if(typeof loader==="function")loader();
+          section.scrollIntoView({behavior:"smooth",block:"start"});
+          return true;
+        };
+        const routes={
+          phoneCatalog:()=>openCatalog("phoneCatalog",loadPhones),
+          bookCatalog:()=>openCatalog("bookCatalog"),
+          constructionCatalog:()=>openCatalog("constructionCatalog"),
+          carCatalog:()=>openCatalog("carCatalog",loadCars),
+          applianceCatalog:()=>openCatalog("applianceCatalog",loadAppliances),
+          groceryCatalog:()=>openCatalog("groceryCatalog",loadGroceries),
+          stationeryCatalog:()=>openCatalog("stationeryCatalog",loadStationery),
+          educationCostsCatalog:()=>openCatalog("educationCostsCatalog"),
+          clothingCatalog:()=>openCatalog("clothingCatalog",()=>loadSimpleCatalog("clothing")),
+          furnitureCatalog:()=>openCatalog("furnitureCatalog",()=>loadSimpleCatalog("furniture")),
+          personalCareCatalog:()=>openCatalog("personalCareCatalog",()=>loadGenericCatalog("personalCare")),
+          sportsCatalog:()=>openCatalog("sportsCatalog",()=>loadGenericCatalog("sports")),
+          electricalCatalog:()=>openCatalog("electricalCatalog",()=>loadGenericCatalog("electrical")),
+          toolsCatalog:()=>openCatalog("toolsCatalog",()=>loadGenericCatalog("tools")),
+          petsCatalog:()=>openCatalog("petsCatalog",()=>loadGenericCatalog("pets")),
+          plantsCatalog:()=>openCatalog("plantsCatalog",()=>loadGenericCatalog("plants")),
+          telecomCatalog:()=>openCatalog("telecomCatalog",()=>loadGenericCatalog("telecom")),
+          travelCatalog:()=>openCatalog("travelCatalog",()=>loadGenericCatalog("travel")),
+          stocksCatalog:()=>openCatalog("stocksCatalog",()=>loadGenericCatalog("stocks")),
+          electronicsCatalog:()=>openCatalog("electronicsCatalog",()=>loadGenericCatalog("electronics")),
+          sparePartsCatalog:()=>openCatalog("sparePartsCatalog",()=>loadGenericCatalog("spareParts")),
+          servicesCatalog:()=>openCatalog("servicesCatalog",()=>loadGenericCatalog("services")),
+          babyCatalog:()=>openCatalog("babyCatalog",()=>loadGenericCatalog("baby")),
+          realEstateCatalog:()=>openCatalog("realEstateCatalog",loadRealEstate),
+          goldRatesCatalog:()=>openCatalog("goldRatesCatalog",loadMarketRates),
+          silverRatesCatalog:()=>openCatalog("silverRatesCatalog",loadMarketRates),
+          currencyRatesCatalog:()=>openCatalog("currencyRatesCatalog",loadMarketRates),
+          medicinesCatalog:()=>openCatalog("medicinesCatalog",()=>loadGenericCatalog("medicines")),
+          fuelCatalog:()=>openCatalog("fuelCatalog",()=>loadGenericCatalog("fuel"))
+        };
+        const route=routes[targetId];
+        if(route)route();
       }
     });
     card.addEventListener("keydown",event => {
