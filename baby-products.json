@@ -1,0 +1,271 @@
+{
+  "updatedAt": "2026-11-03",
+  "currency": "EGP",
+  "notice": "دليل أصناف لمستلزمات الرضع والأطفال. الأسعار غير متحققة حاليًا؛ تختلف حسب المقاس والعمر والعبوة والمتجر، لذلك لا نعرض أرقامًا تقديرية.",
+  "products": [
+    {
+      "id": "baby-diapers",
+      "name": "حفاضات أطفال",
+      "category": "حفاضات",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-wipes",
+      "name": "مناديل مبللة للأطفال",
+      "category": "العناية اليومية",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-formula",
+      "name": "تركيبة حليب أطفال",
+      "category": "تغذية الرضع",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-bottle",
+      "name": "زجاجة رضاعة",
+      "category": "الرضاعة",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-nipple",
+      "name": "حلمات رضاعة",
+      "category": "الرضاعة",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-sterilizer",
+      "name": "جهاز تعقيم الرضاعات",
+      "category": "أجهزة الرضع",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-pump",
+      "name": "شفاط حليب",
+      "category": "مستلزمات الأم والرضيع",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-crib",
+      "name": "سرير أطفال",
+      "category": "أثاث الأطفال",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-stroller",
+      "name": "عربة أطفال",
+      "category": "تنقل الأطفال",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-car-seat",
+      "name": "مقعد سيارة للأطفال",
+      "category": "سلامة الأطفال",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-highchair",
+      "name": "كرسي طعام للأطفال",
+      "category": "أثاث الأطفال",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-bath",
+      "name": "حوض استحمام أطفال",
+      "category": "العناية اليومية",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-shampoo",
+      "name": "شامبو أطفال",
+      "category": "العناية اليومية",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-cream",
+      "name": "كريم ترطيب للأطفال",
+      "category": "العناية اليومية",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-diaper-cream",
+      "name": "كريم تغيير الحفاض",
+      "category": "العناية اليومية",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-thermometer",
+      "name": "ترمومتر أطفال",
+      "category": "الصحة والسلامة",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-nailcare",
+      "name": "طقم عناية بأظافر الطفل",
+      "category": "العناية اليومية",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-clothes",
+      "name": "ملابس مواليد",
+      "category": "ملابس الأطفال",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-shoes",
+      "name": "أحذية أطفال",
+      "category": "ملابس الأطفال",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-schoolbag",
+      "name": "حقيبة مدرسية للأطفال",
+      "category": "مستلزمات الدراسة",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-lunchbox",
+      "name": "علبة طعام أطفال",
+      "category": "مستلزمات الدراسة",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-toys",
+      "name": "ألعاب تعليمية للأطفال",
+      "category": "الألعاب",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-books",
+      "name": "كتب وقصص أطفال",
+      "category": "الكتب",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    },
+    {
+      "id": "baby-safety-gate",
+      "name": "حاجز أمان للأطفال",
+      "category": "سلامة الأطفال",
+      "brand": "متعدد",
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    }
+  ]
+}
