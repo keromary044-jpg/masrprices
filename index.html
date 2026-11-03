@@ -324,6 +324,39 @@
         <label>المركز أو المدينة<select id="propertyCenter" disabled><option value="">اختر المحافظة أولًا</option></select></label>
         <label>المنطقة أو القرية<input id="propertyArea" type="search" placeholder="مثال: الحي الأول، شارع الجمهورية، قرية..." disabled></label>
       </div>
+      <details class="property-submit-box">
+        <summary>أضف عقارك للبيع</summary>
+        <p>املأ البيانات بدقة. لن يظهر إعلانك للزوار إلا بعد مراجعته والموافقة عليه.</p>
+        <form id="propertySubmitForm" class="property-form">
+          <label>عنوان الإعلان<input name="title" maxlength="140" required placeholder="مثال: شقة للبيع بالقرب من..."></label>
+          <label>نوع العقار<select name="type" required><option value="">اختر النوع</option><option>شقة</option><option>فيلا</option><option>أرض</option><option>محل</option><option>مكتب</option><option>عمارة</option><option>مصيف</option><option>مزرعة</option></select></label>
+          <label>المحافظة<select name="governorate" id="submitPropertyGovernorate" required><option value="">اختر المحافظة</option></select></label>
+          <label>المركز أو المدينة<select name="center" id="submitPropertyCenter" required disabled><option value="">اختر المحافظة أولًا</option></select></label>
+          <label>المنطقة أو القرية<input name="area" required maxlength="120" placeholder="اسم المنطقة أو القرية"></label>
+          <label>السعر بالجنيه<input name="price" type="number" min="1" inputmode="numeric" placeholder="اكتب السعر إن كان محددًا"></label>
+          <label class="property-check"><input name="price_negotiable" type="checkbox"> السعر قابل للتفاوض</label>
+          <label>المساحة بالمتر<input name="area_m2" type="number" min="1" max="1000000" inputmode="numeric"></label>
+          <label>عدد الغرف<input name="rooms" type="number" min="0" max="30" inputmode="numeric"></label>
+          <label>عدد الحمامات<input name="bathrooms" type="number" min="0" max="30" inputmode="numeric"></label>
+          <label>الدور (اختياري)<input name="floor" maxlength="30" placeholder="مثال: الثالث"></label>
+          <label class="property-form-wide">وصف العقار<textarea name="description" minlength="25" maxlength="1800" rows="4" required placeholder="اكتب تفاصيل العقار وحالته ومميزاته..."></textarea></label>
+          <label class="property-form-wide">روابط صور العقار (رابط HTTPS لكل صورة في سطر منفصل، حتى 8 صور)<textarea name="photo_urls" rows="3" placeholder="https://..."></textarea></label>
+          <label>اسم المعلن<input name="owner_name" maxlength="80" required></label>
+          <label>رقم التواصل<input name="contact_phone" type="tel" maxlength="20" inputmode="tel" required placeholder="مع كود الدولة إن أمكن"></label>
+          <label class="property-check property-form-wide"><input name="consent" type="checkbox" required> أوافق على نشر بيانات العقار ورقم التواصل للزوار بعد الموافقة على الإعلان، وأؤكد أن لدي الحق في عرضه للبيع.</label>
+          <label class="property-honeypot" aria-hidden="true">اترك هذا الحقل فارغًا<input name="website" tabindex="-1" autocomplete="off"></label>
+          <button type="submit">إرسال الإعلان للمراجعة</button>
+          <p id="propertySubmitMessage" class="catalog-footnote property-form-wide" aria-live="polite"></p>
+        </form>
+      </details>
+      <details class="property-admin-box">
+        <summary>مراجعة إعلانات العقارات (للمسؤول)</summary>
+        <form id="propertyAdminLogin" class="property-admin-login">
+          <label>كلمة مرور الإدارة<input id="propertyAdminPassword" type="password" autocomplete="current-password" required></label>
+          <button type="submit">عرض الإعلانات المنتظرة</button>
+        </form>
+        <div id="propertyAdminQueue" aria-live="polite"></div>
+      </details>
       <div class="real-estate-filters">
         <label>نوع العقار<select id="propertyType"><option value="">كل الأنواع</option><option value="شقة">شقة</option><option value="فيلا">فيلا</option><option value="أرض">أرض</option><option value="محل">محل تجاري</option><option value="مكتب">مكتب إداري</option><option value="عمارة">عمارة</option><option value="مصيف">شاليه / مصيف</option><option value="مزرعة">مزرعة</option></select></label>
         <label>أقل سعر (جنيه)<input id="propertyMinPrice" type="number" min="0" inputmode="numeric" placeholder="بدون حد أدنى"></label>
