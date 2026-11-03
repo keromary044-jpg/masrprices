@@ -115,7 +115,8 @@
         compare.append(element("small","offer-disclaimer","الأسعار رُصدت في أوقات مختلفة وقد تتغير؛ تأكد من السعر النهائي والتوافر والنسخة والضمان لدى المتجر قبل الشراء."));
         article.append(compare);
       }
-      addDatabaseComparison(article,phone);\n      const details = element("details", "phone-details");
+      addDatabaseComparison(article,phone);
+      const details = element("details", "phone-details");
       details.append(element("summary", "", "عرض المواصفات التفصيلية"));
       const list = element("dl", "spec-list");
       const specs = [
