@@ -5,6 +5,7 @@ on:
     paths:
       - "price-updater/**"
       - "price-feeds.json"
+      - "**.json"
       - ".github/workflows/auto-price-update.yml"
       - "app.js"
       - "index.html"
@@ -38,6 +39,7 @@ jobs:
           node --input-type=module --check < worker.js
           node --input-type=module --check < functions/api/real-estate.js
           node --input-type=module --check < functions/api/real-estate-admin.js
+          python -c "import json,glob; files=glob.glob('**/*.json',recursive=True); [json.load(open(p,encoding='utf-8')) for p in files]; print(f'Validated {len(files)} JSON files')"
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
