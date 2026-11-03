@@ -73,6 +73,8 @@
         <a class="category-card" href="#plantsCatalog" data-search="زراعة نباتات">🌱 <strong>الزراعة والنباتات</strong></a>
         <a class="category-card" href="#travelCatalog" data-search="سياحة سفر">✈️ <strong>السياحة والسفر</strong></a>
         <a class="category-card" href="#toolsCatalog" data-search="أدوات معدات">🧰 <strong>الأدوات والمعدات</strong></a>
+        <a class="category-card" href="#fuelCatalog" data-search="وقود بنزين 80 92 95 سولار ديزل كيروسين بوتاجاز غاز طبيعي زيوت شحوم مشتقات بترولية">⛽ <strong>الوقود ومشتقاته</strong></a>
+        <a class="category-card" href="#babyCatalog" data-search="مستلزمات أطفال رضع حفاضات رضاعة عربات أطفال حليب أطفال ألعاب">🍼 <strong>مستلزمات الأطفال والرضع</strong></a>
       </div>
       <p id="noResults" hidden>لا توجد نتائج مطابقة للبحث.</p>
     </section>
@@ -266,6 +268,19 @@
       <p>دليل روابط لخدمات منشورة على بوابة وزارة المالية. لا نعرض رسومًا إلا بعد التحقق من الجهة الرسمية.</p>
       <div class="phone-tools"><input id="servicesCatalogSearch" type="search" placeholder="ابحث عن خدمة..." aria-label="البحث في الخدمات"><select id="servicesCatalogCategory" aria-label="تصفية حسب نوع الخدمة"><option value="">كل الخدمات</option></select><select id="servicesCatalogSort" aria-label="ترتيب الخدمات"><option value="name">الاسم</option><option value="price">السعر</option></select></div>
       <p id="servicesCatalogCount" class="catalog-footnote"></p><div id="servicesCatalogProducts" class="phone-grid"></div>
+    </section>
+    <section class="container section" id="fuelCatalog" hidden>
+      <h2>الوقود ومشتقاته</h2>
+      <p>دليل للبنزين والسولار والغاز وأسطوانات البوتاجاز والزيوت والمشتقات البترولية. لا تظهر أسعار إلا بعد توثيقها من قرار رسمي أو مورد معتمد، مع تاريخ السريان ووحدة القياس.</p>
+      <div class="book-tools"><input id="fuelCatalogSearch" type="search" placeholder="ابحث عن بنزين أو سولار أو زيت..." aria-label="البحث في الوقود ومشتقاته"><select id="fuelCatalogCategory" aria-label="تصفية الوقود"><option value="">كل الأنواع</option></select><select id="fuelCatalogSort" aria-label="ترتيب الوقود"><option value="name">الاسم أبجديًا</option><option value="price">السعر من الأقل</option></select></div>
+      <p id="fuelCatalogCount" class="catalog-footnote"></p><div id="fuelCatalogProducts" class="book-grid" aria-live="polite">جارٍ تحميل بيانات الوقود...</div>
+      <p class="catalog-footnote">للتسعير الرسمي راجع <a href="https://www.petroleum.gov.eg/" target="_blank" rel="noopener noreferrer">وزارة البترول والثروة المعدنية</a>. تختلف الأسعار حسب نوع المنتج ووحدة البيع وقرار التسعير الساري.</p>
+    </section>
+    <section class="container section" id="babyCatalog" hidden>
+      <h2>مستلزمات الأطفال والرضع</h2>
+      <p>دليل الحفاضات والرضاعة والعناية والأثاث والألعاب ومستلزمات الدراسة. قارن المقاس والعمر والسعة والخامة؛ لا نعرض سعرًا غير موثق.</p>
+      <div class="book-tools"><input id="babyCatalogSearch" type="search" placeholder="ابحث عن حفاضات أو رضاعة أو عربة..." aria-label="البحث في مستلزمات الأطفال"><select id="babyCatalogCategory" aria-label="تصفية مستلزمات الأطفال"><option value="">كل الفئات</option></select><select id="babyCatalogSort" aria-label="ترتيب المستلزمات"><option value="name">الاسم أبجديًا</option><option value="price">السعر من الأقل</option></select></div>
+      <p id="babyCatalogCount" class="catalog-footnote"></p><div id="babyCatalogProducts" class="book-grid" aria-live="polite">جارٍ تحميل مستلزمات الأطفال...</div>
     </section>
     <section class="container section" id="medicinesCatalog" hidden>
       <h2>دليل الأدوية والمواد الفعالة</h2>
