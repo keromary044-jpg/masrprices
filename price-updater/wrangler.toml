@@ -1,0 +1,11 @@
+name = "masrprices-price-updater"
+main = "index.js"
+compatibility_date = "2026-11-03"
+
+[triggers]
+crons = ["0 3 * * *"]
+
+# اربط قاعدة D1 الموجودة في مشروع Pages باسم DB من لوحة Cloudflare:
+# Workers & Pages > masrprices-price-updater > Settings > Bindings > D1
+# Variable name: DB
+# اختر نفس قاعدة البيانات التي يستخدمها موقع MasrPrices.
