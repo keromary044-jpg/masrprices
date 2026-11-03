@@ -57,6 +57,7 @@
         <a class="category-card" href="#medicinesCatalog" data-search="أدوية مستلزمات طبية علاج دواء">💊 <strong>الأدوية والصحة</strong></a>
         <a class="category-card" href="#applianceCatalog" data-search="أجهزة كهربائية منزلية">🏠 <strong>الأجهزة المنزلية</strong></a>
         <a class="category-card" href="#carCatalog" data-search="سيارات">🚗 <strong>السيارات وقطع الغيار</strong></a>
+        <a class="category-card" href="#realEstateCatalog" data-search="عقارات عقار شقق شقة للبيع إيجار فيلا أرض محل مكتب">🏘️ <strong>العقارات</strong></a>
         <a class="category-card" href="#sparePartsCatalog" data-search="قطع غيار سيارات">🛠️ <strong>قطع غيار السيارات</strong></a>
         <a class="category-card" href="#groceryCatalog" data-search="طعام بقالة غذاء">🛒 <strong>الطعام والبقالة</strong></a>
         <a class="category-card" href="#clothingCatalog" data-search="ملابس أحذية شنط">👕 <strong>الملابس والأحذية</strong></a>
@@ -315,7 +316,28 @@
 
     </main>
 
-  <footer><div class="container"><p>© 2026 MasrPrices</p></div></footer>
+  <section class="container section real-estate-catalog" id="realEstateCatalog" hidden>
+      <h2>العقارات المعروضة للبيع في مصر</h2>
+      <p>حدد المحافظة ثم المركز أو المدينة، وبعدها اكتب المنطقة أو القرية التي تبحث فيها.</p>
+      <div class="real-estate-stepper">
+        <label>المحافظة<select id="propertyGovernorate"><option value="">اختر المحافظة</option></select></label>
+        <label>المركز أو المدينة<select id="propertyCenter" disabled><option value="">اختر المحافظة أولًا</option></select></label>
+        <label>المنطقة أو القرية<input id="propertyArea" type="search" placeholder="مثال: الحي الأول، شارع الجمهورية، قرية..." disabled></label>
+      </div>
+      <div class="real-estate-filters">
+        <label>نوع العقار<select id="propertyType"><option value="">كل الأنواع</option><option value="شقة">شقة</option><option value="فيلا">فيلا</option><option value="أرض">أرض</option><option value="محل">محل تجاري</option><option value="مكتب">مكتب إداري</option><option value="عمارة">عمارة</option><option value="مصيف">شاليه / مصيف</option><option value="مزرعة">مزرعة</option></select></label>
+        <label>أقل سعر (جنيه)<input id="propertyMinPrice" type="number" min="0" inputmode="numeric" placeholder="بدون حد أدنى"></label>
+        <label>أقصى سعر (جنيه)<input id="propertyMaxPrice" type="number" min="0" inputmode="numeric" placeholder="بدون حد أقصى"></label>
+        <label>غرف النوم<select id="propertyRooms"><option value="">أي عدد</option><option value="1">غرفة واحدة</option><option value="2">غرفتان</option><option value="3">3 غرف</option><option value="4">4 غرف أو أكثر</option></select></label>
+        <label>ترتيب النتائج<select id="propertySort"><option value="newest">الأحدث أولًا</option><option value="price-asc">السعر من الأقل</option><option value="price-desc">السعر من الأعلى</option><option value="area-desc">المساحة الأكبر</option></select></label>
+      </div>
+      <p id="propertyCount" class="catalog-footnote" aria-live="polite">اختر المحافظة والمكان لعرض الإعلانات المتاحة.</p>
+      <div id="propertyListings" class="property-grid" aria-live="polite"><p class="catalog-footnote">لا توجد إعلانات عقارية مسجلة حتى الآن.</p></div>
+      <p class="catalog-footnote">تنبيه: راجع مستندات الملكية والتراخيص بنفسك قبل دفع أي مقدم أو توقيع عقد. الأسعار المعروضة - عند توفرها - يحددها صاحب الإعلان وليست تقييمًا رسميًا للعقار.</p>
+      <p><a href="#categories">العودة إلى الأقسام</a></p>
+    </section>
+
+    <footer><div class="container"><p>© 2026 MasrPrices</p></div></footer>
 
 
   <script src="app.js"></script>
