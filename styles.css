@@ -233,3 +233,11 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .property-review-actions button{min-height:40px;padding:8px 12px;border:0;border-radius:9px;font:inherit;font-weight:700;cursor:pointer}
 .property-review-actions .property-reject{background:#f8e9eb;color:#982c38}
 @media(max-width:600px){.property-form,.property-admin-login{grid-template-columns:1fr}.property-form-wide{grid-column:auto}.property-submit-box,.property-admin-box{padding:12px}}
+
+
+/* Consistent product imagery and honest catalog coverage */
+.catalog-image-wrap{position:relative;width:100%;height:176px;overflow:hidden;border-radius:11px;background:#eaf1f8;margin:3px 0 8px}
+.catalog-product-image{display:block;width:100%;height:100%;object-fit:contain;background:#f3f6fa}
+.catalog-image-label{position:absolute;inset:auto 8px 8px auto;padding:3px 8px;border-radius:20px;background:#102b50e8;color:#fff;font-size:.72rem;z-index:1}
+.catalog-footnote[aria-live],.catalog-count{line-height:1.8}
+@media(max-width:600px){.catalog-image-wrap{height:150px}}
