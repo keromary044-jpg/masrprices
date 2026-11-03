@@ -748,7 +748,20 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.model||"",x.size||""].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));card.append(element("h3","",x.name));card.append(element("p","book-price",Number.isFinite(Number(x.price))&&x.price!==null?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متاح أو لم يتم التحقق منه"));if(x.size)card.append(element("p","book-store","المقاس: "+x.size));addDatabaseComparison(card,x);root.append(card);});
+    rows.forEach(x=>{
+      const card=element("article","book-card");
+      card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));
+      const imageUrl=x.image||x.imageUrl||x.image_url||"";
+      if(/^https:\/\//i.test(imageUrl)){const image=element("img","catalog-product-image");image.src=imageUrl;image.alt=x.name||"صورة المنتج";image.loading="lazy";image.referrerPolicy="no-referrer";image.onerror=()=>image.remove();card.append(image);}
+      card.append(element("h3","",x.name));
+      const validPrice=x.price!==null&&x.price!==undefined&&x.price!==""&&Number.isFinite(Number(x.price))&&Number(x.price)>0;
+      card.append(element("p","book-price",validPrice?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متحقق منه حاليًا"));
+      if(x.size||x.unit)card.append(element("p","book-store","المقاس / الوحدة: "+(x.size||x.unit)));
+      if(x.details||x.description)card.append(element("p","catalog-footnote",x.details||x.description));
+      if(x.source&&/^https:\/\//i.test(x.source)){const link=element("a","phone-source","مصدر المنتج");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}
+      if(x.checkedAt)card.append(element("small","catalog-footnote","آخر رصد: "+x.checkedAt));
+      addDatabaseComparison(card,x);root.append(card);
+    });
     document.getElementById(cfg.count).textContent="عرض "+rows.length+" من "+data.products.length+" منتجًا";
     if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
