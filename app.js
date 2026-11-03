@@ -4,6 +4,8 @@
   const searchInput = document.getElementById("searchInput");
   const cards = Array.from(document.querySelectorAll(".category-card"));
   const noResults = document.getElementById("noResults");
+  const clearSearchButton = document.getElementById("clearSearch");
+  const categoryCount = document.getElementById("categoryCount");
   const phoneCatalog = document.getElementById("phoneCatalog");
   const phoneProducts = document.getElementById("phoneProducts");
   let phoneData = null;
@@ -20,6 +22,11 @@
   function getTitle(card) {
     const strong = card.querySelector("strong");
     return strong ? strong.textContent.trim() : card.textContent.trim();
+  }
+  function updateCategoryCount(){
+    if(!categoryCount)return;
+    const visible=cards.filter(card=>!card.hidden).length;
+    categoryCount.textContent=searchInput&&searchInput.value.trim()?("الأقسام المطابقة: "+visible):("عدد الأقسام: "+cards.length);
   }
 
   function element(tag, className, text) {
@@ -277,7 +284,15 @@
 
   const globalSearchBox=element("div","global-search-results");
   globalSearchBox.id="globalSearchResults";globalSearchBox.hidden=true;
-  if(searchInput)searchInput.insertAdjacentElement("afterend",globalSearchBox);
+  if(searchInput)searchInput.parentElement.insertAdjacentElement("afterend",globalSearchBox);
+  updateCategoryCount();
+  if(clearSearchButton&&searchInput){
+    clearSearchButton.addEventListener("click",()=>{
+      searchInput.value="";
+      searchInput.dispatchEvent(new Event("input",{bubbles:true}));
+      searchInput.focus();
+    });
+  }
   const searchableFiles=[
     ["phones.json","الموبايلات والإلكترونيات","phoneCatalog","phoneSearch"],
     ["books.json","الكتب والروايات","bookCatalog","bookSearch"],
@@ -352,6 +367,7 @@
     matches.sort((a,b)=>a.score-b.score||(a.item.name||a.item.title||"").localeCompare(b.item.name||b.item.title||"","ar"));
     lastSearchMatches=matches.slice(0,20);
     globalSearchBox.replaceChildren();
+    if(noResults)noResults.hidden=matches.length>0||cards.some(card=>!card.hidden);
     if(!matches.length){
       globalSearchBox.append(element("p","search-empty-title","مفيش نتائج مطابقة"));
       globalSearchBox.append(element("p","catalog-footnote","جرّب اسم الماركة أو جزءًا من اسم المنتج، أو اختصر كلمة البحث."));
@@ -382,9 +398,11 @@
     searchInput.addEventListener("input",()=>{
       clearTimeout(searchTimer);
       const query=normalize(searchInput.value);
+      if(clearSearchButton)clearSearchButton.hidden=!searchInput.value.trim();
       cards.forEach(card=>{card.hidden=!!query&&!normalize(getTitle(card)+" "+(card.dataset.search||"")).includes(query);});
+      updateCategoryCount();
       if(!query){closeGlobalSearch();globalSearchBox.replaceChildren();if(noResults)noResults.hidden=true;return;}
-      if(noResults)noResults.hidden=!Array.from(cards).some(card=>!card.hidden);
+      if(noResults)noResults.hidden=Array.from(cards).some(card=>!card.hidden);
       searchInput.setAttribute("aria-expanded","true");
       globalSearchBox.hidden=false;
       globalSearchBox.replaceChildren(element("p","catalog-footnote","جارٍ البحث في المنتجات والأقسام..."));
