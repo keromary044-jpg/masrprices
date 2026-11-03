@@ -95,7 +95,7 @@
     function paint(selected){
       panel.replaceChildren();
       const sorted=[...offers].sort((a,b)=>a.price-b.price),best=sorted[0];
-      const names=[...new Set([...popularStores,...offers.map(o=>o.merchant)])];
+      const names=[...new Set(offers.map(o=>o.merchant))];
       panel.append(element("strong","store-comparison-title","اختر المتجر"),element("small","offer-count",offers.length?offers.length+" عروض مسجلة":"لا توجد عروض متعددة موثقة بعد"));
       const choices=element("div","store-choices");
       names.forEach(name=>{
@@ -106,7 +106,8 @@
       });
       panel.append(choices);
       const matches=offers.filter(o=>o.merchant.toLocaleLowerCase()===String(selected||"").toLocaleLowerCase()).sort((a,b)=>a.price-b.price);
-      if(!selected)panel.append(element("p","store-no-price","اختار متجرًا لعرض السعر المسجل لديه."));
+      if(!offers.length)panel.append(element("p","store-no-price","لا توجد عروض موثقة لهذا المنتج حتى الآن. لن نعرض متاجر أو أسعارًا غير مؤكدة."));
+      else if(!selected)panel.append(element("p","store-no-price","اختار متجرًا لعرض السعر المسجل لديه."));
       else if(!matches.length)panel.append(element("p","store-no-price","لا يوجد سعر موثّق لهذا المنتج لدى "+selected+" حاليًا."));
       else matches.forEach(offer=>{
         const row=element("article","store-price-row"+(best&&offer.price===best.price?" is-best":""));
@@ -652,7 +653,7 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.spec].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price==null?"السعر غير منشور — راجع المصدر الرسمي":(Number.isFinite(x.price)?x.price.toLocaleString("en-US")+" جنيه":"السعر غير متاح")));card.append(element("p","",x.spec));if(x.checkedAt)card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));if(x.source){const link=element("a","book-source",x.price==null?"معلومات عن السيارة":"مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}addDatabaseComparison(card,x);root.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));appendProductVisual(card,x);card.append(element("h3","",x.name));card.append(element("p","book-price",x.price==null?"السعر غير منشور — راجع المصدر الرسمي":(Number.isFinite(x.price)?x.price.toLocaleString("en-US")+" جنيه":"السعر غير متاح")));card.append(element("p","",x.spec));if(x.checkedAt)card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));if(x.source){const link=element("a","book-source",x.price==null?"معلومات عن السيارة":"مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}addDatabaseComparison(card,x);root.append(card);});
     const count=document.getElementById("carCount");if(count)updateCatalogMetrics(count,data.products,rows.length);
   }
   async function loadCars(){const root=document.getElementById("carProducts");if(!root)return;try{const res=await fetch("./cars.json",{cache:"no-cache"});if(!res.ok)throw new Error();carData=await res.json();const sel=document.getElementById("carCategory");[...new Set(carData.products.map(x=>x.category))].forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderCars(carData);}catch(e){root.textContent="تعذر تحميل أسعار السيارات حاليًا.";}}
