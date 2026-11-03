@@ -9,6 +9,11 @@ on:
       - "app.js"
       - "index.html"
       - "styles.css"
+      - "worker.js"
+      - "functions/**"
+      - "migrations/**"
+      - "wrangler.toml"
+      - "real-estate.json"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
@@ -28,7 +33,11 @@ jobs:
       - name: Get repository files
         uses: actions/checkout@v4
       - name: Check JavaScript syntax
-        run: node --check app.js
+        run: |
+          node --check app.js
+          node --input-type=module --check < worker.js
+          node --input-type=module --check < functions/api/real-estate.js
+          node --input-type=module --check < functions/api/real-estate-admin.js
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
