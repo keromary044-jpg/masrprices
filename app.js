@@ -32,7 +32,7 @@
 
   function stableProductId(product){
     if(product && product.id) return String(product.id);
-    const raw=[product?.brand,product?.name,product?.modelYear,product?.variant,product?.size].filter(Boolean).join("-");
+    const raw=[product?.brand,product?.name,product?.modelYear,product?.model,product?.variant,product?.size].filter(Boolean).join("-");
     return raw.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9\u0600-\u06ff]+/g,"-").replace(/^-|-$/g,"").slice(0,120);
   }
   function addDatabaseComparison(card, product){
