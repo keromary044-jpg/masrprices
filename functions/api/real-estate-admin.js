@@ -4,9 +4,12 @@ async function authorized(request,env){
   const expected=env.ADMIN_PASSWORD,supplied=request.headers.get("X-Admin-Password")||"";
   if(!expected||!supplied||supplied.length>256)return false;
   const enc=new TextEncoder(),[a,b]=await Promise.all([crypto.subtle.digest("SHA-256",enc.encode(expected)),crypto.subtle.digest("SHA-256",enc.encode(supplied))]);
-  const aa=new Uint8Array(a),bb=new Uint8Array(b);return aa.every((v,i)=>v===bb[i]);
+  const aa=new Uint8Array(a),bb=new Uint8Array(b);let diff=0;for(let i=0;i<aa.length;i++)diff|=aa[i]^bb[i];return diff===0;
 }
 export async function onRequest({request,env}){
+  if(!["GET","POST"].includes(request.method))return reply(405,{error:"طريقة الطلب غير مدعومة."});
+  if(request.method==="POST"&&request.headers.get("Origin")!==new URL(request.url).origin)return reply(403,{error:"طلب غير مسموح."});
+  if(request.method==="POST"&&!(request.headers.get("Content-Type")||"").toLowerCase().startsWith("application/json"))return reply(415,{error:"نوع البيانات غير مدعوم."});
   if(!env.DB)return reply(503,{error:"قاعدة بيانات العقارات غير مربوطة بعد."});
   if(!await authorized(request,env))return reply(401,{error:"كلمة مرور الإدارة غير صحيحة."});
   if(request.method==="GET"){
@@ -14,7 +17,8 @@ export async function onRequest({request,env}){
     catch{return reply(500,{error:"تعذر تحميل الإعلانات المنتظرة."});}
   }
   if(request.method!=="POST")return reply(405,{error:"طريقة الطلب غير مدعومة."});
-  let data;try{data=await request.json();}catch{return reply(400,{error:"بيانات غير صالحة."});}
+  let raw;try{raw=await request.text();if(new TextEncoder().encode(raw).length>262144)return reply(413,{error:"حجم البيانات أكبر من المسموح."});}catch{return reply(400,{error:"بيانات غير صالحة."});}
+  let data;try{data=JSON.parse(raw);if(!data||typeof data!=="object"||Array.isArray(data))throw new Error();}catch{return reply(400,{error:"بيانات غير صالحة."});}
   const id=String(data.id||"").slice(0,64),action=data.action;
   if(!id||!["approve","reject"].includes(action))return reply(400,{error:"الإجراء غير صالح."});
   try{
