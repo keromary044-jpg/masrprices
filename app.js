@@ -241,7 +241,7 @@
       if (groceryCatalog) groceryCatalog.hidden=true;
       const stationeryCatalog=document.getElementById("stationeryCatalog");
       if (stationeryCatalog) stationeryCatalog.hidden=true;
-      ["clothingCatalog","furnitureCatalog","personalCareCatalog","sportsCatalog","electricalCatalog","toolsCatalog","petsCatalog","plantsCatalog","telecomCatalog","travelCatalog","stocksCatalog","electronicsCatalog"].forEach(id=>{const node=document.getElementById(id);if(node)node.hidden=true;});
+      ["clothingCatalog","furnitureCatalog","personalCareCatalog","sportsCatalog","electricalCatalog","toolsCatalog","petsCatalog","plantsCatalog","telecomCatalog","travelCatalog","stocksCatalog","electronicsCatalog","medicinesCatalog","sparePartsCatalog","servicesCatalog"].forEach(id=>{const node=document.getElementById(id);if(node)node.hidden=true;});
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
