@@ -132,15 +132,15 @@ def main():
 
     for filename, data in changed_files.items():
         (ROOT / filename).write_text(
-            json.dumps(data, ensure_ascii=False, indent=2) + "\\n",
+            json.dumps(data, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8"
         )
     print(f"SUMMARY accepted={accepted_total} updated_files={len(changed_files)} failures={failures}")
     if os.environ.get("GITHUB_STEP_SUMMARY"):
         with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as summary:
-            summary.write("## MasrPrices automatic price update\\n")
-            summary.write(f"- Cairo time: {checked_at}\\n- Accepted records: {accepted_total}\\n")
-            summary.write(f"- Updated files: {len(changed_files)}\\n- Failed feeds: {failures}\\n")
+            summary.write("## MasrPrices automatic price update\n")
+            summary.write(f"- Cairo time: {checked_at}\n- Accepted records: {accepted_total}\n")
+            summary.write(f"- Updated files: {len(changed_files)}\n- Failed feeds: {failures}\n")
     return 1 if failures else 0
 
 if __name__ == "__main__":
