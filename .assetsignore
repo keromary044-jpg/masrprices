@@ -1,0 +1,8 @@
+worker.js
+wrangler.toml
+.assetsignore
+functions/**
+migrations/**
+price-updater/**
+*.md
+README*
