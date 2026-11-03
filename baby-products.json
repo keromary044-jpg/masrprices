@@ -1,7 +1,7 @@
 {
   "updatedAt": "2026-11-04",
   "currency": "EGP",
-  "notice": "دليل أصناف لمستلزمات الرضع والأطفال. الأسعار غير متحققة حاليًا؛ تختلف حسب المقاس والعمر والعبوة والمتجر، لذلك لا نعرض أرقامًا تقديرية. تتضمن القائمة سجلات تعريفية إضافية. الأسعار غير المحددة غير متحققة ولا تمثل سعرًا متاحًا حاليًا.",
+  "notice": "أسعار موثقة لبعض المنتجات من صفحات المتاجر وقت آخر تحقق، وقد تتغير حسب المنطقة والتوفر والعروض. المنتجات التي لا تحمل سعرًا أو مصدرًا لم يتم التحقق من سعرها بعد. راجع صفحة المتجر قبل الشراء.",
   "products": [
     {
       "id": "baby-diapers",
@@ -284,12 +284,23 @@
       "name": "حفاضات حديثي الولادة مقاس 1",
       "category": "حفاضات",
       "brand": "Molfix",
-      "unit": "مقاس 1",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "unit": "مقاس 1، 60 حفاضة (2–5 كجم)",
+      "price": 319,
+      "merchant": "Jumia",
+      "source": "https://www.jumia.com.eg/3d-new-born-diapers-size-1-60-pcs-molfix-mpg856869.html",
+      "checkedAt": "2026-11-04",
+      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب.",
+      "image": "https://eg.jumia.is/unsafe/fit-in/150x150/filters%3Afill%28white%29/product/54/936522/1.jpg?6344=",
+      "priceOffers": [
+        {
+          "merchant": "Jumia",
+          "price": 319,
+          "source": "https://www.jumia.com.eg/3d-new-born-diapers-size-1-60-pcs-molfix-mpg856869.html",
+          "sourceLabel": "جوميا مصر",
+          "checkedAt": "2026-11-04",
+          "variant": "مقاس 1، 60 حفاضة (2–5 كجم)"
+        }
+      ]
     },
     {
       "id": "baby-products-حفاضات-أطفال-مقاس-2-pampers-مقاس-2",
@@ -320,12 +331,23 @@
       "name": "حفاضات أطفال مقاس 3",
       "category": "حفاضات",
       "brand": "Pampers",
-      "unit": "مقاس 3",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "unit": "مقاس 3، 84 حفاضة (6–10 كجم)",
+      "price": 499.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/baby-diapers/pampers-diapers-tape-premium-3-84d/p/595177?offer=offer_carrefour_&sellerId=0000&sid=SLOTTED",
+      "checkedAt": "2026-11-04",
+      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب.",
+      "image": "https://cdn.mafrservices.com/pim-content/EGY/media/product/595177/1763368204/595177_main.jpg?im=Resize%3D376",
+      "priceOffers": [
+        {
+          "merchant": "Carrefour",
+          "price": 499.99,
+          "source": "https://www.carrefouregypt.com/mafegy/en/baby-diapers/pampers-diapers-tape-premium-3-84d/p/595177?offer=offer_carrefour_&sellerId=0000&sid=SLOTTED",
+          "sourceLabel": "كارفور مصر",
+          "checkedAt": "2026-11-04",
+          "variant": "مقاس 3، 84 حفاضة (6–10 كجم)"
+        }
+      ]
     },
     {
       "id": "baby-products-حفاضات-أطفال-مقاس-3-fine-baby-مقاس-3",
@@ -1214,6 +1236,37 @@
       "source": null,
       "checkedAt": null,
       "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    },
+    {
+      "id": "baby-products-molfix-3d-midi-size-3-80pcs",
+      "name": "حفاضات مولفيكس 3D ميدي مقاس 3",
+      "category": "حفاضات",
+      "brand": "Molfix",
+      "unit": "مقاس 3، 80 حفاضة (4–9 كجم)",
+      "price": 429.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/baby-diapers/molfix-3d-midi-mega-pack-80-d/p/501162?offer=offer_carrefour_&sellerId=0000&sid=SLOTTED",
+      "checkedAt": "2026-11-04",
+      "image": "https://cdn.mafrservices.com/pim-content/EGY/media/product/501162/1758520804/501162_main.jpg?im=Resize%3D376",
+      "details": "عبوة 80 حفاضة، مقاس 3 (4–9 كجم). السعر المعروض لدى كارفور عند التحقق.",
+      "priceOffers": [
+        {
+          "merchant": "Carrefour",
+          "price": 429.99,
+          "source": "https://www.carrefouregypt.com/mafegy/en/baby-diapers/molfix-3d-midi-mega-pack-80-d/p/501162?offer=offer_carrefour_&sellerId=0000&sid=SLOTTED",
+          "sourceLabel": "كارفور مصر",
+          "checkedAt": "2026-11-04",
+          "variant": "مقاس 3، 80 حفاضة (4–9 كجم)"
+        },
+        {
+          "merchant": "Jumia",
+          "price": 465,
+          "source": "https://www.jumia.com.eg/3d-midi-diapers-size-3-80-pcs-molfix-mpg856867.html",
+          "sourceLabel": "جوميا مصر",
+          "checkedAt": "2026-11-04",
+          "variant": "مقاس 3، 80 حفاضة (4–9 كجم)"
+        }
+      ]
     }
   ]
 }
