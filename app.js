@@ -256,6 +256,7 @@
           panel.hidden=true;
           if (constructionCatalog) { constructionCatalog.hidden=false; constructionCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
         }
+        else if(title.includes("قطع غيار")){panel.hidden=true;const n=document.getElementById("sparePartsCatalog");if(n){n.hidden=false;loadGenericCatalog("spareParts");n.scrollIntoView({behavior:"smooth",block:"start");}}
         else if (title.includes("السيارات")) { panel.hidden=true; if(carCatalog){carCatalog.hidden=false;carCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if (title.includes("الأجهزة المنزلية")) { panel.hidden=true; if(applianceCatalog){applianceCatalog.hidden=false;loadAppliances();applianceCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if (title.includes("البقالة") || title.includes("مواد غذائية")) { panel.hidden=true; if(groceryCatalog){groceryCatalog.hidden=false;loadGroceries();groceryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
@@ -268,6 +269,7 @@
         else if(title.includes("الأدوات")||title.includes("المعدات")){panel.hidden=true;const n=document.getElementById("toolsCatalog");if(n){n.hidden=false;loadGenericCatalog("tools");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الحيوانات")){panel.hidden=true;const n=document.getElementById("petsCatalog");if(n){n.hidden=false;loadGenericCatalog("pets");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الزراعة")||title.includes("النباتات")){panel.hidden=true;const n=document.getElementById("plantsCatalog");if(n){n.hidden=false;loadGenericCatalog("plants");n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("الخدمات الحكومية")){panel.hidden=true;const n=document.getElementById("servicesCatalog");if(n){n.hidden=false;loadGenericCatalog("services");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الخدمات")||title.includes("الاتصالات")){panel.hidden=true;const n=document.getElementById("telecomCatalog");if(n){n.hidden=false;loadGenericCatalog("telecom");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("السياحة")||title.includes("السفر")){panel.hidden=true;const n=document.getElementById("travelCatalog");if(n){n.hidden=false;loadGenericCatalog("travel");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("البورصة")||title.includes("الأسهم")){panel.hidden=true;const n=document.getElementById("stocksCatalog");if(n){n.hidden=false;loadGenericCatalog("stocks");n.scrollIntoView({behavior:"smooth",block:"start"});}}
