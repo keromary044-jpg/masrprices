@@ -191,3 +191,23 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .category-count{margin:0;color:var(--muted);font-size:.85rem}
 .global-search-results{position:relative;z-index:5}
 @media(max-width:420px){#clearSearch{padding-inline:11px}}
+
+
+/* Real estate search */
+.real-estate-catalog{scroll-margin-top:20px}
+.real-estate-stepper,.real-estate-filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;margin:18px 0}
+.real-estate-stepper label,.real-estate-filters label{display:flex;flex-direction:column;gap:7px;color:var(--navy);font-weight:700;font-size:.92rem}
+.real-estate-stepper select,.real-estate-stepper input,.real-estate-filters select,.real-estate-filters input{width:100%;min-width:0;min-height:49px;border:1px solid var(--line);border-radius:11px;background:#fff;padding:10px 12px;color:var(--ink);font:inherit}
+.real-estate-stepper select:focus,.real-estate-stepper input:focus,.real-estate-filters select:focus,.real-estate-filters input:focus{outline:3px solid #527eae30;border-color:#527eae}
+.real-estate-stepper select:disabled,.real-estate-stepper input:disabled{background:#f1f4f8;color:#8995a5}
+.property-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:14px;margin:16px 0}
+.property-card{display:flex;flex-direction:column;align-items:flex-start;gap:8px;min-width:0;padding:17px;background:#fff;border:1px solid var(--line);border-radius:15px;box-shadow:0 5px 18px #102b500a}
+.property-card h3{margin:0;color:var(--navy);font-size:1.08rem;line-height:1.6}
+.property-type{padding:4px 10px;border-radius:20px;background:#edf4fb;color:#174f86;font-size:.8rem;font-weight:800}
+.property-location,.property-specs,.property-description{margin:0;color:var(--muted);font-size:.88rem;line-height:1.7}
+.property-price{color:#a32635;font-size:1.12rem}
+.property-source,.property-contact{display:inline-flex;align-items:center;justify-content:center;min-height:40px;margin-top:4px;padding:8px 13px;border:1px solid #d7e2ee;border-radius:9px;color:#174f86;font-weight:700;text-decoration:none}
+.property-contact{background:#102b50;color:#fff;border-color:#102b50}
+.property-empty{grid-column:1/-1;padding:18px;border:1px dashed #bdcbd9;border-radius:13px;background:#f7f9fc;color:#526176;line-height:1.8}
+@media(max-width:600px){.real-estate-stepper,.real-estate-filters{grid-template-columns:1fr 1fr}.real-estate-stepper label:first-child{grid-column:1/-1}.property-grid{grid-template-columns:1fr}.property-card{padding:14px}}
+@media(max-width:380px){.real-estate-stepper,.real-estate-filters{grid-template-columns:1fr}}
