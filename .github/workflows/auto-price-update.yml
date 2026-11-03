@@ -37,6 +37,7 @@ jobs:
         run: |
           node --check app.js
           node --input-type=module --check < worker.js
+          for file in functions/api/*.js; do node --input-type=module --check < "$file"; done
           node --input-type=module --check < functions/api/real-estate.js
           node --input-type=module --check < functions/api/real-estate-admin.js
           python -c "import json,glob; files=glob.glob('**/*.json',recursive=True); [json.load(open(p,encoding='utf-8')) for p in files]; print(f'Validated {len(files)} JSON files')"
