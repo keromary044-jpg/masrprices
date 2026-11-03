@@ -6,6 +6,9 @@ on:
       - "price-updater/**"
       - "price-feeds.json"
       - ".github/workflows/auto-price-update.yml"
+      - "app.js"
+      - "index.html"
+      - "styles.css"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
@@ -24,6 +27,8 @@ jobs:
     steps:
       - name: Get repository files
         uses: actions/checkout@v4
+      - name: Check JavaScript syntax
+        run: node --check app.js
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
