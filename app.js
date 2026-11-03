@@ -313,7 +313,7 @@
     if(allSearchData)return allSearchData;
     if(searchLoadPromise)return searchLoadPromise;
     searchLoadPromise=Promise.all(searchableFiles.map(async meta=>{
-      try{const response=await fetch("./"+meta[0],{cache:"no-cache"});if(!response.ok)return {meta,items:[]};const data=await response.json();return {meta,items:Array.isArray(data.products)?data.products:[]};}
+      try{const response=await fetch("./"+meta[0],{cache:"no-cache"});if(!response.ok)return {meta,items:[]};const data=await response.json();return {meta,items:[...(Array.isArray(data.products)?data.products:[]),...(meta[0]==="pets.json"&&Array.isArray(data.animals)?data.animals:[])]};}
       catch(e){return {meta,items:[]};}
     })).then(rows=>(allSearchData=rows));
     return searchLoadPromise;
