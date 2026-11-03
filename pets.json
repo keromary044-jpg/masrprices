@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-03",
   "currency": "EGP",
-  "notice": "أسعار منشورة في متاجر مصرية وقت الرصد؛ تأكد من النوع والوزن وملاءمة الطعام لعمر الحيوان من الطبيب البيطري.",
+  "notice": "يضم القسم دليلًا تعريفيًا بـ200 نوع/سلالة من الحيوانات و200 مستلزمًا. الأسعار لا تظهر إلا للعروض التي لها مصدر وتاريخ رصد؛ الأنواع ليست عروض بيع.",
   "products": [
     {
       "id": "pet-friskies-gravy",
@@ -82,6 +82,3808 @@
       "merchant": "Carrefour Egypt",
       "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
       "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "pet-guide-001",
+      "name": "طعام قطط جاف للبالغين",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-002",
+      "name": "طعام قطط جاف للصغار",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-003",
+      "name": "طعام قطط معقم",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-004",
+      "name": "طعام قطط للقطط الحساسة",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-005",
+      "name": "طعام قطط لدعم الهضم",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-006",
+      "name": "طعام قطط لدعم المسالك البولية",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-007",
+      "name": "طعام قطط رطب بالدجاج",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-008",
+      "name": "طعام قطط رطب بالسمك",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-009",
+      "name": "طعام قطط رطب باللحم",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-010",
+      "name": "مكافآت قطط طرية",
+      "category": "طعام القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-011",
+      "name": "رمل قطط متكتل",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-012",
+      "name": "رمل قطط غير متكتل",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-013",
+      "name": "رمل قطط سيليكا",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-014",
+      "name": "صندوق فضلات مفتوح",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-015",
+      "name": "صندوق فضلات مغلق",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-016",
+      "name": "مجرفة رمل",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-017",
+      "name": "حصيرة أمام صندوق الفضلات",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-018",
+      "name": "حامل نقل قطط",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-019",
+      "name": "سرير قطط",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-020",
+      "name": "عمود خدش قطط",
+      "category": "مستلزمات القطط",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-021",
+      "name": "طعام كلاب جاف للجراء",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-022",
+      "name": "طعام كلاب جاف للبالغين",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-023",
+      "name": "طعام كلاب للسلالات الصغيرة",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-024",
+      "name": "طعام كلاب للسلالات الكبيرة",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-025",
+      "name": "طعام كلاب للكلاب النشطة",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-026",
+      "name": "طعام كلاب للبشرة الحساسة",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-027",
+      "name": "طعام كلاب رطب بالدجاج",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-028",
+      "name": "طعام كلاب رطب باللحم",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-029",
+      "name": "مكافآت تدريب للكلاب",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-030",
+      "name": "عظام مضغ مخصصة للكلاب",
+      "category": "طعام الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-031",
+      "name": "طوق كلاب صغير",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-032",
+      "name": "طوق كلاب متوسط",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-033",
+      "name": "طوق كلاب كبير",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-034",
+      "name": "مقود كلاب قصير",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-035",
+      "name": "مقود كلاب طويل",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-036",
+      "name": "حزام صدر للكلاب",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-037",
+      "name": "كمامة بيطرية مناسبة",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-038",
+      "name": "سرير كلاب",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-039",
+      "name": "بيت كلاب",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-040",
+      "name": "أكياس تنظيف الفضلات",
+      "category": "مستلزمات الكلاب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-041",
+      "name": "قفص طيور صغير",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-042",
+      "name": "قفص طيور متوسط",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-043",
+      "name": "قفص طيور كبير",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-044",
+      "name": "قفص هامستر",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-045",
+      "name": "قفص أرنب",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-046",
+      "name": "حامل نقل صغير للحيوانات",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-047",
+      "name": "حامل نقل متوسط للحيوانات",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-048",
+      "name": "حامل نقل كبير للحيوانات",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-049",
+      "name": "شبكة حماية للقفص",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-050",
+      "name": "غطاء قفص طيور",
+      "category": "أقفاص ومساكن",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-051",
+      "name": "خلطة بذور بادجي",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-052",
+      "name": "خلطة بذور كوكتيل",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-053",
+      "name": "خلطة بذور كناري",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-054",
+      "name": "خلطة بذور فيشر",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-055",
+      "name": "خلطة بذور حمام",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-056",
+      "name": "حبيبات غذاء للببغاوات",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-057",
+      "name": "حبيبات غذاء للطيور الصغيرة",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-058",
+      "name": "عصا دخن للطيور",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-059",
+      "name": "عظم حبار للطيور",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-060",
+      "name": "مكمل كالسيوم للطيور (بإرشاد بيطري)",
+      "category": "طعام الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-061",
+      "name": "مجثم خشبي للطيور",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-062",
+      "name": "مجثم حبل للطيور",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-063",
+      "name": "أرجوحة قفص طيور",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-064",
+      "name": "لعبة مضغ للطيور",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-065",
+      "name": "معلف طيور",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-066",
+      "name": "مسقى طيور",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-067",
+      "name": "حوض استحمام للطيور",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-068",
+      "name": "عش طيور صغير",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-069",
+      "name": "عش طيور متوسط",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-070",
+      "name": "ورق أرضية قفص",
+      "category": "مستلزمات الطيور",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-071",
+      "name": "رقائق غذاء أسماك استوائية",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-072",
+      "name": "حبيبات غذاء أسماك",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-073",
+      "name": "غذاء جولد فيش",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-074",
+      "name": "غذاء بيتا",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-075",
+      "name": "غذاء أسماك قاعية",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-076",
+      "name": "غذاء مجمد للأسماك",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-077",
+      "name": "غذاء مجفف بالتجميد للأسماك",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-078",
+      "name": "أقراص طحالب للأسماك",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-079",
+      "name": "غذاء روبيان أحواض",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-080",
+      "name": "غذاء صغار الأسماك",
+      "category": "طعام الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-081",
+      "name": "حوض أسماك صغير",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-082",
+      "name": "حوض أسماك متوسط",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-083",
+      "name": "حوض أسماك كبير",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-084",
+      "name": "فلتر داخلي لحوض السمك",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-085",
+      "name": "فلتر خارجي لحوض السمك",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-086",
+      "name": "مضخة هواء للحوض",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-087",
+      "name": "حجر هواء للحوض",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-088",
+      "name": "سخان حوض أسماك",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-089",
+      "name": "مقياس حرارة للحوض",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-090",
+      "name": "إضاءة حوض أسماك",
+      "category": "أحواض ومعدات الأسماك",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-091",
+      "name": "مزيل كلور لماء الأحواض",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-092",
+      "name": "مقياس حموضة الماء",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-093",
+      "name": "شرائط اختبار ماء الحوض",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-094",
+      "name": "اختبار أمونيا للأحواض",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-095",
+      "name": "اختبار نيتريت للأحواض",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-096",
+      "name": "اختبار نترات للأحواض",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-097",
+      "name": "مغناطيس تنظيف الزجاج",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-098",
+      "name": "سيفون تنظيف الحصى",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-099",
+      "name": "شبكة صيد أسماك",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-100",
+      "name": "كاشط طحالب للأحواض",
+      "category": "تنظيف ومعالجة الأحواض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-101",
+      "name": "حوض زواحف زجاجي",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-102",
+      "name": "غطاء تهوية لحوض الزواحف",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-103",
+      "name": "مصباح تدفئة للزواحف",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-104",
+      "name": "مصباح UVB للزواحف",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-105",
+      "name": "مقياس حرارة ورطوبة",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-106",
+      "name": "طبق مياه للزواحف",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-107",
+      "name": "مخبأ للزواحف",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-108",
+      "name": "فرشة أرضية للزواحف",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-109",
+      "name": "فرع تسلق للزواحف",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-110",
+      "name": "حامل نقل للزواحف",
+      "category": "مستلزمات الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-111",
+      "name": "غذاء حبيبي للسلاحف",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-112",
+      "name": "غذاء مخصص للسحالي العاشبة",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-113",
+      "name": "غذاء مجفف للزواحف",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-114",
+      "name": "كالسيوم للزواحف (بإرشاد بيطري)",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-115",
+      "name": "فيتامينات زواحف (بإرشاد بيطري)",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-116",
+      "name": "حشرات غذاء مجففة",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-117",
+      "name": "ديدان وجبة مجففة",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-118",
+      "name": "غذاء سلاحف مائية",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-119",
+      "name": "غذاء سلاحف برية",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-120",
+      "name": "طبق تقديم الطعام للزواحف",
+      "category": "طعام الزواحف",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-121",
+      "name": "فرشة ورقية للهامستر",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-122",
+      "name": "فرشة خشبية آمنة للقوارض",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-123",
+      "name": "عجلة تمرين للهامستر",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-124",
+      "name": "بيت اختباء للهامستر",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-125",
+      "name": "أنبوب لعب للهامستر",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-126",
+      "name": "زجاجة مياه للقوارض",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-127",
+      "name": "معلف قوارض",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-128",
+      "name": "حامل نقل هامستر",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-129",
+      "name": "نفق لعب للأرانب",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-130",
+      "name": "صندوق تبن للأرانب",
+      "category": "مستلزمات القوارض",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-131",
+      "name": "تبن تيموثي للأرانب",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-132",
+      "name": "تبن برسيم للأرانب",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-133",
+      "name": "حبيبات غذاء للأرانب",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-134",
+      "name": "غذاء خنازير غينيا",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-135",
+      "name": "غذاء هامستر متوازن",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-136",
+      "name": "غذاء شنشيلا",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-137",
+      "name": "مكافآت أرانب مناسبة",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-138",
+      "name": "مكافآت قوارض مناسبة",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-139",
+      "name": "قش عش للقوارض",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-140",
+      "name": "أعواد قضم آمنة للقوارض",
+      "category": "طعام القوارض والأرانب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-141",
+      "name": "فرشاة تمشيط قطط",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-142",
+      "name": "مشط إزالة الشعر",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-143",
+      "name": "فرشاة كلاب",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-144",
+      "name": "شامبو قطط مخصص",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-145",
+      "name": "شامبو كلاب مخصص",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-146",
+      "name": "مناديل تنظيف للحيوانات",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-147",
+      "name": "منظف آمن لآثار الحيوانات",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-148",
+      "name": "مقص أظافر للحيوانات",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-149",
+      "name": "فوطة تجفيف للحيوانات",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-150",
+      "name": "قفاز إزالة الشعر",
+      "category": "العناية والنظافة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-151",
+      "name": "كرة لعب للقطط",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-152",
+      "name": "عصا ريش للقطط",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-153",
+      "name": "نفق لعب للقطط",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-154",
+      "name": "لعبة تفاعلية للقطط",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-155",
+      "name": "كرة مطاطية للكلاب",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-156",
+      "name": "لعبة شد للكلاب",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-157",
+      "name": "لعبة مضغ للكلاب",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-158",
+      "name": "مكافآت تدريب صغيرة",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-159",
+      "name": "جهاز تدريب بالنقر",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-160",
+      "name": "بساط شم للكلاب",
+      "category": "اللعب والتدريب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-161",
+      "name": "حقيبة حمل قطط",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-162",
+      "name": "صندوق نقل قطط",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-163",
+      "name": "حزام أمان سيارة للكلاب",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-164",
+      "name": "حاجز سيارة للحيوانات",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-165",
+      "name": "بطاقة تعريف للحيوان",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-166",
+      "name": "شريحة تعريف إلكترونية (عبر طبيب)",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-167",
+      "name": "سياج لعب متنقل",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-168",
+      "name": "بوابة أمان منزلية",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-169",
+      "name": "غطاء مقعد سيارة للحيوانات",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-170",
+      "name": "وعاء سفر قابل للطي",
+      "category": "السفر والأمان",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-171",
+      "name": "شجرة تسلق قطط صغيرة",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-172",
+      "name": "شجرة تسلق قطط كبيرة",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-173",
+      "name": "رف حائط للقطط",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-174",
+      "name": "سرير نافذة للقطط",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-175",
+      "name": "بيت قطط خارجي",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-176",
+      "name": "بيت أرنب داخلي",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-177",
+      "name": "حظيرة لعب للأرانب",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-178",
+      "name": "بساط تبريد للحيوانات",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-179",
+      "name": "وسادة تدفئة آمنة للحيوانات",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-180",
+      "name": "بطانية للحيوانات",
+      "category": "الأثاث والإيواء",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-181",
+      "name": "وعاء طعام ستانلس",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-182",
+      "name": "وعاء مياه ستانلس",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-183",
+      "name": "وعاء طعام مرتفع",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-184",
+      "name": "وعاء بطيء الأكل للكلاب",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-185",
+      "name": "نافورة مياه للقطط",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-186",
+      "name": "نافورة مياه للكلاب",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-187",
+      "name": "موزع طعام تلقائي",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-188",
+      "name": "موزع مياه تلقائي",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-189",
+      "name": "ميزان طعام للحيوانات",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-190",
+      "name": "حافظة طعام محكمة",
+      "category": "التغذية والشرب",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-191",
+      "name": "قفازات تنظيف القفص",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-192",
+      "name": "فرشاة تنظيف زجاج الحوض",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-193",
+      "name": "خرطوم تغيير مياه الحوض",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-194",
+      "name": "شبكة حماية للنافذة",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-195",
+      "name": "حاجز شرفة آمن للحيوانات",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-196",
+      "name": "ملصق بيانات الحيوان",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-197",
+      "name": "دفتر متابعة التطعيمات",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-198",
+      "name": "حقيبة إسعافات أولية بيطرية",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-199",
+      "name": "مصباح فحص صغير",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    },
+    {
+      "id": "pet-guide-200",
+      "name": "سلة تخزين مستلزمات الحيوانات",
+      "category": "مستلزمات عامة",
+      "recordType": "supply",
+      "price": null,
+      "currency": "EGP",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    }
+  ],
+  "animals": [
+    {
+      "id": "animal-001",
+      "name": "القط البلدي المصري",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-002",
+      "name": "القط الشيرازي",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-003",
+      "name": "القط السيامي",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-004",
+      "name": "القط البريطاني قصير الشعر",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-005",
+      "name": "القط البريطاني طويل الشعر",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-006",
+      "name": "القط الأمريكي قصير الشعر",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-007",
+      "name": "القط الأمريكي طويل الشعر",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-008",
+      "name": "القط الاسكتلندي مطوي الأذن",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-009",
+      "name": "القط الإسكتلندي مستقيم الأذن",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-010",
+      "name": "قط ماين كون",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-011",
+      "name": "قط راغدول",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-012",
+      "name": "قط سفينكس",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-013",
+      "name": "قط بنغالي",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-014",
+      "name": "قط حبشي",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-015",
+      "name": "قط روسي أزرق",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-016",
+      "name": "قط بيرمان",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-017",
+      "name": "قط بورمي",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-018",
+      "name": "قط كورنيش ريكس",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-019",
+      "name": "قط ديفون ريكس",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-020",
+      "name": "قط تركي أنغورا",
+      "category": "سلالات القطط",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-021",
+      "name": "الكلب البلدي المصري",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-022",
+      "name": "جولدن ريتريفر",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-023",
+      "name": "لابرادور ريتريفر",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-024",
+      "name": "جيرمن شيبرد",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-025",
+      "name": "هاسكي سيبيري",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-026",
+      "name": "مالينو بلجيكي",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-027",
+      "name": "روت وايلر",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-028",
+      "name": "دوبرمان",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-029",
+      "name": "بوكسر",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-030",
+      "name": "بيجل",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-031",
+      "name": "بودل",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-032",
+      "name": "شيواوا",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-033",
+      "name": "بوميرانيان",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-034",
+      "name": "يوركشاير تيرير",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-035",
+      "name": "شيه تزو",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-036",
+      "name": "مالتيز",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-037",
+      "name": "كوكَر سبانييل",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-038",
+      "name": "دالميشن",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-039",
+      "name": "سانت برنارد",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-040",
+      "name": "جريت دين",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-041",
+      "name": "كورجي",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-042",
+      "name": "باسيت هاوند",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-043",
+      "name": "بولدوغ إنجليزي",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-044",
+      "name": "بولدوغ فرنسي",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-045",
+      "name": "بيتبول تيرير",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-046",
+      "name": "أمريكان ستافوردشاير",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-047",
+      "name": "شار بي",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-048",
+      "name": "تشاو تشاو",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-049",
+      "name": "أكيتا",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-050",
+      "name": "سامويد",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-051",
+      "name": "ألاسكان مالاموت",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-052",
+      "name": "بوردر كولي",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-053",
+      "name": "أستراليان شيبرد",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-054",
+      "name": "جاك راسل تيرير",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-055",
+      "name": "فوكس تيرير",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-056",
+      "name": "داشهند",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-057",
+      "name": "بابيون",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-058",
+      "name": "بَج",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-059",
+      "name": "بوسطن تيرير",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-060",
+      "name": "نيوفاوندلاند",
+      "category": "سلالات الكلاب",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-061",
+      "name": "البادجي الأسترالي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-062",
+      "name": "الكوكتيل",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-063",
+      "name": "الزيبرا فينش",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-064",
+      "name": "الكناري البلدي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-065",
+      "name": "كناري جلوستر",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-066",
+      "name": "كناري رولر",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-067",
+      "name": "الحسون الأوروبي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-068",
+      "name": "الجاوا فينش",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-069",
+      "name": "الفيشر",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-070",
+      "name": "الروز",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-071",
+      "name": "ببغاء رمادي أفريقي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-072",
+      "name": "ببغاء الدرة الهندي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-073",
+      "name": "ببغاء الأمازون",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-074",
+      "name": "ببغاء الكاسكو",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-075",
+      "name": "ببغاء المكاو الأزرق والذهبي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-076",
+      "name": "مكاو قرمزي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-077",
+      "name": "كوكاتو أبيض",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-078",
+      "name": "كوكاتو جالا",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-079",
+      "name": "ببغاء بورك",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-080",
+      "name": "ببغاء لوف بيرد",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-081",
+      "name": "الحمام الزاجل",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-082",
+      "name": "الحمام النفاخ",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-083",
+      "name": "الحمام الشقلباظ",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-084",
+      "name": "الحمام الملك",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-085",
+      "name": "الحمام الهزاز",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-086",
+      "name": "السمان الياباني",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-087",
+      "name": "الدجاج البلدي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-088",
+      "name": "دجاج ليجهورن",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-089",
+      "name": "دجاج ساسكس",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-090",
+      "name": "دجاج سيلكي",
+      "category": "طيور الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-091",
+      "name": "جولد فيش",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-092",
+      "name": "جولد فيش كوميت",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-093",
+      "name": "جولد فيش أوراندا",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-094",
+      "name": "جولد فيش رانشو",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-095",
+      "name": "بيتا",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-096",
+      "name": "جوبي",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-097",
+      "name": "مولي",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-098",
+      "name": "بلاتي",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-099",
+      "name": "سوردتيل",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-100",
+      "name": "نيون تترا",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-101",
+      "name": "كاردينال تترا",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-102",
+      "name": "جلو لايت تترا",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-103",
+      "name": "أنجل فيش",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-104",
+      "name": "ديسكس",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-105",
+      "name": "أوسكار",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-106",
+      "name": "سيكلد أفريقي",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-107",
+      "name": "سيكلد أمريكي",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-108",
+      "name": "كوريدوراس",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-109",
+      "name": "بليكو",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-110",
+      "name": "دانيو زيبرا",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-111",
+      "name": "دانيو لؤلؤي",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-112",
+      "name": "بارب النمر",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-113",
+      "name": "بارب الكرز",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-114",
+      "name": "جورامي قزم",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-115",
+      "name": "جورامي لؤلؤي",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-116",
+      "name": "راميرزي",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-117",
+      "name": "قوس قزح",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-118",
+      "name": "كلون فيش",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-119",
+      "name": "دامسل فيش",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-120",
+      "name": "سمكة الماندارين",
+      "category": "أسماك الزينة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-121",
+      "name": "سلحفاة يونانية",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-122",
+      "name": "سلحفاة روسية",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-123",
+      "name": "سلحفاة حمراء الأذن",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-124",
+      "name": "سلحفاة مسك",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-125",
+      "name": "أبو بريص النمر",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-126",
+      "name": "أبو بريص المتوج",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-127",
+      "name": "تنين ملتحي",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-128",
+      "name": "إغوانا خضراء",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-129",
+      "name": "سحلية أنول",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-130",
+      "name": "سحلية سكينك زرقاء اللسان",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-131",
+      "name": "ثعبان الذرة",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-132",
+      "name": "ثعبان الملك",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-133",
+      "name": "ثعبان الكرة",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-134",
+      "name": "ثعبان الحليب",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-135",
+      "name": "ثعبان الجرذ",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-136",
+      "name": "حرباء يمنية",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-137",
+      "name": "حرباء النمر",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-138",
+      "name": "ضفدع الشجر الأبيض",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-139",
+      "name": "ضفدع أفريقي قزم",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-140",
+      "name": "سمندر ناري",
+      "category": "الزواحف والبرمائيات",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-141",
+      "name": "هامستر سوري",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-142",
+      "name": "هامستر قزم روسي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-143",
+      "name": "هامستر روبوروفسكي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-144",
+      "name": "هامستر صيني",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-145",
+      "name": "خنزير غينيا أمريكي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-146",
+      "name": "خنزير غينيا حبشي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-147",
+      "name": "خنزير غينيا بيروفي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-148",
+      "name": "أرنب هولندي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-149",
+      "name": "أرنب لوب هولندي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-150",
+      "name": "أرنب رأس الأسد",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-151",
+      "name": "أرنب ريكس",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-152",
+      "name": "أرنب كاليفورنيا",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-153",
+      "name": "أرنب نيوزيلندي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-154",
+      "name": "شنشيلا",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-155",
+      "name": "ديجو",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-156",
+      "name": "جيربيل منغولي",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-157",
+      "name": "فأر زينة",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-158",
+      "name": "جرذ زينة",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-159",
+      "name": "قنفذ أفريقي قزم",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-160",
+      "name": "فأر أبيض",
+      "category": "الثدييات الصغيرة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-161",
+      "name": "ماعز بلدي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-162",
+      "name": "ماعز شامي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-163",
+      "name": "ماعز سانين",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-164",
+      "name": "ماعز ألبين",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-165",
+      "name": "خروف بلدي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-166",
+      "name": "خروف رحماني",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-167",
+      "name": "خروف برقي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-168",
+      "name": "خروف أوسيمي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-169",
+      "name": "عجل بقري",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-170",
+      "name": "جاموس مصري",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-171",
+      "name": "بقرة هولشتاين",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-172",
+      "name": "بقرة جيرسي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-173",
+      "name": "بطة بلدي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-174",
+      "name": "بطة بكيني",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-175",
+      "name": "بطة مسكوفي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-176",
+      "name": "إوز أبيض",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-177",
+      "name": "إوز تولوز",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-178",
+      "name": "ديك رومي أبيض",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-179",
+      "name": "ديك رومي برونزي",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-180",
+      "name": "دجاج غينيا",
+      "category": "حيوانات المزرعة",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-181",
+      "name": "طاووس هندي",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-182",
+      "name": "طاووس أبيض",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-183",
+      "name": "دراج ذهبي",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-184",
+      "name": "دراج فضي",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-185",
+      "name": "حجل",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-186",
+      "name": "سمان صيني",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-187",
+      "name": "بومة حظيرة",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-188",
+      "name": "بومة ثلجية",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-189",
+      "name": "بط بري",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-190",
+      "name": "إوز كندي",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-191",
+      "name": "بجع أبيض",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-192",
+      "name": "لقلق أبيض",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-193",
+      "name": "فلامنجو",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-194",
+      "name": "نعامة",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-195",
+      "name": "إيمو",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-196",
+      "name": "كاسواري",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-197",
+      "name": "دجاج غينيا مرقط",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-198",
+      "name": "دجاج بولندي",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-199",
+      "name": "بط عداء هندي",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
+    },
+    {
+      "id": "animal-200",
+      "name": "إوز صيني",
+      "category": "طيور أخرى",
+      "recordType": "animal",
+      "note": "معلومة تعريفية فقط؛ تحقق من قوانين الاقتناء واحتياجات الرفق بالحيوان."
     }
   ]
 }
