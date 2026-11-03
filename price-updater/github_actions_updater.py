@@ -24,12 +24,19 @@ def fail(message):
     print("ERROR: " + message, file=sys.stderr)
     return False
 
+class HTTPSOnlyRedirectHandler(urllib.request.HTTPRedirectHandler):
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        if not newurl.startswith("https://"):
+            raise ValueError("Feed redirect must remain HTTPS")
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+
 def get_json(url):
     request = urllib.request.Request(
         url,
         headers={"Accept": "application/json", "User-Agent": "MasrPrices-GitHub-Updater/1.0"}
     )
-    with urllib.request.urlopen(request, timeout=25) as response:
+    opener = urllib.request.build_opener(HTTPSOnlyRedirectHandler())
+    with opener.open(request, timeout=25) as response:
         final_url = response.geturl()
         if not final_url.startswith("https://"):
             raise ValueError("Feed redirected away from HTTPS")
