@@ -45,6 +45,22 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Validate Worker security configuration
+        run: |
+          python - <<'PY'
+          import tomllib
+          with open("wrangler.toml", "rb") as f:
+              config = tomllib.load(f)
+          limits = config.get("ratelimits", [])
+          expected = {"ADMIN_RATE_LIMITER", "PUBLIC_READ_RATE_LIMITER", "PUBLIC_WRITE_RATE_LIMITER", "SUGGESTION_RATE_LIMITER"}
+          assert {item["name"] for item in limits} == expected, "Missing or unexpected rate limit bindings"
+          ids = [item["namespace_id"] for item in limits]
+          assert len(ids) == len(set(ids)), "Rate limit namespace IDs must be unique"
+          for item in limits:
+              simple = item["simple"]
+              assert simple["limit"] > 0 and simple["period"] in (10, 60), "Invalid rate limit settings"
+          print("Worker security configuration validated.")
+          PY
       - name: Fetch and validate authorized price feeds
         run: python price-updater/github_actions_updater.py
       - name: Save changed catalog files
