@@ -58,7 +58,7 @@
         <a class="category-card" href="#groceryCatalog" data-search="طعام بقالة غذاء">🛒 <strong>الطعام والبقالة</strong></a>
         <a class="category-card" href="#clothingCatalog" data-search="ملابس أحذية شنط">👕 <strong>الملابس والأحذية</strong></a>
         <a class="category-card" href="#stationeryCatalog" data-search="أدوات مدرسية مكتبية">✏️ <strong>الأدوات المدرسية</strong></a>
-        <a class="category-card" href="#educationCostsCatalog" data-search="مصاريف التعليم المدارس الجامعات الدروس الخصوصية رسوم الدراسة">🎓 <strong>مصاريف التعليم</strong></a>
+        <a class="category-card" href="#educationCostsCatalog" data-search="مصاريف التعليم المدارس الحكومية الخاصة لغات دولية الجامعات الكليات المعاهد الدروس الخصوصية رسوم الدراسة">🎓 <strong>مصاريف التعليم</strong></a>
         <a class="category-card" href="#furnitureCatalog" data-search="أثاث مفروشات">🛋️ <strong>الأثاث والمفروشات</strong></a>
         <a class="category-card" href="#personalCareCatalog" data-search="تجميل عناية شخصية">🧴 <strong>التجميل والعناية</strong></a>
         <a class="category-card" href="#electricalCatalog" data-search="كهرباء سباكة">🔌 <strong>الكهرباء والسباكة</strong></a>
@@ -136,22 +136,92 @@
       <p id="stationeryCount" class="catalog-footnote"></p><div id="stationeryProducts" class="book-grid" aria-live="polite">جارٍ تحميل الأدوات المدرسية...</div>
     </section>
 
-<section class="container section" id="educationCostsCatalog" hidden>
-      <h2>حاسبة مصاريف التعليم</h2>
-      <p>احسب ميزانية الطالب السنوية بنفسك. أدخل المبالغ الفعلية من المدرسة أو الجامعة والمتاجر؛ لا توجد أسعار تقديرية أو رسوم غير موثقة.</p>
-      <div class="book-tools">
-        <label>المصروفات الدراسية السنوية (جنيه)<input id="eduTuition" type="number" min="0" step="0.01" inputmode="decimal" placeholder="مثال: 12000"></label>
-        <label>الكتب والمراجع (جنيه)<input id="eduBooks" type="number" min="0" step="0.01" inputmode="decimal" placeholder="المبلغ السنوي"></label>
-        <label>الأدوات والزي (جنيه)<input id="eduSupplies" type="number" min="0" step="0.01" inputmode="decimal" placeholder="المبلغ السنوي"></label>
-        <label>المواصلات (جنيه)<input id="eduTransport" type="number" min="0" step="0.01" inputmode="decimal" placeholder="إجمالي السنة"></label>
-        <label>الدروس أو الكورسات (جنيه)<input id="eduLessons" type="number" min="0" step="0.01" inputmode="decimal" placeholder="إجمالي السنة"></label>
-        <label>مصاريف أخرى (جنيه)<input id="eduOther" type="number" min="0" step="0.01" inputmode="decimal" placeholder="اختياري"></label>
+<section class="container section education-section" id="educationCostsCatalog" hidden>
+      <h2>دليل مصاريف التعليم في مصر</h2>
+      <p>تابع الرسوم الدراسية المعروفة، وافهم الفرق بين المصروفات الرسمية والمصاريف الإضافية، واحسب ميزانية أسرتك بنفسك.</p>
+
+      <div class="education-panel">
+        <h3>رسوم المدارس الحكومية — العام الدراسي 2026/2027</h3>
+        <p class="catalog-footnote">القيم التالية للرسوم والاشتراكات والخدمات والأنشطة المقررة، وليست إجمالي تكلفة الطالب السنوية بكل احتياجاته.</p>
+        <div class="education-table-wrap">
+          <table class="education-table">
+            <thead><tr><th>المرحلة / الصف</th><th>الإجمالي السنوي</th><th>القسط الأول</th><th>القسط الثاني</th></tr></thead>
+            <tbody>
+              <tr><td>رياض الأطفال حتى نهاية الإعدادية</td><td>320 جنيه</td><td>255 جنيه</td><td>65 جنيه</td></tr>
+              <tr><td>الصف الأول الثانوي العام</td><td>545 جنيه</td><td>430 جنيه</td><td>115 جنيه</td></tr>
+              <tr><td>الصفان الثاني والثالث الثانوي العام</td><td>530 جنيه</td><td>415 جنيه</td><td>115 جنيه</td></tr>
+              <tr><td>الصف الأول الثانوي الفني</td><td>245 جنيه</td><td>200 جنيه</td><td>45 جنيه</td></tr>
+              <tr><td>باقي صفوف الثانوي الفني</td><td>230 جنيه</td><td>185 جنيه</td><td>45 جنيه</td></tr>
+            </tbody>
+          </table>
+        </div>
+        <p class="catalog-footnote">وفق الرسوم المنشورة استنادًا إلى القرار الوزاري رقم 116 للعام 2026/2027. راجع المدرسة أو الإدارة التعليمية قبل السداد للتأكد من انطباق الفئة على الطالب.</p>
+        <p><a class="book-source" href="https://www.masrawy.com/news/education-schooleducation/details/2026/6/23/3007307/%D8%A7%D9%84%D8%AA%D8%B9%D9%84%D9%8A%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%B1%D8%B3%D9%88%D9%85-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D9%8A%D8%A9-%D9%84%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D8%AD%D9%84-%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%85-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF2027-%D9%88%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D8%AF%D8%A7%D8%AF" target="_blank" rel="noopener noreferrer">مصدر تفاصيل الرسوم والأقساط المنشورة</a></p>
       </div>
-      <div class="notice" aria-live="polite">
-        <p><strong>إجمالي مصاريف الطالب في السنة:</strong> <span id="eduAnnualTotal">0 جنيه</span></p>
-        <p><strong>متوسط المصروف الشهري:</strong> <span id="eduMonthlyTotal">0 جنيه</span></p>
+
+      <div class="education-panel">
+        <h3>المدارس الخاصة واللغات والدولية</h3>
+        <p>لا يوجد سعر واحد ينطبق على كل المدارس. المصروفات تختلف حسب المدرسة والمرحلة والصف والخدمات، لذلك لا نضع رقمًا عامًا غير موثق.</p>
+        <p><a class="book-source" href="https://emis.gov.eg/" target="_blank" rel="noopener noreferrer">بوابة الخدمات الإلكترونية لوزارة التربية والتعليم</a></p>
       </div>
-      <p class="catalog-footnote">الحاسبة تجمع الأرقام التي تدخلها فقط، ولا تحفظها أو ترسلها. أدخل المصروفات السنوية لكل بند، بما فيها المواصلات والدروس.</p>
+
+      <div class="education-panel">
+        <h3>الجامعات الحكومية والأهلية والخاصة والتكنولوجية</h3>
+        <p>المصروفات تختلف حسب الجامعة والكلية والبرنامج والفرقة الدراسية والجنسية. اعتمد على إعلان الجامعة الرسمي للعام الجامعي الحالي، ولا تعتمد على أرقام قديمة متداولة.</p>
+        <p><a class="book-source" href="https://sis.gov.eg/ar/" target="_blank" rel="noopener noreferrer">بوابة الهيئة العامة للاستعلامات — أخبار وقوائم مؤسسات التعليم العالي المعتمدة</a></p>
+      </div>
+
+      <div class="education-panel">
+        <h3>حاسبة ميزانية التعليم للأسرة</h3>
+        <p>أدخل القيم الفعلية بالجنيه المصري. الحاسبة تعتبر الرسوم والكتب والزي والأنشطة مصروفات سنوية، والمواصلات والدروس والطعام مصروفات شهرية.</p>
+        <div class="education-calculator">
+          <label>عدد الطلاب
+            <input id="eduStudents" type="number" min="1" max="20" step="1" value="1" inputmode="numeric">
+          </label>
+          <label>المصروفات الدراسية السنوية للطالب
+            <input id="eduTuition" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>رسوم التقديم / التسجيل السنوية
+            <input id="eduRegistration" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>الكتب والمراجع السنوية
+            <input id="eduBooks" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>الزي والأدوات المدرسية السنوية
+            <input id="eduSupplies" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>الأجهزة والإنترنت السنوي
+            <input id="eduDevices" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>الأنشطة والامتحانات السنوية
+            <input id="eduActivities" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>المواصلات شهريًا للطالب
+            <input id="eduTransport" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>الدروس والكورسات شهريًا للطالب
+            <input id="eduLessons" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>الطعام والمصروف اليومي شهريًا
+            <input id="eduMeals" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>مصاريف أخرى سنويًا للطالب
+            <input id="eduOther" type="number" min="0" step="0.01" inputmode="decimal" placeholder="جنيه">
+          </label>
+          <label>عدد الأقساط التي تريد تقسيم الميزانية عليها
+            <select id="eduInstallments">
+              <option value="1">قسط واحد</option><option value="2" selected>قسطان</option><option value="3">3 أقساط</option><option value="4">4 أقساط</option><option value="10">10 أشهر</option><option value="12">12 شهرًا</option>
+            </select>
+          </label>
+        </div>
+        <div class="education-results" aria-live="polite">
+          <div><span>التكلفة السنوية للطالب</span><strong id="eduAnnualPerStudent">0 جنيه</strong></div>
+          <div><span>إجمالي ميزانية كل الطلاب سنويًا</span><strong id="eduAnnualTotal">0 جنيه</strong></div>
+          <div><span>متوسط ميزانية الأسرة شهريًا</span><strong id="eduMonthlyTotal">0 جنيه</strong></div>
+          <div><span>قيمة القسط الواحد للأسرة</span><strong id="eduInstallmentTotal">0 جنيه</strong></div>
+        </div>
+        <p class="catalog-footnote">الحاسبة تقديرية بناءً على الأرقام التي تدخلها فقط، ولا تحفظها أو ترسلها. لا تمثل عرض سعر أو فاتورة رسمية.</p>
+      </div>
     </section>
 
     <section class="container section" id="clothingCatalog" hidden>
