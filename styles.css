@@ -182,3 +182,12 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .store-no-price{margin:0;padding:10px;border-radius:9px;background:#f5f7fa;color:#58677a;font-size:.88rem}
 .compare-toggle{width:100%;margin-top:10px;text-align:center;cursor:pointer}
 @media(max-width:480px){.store-choice{flex:1 1 calc(50% - 7px)}.store-price-row{align-items:flex-start}}
+
+/* Compact search controls */
+.search-control{display:flex;align-items:stretch;gap:8px}
+.search-control #searchInput{flex:1;min-width:0}
+#clearSearch{border:1px solid var(--line);border-radius:11px;background:#fff;color:var(--navy);padding:0 16px;font:inherit;font-weight:700;cursor:pointer}
+#clearSearch:hover{background:#edf4fb;border-color:#9bb5d2}
+.category-count{margin:0;color:var(--muted);font-size:.85rem}
+.global-search-results{position:relative;z-index:5}
+@media(max-width:420px){#clearSearch{padding-inline:11px}}
