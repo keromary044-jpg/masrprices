@@ -1,5 +1,5 @@
 (()=>{const $=id=>document.getElementById(id);let password="";
-const status=(s)=>$("status").textContent=s;
+const status=(s)=>{$("status").textContent=s;const live=$("workspaceStatus");if(live)live.textContent=s;};
 async function api(method="GET",body){const r=await fetch("/api/admin",{method,headers:{"X-Admin-Password":password,...(body?{"Content-Type":"application/json"}:{})},body:body?JSON.stringify(body):undefined});const d=await r.json().catch(()=>({}));if(!r.ok)throw Error(d.error||"تعذر تنفيذ الطلب");return d;}
 async function load(){const d=await api();$("productList").replaceChildren();const table=document.createElement("table"),head=document.createElement("tr");["المنتج","القسم","عدد العروض","أقل سعر"].forEach(t=>{const th=document.createElement("th");th.textContent=t;head.append(th)});table.append(head);d.products.forEach(p=>{const tr=document.createElement("tr");[p.name,p.category||"—",p.offers_count,p.best_price==null?"غير متاح":Number(p.best_price).toLocaleString("en-US")+" ج.م"].forEach(v=>{const td=document.createElement("td");td.textContent=v;tr.append(td)});table.append(tr)});$("productList").append(table);}
 $("loginBtn").addEventListener("click",async()=>{password=$("adminPassword").value;try{await load();$("loginPanel").hidden=true;$("workspace").hidden=false;}catch(e){status(e.message)}});
