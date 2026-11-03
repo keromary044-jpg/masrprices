@@ -4,11 +4,14 @@ export async function onRequestPost({ request, env }) {
   if (!env.TELEGRAM_BOT_TOKEN || !env.TELEGRAM_CHAT_ID) {
     return reply(503, { error: "خدمة استقبال الاقتراحات لم تُفعّل بعد." });
   }
-  if (request.headers.get("Origin") && request.headers.get("Origin") !== new URL(request.url).origin) {
+  if (request.headers.get("Origin") !== new URL(request.url).origin) {
     return reply(403, { error: "طلب غير مسموح." });
   }
+  if (!(request.headers.get("Content-Type") || "").toLowerCase().startsWith("application/json")) return reply(415, { error: "نوع البيانات غير مدعوم." });
+  let raw;
+  try { raw = await request.text(); if (new TextEncoder().encode(raw).length > 10000) return reply(413, { error: "حجم الرسالة أكبر من المسموح." }); } catch { return reply(400, { error: "بيانات غير صالحة." }); }
   let data;
-  try { data = await request.json(); } catch { return reply(400, { error: "بيانات غير صالحة." }); }
+  try { data = JSON.parse(raw); if (!data || typeof data !== "object" || Array.isArray(data)) throw new Error(); } catch { return reply(400, { error: "بيانات غير صالحة." }); }
   if (typeof data.website === "string" && data.website.trim()) return reply(200, { ok: true });
   const clean = (value, max) => String(value || "").replace(/[<>]/g, "").trim().slice(0, max);
   const type = clean(data.type, 80);
