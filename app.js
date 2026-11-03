@@ -756,13 +756,23 @@
   }
   Object.entries(genericCatalogs).forEach(([key,cfg])=>[cfg.id+"Search",cfg.id+"Category",cfg.id+"Sort"].forEach(id=>document.getElementById(id).addEventListener(id.endsWith("Search")?"input":"change",()=>renderGenericCatalog(key))));
 
-  const educationCostInputs=["eduTuition","eduBooks","eduSupplies","eduTransport","eduLessons","eduOther"].map(id=>document.getElementById(id));
+  const educationInputIds=["eduTuition","eduRegistration","eduBooks","eduSupplies","eduDevices","eduActivities","eduOther","eduTransport","eduLessons","eduMeals"];
+  const educationInputs=educationInputIds.map(id=>document.getElementById(id)).filter(Boolean);
+  const educationStudents=document.getElementById("eduStudents");
+  const educationInstallments=document.getElementById("eduInstallments");
   function updateEducationCost(){
-    const total=educationCostInputs.reduce((sum,input)=>sum+Math.max(0,Number(input.value)||0),0);
+    const amount=id=>Math.max(0,Number(document.getElementById(id)?.value)||0);
+    const annualPerStudent=amount("eduTuition")+amount("eduRegistration")+amount("eduBooks")+amount("eduSupplies")+amount("eduDevices")+amount("eduActivities")+amount("eduOther")+12*(amount("eduTransport")+amount("eduLessons")+amount("eduMeals"));
+    const students=Math.min(20,Math.max(1,Math.floor(Number(educationStudents?.value)||1)));
+    const familyAnnual=annualPerStudent*students;
     const money=value=>value.toLocaleString("ar-EG",{maximumFractionDigits:2})+" جنيه";
-    document.getElementById("eduAnnualTotal").textContent=money(total);
-    document.getElementById("eduMonthlyTotal").textContent=money(total/12);
+    document.getElementById("eduAnnualPerStudent").textContent=money(annualPerStudent);
+    document.getElementById("eduAnnualTotal").textContent=money(familyAnnual);
+    document.getElementById("eduMonthlyTotal").textContent=money(familyAnnual/12);
+    document.getElementById("eduInstallmentTotal").textContent=money(familyAnnual/Math.max(1,Number(educationInstallments?.value)||2));
   }
-  educationCostInputs.forEach(input=>input.addEventListener("input",updateEducationCost));
+  [...educationInputs,educationStudents,educationInstallments].filter(Boolean).forEach(input=>input.addEventListener("input",updateEducationCost));
+  if(educationInstallments)educationInstallments.addEventListener("change",updateEducationCost);
+  updateEducationCost();
 
 })();
