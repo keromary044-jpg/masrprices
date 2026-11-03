@@ -272,6 +272,8 @@
         else if(title.includes("السياحة")||title.includes("السفر")){panel.hidden=true;const n=document.getElementById("travelCatalog");if(n){n.hidden=false;loadGenericCatalog("travel");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("البورصة")||title.includes("الأسهم")){panel.hidden=true;const n=document.getElementById("stocksCatalog");if(n){n.hidden=false;loadGenericCatalog("stocks");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الإلكترونيات")){panel.hidden=true;const n=document.getElementById("electronicsCatalog");if(n){n.hidden=false;loadGenericCatalog("electronics");n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("الأدوية")||title.includes("الصحة")){panel.hidden=true;const n=document.getElementById("medicinesCatalog");if(n){n.hidden=false;loadGenericCatalog("medicines");n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("قطع الغيار")){panel.hidden=true;const n=document.getElementById("sparePartsCatalog");if(n){n.hidden=false;loadGenericCatalog("spareParts");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الذهب")||title.includes("الفضة")||title.includes("العملات")){panel.hidden=true;const n=document.getElementById("markets");if(n)n.scrollIntoView({behavior:"smooth",block:"start"});}
       }
     });
@@ -735,14 +737,19 @@
   function renderGenericCatalog(key){
     const cfg=genericCatalogs[key],data=genericData[key];if(!data)return;
     const root=document.getElementById(cfg.id+"Products"),q=normalize(document.getElementById(cfg.id+"Search").value||""),cat=document.getElementById(cfg.id+"Category").value,sort=document.getElementById(cfg.id+"Sort").value;
-    const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category].join(" ")).includes(q)));
+    const animals=(key==="pets"&&Array.isArray(data.animals)?data.animals:[]);
+    const entries=[...data.products,...animals];
+    const rows=entries.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")),element("h3","",x.name),element("p","book-price",x.price==null?"السعر غير منشور أو لم يتم التحقق منه":Number(x.price).toLocaleString("en-US")+" جنيه"),element("p","book-store",x.merchant?"المتجر: "+x.merchant:"راجع المصدر لمعرفة جهة البيع"),element("small","book-date","آخر رصد: "+(x.checkedAt||"غير محدد")));if(x.source){const a=element("a","book-source","عرض المصدر");a.href=x.source;a.target="_blank";a.rel="noopener noreferrer";card.append(a);}addDatabaseComparison(card,x);root.append(card);});
-    document.getElementById(cfg.id+"Count").textContent="عرض "+rows.length+" من "+data.products.length+" منتجًا";if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")),element("h3","",x.name));
+      if(x.recordType==="animal"){card.append(element("p","book-price","نوع حيوان / سلالة — معلومة تعريفية")),element("p","book-store",x.note||"راجع احتياجات الرعاية والقوانين المحلية قبل الاقتناء."));}
+      else {card.append(element("p","book-price",x.price==null?"السعر غير منشور أو لم يتم التحقق منه":Number(x.price).toLocaleString("en-US")+" جنيه"),element("p","book-store",x.merchant?"المتجر: "+x.merchant:"راجع المصدر لمعرفة جهة البيع"),element("small","book-date","آخر رصد: "+(x.checkedAt||"غير محدد")));if(x.source){const link=element("a","book-source","عرض المصدر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}addDatabaseComparison(card,x);}
+      root.append(card);});
+    document.getElementById(cfg.id+"Count").textContent="عرض "+rows.length+" من "+entries.length+" عنصرًا";if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
   async function loadGenericCatalog(key){
     const cfg=genericCatalogs[key],root=document.getElementById(cfg.id+"Products");if(genericData[key])return renderGenericCatalog(key);
-    try{const r=await fetch("./"+cfg.file,{cache:"no-cache"});if(!r.ok)throw new Error();genericData[key]=await r.json();const sel=document.getElementById(cfg.id+"Category");[...new Set(genericData[key].products.map(x=>x.category))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderGenericCatalog(key);}
+    try{const r=await fetch("./"+cfg.file,{cache:"no-cache"});if(!r.ok)throw new Error();genericData[key]=await r.json();const sel=document.getElementById(cfg.id+"Category");[...new Set([...genericData[key].products,...(key==="pets"?(genericData[key].animals||[]):[])].map(x=>x.category))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderGenericCatalog(key);}
     catch(e){root.textContent="تعذر تحميل بيانات القسم.";}
   }
   Object.entries(genericCatalogs).forEach(([key,cfg])=>[cfg.id+"Search",cfg.id+"Category",cfg.id+"Sort"].forEach(id=>document.getElementById(id).addEventListener(id.endsWith("Search")?"input":"change",()=>renderGenericCatalog(key))));
