@@ -256,7 +256,7 @@
           panel.hidden=true;
           if (constructionCatalog) { constructionCatalog.hidden=false; constructionCatalog.scrollIntoView({behavior:"smooth",block:"start"}); }
         }
-        else if(title.includes("قطع غيار")){panel.hidden=true;const n=document.getElementById("sparePartsCatalog");if(n){n.hidden=false;loadGenericCatalog("spareParts");n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("قطع غيار")&&!title.includes("السيارات وقطع الغيار")){panel.hidden=true;const n=document.getElementById("sparePartsCatalog");if(n){n.hidden=false;loadGenericCatalog("spareParts");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if (title.includes("السيارات")) { panel.hidden=true; if(carCatalog){carCatalog.hidden=false;carCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if (title.includes("الأجهزة المنزلية")) { panel.hidden=true; if(applianceCatalog){applianceCatalog.hidden=false;loadAppliances();applianceCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if (title.includes("البقالة") || title.includes("مواد غذائية")) { panel.hidden=true; if(groceryCatalog){groceryCatalog.hidden=false;loadGroceries();groceryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
@@ -275,7 +275,6 @@
         else if(title.includes("البورصة")||title.includes("الأسهم")){panel.hidden=true;const n=document.getElementById("stocksCatalog");if(n){n.hidden=false;loadGenericCatalog("stocks");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الإلكترونيات")){panel.hidden=true;const n=document.getElementById("electronicsCatalog");if(n){n.hidden=false;loadGenericCatalog("electronics");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الأدوية")||title.includes("الصحة")){panel.hidden=true;const n=document.getElementById("medicinesCatalog");if(n){n.hidden=false;loadGenericCatalog("medicines");n.scrollIntoView({behavior:"smooth",block:"start"});}}
-        else if(title.includes("قطع الغيار")){panel.hidden=true;const n=document.getElementById("sparePartsCatalog");if(n){n.hidden=false;loadGenericCatalog("spareParts");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الذهب")||title.includes("الفضة")||title.includes("العملات")){panel.hidden=true;const n=document.getElementById("markets");if(n)n.scrollIntoView({behavior:"smooth",block:"start"});}
       }
     });
