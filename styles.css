@@ -211,3 +211,25 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .property-empty{grid-column:1/-1;padding:18px;border:1px dashed #bdcbd9;border-radius:13px;background:#f7f9fc;color:#526176;line-height:1.8}
 @media(max-width:600px){.real-estate-stepper,.real-estate-filters{grid-template-columns:1fr 1fr}.real-estate-stepper label:first-child{grid-column:1/-1}.property-grid{grid-template-columns:1fr}.property-card{padding:14px}}
 @media(max-width:380px){.real-estate-stepper,.real-estate-filters{grid-template-columns:1fr}}
+
+
+/* Property listing submission and moderation */
+.property-submit-box,.property-admin-box{margin:18px 0;padding:15px;border:1px solid var(--line);border-radius:14px;background:#fff}
+.property-submit-box>summary,.property-admin-box>summary{cursor:pointer;color:var(--navy);font-weight:800;font-size:1rem;padding:4px}
+.property-form,.property-admin-login{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin-top:15px}
+.property-form label,.property-admin-login label{display:flex;flex-direction:column;gap:7px;font-size:.9rem;font-weight:700;color:var(--navy);min-width:0}
+.property-form input,.property-form select,.property-form textarea,.property-admin-login input{width:100%;min-width:0;min-height:45px;padding:10px 12px;border:1px solid var(--line);border-radius:9px;background:#fff;color:var(--ink);font:inherit}
+.property-form textarea{resize:vertical}
+.property-form-wide{grid-column:1/-1}
+.property-form .property-check{flex-direction:row;align-items:flex-start;gap:9px;font-weight:600;line-height:1.7}
+.property-form .property-check input{width:18px;min-width:18px;height:18px;min-height:18px;margin-top:3px}
+.property-honeypot{position:absolute!important;left:-10000px!important;width:1px!important;height:1px!important;overflow:hidden!important}
+.property-form button,.property-admin-login button{min-height:46px;padding:10px 16px;border:0;border-radius:10px;background:#102b50;color:#fff;font:inherit;font-weight:800;cursor:pointer}
+.property-form button:disabled,.property-review-actions button:disabled{opacity:.55;cursor:wait}
+.property-photo{display:block;width:100%;max-height:230px;object-fit:cover;border-radius:10px;background:#eef2f6}
+.property-review-card{margin:12px 0;padding:14px;border:1px solid var(--line);border-radius:12px;background:#f9fbfd}
+.property-review-card h3{margin:0 0 8px;color:var(--navy)}
+.property-review-actions{display:flex;flex-wrap:wrap;gap:9px;margin-top:12px}
+.property-review-actions button{min-height:40px;padding:8px 12px;border:0;border-radius:9px;font:inherit;font-weight:700;cursor:pointer}
+.property-review-actions .property-reject{background:#f8e9eb;color:#982c38}
+@media(max-width:600px){.property-form,.property-admin-login{grid-template-columns:1fr}.property-form-wide{grid-column:auto}.property-submit-box,.property-admin-box{padding:12px}}
