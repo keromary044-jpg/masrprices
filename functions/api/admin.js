@@ -10,9 +10,12 @@ async function authorized(request, env) {
     crypto.subtle.digest("SHA-256", enc.encode(expected)),
     crypto.subtle.digest("SHA-256", enc.encode(supplied))
   ]);
-  return new Uint8Array(a).every((v,i)=>v===new Uint8Array(b)[i]);
+  const aa=new Uint8Array(a),bb=new Uint8Array(b);let diff=0;for(let i=0;i<aa.length;i++)diff|=aa[i]^bb[i];return diff===0;
 }
 export async function onRequest({ request, env }) {
+  if (!["GET","POST"].includes(request.method)) return json(405,{error:"طريقة الطلب غير مدعومة."});
+  if (request.method === "POST" && request.headers.get("Origin") !== new URL(request.url).origin) return json(403,{error:"طلب غير مسموح."});
+  if (request.method === "POST" && !(request.headers.get("Content-Type")||"").toLowerCase().startsWith("application/json")) return json(415,{error:"نوع البيانات غير مدعوم."});
   if (!env.DB) return json(503,{error:"قاعدة البيانات DB غير مربوطة بعد."});
   if (!await authorized(request,env)) return json(401,{error:"كلمة مرور الإدارة غير صحيحة."});
   if (request.method === "GET") {
@@ -25,7 +28,8 @@ export async function onRequest({ request, env }) {
     } catch { return json(500,{error:"تعذر قراءة المنتجات."}); }
   }
   if (request.method !== "POST") return json(405,{error:"طريقة الطلب غير مدعومة."});
-  let data; try { data=await request.json(); } catch { return json(400,{error:"بيانات غير صالحة."}); }
+  let raw;try{raw=await request.text();if(new TextEncoder().encode(raw).length>262144)return json(413,{error:"حجم البيانات أكبر من المسموح."});}catch{return json(400,{error:"بيانات غير صالحة."});}
+  let data;try{data=JSON.parse(raw);if(!data||typeof data!=="object"||Array.isArray(data))throw new Error();}catch{return json(400,{error:"بيانات غير صالحة."});}
   const clean=(v,n)=>String(v??"").trim().slice(0,n);
   try {
     if(data.action==="saveProduct"){
