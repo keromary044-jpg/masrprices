@@ -128,3 +128,13 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .offer-savings{margin:10px 0 4px;font-size:.8rem;font-weight:700;color:#102b50}
 .offer-disclaimer{display:block;margin-top:10px;line-height:1.7}
 @media(max-width:420px){.offer-comparison{padding:10px}.offer-row{grid-template-columns:24px minmax(0,1fr) auto;gap:6px;padding:8px}.offer-price{font-size:.82rem}.offer-variant{font-size:.68rem}}
+
+
+/* Policy pages and footer navigation */
+.policy-section{background:#fff;border:1px solid var(--line);border-radius:14px;padding:22px;margin-block:18px}
+.policy-section h2{margin-bottom:12px}
+.policy-section p,.policy-section li{line-height:1.9;color:#42536a}
+.policy-section ul{padding-inline-start:24px}
+.footer-nav{display:flex;justify-content:center;gap:12px 20px;flex-wrap:wrap;margin:12px auto 4px}
+.footer-nav a{color:#e8eff8;text-decoration:underline;text-underline-offset:3px;font-size:.9rem}
+.footer-nav a:hover{color:#ff9ba2}
