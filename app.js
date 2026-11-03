@@ -241,7 +241,7 @@
       if (groceryCatalog) groceryCatalog.hidden=true;
       const stationeryCatalog=document.getElementById("stationeryCatalog");
       if (stationeryCatalog) stationeryCatalog.hidden=true;
-      ["educationCostsCatalog","clothingCatalog","furnitureCatalog","personalCareCatalog","sportsCatalog","electricalCatalog","toolsCatalog","petsCatalog","plantsCatalog","telecomCatalog","travelCatalog","stocksCatalog","electronicsCatalog","medicinesCatalog","sparePartsCatalog","servicesCatalog"].forEach(id=>{const node=document.getElementById(id);if(node)node.hidden=true;});
+      ["educationCostsCatalog","clothingCatalog","furnitureCatalog","personalCareCatalog","sportsCatalog","electricalCatalog","toolsCatalog","petsCatalog","plantsCatalog","telecomCatalog","travelCatalog","stocksCatalog","electronicsCatalog","medicinesCatalog","sparePartsCatalog","servicesCatalog","fuelCatalog","babyCatalog"].forEach(id=>{const node=document.getElementById(id);if(node)node.hidden=true;});
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
@@ -262,6 +262,8 @@
         else if (title.includes("البقالة") || title.includes("مواد غذائية")) { panel.hidden=true; if(groceryCatalog){groceryCatalog.hidden=false;loadGroceries();groceryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if (title.includes("الأدوات المدرسية")) { panel.hidden=true; if(stationeryCatalog){stationeryCatalog.hidden=false;loadStationery();stationeryCatalog.scrollIntoView({behavior:"smooth",block:"start"});} }
         else if(title.includes("مصاريف التعليم")){panel.hidden=true;const n=document.getElementById("educationCostsCatalog");if(n){n.hidden=false;n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("الوقود")||title.includes("مشتقاته")){panel.hidden=true;const n=document.getElementById("fuelCatalog");if(n){n.hidden=false;loadGenericCatalog("fuel");n.scrollIntoView({behavior:"smooth",block:"start"});}}
+        else if(title.includes("الأطفال")||title.includes("الرضع")){panel.hidden=true;const n=document.getElementById("babyCatalog");if(n){n.hidden=false;loadGenericCatalog("baby");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الملابس")||title.includes("الأحذية")){panel.hidden=true;const n=document.getElementById("clothingCatalog");if(n){n.hidden=false;loadSimpleCatalog("clothing");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("الأثاث")||title.includes("المفروشات")){panel.hidden=true;const n=document.getElementById("furnitureCatalog");if(n){n.hidden=false;loadSimpleCatalog("furniture");n.scrollIntoView({behavior:"smooth",block:"start"});}}
         else if(title.includes("العناية")||title.includes("التجميل")){panel.hidden=true;const n=document.getElementById("personalCareCatalog");if(n){n.hidden=false;loadGenericCatalog("personalCare");n.scrollIntoView({behavior:"smooth",block:"start"});}}
@@ -306,6 +308,11 @@
     ["telecom.json","الخدمات والاتصالات","telecomCatalog","telecomCatalogSearch"],
     ["travel.json","السياحة والسفر","travelCatalog","travelCatalogSearch"],
     ["stocks.json","البورصة والأسهم","stocksCatalog","stocksCatalogSearch"],
+    ["medicines.json","الأدوية والصحة","medicinesCatalog","medicinesCatalogSearch"],
+    ["spare-parts.json","قطع غيار السيارات","sparePartsCatalog","sparePartsCatalogSearch"],
+    ["services.json","الخدمات الحكومية","servicesCatalog","servicesCatalogSearch"],
+    ["fuel.json","الوقود ومشتقاته","fuelCatalog","fuelCatalogSearch"],
+    ["baby-products.json","مستلزمات الأطفال والرضع","babyCatalog","babyCatalogSearch"],
     ["electronics.json","الموبايلات والإلكترونيات","electronicsCatalog","electronicsCatalogSearch"]
   ];
   let allSearchData=null,searchLoadPromise=null;
@@ -318,7 +325,7 @@
     })).then(rows=>(allSearchData=rows));
     return searchLoadPromise;
   }
-  function searchText(item){return normalize([item.name,item.title,item.brand,item.category,item.model,item.spec,item.author,item.merchant,item.unit,item.grade,item.subject,item.variant,item.memory,item.processor].filter(Boolean).join(" "));}
+  function searchText(item){return normalize([item.name,item.title,item.brand,item.category,item.model,item.spec,item.author,item.merchant,item.unit,item.grade,item.subject,item.variant,item.memory,item.processor,item.details,item.description,item.note,item.size,item.capacity,item.fuelType,item.engine].filter(Boolean).join(" "));}
   function openSearchResult(meta,item){
     const routeWords={
       "phones.json":["موبايلات"],"electronics.json":["الإلكترونيات والملحقات"],
@@ -330,11 +337,11 @@
       "electrical.json":["الكهرباء"],"tools.json":["الأدوات والمعدات"],
       "pets.json":["الحيوانات"],"plants.json":["الزراعة"],
       "telecom.json":["الخدمات"],"travel.json":["السياحة"],
-      "stocks.json":["البورصة"]
+      "stocks.json":["البورصة"],"medicines.json":["الأدوية"],"spare-parts.json":["قطع غيار"],"services.json":["الخدمات الحكومية"],"fuel.json":["الوقود"],"baby-products.json":["الأطفال"]
     };
     const wanted=routeWords[meta[0]]||[];
     const target=cards.find(c=>wanted.some(word=>normalize(getTitle(c)).includes(normalize(word))));
-    if(target)target.click();
+    if(target){target.hidden=false;target.click();}
     setTimeout(()=>{
       const field=document.getElementById(meta[3]);
       if(field){field.value=item.name||item.title||"";field.dispatchEvent(new Event("input",{bubbles:true}));}
@@ -370,7 +377,8 @@
       const info=element("span","global-search-info");
       info.append(element("strong","",item.name||item.title||"منتج"));
       const rawPrice=item.price??item.priceEGP??item.priceFrom??null;
-      const priceLabel=typeof rawPrice==="number"&&Number.isFinite(rawPrice)?rawPrice.toLocaleString("en-US")+" جنيه": "السعر غير متاح حاليًا";
+      const numericPrice=rawPrice!==null&&rawPrice!==""?Number(rawPrice):NaN;
+      const priceLabel=Number.isFinite(numericPrice)&&numericPrice>0?numericPrice.toLocaleString("en-US")+" جنيه": "السعر غير متحقق منه";
       info.append(element("small","",meta[1]+" · "+priceLabel));
       button.append(info);
       button.addEventListener("click",()=>openSearchResult(meta,item));
@@ -734,19 +742,29 @@
   }
   Object.entries(simpleCatalogs).forEach(([key,cfg])=>[cfg.search,cfg.category,cfg.sort].forEach(id=>document.getElementById(id).addEventListener(id===cfg.search?"input":"change",()=>renderSimpleCatalog(key))));
 
-  const genericCatalogs={medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},stocks:{file:"stocks.json",id:"stocksCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
+  const genericCatalogs={fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},stocks:{file:"stocks.json",id:"stocksCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
   const genericData={};
   function renderGenericCatalog(key){
     const cfg=genericCatalogs[key],data=genericData[key];if(!data)return;
     const root=document.getElementById(cfg.id+"Products"),q=normalize(document.getElementById(cfg.id+"Search").value||""),cat=document.getElementById(cfg.id+"Category").value,sort=document.getElementById(cfg.id+"Sort").value;
     const animals=(key==="pets"&&Array.isArray(data.animals)?data.animals:[]);
-    const entries=[...data.products,...animals];
+    const entries=[...(Array.isArray(data.products)?data.products:[]),...animals];
     const rows=entries.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")),element("h3","",x.name));
-      if(x.recordType==="animal"){card.append(element("p","book-price","نوع حيوان / سلالة — معلومة تعريفية"),element("p","book-store",x.note||"راجع احتياجات الرعاية والقوانين المحلية قبل الاقتناء."));}
-      else {card.append(element("p","book-price",x.price==null?"السعر غير منشور أو لم يتم التحقق منه":Number(x.price).toLocaleString("en-US")+" جنيه"),element("p","book-store",x.merchant?"المتجر: "+x.merchant:"راجع المصدر لمعرفة جهة البيع"),element("small","book-date","آخر رصد: "+(x.checkedAt||"غير محدد")));if(x.source){const link=element("a","book-source","عرض المصدر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}addDatabaseComparison(card,x);}
-      root.append(card);});
+    rows.forEach(x=>{
+      const card=element("article","book-card");
+      card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")),element("h3","",x.name));
+      const hasPrice=x.price!==null&&x.price!==undefined&&x.price!==""&&Number.isFinite(Number(x.price))&&Number(x.price)>0;
+      card.append(element("p","book-price",x.recordType==="animal"?"نوع حيوان / سلالة — معلومة تعريفية":hasPrice?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متحقق منه"));
+      if(x.merchant)card.append(element("p","book-store","المتجر / الجهة: "+x.merchant));
+      if(x.checkedAt)card.append(element("small","book-date","آخر رصد: "+x.checkedAt));
+      const detailValues=[["التفاصيل",x.details||x.description||x.note],["المواصفات",x.spec||x.specifications],["المقاس / السعة",x.size||x.capacity||x.variant],["وحدة القياس",x.unit],["المحافظة / النطاق",x.governorate||x.region],["حالة السعر",hasPrice?(x.priceStatus||"سعر مرصود — راجع تاريخ ومصدر الرصد"):"لا يوجد سعر موثق في قاعدة البيانات"]];
+      const populated=detailValues.filter(pair=>pair[1]);
+      if(populated.length){const details=element("details","catalog-item-details");details.append(element("summary","","تفاصيل المنتج والمواصفات"));const body=element("div","catalog-item-detail-body");populated.forEach(([label,value])=>{const p=element("p","","");const strong=element("strong","",label+": ");p.append(strong,document.createTextNode(String(value)));body.append(p);});details.append(body);card.append(details);}
+      if(x.source){const link=element("a","book-source","فتح المصدر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}
+      if(x.recordType!=="animal")addDatabaseComparison(card,x);
+      root.append(card);
+    });
     document.getElementById(cfg.id+"Count").textContent="عرض "+rows.length+" من "+entries.length+" عنصرًا";if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
   async function loadGenericCatalog(key){
