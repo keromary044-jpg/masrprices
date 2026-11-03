@@ -58,6 +58,7 @@
         <a class="category-card" href="#groceryCatalog" data-search="طعام بقالة غذاء">🛒 <strong>الطعام والبقالة</strong></a>
         <a class="category-card" href="#clothingCatalog" data-search="ملابس أحذية شنط">👕 <strong>الملابس والأحذية</strong></a>
         <a class="category-card" href="#stationeryCatalog" data-search="أدوات مدرسية مكتبية">✏️ <strong>الأدوات المدرسية</strong></a>
+        <a class="category-card" href="#educationCostsCatalog" data-search="مصاريف التعليم المدارس الجامعات الدروس الخصوصية رسوم الدراسة">🎓 <strong>مصاريف التعليم</strong></a>
         <a class="category-card" href="#furnitureCatalog" data-search="أثاث مفروشات">🛋️ <strong>الأثاث والمفروشات</strong></a>
         <a class="category-card" href="#personalCareCatalog" data-search="تجميل عناية شخصية">🧴 <strong>التجميل والعناية</strong></a>
         <a class="category-card" href="#electricalCatalog" data-search="كهرباء سباكة">🔌 <strong>الكهرباء والسباكة</strong></a>
@@ -133,6 +134,24 @@
       <p>نطاقات أسعار منشورة في السوق المصري خلال 2026؛ قد تختلف حسب الخامة والعدد والماركة ومكان البيع.</p>
       <div class="book-tools"><input id="stationerySearch" type="search" placeholder="ابحث عن كراسة أو قلم أو شنطة..." aria-label="البحث في الأدوات المدرسية"><select id="stationeryCategory" aria-label="تصفية الأدوات"><option value="">كل الأدوات</option></select><select id="stationerySort" aria-label="ترتيب الأدوات"><option value="name">الاسم أبجديًا</option><option value="price">الأقل سعرًا أولًا</option></select></div>
       <p id="stationeryCount" class="catalog-footnote"></p><div id="stationeryProducts" class="book-grid" aria-live="polite">جارٍ تحميل الأدوات المدرسية...</div>
+    </section>
+
+<section class="container section" id="educationCostsCatalog" hidden>
+      <h2>حاسبة مصاريف التعليم</h2>
+      <p>احسب ميزانية الطالب السنوية بنفسك. أدخل المبالغ الفعلية من المدرسة أو الجامعة والمتاجر؛ لا توجد أسعار تقديرية أو رسوم غير موثقة.</p>
+      <div class="book-tools">
+        <label>المصروفات الدراسية السنوية (جنيه)<input id="eduTuition" type="number" min="0" step="0.01" inputmode="decimal" placeholder="مثال: 12000"></label>
+        <label>الكتب والمراجع (جنيه)<input id="eduBooks" type="number" min="0" step="0.01" inputmode="decimal" placeholder="المبلغ السنوي"></label>
+        <label>الأدوات والزي (جنيه)<input id="eduSupplies" type="number" min="0" step="0.01" inputmode="decimal" placeholder="المبلغ السنوي"></label>
+        <label>المواصلات (جنيه)<input id="eduTransport" type="number" min="0" step="0.01" inputmode="decimal" placeholder="إجمالي السنة"></label>
+        <label>الدروس أو الكورسات (جنيه)<input id="eduLessons" type="number" min="0" step="0.01" inputmode="decimal" placeholder="إجمالي السنة"></label>
+        <label>مصاريف أخرى (جنيه)<input id="eduOther" type="number" min="0" step="0.01" inputmode="decimal" placeholder="اختياري"></label>
+      </div>
+      <div class="notice" aria-live="polite">
+        <p><strong>إجمالي مصاريف الطالب في السنة:</strong> <span id="eduAnnualTotal">0 جنيه</span></p>
+        <p><strong>متوسط المصروف الشهري:</strong> <span id="eduMonthlyTotal">0 جنيه</span></p>
+      </div>
+      <p class="catalog-footnote">الحاسبة تجمع الأرقام التي تدخلها فقط، ولا تحفظها أو ترسلها. أدخل المصروفات السنوية لكل بند، بما فيها المواصلات والدروس.</p>
     </section>
 
     <section class="container section" id="clothingCatalog" hidden>
