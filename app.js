@@ -337,7 +337,7 @@
       "electrical.json":["الكهرباء"],"tools.json":["الأدوات والمعدات"],
       "pets.json":["الحيوانات"],"plants.json":["الزراعة"],
       "telecom.json":["الخدمات"],"travel.json":["السياحة"],
-      "stocks.json":["البورصة"],"medicines.json":["الأدوية"],"spare-parts.json":["قطع غيار"],"services.json":["الخدمات الحكومية"],"fuel.json":["الوقود"],"baby-products.json":["الأطفال"]
+      "stocks.json":["البورصة"],"medicines.json":["الأدوية"],"spare-parts.json":["قطع غيار السيارات"],"services.json":["الخدمات الحكومية"],"fuel.json":["الوقود"],"baby-products.json":["الأطفال"]
     };
     const wanted=routeWords[meta[0]]||[];
     const target=cards.find(c=>wanted.some(word=>normalize(getTitle(c)).includes(normalize(word))));
