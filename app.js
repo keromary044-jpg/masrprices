@@ -541,9 +541,10 @@
       const link=element("a","","فتح المصدر");
       link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";
       note.append(link);root.append(note);
-      root.append(element("p","catalog-footnote",live
+      const groupIsLive=group.live===undefined?live:group.live;
+      root.append(element("p","catalog-footnote",groupIsLive
         ?"تحديث من المصدر المباشر · آخر استجابة: "+new Date(generatedAt||Date.now()).toLocaleString("ar-EG")
-        :"المعروض بيانات محفوظة وقد لا تكون محدثة."));
+        :"بيانات محفوظة احتياطيًا · تاريخ الرصد موضح أعلاه وقد لا تمثل السعر الحالي."));
     });
   }
   function groupsFromLiveFeed(feed){
@@ -566,7 +567,7 @@
       }
     });
     const stamp=feed.generatedAt||new Date().toISOString();
-    const make=(title,items)=>({title,items,note:"آخر رصد من المصدر: "+stamp+" · الأسعار استرشادية وليست عرض بيع ملزم. ",source:"https://getdaleelak.com/ar/api"});
+    const make=(title,items)=>({title,items,live:true,note:"آخر رصد من المصدر: "+stamp+" · الأسعار استرشادية وليست عرض بيع ملزم. ",source:"https://getdaleelak.com/ar/api"});
     return [make("أسعار الذهب",gold),make("أسعار الفضة",silver),make("أسعار العملات مقابل الجنيه",currencies)];
   }
   async function loadMarketRates(){
@@ -580,7 +581,17 @@
       marketETag=res.headers.get("ETag")||marketETag;
       const groups=groupsFromLiveFeed(feed);
       if(!groups.some(g=>g.items.length))throw new Error("No supported assets in feed");
-      renderMarketGroups(groups,true,feed.generatedAt);
+      if(!marketStaticData){
+        try{const fallback=await fetch("./market-rates.json",{cache:"no-cache"});if(fallback.ok)marketStaticData=await fallback.json();}catch(_){}
+      }
+      const d=marketStaticData;
+      const saved=d?[
+        {title:"أسعار الذهب",source:d.gold.source,items:d.gold.items.map(x=>({name:x.name,value:"شراء "+Number(x.buy).toLocaleString("en-US")+" · بيع "+Number(x.sell).toLocaleString("en-US")+" جنيه / "+x.unit})),note:"آخر رصد محفوظ: "+d.gold.checkedAt+" · "+d.gold.sourceLabel+" · قد لا يكون السعر الحالي.",live:false},
+        {title:"أسعار الفضة",source:d.silver.source,items:d.silver.items.map(x=>({name:x.name,value:"شراء "+Number(x.buy).toLocaleString("en-US")+" · بيع "+Number(x.sell).toLocaleString("en-US")+" جنيه / "+x.unit})),note:"آخر رصد محفوظ: "+d.silver.checkedAt+" · "+d.silver.sourceLabel+" · قد لا يكون السعر الحالي.",live:false},
+        {title:"أسعار العملات مقابل الجنيه",source:d.currencies.source,items:d.currencies.items.map(x=>({name:x.name,value:Number(x.rate).toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه"})),note:"آخر رصد محفوظ: "+d.currencies.checkedAt+" · "+d.currencies.sourceLabel+" · قد لا يكون السعر الحالي.",live:false}
+      ]:[];
+      const merged=groups.map(g=>g.items.length?g:(saved.find(x=>x.title===g.title)||g));
+      renderMarketGroups(merged,true,feed.generatedAt);
     }catch(error){
       if(!marketStaticData){
         try{const fallback=await fetch("./market-rates.json",{cache:"no-cache"});if(fallback.ok)marketStaticData=await fallback.json();}catch(_){}
@@ -758,9 +769,12 @@
   const genericData={};
   function renderGenericCatalog(key){
     const cfg=genericCatalogs[key],data=genericData[key];if(!data)return;
-    const root=document.getElementById(cfg.id+"Products"),q=normalize(document.getElementById(cfg.id+"Search").value||""),cat=document.getElementById(cfg.id+"Category").value,sort=document.getElementById(cfg.id+"Sort").value;
+    const root=document.getElementById(cfg.id+"Products");if(!root)return;
+    const search=document.getElementById(cfg.id+"Search"),category=document.getElementById(cfg.id+"Category"),sortControl=document.getElementById(cfg.id+"Sort");
+    const q=normalize(search?.value||""),cat=category?.value||"",sort=sortControl?.value||"name";
+    const products=Array.isArray(data.products)?data.products:(Array.isArray(data)?data:[]);
     const animals=(key==="pets"&&Array.isArray(data.animals)?data.animals:[]);
-    const entries=[...(Array.isArray(data.products)?data.products:[]),...animals];
+    const entries=[...products,...animals];
     const rows=entries.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();
     rows.forEach(x=>{
@@ -777,14 +791,23 @@
       if(x.recordType!=="animal")addDatabaseComparison(card,x);
       root.append(card);
     });
-    document.getElementById(cfg.id+"Count").textContent="عرض "+rows.length+" من "+entries.length+" عنصرًا";if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
+    const count=document.getElementById(cfg.id+"Count");if(count)count.textContent="عرض "+rows.length+" من "+entries.length+" عنصرًا";
+    if(!rows.length)root.append(element("p","catalog-footnote",entries.length?"لا توجد نتائج مطابقة لبحثك أو للتصفية المختارة.":"لا توجد عناصر مسجلة في ملف بيانات هذا القسم حتى الآن."));
   }
   async function loadGenericCatalog(key){
-    const cfg=genericCatalogs[key],root=document.getElementById(cfg.id+"Products");if(genericData[key])return renderGenericCatalog(key);
-    try{const r=await fetch("./"+cfg.file,{cache:"no-cache"});if(!r.ok)throw new Error();genericData[key]=await r.json();const sel=document.getElementById(cfg.id+"Category");[...new Set([...genericData[key].products,...(key==="pets"?(genericData[key].animals||[]):[])].map(x=>x.category))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderGenericCatalog(key);}
-    catch(e){root.textContent="تعذر تحميل بيانات القسم.";}
+    const cfg=genericCatalogs[key],root=document.getElementById(cfg.id+"Products");if(!root)return;
+    if(genericData[key])return renderGenericCatalog(key);
+    try{
+      const r=await fetch("./"+cfg.file,{cache:"no-cache"});if(!r.ok)throw new Error("HTTP "+r.status);
+      const parsed=await r.json();genericData[key]=parsed;
+      const products=Array.isArray(parsed.products)?parsed.products:(Array.isArray(parsed)?parsed:[]);
+      const animals=key==="pets"&&Array.isArray(parsed.animals)?parsed.animals:[];
+      const sel=document.getElementById(cfg.id+"Category");
+      if(sel){[...new Set([...products,...animals].map(x=>x.category).filter(Boolean))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});}
+      renderGenericCatalog(key);
+    }catch(e){root.textContent="تعذر تحميل بيانات القسم حاليًا. حاول تحديث الصفحة لاحقًا.";}
   }
-  Object.entries(genericCatalogs).forEach(([key,cfg])=>[cfg.id+"Search",cfg.id+"Category",cfg.id+"Sort"].forEach(id=>document.getElementById(id).addEventListener(id.endsWith("Search")?"input":"change",()=>renderGenericCatalog(key))));
+  Object.entries(genericCatalogs).forEach(([key,cfg])=>[cfg.id+"Search",cfg.id+"Category",cfg.id+"Sort"].forEach(id=>{const control=document.getElementById(id);if(control)control.addEventListener(id.endsWith("Search")?"input":"change",()=>renderGenericCatalog(key));}));
 
   const educationInputIds=["eduTuition","eduRegistration","eduBooks","eduSupplies","eduDevices","eduActivities","eduOther","eduTransport","eduLessons","eduMeals"];
   const educationInputs=educationInputIds.map(id=>document.getElementById(id)).filter(Boolean);
