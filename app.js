@@ -678,9 +678,9 @@
     const cfg=simpleCatalogs[key],data=simpleData[key],root=document.getElementById(cfg.products);if(!data||!root)return;
     const q=normalize(document.getElementById(cfg.search).value||""),cat=document.getElementById(cfg.category).value,sort=document.getElementById(cfg.sort).value;
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.model||"",x.size||""].join(" ")).includes(q)));
-    rows.sort((a,b)=>sort==="price"?a.price-b.price:a.name.localeCompare(b.name,"ar"));
+    rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));card.append(element("h3","",x.name));card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه"));if(x.size)card.append(element("p","book-store","المقاس: "+x.size));card.append(element("p","book-store","المتجر: "+x.merchant));card.append(element("small","book-date","آخر رصد: "+x.checkedAt));const a=element("a","book-source","فتح صفحة المتجر");a.href=x.source;a.target="_blank";a.rel="noopener noreferrer";card.append(a);root.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));card.append(element("h3","",x.name));card.append(element("p","book-price",Number.isFinite(Number(x.price))&&x.price!==null?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متاح أو لم يتم التحقق منه"));if(x.size)card.append(element("p","book-store","المقاس: "+x.size));if(x.merchant)card.append(element("p","book-store","المتجر: "+x.merchant));if(x.checkedAt)card.append(element("small","book-date","آخر رصد: "+x.checkedAt));if(x.source){const a=element("a","book-source","فتح صفحة المتجر");a.href=x.source;a.target="_blank";a.rel="noopener noreferrer";card.append(a);}root.append(card);});
     document.getElementById(cfg.count).textContent="عرض "+rows.length+" من "+data.products.length+" منتجًا";
     if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
