@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "price-feeds.json"
 ALLOWED_CATALOGS = {
     "phones.json", "books.json", "construction.json", "cars.json",
@@ -16,7 +16,7 @@ ALLOWED_CATALOGS = {
     "furniture.json", "personal-care.json", "sports.json", "electrical.json",
     "tools.json", "pets.json", "plants.json", "telecom.json", "travel.json",
     "stocks.json", "electronics.json", "spare-parts.json", "services.json",
-    "medicines.json", "fuel.json", "baby-products.json"
+    "baby-products.json"
 }
 MAX_BYTES = 5_000_000
 
