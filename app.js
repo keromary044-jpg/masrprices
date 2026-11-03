@@ -35,37 +35,63 @@
     const raw=[product?.brand,product?.name,product?.modelYear,product?.model,product?.variant,product?.size].filter(Boolean).join("-");
     return raw.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9\u0600-\u06ff]+/g,"-").replace(/^-|-$/g,"").slice(0,120);
   }
-  function addDatabaseComparison(card, product){
-    const id=stableProductId(product); if(!id) return;
-    const button=element("button","book-source","مقارنة أسعار المتاجر");
+  const popularStores=["Amazon.eg","Jumia","Carrefour","B.TECH","2B","Raneen","Noon","Dream2000","Raya","Tradeline"];
+  function normalizeOffer(raw){
+    const price=Number(raw.priceEGP??raw.price_egp??raw.price);
+    const merchant=String(raw.merchant??raw.store_name??"").trim();
+    const source=String(raw.source??raw.product_url??"").trim();
+    if(!merchant||!Number.isFinite(price)||price<=0)return null;
+    return {merchant,price,source,sourceLabel:String(raw.sourceLabel??raw.source_name??""),checkedAt:String(raw.checkedAt??raw.checked_at??""),variant:String(raw.variant??"")};
+  }
+  function addStoreComparison(card,product,isPhone=false){
+    const button=element("button","book-source compare-toggle","قارن المتاجر");
     button.type="button";
-    const panel=element("section","offer-comparison"); panel.hidden=true;
+    const panel=element("section","offer-comparison store-comparison");panel.hidden=true;
+    let offers=[];
+    const addOffer=raw=>{const offer=normalizeOffer(raw);if(offer&&!offers.some(o=>o.merchant===offer.merchant&&o.price===offer.price&&o.variant===offer.variant))offers.push(offer);};
+    (Array.isArray(product.priceOffers)?product.priceOffers:[]).forEach(addOffer);
+    addOffer({merchant:product.merchant,priceEGP:isPhone?product.priceEGP:product.price,source:product.source,sourceLabel:product.priceSource||product.sourceLabel,checkedAt:product.priceCheckedAt||product.checkedAt,variant:product.variant||product.model});
+    let loaded=false;
+    function paint(selected){
+      panel.replaceChildren();
+      const sorted=[...offers].sort((a,b)=>a.price-b.price),best=sorted[0];
+      const names=[...new Set([...popularStores,...offers.map(o=>o.merchant)])];
+      panel.append(element("strong","store-comparison-title","اختر المتجر"),element("small","offer-count",offers.length?offers.length+" عروض مسجلة":"لا توجد عروض متعددة موثقة بعد"));
+      const choices=element("div","store-choices");
+      names.forEach(name=>{
+        const found=offers.filter(o=>o.merchant.toLocaleLowerCase()===name.toLocaleLowerCase()).sort((a,b)=>a.price-b.price);
+        const cheapest=found.length&&best&&found[0].price===best.price;
+        const choice=element("button","store-choice"+(selected===name?" is-selected":"")+(cheapest?" is-cheapest":""),name+(cheapest?" ★":""));
+        choice.type="button";choice.setAttribute("aria-pressed",String(selected===name));choice.addEventListener("click",()=>paint(name));choices.append(choice);
+      });
+      panel.append(choices);
+      const matches=offers.filter(o=>o.merchant.toLocaleLowerCase()===String(selected||"").toLocaleLowerCase()).sort((a,b)=>a.price-b.price);
+      if(!selected)panel.append(element("p","store-no-price","اختار متجرًا لعرض السعر المسجل لديه."));
+      else if(!matches.length)panel.append(element("p","store-no-price","لا يوجد سعر موثّق لهذا المنتج لدى "+selected+" حاليًا."));
+      else matches.forEach(offer=>{
+        const row=element("article","store-price-row"+(best&&offer.price===best.price?" is-best":""));
+        const details=element("div","store-price-details");details.append(element("strong","",offer.merchant));
+        if(offer.variant)details.append(element("small","offer-variant",offer.variant));
+        if(offer.sourceLabel||offer.checkedAt)details.append(element("small","offer-variant",[offer.sourceLabel,offer.checkedAt].filter(Boolean).join(" · ")));
+        row.append(details,element("strong","offer-price",offer.price.toLocaleString("en-US")+" جنيه"));
+        if(best&&offer.price===best.price)row.append(element("span","best-store-star","★ أقل سعر"));
+        panel.append(row);
+      });
+      if(best)panel.append(element("p","offer-savings","أقل سعر موثّق: "+best.merchant+" — "+best.price.toLocaleString("en-US")+" جنيه ★"));
+      panel.append(element("small","offer-disclaimer","الأسعار حسب آخر رصد موضح، وقد تتغير لدى المتجر."));
+    }
     button.addEventListener("click",async()=>{
-      if(!panel.hidden){panel.hidden=true;return;}
-      panel.hidden=false; panel.textContent="جارٍ تحميل عروض المتاجر...";
-      try{
-        const response=await fetch("./api/compare?product_id="+encodeURIComponent(id),{cache:"no-store"});
-        const data=await response.json();
-        panel.replaceChildren();
-        if(!response.ok) throw new Error(data.error||"المقارنة غير متاحة حاليًا.");
-        panel.append(element("strong","","مقارنة المتاجر — "+(data.offers?.length||0)+" عرض"));
-        if(!data.offers?.length){panel.append(element("p","catalog-footnote","لا توجد عروض مسجلة لهذا المنتج حتى الآن."));return;}
-        data.offers.forEach((offer,index)=>{
-          const row=element("article","offer-row"+(index===0?" is-best":""));
-          const info=element("div","offer-main");
-          info.append(element("strong","offer-merchant",offer.store_name));
-          info.append(element("small","offer-variant",(offer.variant||"النسخة غير محددة")+" · "+(offer.source_name||"مصدر غير محدد")+" · "+(offer.checked_at||"تاريخ غير محدد")));
-          const side=element("div","offer-side");
-          side.append(element("strong","offer-price",Number(offer.price_egp).toLocaleString("en-US")+" ج.م"));
-          const link=element("a","offer-link","افتح المتجر");link.href=offer.product_url;link.target="_blank";link.rel="noopener noreferrer";
-          side.append(link);row.append(info,side);panel.append(row);
-        });
-        panel.append(element("small","offer-disclaimer","الأسعار حسب آخر رصد مسجل وقد تتغير؛ تأكد من النسخة والتوافر والسعر النهائي."));
-      }catch(error){panel.textContent=error.message;}
+      panel.hidden=!panel.hidden;if(panel.hidden)return;
+      paint(offers.length?[...offers].sort((a,b)=>a.price-b.price)[0].merchant:"");
+      if(loaded)return;loaded=true;
+      const id=stableProductId(product);if(!id)return;
+      try{const response=await fetch("./api/compare?product_id="+encodeURIComponent(id),{cache:"no-store"});const data=await response.json();if(response.ok&&Array.isArray(data.offers))data.offers.forEach(addOffer);paint(offers.length?[...offers].sort((a,b)=>a.price-b.price)[0].merchant:"");}
+      catch(_error){/* Keep local offers visible if the comparison service is unavailable. */}
     });
     card.append(button,panel);
   }
 
+  function addDatabaseComparison(card, product){ addStoreComparison(card,product,false); }
   function renderPhones(data) {
     if (!phoneProducts) return;
     phoneProducts.replaceChildren();
@@ -78,44 +104,7 @@
       article.append(element("h3", "phone-name", phone.name));
       article.append(element("p", "phone-price", phone.priceEGP ? ("السعر في مصر: "+phone.priceEGP.toLocaleString("en-US")+" جنيه") : "السعر في مصر: لم يُتحقق منه بعد"));
       if(phone.priceEGP){article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")+" · "+(phone.priceCheckedAt || "تاريخ الرصد غير محدد")));}
-      if(Array.isArray(phone.priceOffers) && phone.priceOffers.length){
-        const validOffers=phone.priceOffers.filter(o=>Number.isFinite(Number(o.priceEGP))&&Number(o.priceEGP)>0&&o.merchant&&o.source);
-        validOffers.sort((a,b)=>Number(a.priceEGP)-Number(b.priceEGP));
-        const compare=element("section","offer-comparison");
-        const head=element("div","offer-comparison-head");
-        head.append(element("strong","","مقارنة المتاجر"));
-        head.append(element("span","offer-count",validOffers.length+" عروض موثقة المصدر"));
-        compare.append(head);
-        if(validOffers.length){
-          const best=validOffers[0];
-          const bestBox=element("div","best-offer");
-          bestBox.append(element("span","best-label","أقل سعر مرصود"));
-          bestBox.append(element("strong","best-price",Number(best.priceEGP).toLocaleString("en-US")+" جنيه"));
-          bestBox.append(element("span","best-store",best.merchant));
-          compare.append(bestBox);
-          const list=element("div","offer-list");
-          validOffers.forEach((offer,index)=>{
-            const row=element("article","offer-row"+(index===0?" is-best":""));
-            const rank=element("span","offer-rank",String(index+1));
-            const info=element("div","offer-main");
-            info.append(element("strong","offer-merchant",offer.merchant));
-            info.append(element("small","offer-variant",(offer.variant||"النسخة غير محددة")+" · تحقق: "+(offer.checkedAt||"غير محدد")));
-            const side=element("div","offer-side");
-            side.append(element("strong","offer-price",Number(offer.priceEGP).toLocaleString("en-US")+" ج.م"));
-            const link=element("a","offer-link","تحقق من العرض");
-            link.href=offer.source;link.target="_blank";link.rel="noopener noreferrer";
-            side.append(link);row.append(rank,info,side);list.append(row);
-          });
-          compare.append(list);
-          if(validOffers.length>1){
-            const diff=Number(validOffers[validOffers.length-1].priceEGP)-Number(best.priceEGP);
-            compare.append(element("p","offer-savings","الفرق بين أقل وأعلى عرض: "+diff.toLocaleString("en-US")+" جنيه"));
-          }
-        }else compare.append(element("p","catalog-footnote","لا توجد عروض مكتملة المصدر والسعر حاليًا."));
-        compare.append(element("small","offer-disclaimer","الأسعار رُصدت في أوقات مختلفة وقد تتغير؛ تأكد من السعر النهائي والتوافر والنسخة والضمان لدى المتجر قبل الشراء."));
-        article.append(compare);
-      }
-      addDatabaseComparison(article,phone);
+      addStoreComparison(article,phone,true);
       const details = element("details", "phone-details");
       details.append(element("summary", "", "عرض المواصفات التفصيلية"));
       const list = element("dl", "spec-list");
@@ -730,7 +719,7 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.model||"",x.size||""].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));card.append(element("h3","",x.name));card.append(element("p","book-price",Number.isFinite(Number(x.price))&&x.price!==null?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متاح أو لم يتم التحقق منه"));if(x.size)card.append(element("p","book-store","المقاس: "+x.size));if(x.merchant)card.append(element("p","book-store","المتجر: "+x.merchant));if(x.checkedAt)card.append(element("small","book-date","آخر رصد: "+x.checkedAt));if(x.source){const a=element("a","book-source","فتح صفحة المتجر");a.href=x.source;a.target="_blank";a.rel="noopener noreferrer";card.append(a);}addDatabaseComparison(card,x);root.append(card);});
+    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));card.append(element("h3","",x.name));card.append(element("p","book-price",Number.isFinite(Number(x.price))&&x.price!==null?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متاح أو لم يتم التحقق منه"));if(x.size)card.append(element("p","book-store","المقاس: "+x.size));addDatabaseComparison(card,x);root.append(card);});
     document.getElementById(cfg.count).textContent="عرض "+rows.length+" من "+data.products.length+" منتجًا";
     if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
@@ -756,12 +745,12 @@
       card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")),element("h3","",x.name));
       const hasPrice=x.price!==null&&x.price!==undefined&&x.price!==""&&Number.isFinite(Number(x.price))&&Number(x.price)>0;
       card.append(element("p","book-price",x.recordType==="animal"?"نوع حيوان / سلالة — معلومة تعريفية":hasPrice?Number(x.price).toLocaleString("en-US")+" جنيه":"السعر غير متحقق منه"));
-      if(x.merchant)card.append(element("p","book-store","المتجر / الجهة: "+x.merchant));
-      if(x.checkedAt)card.append(element("small","book-date","آخر رصد: "+x.checkedAt));
+      
+      
       const detailValues=[["التفاصيل",x.details||x.description||x.note],["المواصفات",x.spec||x.specifications],["المقاس / السعة",x.size||x.capacity||x.variant],["وحدة القياس",x.unit],["المحافظة / النطاق",x.governorate||x.region],["حالة السعر",hasPrice?(x.priceStatus||"سعر مرصود — راجع تاريخ ومصدر الرصد"):"لا يوجد سعر موثق في قاعدة البيانات"]];
       const populated=detailValues.filter(pair=>pair[1]);
       if(populated.length){const details=element("details","catalog-item-details");details.append(element("summary","","تفاصيل المنتج والمواصفات"));const body=element("div","catalog-item-detail-body");populated.forEach(([label,value])=>{const p=element("p","","");const strong=element("strong","",label+": ");p.append(strong,document.createTextNode(String(value)));body.append(p);});details.append(body);card.append(details);}
-      if(x.source){const link=element("a","book-source","فتح المصدر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}
+      
       if(x.recordType!=="animal")addDatabaseComparison(card,x);
       root.append(card);
     });
