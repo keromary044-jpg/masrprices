@@ -42,7 +42,7 @@
     const raw=[product?.brand,product?.name,product?.modelYear,product?.model,product?.variant,product?.size].filter(Boolean).join("-");
     return raw.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9\u0600-\u06ff]+/g,"-").replace(/^-|-$/g,"").slice(0,120);
   }
-  const popularStores=["Amazon.eg","Jumia","Carrefour","B.TECH","2B","Raneen","Noon","Dream2000","Raya","Tradeline"];
+  const popularStores=["Amazon.eg","Jumia","Carrefour","B.TECH","2B","Raneen","Noon","Dream2000","Raya","Tradeline","Sharaf DG","Compume","Sigma Computer","Elaraby Group","Samsung Shop","Xiaomi Store","OPPO Egypt","Huawei Egypt"];
   function normalizeOffer(raw){
     const price=Number(raw.priceEGP??raw.price_egp??raw.price);
     const merchant=String(raw.merchant??raw.store_name??"").trim();
