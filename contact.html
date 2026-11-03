@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#102b50">
-<meta name="description" content="تواصل مع فريق MasrPrices لإرسال ملاحظة أو تصحيح سعر أو اقتراح تحسين.">
+<meta name="description" content="تواصل مع فريق MasrPrices لإرسال ملاحظة أو تصحيح سعر أو اقتراح تحسين عبر واتساب.">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="https://masrprices.pages.dev/contact.html">
 <link rel="stylesheet" href="styles.css">
@@ -15,43 +15,45 @@
 <main class="container legal-page">
   <p class="eyebrow">نسمع ملاحظاتك</p>
   <h1>اتصل بنا</h1>
-  <p>استخدم النموذج لإرسال تصحيح لسعر أو مصدر، أو الإبلاغ عن مشكلة فنية، أو اقتراح تحسين للموقع. لا ترسل كلمات مرور أو بيانات بنكية أو معلومات شخصية لا نحتاج إليها.</p>
+  <p>استخدم النموذج لإرسال تصحيح لسعر أو مصدر، أو الإبلاغ عن مشكلة فنية، أو اقتراح تحسين للموقع. عند الضغط على الإرسال ستُفتح محادثة واتساب مع فريق MasrPrices والرسالة جاهزة لتراجعها وترسلها بنفسك. لا ترسل كلمات مرور أو بيانات بنكية أو معلومات شخصية حساسة.</p>
   <form id="contactForm" class="property-form contact-form">
+    <label>الاسم (اختياري)<input id="contactName" maxlength="80" placeholder="اكتب اسمك"></label>
     <label>نوع الرسالة<select id="contactType" required><option value="تصحيح سعر أو بيانات">تصحيح سعر أو بيانات</option><option value="مشكلة فنية">مشكلة فنية</option><option value="اقتراح تطوير">اقتراح تطوير</option><option value="استفسار عام">استفسار عام</option><option value="طلب متعلق بالخصوصية">طلب متعلق بالخصوصية</option></select></label>
     <label>القسم أو الصفحة (اختياري)<input id="contactSection" maxlength="80" placeholder="مثال: الموبايلات"></label>
     <label class="property-form-wide">تفاصيل الرسالة<textarea id="contactMessage" minlength="8" maxlength="1500" rows="5" required placeholder="اكتب رسالتك بوضوح..."></textarea></label>
-    <label class="property-form-wide">وسيلة تواصل للرد (اختياري)<input id="contactMethod" maxlength="100" placeholder="بريد إلكتروني أو وسيلة مناسبة"></label>
-    <label class="property-check property-form-wide"><input id="contactConsent" type="checkbox" required> أوافق على إرسال الرسالة والبيانات التي أدخلتها إلى فريق الموقع لمعالجة الطلب والرد إذا تركت وسيلة تواصل. قرأت <a href="privacy.html">سياسة الخصوصية</a>.</label>
-    <label class="property-honeypot" aria-hidden="true">اترك هذا الحقل فارغًا<input id="contactWebsite" tabindex="-1" autocomplete="off"></label>
-    <button type="submit" id="contactSubmit">إرسال الرسالة</button>
+    <label class="property-form-wide">وسيلة تواصل إضافية (اختياري)<input id="contactMethod" maxlength="100" placeholder="بريد إلكتروني مثلًا"></label>
+    <label class="property-check property-form-wide"><input id="contactConsent" type="checkbox" required> أوافق على فتح واتساب لمشاركة الاسم والرسالة والبيانات التي أدخلتها مع فريق الموقع لمعالجة الطلب والرد. قرأت <a href="privacy.html">سياسة الخصوصية</a>.</label>
+    <button type="submit" id="contactSubmit">متابعة إلى واتساب</button>
     <p id="contactStatus" class="catalog-footnote property-form-wide" aria-live="polite"></p>
   </form>
-  <p class="catalog-footnote">قد لا يصل النموذج إذا كانت خدمة استقبال الرسائل غير مفعّلة على الخادم. لا ترسل معلومات شديدة الحساسية عبر النموذج.</p>
+  <p class="catalog-footnote">لن تُرسل الرسالة تلقائيًا؛ ستفتح واتساب لتراجعها ثم تضغط إرسال بنفسك. قد تحتاج إلى تثبيت واتساب أو تسجيل الدخول إليه.</p>
   <script>
   (() => {
     const form=document.getElementById("contactForm");
     if(!form)return;
-    form.addEventListener("submit",async event=>{
+    form.addEventListener("submit",event=>{
       event.preventDefault();
       const status=document.getElementById("contactStatus");
-      const button=document.getElementById("contactSubmit");
-      if(!document.getElementById("contactConsent").checked){status.textContent="يرجى الموافقة قبل الإرسال.";return;}
-      button.disabled=true;status.textContent="جارٍ إرسال الرسالة...";
-      const payload={
-        type:document.getElementById("contactType").value,
-        section:document.getElementById("contactSection").value,
-        message:document.getElementById("contactMessage").value,
-        contact:document.getElementById("contactMethod").value,
-        website:document.getElementById("contactWebsite").value
-      };
-      try{
-        const response=await fetch("/api/suggestion",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});
-        const result=await response.json().catch(()=>({}));
-        if(!response.ok)throw new Error(result.error||"تعذر إرسال الرسالة حاليًا.");
-        status.textContent="تم إرسال رسالتك. شكرًا لمساعدتنا على تحسين الموقع.";
-        form.reset();
-      }catch(error){status.textContent=error.message||"حدث خطأ أثناء الإرسال. حاول لاحقًا.";}
-      finally{button.disabled=false;}
+      if(!document.getElementById("contactConsent").checked){status.textContent="يرجى الموافقة قبل المتابعة.";return;}
+      const clean=value=>String(value||"").trim();
+      const name=clean(document.getElementById("contactName").value);
+      const type=clean(document.getElementById("contactType").value);
+      const section=clean(document.getElementById("contactSection").value);
+      const message=clean(document.getElementById("contactMessage").value);
+      const contact=clean(document.getElementById("contactMethod").value);
+      if(message.length<8){status.textContent="اكتب رسالة لا تقل عن 8 أحرف.";return;}
+      const lines=[
+        "رسالة جديدة من موقع MasrPrices",
+        "الاسم: "+(name||"لم يذكر"),
+        "النوع: "+type,
+        "القسم: "+(section||"غير محدد"),
+        "التفاصيل: "+message,
+        contact?"وسيلة تواصل إضافية: "+contact:""
+      ].filter(Boolean);
+      const url="https://wa.me/201204482537?text="+encodeURIComponent(lines.join("\n"));
+      const opened=window.open(url,"_blank","noopener,noreferrer");
+      if(!opened){window.location.href=url;return;}
+      status.textContent="تم فتح واتساب. راجع الرسالة واضغط إرسال لإيصالها إلينا.";
     });
   })();
   </script>
