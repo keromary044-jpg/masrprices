@@ -47,6 +47,23 @@ export async function onRequest({ request, env }) {
         .bind(productId,store,price,source,sourceName,clean(data.variant,160),clean(data.region,100),clean(data.checked_at,30)||new Date().toISOString().slice(0,10),"verified").run();
       return json(200,{ok:true});
     }
+    if(data.action==="importProducts"){
+      if(!Array.isArray(data.items)||data.items.length>1000) return json(400,{error:"ملف المنتجات غير صالح أو أكبر من 1000 منتج."});
+      let accepted=0;
+      for(const item of data.items){
+        const id=clean(item.id,120),name=clean(item.name||item.title,180);
+        if(!id||!name) continue;
+        await env.DB.prepare(`INSERT INTO products(id,name,brand,category,variant,unit,image_url,updated_at)
+          VALUES(?,?,?,?,?,?,?,CURRENT_TIMESTAMP)
+          ON CONFLICT(id) DO UPDATE SET name=excluded.name,brand=excluded.brand,category=excluded.category,
+          variant=excluded.variant,unit=excluded.unit,image_url=excluded.image_url,updated_at=CURRENT_TIMESTAMP`)
+          .bind(id,name,clean(item.brand,100),clean(item.category,100),clean(item.variant||item.model||item.spec,160),clean(item.unit,80),clean(item.image_url||item.image,500)).run();
+        accepted++;
+      }
+      await env.DB.prepare("INSERT INTO price_update_log(source_name,items_received,items_accepted,status,message) VALUES(?,?,?,?,?)")
+        .bind(clean(data.source_name||"استيراد كتالوج المنتجات",120),data.items.length,accepted,"completed","مزامنة كتالوج المنتجات").run();
+      return json(200,{ok:true,accepted,received:data.items.length});
+    }
     if(data.action==="importOffers"){
       if(!Array.isArray(data.items)||data.items.length>500) return json(400,{error:"ملف الاستيراد غير صالح أو أكبر من 500 عرض."});
       let accepted=0;
