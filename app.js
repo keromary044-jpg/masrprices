@@ -744,7 +744,7 @@
     const rows=entries.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();
     rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")),element("h3","",x.name));
-      if(x.recordType==="animal"){card.append(element("p","book-price","نوع حيوان / سلالة — معلومة تعريفية")),element("p","book-store",x.note||"راجع احتياجات الرعاية والقوانين المحلية قبل الاقتناء."));}
+      if(x.recordType==="animal"){card.append(element("p","book-price","نوع حيوان / سلالة — معلومة تعريفية"),element("p","book-store",x.note||"راجع احتياجات الرعاية والقوانين المحلية قبل الاقتناء."));}
       else {card.append(element("p","book-price",x.price==null?"السعر غير منشور أو لم يتم التحقق منه":Number(x.price).toLocaleString("en-US")+" جنيه"),element("p","book-store",x.merchant?"المتجر: "+x.merchant:"راجع المصدر لمعرفة جهة البيع"),element("small","book-date","آخر رصد: "+(x.checkedAt||"غير محدد")));if(x.source){const link=element("a","book-source","عرض المصدر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}addDatabaseComparison(card,x);}
       root.append(card);});
     document.getElementById(cfg.id+"Count").textContent="عرض "+rows.length+" من "+entries.length+" عنصرًا";if(!rows.length)root.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
