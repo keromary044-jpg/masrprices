@@ -769,69 +769,100 @@
 
   let realEstateData=null;
   async function loadRealEstate(){
-    const governorate=document.getElementById("propertyGovernorate");
-    const center=document.getElementById("propertyCenter");
-    const area=document.getElementById("propertyArea");
-    const results=document.getElementById("propertyListings");
+    const governorate=document.getElementById("propertyGovernorate"),center=document.getElementById("propertyCenter"),area=document.getElementById("propertyArea"),results=document.getElementById("propertyListings");
     if(!governorate||!center||!area||!results)return;
     if(!realEstateData){
-      results.textContent="جارٍ تحميل المحافظات...";
+      results.textContent="جارٍ تحميل المحافظات والإعلانات...";
       try{
-        const response=await fetch("./real-estate.json",{cache:"no-cache"});
-        if(!response.ok)throw new Error("HTTP "+response.status);
-        realEstateData=await response.json();
+        const [baseResponse,apiResponse]=await Promise.all([fetch("./real-estate.json",{cache:"no-cache"}),fetch("/api/real-estate",{cache:"no-store"})]);
+        if(!baseResponse.ok)throw new Error("تعذر تحميل دليل المحافظات");
+        const base=await baseResponse.json();
+        let live={listings:[]};
+        if(apiResponse.ok)live=await apiResponse.json();
+        else console.warn("Real estate API:",(await apiResponse.json().catch(()=>({}))).error||apiResponse.status);
+        realEstateData={governorates:live.governorates?.length?live.governorates:base.governorates,listings:Array.isArray(live.listings)?live.listings:[]};
         governorate.replaceChildren(new Option("اختر المحافظة",""));
         realEstateData.governorates.forEach(g=>governorate.add(new Option(g.name,g.name)));
-      }catch(error){
-        results.textContent="تعذر تحميل دليل المحافظات حاليًا.";
-        console.error(error);return;
-      }
+        const submitGov=document.getElementById("submitPropertyGovernorate");
+        if(submitGov){submitGov.replaceChildren(new Option("اختر المحافظة",""));realEstateData.governorates.forEach(g=>submitGov.add(new Option(g.name,g.name)));}
+      }catch(error){results.textContent="تعذر تحميل دليل المحافظات حاليًا.";console.error(error);return;}
     }
     renderPropertyListings();
   }
   function renderPropertyListings(){
     if(!realEstateData)return;
-    const gov=document.getElementById("propertyGovernorate")?.value||"";
-    const center=document.getElementById("propertyCenter")?.value||"";
-    const area=normalize(document.getElementById("propertyArea")?.value||"");
-    const type=document.getElementById("propertyType")?.value||"";
-    const min=Math.max(0,Number(document.getElementById("propertyMinPrice")?.value)||0);
-    const max=Math.max(0,Number(document.getElementById("propertyMaxPrice")?.value)||0);
-    const rooms=document.getElementById("propertyRooms")?.value||"";
-    const sort=document.getElementById("propertySort")?.value||"newest";
-    const root=document.getElementById("propertyListings"),count=document.getElementById("propertyCount");
-    if(!root)return;
-    let rows=(realEstateData.listings||[]).filter(x=>(!x.status||x.status==="active")&&(!gov||x.governorate===gov)&&(!center||x.center===center)&&(!area||normalize(x.area||"").includes(area))&&(!type||x.type===type)&&(!min||Number(x.price)>=min)&&(!max||Number(x.price)<=max)&&(!rooms|| (rooms==="4"?Number(x.rooms)>=4:Number(x.rooms)===Number(rooms))));
-    rows.sort((a,b)=>sort==="price-asc"?Number(a.price)-Number(b.price):sort==="price-desc"?Number(b.price)-Number(a.price):sort==="area-desc"?Number(b.areaM2)-Number(a.areaM2):String(b.publishedAt||"").localeCompare(String(a.publishedAt||"")));
+    const gov=document.getElementById("propertyGovernorate")?.value||"",center=document.getElementById("propertyCenter")?.value||"",area=normalize(document.getElementById("propertyArea")?.value||"");
+    const type=document.getElementById("propertyType")?.value||"",min=Math.max(0,Number(document.getElementById("propertyMinPrice")?.value)||0),max=Math.max(0,Number(document.getElementById("propertyMaxPrice")?.value)||0),rooms=document.getElementById("propertyRooms")?.value||"",sort=document.getElementById("propertySort")?.value||"newest";
+    const root=document.getElementById("propertyListings"),count=document.getElementById("propertyCount");if(!root)return;
+    let rows=(realEstateData.listings||[]).filter(x=>(!gov||x.governorate===gov)&&(!center||x.center===center)&&(!area||normalize(x.area||"").includes(area))&&(!type||x.type===type)&&(!min||Number(x.price)>=min)&&(!max||Number(x.price)<=max)&&(!rooms||(rooms==="4"?Number(x.rooms)>=4:Number(x.rooms)===Number(rooms))));
+    rows.sort((a,b)=>sort==="price-asc"?(Number(a.price||Infinity)-Number(b.price||Infinity)):sort==="price-desc"?(Number(b.price||0)-Number(a.price||0)):sort==="area-desc"?(Number(b.areaM2||0)-Number(a.areaM2||0)):String(b.publishedAt||"").localeCompare(String(a.publishedAt||"")));
     root.replaceChildren();
     if(count)count.textContent=gov?(center?("نتائج "+gov+" – "+center+(area?" – "+document.getElementById("propertyArea").value:"")+" : "+rows.length+" إعلان"):"اختر المركز أو المدينة لعرض الإعلانات"):"اختر المحافظة لبدء البحث";
     if(!gov||!center){root.append(element("p","catalog-footnote","ابدأ باختيار المحافظة ثم المركز أو المدينة والمنطقة المطلوبة."));return;}
-    if(!rows.length){root.append(element("div","property-empty","لا توجد إعلانات مسجلة مطابقة لهذا المكان حاليًا. قاعدة الإعلانات جاهزة، وستظهر العقارات عند إضافة إعلانات موثّقة أو ربط مصدر إعلانات مصرح به."));return;}
+    if(!rows.length){root.append(element("div","property-empty","لا توجد إعلانات معتمدة مطابقة لهذا المكان حاليًا. يمكنك إضافة عقارك من نموذج «أضف عقارك للبيع»."));return;}
     rows.forEach(x=>{
       const card=element("article","property-card");
+      const photos=Array.isArray(x.photoUrls)?x.photoUrls:Array.isArray(x.photo_urls)?x.photo_urls:[];
+      photos.filter(url=>/^https:\/\//i.test(url)).slice(0,8).forEach(url=>{const img=element("img","property-photo");img.src=url;img.alt=x.title||"صورة العقار";img.loading="lazy";img.referrerPolicy="no-referrer";card.append(img);});
       card.append(element("span","property-type",x.type||"عقار للبيع"),element("h3","",x.title||((x.type||"عقار")+" للبيع في "+(x.area||center))));
       card.append(element("p","property-location",[x.governorate,x.center,x.area].filter(Boolean).join(" · ")));
-      if(Number(x.price)>0)card.append(element("strong","property-price",Number(x.price).toLocaleString("en-US")+" جنيه"));
+      if(Number(x.price)>0)card.append(element("strong","property-price",Number(x.price).toLocaleString("en-US")+" جنيه"+(x.price_negotiable?" — قابل للتفاوض":"")));
       else card.append(element("strong","property-price","السعر عند التواصل"));
       const specs=[x.areaM2?("المساحة: "+x.areaM2+" م²"):"",x.rooms?("الغرف: "+x.rooms):"",x.bathrooms?("الحمامات: "+x.bathrooms):"",x.floor?("الدور: "+x.floor):""].filter(Boolean);
       if(specs.length)card.append(element("p","property-specs",specs.join(" • ")));
       if(x.description)card.append(element("p","property-description",x.description));
       if(x.publishedAt)card.append(element("small","catalog-footnote","تاريخ النشر: "+x.publishedAt));
-      if(x.source&&/^https:\/\//i.test(x.source)){const link=element("a","property-source","مصدر الإعلان");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}
-      if(x.contact){const contact=element("a","property-contact","التواصل مع المعلن");const digits=String(x.contact).replace(/[^0-9]/g,"");contact.href="https://wa.me/"+digits;contact.target="_blank";contact.rel="noopener noreferrer";card.append(contact);}
+      if(x.contact){const contact=element("a","property-contact","التواصل مع المعلن");const digits=String(x.contact).replace(/[^0-9]/g,"");if(digits.length>=7){contact.href="https://wa.me/"+digits;contact.target="_blank";contact.rel="noopener noreferrer";card.append(contact);}}
       root.append(card);
     });
   }
-  const propertyGovernorate=document.getElementById("propertyGovernorate");
-  const propertyCenter=document.getElementById("propertyCenter");
+  function fillPropertyCenters(govSelect,centerSelect){
+    if(!govSelect||!centerSelect)return;
+    const selected=(realEstateData?.governorates||[]).find(g=>g.name===govSelect.value);
+    centerSelect.replaceChildren(new Option(selected?"اختر المركز أو المدينة":"اختر المحافظة أولًا",""));
+    (selected?.centers||[]).forEach(c=>centerSelect.add(new Option(c,c)));
+    centerSelect.disabled=!selected;
+  }
+  const propertyGovernorate=document.getElementById("propertyGovernorate"),propertyCenter=document.getElementById("propertyCenter");
   propertyGovernorate?.addEventListener("change",()=>{
-    const selected=(realEstateData?.governorates||[]).find(g=>g.name===propertyGovernorate.value);
-    if(propertyCenter){propertyCenter.replaceChildren(new Option(selected?"اختر المركز أو المدينة":"اختر المحافظة أولًا",""));(selected?.centers||[]).forEach(c=>propertyCenter.add(new Option(c,c)));propertyCenter.disabled=!selected;}
-    const area=document.getElementById("propertyArea");if(area){area.value="";area.disabled=!selected;area.placeholder=selected?"اكتب اسم المنطقة أو القرية...":"اختر المحافظة أولًا";}
+    fillPropertyCenters(propertyGovernorate,propertyCenter);
+    const area=document.getElementById("propertyArea");if(area){area.value="";area.disabled=!propertyGovernorate.value;area.placeholder=propertyGovernorate.value?"اكتب اسم المنطقة أو القرية...":"اختر المحافظة أولًا";}
     renderPropertyListings();
   });
   propertyCenter?.addEventListener("change",renderPropertyListings);
   ["propertyArea","propertyType","propertyMinPrice","propertyMaxPrice","propertyRooms","propertySort"].forEach(id=>{const control=document.getElementById(id);control?.addEventListener(id==="propertyArea"?"input":"change",renderPropertyListings);});
+  const submitGov=document.getElementById("submitPropertyGovernorate"),submitCenter=document.getElementById("submitPropertyCenter");
+  submitGov?.addEventListener("change",()=>fillPropertyCenters(submitGov,submitCenter));
+  const propertyForm=document.getElementById("propertySubmitForm");
+  propertyForm?.addEventListener("submit",async event=>{
+    event.preventDefault();const message=document.getElementById("propertySubmitMessage"),button=propertyForm.querySelector('button[type="submit"]');
+    if(!message||!button)return;button.disabled=true;message.textContent="جارٍ إرسال الإعلان...";
+    const f=new FormData(propertyForm),value=name=>String(f.get(name)||"").trim();
+    const payload={title:value("title"),type:value("type"),governorate:value("governorate"),center:value("center"),area:value("area"),price:value("price"),price_negotiable:f.has("price_negotiable"),area_m2:value("area_m2"),rooms:value("rooms"),bathrooms:value("bathrooms"),floor:value("floor"),description:value("description"),photo_urls:value("photo_urls"),owner_name:value("owner_name"),contact_phone:value("contact_phone"),consent:f.has("consent"),website:value("website")};
+    try{const response=await fetch("/api/real-estate",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});const result=await response.json();if(!response.ok)throw new Error(result.error||"تعذر إرسال الإعلان.");message.textContent=result.message||"تم إرسال الإعلان للمراجعة.";propertyForm.reset();if(submitCenter){submitCenter.replaceChildren(new Option("اختر المحافظة أولًا",""));submitCenter.disabled=true;}}
+    catch(error){message.textContent=error.message||"تعذر الاتصال بالخادم. حاول لاحقًا.";}
+    finally{button.disabled=false;}
+  });
+  const adminForm=document.getElementById("propertyAdminLogin"),adminQueue=document.getElementById("propertyAdminQueue"),adminPassword=document.getElementById("propertyAdminPassword");
+  async function loadPropertyQueue(){
+    if(!adminPassword?.value||!adminQueue)return;
+    adminQueue.textContent="جارٍ تحميل الإعلانات المنتظرة...";
+    try{
+      const response=await fetch("/api/real-estate-admin",{headers:{"X-Admin-Password":adminPassword.value,"Cache-Control":"no-store"}});
+      const data=await response.json();if(!response.ok)throw new Error(data.error||"تعذر تحميل قائمة المراجعة.");
+      adminQueue.replaceChildren();
+      if(!data.listings?.length){adminQueue.textContent="لا توجد إعلانات تنتظر المراجعة.";return;}
+      data.listings.forEach(item=>{
+        const card=element("article","property-review-card");
+        card.append(element("h3","",item.title),element("p","property-location",[item.governorate,item.center,item.area].join(" · ")),element("p","",item.type+" — "+(item.price?Number(item.price).toLocaleString("en-US")+" جنيه":"السعر عند التواصل")),element("p","",item.description),element("p","","المعلن: "+item.owner_name+" — "+item.contact_phone));
+        (item.photoUrls||[]).forEach(url=>{if(/^https:\/\//i.test(url)){const a=element("a","property-source","رابط صورة");a.href=url;a.target="_blank";a.rel="noopener noreferrer";card.append(a);}});
+        const actions=element("div","property-review-actions");
+        [["approve","موافقة ونشر"],["reject","رفض الإعلان"]].forEach(([action,label])=>{const button=element("button",action==="approve"?"property-contact":"property-reject",label);button.type="button";button.addEventListener("click",async()=>{button.disabled=true;try{const r=await fetch("/api/real-estate-admin",{method:"POST",headers:{"Content-Type":"application/json","X-Admin-Password":adminPassword.value},body:JSON.stringify({id:item.id,action})});const result=await r.json();if(!r.ok)throw new Error(result.error||"تعذر حفظ القرار.");await loadPropertyQueue();if(action==="approve"){realEstateData=null;await loadRealEstate();}}catch(error){button.disabled=false;adminQueue.prepend(element("p","catalog-footnote",error.message));}});actions.append(button);});
+        card.append(actions);adminQueue.append(card);
+      });
+    }catch(error){adminQueue.textContent=error.message;}
+  }
+  adminForm?.addEventListener("submit",event=>{event.preventDefault();loadPropertyQueue();});
 
   const genericCatalogs={fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},stocks:{file:"stocks.json",id:"stocksCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
   const genericData={};
