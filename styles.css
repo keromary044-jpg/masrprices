@@ -241,3 +241,17 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .catalog-image-label{position:absolute;inset:auto 8px 8px auto;padding:3px 8px;border-radius:20px;background:#102b50e8;color:#fff;font-size:.72rem;z-index:1}
 .catalog-footnote[aria-live],.catalog-count{line-height:1.8}
 @media(max-width:600px){.catalog-image-wrap{height:150px}}
+
+/* Public information pages and footer navigation */
+.footer-links{display:flex;flex-wrap:wrap;gap:10px 18px;margin:12px 0}
+.footer-links a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.footer-note{color:var(--muted);font-size:.85rem;line-height:1.8}
+.legal-page{max-width:900px;padding-top:34px;padding-bottom:44px;line-height:1.9}
+.legal-page h1{color:var(--navy);font-size:clamp(1.7rem,5vw,2.35rem);margin:8px 0 18px}
+.legal-page h2{color:var(--navy);font-size:1.2rem;margin:26px 0 8px}
+.legal-page p,.legal-page li{color:var(--ink);line-height:1.95}
+.legal-page a:not(.primary-button){color:#17558d;text-underline-offset:3px}
+.legal-page ul{padding-right:24px}
+.contact-form{max-width:760px;margin:22px 0}
+.contact-form button{width:100%;max-width:260px}
+.contact-form button:disabled{opacity:.6;cursor:wait}

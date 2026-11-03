@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#102b50">
+<meta name="description" content="تواصل مع فريق MasrPrices لإرسال ملاحظة أو تصحيح سعر أو اقتراح تحسين.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://masrprices.pages.dev/contact.html">
+<link rel="stylesheet" href="styles.css">
+<title>اتصل بنا | MasrPrices</title>
+</head>
+<body>
+<header class="site-header"><div class="container header-content"><a class="logo" href="index.html">Masr<span>Prices</span></a><nav><a href="index.html#categories">الأقسام</a><a href="about.html">من نحن</a><a href="contact.html">اتصل بنا</a></nav></div></header>
+<main class="container legal-page">
+  <p class="eyebrow">نسمع ملاحظاتك</p>
+  <h1>اتصل بنا</h1>
+  <p>استخدم النموذج لإرسال تصحيح لسعر أو مصدر، أو الإبلاغ عن مشكلة فنية، أو اقتراح تحسين للموقع. لا ترسل كلمات مرور أو بيانات بنكية أو معلومات شخصية لا نحتاج إليها.</p>
+  <form id="contactForm" class="property-form contact-form">
+    <label>نوع الرسالة<select id="contactType" required><option value="تصحيح سعر أو بيانات">تصحيح سعر أو بيانات</option><option value="مشكلة فنية">مشكلة فنية</option><option value="اقتراح تطوير">اقتراح تطوير</option><option value="استفسار عام">استفسار عام</option><option value="طلب متعلق بالخصوصية">طلب متعلق بالخصوصية</option></select></label>
+    <label>القسم أو الصفحة (اختياري)<input id="contactSection" maxlength="80" placeholder="مثال: الموبايلات"></label>
+    <label class="property-form-wide">تفاصيل الرسالة<textarea id="contactMessage" minlength="8" maxlength="1500" rows="5" required placeholder="اكتب رسالتك بوضوح..."></textarea></label>
+    <label class="property-form-wide">وسيلة تواصل للرد (اختياري)<input id="contactMethod" maxlength="100" placeholder="بريد إلكتروني أو وسيلة مناسبة"></label>
+    <label class="property-check property-form-wide"><input id="contactConsent" type="checkbox" required> أوافق على إرسال الرسالة والبيانات التي أدخلتها إلى فريق الموقع لمعالجة الطلب والرد إذا تركت وسيلة تواصل. قرأت <a href="privacy.html">سياسة الخصوصية</a>.</label>
+    <label class="property-honeypot" aria-hidden="true">اترك هذا الحقل فارغًا<input id="contactWebsite" tabindex="-1" autocomplete="off"></label>
+    <button type="submit" id="contactSubmit">إرسال الرسالة</button>
+    <p id="contactStatus" class="catalog-footnote property-form-wide" aria-live="polite"></p>
+  </form>
+  <p class="catalog-footnote">قد لا يصل النموذج إذا كانت خدمة استقبال الرسائل غير مفعّلة على الخادم. لا ترسل معلومات شديدة الحساسية عبر النموذج.</p>
+  <script>
+  (() => {
+    const form=document.getElementById("contactForm");
+    if(!form)return;
+    form.addEventListener("submit",async event=>{
+      event.preventDefault();
+      const status=document.getElementById("contactStatus");
+      const button=document.getElementById("contactSubmit");
+      if(!document.getElementById("contactConsent").checked){status.textContent="يرجى الموافقة قبل الإرسال.";return;}
+      button.disabled=true;status.textContent="جارٍ إرسال الرسالة...";
+      const payload={
+        type:document.getElementById("contactType").value,
+        section:document.getElementById("contactSection").value,
+        message:document.getElementById("contactMessage").value,
+        contact:document.getElementById("contactMethod").value,
+        website:document.getElementById("contactWebsite").value
+      };
+      try{
+        const response=await fetch("/api/suggestion",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)});
+        const result=await response.json().catch(()=>({}));
+        if(!response.ok)throw new Error(result.error||"تعذر إرسال الرسالة حاليًا.");
+        status.textContent="تم إرسال رسالتك. شكرًا لمساعدتنا على تحسين الموقع.";
+        form.reset();
+      }catch(error){status.textContent=error.message||"حدث خطأ أثناء الإرسال. حاول لاحقًا.";}
+      finally{button.disabled=false;}
+    });
+  })();
+  </script>
+</main><footer><div class="container"><p>© 2026 MasrPrices</p><nav class="footer-links"><a href="about.html">من نحن</a><a href="contact.html">اتصل بنا</a><a href="privacy.html">سياسة الخصوصية</a><a href="terms.html">الشروط والأحكام</a></nav></div></footer></body></html>
