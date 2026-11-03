@@ -167,3 +167,18 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .catalog-item-detail-body{padding-top:8px}
 .catalog-item-detail-body p{margin:6px 0;color:#526176;font-size:.86rem;line-height:1.75}
 .catalog-item-detail-body strong{color:#102b50}
+
+/* In-page store comparison */
+.store-comparison{display:grid;gap:10px}
+.store-comparison-title{color:var(--navy)}
+.store-choices{display:flex;flex-wrap:wrap;gap:7px}
+.store-choice{border:1px solid var(--line);background:#fff;color:var(--navy);border-radius:9px;padding:8px 11px;font:inherit;font-size:.82rem;cursor:pointer}
+.store-choice.is-selected{border-color:#527eae;background:#edf4fb}
+.store-choice.is-cheapest{border-color:#2e8b57}
+.store-price-row{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:11px;border:1px solid var(--line);border-radius:10px;background:#fff;flex-wrap:wrap}
+.store-price-row.is-best{border-color:#2e8b57;background:#f5fbf7}
+.store-price-details{display:grid;gap:4px;min-width:0}
+.best-store-star{color:#237746;font-size:.8rem;font-weight:800}
+.store-no-price{margin:0;padding:10px;border-radius:9px;background:#f5f7fa;color:#58677a;font-size:.88rem}
+.compare-toggle{width:100%;margin-top:10px;text-align:center;cursor:pointer}
+@media(max-width:480px){.store-choice{flex:1 1 calc(50% - 7px)}.store-price-row{align-items:flex-start}}
