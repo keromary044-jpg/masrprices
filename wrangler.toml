@@ -9,7 +9,7 @@ run_worker_first = ["/api/*"]
 
 [[d1_databases]]
 binding = "DB"
-database_name = "masrprices-db"
+database_name = "masrprices2026"
 database_id = "78a1d85d-539c-416c-8e29-098d718f2ee3"
 migrations_dir = "migrations"
 
