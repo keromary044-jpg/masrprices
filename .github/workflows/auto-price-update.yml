@@ -64,6 +64,9 @@ jobs:
       - name: Test price source matching and safety rules
         run: python -m unittest discover -s price-updater -p 'test_*.py'
       - name: Fetch and validate authorized price feeds
+        env:
+          PRICELENS_API_KEY: ${{ secrets.PRICELENS_API_KEY }}
+          SAMA_LINK_API_KEY: ${{ secrets.SAMA_LINK_API_KEY }}
         run: python price-updater/github_actions_updater.py
       - name: Save changed catalog files
         run: |
