@@ -201,6 +201,7 @@ def main():
     checked_at = now.strftime("%Y-%m-%d %H:%M Cairo")
     catalogs = load_catalogs()
     index = build_exact_index(catalogs)
+    original_catalogs = {name: json.dumps(data, ensure_ascii=False, sort_keys=True) for name, data in catalogs.items()}
     changed = set()
     accepted_total = 0
     failures = 0
@@ -219,16 +220,10 @@ def main():
             else:
                 raise ValueError("Unsupported or unapproved adapter")
             accepted_total += accepted
-            if accepted:
-                changed.update(filename for filename, _ in sum(index.values(), []) if False)
-                # Identify changed catalogs from their in-memory products.
-                for filename, catalog in catalogs.items():
-                    if any(p.get("priceSource") in ("PriceLens",) or p.get("merchant") == "Sama Link"
-                           for p in catalog.get("products", [])):
-                        changed.add(filename)
         except Exception as exc:
             failures += 1
             print(f"FAILED {source_id}: {str(exc)[:300]}", file=sys.stderr)
+    changed = {name for name, data in catalogs.items() if json.dumps(data, ensure_ascii=False, sort_keys=True) != original_catalogs[name]}
     for filename in changed:
         catalogs[filename]["updatedAt"] = now.strftime("%Y-%m-%d")
         catalogs[filename]["lastAutomaticUpdate"] = checked_at
