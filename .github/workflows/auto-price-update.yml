@@ -61,6 +61,8 @@ jobs:
               assert simple["limit"] > 0 and simple["period"] in (10, 60), "Invalid rate limit settings"
           print("Worker security configuration validated.")
           PY
+      - name: Test price source matching and safety rules
+        run: python -m unittest discover -s price-updater -p 'test_*.py'
       - name: Fetch and validate authorized price feeds
         run: python price-updater/github_actions_updater.py
       - name: Save changed catalog files
