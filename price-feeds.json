@@ -1,5 +1,109 @@
 {
-  "version": 1,
-  "notice": "أضف هنا فقط تغذيات JSON رسمية أو مصرحًا بها من أصحاب البيانات. لا توجد مصادر نشطة افتراضيًا.",
-  "sources": []
+  "version": 2,
+  "currency": "EGP",
+  "matching_policy": "Exact normalized product name AND brand only; ambiguous or partial matches are rejected.",
+  "update_schedule": "03:00 UTC daily (05:00 Africa/Cairo during Egypt winter time); also runs on relevant pushes and manual dispatch.",
+  "sources": [
+    {
+      "id": "pricelens-eg-retailers",
+      "name": "PriceLens Egypt multi-store offers API",
+      "adapter": "pricelens",
+      "active": false,
+      "status": "requires_api_key_and_plan_activation",
+      "secret_env": "PRICELENS_API_KEY",
+      "endpoint": "https://pricelens.store/api/v1/partner/deals",
+      "scope": "market:read",
+      "refresh_policy": "API values refreshed hourly; updater requests offers no older than 24 hours; cache not more than 24 hours.",
+      "attribution": "Display Prices by PriceLens with a link to https://pricelens.store; preserve returned affiliate link exactly.",
+      "coverage": [
+        "phones.json",
+        "electronics.json",
+        "appliances.json",
+        "groceries.json"
+      ],
+      "activation_note": "API key required. Documentation advertises a 7-day trial and monthly plans. Keep inactive until the account owner obtains a key and confirms the plan."
+    },
+    {
+      "id": "sama-link-store",
+      "name": "Sama Link Store official partner integration API",
+      "adapter": "sama_link",
+      "active": false,
+      "status": "requires_store_issued_api_key",
+      "secret_env": "SAMA_LINK_API_KEY",
+      "endpoint": "https://pro-api.sama-link.com/integrations/v1/catalog/products",
+      "required_scope": "catalog:read",
+      "coverage": [
+        "electronics.json",
+        "electrical.json",
+        "tools.json"
+      ],
+      "activation_note": "Sama Link issues the integration key after contact; API is server-to-server. Use only products that match an existing catalog entry by exact normalized name and brand."
+    }
+  ],
+  "reference_sources": [
+    {
+      "id": "cbe-exchange-rates",
+      "name": "Central Bank of Egypt",
+      "url": "https://www.cbe.org.eg/en/economic-research/statistics/exchange-rates",
+      "coverage": [
+        "currencyRates"
+      ],
+      "mode": "official_reference_only",
+      "reason": "Official published exchange rates; no verified public JSON feed or redistribution license was established in this review."
+    },
+    {
+      "id": "egx-market-data",
+      "name": "Egyptian Exchange",
+      "url": "https://www.egx.com.eg",
+      "coverage": [
+        "stocks.json"
+      ],
+      "mode": "official_reference_only",
+      "reason": "Market data access and redistribution rights require confirmation; no open licensed feed was verified."
+    },
+    {
+      "id": "eda-drug-database",
+      "name": "Egyptian Drug Authority",
+      "url": "https://edaegypt.gov.eg",
+      "coverage": [
+        "medicines.json"
+      ],
+      "mode": "official_reference_only",
+      "reason": "Official registration and product information database; not a verified public price feed."
+    },
+    {
+      "id": "capmas-price-statistics",
+      "name": "CAPMAS",
+      "url": "https://capmas.gov.eg",
+      "coverage": [
+        "groceries.json",
+        "construction.json"
+      ],
+      "mode": "statistics_only",
+      "reason": "Published statistical indices are not live individual retail product prices."
+    },
+    {
+      "id": "obour-market",
+      "name": "Obour Market",
+      "url": "https://www.oboormarket.org.eg",
+      "coverage": [
+        "groceries.json"
+      ],
+      "mode": "reference_only",
+      "reason": "Wholesale market bulletins are not a general licensed retail JSON feed."
+    },
+    {
+      "id": "daleelak-market-api",
+      "name": "Daleelak Egypt market rates API",
+      "url": "https://getdaleelak.com/en/api",
+      "coverage": [
+        "goldRates",
+        "silverRates",
+        "currencyRates"
+      ],
+      "mode": "informational_only_not_enabled_for_commercial_catalog",
+      "reason": "Provider states the free feed is for information only and its commercial license is not yet available."
+    }
+  ],
+  "excluded_categories_note": "Do not activate sources for medicines or other restricted products through this generic updater. Use official public registration information only; no unverified price claims."
 }
