@@ -170,44 +170,58 @@
     });
   }
 
-  async function loadModelIndex() {
-    if (!phoneCatalog || document.getElementById("officialModelIndex")) return;
-    try {
-      const response = await fetch("./phone-model-index.json", {cache:"no-cache"});
-      if (!response.ok) throw new Error("تعذر تحميل فهرس الموديلات");
-      const index = await response.json();
-      const section = element("section", "model-index");
-      section.id = "officialModelIndex";
-      section.append(element("h3", "", "دليل الشركات والموديلات"));
-      section.append(element("p", "catalog-footnote", index.purpose));
-      modelIndexData = index;
-      const brandFilter = document.getElementById("phoneBrandFilter");
-      const knownBrands = new Set();
-      const addBrandOption = name => {
-        if(!name || knownBrands.has(name)) return;
-        knownBrands.add(name);
-        if(brandFilter){const option=element("option","",name);option.value=name;brandFilter.append(option);}
-      };
-      (phoneData?.products||[]).forEach(phone=>addBrandOption(phone.brand));
-      index.brands.forEach(brand => {
-        addBrandOption(brand.brand);
-        const group = element("div", "model-brand-group");
-        group.dataset.brand = brand.brand;
-        group.dataset.search = normalize(brand.brand + " " + brand.models.join(" "));
-        group.append(element("h4", "", brand.brand + " (" + brand.models.length + " موديل)"));
-        const link = element("a", "", "صفحة الشركة الرسمية");
-        link.href = brand.source; link.target = "_blank"; link.rel = "noopener noreferrer"; link.textContent = brand.sourceLabel || "صفحة الشركة / المرجع";
-        group.append(link);
-        const list = element("ul", "model-name-list");
-        brand.models.forEach(name => { const item=element("li", "", name); item.dataset.search=normalize(name); list.append(item); });
-        group.append(list);
-        section.append(group);
+  let selectedPhoneBrand = "";
+  function renderBrandPicker() {
+    const root=document.getElementById("phoneBrandPicker");
+    if(!root||!modelIndexData)return;
+    root.replaceChildren();
+    const title=element("h3","","اختار شركة الموبايل");
+    root.append(title);
+    const note=element("p","catalog-footnote","اختار الشركة من القائمة، وبعدها هتظهر لك موديلاتها المسجلة.");
+    root.append(note);
+    const search=element("input","brand-picker-search");
+    search.type="search";search.id="phoneBrandSearch";search.placeholder="ابحث باسم الشركة...";
+    search.setAttribute("aria-label","البحث عن شركة موبايلات");
+    root.append(search);
+    const grid=element("div","phone-brand-grid");grid.id="phoneBrandGrid";
+    modelIndexData.brands.forEach(brand=>{
+      const button=element("button","phone-brand-tile");
+      button.type="button";button.dataset.brand=brand.brand;
+      const mark=element("span","brand-mark",brand.brand.slice(0,2).toUpperCase());
+      const name=element("strong","brand-tile-name",brand.brand);
+      const count=brand.models.length;
+      const countLabel=count?count+" موديل مسجل":"موديلات قيد الإضافة";
+      button.append(mark,name,element("small","brand-tile-count",countLabel));
+      button.addEventListener("click",()=>{
+        selectedPhoneBrand=brand.brand;
+        const bar=document.getElementById("phoneSelectedBar");
+        if(bar){bar.hidden=false;bar.replaceChildren(element("strong","","الشركة المختارة: "+brand.brand));const change=element("button","brand-change-button","تغيير الشركة");change.type="button";change.addEventListener("click",()=>{selectedPhoneBrand="";bar.hidden=true;const products=document.getElementById("phoneProducts");if(products)products.hidden=true;const empty=document.getElementById("phoneModelEmpty");if(empty)empty.hidden=true;root.hidden=false;applyPhoneFilters();});bar.append(change);}
+        root.hidden=true;
+        const products=document.getElementById("phoneProducts");
+        if(products)products.hidden=false;
+        const empty=document.getElementById("phoneModelEmpty");
+        const matches=(phoneData?.products||[]).filter(p=>p.brand===selectedPhoneBrand);
+        if(empty){empty.hidden=matches.length>0;empty.textContent=matches.length?"":"لسه ما أضفناش موديلات موثقة للشركة دي. الشركة اتضافت للقائمة، والموديلات هتظهر بعد تسجيلها من مصادرها.";}
+        const q=document.getElementById("phoneSearch");if(q)q.value="";
+        applyPhoneFilters();
+        document.getElementById("phoneModelSection")?.scrollIntoView({behavior:"smooth",block:"start"});
       });
-      phoneCatalog.append(section);
-      applyPhoneFilters();
-    } catch (error) {
-      console.error(error);
-    }
+      grid.append(button);
+    });
+    root.append(grid);
+    search.addEventListener("input",()=>{
+      const q=normalize(search.value);
+      grid.querySelectorAll(".phone-brand-tile").forEach(tile=>{tile.hidden=!!q&&!normalize(tile.dataset.brand).includes(q);});
+    });
+  }
+  async function loadModelIndex() {
+    if (!phoneCatalog || modelIndexData) return;
+    try {
+      const response=await fetch("./phone-model-index.json",{cache:"no-cache"});
+      if(!response.ok)throw new Error("تعذر تحميل دليل الشركات");
+      modelIndexData=await response.json();
+      renderBrandPicker();
+    } catch(error) { console.error(error); }
   }
 
   async function loadPhones() {
@@ -228,22 +242,28 @@
 
 
   function applyPhoneFilters() {
-    const query=normalize(document.getElementById("phoneSearch")?.value || "");
-    const brand=document.getElementById("phoneBrandFilter")?.value || "";
-    const sort=document.getElementById("phoneSort")?.value || "name";
-    const productCards=Array.from(phoneProducts?.querySelectorAll(".phone-card") || []);
+    const query=normalize(document.getElementById("phoneSearch")?.value||"");
+    const sort=document.getElementById("phoneSort")?.value||"name";
+    const productCards=Array.from(phoneProducts?.querySelectorAll(".phone-card")||[]);
     let visible=0;
-    productCards.forEach(card=>{const show=(!query || card.dataset.search.includes(query)) && (!brand || card.querySelector(".phone-brand")?.textContent===brand);card.hidden=!show;if(show)visible++;});
-    const groups=Array.from(document.querySelectorAll("#officialModelIndex .model-brand-group"));
-    groups.forEach(group=>{const show=(!brand || group.dataset.brand===brand) && (!query || group.dataset.search.includes(query));group.hidden=!show;const list=group.querySelector(".model-name-list");if(list){Array.from(list.children).forEach(item=>item.hidden=!!query && !item.dataset.search.includes(query));}});
-    if(phoneProducts){productCards.sort((a,b)=>sort==="brand" ? (a.querySelector(".phone-brand")?.textContent||"").localeCompare(b.querySelector(".phone-brand")?.textContent||"") : (a.querySelector(".phone-name")?.textContent||"").localeCompare(b.querySelector(".phone-name")?.textContent||""));productCards.forEach(card=>phoneProducts.append(card));}
-    const totalModels=(modelIndexData?.brands||[]).reduce((n,b)=>n+b.models.length,0);
-    const modelVisible=groups.filter(g=>!g.hidden).reduce((n,g)=>n+g.querySelectorAll(".model-name-list li:not([hidden])").length,0);
+    productCards.forEach(card=>{
+      const show=!!selectedPhoneBrand&&card.querySelector(".phone-brand")?.textContent===selectedPhoneBrand&&(!query||card.dataset.search.includes(query));
+      card.hidden=!show;if(show)visible++;
+    });
+    if(phoneProducts){
+      productCards.sort((x,y)=>sort==="brand"?(x.querySelector(".phone-brand")?.textContent||"").localeCompare(y.querySelector(".phone-brand")?.textContent||""):(x.querySelector(".phone-name")?.textContent||"").localeCompare(y.querySelector(".phone-name")?.textContent||"","ar"));
+      productCards.forEach(card=>phoneProducts.append(card));
+    }
     const count=document.getElementById("phoneResultCount");
-    if(count) count.textContent="المواصفات التفصيلية: "+visible+" من "+productCards.length+" • فهرس الموديلات: "+modelVisible+" من "+totalModels;
+    if(count)count.textContent=selectedPhoneBrand?"موديلات "+selectedPhoneBrand+": "+visible+" موديل":"اختار شركة لعرض الموديلات";
+    const empty=document.getElementById("phoneModelEmpty");
+    if(empty&&selectedPhoneBrand){
+      const exists=(phoneData?.products||[]).some(p=>p.brand===selectedPhoneBrand);
+      empty.hidden=exists;
+      if(!exists)empty.textContent="لم نسجل موديلات لهذه الشركة حتى الآن. اختر شركة أخرى أو تابع تحديثات الكتالوج.";
+    }
   }
-
-  ["phoneSearch","phoneBrandFilter","phoneSort"].forEach(id=>{const control=document.getElementById(id);if(control){control.addEventListener(id==="phoneSearch"?"input":"change",applyPhoneFilters);}});
+  ["phoneSearch","phoneSort"].forEach(id=>{const control=document.getElementById(id);if(control)control.addEventListener(id==="phoneSearch"?"input":"change",applyPhoneFilters);});
 
   const panels = new Map();
   cards.forEach((card,index) => {
