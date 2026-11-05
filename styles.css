@@ -255,3 +255,27 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .contact-form{max-width:760px;margin:22px 0}
 .contact-form button{width:100%;max-width:260px}
 .contact-form button:disabled{opacity:.6;cursor:wait}
+
+
+/* Phone catalog refreshed mobile-first layout */
+.phone-catalog{padding:clamp(20px,4vw,34px);background:linear-gradient(180deg,#fff 0%,#f6f9fd 100%);border:1px solid #dce5ef;border-radius:22px;box-shadow:0 12px 34px #102b500c}
+.phone-catalog>h2{font-size:clamp(1.5rem,4vw,2rem);font-weight:900}
+.phone-catalog>p:first-of-type{line-height:1.9}
+.phone-tools{grid-template-columns:minmax(0,2fr) minmax(150px,1fr) minmax(140px,1fr);padding:12px;background:#edf3fa;border:1px solid #dce5ef;border-radius:16px}
+.phone-tools input,.phone-tools select{min-height:52px;border-radius:12px;border-color:#d2deeb;background:#fff}
+.phone-grid{grid-template-columns:repeat(auto-fill,minmax(min(100%,245px),1fr));gap:16px}
+.phone-card{position:relative;overflow:hidden;border-radius:18px;border-color:#dfe7f0;padding:15px;transition:transform .18s,box-shadow .18s}
+.phone-card:hover{transform:translateY(-3px);box-shadow:0 12px 26px #102b5016}
+.phone-card-top{align-items:center;flex-wrap:wrap}
+.phone-brand{padding:4px 10px;border-radius:30px;background:#eaf1f9}
+.phone-category{font-size:.75rem;padding:3px 8px;border-radius:30px;background:#f1f4f8}
+.phone-card .catalog-image-wrap{height:170px;display:grid;place-items:center;background:linear-gradient(145deg,#f7f9fc,#eaf0f7);border-radius:13px;margin-top:12px;overflow:hidden}
+.phone-card .catalog-product-image{width:100%;height:100%;object-fit:contain}
+.phone-name{font-size:1.02rem;line-height:1.55;min-height:3.1em}
+.phone-price{line-height:1.6}
+.phone-price-source{display:block;color:#64748b;line-height:1.6}
+.phone-card .compare-toggle{width:100%;min-height:42px;border:1px solid #cbd8e7;border-radius:10px;background:#f4f8fc;color:#153d68;font:inherit;font-weight:800;margin-top:10px}
+.phone-details{border-top:1px solid #e7edf4;margin-top:12px}
+.phone-source{padding:7px 0}
+#phoneResultCount{font-weight:700;background:#f4f7fb;padding:10px 12px;border-radius:10px}
+@media(max-width:600px){.phone-catalog{padding:16px 12px;border-radius:16px}.phone-tools{grid-template-columns:1fr 1fr;padding:9px}.phone-tools input{grid-column:1/-1}.phone-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.phone-card{padding:10px;border-radius:13px}.phone-card .catalog-image-wrap{height:125px}.phone-name{font-size:.9rem}.phone-price{font-size:.8rem;padding:7px}.phone-card-top{font-size:.72rem}}
