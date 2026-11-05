@@ -50,7 +50,7 @@
       "default_mode": "delayed",
       "delayed_endpoint": "https://ticker.egidegypt.com/api/DelayedFeed/getAllMarketWatch",
       "live_endpoint": "https://ticker.egidegypt.com/api/Feed/GetAllMarketWatch",
-      "refresh_policy": "Cloudflare Worker proxy with short edge cache; browser requests on stock section load and manual refresh. Enable faster polling only within EGID rate limits and the granted license.",
+      "refresh_policy": "Automatic browser refresh every 30 seconds in licensed live mode or every 60 seconds in delayed mode, only while the stock section is visible; Cloudflare edge cache is 5 seconds.",
       "coverage": [
         "stocks.json"
       ],
