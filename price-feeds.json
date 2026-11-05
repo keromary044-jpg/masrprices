@@ -152,6 +152,18 @@
       ],
       "mode": "not_enabled_license_and_egypt_coverage_review",
       "reason": "Community-submitted price observations are under ODbL terms; Egypt-specific EGP coverage was not established. Keep separate from proprietary retail feeds unless database-license compatibility and attribution obligations are reviewed."
+    },
+    {
+      "id": "idsc-local-commodity-prices",
+      "name": "Information and Decision Support Center — local and global prices",
+      "url": "https://www.idsc.gov.eg/IDSCAPP/",
+      "coverage": [
+        "groceries.json",
+        "construction.json",
+        "agriculture-irrigation.json"
+      ],
+      "mode": "official_daily_data_reference_pending_public_api_and_reuse_terms",
+      "reason": "The official IDSC describes daily local prices for 30+ commodities including vegetables, fruit, meat, construction materials and fertilizers, but a public machine-readable API and commercial redistribution terms were not verified. Seek an approved data feed rather than extracting app traffic."
     }
   ],
   "excluded_categories_note": "Do not activate sources for medicines or other restricted products through this generic updater. Use official public registration information only; no unverified price claims.",
