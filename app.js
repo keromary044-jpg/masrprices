@@ -396,7 +396,7 @@
       if (groceryCatalog) groceryCatalog.hidden=true;
       const stationeryCatalog=document.getElementById("stationeryCatalog");
       if (stationeryCatalog) stationeryCatalog.hidden=true;
-      ["householdCleaningCatalog","educationCostsCatalog","clothingCatalog","furnitureCatalog","personalCareCatalog","sportsCatalog","electricalCatalog","toolsCatalog","petsCatalog","plantsCatalog","telecomCatalog","travelCatalog","stocksCatalog","electronicsCatalog","medicinesCatalog","sparePartsCatalog","servicesCatalog","fuelCatalog","babyCatalog","goldRatesCatalog","silverRatesCatalog","currencyRatesCatalog","realEstateCatalog"].forEach(id=>{const node=document.getElementById(id);if(node)node.hidden=true;});
+      ["householdCleaningCatalog","educationCostsCatalog","clothingCatalog","furnitureCatalog","personalCareCatalog","sportsCatalog","electricalCatalog","toolsCatalog","petsCatalog","plantsCatalog","telecomCatalog","travelCatalog","electronicsCatalog","medicinesCatalog","sparePartsCatalog","servicesCatalog","fuelCatalog","babyCatalog","goldRatesCatalog","silverRatesCatalog","currencyRatesCatalog","realEstateCatalog"].forEach(id=>{const node=document.getElementById(id);if(node)node.hidden=true;});
       if (opening) {
         panel.hidden=false;
         card.setAttribute("aria-expanded","true");
@@ -452,7 +452,6 @@
           plantsCatalog:()=>openCatalog("plantsCatalog",()=>loadGenericCatalog("plants")),
           telecomCatalog:()=>openCatalog("telecomCatalog",()=>loadGenericCatalog("telecom")),
           travelCatalog:()=>openCatalog("travelCatalog",()=>loadGenericCatalog("travel")),
-          stocksCatalog:()=>openCatalog("stocksCatalog",()=>loadGenericCatalog("stocks")),
           electronicsCatalog:()=>openCatalog("electronicsCatalog",()=>loadGenericCatalog("electronics")),
           sparePartsCatalog:()=>openCatalog("sparePartsCatalog",()=>loadGenericCatalog("spareParts")),
           servicesCatalog:()=>openCatalog("servicesCatalog",()=>loadGenericCatalog("services")),
@@ -502,7 +501,6 @@
     ["plants.json","الزراعة والنباتات","plantsCatalog","plantsCatalogSearch"],
     ["telecom.json","الخدمات والاتصالات","telecomCatalog","telecomCatalogSearch"],
     ["travel.json","السياحة والسفر","travelCatalog","travelCatalogSearch"],
-    ["stocks.json","البورصة والأسهم","stocksCatalog","stocksCatalogSearch"],
     ["medicines.json","الأدوية والصحة","medicinesCatalog","medicinesCatalogSearch"],
     ["spare-parts.json","قطع غيار السيارات","sparePartsCatalog","sparePartsCatalogSearch"],
     ["services.json","الخدمات الحكومية","servicesCatalog","servicesCatalogSearch"],
@@ -531,8 +529,7 @@
       "personal-care.json":["التجميل"],"sports.json":["الرياضة"],
       "electrical.json":["الكهرباء"],"tools.json":["الأدوات والمعدات"],
       "pets.json":["الحيوانات"],"plants.json":["الزراعة"],
-      "telecom.json":["الخدمات"],"travel.json":["السياحة"],
-      "stocks.json":["البورصة"],"medicines.json":["الأدوية"],"spare-parts.json":["قطع غيار السيارات"],"services.json":["الخدمات الحكومية"],"fuel.json":["الوقود"],"baby-products.json":["الأطفال"]
+      "telecom.json":["الخدمات"],"travel.json":["السياحة"],"medicines.json":["الأدوية"],"spare-parts.json":["قطع غيار السيارات"],"services.json":["الخدمات الحكومية"],"fuel.json":["الوقود"],"baby-products.json":["الأطفال"]
     };
     const wanted=routeWords[meta[0]]||[];
     const target=cards.find(c=>wanted.some(word=>normalize(getTitle(c)).includes(normalize(word))));
@@ -1074,140 +1071,11 @@
   }
   adminForm?.addEventListener("submit",event=>{event.preventDefault();loadPropertyQueue();});
 
-  const genericCatalogs={computers:{file:"computers-laptops.json",id:"computersCatalog"},printers:{file:"printers-ink.json",id:"printersCatalog"},gaming:{file:"gaming-devices.json",id:"gamingCatalog"},networking:{file:"networking-internet.json",id:"networkingCatalog"},securityCameras:{file:"security-cameras.json",id:"securityCamerasCatalog"},solar:{file:"solar-energy.json",id:"solarCatalog"},tires:{file:"car-tires.json",id:"tiresCatalog"},carBatteries:{file:"car-batteries.json",id:"carBatteriesCatalog"},motorcycles:{file:"motorcycles-scooters.json",id:"motorcyclesCatalog"},carOils:{file:"car-oils-lubricants.json",id:"carOilsCatalog"},kitchenware:{file:"kitchen-tools-utensils.json",id:"kitchenwareCatalog"},mattresses:{file:"mattresses-home-linen.json",id:"mattressesCatalog"},bathroom:{file:"bathroom-fixtures.json",id:"bathroomCatalog"},eyewear:{file:"eyewear-lenses.json",id:"eyewearCatalog"},watches:{file:"watches.json",id:"watchesCatalog"},bags:{file:"bags-luggage.json",id:"bagsCatalog"},perfumes:{file:"perfumes.json",id:"perfumesCatalog"},maternity:{file:"maternity.json",id:"maternityCatalog"},irrigation:{file:"agriculture-irrigation.json",id:"irrigationCatalog"},waterFilters:{file:"water-filters.json",id:"waterFiltersCatalog"},homeMedical:{file:"home-medical-devices.json",id:"homeMedicalCatalog"},householdCleaning:{file:"household-cleaning.json",id:"householdCleaningCatalog"},fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},stocks:{file:"stocks.json",id:"stocksCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
+  const genericCatalogs={computers:{file:"computers-laptops.json",id:"computersCatalog"},printers:{file:"printers-ink.json",id:"printersCatalog"},gaming:{file:"gaming-devices.json",id:"gamingCatalog"},networking:{file:"networking-internet.json",id:"networkingCatalog"},securityCameras:{file:"security-cameras.json",id:"securityCamerasCatalog"},solar:{file:"solar-energy.json",id:"solarCatalog"},tires:{file:"car-tires.json",id:"tiresCatalog"},carBatteries:{file:"car-batteries.json",id:"carBatteriesCatalog"},motorcycles:{file:"motorcycles-scooters.json",id:"motorcyclesCatalog"},carOils:{file:"car-oils-lubricants.json",id:"carOilsCatalog"},kitchenware:{file:"kitchen-tools-utensils.json",id:"kitchenwareCatalog"},mattresses:{file:"mattresses-home-linen.json",id:"mattressesCatalog"},bathroom:{file:"bathroom-fixtures.json",id:"bathroomCatalog"},eyewear:{file:"eyewear-lenses.json",id:"eyewearCatalog"},watches:{file:"watches.json",id:"watchesCatalog"},bags:{file:"bags-luggage.json",id:"bagsCatalog"},perfumes:{file:"perfumes.json",id:"perfumesCatalog"},maternity:{file:"maternity.json",id:"maternityCatalog"},irrigation:{file:"agriculture-irrigation.json",id:"irrigationCatalog"},waterFilters:{file:"water-filters.json",id:"waterFiltersCatalog"},homeMedical:{file:"home-medical-devices.json",id:"homeMedicalCatalog"},householdCleaning:{file:"household-cleaning.json",id:"householdCleaningCatalog"},fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
   const genericData={};
-  let egidMarketData=null,egidMarketFetchedAt=0,egidMarketLoading=null,egidMarketTimer=null;
-  function scheduleEGIDRefresh(){
-    if(egidMarketTimer)clearInterval(egidMarketTimer);
-    const interval=egidMarketData?.mode==="live"?30000:60000;
-    egidMarketTimer=setInterval(()=>{
-      if(document.visibilityState==="visible"&&document.getElementById("egidMarketPanel"))loadEGIDStocks(true);
-    },interval);
-  }
-  function egidMarketArray(payload){
-    const queue=[payload],seen=new Set();
-    while(queue.length){
-      const value=queue.shift();
-      if(!value||typeof value!=="object"||seen.has(value))continue;
-      seen.add(value);
-      if(Array.isArray(value)&&value.some(x=>x&&typeof x==="object"))return value;
-      if(Array.isArray(value)){value.forEach(x=>{if(x&&typeof x==="object")queue.push(x);});continue;}
-      Object.values(value).forEach(x=>{if(x&&typeof x==="object")queue.push(x);});
-    }
-    return [];
-  }
-  function egidValue(row,names){
-    const keys=Object.keys(row||{}),wanted=names.map(x=>x.toLowerCase().replace(/[^a-z0-9]/g,""));
-    const key=keys.find(k=>wanted.includes(k.toLowerCase().replace(/[^a-z0-9]/g,"")));
-    return key?row[key]:null;
-  }
-  function egidNumber(value){
-    if(value===null||value===undefined||value==="")return null;
-    const n=Number(String(value).replace(/,/g,"").replace(/%/g,"").trim());
-    return Number.isFinite(n)?n:null;
-  }
-  function renderEGIDMarketPanel(root){
-    let panel=root.querySelector("#egidMarketPanel");
-    if(!panel){panel=element("section","egid-market-panel");panel.id="egidMarketPanel";root.prepend(panel);}
-    panel.replaceChildren();
-    const heading=element("div","egid-market-heading");
-    const title=element("h3","","أسعار الأسهم من واجهة EGID");
-    const refresh=element("button","egid-market-refresh","تحديث الآن");refresh.type="button";
-    refresh.addEventListener("click",()=>loadEGIDStocks(true));
-    heading.append(title,refresh);panel.append(heading);
-    if(!egidMarketData){
-      panel.append(element("p","catalog-footnote","جارٍ الاتصال بمصدر بيانات البورصة EGID..."));
-      return;
-    }
-    const mode=egidMarketData.mode==="live"?"بيانات مباشرة حسب صلاحية الحساب":"بيانات متأخرة من EGID";
-    panel.append(element("small","egid-market-status",mode+" · آخر استجابة من المصدر: "+new Date(egidMarketData.receivedAt||egidMarketFetchedAt).toLocaleString("ar-EG")));
-    const rows=egidMarketArray(egidMarketData.data).map(row=>{
-      const symbol=egidValue(row,["symbol","symbolCode","ticker","code","securityCode","shortName"]);
-      const name=egidValue(row,["symbolName","name","companyName","securityName","arabicName","nameAr"]);
-      const price=egidNumber(egidValue(row,["lastPrice","last","lastTradePrice","tradePrice","closePrice","closingPrice","price","currentPrice"]));
-      const change=egidNumber(egidValue(row,["change","netChange","priceChange","changeValue"]));
-      const pct=egidNumber(egidValue(row,["changePercent","percentChange","changePct","percentageChange"]));
-      const volume=egidNumber(egidValue(row,["volume","tradedVolume","totalVolume","quantity"]));
-      return {symbol:String(symbol||""),name:String(name||symbol||""),price,change,pct,volume};
-    }).filter(x=>x.symbol||x.name).slice(0,250);
-    if(!rows.length){
-      panel.append(element("p","catalog-footnote","وصل رد من EGID لكن لم يتضمن حقولًا تعرف عليها عارض الأسهم. لن نعرض أرقامًا غير مفهومة."));
-      return;
-    }
-    const table=element("div","egid-market-table");
-    const header=element("div","egid-market-row egid-market-row-head");
-    ["الشركة / الرمز","آخر سعر (جنيه)","التغير","نسبة التغير"].forEach(label=>header.append(element("strong","",label)));
-    table.append(header);
-    rows.forEach(row=>{
-      const line=element("div","egid-market-row");
-      line.append(element("span","egid-market-name",(row.name||"")+" "+(row.symbol?"("+row.symbol+")":"")));
-      line.append(element("strong","",row.price===null?"غير متاح":row.price.toLocaleString("en-US",{maximumFractionDigits:4})));
-      line.append(element("span","",row.change===null?"—":row.change.toLocaleString("en-US",{maximumFractionDigits:4})));
-      line.append(element("span","",row.pct===null?"—":row.pct.toFixed(2)+"%"));
-      table.append(line);
-    });
-    panel.append(table);
-    panel.append(element("small","catalog-footnote","المصدر: EGID التابعة للبورصة المصرية. البيانات للعرض المعلوماتي فقط، وقد تكون متأخرة حسب الترخيص. لا تمثل توصية استثمارية."));
-  }
-  async function loadEGIDStocks(force=false){
-    if(egidMarketLoading)return egidMarketLoading;
-    if(!force&&egidMarketData&&Date.now()-egidMarketFetchedAt<10000)return;
-    const panel=document.getElementById("egidMarketPanel");
-    if(panel&&!egidMarketData)panel.replaceChildren(element("p","catalog-footnote","جارٍ تحميل بيانات EGID..."));
-    egidMarketLoading=(async()=>{
-      try{
-        const response=await fetch("/api/stocks",{cache:"no-store"});
-        const result=await response.json();
-        if(!response.ok){
-          egidMarketData=null;
-          if(panel){panel.replaceChildren(element("h3","","أسعار الأسهم من واجهة EGID"),element("p","catalog-footnote",result.error||"بيانات EGID غير مفعلة على الخادم بعد."));}
-          return;
-        }
-        egidMarketData=result;egidMarketFetchedAt=Date.now();scheduleEGIDRefresh();
-        const current=document.getElementById("egidMarketPanel");
-        if(current)renderEGIDMarketPanel(current.parentElement);
-      }catch(error){
-        if(panel)panel.replaceChildren(element("h3","","أسعار الأسهم من واجهة EGID"),element("p","catalog-footnote","تعذر الاتصال بمصدر EGID الآن. حاول التحديث مرة أخرى."));
-      }finally{egidMarketLoading=null;}
-    })();
-    return egidMarketLoading;
-  }
-  function renderGenericCatalog(key){
-    const cfg=genericCatalogs[key],data=genericData[key];if(!data)return;
-    const root=document.getElementById(cfg.id+"Products");if(!root)return;
-    const search=document.getElementById(cfg.id+"Search"),category=document.getElementById(cfg.id+"Category"),sortControl=document.getElementById(cfg.id+"Sort");
-    const q=normalize(search?.value||""),cat=category?.value||"",sort=sortControl?.value||"name";
-    const products=Array.isArray(data.products)?data.products:(Array.isArray(data)?data:[]);
-    const animals=(key==="pets"&&Array.isArray(data.animals)?data.animals:[]);
-    const entries=[...products,...animals];
-    const rows=entries.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.details,x.description,x.spec,x.size,x.capacity,x.variant].join(" ")).includes(q)));
-    rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();if(key==="stocks")renderEGIDMarketPanel(root);
-    rows.forEach(x=>{
-      const card=element("article","book-card");
-      card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));
-      const imageUrl=x.image||x.imageUrl||x.image_url||"";
-      if(/^https:\/\//i.test(imageUrl)){const image=element("img","catalog-product-image");image.src=imageUrl;image.alt=x.name||"صورة المنتج";image.loading="lazy";image.referrerPolicy="no-referrer";image.onerror=()=>image.remove();card.append(image);}
-      card.append(element("h3","",x.name));
-      const hasPrice=x.price!==null&&x.price!==undefined&&x.price!==""&&Number.isFinite(Number(x.price))&&Number(x.price)>0;
-      if(hasPrice)card.append(element("p","book-price generic-price-available",Number(x.price).toLocaleString("en-US")+" جنيه"));
-      if(x.merchant)card.append(element("p","book-store","المتجر / الجهة: "+x.merchant));
-      
-      
-      const detailValues=[["التفاصيل",x.details||x.description||x.note],["المواصفات",x.spec||x.specifications],["المقاس / السعة",x.size||x.capacity||x.variant],["وحدة القياس",x.unit],["المحافظة / النطاق",x.governorate||x.region]];
-      const populated=detailValues.filter(pair=>pair[1]);
-      if(populated.length){const details=element("details","catalog-item-details");details.append(element("summary","","تفاصيل المنتج والمواصفات"));const body=element("div","catalog-item-detail-body");populated.forEach(([label,value])=>{const p=element("p","","");const strong=element("strong","",label+": ");p.append(strong,document.createTextNode(String(value)));body.append(p);});details.append(body);card.append(details);}
-      
-      if(x.source&&/^https:\/\//i.test(x.source)){const source=element("a","phone-source","افتح مصدر المنتج");source.href=x.source;source.target="_blank";source.rel="noopener noreferrer";card.append(source);}
-      if(x.checkedAt)card.append(element("small","catalog-footnote","آخر رصد مسجل: "+x.checkedAt));
-      if(x.recordType!=="animal")addDatabaseComparison(card,x);
-      root.append(card);
-    });
-    const count=document.getElementById(cfg.id+"Count");if(count)updateCatalogMetrics(count,entries,rows.length);
-    if(!rows.length)root.append(element("p","catalog-footnote",entries.length?"لا توجد نتائج مطابقة لبحثك أو للتصفية المختارة.":"لا توجد عناصر مسجلة في ملف بيانات هذا القسم حتى الآن."));
-  }
   async function loadGenericCatalog(key){
     const cfg=genericCatalogs[key],root=document.getElementById(cfg.id+"Products");if(!root)return;
-    if(genericData[key]){renderGenericCatalog(key);if(key==="stocks")loadEGIDStocks();return;}
+    if(genericData[key]){renderGenericCatalog(key);return;}
     try{
       const r=await fetch("./"+cfg.file,{cache:"no-cache"});if(!r.ok)throw new Error("HTTP "+r.status);
       const parsed=await r.json();genericData[key]=parsed;
@@ -1216,7 +1084,7 @@
       const sel=document.getElementById(cfg.id+"Category");
       if(sel){[...new Set([...products,...animals].map(x=>x.category).filter(Boolean))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});}
       renderGenericCatalog(key);
-      if(key==="stocks")loadEGIDStocks();
+      
     }catch(e){root.textContent="تعذر تحميل بيانات القسم حاليًا. حاول تحديث الصفحة لاحقًا.";}
   }
   Object.entries(genericCatalogs).forEach(([key,cfg])=>[cfg.id+"Search",cfg.id+"Category",cfg.id+"Sort"].forEach(id=>{const control=document.getElementById(id);if(control)control.addEventListener(id.endsWith("Search")?"input":"change",()=>renderGenericCatalog(key));}));
