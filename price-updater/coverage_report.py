@@ -83,6 +83,6 @@ def build_report():
 
 if __name__ == "__main__":
     report = build_report()
-    OUTPUT.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\\n", encoding="utf-8")
+    OUTPUT.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print("PRICE_COVERAGE " + json.dumps(report["totals"], ensure_ascii=False))
     print("COVERAGE_CATALOGS " + str(len(report["categories"])))
