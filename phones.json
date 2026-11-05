@@ -175,21 +175,22 @@
       "category": "اقتصادي ومتوسط",
       "release": "2026",
       "priceEGP": 9550,
-      "priceSource": "سعر رصد منشور على Jumia",
-      "priceCheckedAt": "2026-11-02",
-      "priceStatus": "سعر متجر قابل للتغيير",
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة 64GB / 4GB؛ قابل للتغيير",
       "sourceLabel": "Samsung Egypt – مواصفات الشركة",
       "priceOffers": [
         {
-          "merchant": "Raneen Egypt",
+          "merchant": "Raneen",
           "priceEGP": 9550,
           "variant": "64GB / 4GB RAM",
-          "source": "https://priceteq.com/eg/phones",
-          "sourceLabel": "PriceTeq – مقارنة أسعار مصر",
-          "checkedAt": "2026-11-02"
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
         }
       ],
-      "source": "https://www.samsung.com/eg/smartphones/galaxy-a/"
+      "source": "https://www.samsung.com/eg/smartphones/galaxy-a/",
+      "memory": "64GB / 4GB RAM"
     },
     {
       "id": "xiaomi-redmi-a7",
