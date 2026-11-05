@@ -1007,7 +1007,14 @@
 
   const genericCatalogs={fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},stocks:{file:"stocks.json",id:"stocksCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
   const genericData={};
-  let egidMarketData=null,egidMarketFetchedAt=0,egidMarketLoading=null;
+  let egidMarketData=null,egidMarketFetchedAt=0,egidMarketLoading=null,egidMarketTimer=null;
+  function scheduleEGIDRefresh(){
+    if(egidMarketTimer)clearInterval(egidMarketTimer);
+    const interval=egidMarketData?.mode==="live"?30000:60000;
+    egidMarketTimer=setInterval(()=>{
+      if(document.visibilityState==="visible"&&document.getElementById("egidMarketPanel"))loadEGIDStocks(true);
+    },interval);
+  }
   function egidMarketArray(payload){
     const queue=[payload],seen=new Set();
     while(queue.length){
@@ -1087,7 +1094,7 @@
           if(panel){panel.replaceChildren(element("h3","","أسعار الأسهم من واجهة EGID"),element("p","catalog-footnote",result.error||"بيانات EGID غير مفعلة على الخادم بعد."));}
           return;
         }
-        egidMarketData=result;egidMarketFetchedAt=Date.now();
+        egidMarketData=result;egidMarketFetchedAt=Date.now();scheduleEGIDRefresh();
         const current=document.getElementById("egidMarketPanel");
         if(current)renderEGIDMarketPanel(current.parentElement);
       }catch(error){
