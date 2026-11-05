@@ -1,6 +1,6 @@
 {
   "name": "MasrPrices - أسعار مصر",
-  "short_name": "MasrPrices",
+  "short_name": "أسعار مصر",
   "description": "دليلك لمعرفة الأسعار في مصر",
   "lang": "ar",
   "dir": "rtl",
@@ -15,7 +15,7 @@
       "src": "assets/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
