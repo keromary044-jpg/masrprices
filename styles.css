@@ -297,3 +297,5 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .phone-model-empty{padding:16px;border:1px dashed #b8c8da;border-radius:12px;background:#f8fbff;color:#52657a;line-height:1.8}
 .phone-brand-tile[hidden]{display:none!important}
 @media(max-width:600px){.phone-brand-picker{padding:13px 10px}.phone-brand-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.phone-brand-tile{min-height:105px;padding:9px 5px}.brand-mark{width:37px;height:37px}.brand-tile-name{font-size:.8rem}.brand-tile-count{font-size:.66rem}.phone-selected-bar{align-items:flex-start;flex-direction:column}}
+
+.brand-market-status{font-size:.66rem;line-height:1.45;color:#52677e;text-align:center;max-width:100%;overflow-wrap:anywhere}
