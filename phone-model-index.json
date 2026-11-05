@@ -135,13 +135,13 @@
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
       "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": [
-        "HMD HMD 102",
-        "HMD HMD Arc",
-        "HMD HMD Aura²",
-        "HMD HMD Crest Max 5G",
-        "HMD HMD Fusion",
-        "HMD HMD Pulse Pro",
-        "HMD HMD Skyline"
+        "HMD 102",
+        "HMD Arc",
+        "HMD Aura²",
+        "HMD Crest Max 5G",
+        "HMD Fusion",
+        "HMD Pulse Pro",
+        "HMD Skyline"
       ]
     },
     {
@@ -688,12 +688,12 @@
         "Symphony Innova 40",
         "Symphony Max 60",
         "Symphony Max 70",
-        "Symphony Symphony Z70",
         "Symphony Z42",
         "Symphony Z42 Pro",
         "Symphony Z47",
         "Symphony Z60",
         "Symphony Z60 Plus",
+        "Symphony Z70",
         "Symphony Z72"
       ]
     },
