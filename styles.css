@@ -279,3 +279,21 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .phone-source{padding:7px 0}
 #phoneResultCount{font-weight:700;background:#f4f7fb;padding:10px 12px;border-radius:10px}
 @media(max-width:600px){.phone-catalog{padding:16px 12px;border-radius:16px}.phone-tools{grid-template-columns:1fr 1fr;padding:9px}.phone-tools input{grid-column:1/-1}.phone-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px}.phone-card{padding:10px;border-radius:13px}.phone-card .catalog-image-wrap{height:125px}.phone-name{font-size:.9rem}.phone-price{font-size:.8rem;padding:7px}.phone-card-top{font-size:.72rem}}
+
+
+/* Company-first mobile catalog selector */
+.phone-brand-picker{margin:18px 0 22px;padding:18px;border:1px solid #dce5ef;border-radius:18px;background:linear-gradient(150deg,#f8fbff,#edf3fa)}
+.phone-brand-picker h3{margin:0 0 6px;color:#102b50;font-size:1.2rem}
+.brand-picker-search{width:100%;min-height:48px;margin:12px 0 16px;padding:10px 14px;border:1px solid #cad7e6;border-radius:12px;background:#fff;font:inherit}
+.phone-brand-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(145px,1fr));gap:11px}
+.phone-brand-tile{display:flex;min-width:0;min-height:118px;flex-direction:column;align-items:center;justify-content:center;gap:7px;padding:13px 8px;border:1px solid #d7e1ec;border-radius:15px;background:#fff;color:#102b50;cursor:pointer;font:inherit;transition:transform .15s,border-color .15s,box-shadow .15s}
+.phone-brand-tile:hover,.phone-brand-tile:focus-visible{transform:translateY(-2px);border-color:#7897b8;box-shadow:0 7px 18px #102b5015;outline:none}
+.brand-mark{display:grid;place-items:center;width:43px;height:43px;border-radius:13px;background:#e9f0f8;color:#173d68;font-weight:900;font-size:.9rem;letter-spacing:-.04em}
+.brand-tile-name{font-size:.95rem;text-align:center;overflow-wrap:anywhere}
+.brand-tile-count{font-size:.75rem;color:#64748b;text-align:center}
+.phone-selected-bar{display:flex;align-items:center;justify-content:space-between;gap:12px;margin:12px 0;padding:12px 14px;border-radius:12px;background:#eaf2fa;color:#14395f}
+.brand-change-button{border:1px solid #b7c9dc;border-radius:9px;background:#fff;color:#173d68;padding:8px 12px;font:inherit;font-weight:700;cursor:pointer}
+.phone-model-section{margin-top:12px}
+.phone-model-empty{padding:16px;border:1px dashed #b8c8da;border-radius:12px;background:#f8fbff;color:#52657a;line-height:1.8}
+.phone-brand-tile[hidden]{display:none!important}
+@media(max-width:600px){.phone-brand-picker{padding:13px 10px}.phone-brand-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.phone-brand-tile{min-height:105px;padding:9px 5px}.brand-mark{width:37px;height:37px}.brand-tile-name{font-size:.8rem}.brand-tile-count{font-size:.66rem}.phone-selected-bar{align-items:flex-start;flex-direction:column}}
