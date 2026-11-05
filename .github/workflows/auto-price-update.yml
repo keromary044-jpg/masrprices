@@ -55,12 +55,12 @@ jobs:
                   print("AGRI_SCRIPT", value[:300])
               for value in re.findall(r'<form[^>]*>', html, re.I):
                   print("AGRI_FORM", value[:500])
-              for needle in ["function sendQuery", "function get_crops", "startDate", "function getData"]:
+              for match in re.finditer(r'<select\b[\s\S]*?</select>', html, re.I):
+                  print("AGRI_SELECT", re.sub(r'\s+',' ',match.group(0))[:3500])
+              for needle in ["function sendQuery", "function get_crops", "startDate"]:
                   position=html.find(needle)
                   if position >= 0:
                       print("AGRI_JS", needle, re.sub(r'\s+',' ',html[max(0,position-400):position+5000])[:5400])
-              for match in re.finditer(r'<select[^>]+name=["\']type_group["\'][\s\S]*?</select>', html, re.I):
-                  print("AGRI_GROUPS", re.sub(r'\s+',' ',match.group(0))[:5000])
               import time, urllib.parse, html as html_lib
               end=int(time.time()); start=end-14*86400
               for group in ["الخضروات","الفاكهة","الاسماك"]:
