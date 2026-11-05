@@ -337,20 +337,11 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/",
       "sourceLabel": "الموقع الرسمي للشركة – المواصفات",
-      "priceEGP": 8999,
-      "priceSource": "أقل سعر مرصود في مقارنة PriceTeq؛ السعر قابل للتغير",
-      "priceCheckedAt": "2026-11-02",
-      "priceStatus": "سعر مقارنة مجمّع وليس عرضًا مضمونًا",
-      "priceOffers": [
-        {
-          "merchant": "متجر مصري عبر PriceTeq",
-          "priceEGP": 8999,
-          "variant": "التكوين الموضح في الاسم",
-          "source": "https://priceteq.com/eg/phones",
-          "sourceLabel": "PriceTeq – مقارنة الأسعار",
-          "checkedAt": "2026-11-02"
-        }
-      ]
+      "priceEGP": 9000,
+      "priceSource": "MobileMasr – أقل سعر جديد مرصود",
+      "priceCheckedAt": "2026-11-05",
+      "priceStatus": "سعر رصد للموديل؛ النسخة والتوفر قد يختلفان",
+      "priceOffers": []
     },
     {
       "id": "samsung-a17",
