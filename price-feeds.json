@@ -19,9 +19,16 @@
         "phones.json",
         "electronics.json",
         "appliances.json",
+        "computers-laptops.json",
+        "gaming-devices.json",
+        "printers-ink.json",
+        "networking-internet.json",
+        "security-cameras.json",
+        "watches.json",
         "groceries.json"
       ],
-      "activation_note": "API key required. Documentation advertises a 7-day trial and monthly plans. Keep inactive until the account owner obtains a key and confirms the plan."
+      "activation_note": "API key and provider plan required. Documentation advertises a 7-day trial and monthly plans. Adapter reads up to 10 pages (1,000 recent deals) per daily run, exact-matches product name and brand, and rejects out-of-stock offers. Keep inactive until an adult account owner obtains the key and confirms the plan.",
+      "max_pages": 10
     },
     {
       "id": "sama-link-store",
@@ -35,7 +42,10 @@
       "coverage": [
         "electronics.json",
         "electrical.json",
-        "tools.json"
+        "tools.json",
+        "computers-laptops.json",
+        "networking-internet.json",
+        "security-cameras.json"
       ],
       "activation_note": "Sama Link issues the integration key after contact; API is server-to-server. Use only products that match an existing catalog entry by exact normalized name and brand."
     },
@@ -122,6 +132,26 @@
       ],
       "mode": "informational_only_not_enabled_for_commercial_catalog",
       "reason": "Provider states the free feed is for information only and its commercial license is not yet available."
+    },
+    {
+      "id": "agriculture-ministry-daily-crop-prices",
+      "name": "Ministry of Agriculture and Land Reclamation — daily crop prices",
+      "url": "https://www.agri.gov.eg/databases/83",
+      "coverage": [
+        "groceries.json"
+      ],
+      "mode": "official_daily_prices_pending_reuse_permission_and_stable_export",
+      "reason": "The official page presents wholesale Obour Market and representative retail prices for vegetables, fruit and fish. Automated query responses did not expose a verified machine-readable price table, and commercial reuse terms were not confirmed. Do not ingest until the Ministry confirms an approved export/API and reuse permission."
+    },
+    {
+      "id": "open-food-facts-open-prices",
+      "name": "Open Prices community observations",
+      "url": "https://prices.openfoodfacts.org/",
+      "coverage": [
+        "groceries.json"
+      ],
+      "mode": "not_enabled_license_and_egypt_coverage_review",
+      "reason": "Community-submitted price observations are under ODbL terms; Egypt-specific EGP coverage was not established. Keep separate from proprietary retail feeds unless database-license compatibility and attribution obligations are reviewed."
     }
   ],
   "excluded_categories_note": "Do not activate sources for medicines or other restricted products through this generic updater. Use official public registration information only; no unverified price claims.",
