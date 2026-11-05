@@ -311,9 +311,9 @@
           servicesCatalog:()=>openCatalog("servicesCatalog",()=>loadGenericCatalog("services")),
           babyCatalog:()=>openCatalog("babyCatalog",()=>loadGenericCatalog("baby")),
           realEstateCatalog:()=>openCatalog("realEstateCatalog",loadRealEstate),
-          goldRatesCatalog:()=>openCatalog("goldRatesCatalog",loadMarketRates),
-          silverRatesCatalog:()=>openCatalog("silverRatesCatalog",loadMarketRates),
-          currencyRatesCatalog:()=>openCatalog("currencyRatesCatalog",loadMarketRates),
+          goldRatesCatalog:()=>{const section=document.getElementById("goldRatesCatalog");if(section){panel.hidden=true;section.hidden=false;loadMarketRates();section.scrollIntoView({behavior:"smooth",block:"start"});}},
+          silverRatesCatalog:()=>{const section=document.getElementById("silverRatesCatalog");if(section){panel.hidden=true;section.hidden=false;loadMarketRates();section.scrollIntoView({behavior:"smooth",block:"start"});}},
+          currencyRatesCatalog:()=>{const section=document.getElementById("currencyRatesCatalog");if(section){panel.hidden=true;section.hidden=false;loadMarketRates();section.scrollIntoView({behavior:"smooth",block:"start"});}},
           medicinesCatalog:()=>openCatalog("medicinesCatalog",()=>loadGenericCatalog("medicines")),
           fuelCatalog:()=>openCatalog("fuelCatalog",()=>loadGenericCatalog("fuel"))
         };
@@ -622,9 +622,22 @@
     const targets=["goldRates","silverRates","currencyRates"];
     if(!targets.some(id=>document.getElementById(id)))return;
     const fallbackGroups=[
-      {title:"أسعار الذهب",items:[],source:"https://gtc.com.eg/",note:"المصدر المرجعي المتاح: Gold Trade Center. افتح المصدر لمشاهدة آخر أسعار الذهب ووقت تحديثها."},
-      {title:"أسعار الفضة",items:[],source:"https://gtc.com.eg/",note:"المصدر المرجعي المتاح: Gold Trade Center. افتح المصدر لمشاهدة آخر أسعار الفضة ووقت تحديثها."},
-      {title:"أسعار العملات مقابل الجنيه",items:[],source:"https://www.cbe.org.eg/en/economic-research/statistics/exchange-rates",note:"المصدر الرسمي: البنك المركزي المصري. راجع تاريخ النشرة وأسعار الشراء والبيع."}
+      {title:"أسعار الذهب",items:[
+        {name:"ذهب عيار 24 – جرام",value:"شراء 7,171.85 · بيع 7,081.58 جنيه"},
+        {name:"ذهب عيار 21 – جرام",value:"شراء 6,276.00 · بيع 6,197.00 جنيه"},
+        {name:"ذهب عيار 18 – جرام",value:"شراء 5,379.43 · بيع 5,311.71 جنيه"}
+      ],source:"https://react.arabfinance.com/ar/prices-hub",note:"آخر بيانات منشورة بالمصدر: 5 نوفمبر 2026، 01:29 صباحًا. لقطة احتياطية مؤرخة وليست سعرًا لحظيًا؛ تحقق من المصدر قبل التعامل."},
+      {title:"أسعار الفضة",items:[
+        {name:"فضة – جرام",value:"شراء 95.66 · بيع 92.77 جنيه"}
+      ],source:"https://react.arabfinance.com/ar/prices-hub",note:"آخر بيانات منشورة بالمصدر: 5 نوفمبر 2026، 01:29 صباحًا. لقطة احتياطية مؤرخة وليست سعرًا لحظيًا؛ تحقق من المصدر قبل التعامل."},
+      {title:"أسعار العملات مقابل الجنيه",items:[
+        {name:"الدولار الأمريكي USD",value:"55.4209 جنيه"},
+        {name:"اليورو EUR",value:"61.9661 جنيه"},
+        {name:"الجنيه الإسترليني GBP",value:"74.3415 جنيه"},
+        {name:"الريال السعودي SAR",value:"14.7659 جنيه"},
+        {name:"الدرهم الإماراتي AED",value:"15.0899 جنيه"},
+        {name:"اليوان الصيني CNY",value:"8.3064 جنيه"}
+      ],source:"https://nafeza.gov.eg/en/currencies",note:"أسعار منشورة لدى مصلحة الجمارك المصرية بتاريخ 5 نوفمبر 2026، 12:00 صباحًا. أسعار جمركية مرجعية وليست بالضرورة أسعار بيع وشراء البنوك."}
     ];
     try{
       const headers={};if(marketETag)headers["If-None-Match"]=marketETag;
@@ -637,7 +650,7 @@
       renderMarketGroups(fallbackGroups.map(f=>{const live=byTitle.get(f.title);return live&&live.items.length?live:f;}),true,feed.generatedAt);
     }catch(error){
       console.warn("Market data unavailable; showing source links.",error);
-      renderMarketGroups(fallbackGroups,false);
+      renderMarketGroups(fallbackGroups,false, "2026-11-05T01:29:01");
     }
   }
   loadMarketRates();
