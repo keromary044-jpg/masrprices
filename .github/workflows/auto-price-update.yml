@@ -61,6 +61,19 @@ jobs:
                       print("AGRI_JS", needle, re.sub(r'\s+',' ',html[max(0,position-400):position+5000])[:5400])
               for match in re.finditer(r'<select[^>]+name=["\']type_group["\'][\s\S]*?</select>', html, re.I):
                   print("AGRI_GROUPS", re.sub(r'\s+',' ',match.group(0))[:5000])
+              import time, urllib.parse
+              end=int(time.time()); start=end-14*86400
+              for group in ["الخضروات","الفاكهة","الاسماك"]:
+                  params=urllib.parse.urlencode({"type_group":group,"item":start,"item2":end,"crop_name":""})
+                  target="https://www.agri.gov.eg/databases_search/83?"+params
+                  try:
+                      req=urllib.request.Request(target,headers={"User-Agent":"MasrPrices-SourceResearch/1.0","Accept":"text/html"})
+                      with urllib.request.urlopen(req,timeout=20) as response:
+                          body=response.read(2_000_000).decode("utf-8","replace")
+                          print("AGRI_QUERY",group,"STATUS",response.status,"TYPE",response.headers.get("Content-Type"),"BYTES",len(body))
+                          print("AGRI_RESULT",re.sub(r'\s+',' ',body)[:4500])
+                  except Exception as error:
+                      print("AGRI_QUERY_FAILED",group,type(error).__name__,str(error)[:250])
           except Exception as error:
               print("AGRI_PAGE_PROBE_FAILED", type(error).__name__, str(error)[:250])
           PY
