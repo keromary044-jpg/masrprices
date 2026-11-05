@@ -311,3 +311,17 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .brand-market-status{color:#64748b}
 .brand-picker-search{margin:8px 0 12px;min-height:44px}
 @media(max-width:600px){.phone-brand-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.phone-brand-tile{min-height:82px}.brand-tile-name{font-size:.76rem}}
+
+
+/* EGID market watch */
+.egid-market-panel{margin:18px 0 24px;padding:16px;border:1px solid #dbe4ef;border-radius:14px;background:#fff;overflow:hidden}
+.egid-market-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.egid-market-heading h3{margin:0;font-size:1.08rem;color:#173d68}
+.egid-market-refresh{border:0;border-radius:9px;padding:9px 14px;background:#173d68;color:#fff;font:inherit;cursor:pointer}
+.egid-market-status{display:block;margin:10px 0;color:#52657b}
+.egid-market-table{display:grid;gap:0;overflow-x:auto}
+.egid-market-row{display:grid;grid-template-columns:minmax(180px,2fr) repeat(3,minmax(95px,1fr));gap:10px;align-items:center;padding:10px 8px;border-top:1px solid #e8edf3;min-width:520px}
+.egid-market-row-head{background:#f4f7fb;color:#52657b;font-size:.86rem}
+.egid-market-name{font-weight:600}
+.egid-market-panel .catalog-footnote{display:block;margin-top:12px;color:#65758b;line-height:1.6}
+@media(max-width:600px){.egid-market-panel{padding:12px}.egid-market-row{grid-template-columns:minmax(155px,1.5fr) repeat(3,minmax(78px,1fr));gap:7px;padding:9px 5px;font-size:.86rem}}
