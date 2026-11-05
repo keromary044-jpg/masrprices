@@ -16,6 +16,60 @@ function secure(response, request) {
   return new Response(response.body, {status:response.status,statusText:response.statusText,headers});
 }
 
+async function egidStocksHandler(request, env, ctx) {
+  const reply = (status, body, cache = "no-store") => new Response(JSON.stringify(body), {
+    status,
+    headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": cache }
+  });
+  const token = String(env.EGID_API_TOKEN || "").trim();
+  if (!token) return reply(503, {
+    provider: "EGID",
+    status: "credentials_required",
+    error: "لم يتم ربط بيانات الدخول المعتمدة من EGID بالخادم بعد."
+  });
+  const mode = String(env.EGID_FEED_MODE || "delayed").toLowerCase() === "live" ? "live" : "delayed";
+  const path = mode === "live"
+    ? "/api/Feed/GetAllMarketWatch"
+    : "/api/DelayedFeed/getAllMarketWatch";
+  const upstreamUrl = "https://ticker.egidegypt.com" + path;
+  const cacheKey = new Request(new URL("/__cache/egid-market-watch-" + mode, request.url).toString(), { method: "GET" });
+  const cache = caches.default;
+  const cached = await cache.match(cacheKey);
+  if (cached) return new Response(cached.body, { status: cached.status, headers: cached.headers });
+  let upstream;
+  try {
+    upstream = await fetch(upstreamUrl, {
+      method: "GET",
+      headers: { "Accept": "application/json", "Authorization": "Bearer " + token },
+      signal: AbortSignal.timeout(12000)
+    });
+  } catch {
+    return reply(502, { provider: "EGID", status: "upstream_unavailable", error: "تعذر الاتصال بواجهة بيانات EGID." });
+  }
+  if (!upstream.ok) {
+    return reply(upstream.status === 401 || upstream.status === 403 ? 502 : 503, {
+      provider: "EGID",
+      status: upstream.status === 401 || upstream.status === 403 ? "authentication_or_permission_error" : "provider_error",
+      error: "رفضت واجهة EGID الطلب أو تعذر الحصول على البيانات. تحقق من صلاحية الحساب ونوع البيانات المسموح بها."
+    });
+  }
+  let data;
+  try { data = await upstream.json(); }
+  catch { return reply(502, { provider: "EGID", status: "invalid_response", error: "استجابة EGID ليست بصيغة JSON صالحة." }); }
+  const body = {
+    provider: "EGID",
+    mode,
+    receivedAt: new Date().toISOString(),
+    data
+  };
+  const response = new Response(JSON.stringify(body), {
+    status: 200,
+    headers: { "Content-Type": "application/json; charset=utf-8", "Cache-Control": "public, max-age=5, stale-while-revalidate=10" }
+  });
+  ctx.waitUntil(cache.put(cacheKey, response.clone()));
+  return response;
+}
+
 function json(status, body) {
   return new Response(JSON.stringify(body), {
     status,
@@ -41,6 +95,13 @@ export default {
       const blocked = await rateLimit(env.ADMIN_RATE_LIMITER, request, "admin");
       if (blocked) return secure(blocked, request);
       return secure(await adminHandler({ request, env, ctx, params: {} }), request);
+    }
+
+    if (url.pathname === "/api/stocks") {
+      if (request.method !== "GET") return secure(json(405, { error: "طريقة الطلب غير مدعومة." }), request);
+      const blocked = await rateLimit(env.PUBLIC_READ_RATE_LIMITER, request, "stocks");
+      if (blocked) return secure(blocked, request);
+      return secure(await egidStocksHandler(request, env, ctx), request);
     }
 
     if (url.pathname === "/api/compare") {
