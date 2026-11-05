@@ -191,7 +191,7 @@
       const name=element("strong","brand-tile-name",brand.brand);
       const count=brand.models.length;
       const countLabel=count?count+" موديل مسجل":"موديلات قيد الإضافة";
-      button.append(mark,name,element("small","brand-tile-count",countLabel));
+      button.append(mark,name,element("small","brand-tile-count",countLabel),element("small","brand-market-status",brand.marketStatus||"علامة ضمن دليل الموبايلات"));
       button.addEventListener("click",()=>{
         selectedPhoneBrand=brand.brand;
         const bar=document.getElementById("phoneSelectedBar");
