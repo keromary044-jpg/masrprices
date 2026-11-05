@@ -7,7 +7,7 @@ import sys
 import unicodedata
 import urllib.parse
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -123,8 +123,75 @@ def apply_offer(index, name, brand, price, store, link, checked_at, source_label
         product["merchant"] = best.get("merchant") or store
         product["source"] = best.get("source") or link
         product["checkedAt"] = best.get("checkedAt") or checked_at
+    product["priceProvider"] = source_label
     product["priceStatus"] = "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء"
     return True
+
+def parse_observed_time(value):
+    if not isinstance(value, str) or not value.strip():
+        return None
+    raw = value.strip()
+    try:
+        parsed = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+    except ValueError:
+        try:
+            parsed = datetime.strptime(raw, "%Y-%m-%d %H:%M Cairo").replace(tzinfo=ZoneInfo("Africa/Cairo"))
+        except ValueError:
+            return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
+
+def expire_stale_offers(catalogs, now=None, max_age_days=14):
+    """Remove provider offers older than the provider's 14-day freshness window."""
+    now = now or datetime.now(timezone.utc)
+    cutoff = now - timedelta(days=max_age_days)
+    expired_count = 0
+    changed_count = 0
+    provider_labels = {"Prices by PriceLens", "Sama Link API"}
+    for filename, catalog in catalogs.items():
+        for product in catalog.get("products", []):
+            if not isinstance(product, dict) or not isinstance(product.get("priceOffers"), list):
+                continue
+            offers = product["priceOffers"]
+            fresh = []
+            for offer in offers:
+                if not isinstance(offer, dict):
+                    expired_count += 1
+                    continue
+                observed = parse_observed_time(offer.get("checkedAt"))
+                if offer.get("sourceLabel") in provider_labels and observed and observed < cutoff:
+                    expired_count += 1
+                    continue
+                fresh.append(offer)
+            if len(fresh) == len(offers):
+                continue
+            changed_count += 1
+            product["priceOffers"] = fresh
+            fresh.sort(key=lambda row: float(row.get("priceEGP") or float("inf")))
+            if fresh:
+                best = fresh[0]
+                product["priceProvider"] = best.get("sourceLabel") or ""
+                if filename == "phones.json" or "priceEGP" in product:
+                    product["priceEGP"] = best["priceEGP"]
+                    product["priceSource"] = best.get("sourceLabel") or "مصدر سعر موثق"
+                    product["priceCheckedAt"] = best.get("checkedAt") or ""
+                else:
+                    product["price"] = best["priceEGP"]
+                    product["merchant"] = best.get("merchant") or ""
+                    product["source"] = best.get("source") or ""
+                    product["checkedAt"] = best.get("checkedAt") or ""
+            elif product.get("priceProvider") in provider_labels:
+                product.pop("priceEGP", None)
+                product.pop("priceSource", None)
+                product.pop("priceCheckedAt", None)
+                product.pop("price", None)
+                product.pop("merchant", None)
+                product.pop("source", None)
+                product.pop("checkedAt", None)
+                product.pop("priceProvider", None)
+                product["priceStatus"] = "لا يوجد عرض حديث مؤكد؛ السعر غير متاح حالياً"
+    return expired_count, changed_count
 
 def run_pricelens(source, catalogs, checked_at):
     secret_name = source.get("secret_env", "PRICELENS_API_KEY")
@@ -283,6 +350,9 @@ def main():
         except Exception as exc:
             failures += 1
             print(f"FAILED {source_id}: {str(exc)[:300]}", file=sys.stderr)
+    expired_offers, products_cleaned = expire_stale_offers(catalogs)
+    if expired_offers:
+        print(f"FRESHNESS expired_offers={expired_offers} products_cleaned={products_cleaned}")
     changed = {name for name, data in catalogs.items() if json.dumps(data, ensure_ascii=False, sort_keys=True) != original_catalogs[name]}
     for filename in changed:
         catalogs[filename]["updatedAt"] = now.strftime("%Y-%m-%d")
