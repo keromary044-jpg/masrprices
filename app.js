@@ -364,6 +364,27 @@
           return true;
         };
         const routes={
+          computersCatalog:()=>openCatalog("computersCatalog",()=>loadGenericCatalog("computers")),
+          printersCatalog:()=>openCatalog("printersCatalog",()=>loadGenericCatalog("printers")),
+          gamingCatalog:()=>openCatalog("gamingCatalog",()=>loadGenericCatalog("gaming")),
+          networkingCatalog:()=>openCatalog("networkingCatalog",()=>loadGenericCatalog("networking")),
+          securityCamerasCatalog:()=>openCatalog("securityCamerasCatalog",()=>loadGenericCatalog("securityCameras")),
+          solarCatalog:()=>openCatalog("solarCatalog",()=>loadGenericCatalog("solar")),
+          tiresCatalog:()=>openCatalog("tiresCatalog",()=>loadGenericCatalog("tires")),
+          carBatteriesCatalog:()=>openCatalog("carBatteriesCatalog",()=>loadGenericCatalog("carBatteries")),
+          motorcyclesCatalog:()=>openCatalog("motorcyclesCatalog",()=>loadGenericCatalog("motorcycles")),
+          carOilsCatalog:()=>openCatalog("carOilsCatalog",()=>loadGenericCatalog("carOils")),
+          kitchenwareCatalog:()=>openCatalog("kitchenwareCatalog",()=>loadGenericCatalog("kitchenware")),
+          mattressesCatalog:()=>openCatalog("mattressesCatalog",()=>loadGenericCatalog("mattresses")),
+          bathroomCatalog:()=>openCatalog("bathroomCatalog",()=>loadGenericCatalog("bathroom")),
+          eyewearCatalog:()=>openCatalog("eyewearCatalog",()=>loadGenericCatalog("eyewear")),
+          watchesCatalog:()=>openCatalog("watchesCatalog",()=>loadGenericCatalog("watches")),
+          bagsCatalog:()=>openCatalog("bagsCatalog",()=>loadGenericCatalog("bags")),
+          perfumesCatalog:()=>openCatalog("perfumesCatalog",()=>loadGenericCatalog("perfumes")),
+          maternityCatalog:()=>openCatalog("maternityCatalog",()=>loadGenericCatalog("maternity")),
+          irrigationCatalog:()=>openCatalog("irrigationCatalog",()=>loadGenericCatalog("irrigation")),
+          waterFiltersCatalog:()=>openCatalog("waterFiltersCatalog",()=>loadGenericCatalog("waterFilters")),
+          homeMedicalCatalog:()=>openCatalog("homeMedicalCatalog",()=>loadGenericCatalog("homeMedical")),
           phoneCatalog:()=>openCatalog("phoneCatalog",loadPhones),
           bookCatalog:()=>openCatalog("bookCatalog"),
           constructionCatalog:()=>openCatalog("constructionCatalog"),
@@ -584,7 +605,7 @@
     items.sort((a,b)=>sort==="price"?(a.price??0)-(b.price??0):a.title.localeCompare(b.title,"ar"));
     container.replaceChildren();
     items.forEach(book=>{
-      const card=element("article","book-card");
+      const card=element("article","book-card generic-product-card");
       card.append(element("span","book-category",book.teacher||book.series||"كتاب خارجي"));
       appendProductVisual(card,{...book,name:book.title,category:book.subject});
       card.append(element("h3","",book.title));
@@ -1006,7 +1027,7 @@
   }
   adminForm?.addEventListener("submit",event=>{event.preventDefault();loadPropertyQueue();});
 
-  const genericCatalogs={householdCleaning:{file:"household-cleaning.json",id:"householdCleaningCatalog"},fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},stocks:{file:"stocks.json",id:"stocksCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
+  const genericCatalogs={computers:{file:"computers-laptops.json",id:"computersCatalog"},printers:{file:"printers-ink.json",id:"printersCatalog"},gaming:{file:"gaming-devices.json",id:"gamingCatalog"},networking:{file:"networking-internet.json",id:"networkingCatalog"},securityCameras:{file:"security-cameras.json",id:"securityCamerasCatalog"},solar:{file:"solar-energy.json",id:"solarCatalog"},tires:{file:"car-tires.json",id:"tiresCatalog"},carBatteries:{file:"car-batteries.json",id:"carBatteriesCatalog"},motorcycles:{file:"motorcycles-scooters.json",id:"motorcyclesCatalog"},carOils:{file:"car-oils-lubricants.json",id:"carOilsCatalog"},kitchenware:{file:"kitchen-tools-utensils.json",id:"kitchenwareCatalog"},mattresses:{file:"mattresses-home-linen.json",id:"mattressesCatalog"},bathroom:{file:"bathroom-fixtures.json",id:"bathroomCatalog"},eyewear:{file:"eyewear-lenses.json",id:"eyewearCatalog"},watches:{file:"watches.json",id:"watchesCatalog"},bags:{file:"bags-luggage.json",id:"bagsCatalog"},perfumes:{file:"perfumes.json",id:"perfumesCatalog"},maternity:{file:"maternity.json",id:"maternityCatalog"},irrigation:{file:"agriculture-irrigation.json",id:"irrigationCatalog"},waterFilters:{file:"water-filters.json",id:"waterFiltersCatalog"},homeMedical:{file:"home-medical-devices.json",id:"homeMedicalCatalog"},householdCleaning:{file:"household-cleaning.json",id:"householdCleaningCatalog"},fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},stocks:{file:"stocks.json",id:"stocksCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
   const genericData={};
   let egidMarketData=null,egidMarketFetchedAt=0,egidMarketLoading=null,egidMarketTimer=null;
   function scheduleEGIDRefresh(){
@@ -1112,7 +1133,7 @@
     const products=Array.isArray(data.products)?data.products:(Array.isArray(data)?data:[]);
     const animals=(key==="pets"&&Array.isArray(data.animals)?data.animals:[]);
     const entries=[...products,...animals];
-    const rows=entries.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category].join(" ")).includes(q)));
+    const rows=entries.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.details,x.description,x.spec,x.size,x.capacity,x.variant].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();if(key==="stocks")renderEGIDMarketPanel(root);
     rows.forEach(x=>{
       const card=element("article","book-card");
@@ -1121,7 +1142,7 @@
       if(/^https:\/\//i.test(imageUrl)){const image=element("img","catalog-product-image");image.src=imageUrl;image.alt=x.name||"صورة المنتج";image.loading="lazy";image.referrerPolicy="no-referrer";image.onerror=()=>image.remove();card.append(image);}
       card.append(element("h3","",x.name));
       const hasPrice=x.price!==null&&x.price!==undefined&&x.price!==""&&Number.isFinite(Number(x.price))&&Number(x.price)>0;
-      card.append(element("p","book-price",x.recordType==="animal"?"نوع حيوان / سلالة — معلومة تعريفية":hasPrice?Number(x.price).toLocaleString("en-US")+" جنيه":(x.price===null||x.price===undefined?"السعر غير منشور لدى المصدر":"السعر غير متحقق منه")));
+      card.append(element("p",hasPrice?"book-price generic-price-available":"book-price generic-price-missing",x.recordType==="animal"?"نوع حيوان / سلالة — معلومة تعريفية":hasPrice?Number(x.price).toLocaleString("en-US")+" جنيه":(x.price===null||x.price===undefined?"السعر غير منشور لدى المصدر":"السعر غير متحقق منه")));
       if(x.merchant)card.append(element("p","book-store","المتجر / الجهة: "+x.merchant));
       
       
