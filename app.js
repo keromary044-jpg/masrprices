@@ -163,7 +163,7 @@
         list.append(wrap);
       });
       details.append(list);
-      const source=element("a","phone-source","المصدر الرسمي للمواصفات");
+      const source=element("a","phone-source","راجع صفحة الشركة للتحقق من الموديل");
       source.href=phone.source; source.target="_blank"; source.rel="noopener noreferrer";
       article.append(details,source);
       phoneProducts.append(article);
