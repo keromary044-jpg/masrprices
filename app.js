@@ -193,8 +193,11 @@
         const priceLine=element("p","phone-price","السعر في مصر: "+phone.priceEGP.toLocaleString("en-US")+" جنيه");
         priceLine.dataset.price=String(phone.priceEGP);
         article.append(priceLine);
+        article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")+" · "+(phone.priceCheckedAt || "تاريخ الرصد غير محدد")));
+      } else {
+        article.append(element("p","phone-price phone-price-unavailable","السعر غير متاح حاليًا"));
+        article.append(element("small","phone-price-source","لم نعثر على عرض موثّق لهذا الموديل. لن نعرض سعرًا تقديريًا على أنه سعر حقيقي."));
       }
-      if(phone.priceEGP){article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")+" · "+(phone.priceCheckedAt || "تاريخ الرصد غير محدد")));}
       addStoreComparison(article,phone,true);
       const details = element("details", "phone-details");
       details.append(element("summary", "", "عرض المواصفات التفصيلية"));
