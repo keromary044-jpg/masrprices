@@ -299,3 +299,15 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 @media(max-width:600px){.phone-brand-picker{padding:13px 10px}.phone-brand-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}.phone-brand-tile{min-height:105px;padding:9px 5px}.brand-mark{width:37px;height:37px}.brand-tile-name{font-size:.8rem}.brand-tile-count{font-size:.66rem}.phone-selected-bar{align-items:flex-start;flex-direction:column}}
 
 .brand-market-status{font-size:.66rem;line-height:1.45;color:#52677e;text-align:center;max-width:100%;overflow-wrap:anywhere}
+
+/* Simplified phone company picker */
+.phone-brand-picker{padding:14px;margin:14px 0;background:#f7f9fc;border:1px solid #e2e8f0;border-radius:14px}
+.phone-brand-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px}
+.phone-brand-tile{min-height:88px;padding:8px 5px;gap:4px;border-radius:11px;box-shadow:none}
+.phone-brand-tile:hover,.phone-brand-tile:focus-visible{transform:none;box-shadow:0 2px 8px #102b5010}
+.brand-mark{width:30px;height:30px;border-radius:9px;font-size:.75rem}
+.brand-tile-name{font-size:.82rem}
+.brand-tile-count,.brand-market-status{font-size:.68rem}
+.brand-market-status{color:#64748b}
+.brand-picker-search{margin:8px 0 12px;min-height:44px}
+@media(max-width:600px){.phone-brand-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}.phone-brand-tile{min-height:82px}.brand-tile-name{font-size:.76rem}}
