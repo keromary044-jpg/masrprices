@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05 20:22 Cairo",
+  "generated_at": "2026-11-05 20:23 Cairo",
   "currency": "EGP",
   "definition": "A product counts as priced only when a positive numeric price or positive offer price exists; this does not certify that the price is current.",
   "totals": {
