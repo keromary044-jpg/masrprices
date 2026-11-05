@@ -144,9 +144,11 @@
       appendProductVisual(article,phone);
       article.dataset.search = normalize([phone.brand,phone.name,phone.category,phone.processor,phone.memory].join(" "));
       article.append(element("h3", "phone-name", phone.name));
-      const priceLine=element("p","phone-price",phone.priceEGP?("السعر في مصر: "+phone.priceEGP.toLocaleString("en-US")+" جنيه"):"السعر غير متوفر بمصدر موثوق حاليًا");
-      priceLine.dataset.price=Number(phone.priceEGP)>0?String(phone.priceEGP):"";
-      article.append(priceLine);
+      if(Number(phone.priceEGP)>0){
+        const priceLine=element("p","phone-price","السعر في مصر: "+phone.priceEGP.toLocaleString("en-US")+" جنيه");
+        priceLine.dataset.price=String(phone.priceEGP);
+        article.append(priceLine);
+      }
       if(phone.priceEGP){article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")+" · "+(phone.priceCheckedAt || "تاريخ الرصد غير محدد")));}
       addStoreComparison(article,phone,true);
       const details = element("details", "phone-details");
@@ -1142,11 +1144,11 @@
       if(/^https:\/\//i.test(imageUrl)){const image=element("img","catalog-product-image");image.src=imageUrl;image.alt=x.name||"صورة المنتج";image.loading="lazy";image.referrerPolicy="no-referrer";image.onerror=()=>image.remove();card.append(image);}
       card.append(element("h3","",x.name));
       const hasPrice=x.price!==null&&x.price!==undefined&&x.price!==""&&Number.isFinite(Number(x.price))&&Number(x.price)>0;
-      card.append(element("p",hasPrice?"book-price generic-price-available":"book-price generic-price-missing",x.recordType==="animal"?"نوع حيوان / سلالة — معلومة تعريفية":hasPrice?Number(x.price).toLocaleString("en-US")+" جنيه":(x.price===null||x.price===undefined?"السعر غير منشور لدى المصدر":"السعر غير متحقق منه")));
+      if(hasPrice)card.append(element("p","book-price generic-price-available",Number(x.price).toLocaleString("en-US")+" جنيه"));
       if(x.merchant)card.append(element("p","book-store","المتجر / الجهة: "+x.merchant));
       
       
-      const detailValues=[["التفاصيل",x.details||x.description||x.note],["المواصفات",x.spec||x.specifications],["المقاس / السعة",x.size||x.capacity||x.variant],["وحدة القياس",x.unit],["المحافظة / النطاق",x.governorate||x.region],["حالة السعر",hasPrice?(x.priceStatus||"سعر مرصود — راجع تاريخ ومصدر الرصد"):"لا يوجد سعر موثق في قاعدة البيانات"]];
+      const detailValues=[["التفاصيل",x.details||x.description||x.note],["المواصفات",x.spec||x.specifications],["المقاس / السعة",x.size||x.capacity||x.variant],["وحدة القياس",x.unit],["المحافظة / النطاق",x.governorate||x.region]];
       const populated=detailValues.filter(pair=>pair[1]);
       if(populated.length){const details=element("details","catalog-item-details");details.append(element("summary","","تفاصيل المنتج والمواصفات"));const body=element("div","catalog-item-detail-body");populated.forEach(([label,value])=>{const p=element("p","","");const strong=element("strong","",label+": ");p.append(strong,document.createTextNode(String(value)));body.append(p);});details.append(body);card.append(details);}
       
