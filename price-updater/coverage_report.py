@@ -126,6 +126,7 @@ def build_report():
             "stale_with_price": stale,
             "unknown_freshness": unknown,
             "freshness_percent_of_priced": round(fresh * 100 / priced, 2) if priced else 0,
+            "fresh_coverage_percent": round(fresh * 100 / total, 2) if total else 0,
             "coverage_percent": round(priced * 100 / total, 2) if total else 0,
         })
     total_products = sum(row["total"] for row in categories)
@@ -146,6 +147,7 @@ def build_report():
             "stale_with_price": total_stale,
             "unknown_freshness": total_unknown,
             "freshness_percent_of_priced": round(total_fresh * 100 / total_priced, 2) if total_priced else 0,
+            "fresh_coverage_percent": round(total_fresh * 100 / total_products, 2) if total_products else 0,
             "coverage_percent": round(total_priced * 100 / total_products, 2) if total_products else 0,
         },
         "categories": categories,
