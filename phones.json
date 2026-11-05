@@ -13830,6 +13830,174 @@
       "priceCheckedAt": "2026-11-05",
       "priceStatus": "سعر جديد مرصود للموديل؛ قد تختلف النسخة والتوفر لدى المتجر",
       "priceOffers": []
+    },
+    {
+      "id": "vivoy11d4gb128gb",
+      "brand": "vivo",
+      "name": "vivo Y11d 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+      "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+      "priceEGP": 10800,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "4GB RAM / 128GB",
+      "merchant": "Noon",
+      "priceOffers": [
+        {
+          "merchant": "Noon",
+          "priceEGP": 10800,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "vivoy11d6gb128gb",
+      "brand": "vivo",
+      "name": "vivo Y11d 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+      "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+      "priceEGP": 12200,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "6GB RAM / 128GB",
+      "merchant": "Raneen",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 12200,
+          "variant": "6GB RAM / 128GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "vivoy31d6gb128gb",
+      "brand": "vivo",
+      "name": "vivo Y31d 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+      "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+      "priceEGP": 13500,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "6GB RAM / 128GB",
+      "merchant": "Noon",
+      "priceOffers": [
+        {
+          "merchant": "Noon",
+          "priceEGP": 13500,
+          "variant": "6GB RAM / 128GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "vivoy31d8gb256gb",
+      "brand": "vivo",
+      "name": "vivo Y31d 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+      "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+      "priceEGP": 16600,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "8GB RAM / 256GB",
+      "merchant": "Raneen",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 16600,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "vivoy5008gb256gb",
+      "brand": "vivo",
+      "name": "vivo Y500 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+      "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+      "priceEGP": 19500,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "8GB RAM / 256GB",
+      "merchant": "Raneen",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 19500,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "vivov70fe8gb256gb",
+      "brand": "vivo",
+      "name": "vivo V70 FE 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+      "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+      "priceEGP": 25999,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "8GB RAM / 256GB",
+      "merchant": "2B",
+      "priceOffers": [
+        {
+          "merchant": "2B",
+          "priceEGP": 25999,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "vivov7012gb256gb",
+      "brand": "vivo",
+      "name": "vivo V70 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+      "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+      "priceEGP": 36859,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "12GB RAM / 256GB",
+      "merchant": "Raneen",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 36859,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
     }
   ]
 }
