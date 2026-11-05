@@ -197,7 +197,7 @@
         group.dataset.search = normalize(brand.brand + " " + brand.models.join(" "));
         group.append(element("h4", "", brand.brand + " (" + brand.models.length + " موديل)"));
         const link = element("a", "", "صفحة الشركة الرسمية");
-        link.href = brand.source; link.target = "_blank"; link.rel = "noopener noreferrer";
+        link.href = brand.source; link.target = "_blank"; link.rel = "noopener noreferrer"; link.textContent = brand.sourceLabel || "صفحة الشركة / المرجع";
         group.append(link);
         const list = element("ul", "model-name-list");
         brand.models.forEach(name => { const item=element("li", "", name); item.dataset.search=normalize(name); list.append(item); });
