@@ -206,9 +206,13 @@ def run_pricelens(source, catalogs, checked_at):
     accepted = 0
     scanned = 0
     page_limit = 100
-    # The API supports offset pagination. Keep a conservative per-run cap so
-    # the updater respects plan-specific daily request limits.
-    for page_number in range(3):
+    # The API supports offset pagination. Ten calls is a bounded daily
+    # budget; adjust max_pages in price-feeds.json to fit the provider plan.
+    max_pages = source.get("max_pages", MAX_PAGES)
+    if not isinstance(max_pages, int) or max_pages < 1:
+        raise ValueError("PriceLens max_pages must be a positive integer")
+    max_pages = min(max_pages, MAX_PAGES)
+    for page_number in range(max_pages):
         query = urllib.parse.urlencode({
             "min_discount": 1, "basis": "any", "max_age_hours": 24,
             "limit": page_limit, "offset": page_number * page_limit
