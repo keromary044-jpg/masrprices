@@ -65,9 +65,12 @@ def load_catalogs():
             continue
     return catalogs
 
-def build_exact_index(catalogs):
+def build_exact_index(catalogs, allowed_files=None):
     index = {}
+    allowed = set(allowed_files or catalogs.keys())
     for filename, catalog in catalogs.items():
+        if filename not in allowed:
+            continue
         for product in catalog.get("products", []):
             if not isinstance(product, dict):
                 continue
@@ -133,6 +136,7 @@ def run_pricelens(source, index, checked_at):
     if not valid_https(endpoint):
         raise ValueError("Invalid PriceLens endpoint")
     query = urllib.parse.urlencode({"min_discount":1,"basis":"any","max_age_hours":24,"limit":100})
+    source_index = build_exact_index({name: catalog for name, catalog in catalogs.items() if name in source.get("coverage", [])})
     payload = get_json(endpoint + "?" + query, {"Authorization":"Bearer " + key})
     deals = payload.get("deals") if isinstance(payload, dict) else None
     if not isinstance(deals, list):
@@ -143,7 +147,7 @@ def run_pricelens(source, index, checked_at):
             continue
         product = deal.get("product") or {}
         accepted += apply_offer(
-            index, product.get("title_ar") or product.get("title"),
+            source_index, product.get("title_ar") or product.get("title"),
             product.get("brand"), deal.get("price"), deal.get("retailer"),
             deal.get("link"), checked_at, "PriceLens"
         )
@@ -165,6 +169,7 @@ def run_sama_link(source, index, checked_at):
     if not valid_https(endpoint):
         raise ValueError("Invalid Sama Link endpoint")
 
+    source_index = build_exact_index({name: catalog for name, catalog in catalogs.items() if name in source.get("coverage", [])})
     headers = {"Authorization": "Bearer " + key}
     cursor = None
     accepted = 0
@@ -214,7 +219,7 @@ def run_sama_link(source, index, checked_at):
                     continue
                 sku = variant.get("sku") or variant.get("id") or ""
                 accepted += apply_offer(
-                    index, title, brand, price_obj.get("amount"),
+                    source_index, title, brand, price_obj.get("amount"),
                     "Sama Link", product_url, checked_at,
                     "Sama Link API", str(sku)
                 )
