@@ -14,6 +14,22 @@ class PriceUpdaterTests(unittest.TestCase):
         self.assertTrue(ok)
         self.assertEqual(self.product["priceEGP"], 1234)
 
+
+    def test_multiple_store_offers_are_preserved_and_cheapest_selected(self):
+        first = apply_offer(self.index, "سامسونج جالاكسي A56", "Samsung", 1500, "Store A", "https://a.example/item", "now", "Provider A")
+        second = apply_offer(self.index, "سامسونج جالاكسي A56", "Samsung", 1300, "Store B", "https://b.example/item", "now", "Provider B")
+        self.assertTrue(first)
+        self.assertTrue(second)
+        self.assertEqual(self.product["priceEGP"], 1300)
+        self.assertEqual(len(self.product["priceOffers"]), 2)
+        self.assertEqual(self.product["priceOffers"][0]["merchant"], "Store B")
+
+    def test_same_listing_refresh_does_not_duplicate_offer(self):
+        apply_offer(self.index, "سامسونج جالاكسي A56", "Samsung", 1500, "Store A", "https://a.example/item", "day 1", "Provider A")
+        apply_offer(self.index, "سامسونج جالاكسي A56", "Samsung", 1400, "Store A", "https://a.example/item", "day 2", "Provider A")
+        self.assertEqual(len(self.product["priceOffers"]), 1)
+        self.assertEqual(self.product["priceEGP"], 1400)
+
     def test_partial_name_is_rejected(self):
         self.assertFalse(apply_offer(self.index, "سامسونج A56", "Samsung", 1234, "Store", "https://store.example/item", "now", "Test"))
 
