@@ -126,7 +126,7 @@ def apply_offer(index, name, brand, price, store, link, checked_at, source_label
     product["priceStatus"] = "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء"
     return True
 
-def run_pricelens(source, index, checked_at):
+def run_pricelens(source, catalogs, checked_at):
     secret_name = source.get("secret_env", "PRICELENS_API_KEY")
     key = os.environ.get(secret_name, "").strip()
     if not key:
@@ -159,7 +159,7 @@ def bilingual(value):
         return value.get("ar") or value.get("en") or ""
     return value or ""
 
-def run_sama_link(source, index, checked_at):
+def run_sama_link(source, catalogs, checked_at):
     secret_name = source.get("secret_env", "SAMA_LINK_API_KEY")
     key = os.environ.get(secret_name, "").strip()
     if not key:
@@ -258,9 +258,9 @@ def main():
         try:
             adapter = source.get("adapter")
             if adapter == "pricelens":
-                accepted = run_pricelens(source, index, checked_at)
+                accepted = run_pricelens(source, catalogs, checked_at)
             elif adapter == "sama_link":
-                accepted = run_sama_link(source, index, checked_at)
+                accepted = run_sama_link(source, catalogs, checked_at)
             else:
                 raise ValueError("Unsupported or unapproved adapter")
             accepted_total += accepted
