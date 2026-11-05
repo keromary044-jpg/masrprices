@@ -182,6 +182,14 @@
       section.append(element("p", "catalog-footnote", index.purpose));
       modelIndexData = index;
       const brandFilter = document.getElementById("phoneBrandFilter");
+      const knownBrands = new Set(index.brands.map(x=>x.brand));
+      (phoneData?.products||[]).forEach(phone=>{
+        if(phone.brand && !knownBrands.has(phone.brand)){
+          knownBrands.add(phone.brand);
+          const option=element("option","",phone.brand); option.value=phone.brand;
+          if(brandFilter) brandFilter.append(option);
+        }
+      });
       index.brands.forEach(brand => {
         if (brandFilter) { const option=element("option","",brand.brand); option.value=brand.brand; brandFilter.append(option); }
         const group = element("div", "model-brand-group");
