@@ -68,6 +68,8 @@ jobs:
           PRICELENS_API_KEY: ${{ secrets.PRICELENS_API_KEY }}
           SAMA_LINK_API_KEY: ${{ secrets.SAMA_LINK_API_KEY }}
         run: python price-updater/github_actions_updater.py
+      - name: Build complete product price coverage report
+        run: python price-updater/coverage_report.py
       - name: Save changed catalog files
         run: |
           git config user.name "github-actions[bot]"
