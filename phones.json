@@ -13556,6 +13556,198 @@
       "priceEGP": null,
       "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
       "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+    },
+    {
+      "id": "samsunggalaxya07s4gb64gb",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A07s 4GB / 64GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+      "sourceLabel": "مصدر مقارنة أسعار مصر",
+      "priceEGP": 8400,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "4GB RAM / 64GB",
+      "merchant": "Jumia",
+      "priceOffers": [
+        {
+          "merchant": "Jumia",
+          "priceEGP": 8400,
+          "variant": "4GB RAM / 64GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "samsunggalaxya084gb64gb",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A08 4GB / 64GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+      "sourceLabel": "مصدر مقارنة أسعار مصر",
+      "priceEGP": 9399,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "4GB RAM / 64GB",
+      "merchant": "2B",
+      "priceOffers": [
+        {
+          "merchant": "2B",
+          "priceEGP": 9399,
+          "variant": "4GB RAM / 64GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "samsunggalaxya175g6gb128gb",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A17 5G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+      "sourceLabel": "مصدر مقارنة أسعار مصر",
+      "priceEGP": 14320,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "6GB RAM / 128GB",
+      "merchant": "Jumia",
+      "priceOffers": [
+        {
+          "merchant": "Jumia",
+          "priceEGP": 14320,
+          "variant": "6GB RAM / 128GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "samsunggalaxya275g8gb128gb",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A27 5G 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+      "sourceLabel": "مصدر مقارنة أسعار مصر",
+      "priceEGP": 17499,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "8GB RAM / 128GB",
+      "merchant": "Noon",
+      "priceOffers": [
+        {
+          "merchant": "Noon",
+          "priceEGP": 17499,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "samsunggalaxya375g8gb128gb",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A37 5G 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+      "sourceLabel": "مصدر مقارنة أسعار مصر",
+      "priceEGP": 21600,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "8GB RAM / 128GB",
+      "merchant": "Raneen",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 21600,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "samsunggalaxya575g8gb256gb",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A57 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+      "sourceLabel": "مصدر مقارنة أسعار مصر",
+      "priceEGP": 27930,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "8GB RAM / 256GB",
+      "merchant": "Amazon.eg",
+      "priceOffers": [
+        {
+          "merchant": "Amazon.eg",
+          "priceEGP": 27930,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "samsunggalaxys2612gb256gb",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy S26 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+      "sourceLabel": "مصدر مقارنة أسعار مصر",
+      "priceEGP": 48597,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "12GB RAM / 256GB",
+      "merchant": "Noon",
+      "priceOffers": [
+        {
+          "merchant": "Noon",
+          "priceEGP": 48597,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "samsunggalaxys26fe8gb256gb",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy S26 FE 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+      "sourceLabel": "مصدر مقارنة أسعار مصر",
+      "priceEGP": 38499,
+      "priceSource": "Kolasaar – مقارنة متاجر مصر",
+      "priceCheckedAt": "2026-10-23",
+      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "memory": "8GB RAM / 256GB",
+      "merchant": "Raneen",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 38499,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
+          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
+          "checkedAt": "2026-10-23"
+        }
+      ]
     }
   ]
 }
