@@ -13,13 +13,9 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "price-feeds.json"
-ALLOWED_CATALOGS = {
-    "phones.json", "books.json", "construction.json", "cars.json",
-    "appliances.json", "groceries.json", "stationery.json", "clothing.json",
-    "furniture.json", "personal-care.json", "sports.json", "electrical.json",
-    "tools.json", "pets.json", "plants.json", "telecom.json", "travel.json",
-    "stocks.json", "electronics.json", "spare-parts.json", "services.json",
-    "baby-products.json"
+EXCLUDED_PRICE_CATALOGS = {
+    # These need dedicated, separately authorized data integrations.
+    "medicines.json", "stocks.json", "real-estate.json", "market-rates.json",
 }
 MAX_BYTES = 5_000_000
 MAX_PAGES = 10
@@ -55,9 +51,11 @@ def get_json(url, headers=None):
 
 def load_catalogs():
     catalogs = {}
-    for filename in sorted(ALLOWED_CATALOGS):
-        path = ROOT / filename
-        if not path.exists():
+    # Discover every top-level product catalog automatically so new sections
+    # are not silently omitted from authorized feed matching.
+    for path in sorted(ROOT.glob("*.json")):
+        filename = path.name
+        if filename in EXCLUDED_PRICE_CATALOGS or filename in {"price-feeds.json", "price-coverage-report.json", "phone-model-index.json", "seo-products.json"}:
             continue
         try:
             data = json.loads(path.read_text(encoding="utf-8"))
