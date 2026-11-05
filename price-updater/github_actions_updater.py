@@ -138,7 +138,9 @@ def run_pricelens(source, catalogs, checked_at):
     query = urllib.parse.urlencode({"min_discount":1,"basis":"any","max_age_hours":24,"limit":100})
     source_index = build_exact_index({name: catalog for name, catalog in catalogs.items() if name in source.get("coverage", [])})
     payload = get_json(endpoint + "?" + query, {"Authorization":"Bearer " + key})
-    deals = payload.get("deals") if isinstance(payload, dict) else None
+    if not isinstance(payload, dict) or payload.get("currency") != "EGP":
+        raise ValueError("PriceLens response currency is missing or is not EGP")
+    deals = payload.get("deals")
     if not isinstance(deals, list):
         raise ValueError("PriceLens response has no deals array")
     accepted = 0
@@ -146,10 +148,12 @@ def run_pricelens(source, catalogs, checked_at):
         if not isinstance(deal, dict) or deal.get("in_stock") is not True:
             continue
         product = deal.get("product") or {}
+        # Use the provider's actual observation time, not the workflow run time.
+        observed_at = deal.get("last_seen") or checked_at
         accepted += apply_offer(
             source_index, product.get("title_ar") or product.get("title"),
             product.get("brand"), deal.get("price"), deal.get("retailer"),
-            deal.get("link"), checked_at, "PriceLens"
+            deal.get("link"), observed_at, "Prices by PriceLens"
         )
     print(f"OK {source['id']}: matched {accepted} exact product/store offers from {len(deals)} deals")
     return accepted
