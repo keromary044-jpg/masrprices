@@ -41,46 +41,6 @@ jobs:
           node --input-type=module --check < functions/api/real-estate.js
           node --input-type=module --check < functions/api/real-estate-admin.js
           python -c "import json,glob; files=glob.glob('**/*.json',recursive=True); [json.load(open(p,encoding='utf-8')) for p in files]; print(f'Validated {len(files)} JSON files')"
-      - name: Inspect official Ministry crop-price data interface
-        run: |
-          python - <<'PY'
-          import re, urllib.request
-          url = "https://www.agri.gov.eg/databases/83"
-          request = urllib.request.Request(url, headers={"User-Agent":"MasrPrices-SourceResearch/1.0","Accept":"text/html"})
-          try:
-              with urllib.request.urlopen(request, timeout=20) as response:
-                  html = response.read(3_000_000).decode("utf-8", "replace")
-                  print("AGRI_PAGE_STATUS", response.status, "BYTES", len(html))
-              for value in re.findall(r'<script[^>]+src=["\']([^"\']+)', html, re.I):
-                  print("AGRI_SCRIPT", value[:300])
-              for value in re.findall(r'<form[^>]*>', html, re.I):
-                  print("AGRI_FORM", value[:500])
-              for match in re.finditer(r'<select\b[\s\S]*?</select>', html, re.I):
-                  print("AGRI_SELECT", re.sub(r'\s+',' ',match.group(0))[:3500])
-              for needle in ["function sendQuery", "function get_crops", "startDate"]:
-                  position=html.find(needle)
-                  if position >= 0:
-                      print("AGRI_JS", needle, re.sub(r'\s+',' ',html[max(0,position-400):position+5000])[:5400])
-              import time, urllib.parse, html as html_lib
-              end=int(time.time()); start=end-14*86400
-              for group in ["الخضروات","الفاكهة","الاسماك"]:
-                  for label,from_ts,to_ts in [("recent",start,end),("archive",1600473600,1622073600)]:
-                      params=urllib.parse.urlencode({"type_group":group,"item":from_ts,"item2":to_ts,"crop_name":"","draw":"1"})
-                      target="https://www.agri.gov.eg/databases_search/83?"+params
-                      try:
-                          req=urllib.request.Request(target,headers={"User-Agent":"MasrPrices-SourceResearch/1.0","Accept":"text/html"})
-                          with urllib.request.urlopen(req,timeout=20) as response:
-                              body=response.read(2_000_000).decode("utf-8","replace")
-                              tables=re.findall(r'<table\b[\s\S]*?</table>',body,re.I)
-                              print("AGRI_QUERY",group,label,"STATUS",response.status,"BYTES",len(body),"TABLES",len(tables))
-                              for table in tables[-2:]:
-                                  plain=re.sub(r'<[^>]+>',' ',table)
-                                  print("AGRI_TABLE",re.sub(r'\s+',' ',html_lib.unescape(plain))[:3500])
-                      except Exception as error:
-                          print("AGRI_QUERY_FAILED",group,label,type(error).__name__,str(error)[:250])
-          except Exception as error:
-              print("AGRI_PAGE_PROBE_FAILED", type(error).__name__, str(error)[:250])
-          PY
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
