@@ -60,9 +60,9 @@
       const node=card.querySelector(".phone-price,.book-price,.generic-price-available,.property-price,.appliance-price");
       if(!node)return null;
       const digits=String(node.textContent||"").replace(/[٠-٩]/g,d=>String("٠١٢٣٤٥٦٧٨٩".indexOf(d))).replace(/[٬،]/g,",");
-      const match=digits.match(/[0-9][0-9,]*(?:\.[0-9]+)?/);
-      if(!match)return null;
-      const amount=Number(match[0].replace(/,/g,""));
+      const matches=Array.from(digits.matchAll(/[0-9][0-9,]*(?:\.[0-9]+)?/g));
+      if(!matches.length)return null;
+      const amount=Number(matches[matches.length-1][0].replace(/,/g,""));
       return Number.isFinite(amount)&&amount>0?amount:null;
     }
     function applyBudget(){
