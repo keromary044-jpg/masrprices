@@ -13,7 +13,7 @@
       "brand": "AllCall",
       "source": "https://ict-misr.com/47967-2/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
-      "marketStatus": "تصنيع محلي معلن",
+      "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": []
     },
     {
@@ -76,45 +76,17 @@
       ]
     },
     {
-      "brand": "Benco",
-      "source": "https://www.benco.com/",
-      "sourceLabel": "مرجع/متجر مصري",
-      "marketStatus": "توافر الموديلات يحتاج مراجعة المتجر",
-      "models": []
-    },
-    {
-      "brand": "Blackview",
-      "source": "https://www.blackview.hk/",
-      "sourceLabel": "مرجع/متجر مصري",
-      "marketStatus": "توافر الموديلات يحتاج مراجعة المتجر",
-      "models": []
-    },
-    {
       "brand": "Celphy",
       "source": "https://ict-misr.com/47967-2/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
-      "marketStatus": "تصنيع محلي معلن",
-      "models": []
-    },
-    {
-      "brand": "Doogee",
-      "source": "https://www.doogee.com/",
-      "sourceLabel": "مرجع/متجر مصري",
-      "marketStatus": "توافر الموديلات يحتاج مراجعة المتجر",
+      "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": []
     },
     {
       "brand": "G-Tide",
       "source": "https://www.g-tide.com/",
       "sourceLabel": "مرجع/متجر مصري",
-      "marketStatus": "علامة ضمن قائمة التصنيع المحلي",
-      "models": []
-    },
-    {
-      "brand": "Generic",
-      "source": "https://www.jumia.com.eg/ar/smartphones/",
-      "sourceLabel": "مرجع/متجر مصري",
-      "marketStatus": "تصنيف عام في قوائم المتاجر وليس شركة محددة",
+      "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": []
     },
     {
@@ -144,7 +116,7 @@
       "brand": "HMD",
       "source": "https://ict-misr.com/47967-2/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
-      "marketStatus": "تصنيع محلي معلن",
+      "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": []
     },
     {
@@ -270,7 +242,7 @@
       "brand": "IPRO",
       "source": "https://www.ipro.com/",
       "sourceLabel": "مرجع/متجر مصري",
-      "marketStatus": "علامة ضمن قائمة التصنيع المحلي",
+      "marketStatus": "توافر العلامة في سوق الهواتف المصري يحتاج تحققًا",
       "models": []
     },
     {
@@ -308,17 +280,10 @@
       "models": []
     },
     {
-      "brand": "Meizu",
-      "source": "https://www.meizu.com/",
-      "sourceLabel": "مرجع/متجر مصري",
-      "marketStatus": "توافر الموديلات يحتاج مراجعة المتجر",
-      "models": []
-    },
-    {
       "brand": "Micromax",
       "source": "https://ict-misr.com/47967-2/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
-      "marketStatus": "تصنيع محلي معلن",
+      "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": []
     },
     {
@@ -658,7 +623,7 @@
       "brand": "SICO Technology",
       "source": "https://ict-misr.com/47967-2/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
-      "marketStatus": "تصنيع محلي معلن",
+      "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": []
     },
     {
@@ -672,14 +637,14 @@
       "brand": "Sunelan",
       "source": "https://ict-misr.com/47967-2/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
-      "marketStatus": "تصنيع محلي معلن",
+      "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": []
     },
     {
       "brand": "Symphony",
       "source": "https://ict-misr.com/47967-2/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
-      "marketStatus": "تصنيع محلي معلن",
+      "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
       "models": []
     },
     {
@@ -687,13 +652,6 @@
       "source": "https://www.jumia.com.eg/ar/smartphones/",
       "sourceLabel": "مرجع/متجر مصري",
       "marketStatus": "علامة ظاهرة في قوائم الهواتف على جوميا",
-      "models": []
-    },
-    {
-      "brand": "TCL",
-      "source": "https://www.tcl.com/",
-      "sourceLabel": "مرجع/متجر مصري",
-      "marketStatus": "توافر الموديلات يحتاج مراجعة المتجر",
       "models": []
     },
     {
