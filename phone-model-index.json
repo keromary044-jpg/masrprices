@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-11-02",
-  "purpose": "فهرس موديلات معلنة على صفحات الشركات الرسمية. وجود الموديل هنا لا يعني توافره أو بيعه حاليًا في مصر.",
+  "purpose": "فهرس الشركات والموديلات. بعض العلامات مدرجة كعلامات مذكورة في السوق المصري دون قائمة موديلات مؤكدة؛ وجود اسم موديل لا يثبت توافره حاليًا.",
   "availabilityPolicy": "لا يُعرض سعر أو مواصفة تفصيلية قبل مطابقة النسخة المصرية ومراجعة مصدرها.",
   "brands": [
     {
@@ -118,6 +118,66 @@
         "realme C75",
         "realme Note 60x"
       ]
+    },
+    {
+      "brand": "AllCall",
+      "source": "https://www.shorouknews.com/news/view.aspx?cdate=21012026&id=64269a57-5d4d-4461-ad7f-2c3c61a1f27c",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "Symphony",
+      "source": "https://www.shorouknews.com/news/view.aspx?cdate=21012026&id=64269a57-5d4d-4461-ad7f-2c3c61a1f27c",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "HMD",
+      "source": "https://www.hmd.com/",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "SICO Technology",
+      "source": "https://www.shorouknews.com/news/view.aspx?cdate=21012026&id=64269a57-5d4d-4461-ad7f-2c3c61a1f27c",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "Celphy",
+      "source": "https://www.shorouknews.com/news/view.aspx?cdate=21012026&id=64269a57-5d4d-4461-ad7f-2c3c61a1f27c",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "Micromax",
+      "source": "https://www.shorouknews.com/news/view.aspx?cdate=21012026&id=64269a57-5d4d-4461-ad7f-2c3c61a1f27c",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "G-Tide",
+      "source": "https://www.ict-misr.com/47967-2/",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "Sunelan",
+      "source": "https://www.ict-misr.com/47967-2/",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "Benco",
+      "source": "https://www.ict-misr.com/47967-2/",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
+    },
+    {
+      "brand": "IPRO",
+      "source": "https://www.ict-misr.com/47967-2/",
+      "sourceLabel": "مرجع يذكر العلامة ضمن السوق/التصنيع المحلي",
+      "models": []
     }
   ]
 }
