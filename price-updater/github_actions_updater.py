@@ -135,27 +135,39 @@ def run_pricelens(source, catalogs, checked_at):
     endpoint = source.get("endpoint")
     if not valid_https(endpoint):
         raise ValueError("Invalid PriceLens endpoint")
-    query = urllib.parse.urlencode({"min_discount":1,"basis":"any","max_age_hours":24,"limit":100})
     source_index = build_exact_index({name: catalog for name, catalog in catalogs.items() if name in source.get("coverage", [])})
-    payload = get_json(endpoint + "?" + query, {"Authorization":"Bearer " + key})
-    if not isinstance(payload, dict) or payload.get("currency") != "EGP":
-        raise ValueError("PriceLens response currency is missing or is not EGP")
-    deals = payload.get("deals")
-    if not isinstance(deals, list):
-        raise ValueError("PriceLens response has no deals array")
     accepted = 0
-    for deal in deals:
-        if not isinstance(deal, dict) or deal.get("in_stock") is not True:
-            continue
-        product = deal.get("product") or {}
-        # Use the provider's actual observation time, not the workflow run time.
-        observed_at = deal.get("last_seen") or checked_at
-        accepted += apply_offer(
-            source_index, product.get("title_ar") or product.get("title"),
-            product.get("brand"), deal.get("price"), deal.get("retailer"),
-            deal.get("link"), observed_at, "Prices by PriceLens"
-        )
-    print(f"OK {source['id']}: matched {accepted} exact product/store offers from {len(deals)} deals")
+    scanned = 0
+    page_limit = 100
+    # The API supports offset pagination. Keep a conservative per-run cap so
+    # the updater respects plan-specific daily request limits.
+    for page_number in range(3):
+        query = urllib.parse.urlencode({
+            "min_discount": 1, "basis": "any", "max_age_hours": 24,
+            "limit": page_limit, "offset": page_number * page_limit
+        })
+        payload = get_json(endpoint + "?" + query, {"Authorization":"Bearer " + key})
+        if not isinstance(payload, dict) or payload.get("currency") != "EGP":
+            raise ValueError("PriceLens response currency is missing or is not EGP")
+        deals = payload.get("deals")
+        if not isinstance(deals, list):
+            raise ValueError("PriceLens response has no deals array")
+        scanned += len(deals)
+        for deal in deals:
+            if not isinstance(deal, dict) or deal.get("in_stock") is not True:
+                continue
+            product = deal.get("product") or {}
+            # Use the provider's actual observation time, not the workflow run time.
+            observed_at = deal.get("last_seen") or checked_at
+            accepted += apply_offer(
+                source_index, product.get("title_ar") or product.get("title"),
+                product.get("brand"), deal.get("price"), deal.get("retailer"),
+                deal.get("link"), observed_at, "Prices by PriceLens"
+            )
+        total = payload.get("total")
+        if len(deals) < page_limit or (isinstance(total, int) and scanned >= total):
+            break
+    print(f"OK {source['id']}: matched {accepted} exact product/store offers from {scanned} deals")
     return accepted
 
 def bilingual(value):
