@@ -1,7 +1,7 @@
 import os
 import unittest
 from unittest.mock import patch
-from github_actions_updater import normalize, apply_offer, run_pricelens
+from github_actions_updater import normalize, apply_offer, run_pricelens, expire_stale_offers
 
 class PriceUpdaterTests(unittest.TestCase):
     def setUp(self):
@@ -76,6 +76,46 @@ class PriceUpdaterTests(unittest.TestCase):
         self.assertEqual(len(product["priceOffers"]), 1)
         self.assertEqual(product["priceOffers"][0]["checkedAt"], "2026-11-05T10:00:00Z")
         self.assertIn("offset=100", mocked_get.call_args_list[1].args[0])
+
+    def test_expired_provider_offer_is_removed_and_provider_price_cleared(self):
+        from datetime import datetime, timezone
+        product = {
+            "name":"سامسونج جالاكسي A56", "brand":"Samsung",
+            "priceEGP":1234, "priceProvider":"Prices by PriceLens",
+            "priceOffers":[{
+                "merchant":"Store", "priceEGP":1234,
+                "source":"https://store.example/item",
+                "sourceLabel":"Prices by PriceLens",
+                "checkedAt":"2026-10-01T10:00:00Z"
+            }]
+        }
+        catalogs = {"phones.json":{"products":[product]}}
+        expired, cleaned = expire_stale_offers(
+            catalogs, now=datetime(2026,11,5,tzinfo=timezone.utc)
+        )
+        self.assertEqual((expired, cleaned), (1, 1))
+        self.assertEqual(product["priceOffers"], [])
+        self.assertNotIn("priceEGP", product)
+        self.assertIn("غير متاح", product["priceStatus"])
+
+    def test_recent_provider_offer_is_preserved(self):
+        from datetime import datetime, timezone
+        product = {
+            "name":"سامسونج جالاكسي A56", "brand":"Samsung",
+            "priceEGP":1234, "priceProvider":"Prices by PriceLens",
+            "priceOffers":[{
+                "merchant":"Store", "priceEGP":1234,
+                "source":"https://store.example/item",
+                "sourceLabel":"Prices by PriceLens",
+                "checkedAt":"2026-11-04T10:00:00Z"
+            }]
+        }
+        catalogs = {"phones.json":{"products":[product]}}
+        expired, cleaned = expire_stale_offers(
+            catalogs, now=datetime(2026,11,5,tzinfo=timezone.utc)
+        )
+        self.assertEqual((expired, cleaned), (0, 0))
+        self.assertEqual(product["priceEGP"], 1234)
 
     def test_ambiguous_match_is_rejected(self):
         self.index[(normalize(self.product["name"]), normalize(self.product["brand"]))].append(("electronics.json", {"name":self.product["name"],"brand":"Samsung"}))
