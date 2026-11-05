@@ -55,13 +55,12 @@ jobs:
                   print("AGRI_SCRIPT", value[:300])
               for value in re.findall(r'<form[^>]*>', html, re.I):
                   print("AGRI_FORM", value[:500])
-              for match in re.finditer(r'ajax|databases|price|crop|group|item|filter', html, re.I):
-                  start=max(0,match.start()-180); end=min(len(html),match.end()+260)
-                  snippet=re.sub(r'\s+',' ',html[start:end])
-                  if snippet not in globals().get("seen", set()):
-                      print("AGRI_HINT", snippet[:500])
-                      globals().setdefault("seen",set()).add(snippet)
-                  if len(globals().get("seen",set()))>=35: break
+              for needle in ["function sendQuery", "function get_crops", "startDate", "function getData"]:
+                  position=html.find(needle)
+                  if position >= 0:
+                      print("AGRI_JS", needle, re.sub(r'\s+',' ',html[max(0,position-400):position+5000])[:5400])
+              for match in re.finditer(r'<select[^>]+name=["\']type_group["\'][\s\S]*?</select>', html, re.I):
+                  print("AGRI_GROUPS", re.sub(r'\s+',' ',match.group(0))[:5000])
           except Exception as error:
               print("AGRI_PAGE_PROBE_FAILED", type(error).__name__, str(error)[:250])
           PY
