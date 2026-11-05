@@ -1007,6 +1007,95 @@
 
   const genericCatalogs={fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},stocks:{file:"stocks.json",id:"stocksCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
   const genericData={};
+  let egidMarketData=null,egidMarketFetchedAt=0,egidMarketLoading=null;
+  function egidMarketArray(payload){
+    const queue=[payload],seen=new Set();
+    while(queue.length){
+      const value=queue.shift();
+      if(!value||typeof value!=="object"||seen.has(value))continue;
+      seen.add(value);
+      if(Array.isArray(value)&&value.some(x=>x&&typeof x==="object"))return value;
+      if(Array.isArray(value)){value.forEach(x=>{if(x&&typeof x==="object")queue.push(x);});continue;}
+      Object.values(value).forEach(x=>{if(x&&typeof x==="object")queue.push(x);});
+    }
+    return [];
+  }
+  function egidValue(row,names){
+    const keys=Object.keys(row||{}),wanted=names.map(x=>x.toLowerCase().replace(/[^a-z0-9]/g,""));
+    const key=keys.find(k=>wanted.includes(k.toLowerCase().replace(/[^a-z0-9]/g,"")));
+    return key?row[key]:null;
+  }
+  function egidNumber(value){
+    if(value===null||value===undefined||value==="")return null;
+    const n=Number(String(value).replace(/,/g,"").replace(/%/g,"").trim());
+    return Number.isFinite(n)?n:null;
+  }
+  function renderEGIDMarketPanel(root){
+    let panel=root.querySelector("#egidMarketPanel");
+    if(!panel){panel=element("section","egid-market-panel");panel.id="egidMarketPanel";root.prepend(panel);}
+    panel.replaceChildren();
+    const heading=element("div","egid-market-heading");
+    const title=element("h3","","أسعار الأسهم من واجهة EGID");
+    const refresh=element("button","egid-market-refresh","تحديث الآن");refresh.type="button";
+    refresh.addEventListener("click",()=>loadEGIDStocks(true));
+    heading.append(title,refresh);panel.append(heading);
+    if(!egidMarketData){
+      panel.append(element("p","catalog-footnote","جارٍ الاتصال بمصدر بيانات البورصة EGID..."));
+      return;
+    }
+    const mode=egidMarketData.mode==="live"?"بيانات مباشرة حسب صلاحية الحساب":"بيانات متأخرة من EGID";
+    panel.append(element("small","egid-market-status",mode+" · آخر استجابة من المصدر: "+new Date(egidMarketData.receivedAt||egidMarketFetchedAt).toLocaleString("ar-EG")));
+    const rows=egidMarketArray(egidMarketData.data).map(row=>{
+      const symbol=egidValue(row,["symbol","symbolCode","ticker","code","securityCode","shortName"]);
+      const name=egidValue(row,["symbolName","name","companyName","securityName","arabicName","nameAr"]);
+      const price=egidNumber(egidValue(row,["lastPrice","last","lastTradePrice","tradePrice","closePrice","closingPrice","price","currentPrice"]));
+      const change=egidNumber(egidValue(row,["change","netChange","priceChange","changeValue"]));
+      const pct=egidNumber(egidValue(row,["changePercent","percentChange","changePct","percentageChange"]));
+      const volume=egidNumber(egidValue(row,["volume","tradedVolume","totalVolume","quantity"]));
+      return {symbol:String(symbol||""),name:String(name||symbol||""),price,change,pct,volume};
+    }).filter(x=>x.symbol||x.name).slice(0,250);
+    if(!rows.length){
+      panel.append(element("p","catalog-footnote","وصل رد من EGID لكن لم يتضمن حقولًا تعرف عليها عارض الأسهم. لن نعرض أرقامًا غير مفهومة."));
+      return;
+    }
+    const table=element("div","egid-market-table");
+    const header=element("div","egid-market-row egid-market-row-head");
+    ["الشركة / الرمز","آخر سعر (جنيه)","التغير","نسبة التغير"].forEach(label=>header.append(element("strong","",label)));
+    table.append(header);
+    rows.forEach(row=>{
+      const line=element("div","egid-market-row");
+      line.append(element("span","egid-market-name",(row.name||"")+" "+(row.symbol?"("+row.symbol+")":"")));
+      line.append(element("strong","",row.price===null?"غير متاح":row.price.toLocaleString("en-US",{maximumFractionDigits:4})));
+      line.append(element("span","",row.change===null?"—":row.change.toLocaleString("en-US",{maximumFractionDigits:4})));
+      line.append(element("span","",row.pct===null?"—":row.pct.toFixed(2)+"%"));
+      table.append(line);
+    });
+    panel.append(table);
+    panel.append(element("small","catalog-footnote","المصدر: EGID التابعة للبورصة المصرية. البيانات للعرض المعلوماتي فقط، وقد تكون متأخرة حسب الترخيص. لا تمثل توصية استثمارية."));
+  }
+  async function loadEGIDStocks(force=false){
+    if(egidMarketLoading)return egidMarketLoading;
+    if(!force&&egidMarketData&&Date.now()-egidMarketFetchedAt<10000)return;
+    const panel=document.getElementById("egidMarketPanel");
+    if(panel&&!egidMarketData)panel.replaceChildren(element("p","catalog-footnote","جارٍ تحميل بيانات EGID..."));
+    egidMarketLoading=(async()=>{
+      try{
+        const response=await fetch("/api/stocks",{cache:"no-store"});
+        const result=await response.json();
+        if(!response.ok){
+          egidMarketData=null;
+          if(panel){panel.replaceChildren(element("h3","","أسعار الأسهم من واجهة EGID"),element("p","catalog-footnote",result.error||"بيانات EGID غير مفعلة على الخادم بعد."));}
+          return;
+        }
+        egidMarketData=result;egidMarketFetchedAt=Date.now();
+        const current=document.getElementById("egidMarketPanel");
+        if(current)renderEGIDMarketPanel(current.parentElement);
+      }catch(error){
+        if(panel)panel.replaceChildren(element("h3","","أسعار الأسهم من واجهة EGID"),element("p","catalog-footnote","تعذر الاتصال بمصدر EGID الآن. حاول التحديث مرة أخرى."));
+      }finally{egidMarketLoading=null;}
+    })();
+    return egidMarketLoading;
+  }
   function renderGenericCatalog(key){
     const cfg=genericCatalogs[key],data=genericData[key];if(!data)return;
     const root=document.getElementById(cfg.id+"Products");if(!root)return;
@@ -1016,7 +1105,7 @@
     const animals=(key==="pets"&&Array.isArray(data.animals)?data.animals:[]);
     const entries=[...products,...animals];
     const rows=entries.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category].join(" ")).includes(q)));
-    rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();
+    rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));root.replaceChildren();if(key==="stocks")renderEGIDMarketPanel(root);
     rows.forEach(x=>{
       const card=element("article","book-card");
       card.append(element("span","book-category",[x.brand,x.category].filter(Boolean).join(" · ")));
@@ -1042,7 +1131,7 @@
   }
   async function loadGenericCatalog(key){
     const cfg=genericCatalogs[key],root=document.getElementById(cfg.id+"Products");if(!root)return;
-    if(genericData[key])return renderGenericCatalog(key);
+    if(genericData[key]){renderGenericCatalog(key);if(key==="stocks")loadEGIDStocks();return;}
     try{
       const r=await fetch("./"+cfg.file,{cache:"no-cache"});if(!r.ok)throw new Error("HTTP "+r.status);
       const parsed=await r.json();genericData[key]=parsed;
@@ -1051,6 +1140,7 @@
       const sel=document.getElementById(cfg.id+"Category");
       if(sel){[...new Set([...products,...animals].map(x=>x.category).filter(Boolean))].sort().forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});}
       renderGenericCatalog(key);
+      if(key==="stocks")loadEGIDStocks();
     }catch(e){root.textContent="تعذر تحميل بيانات القسم حاليًا. حاول تحديث الصفحة لاحقًا.";}
   }
   Object.entries(genericCatalogs).forEach(([key,cfg])=>[cfg.id+"Search",cfg.id+"Category",cfg.id+"Sort"].forEach(id=>{const control=document.getElementById(id);if(control)control.addEventListener(id.endsWith("Search")?"input":"change",()=>renderGenericCatalog(key));}));
