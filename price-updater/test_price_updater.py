@@ -2,6 +2,7 @@ import os
 import unittest
 from unittest.mock import patch
 from github_actions_updater import normalize, apply_offer, run_pricelens, expire_stale_offers
+from coverage_report import freshness_status
 
 class PriceUpdaterTests(unittest.TestCase):
     def setUp(self):
@@ -76,6 +77,49 @@ class PriceUpdaterTests(unittest.TestCase):
         self.assertEqual(len(product["priceOffers"]), 1)
         self.assertEqual(product["priceOffers"][0]["checkedAt"], "2026-11-05T10:00:00Z")
         self.assertIn("offset=100", mocked_get.call_args_list[1].args[0])
+
+    @patch.dict(os.environ, {"PRICELENS_API_KEY": "test-key"})
+    @patch("github_actions_updater.get_json")
+    def test_pricelens_pagination_is_bounded_by_provider_config_and_global_cap(self, mocked_get):
+        mocked_get.side_effect = [
+            {"currency":"EGP","total":10000,"deals":[{"in_stock":False} for _ in range(100)]}
+            for _ in range(10)
+        ]
+        source = {
+            "id":"pricelens-cap-test",
+            "endpoint":"https://pricelens.store/api/v1/partner/deals",
+            "coverage":["phones.json"],
+            "max_pages":25
+        }
+        accepted = run_pricelens(source, {"phones.json":{"products":[]}}, "fallback")
+        self.assertEqual(accepted, 0)
+        self.assertEqual(mocked_get.call_count, 10)
+        self.assertIn("offset=900", mocked_get.call_args_list[-1].args[0])
+
+    def test_freshness_status_uses_the_lowest_offer_timestamp(self):
+        from datetime import datetime, timezone
+        product = {"priceOffers":[
+            {"priceEGP":1200,"checkedAt":"2026-11-04T10:00:00Z"},
+            {"priceEGP":1100,"checkedAt":"2026-10-01T10:00:00Z"}
+        ]}
+        self.assertEqual(
+            freshness_status(product, now=datetime(2026,11,5,tzinfo=timezone.utc)),
+            "stale"
+        )
+
+    def test_freshness_status_is_fresh_for_recent_lowest_offer(self):
+        from datetime import datetime, timezone
+        product = {"priceOffers":[
+            {"priceEGP":1100,"checkedAt":"2026-11-04T10:00:00Z"}
+        ]}
+        self.assertEqual(
+            freshness_status(product, now=datetime(2026,11,5,tzinfo=timezone.utc)),
+            "fresh"
+        )
+
+    def test_freshness_status_marks_missing_timestamp_unknown(self):
+        product = {"priceEGP":1200}
+        self.assertEqual(freshness_status(product), "unknown")
 
     def test_expired_provider_offer_is_removed_and_provider_price_cleared(self):
         from datetime import datetime, timezone
