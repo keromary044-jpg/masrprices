@@ -1,5 +1,5 @@
 {
-  "purpose": "اختار الشركة أولًا، وبعدها تظهر موديلاتها المسجلة في الكتالوج. التصنيع المحلي مميز عن الشركات التي تتوفر منتجاتها عبر متاجر مصرية أو التي تحتاج مراجعة توافر الموديل. ظهور الشركة لا يعني أن كل موديل متاح حاليًا.",
+  "purpose": "اختار الشركة أولًا، وبعدها تظهر موديلاتها المسجلة. التصنيع المحلي مميز عن العلامات المتاحة عبر متاجر مصرية، والموديلات ذات الاعتماد السابق لا يعني اعتمادها توافرها التجاري الحالي.",
   "updatedAt": "2026-11-05",
   "brands": [
     {
@@ -11,10 +11,16 @@
     },
     {
       "brand": "AllCall",
-      "source": "https://ict-misr.com/47967-2/",
+      "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
       "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
-      "models": []
+      "models": [
+        "AllCall Hero 60 MAX",
+        "AllCall Hero 60 Plus",
+        "AllCall Hero 60C",
+        "AllCall Magic 60 MAX",
+        "AllCall Magic 60C"
+      ]
     },
     {
       "brand": "Apple",
@@ -77,10 +83,21 @@
     },
     {
       "brand": "Celphy",
-      "source": "https://ict-misr.com/47967-2/",
+      "source": "https://www.tra.gov.eg/wp-content/uploads/2022/04/Type-Approved-List-April-2022-new-%D9%90.pdf",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
       "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
-      "models": []
+      "models": [
+        "Celphy B1",
+        "Celphy B2",
+        "Celphy BM50",
+        "Celphy C1",
+        "Celphy C2",
+        "Celphy C3",
+        "Celphy F1",
+        "Celphy F9",
+        "Celphy R2",
+        "Celphy R8"
+      ]
     },
     {
       "brand": "G-Tide",
@@ -114,10 +131,18 @@
     },
     {
       "brand": "HMD",
-      "source": "https://ict-misr.com/47967-2/",
+      "source": "https://www.hmd.com/ar_eg/all-phones",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
       "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
-      "models": []
+      "models": [
+        "HMD HMD 102",
+        "HMD HMD Arc",
+        "HMD HMD Aura²",
+        "HMD HMD Crest Max 5G",
+        "HMD HMD Fusion",
+        "HMD HMD Pulse Pro",
+        "HMD HMD Skyline"
+      ]
     },
     {
       "brand": "HONOR",
@@ -548,6 +573,20 @@
       ]
     },
     {
+      "brand": "Reekoo",
+      "source": "https://reekoo-mobile.com/ar/about-us/",
+      "sourceLabel": "صفحة الشركة / مرجع رسمي",
+      "marketStatus": "علامة هواتف تابعة لمجموعة تعمل في مصر",
+      "models": [
+        "Reekoo Hero 70",
+        "Reekoo Hero 70 MAX",
+        "Reekoo Note 60",
+        "Reekoo Note 60 MAX",
+        "Reekoo Note 70",
+        "Reekoo Note 70 MAX"
+      ]
+    },
+    {
       "brand": "Samsung",
       "source": "https://ict-misr.com/47967-2/",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
@@ -642,10 +681,21 @@
     },
     {
       "brand": "Symphony",
-      "source": "https://ict-misr.com/47967-2/",
+      "source": "https://symphony-mobile.com/category/smart-phone",
       "sourceLabel": "من قائمة العلامات التي تصنع محليًا",
       "marketStatus": "علامة مذكورة ضمن قوائم التصنيع المحلي المنشورة",
-      "models": []
+      "models": [
+        "Symphony Innova 40",
+        "Symphony Max 60",
+        "Symphony Max 70",
+        "Symphony Symphony Z70",
+        "Symphony Z42",
+        "Symphony Z42 Pro",
+        "Symphony Z47",
+        "Symphony Z60",
+        "Symphony Z60 Plus",
+        "Symphony Z72"
+      ]
     },
     {
       "brand": "TAG-PHONE",
