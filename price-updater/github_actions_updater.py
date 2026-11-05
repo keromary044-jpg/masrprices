@@ -79,8 +79,8 @@ def build_exact_index(catalogs):
                 index.setdefault((name, brand), []).append((filename, product))
     return index
 
-def apply_offer(index, name, brand, price, store, link, checked_at, source_label):
-    if not name or not brand or not valid_https(link):
+def apply_offer(index, name, brand, price, store, link, checked_at, source_label, variant=""):
+    if not name or not brand or not store or not valid_https(link):
         return False
     try:
         price = float(price)
@@ -91,22 +91,38 @@ def apply_offer(index, name, brand, price, store, link, checked_at, source_label
     matches = index.get((normalize(name), normalize(brand)), [])
     if len(matches) != 1:
         return False
+
     filename, product = matches[0]
+    offer = {
+        "merchant": str(store).strip()[:120],
+        "priceEGP": round(price, 2),
+        "source": link,
+        "sourceLabel": source_label,
+        "checkedAt": checked_at,
+        "variant": str(variant or "").strip()[:160]
+    }
+    offers = product.get("priceOffers")
+    if not isinstance(offers, list):
+        offers = []
+    # Keep offers from other stores/providers; replace only the same exact listing URL.
+    offers = [old for old in offers if not (
+        isinstance(old, dict) and old.get("source") == link
+    )]
+    offers.append(offer)
+    offers.sort(key=lambda row: float(row.get("priceEGP") or float("inf")))
+    product["priceOffers"] = offers
+
+    best = offers[0]
     if filename == "phones.json" or "priceEGP" in product:
-        product["priceEGP"] = round(price, 2)
-        product["priceSource"] = source_label
-        product["priceCheckedAt"] = checked_at
-        product["priceStatus"] = "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء"
-        product["priceOffers"] = [{
-            "merchant": store, "priceEGP": round(price, 2),
-            "source": link, "sourceLabel": source_label, "checkedAt": checked_at
-        }]
+        product["priceEGP"] = best["priceEGP"]
+        product["priceSource"] = best.get("sourceLabel") or "مصدر سعر موثق"
+        product["priceCheckedAt"] = best.get("checkedAt") or checked_at
     else:
-        product["price"] = round(price, 2)
-        product["merchant"] = store
-        product["source"] = link
-        product["checkedAt"] = checked_at
-        product["priceStatus"] = "سعر مرصود من واجهة المصدر؛ تحقق من التوفر عند الشراء"
+        product["price"] = best["priceEGP"]
+        product["merchant"] = best.get("merchant") or store
+        product["source"] = best.get("source") or link
+        product["checkedAt"] = best.get("checkedAt") or checked_at
+    product["priceStatus"] = "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء"
     return True
 
 def run_pricelens(source, index, checked_at):
@@ -150,42 +166,67 @@ def run_sama_link(source, index, checked_at):
     endpoint = source.get("endpoint")
     if not valid_https(endpoint):
         raise ValueError("Invalid Sama Link endpoint")
+
+    headers = {"Authorization": "Bearer " + key}
     cursor = None
     accepted = 0
     pages = 0
-    while pages < MAX_PAGES:
-        params = {"limit":"100"}
+    details_read = 0
+    max_details = 180
+    while pages < MAX_PAGES and details_read < max_details:
+        params = {"limit": "100"}
         if cursor:
             params["cursor"] = cursor
-        url = endpoint + "?" + urllib.parse.urlencode(params)
-        payload = get_json(url, {"Authorization":"Bearer " + key})
+        payload = get_json(endpoint.rstrip("/") + "?" + urllib.parse.urlencode(params), headers)
         rows = payload.get("data") if isinstance(payload, dict) else None
         if not isinstance(rows, list):
             raise ValueError("Sama Link response has no data array")
-        for item in rows:
+
+        for listed in rows:
+            if details_read >= max_details:
+                break
+            if not isinstance(listed, dict):
+                continue
+            product_id = listed.get("id") or listed.get("handle")
+            if not product_id:
+                continue
+
+            # The supported API returns live variant pricing on the individual product record.
+            detail_url = endpoint.rstrip("/") + "/" + urllib.parse.quote(str(product_id), safe="")
+            detail_payload = get_json(detail_url, headers)
+            details_read += 1
+            item = detail_payload.get("data") if isinstance(detail_payload, dict) else None
             if not isinstance(item, dict):
                 continue
-            title = bilingual(item.get("title") or item.get("name"))
-            brand = bilingual(item.get("brand"))
-            variants = item.get("variants") or []
-            for variant in variants:
+
+            title = bilingual(item.get("title") or item.get("name") or listed.get("title") or listed.get("name"))
+            brand = bilingual(item.get("brand") or listed.get("brand"))
+            product_url = bilingual(item.get("url"))
+            if not valid_https(product_url):
+                continue
+
+            for variant in item.get("variants") or []:
                 if not isinstance(variant, dict):
                     continue
                 availability = variant.get("availability") or {}
                 if availability.get("purchasable_online") is not True:
                     continue
                 price_obj = variant.get("price") or {}
-                price = price_obj.get("amount")
-                product_url = bilingual(item.get("url"))
-                if not valid_https(product_url):
+                if price_obj.get("currency_code") != "EGP":
                     continue
-                accepted += apply_offer(index, title, brand, price, "Sama Link", product_url, checked_at, "Sama Link API")
+                sku = variant.get("sku") or variant.get("id") or ""
+                accepted += apply_offer(
+                    index, title, brand, price_obj.get("amount"),
+                    "Sama Link", product_url, checked_at,
+                    "Sama Link API", str(sku)
+                )
+
         page = payload.get("page") or {}
         cursor = page.get("next_cursor") if page.get("has_more") else None
         pages += 1
         if not cursor:
             break
-    print(f"OK {source['id']}: matched {accepted} exact product/store offers across {pages} pages")
+    print(f"OK {source['id']}: matched {accepted} purchasable EGP offers from {details_read} product details across {pages} pages")
     return accepted
 
 def main():
