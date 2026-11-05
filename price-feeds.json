@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "currency": "EGP",
   "matching_policy": "Exact normalized product name AND brand only; ambiguous or partial matches are rejected.",
   "update_schedule": "03:00 UTC daily (05:00 Africa/Cairo during Egypt winter time); also runs on relevant pushes and manual dispatch.",
@@ -38,6 +38,24 @@
         "tools.json"
       ],
       "activation_note": "Sama Link issues the integration key after contact; API is server-to-server. Use only products that match an existing catalog entry by exact normalized name and brand."
+    },
+    {
+      "id": "egid-egx-market-data",
+      "name": "EGID official EGX market data API",
+      "adapter": "egid_worker_proxy",
+      "active": false,
+      "status": "requires_egid_issued_credentials_and_written_data_display_permission",
+      "secret_env": "EGID_API_TOKEN",
+      "mode_env": "EGID_FEED_MODE",
+      "default_mode": "delayed",
+      "delayed_endpoint": "https://ticker.egidegypt.com/api/DelayedFeed/getAllMarketWatch",
+      "live_endpoint": "https://ticker.egidegypt.com/api/Feed/GetAllMarketWatch",
+      "refresh_policy": "Cloudflare Worker proxy with short edge cache; browser requests on stock section load and manual refresh. Enable faster polling only within EGID rate limits and the granted license.",
+      "coverage": [
+        "stocks.json"
+      ],
+      "attribution": "Display EGID as source; preserve the market-data timestamp and the granted delay designation.",
+      "activation_note": "Obtain API access credentials and written permission for public/commercial display from EGID. Store the issued bearer token as the Cloudflare Worker secret EGID_API_TOKEN. Keep delayed mode until EGID explicitly authorizes live redistribution; set EGID_FEED_MODE=live only after that approval."
     }
   ],
   "reference_sources": [
@@ -53,13 +71,14 @@
     },
     {
       "id": "egx-market-data",
-      "name": "Egyptian Exchange",
-      "url": "https://www.egx.com.eg",
+      "name": "EGID (EGX Information Dissemination)",
+      "url": "https://egidegypt.com",
       "coverage": [
         "stocks.json"
       ],
-      "mode": "official_reference_only",
-      "reason": "Market data access and redistribution rights require confirmation; no open licensed feed was verified."
+      "mode": "official_api_pending_credentials_and_redistribution_permission",
+      "reason": "Official Swagger documents live Feed and DelayedFeed endpoints. Public display requires EGID-issued API credentials and confirmation of redistribution rights.",
+      "api_documentation": "https://ticker.egidegypt.com/index.html"
     },
     {
       "id": "eda-drug-database",
@@ -105,5 +124,12 @@
       "reason": "Provider states the free feed is for information only and its commercial license is not yet available."
     }
   ],
-  "excluded_categories_note": "Do not activate sources for medicines or other restricted products through this generic updater. Use official public registration information only; no unverified price claims."
+  "excluded_categories_note": "Do not activate sources for medicines or other restricted products through this generic updater. Use official public registration information only; no unverified price claims.",
+  "egid_runtime": {
+    "endpoint": "/api/stocks",
+    "provider": "EGID",
+    "authentication": "Bearer token held only in Cloudflare Worker secret",
+    "default_mode": "delayed",
+    "live_mode_requires_written_permission": true
+  }
 }
