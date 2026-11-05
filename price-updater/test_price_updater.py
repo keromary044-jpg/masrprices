@@ -1,5 +1,7 @@
+import os
 import unittest
-from github_actions_updater import normalize, apply_offer
+from unittest.mock import patch
+from github_actions_updater import normalize, apply_offer, run_pricelens
 
 class PriceUpdaterTests(unittest.TestCase):
     def setUp(self):
@@ -41,6 +43,39 @@ class PriceUpdaterTests(unittest.TestCase):
 
     def test_non_https_link_is_rejected(self):
         self.assertFalse(apply_offer(self.index, "سامسونج جالاكسي A56", "Samsung", 1234, "Store", "http://store.example/item", "now", "Test"))
+
+
+    @patch.dict(os.environ, {"PRICELENS_API_KEY": "test-key"})
+    @patch("github_actions_updater.get_json")
+    def test_pricelens_reads_multiple_pages_and_accepts_only_in_stock_exact_matches(self, mocked_get):
+        product = {"id":"p2","name":"سامسونج جالاكسي A56","brand":"Samsung"}
+        catalogs = {"phones.json":{"products":[product]}}
+        first_page = {
+            "currency":"EGP", "total":101,
+            "deals":[{"in_stock":False} for _ in range(100)]
+        }
+        second_page = {
+            "currency":"EGP", "total":101,
+            "deals":[{
+                "in_stock":True,
+                "product":{"title_ar":"سامسونج جالاكسي A56","brand":"Samsung"},
+                "price":1234,
+                "retailer":"Store",
+                "link":"https://store.example/item",
+                "last_seen":"2026-11-05T10:00:00Z"
+            }]
+        }
+        mocked_get.side_effect = [first_page, second_page]
+        source = {
+            "id":"pricelens-test",
+            "endpoint":"https://pricelens.store/api/v1/partner/deals",
+            "coverage":["phones.json"]
+        }
+        accepted = run_pricelens(source, catalogs, "fallback-time")
+        self.assertEqual(accepted, 1)
+        self.assertEqual(len(product["priceOffers"]), 1)
+        self.assertEqual(product["priceOffers"][0]["checkedAt"], "2026-11-05T10:00:00Z")
+        self.assertIn("offset=100", mocked_get.call_args_list[1].args[0])
 
     def test_ambiguous_match_is_rejected(self):
         self.index[(normalize(self.product["name"]), normalize(self.product["brand"]))].append(("electronics.json", {"name":self.product["name"],"brand":"Samsung"}))
