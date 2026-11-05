@@ -195,8 +195,9 @@
       button.addEventListener("click",()=>{
         selectedPhoneBrand=brand.brand;
         const bar=document.getElementById("phoneSelectedBar");
-        if(bar){bar.hidden=false;bar.replaceChildren(element("strong","","الشركة المختارة: "+brand.brand));const change=element("button","brand-change-button","تغيير الشركة");change.type="button";change.addEventListener("click",()=>{selectedPhoneBrand="";bar.hidden=true;const products=document.getElementById("phoneProducts");if(products)products.hidden=true;const empty=document.getElementById("phoneModelEmpty");if(empty)empty.hidden=true;root.hidden=false;applyPhoneFilters();});bar.append(change);}
+        if(bar){bar.hidden=false;bar.replaceChildren(element("strong","","الشركة المختارة: "+brand.brand));const change=element("button","brand-change-button","تغيير الشركة");change.type="button";change.addEventListener("click",()=>{selectedPhoneBrand="";bar.hidden=true;const products=document.getElementById("phoneProducts");if(products)products.hidden=true;const empty=document.getElementById("phoneModelEmpty");if(empty)empty.hidden=true;const modelSection=document.getElementById("phoneModelSection");if(modelSection)modelSection.hidden=true;root.hidden=false;applyPhoneFilters();});bar.append(change);}
         root.hidden=true;
+        const modelSection=document.getElementById("phoneModelSection");if(modelSection)modelSection.hidden=false;
         const products=document.getElementById("phoneProducts");
         if(products)products.hidden=false;
         const empty=document.getElementById("phoneModelEmpty");
