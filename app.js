@@ -171,6 +171,7 @@
   }
 
   let selectedPhoneBrand = "";
+  let pendingPhoneQuery = "";
   function renderBrandPicker() {
     const root=document.getElementById("phoneBrandPicker");
     if(!root||!modelIndexData)return;
@@ -203,16 +204,41 @@
         const empty=document.getElementById("phoneModelEmpty");
         const matches=(phoneData?.products||[]).filter(p=>p.brand===selectedPhoneBrand);
         if(empty){empty.hidden=matches.length>0;empty.textContent=matches.length?"":"لسه ما أضفناش موديلات موثقة للشركة دي. الشركة اتضافت للقائمة، والموديلات هتظهر بعد تسجيلها من مصادرها.";}
-        const q=document.getElementById("phoneSearch");if(q)q.value="";
+        const q=document.getElementById("phoneSearch");if(q)q.value=pendingPhoneQuery;
+        pendingPhoneQuery="";
         applyPhoneFilters();
         document.getElementById("phoneModelSection")?.scrollIntoView({behavior:"smooth",block:"start"});
       });
       grid.append(button);
     });
     root.append(grid);
-    search.addEventListener("input",()=>{
-      const q=normalize(search.value);
-      grid.querySelectorAll(".phone-brand-tile").forEach(tile=>{tile.hidden=!!q&&!normalize(tile.dataset.brand).includes(q);});
+    function matchingBrands(query){
+      const q=normalize(query);
+      return modelIndexData.brands.filter(brand=>{
+        if(!q)return true;
+        const inBrand=normalize(brand.brand).includes(q);
+        const inModels=(brand.models||[]).some(model=>normalize(model).includes(q));
+        const inLoadedPhones=(phoneData?.products||[]).some(phone=>phone.brand===brand.brand&&normalize(phone.name).includes(q));
+        return inBrand||inModels||inLoadedPhones;
+      });
+    }
+    function filterBrandChoices(){
+      const matches=matchingBrands(search.value);
+      const allowed=new Set(matches.map(x=>x.brand));
+      grid.querySelectorAll(".phone-brand-tile").forEach(tile=>{tile.hidden=!allowed.has(tile.dataset.brand);});
+      let status=root.querySelector(".brand-search-count");
+      if(!status){status=element("p","brand-search-count");grid.after(status);}
+      status.textContent=search.value.trim()?"شركات أو موديلات مطابقة: "+matches.length:"";
+      return matches;
+    }
+    search.addEventListener("input",filterBrandChoices);
+    search.addEventListener("keydown",event=>{
+      if(event.key!=="Enter")return;
+      const matches=filterBrandChoices();
+      if(matches.length!==1)return;
+      pendingPhoneQuery=normalize(search.value)===normalize(matches[0].brand)?"":search.value.trim();
+      const choice=Array.from(grid.querySelectorAll(".phone-brand-tile")).find(tile=>tile.dataset.brand===matches[0].brand);
+      if(choice)choice.click();
     });
   }
   async function loadModelIndex() {
