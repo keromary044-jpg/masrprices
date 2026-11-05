@@ -178,20 +178,19 @@
       const index = await response.json();
       const section = element("section", "model-index");
       section.id = "officialModelIndex";
-      section.append(element("h3", "", "فهرس موديلات الشركات الرسمية"));
+      section.append(element("h3", "", "دليل الشركات والموديلات"));
       section.append(element("p", "catalog-footnote", index.purpose));
       modelIndexData = index;
       const brandFilter = document.getElementById("phoneBrandFilter");
-      const knownBrands = new Set(index.brands.map(x=>x.brand));
-      (phoneData?.products||[]).forEach(phone=>{
-        if(phone.brand && !knownBrands.has(phone.brand)){
-          knownBrands.add(phone.brand);
-          const option=element("option","",phone.brand); option.value=phone.brand;
-          if(brandFilter) brandFilter.append(option);
-        }
-      });
+      const knownBrands = new Set();
+      const addBrandOption = name => {
+        if(!name || knownBrands.has(name)) return;
+        knownBrands.add(name);
+        if(brandFilter){const option=element("option","",name);option.value=name;brandFilter.append(option);}
+      };
+      (phoneData?.products||[]).forEach(phone=>addBrandOption(phone.brand));
       index.brands.forEach(brand => {
-        if (brandFilter) { const option=element("option","",brand.brand); option.value=brand.brand; brandFilter.append(option); }
+        addBrandOption(brand.brand);
         const group = element("div", "model-brand-group");
         group.dataset.brand = brand.brand;
         group.dataset.search = normalize(brand.brand + " " + brand.models.join(" "));
