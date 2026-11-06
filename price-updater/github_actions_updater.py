@@ -319,6 +319,135 @@ def run_sama_link(source, catalogs, checked_at):
     print(f"OK {source['id']}: matched {accepted} purchasable EGP offers from {details_read} product details across {pages} pages")
     return accepted
 
+
+def run_open_prices(source, catalogs, checked_at):
+    """Import recent Egypt/EGP community observations separately from retail offers.
+
+    Open Prices records are crowdsourced observations, not merchant purchase links.
+    They must never overwrite the catalog's primary retail price.
+    """
+    endpoint = source.get("endpoint", "https://prices.openfoodfacts.org/api/v1").rstrip("/")
+    if not valid_https(endpoint):
+        raise ValueError("Invalid Open Prices endpoint")
+
+    location_items = []
+    location_pages = min(max(int(source.get("max_location_pages", 10)), 1), 10)
+    for page_number in range(1, location_pages + 1):
+        url = endpoint + "/locations?" + urllib.parse.urlencode({
+            "osm_address_country__like": "Egypt", "size": 100, "page": page_number
+        })
+        payload = get_json(url)
+        rows = payload.get("items") if isinstance(payload, dict) else None
+        if not isinstance(rows, list):
+            raise ValueError("Open Prices locations response has no items array")
+        location_items.extend(rows)
+        pages = payload.get("pages", page_number)
+        if page_number >= pages or not rows:
+            break
+
+    location_ids = []
+    location_by_id = {}
+    for location in location_items:
+        if not isinstance(location, dict) or not location.get("id"):
+            continue
+        country_code = str(location.get("osm_address_country_code") or "").upper()
+        country_name = normalize(location.get("osm_address_country") or "")
+        if country_code != "EG" and "egypt" not in country_name:
+            continue
+        if int(location.get("price_count") or 0) <= 0:
+            continue
+        location_id = int(location["id"])
+        location_ids.append(location_id)
+        location_by_id[location_id] = location
+
+    if not location_ids:
+        print("PENDING open-prices: no Egypt locations with recorded prices were found")
+        return 0
+
+    location_ids = sorted(set(location_ids))[:int(source.get("max_location_ids", 200))]
+    source_index = build_exact_index({
+        name: catalog for name, catalog in catalogs.items()
+        if name in source.get("coverage", ["groceries.json"])
+    })
+    accepted = 0
+    scanned = 0
+    max_price_pages = min(max(int(source.get("max_price_pages", 10)), 1), 10)
+    for page_number in range(1, max_price_pages + 1):
+        params = {
+            "currency": "EGP",
+            "type": "PRODUCT",
+            "location_id__in": ",".join(str(value) for value in location_ids),
+            "size": 100,
+            "page": page_number,
+            "order_by": "-date"
+        }
+        payload = get_json(endpoint + "/prices?" + urllib.parse.urlencode(params))
+        rows = payload.get("items") if isinstance(payload, dict) else None
+        if not isinstance(rows, list):
+            raise ValueError("Open Prices prices response has no items array")
+        scanned += len(rows)
+        for row in rows:
+            if not isinstance(row, dict) or row.get("currency") != "EGP":
+                continue
+            if row.get("type") != "PRODUCT" or row.get("price_per") not in (None, "", "UNIT"):
+                continue
+            try:
+                price = float(row.get("price"))
+                location_id = int(row.get("location_id") or (row.get("location") or {}).get("id"))
+            except (TypeError, ValueError):
+                continue
+            if price <= 0 or price > 100_000_000:
+                continue
+            observed_date = row.get("date")
+            observed_at = parse_observed_time(observed_date)
+            if not observed_at or observed_at < datetime.now(timezone.utc) - timedelta(days=30):
+                continue
+            product = row.get("product") or {}
+            location = row.get("location") or location_by_id.get(location_id) or {}
+            name = row.get("product_name") or product.get("product_name")
+            brand = product.get("brands") or product.get("brand")
+            merchant = location.get("osm_name") or location.get("osm_display_name")
+            if not name or not brand or not merchant:
+                continue
+            matches = source_index.get((normalize(name), normalize(brand)), [])
+            if len(matches) != 1:
+                continue
+            filename, catalog_product = matches[0]
+            record_id = row.get("id")
+            if not record_id:
+                continue
+            observation = {
+                "id": int(record_id),
+                "priceEGP": round(price, 2),
+                "merchant": str(merchant).strip()[:120],
+                "observedDate": observed_date,
+                "source": endpoint + "/prices/" + str(int(record_id)),
+                "sourceLabel": "Open Prices — رصد مجتمعي",
+                "pricePer": row.get("price_per") or "UNIT",
+                "productCode": product.get("code") or row.get("product_code") or ""
+            }
+            observations = catalog_product.get("communityPriceObservations")
+            if not isinstance(observations, list):
+                observations = []
+            observations = [
+                old for old in observations
+                if not isinstance(old, dict) or old.get("id") != observation["id"]
+            ]
+            observations.append(observation)
+            observations.sort(key=lambda item: str(item.get("observedDate") or ""), reverse=True)
+            catalog_product["communityPriceObservations"] = observations[:20]
+            accepted += 1
+        pages = payload.get("pages", page_number)
+        if page_number >= pages or not rows:
+            break
+
+    print(
+        f"OK {source.get('id', 'open-prices')}: stored {accepted} recent Egypt/EGP community observations "
+        f"from {scanned} price records; primary retail prices were not changed"
+    )
+    return accepted
+
+
 def main():
     if not CONFIG.exists():
         print("ERROR: price-feeds.json is missing", file=sys.stderr)
@@ -348,6 +477,8 @@ def main():
                 accepted = run_pricelens(source, catalogs, checked_at)
             elif adapter == "sama_link":
                 accepted = run_sama_link(source, catalogs, checked_at)
+            elif adapter == "open_prices":
+                accepted = run_open_prices(source, catalogs, checked_at)
             else:
                 raise ValueError("Unsupported or unapproved adapter")
             accepted_total += accepted
