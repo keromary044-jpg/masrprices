@@ -148,7 +148,7 @@ def expire_stale_offers(catalogs, now=None, max_age_days=14):
     cutoff = now - timedelta(days=max_age_days)
     expired_count = 0
     changed_count = 0
-    provider_labels = {"Prices by PriceLens", "Sama Link API", "API.SH — Jumia Egypt"}
+    provider_labels = {"Prices by PriceLens", "Sama Link API", "API.SH — Jumia Egypt", "API.SH — Noon Egypt"}
     for filename, catalog in catalogs.items():
         for product in catalog.get("products", []):
             if not isinstance(product, dict) or not isinstance(product.get("priceOffers"), list):
@@ -326,6 +326,83 @@ def bilingual(value):
     if isinstance(value, dict):
         return value.get("ar") or value.get("en") or ""
     return value or ""
+
+def run_apish_noon(source, catalogs, checked_at):
+    """Fetch bounded Egypt noon search results and accept exact, in-stock EGP matches."""
+    secret_name = source.get("secret_env", "APISH_API_KEY")
+    key = os.environ.get(secret_name, "").strip()
+    if not key:
+        print(f"PENDING {source['id']}: missing GitHub secret {secret_name}")
+        return 0
+
+    coverage = source.get("coverage", [])
+    source_catalogs = {name: catalog for name, catalog in catalogs.items() if name in coverage}
+    source_index = build_exact_index(source_catalogs)
+    candidates = []
+    seen = set()
+    for filename in sorted(source_catalogs):
+        for product in source_catalogs[filename].get("products", []):
+            if not isinstance(product, dict):
+                continue
+            name = str(product.get("name") or product.get("title") or "").strip()
+            brand = str(product.get("brand") or "").strip()
+            key_pair = (normalize(name), normalize(brand))
+            if name and brand and key_pair in source_index and len(source_index[key_pair]) == 1 and key_pair not in seen:
+                seen.add(key_pair)
+                candidates.append((name, brand))
+
+    if not candidates:
+        print(f"OK {source['id']}: no eligible catalog products")
+        return 0
+
+    max_calls = source.get("max_calls_per_run", 3)
+    if not isinstance(max_calls, int) or max_calls < 1:
+        raise ValueError("API.SH noon max_calls_per_run must be a positive integer")
+    max_calls = min(max_calls, 3)
+    day_number = datetime.now(timezone.utc).date().toordinal()
+    start = (day_number * max_calls) % len(candidates)
+    selected = [candidates[(start + offset) % len(candidates)] for offset in range(min(max_calls, len(candidates)))]
+
+    accepted = scanned = request_errors = 0
+    endpoint = source.get("endpoint", "https://api.api.sh/noon/v1/search")
+    if not valid_https(endpoint):
+        raise ValueError("Invalid API.SH noon endpoint")
+    headers = {"x-api-key": key}
+    for name, brand in selected:
+        params = urllib.parse.urlencode({
+            "q": name, "country": "eg", "language": "ar", "sort": "price_asc", "page": 1, "limit": 50
+        })
+        try:
+            payload = get_json(endpoint + "?" + params, headers, timeout=120)
+        except Exception as exc:
+            request_errors += 1
+            print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__}); continuing")
+            continue
+        if not isinstance(payload, dict) or payload.get("success") is False:
+            raise ValueError("API.SH returned an unsuccessful noon response")
+        if payload.get("country") not in (None, "eg", "EG"):
+            raise ValueError("API.SH response is not for the Egypt storefront")
+        products = payload.get("products")
+        if not isinstance(products, list):
+            raise ValueError("API.SH noon response has no products array")
+        scanned += len(products)
+        for item in products:
+            if not isinstance(item, dict) or item.get("in_stock") is not True:
+                continue
+            product_url = item.get("url")
+            if not valid_https(product_url):
+                continue
+            host = (urllib.parse.urlparse(product_url).hostname or "").lower()
+            if host not in ("www.noon.com", "noon.com"):
+                continue
+            accepted += apply_offer(
+                source_index, item.get("name"), item.get("brand"),
+                item.get("price"), "Noon Egypt", product_url,
+                payload.get("fetched_at") or checked_at, "API.SH — Noon Egypt"
+            )
+    print(f"OK {source['id']}: matched {accepted} exact in-stock noon offers from {scanned} results; searched {len(selected)} catalog products; request_errors={request_errors}")
+    return accepted
+
 
 def run_sama_link(source, catalogs, checked_at):
     secret_name = source.get("secret_env", "SAMA_LINK_API_KEY")
@@ -509,6 +586,8 @@ def main():
                 accepted = run_sama_link(source, catalogs, checked_at)
             elif adapter == "apish_jumia":
                 accepted = run_apish_jumia(source, catalogs, checked_at)
+            elif adapter == "apish_noon":
+                accepted = run_apish_noon(source, catalogs, checked_at)
             elif adapter == "open_prices":
                 accepted = run_open_prices(source, catalogs, checked_at)
             else:
