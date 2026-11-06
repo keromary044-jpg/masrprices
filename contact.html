@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#102b50">
 <meta name="description" content="تواصل مع فريق MasrPrices لإرسال ملاحظة أو تصحيح سعر أو اقتراح تحسين عبر واتساب.">
 <meta name="robots" content="index,follow">
-<link rel="canonical" href="https://masrprices.pages.dev/contact.html">
+<link rel="canonical" href="https://masrprices-new.keromary044.workers.dev/contact.html">
 <link rel="stylesheet" href="styles.css">
 <title>اتصل بنا | MasrPrices</title>
 </head>
@@ -27,34 +27,5 @@
     <p id="contactStatus" class="catalog-footnote property-form-wide" aria-live="polite"></p>
   </form>
   <p class="catalog-footnote">لن تُرسل الرسالة تلقائيًا؛ ستفتح واتساب لتراجعها ثم تضغط إرسال بنفسك. قد تحتاج إلى تثبيت واتساب أو تسجيل الدخول إليه.</p>
-  <script>
-  (() => {
-    const form=document.getElementById("contactForm");
-    if(!form)return;
-    form.addEventListener("submit",event=>{
-      event.preventDefault();
-      const status=document.getElementById("contactStatus");
-      if(!document.getElementById("contactConsent").checked){status.textContent="يرجى الموافقة قبل المتابعة.";return;}
-      const clean=value=>String(value||"").trim();
-      const name=clean(document.getElementById("contactName").value);
-      const type=clean(document.getElementById("contactType").value);
-      const section=clean(document.getElementById("contactSection").value);
-      const message=clean(document.getElementById("contactMessage").value);
-      const contact=clean(document.getElementById("contactMethod").value);
-      if(message.length<8){status.textContent="اكتب رسالة لا تقل عن 8 أحرف.";return;}
-      const lines=[
-        "رسالة جديدة من موقع MasrPrices",
-        "الاسم: "+(name||"لم يذكر"),
-        "النوع: "+type,
-        "القسم: "+(section||"غير محدد"),
-        "التفاصيل: "+message,
-        contact?"وسيلة تواصل إضافية: "+contact:""
-      ].filter(Boolean);
-      const url="https://wa.me/201204482537?text="+encodeURIComponent(lines.join("\n"));
-      const opened=window.open(url,"_blank","noopener,noreferrer");
-      if(!opened){window.location.href=url;return;}
-      status.textContent="تم فتح واتساب. راجع الرسالة واضغط إرسال لإيصالها إلينا.";
-    });
-  })();
-  </script>
+  <script src="/site-enhancements.js" defer></script>
 </main><footer><div class="container"><p>© 2026 MasrPrices</p><nav class="footer-links"><a href="about.html">من نحن</a><a href="contact.html">اتصل بنا</a><a href="privacy.html">سياسة الخصوصية</a><a href="terms.html">الشروط والأحكام</a></nav></div></footer></body></html>
