@@ -66,6 +66,24 @@
       ],
       "attribution": "Display EGID as source; preserve the market-data timestamp and the granted delay designation.",
       "activation_note": "Obtain API access credentials and written permission for public/commercial display from EGID. Store the issued bearer token as the Cloudflare Worker secret EGID_API_TOKEN. Keep delayed mode until EGID explicitly authorizes live redistribution; set EGID_FEED_MODE=live only after that approval."
+    },
+    {
+      "id": "open-prices-egypt-community",
+      "name": "Open Prices Egypt community observations",
+      "adapter": "open_prices",
+      "active": false,
+      "status": "prepared_disabled_pending_odbl_review_and_egypt_coverage_validation",
+      "endpoint": "https://prices.openfoodfacts.org/api/v1",
+      "coverage": [
+        "groceries.json"
+      ],
+      "max_location_pages": 10,
+      "max_location_ids": 200,
+      "max_price_pages": 10,
+      "observation_max_age_days": 30,
+      "import_policy": "Recent Egypt-only EGP product observations with exact unique product-name and brand matching; stored separately as communityPriceObservations and never used as the primary retail price or a purchase link.",
+      "attribution": "Credit Open Prices and link to the individual API record. Review ODbL obligations before enabling or combining this database with other sources.",
+      "activation_note": "Do not enable until the database licensing/reuse implications are reviewed and live Egypt coverage is confirmed. Community observations are not live retailer offers."
     }
   ],
   "reference_sources": [
@@ -150,8 +168,8 @@
       "coverage": [
         "groceries.json"
       ],
-      "mode": "not_enabled_license_and_egypt_coverage_review",
-      "reason": "Community-submitted price observations are under ODbL terms; Egypt-specific EGP coverage was not established. Keep separate from proprietary retail feeds unless database-license compatibility and attribution obligations are reviewed."
+      "mode": "adapter_prepared_disabled_odbl_review_and_egypt_coverage_pending",
+      "reason": "A read-only adapter is prepared to retain recent Egypt/EGP community observations separately from retail prices. Do not enable until ODbL compatibility and actual Egypt coverage are confirmed."
     },
     {
       "id": "idsc-local-commodity-prices",
