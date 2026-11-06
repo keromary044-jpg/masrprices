@@ -1,7 +1,7 @@
 import os
 import unittest
 from unittest.mock import patch
-from github_actions_updater import normalize, apply_offer, run_pricelens, run_open_prices, expire_stale_offers
+from github_actions_updater import normalize, apply_offer, run_pricelens, run_open_prices, run_apish_jumia, expire_stale_offers
 from coverage_report import freshness_status
 
 class PriceUpdaterTests(unittest.TestCase):
@@ -95,6 +95,41 @@ class PriceUpdaterTests(unittest.TestCase):
         self.assertEqual(accepted, 0)
         self.assertEqual(mocked_get.call_count, 10)
         self.assertIn("offset=900", mocked_get.call_args_list[-1].args[0])
+
+    @patch.dict(os.environ, {"APISH_API_KEY": "test-key"})
+    @patch("github_actions_updater.get_json")
+    def test_apish_jumia_accepts_only_exact_buyable_egypt_listings(self, mocked_get):
+        product = {"id":"p2","name":"Samsung Galaxy A56 5G","brand":"Samsung"}
+        catalogs = {"phones.json":{"products":[product]}}
+        mocked_get.return_value = {
+            "success":True, "country":"eg", "fetched_at":"2026-11-06T10:00:00Z",
+            "products":[
+                {"name":"Samsung Galaxy A56 5G","brand":"Samsung","price":12345,
+                 "url":"https://www.jumia.com.eg/samsung-galaxy-a56-5g-123.html","buyable":True},
+                {"name":"Samsung Galaxy A56 5G","brand":"Samsung","price":10000,
+                 "url":"https://www.jumia.com.eg/not-buyable.html","buyable":False}
+            ]
+        }
+        accepted = run_apish_jumia({
+            "id":"apish-test","endpoint":"https://api.api.sh/jumia/v1/search",
+            "coverage":["phones.json"],"max_calls_per_run":1
+        }, catalogs, "fallback")
+        self.assertEqual(accepted, 1)
+        self.assertEqual(product["priceEGP"], 12345)
+        self.assertEqual(product["priceOffers"][0]["merchant"], "Jumia Egypt")
+        self.assertEqual(product["priceOffers"][0]["checkedAt"], "2026-11-06T10:00:00Z")
+        requested_url, headers = mocked_get.call_args.args
+        self.assertIn("country=eg", requested_url)
+        self.assertEqual(headers["x-api-key"], "test-key")
+
+    @patch.dict(os.environ, {"APISH_API_KEY": ""})
+    @patch("github_actions_updater.get_json")
+    def test_apish_jumia_does_not_call_api_without_secret(self, mocked_get):
+        accepted = run_apish_jumia({
+            "id":"apish-test","coverage":["phones.json"]
+        }, {"phones.json":{"products":[{"name":"Phone X","brand":"Brand"}]}}, "fallback")
+        self.assertEqual(accepted, 0)
+        mocked_get.assert_not_called()
 
     def test_freshness_status_uses_the_lowest_offer_timestamp(self):
         from datetime import datetime, timezone
