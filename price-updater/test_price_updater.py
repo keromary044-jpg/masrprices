@@ -167,45 +167,52 @@ class PriceUpdaterTests(unittest.TestCase):
 
 
     @patch("github_actions_updater.get_json")
-    def test_open_prices_keeps_egypt_observations_separate_from_retail_price(self, mocked_get):
+    def test_open_prices_uses_country_proof_filter_and_keeps_observations_separate(self, mocked_get):
         from datetime import datetime, timezone
-        product = {
-            "id":"g1", "name":"لبن كامل الدسم", "brand":"ExampleBrand", "price":99
-        }
+        product = {"id":"g1","name":"لبن كامل الدسم","brand":"ExampleBrand","price":99}
         catalogs = {"groceries.json":{"products":[product]}}
         today = datetime.now(timezone.utc).date().isoformat()
-        mocked_get.side_effect = [
-            {
-                "items":[{
-                    "id":10, "osm_address_country":"Egypt",
-                    "osm_address_country_code":"EG", "osm_name":"متجر تجريبي",
-                    "price_count":1
-                }],
-                "page":1, "pages":1, "size":100, "total":1
-            },
-            {
-                "items":[{
-                    "id":321, "type":"PRODUCT", "currency":"EGP",
-                    "price_per":"UNIT", "price":45.5, "date":today,
-                    "product_name":"لبن كامل الدسم",
-                    "product":{"product_name":"لبن كامل الدسم","brands":"ExampleBrand","code":"1234567890123"},
-                    "location_id":10,
-                    "location":{"id":10,"osm_name":"متجر تجريبي"}
-                }],
-                "page":1, "pages":1, "size":100, "total":1
-            }
-        ]
+        mocked_get.return_value = {
+            "items":[{
+                "id":321,"type":"PRODUCT","currency":"EGP","price_per":"UNIT",
+                "price":45.5,"date":today,"product_name":"لبن كامل الدسم",
+                "product":{"product_name":"لبن كامل الدسم","brands":"ExampleBrand","code":"1234567890123"},
+                "location":{"id":10,"osm_name":"متجر تجريبي","osm_address_country_code":"EG"}
+            }],"page":1,"pages":1,"size":100,"total":1
+        }
         accepted = run_open_prices({
-            "id":"open-prices-test",
-            "endpoint":"https://prices.openfoodfacts.org/api/v1",
+            "id":"open-prices-test","endpoint":"https://prices.openfoodfacts.org/api/v1",
             "coverage":["groceries.json"]
         }, catalogs, "test-run-time")
         self.assertEqual(accepted, 1)
         self.assertEqual(product["price"], 99)
         self.assertNotIn("priceOffers", product)
-        self.assertEqual(len(product["communityPriceObservations"]), 1)
         self.assertEqual(product["communityPriceObservations"][0]["priceEGP"], 45.5)
         self.assertIn("/prices/321", product["communityPriceObservations"][0]["source"])
+        requested_url = mocked_get.call_args.args[0]
+        self.assertIn("proof__location__osm_address_country_code=eg", requested_url)
+        self.assertIn("currency=EGP", requested_url)
+
+    @patch("github_actions_updater.get_json")
+    def test_open_prices_rejects_old_observations(self, mocked_get):
+        from datetime import datetime, timezone, timedelta
+        product = {"name":"لبن كامل الدسم","brand":"ExampleBrand","price":99}
+        catalogs = {"groceries.json":{"products":[product]}}
+        old_date = (datetime.now(timezone.utc).date() - timedelta(days=45)).isoformat()
+        mocked_get.return_value = {
+            "items":[{
+                "id":322,"type":"PRODUCT","currency":"EGP","price":45,"date":old_date,
+                "product":{"product_name":"لبن كامل الدسم","brands":"ExampleBrand"},
+                "location":{"osm_name":"متجر تجريبي","osm_address_country_code":"EG"}
+            }],"page":1,"pages":1
+        }
+        accepted = run_open_prices({
+            "id":"open-prices-old-test","coverage":["groceries.json"],
+            "endpoint":"https://prices.openfoodfacts.org/api/v1"
+        }, catalogs, "test")
+        self.assertEqual(accepted, 0)
+        self.assertNotIn("communityPriceObservations", product)
+
 
 
 if __name__ == "__main__":
