@@ -575,25 +575,7 @@
 
 
   <script src="app.js"></script>
-  <script>
-    // Independent navigation fallback: keeps category cards usable even if a catalog loader fails.
-    (function () {
-      document.addEventListener("click", function (event) {
-        const card = event.target.closest && event.target.closest(".category-card");
-        if (!card) return;
-        const href = card.getAttribute("href") || "";
-        if (!href.startsWith("#")) return;
-        const target = document.getElementById(href.slice(1));
-        if (!target || !/Catalog$/.test(target.id)) return;
-        event.preventDefault();
-        document.querySelectorAll("main section[id$='Catalog']").forEach(function (section) {
-          section.hidden = true;
-        });
-        target.hidden = false;
-        target.scrollIntoView({ behavior: "smooth", block: "start" });
-      }, false);
-    })();
-  </script>
+  <script src="/site-enhancements.js" defer></script>
 
 </body>
   </html>
