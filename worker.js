@@ -106,7 +106,7 @@ function safeHttpUrl(value) {
 
 async function productPageHandler(request, env) {
   const url = new URL(request.url);
-  const match = url.pathname.match(/^\\/products\\/([a-z0-9-]+)\\/?$/i);
+  const match = url.pathname.match(/^\/products\/([a-z0-9-]+)\/?$/i);
   if (!match) return null;
   const slug = match[1];
   let response;
@@ -132,7 +132,7 @@ async function productPageHandler(request, env) {
   const source = safeHttpUrl(item.source);
   const sourceLabel = escapeHtml(item.sourceLabel || "المصدر المسجل");
   const details = item.details && typeof item.details === "object" ? Object.entries(item.details)
-    .filter(([key, value]) => value != null && String(value).trim() && !/^راجع\\b/.test(String(value).trim()))
+    .filter(([key, value]) => value != null && String(value).trim() && !/^راجع\b/.test(String(value).trim()))
     .map(([key, value]) => '<tr><th>' + escapeHtml(({brand:"العلامة التجارية",category:"الفئة",release:"سنة الإصدار",display:"الشاشة",processor:"المعالج",memory:"الذاكرة والتخزين",rearCamera:"الكاميرا الخلفية",frontCamera:"الكاميرا الأمامية",battery:"البطارية",os:"نظام التشغيل",connectivity:"الاتصال",build:"التصميم"}[key] || key)) + '</th><td>' + escapeHtml(value) + '</td></tr>').join("") : "";
   const offers = Array.isArray(item.offers) ? item.offers.filter(o => o && Number.isFinite(Number(o.price)) && Number(o.price) > 0).sort((a,b)=>Number(a.price)-Number(b.price)) : [];
   const offerRows = offers.map(offer => {
