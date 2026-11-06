@@ -290,7 +290,7 @@ def run_apish_jumia(source, catalogs, checked_at):
         })
         try:
             # Keep the complete daily job bounded even when the provider is slow.
-            payload = get_json(endpoint + "?" + params, headers, timeout=8)
+            payload = get_json(endpoint + "?" + params, headers, timeout=120)
         except Exception as exc:
             request_errors += 1
             print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__}); continuing")
