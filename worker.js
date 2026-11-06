@@ -90,6 +90,65 @@ async function rateLimit(binding, request, scope) {
   return null;
 }
 
+
+function escapeHtml(value) {
+  return String(value ?? "").replace(/[&<>"']/g, ch => ({
+    "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;"
+  }[ch]));
+}
+
+function safeHttpUrl(value) {
+  try {
+    const url = new URL(String(value || ""));
+    return url.protocol === "https:" || url.protocol === "http:" ? url.href : "";
+  } catch { return ""; }
+}
+
+async function productPageHandler(request, env) {
+  const url = new URL(request.url);
+  const match = url.pathname.match(/^\\/products\\/([a-z0-9-]+)\\/?$/i);
+  if (!match) return null;
+  const slug = match[1];
+  let response;
+  try {
+    response = await env.ASSETS.fetch(new Request(new URL("/seo-products.json", url.origin), { method: "GET" }));
+  } catch {
+    return new Response("تعذر تحميل بيانات المنتجات حاليًا.", { status: 503, headers: { "Content-Type": "text/plain; charset=utf-8" } });
+  }
+  if (!response.ok) return new Response("بيانات المنتجات غير متاحة.", { status: 503 });
+  let products;
+  try { products = await response.json(); } catch { return new Response("بيانات المنتجات غير صالحة.", { status: 503 }); }
+  if (!Array.isArray(products)) return new Response("بيانات المنتجات غير صالحة.", { status: 503 });
+  const item = products.find(product => product && product.slug === slug);
+  if (!item) return new Response("المنتج غير موجود", { status: 404, headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "public, max-age=300" } });
+
+  const name = escapeHtml(item.name || "منتج");
+  const category = escapeHtml(item.category || "منتجات");
+  const price = Number(item.price);
+  const hasPrice = Number.isFinite(price) && price > 0;
+  const priceText = hasPrice ? price.toLocaleString("en-US") + " جنيه" : "لا يتوفر سعر مسجل";
+  const checkedDate = escapeHtml(item.date || "غير محدد");
+  const canonical = url.origin + "/products/" + encodeURIComponent(slug) + "/";
+  const source = safeHttpUrl(item.source);
+  const sourceLabel = escapeHtml(item.sourceLabel || "المصدر المسجل");
+  const details = item.details && typeof item.details === "object" ? Object.entries(item.details)
+    .filter(([key, value]) => value != null && String(value).trim() && !/^راجع\\b/.test(String(value).trim()))
+    .map(([key, value]) => '<tr><th>' + escapeHtml(({brand:"العلامة التجارية",category:"الفئة",release:"سنة الإصدار",display:"الشاشة",processor:"المعالج",memory:"الذاكرة والتخزين",rearCamera:"الكاميرا الخلفية",frontCamera:"الكاميرا الأمامية",battery:"البطارية",os:"نظام التشغيل",connectivity:"الاتصال",build:"التصميم"}[key] || key)) + '</th><td>' + escapeHtml(value) + '</td></tr>').join("") : "";
+  const offers = Array.isArray(item.offers) ? item.offers.filter(o => o && Number.isFinite(Number(o.price)) && Number(o.price) > 0).sort((a,b)=>Number(a.price)-Number(b.price)) : [];
+  const offerRows = offers.map(offer => {
+    const href = safeHttpUrl(offer.source);
+    return '<tr><td>' + escapeHtml(offer.merchant || "متجر") + '</td><td>' + Number(offer.price).toLocaleString("en-US") + ' جنيه</td><td>' + escapeHtml(offer.variant || "—") + '</td><td>' + (href ? '<a rel="nofollow noopener" target="_blank" href="' + escapeHtml(href) + '">عرض المصدر</a>' : "—") + '</td></tr>';
+  }).join("");
+  const mainSource = source ? '<p><a rel="nofollow noopener" target="_blank" href="' + escapeHtml(source) + '">فتح ' + sourceLabel + '</a></p>' : '<p>لم يُسجل رابط مصدر مباشر لهذا المنتج.</p>';
+  const jsonLd = JSON.stringify({
+    "@context":"https://schema.org", "@type":"Product", name:String(item.name || "منتج"),
+    category:String(item.category || ""), sku:String(item.slug || ""),
+    offers: hasPrice ? {"@type":"Offer","priceCurrency":"EGP","price":price} : undefined
+  }).replace(/</g, "\\u003c");
+  const html = '<!doctype html><html lang="ar" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>' + name + ' — السعر والمصادر | MasrPrices</title><meta name="description" content="السعر المسجل لـ ' + name + ' في مصر، تاريخ الرصد ومصادر السعر والعروض المتاحة."><meta name="robots" content="index,follow"><link rel="canonical" href="' + escapeHtml(canonical) + '"><meta property="og:type" content="product"><meta property="og:title" content="' + name + ' | MasrPrices"><meta property="og:description" content="' + escapeHtml(priceText) + ' — آخر رصد: ' + checkedDate + '"><script type="application/ld+json">' + jsonLd + '</script><style>*{box-sizing:border-box}body{margin:0;background:#f3f6fa;color:#172b45;font:16px/1.8 Arial,Tahoma,sans-serif}header{background:#102b50;color:#fff;padding:14px 18px}header a{color:#fff;text-decoration:none;font-weight:bold}main{max-width:900px;margin:22px auto;padding:0 14px}.card{background:#fff;border:1px solid #dce5ef;border-radius:16px;padding:20px;margin-bottom:16px}h1{font-size:clamp(22px,5vw,32px);line-height:1.4}h2{font-size:20px;color:#102b50}a{color:#145da0}.price{font-size:30px;font-weight:bold;color:#b42332}.muted{color:#63758a;font-size:14px}.notice{background:#fff8e8;border-radius:10px;padding:12px}table{width:100%;border-collapse:collapse;display:block;overflow-x:auto}td,th{text-align:right;padding:9px;border-bottom:1px solid #e5ebf2;white-space:normal}th{color:#43566c;min-width:120px}.actions{display:flex;gap:12px;flex-wrap:wrap}.actions a{background:#102b50;color:white;padding:9px 14px;border-radius:9px;text-decoration:none}@media(max-width:600px){.card{padding:15px}td,th{font-size:14px}}</style></head><body><header><a href="/">MasrPrices | أسعار مصر</a></header><main><nav class="muted"><a href="/">الرئيسية</a> / <a href="/products/">دليل المنتجات</a> / ' + name + '</nav><section class="card"><p class="muted">' + category + '</p><h1>' + name + '</h1><div class="price">' + escapeHtml(priceText) + '</div><p class="muted">آخر تاريخ رصد مسجل: ' + checkedDate + '</p><p class="notice">هذا سعر مسجل في قاعدة بيانات الموقع وليس ضمانًا لتوفر المنتج أو ثبات السعر. تحقق من المصدر أو المتجر قبل الشراء.</p><div class="actions"><a href="/products/">كل المنتجات</a><a href="/">العودة للرئيسية</a></div></section>' + (details ? '<section class="card"><h2>المواصفات المسجلة</h2><table>' + details + '</table></section>' : '') + '<section class="card"><h2>مقارنة العروض المسجلة</h2>' + (offerRows ? '<table><thead><tr><th>المتجر</th><th>السعر</th><th>النسخة / التفاصيل</th><th>المصدر</th></tr></thead><tbody>' + offerRows + '</tbody></table>' : '<p>لا توجد عروض متاجر متعددة مسجلة لهذا المنتج حاليًا. لا يعني ذلك عدم توفره في المتاجر.</p>') + '</section><section class="card"><h2>مصدر السعر</h2>' + mainSource + '<p class="muted">تاريخ الرصد المعروض مأخوذ من سجل بيانات الموقع. الأسعار قد تتغير بعد تاريخ الرصد.</p></section></main></body></html>';
+  return new Response(html, { status: 200, headers: { "Content-Type":"text/html; charset=utf-8", "Cache-Control":"public, max-age=300, stale-while-revalidate=3600" } });
+}
+
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -139,6 +198,11 @@ export default {
       const blocked = await rateLimit(env.SUGGESTION_RATE_LIMITER, request, "suggestion");
       if (blocked) return secure(blocked, request);
       return secure(await suggestionHandler({ request, env, ctx, params: {} }), request);
+    }
+
+    if (url.pathname.startsWith("/products/") && url.pathname !== "/products/") {
+      const productResponse = await productPageHandler(request, env);
+      if (productResponse) return secure(productResponse, request);
     }
 
     return secure(await env.ASSETS.fetch(request), request);
