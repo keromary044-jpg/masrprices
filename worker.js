@@ -7,10 +7,13 @@ import { onRequest as realEstateAdminHandler } from "./functions/api/real-estate
 function secure(response, request) {
   const headers = new Headers(response.headers);
   headers.set("X-Content-Type-Options", "nosniff");
+  headers.set("X-Permitted-Cross-Domain-Policies", "none");
+  headers.set("Cross-Origin-Resource-Policy", "same-origin");
   headers.set("X-Frame-Options", "DENY");
   headers.set("Referrer-Policy", "strict-origin-when-cross-origin");
   headers.set("Permissions-Policy", "camera=(), microphone=(), geolocation=()");
   headers.set("Cross-Origin-Opener-Policy", "same-origin");
+  headers.set("X-DNS-Prefetch-Control", "off");
   headers.set("Content-Security-Policy", "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data:; font-src 'self' https: data:; connect-src 'self' https:; upgrade-insecure-requests");
   if (new URL(request.url).protocol === "https:") headers.set("Strict-Transport-Security", "max-age=31536000; includeSubDomains");
   return new Response(response.body, {status:response.status,statusText:response.statusText,headers});
@@ -90,6 +93,13 @@ async function rateLimit(binding, request, scope) {
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
+    // Reject malformed API methods before dispatch; static assets remain read-only through GET/HEAD.
+    if (url.pathname.startsWith("/api/") && !["GET","POST"].includes(request.method)) {
+      return secure(json(405, { error: "طريقة الطلب غير مدعومة." }), request);
+    }
+    if (!url.pathname.startsWith("/api/") && !["GET","HEAD"].includes(request.method)) {
+      return secure(json(405, { error: "طريقة الطلب غير مدعومة." }), request);
+    }
 
     if (url.pathname === "/api/admin") {
       const blocked = await rateLimit(env.ADMIN_RATE_LIMITER, request, "admin");
