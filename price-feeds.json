@@ -31,6 +31,31 @@
       "max_pages": 10
     },
     {
+      "id": "apish-jumia-egypt",
+      "name": "API.SH Jumia Egypt product and price API",
+      "adapter": "apish_jumia",
+      "active": true,
+      "status": "ready_for_api_key_secret",
+      "secret_env": "APISH_API_KEY",
+      "endpoint": "https://api.api.sh/jumia/v1/search",
+      "country": "eg",
+      "currency": "EGP",
+      "refresh_policy": "Daily rotating exact-name searches; only buyable listings from Jumia Egypt are accepted. Offers expire after 14 days without refresh.",
+      "attribution": "Display API.SH — Jumia Egypt as source and link directly to the Jumia Egypt product listing.",
+      "coverage": [
+        "phones.json",
+        "electronics.json",
+        "appliances.json",
+        "computers-laptops.json",
+        "gaming-devices.json",
+        "printers-ink.json",
+        "networking-internet.json",
+        "watches.json"
+      ],
+      "max_calls_per_run": 20,
+      "activation_note": "Add the API key as the GitHub Actions repository secret APISH_API_KEY. Uses at most 20 search credits per daily run (about 600 per 30-day month), rotates through eligible catalog products, and accepts only exact unique product+brand matches with buyable=true and a Jumia Egypt URL."
+    },
+    {
       "id": "sama-link-store",
       "name": "Sama Link Store official partner integration API",
       "adapter": "sama_link",
