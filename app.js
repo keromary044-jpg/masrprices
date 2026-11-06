@@ -187,6 +187,35 @@
     wrap.append(image);card.append(wrap);
     mpAttachProductTools(card,item);
   }
+  // Ensure every product card in every catalogue has at least an honest illustrative image.
+  function ensureCatalogueImages(root=document){
+    const selector='[id$="Products"] article,[id$="Catalog"] article,.book-grid article,.phone-grid article,.product-grid article,.catalog-grid article,.market-grid article';
+    const candidates=[];
+    if(root.matches?.(selector))candidates.push(root);
+    if(root.querySelectorAll)candidates.push(...root.querySelectorAll(selector));
+    candidates.forEach(card=>{
+      if(card.querySelector(".catalog-image-wrap")||!card.querySelector("h3,strong"))return;
+      const title=card.querySelector("h3,strong")?.textContent?.trim()||"منتج";
+      const item={name:title,category:card.closest("[id$='Catalog']")?.querySelector("h2")?.textContent?.trim()||"MasrPrices"};
+      const wrap=element("div","catalog-image-wrap");
+      const image=element("img","catalog-product-image");
+      image.alt="رسم توضيحي لـ "+title;
+      image.loading="lazy";image.decoding="async";
+      image.src=productIllustration(item);
+      wrap.append(element("span","catalog-image-label","رسم توضيحي — ليس صورة حقيقية"),image);
+      card.prepend(wrap);
+    });
+  }
+  ensureCatalogueImages();
+  if(typeof MutationObserver!=="undefined"){
+    const catalogueImageObserver=new MutationObserver(records=>{
+      records.forEach(record=>record.addedNodes.forEach(node=>{
+        if(node.nodeType===1)ensureCatalogueImages(node);
+      }));
+    });
+    catalogueImageObserver.observe(document.body,{childList:true,subtree:true});
+  }
+
   function catalogPriceExists(item){
     const p=Number(item?.priceEGP??item?.price);
     return (Number.isFinite(p)&&p>0)||(Number.isFinite(Number(item?.priceFrom))&&Number(item.priceFrom)>0);
