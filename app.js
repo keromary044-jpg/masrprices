@@ -109,7 +109,8 @@
     saveName.addEventListener("click",()=>{mpStore.write("nickname",nickname.value.trim());saveName.textContent="تم الحفظ";});
     profile.append(nickname,saveName);
     const list=element("div","mp-saved-list");list.id="mpSavedList";
-    panel.append(profile,list,element("p","catalog-footnote","المحفوظات والاسم محفوظة على هذا الجهاز فقط، ولا تنشئ حسابًا سحابيًا."));
+    const privacy=element("button","mp-action","تغيير اختيار الإعلانات");privacy.type="button";privacy.addEventListener("click",()=>{try{localStorage.removeItem("mp:ad-consent");}catch{}location.reload();});
+    panel.append(profile,list,privacy,element("p","catalog-footnote","المحفوظات والاسم محفوظة على هذا الجهاز فقط، ولا تنشئ حسابًا سحابيًا."));
     fab.addEventListener("click",()=>{panel.hidden=!panel.hidden;fab.setAttribute("aria-expanded",String(!panel.hidden));mpRenderSaved();});
     document.body.append(fab,panel);
     mpRenderSaved();
