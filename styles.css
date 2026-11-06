@@ -335,3 +335,11 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 
 /* Verified merchant links and transparent savings */
 .offer-source-link{display:inline-flex;align-items:center;gap:5px;margin-inline-start:auto;padding:7px 10px;border:1px solid #c9d8e8;border-radius:9px;background:#f2f7fc;color:#174f86;font-size:.78rem;font-weight:700;text-decoration:none}.offer-source-link:hover,.offer-source-link:focus{background:#e5eff9;text-decoration:underline}.offer-savings-difference{margin:5px 0;color:#17633d;font-size:.82rem;font-weight:700}
+
+/* MasrPrices saved items, local alerts, private feedback and ad consent */
+.mp-saved-fab{position:fixed;z-index:80;inset-inline-start:14px;bottom:16px;border:0;border-radius:999px;background:#102b50;color:#fff;padding:12px 18px;font:inherit;font-weight:800;box-shadow:0 5px 22px #102b5040}
+.mp-saved-panel{position:fixed;z-index:79;inset-inline-start:12px;bottom:72px;width:min(360px,calc(100vw - 24px));max-height:65vh;overflow:auto;background:#fff;border:1px solid #dce5ef;border-radius:16px;padding:16px;box-shadow:0 12px 40px #102b5030}
+.mp-saved-panel h3{margin:0 0 12px;color:#102b50}.mp-profile{display:flex;gap:7px;margin-bottom:12px}.mp-profile input{min-width:0;flex:1;padding:9px;border:1px solid #dce5ef;border-radius:9px;font:inherit}
+.mp-action{border:1px solid #cbd8e6;border-radius:9px;background:#f3f7fb;color:#174f86;padding:7px 10px;font:inherit;font-size:.82rem;font-weight:700;cursor:pointer}
+.mp-product-actions{display:flex;flex-wrap:wrap;gap:7px;margin-top:10px}.mp-saved-row{margin:5px 0;padding:7px;border-radius:8px;background:#f4f7fb;font-size:.85rem}.mp-alert-hit{padding:9px;border-radius:9px;background:#eaf5ef;color:#17633d;font-weight:800;font-size:.88rem}
+.mp-consent{position:fixed;z-index:100;inset-inline:12px;bottom:12px;max-width:620px;margin-inline:auto;padding:16px;background:#fff;border:1px solid #d7e1ec;border-radius:16px;box-shadow:0 12px 40px #102b5030}.mp-consent strong{color:#102b50}.mp-consent p{margin:6px 0 12px;color:#58677b;font-size:.9rem}.mp-consent button{margin-inline-end:7px}
