@@ -90,6 +90,89 @@
     const svg='<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf1f8"/><stop offset="1" stop-color="#d6e2ef"/></linearGradient></defs><rect width="640" height="420" rx="28" fill="url(#g)"/><circle cx="320" cy="150" r="82" fill="#fff" opacity=".85"/><path d="M276 178V124q0-12 12-12h64q12 0 12 12v54q0 12-12 12h-64q-12 0-12-12Z" fill="#173d68"/><path d="M296 132h48M296 146h48M296 160h30" stroke="#fff" stroke-width="7" stroke-linecap="round"/><text x="320" y="292" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#102b50">'+xmlText(name)+'</text><text x="320" y="332" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#65758b">'+xmlText(category)+'</text><text x="320" y="378" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#8b3b42">رسم تعريفي مؤقت — ليس صورة المنتج</text></svg>';
     return "data:image/svg+xml;charset=UTF-8,"+encodeURIComponent(svg);
   }
+
+  // Device-local account, favorites, price targets and product feedback.
+  const mpStore={
+    read(key,fallback){try{return JSON.parse(localStorage.getItem("mp:"+key)||"null")??fallback;}catch{return fallback;}},
+    write(key,value){try{localStorage.setItem("mp:"+key,JSON.stringify(value));return true;}catch{return false;}}
+  };
+  const mpId=item=>stableProductId(item)||normalize(item?.name||item?.title||"منتج").replace(/\\s+/g,"-").slice(0,120);
+  function mpEnsurePanel(){
+    if(document.getElementById("mpSavedPanel"))return;
+    const fab=element("button","mp-saved-fab","المحفوظات");
+    fab.type="button";fab.setAttribute("aria-expanded","false");
+    const panel=element("aside","mp-saved-panel");panel.id="mpSavedPanel";panel.hidden=true;
+    panel.append(element("h3","","محفوظاتي على هذا الجهاز"));
+    const profile=element("div","mp-profile");
+    const nickname=element("input","");nickname.type="text";nickname.maxLength=30;nickname.placeholder="اسم عرض اختياري";nickname.value=mpStore.read("nickname","");
+    const saveName=element("button","mp-action","حفظ الاسم");saveName.type="button";
+    saveName.addEventListener("click",()=>{mpStore.write("nickname",nickname.value.trim());saveName.textContent="تم الحفظ";});
+    profile.append(nickname,saveName);
+    const list=element("div","mp-saved-list");list.id="mpSavedList";
+    panel.append(profile,list,element("p","catalog-footnote","المحفوظات والاسم محفوظة على هذا الجهاز فقط، ولا تنشئ حسابًا سحابيًا."));
+    fab.addEventListener("click",()=>{panel.hidden=!panel.hidden;fab.setAttribute("aria-expanded",String(!panel.hidden));mpRenderSaved();});
+    document.body.append(fab,panel);
+    mpRenderSaved();
+  }
+  function mpRenderSaved(){
+    const root=document.getElementById("mpSavedList");if(!root)return;
+    const favs=mpStore.read("favorites",[]),alerts=mpStore.read("alerts",[]);
+    root.replaceChildren();
+    if(!favs.length&&!alerts.length){root.append(element("p","catalog-footnote","لم تحفظ أي منتج بعد."));return;}
+    favs.forEach(x=>{const row=element("p","mp-saved-row", "★ "+x.name);root.append(row);});
+    alerts.forEach(x=>{const row=element("p","mp-saved-row","تنبيه: "+x.name+" عند "+Number(x.target).toLocaleString("en-US")+" جنيه أو أقل");root.append(row);});
+  }
+  function mpAttachProductTools(card,item){
+    if(!item||card.dataset.mpTools)return;card.dataset.mpTools="1";
+    const id=mpId(item),name=String(item.name||item.title||"منتج").slice(0,180);
+    const actions=element("div","mp-product-actions");
+    const fav=element("button","mp-action","☆ حفظ");fav.type="button";
+    const updateFav=()=>{const rows=mpStore.read("favorites",[]);fav.textContent=rows.some(x=>x.id===id)?"★ محفوظ":"☆ حفظ";};
+    updateFav();
+    fav.addEventListener("click",()=>{let rows=mpStore.read("favorites",[]);rows=rows.some(x=>x.id===id)?rows.filter(x=>x.id!==id):[...rows,{id,name}];mpStore.write("favorites",rows);updateFav();mpRenderSaved();});
+    const alert=element("button","mp-action","تنبيه سعر");alert.type="button";
+    alert.addEventListener("click",()=>{
+      const current=Number(item.priceEGP??item.price);
+      const existing=mpStore.read("alerts",[]).find(x=>x.id===id);
+      const target=prompt("اكتب السعر المستهدف بالجنيه. سننبهك عند فتح الموقع إذا ظهر سعر مسجل يساويه أو يقل عنه.",existing?String(existing.target):current>0?String(Math.floor(current*.95)):"");
+      if(target===null)return;const amount=Number(target);
+      if(!Number.isFinite(amount)||amount<=0){alert.textContent="سعر غير صالح";return;}
+      const rows=mpStore.read("alerts",[]).filter(x=>x.id!==id);rows.push({id,name,target:amount,lastNotified:""});
+      mpStore.write("alerts",rows);alert.textContent="تم ضبط التنبيه";mpRenderSaved();
+    });
+    const review=element("button","mp-action","تقييم على جهازي");review.type="button";
+    review.addEventListener("click",()=>{
+      const current=mpStore.read("reviews",{})[id]||{};
+      const rating=prompt("قيّم المنتج من 1 إلى 5 نجوم (تقييم محفوظ على جهازك فقط):",String(current.rating||5));
+      if(rating===null)return;const n=Number(rating);
+      if(!Number.isInteger(n)||n<1||n>5){review.textContent="تقييم غير صالح";return;}
+      const note=prompt("ملاحظة اختيارية قصيرة (لن تُنشر للآخرين):",current.note||"");
+      const all=mpStore.read("reviews",{});all[id]={rating:n,note:String(note||"").slice(0,300),updatedAt:new Date().toISOString()};mpStore.write("reviews",all);
+      review.textContent="تقييمك: "+"★".repeat(n);review.title="تقييم خاص بهذا الجهاز فقط";
+    });
+    actions.append(fav,alert,review);card.append(actions);
+    const alerts=mpStore.read("alerts",[]),price=Number(item.priceEGP??item.price);
+    if(Number.isFinite(price)&&price>0){
+      const match=alerts.find(x=>x.id===id&&price<=Number(x.target)&&x.lastNotified!==String(price));
+      if(match){const notice=element("p","mp-alert-hit","وصل السعر المسجل إلى "+price.toLocaleString("en-US")+" جنيه — أقل من هدفك.");card.append(notice);match.lastNotified=String(price);mpStore.write("alerts",alerts);}
+    }
+  }
+  function mpInitConsent(){
+    const key="mp:ad-consent";let choice=null;try{choice=localStorage.getItem(key);}catch{}
+    const loadAds=()=>{if(document.querySelector('script[data-mp-ads]'))return;const s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.dataset.mpAds="1";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7745184141725915";document.head.append(s);};
+    if(choice==="accepted"){loadAds();return;}
+    if(choice==="rejected")return;
+    const box=element("section","mp-consent");box.setAttribute("aria-label","اختيارات الإعلانات");
+    box.append(element("strong","","اختيارات الإعلانات والخصوصية"),element("p","","يمكنك السماح بتحميل إعلانات Google أو رفضها. اختيارك محفوظ على هذا الجهاز ويمكن تغييره لاحقًا."));
+    const yes=element("button","mp-action","السماح بالإعلانات"),no=element("button","mp-action","رفض الإعلانات");
+    yes.type=no.type="button";
+    yes.addEventListener("click",()=>{try{localStorage.setItem(key,"accepted");}catch{}box.remove();loadAds();});
+    no.addEventListener("click",()=>{try{localStorage.setItem(key,"rejected");}catch{}box.remove();});
+    box.append(yes,no);document.body.append(box);
+  }
+  mpEnsurePanel();
+  mpInitConsent();
+
   function appendProductVisual(card,item){
     const wrap=element("div","catalog-image-wrap");
     const image=element("img","catalog-product-image");
@@ -101,6 +184,7 @@
     if(!/^https:\/\//i.test(realUrl))wrap.append(element("span","catalog-image-label","رسم تعريفي مؤقت"));
     image.onerror=()=>{if(image.src!==fallback){image.src=fallback;wrap.replaceChildren(element("span","catalog-image-label","رسم تعريفي مؤقت"));}};
     wrap.append(image);card.append(wrap);
+    mpAttachProductTools(card,item);
   }
   function catalogPriceExists(item){
     const p=Number(item?.priceEGP??item?.price);
