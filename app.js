@@ -45,39 +45,96 @@
     }
     activeBudgetSection=section;
     if(section.querySelector(".budget-fab"))return;
+
     const fab=element("button","budget-fab","ميزانيتي");
-    fab.type="button";fab.setAttribute("aria-label","ابحث عن المنتجات حسب ميزانيتك");
-    const panel=element("form","budget-panel");panel.hidden=true;
-    panel.append(element("strong","","ابحث حسب ميزانيتك"),element("p","budget-hint","اكتب الحد الأقصى للمبلغ بالجنيه، وسنعرض المنتجات ذات الأسعار المسجلة التي لا تتجاوزه."));
-    const input=element("input","budget-input");input.type="number";input.min="1";input.step="1";input.inputMode="numeric";input.placeholder="مثال: 10000";input.setAttribute("aria-label","الحد الأقصى للميزانية");
-    const actions=element("div","budget-actions"),apply=element("button","budget-apply","اعرض النتائج"),clear=element("button","budget-clear","إلغاء التصفية");
-    apply.type="submit";clear.type="button";actions.append(apply,clear);
-    const status=element("p","budget-status","");status.setAttribute("aria-live","polite");
+    fab.type="button";
+    fab.setAttribute("aria-label","ابحث عن المنتجات حسب ميزانيتك");
+    fab.setAttribute("aria-expanded","false");
+
+    const panel=element("form","budget-panel");
+    panel.hidden=true;
+    panel.append(
+      element("strong","","ابحث حسب ميزانيتك"),
+      element("p","budget-hint","اكتب أقصى مبلغ بالجنيه، وسنعرض المنتجات التي لها سعر رقمي مسجل داخل القسم الحالي فقط.")
+    );
+    const input=element("input","budget-input");
+    input.type="number";
+    input.min="1";
+    input.step="1";
+    input.inputMode="numeric";
+    input.placeholder="مثال: 10000";
+    input.required=true;
+    input.setAttribute("aria-label","الحد الأقصى للميزانية بالجنيه");
+    const actions=element("div","budget-actions");
+    const apply=element("button","budget-apply","اعرض النتائج");
+    const clear=element("button","budget-clear","إلغاء التصفية");
+    apply.type="submit";
+    clear.type="button";
+    actions.append(apply,clear);
+    const status=element("p","budget-status","أدخل الميزانية ثم اضغط اعرض النتائج.");
+    status.setAttribute("aria-live","polite");
     panel.append(input,actions,status);
-    fab.addEventListener("click",()=>{panel.hidden=!panel.hidden;if(!panel.hidden)input.focus();});
-    function productCards(){return Array.from(section.querySelectorAll('[id$="Products"],#propertyListings')).flatMap(root=>Array.from(root.querySelectorAll("article")));}
+
+    function productCards(){
+      return Array.from(section.querySelectorAll("article"));
+    }
     function priceOf(card){
-      const node=card.querySelector(".phone-price,.book-price,.generic-price-available,.property-price,.appliance-price");
+      const node=card.querySelector(".phone-price,.book-price,.generic-price-available,.property-price,.appliance-price,[data-price]");
       if(!node)return null;
-      const digits=String(node.textContent||"").replace(/[٠-٩]/g,d=>String("٠١٢٣٤٥٦٧٨٩".indexOf(d))).replace(/[٬،]/g,",");
-      const matches=Array.from(digits.matchAll(/[0-9][0-9,]*(?:\.[0-9]+)?/g));
-      if(!matches.length)return null;
-      const amount=Number(matches[matches.length-1][0].replace(/,/g,""));
+      const raw=node.getAttribute("data-price")||node.textContent||"";
+      const digits=String(raw)
+        .replace(/[٠-٩]/g,d=>String("٠١٢٣٤٥٦٧٨٩".indexOf(d)))
+        .replace(/[۰-۹]/g,d=>String("۰۱۲۳۴۵۶۷۸۹".indexOf(d)))
+        .replace(/[٬،]/g,",")
+        .replace(/٫/g,".");
+      const match=digits.match(/\d[\d,]*(?:\.\d+)?/);
+      if(!match)return null;
+      const amount=Number(match[0].replace(/,/g,""));
       return Number.isFinite(amount)&&amount>0?amount:null;
     }
     function applyBudget(){
-      const max=Number(input.value);
-      if(!Number.isFinite(max)||max<=0){status.textContent="اكتب ميزانية صحيحة بالجنيه.";return;}
-      const cards=productCards();let shown=0,priced=0;
-      cards.forEach(card=>{const price=priceOf(card);if(price!==null)priced++;const match=price!==null&&price<=max;card.classList.toggle("budget-hidden",!match);if(match)shown++;});
-      status.textContent="ظهر "+shown+" منتج ضمن الميزانية من أصل "+priced+" منتج له سعر مسجل.";
+      const raw=input.value.trim();
+      const max=raw===""?NaN:Number(raw);
+      if(!Number.isFinite(max)||max<=0){
+        status.textContent="من فضلك اكتب مبلغًا صحيحًا أكبر من صفر.";
+        input.focus();
+        return;
+      }
+      const cards=productCards();
+      let shown=0,priced=0,unpriced=0;
+      cards.forEach(card=>{
+        const price=priceOf(card);
+        if(price===null){unpriced++;card.classList.add("budget-hidden");return;}
+        priced++;
+        const match=price<=max;
+        card.classList.toggle("budget-hidden",!match);
+        if(match)shown++;
+      });
+      status.textContent=shown
+        ? "وجدنا "+shown+" منتج ضمن ميزانيتك من "+priced+" منتج له سعر مسجل"+(unpriced?"، وهناك "+unpriced+" بدون سعر رقمي.":"." )
+        : "لا توجد منتجات بسعر مسجل ضمن هذا المبلغ. جرّب ميزانية أعلى."+(unpriced?" يوجد أيضًا "+unpriced+" منتج بدون سعر رقمي.":"");
     }
-    panel.addEventListener("submit",event=>{event.preventDefault();applyBudget();});
-    clear.addEventListener("click",()=>{productCards().forEach(card=>card.classList.remove("budget-hidden"));input.value="";status.textContent="تم إلغاء تصفية الميزانية.";});
+    fab.addEventListener("click",()=>{
+      panel.hidden=!panel.hidden;
+      fab.setAttribute("aria-expanded",String(!panel.hidden));
+      if(!panel.hidden)input.focus();
+    });
+    panel.addEventListener("submit",event=>{
+      event.preventDefault();
+      applyBudget();
+    });
+    clear.addEventListener("click",()=>{
+      productCards().forEach(card=>card.classList.remove("budget-hidden"));
+      input.value="";
+      status.textContent="تم إلغاء تصفية الميزانية وعرض المنتجات مرة أخرى.";
+    });
     section.append(fab,panel);
+
     if(typeof MutationObserver!=="undefined"){
-      const observer=new MutationObserver(()=>{if(input.value&&Number(input.value)>0)applyBudget();});
-      section.querySelectorAll('[id$="Products"],#propertyListings').forEach(root=>observer.observe(root,{childList:true,subtree:true}));
+      const observer=new MutationObserver(()=>{
+        if(!panel.hidden&&input.value.trim()&&Number(input.value)>0)applyBudget();
+      });
+      observer.observe(section,{childList:true,subtree:true});
     }
   }
 
