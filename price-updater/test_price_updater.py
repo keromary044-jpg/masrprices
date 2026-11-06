@@ -133,7 +133,7 @@ class PriceUpdaterTests(unittest.TestCase):
         }, {"phones.json":{"products":[product]}}, "fallback")
         self.assertEqual(accepted, 0)
         self.assertEqual(mocked_get.call_count, 1)
-        self.assertEqual(mocked_get.call_args.kwargs["timeout"], 8)
+        self.assertEqual(mocked_get.call_args.kwargs["timeout"], 120)
 
     @patch.dict(os.environ, {"APISH_API_KEY": ""})
     @patch("github_actions_updater.get_json")
