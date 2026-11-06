@@ -36,12 +36,12 @@ class HTTPSOnlyRedirectHandler(urllib.request.HTTPRedirectHandler):
             raise ValueError("Provider redirect must remain HTTPS")
         return super().redirect_request(req, fp, code, msg, headers, newurl)
 
-def get_json(url, headers=None):
+def get_json(url, headers=None, timeout=30):
     request = urllib.request.Request(
         url, headers={"Accept":"application/json","User-Agent":"MasrPrices-PriceUpdater/2.0", **(headers or {})}
     )
     opener = urllib.request.build_opener(HTTPSOnlyRedirectHandler())
-    with opener.open(request, timeout=30) as response:
+    with opener.open(request, timeout=timeout) as response:
         if not response.geturl().startswith("https://"):
             raise ValueError("Provider redirected away from HTTPS")
         raw = response.read(MAX_BYTES + 1)
@@ -272,14 +272,14 @@ def run_apish_jumia(source, catalogs, checked_at):
     max_calls = source.get("max_calls_per_run", 20)
     if not isinstance(max_calls, int) or max_calls < 1:
         raise ValueError("API.SH max_calls_per_run must be a positive integer")
-    max_calls = min(max_calls, 30)
+    max_calls = min(max_calls, 3)
 
     # Rotate deterministically through the catalog to stay within the free monthly allowance.
     day_number = datetime.now(timezone.utc).date().toordinal()
     start = (day_number * max_calls) % len(candidates)
     selected = [candidates[(start + offset) % len(candidates)] for offset in range(min(max_calls, len(candidates)))]
 
-    accepted = scanned = 0
+    accepted = scanned = request_errors = 0
     endpoint = source.get("endpoint", "https://api.api.sh/jumia/v1/search")
     if not valid_https(endpoint):
         raise ValueError("Invalid API.SH endpoint")
@@ -288,7 +288,13 @@ def run_apish_jumia(source, catalogs, checked_at):
         params = urllib.parse.urlencode({
             "q": name, "country": "eg", "sort": "lowest-price", "page": 1
         })
-        payload = get_json(endpoint + "?" + params, headers)
+        try:
+            # Keep the complete daily job bounded even when the provider is slow.
+            payload = get_json(endpoint + "?" + params, headers, timeout=8)
+        except Exception as exc:
+            request_errors += 1
+            print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__}); continuing")
+            continue
         if not isinstance(payload, dict) or payload.get("success") is False:
             raise ValueError("API.SH returned an unsuccessful Jumia response")
         if payload.get("country") not in (None, "eg", "EG"):
@@ -312,7 +318,7 @@ def run_apish_jumia(source, catalogs, checked_at):
                 item.get("price"), "Jumia Egypt", product_url,
                 payload.get("fetched_at") or checked_at, "API.SH — Jumia Egypt"
             )
-    print(f"OK {source['id']}: matched {accepted} exact buyable Jumia Egypt offers from {scanned} results; searched {len(selected)} catalog products")
+    print(f"OK {source['id']}: matched {accepted} exact buyable Jumia Egypt offers from {scanned} results; searched {len(selected)} catalog products; request_errors={request_errors}")
     return accepted
 
 
