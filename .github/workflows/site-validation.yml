@@ -1,0 +1,91 @@
+name: MasrPrices site validation
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "about.html"
+      - "contact.html"
+      - "privacy.html"
+      - "terms.html"
+      - "products/**"
+      - "site-enhancements.js"
+      - "app.js"
+      - "worker.js"
+      - "functions/api/**"
+      - "manifest.webmanifest"
+      - "sw.js"
+      - "robots.txt"
+      - "sitemap.xml"
+      - "seo-products.json"
+      - ".github/workflows/site-validation.yml"
+  pull_request:
+    paths:
+      - "index.html"
+      - "about.html"
+      - "contact.html"
+      - "privacy.html"
+      - "terms.html"
+      - "products/**"
+      - "site-enhancements.js"
+      - "app.js"
+      - "worker.js"
+      - "functions/api/**"
+      - "manifest.webmanifest"
+      - "sw.js"
+      - "robots.txt"
+      - "sitemap.xml"
+      - "seo-products.json"
+      - ".github/workflows/site-validation.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Validate JavaScript syntax
+        run: |
+          node --check app.js
+          node --check site-enhancements.js
+          node --input-type=module --check < worker.js
+          for file in functions/api/*.js; do node --input-type=module --check < "$file"; done
+      - name: Validate JSON, sitemap, SEO metadata and PWA manifest
+        run: |
+          python - <<'PY'
+          import json, pathlib, re, xml.etree.ElementTree as ET
+          root = pathlib.Path(".")
+          for path in root.rglob("*.json"):
+              json.loads(path.read_text(encoding="utf-8"))
+          manifest = json.loads((root / "manifest.webmanifest").read_text(encoding="utf-8"))
+          assert manifest.get("start_url") == "/" and manifest.get("scope") == "/", "Invalid PWA start_url or scope"
+          assert manifest.get("display") == "standalone", "PWA standalone display is missing"
+          sitemap = ET.parse(root / "sitemap.xml").getroot()
+          ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
+          urls = [node.text for node in sitemap.findall("sm:url/sm:loc", ns)]
+          assert urls, "Sitemap contains no URLs"
+          base = "https://masrprices-new.keromary044.workers.dev/"
+          assert all(url.startswith(base) for url in urls), "Sitemap contains a URL outside the production origin"
+          robots = (root / "robots.txt").read_text(encoding="utf-8")
+          assert base + "sitemap.xml" in robots, "robots.txt does not point to the production sitemap"
+          for name in ["index.html", "about.html", "contact.html", "privacy.html", "terms.html", "products/index.html"]:
+              html = (root / name).read_text(encoding="utf-8")
+              match = re.search(r'<link\\s+rel=["\\']canonical["\\']\\s+href=["\\']([^"\\']+)', html, re.I)
+              assert match and match.group(1).startswith(base), f"Missing or incorrect canonical URL: {name}"
+          home = (root / "index.html").read_text(encoding="utf-8")
+          contact = (root / "contact.html").read_text(encoding="utf-8")
+          assert 'src="/site-enhancements.js"' in home, "Home page is missing the CSP-compatible enhancement script"
+          assert 'src="/site-enhancements.js"' in contact, "Contact page is missing the CSP-compatible enhancement script"
+          assert not re.search(r"<script\\s*>", home, re.I), "Inline script remains on the home page and conflicts with the CSP"
+          assert not re.search(r"<script\\s*>", contact, re.I), "Inline script remains on the contact page and conflicts with the CSP"
+          ids = set(re.findall(r'\\bid=["\\']([^"\\']+)', home))
+          anchors = re.findall(r'href=["\\']#([^"\\']+)', home)
+          missing = sorted(set(anchors) - ids)
+          assert not missing, "Broken home-page anchors: " + ", ".join(missing)
+          print(f"Validated JSON files, {len(urls)} sitemap URLs, six canonical pages, PWA manifest and internal anchors.")
+          PY
