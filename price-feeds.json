@@ -8,8 +8,8 @@
       "id": "pricelens-eg-retailers",
       "name": "PriceLens Egypt multi-store offers API",
       "adapter": "pricelens",
-      "active": false,
-      "status": "requires_api_key_and_plan_activation",
+      "active": true,
+      "status": "pending_api_key_and_plan_activation",
       "secret_env": "PRICELENS_API_KEY",
       "endpoint": "https://pricelens.store/api/v1/partner/deals",
       "scope": "market:read",
@@ -27,8 +27,8 @@
         "watches.json",
         "groceries.json"
       ],
-      "activation_note": "API key and provider plan required. Documentation advertises a 7-day trial and monthly plans. Adapter reads up to 10 pages (1,000 recent deals) per daily run, exact-matches product name and brand, and rejects out-of-stock offers. Keep inactive until an adult account owner obtains the key and confirms the plan.",
-      "max_pages": 10
+      "activation_note": "Enabled in the updater configuration. Requires PRICELENS_API_KEY as a GitHub Actions repository secret and a provider plan with market:read access. Until the key is present the updater skips this source without making API calls. This endpoint is the deals feed, not a complete catalogue feed: it imports only recent in-stock discounted offers, exact-matched by product name and brand. Up to 3 pages (300 deals) per daily run; preserve PriceLens attribution and returned links exactly; cache no longer than 24 hours.",
+      "max_pages": 3
     },
     {
       "id": "apish-jumia-egypt",
