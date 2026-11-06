@@ -109,6 +109,40 @@
       "import_policy": "Recent Egypt-only EGP product observations with exact unique product-name and brand matching; stored separately as communityPriceObservations and never used as the primary retail price or a purchase link.",
       "attribution": "Credit Open Prices and link to the individual API record. Review ODbL obligations before enabling or combining this database with other sources.",
       "activation_note": "Do not enable until the database licensing/reuse implications are reviewed and live Egypt coverage is confirmed. Community observations are not live retailer offers."
+    },
+    {
+      "id": "apish-noon-egypt",
+      "name": "API.SH Noon Egypt product and price API",
+      "adapter": "apish_noon",
+      "active": true,
+      "status": "ready_for_shared_api_key",
+      "secret_env": "APISH_API_KEY",
+      "endpoint": "https://api.api.sh/noon/v1/search",
+      "country": "eg",
+      "currency": "EGP",
+      "refresh_policy": "Daily rotating exact-name searches; only in-stock listings from Noon Egypt are accepted. Offers expire after 14 days without refresh.",
+      "attribution": "Display API.SH — Noon Egypt as source and link directly to the Noon Egypt product listing.",
+      "coverage": [
+        "phones.json",
+        "electronics.json",
+        "appliances.json",
+        "computers-laptops.json",
+        "gaming-devices.json",
+        "networking-internet.json",
+        "watches.json",
+        "groceries.json",
+        "personal-care.json",
+        "perfumes.json",
+        "baby-products.json",
+        "household-cleaning.json",
+        "kitchen-tools-utensils.json",
+        "printers-ink.json",
+        "home-medical-devices.json",
+        "maternity.json",
+        "mattresses-home-linen.json"
+      ],
+      "max_calls_per_run": 3,
+      "activation_note": "Uses the existing APISH_API_KEY GitHub Actions secret; no new key required. Three daily calls maximum (about 90 credits per 30-day month). Egypt storefront only, Arabic search, exact unique name+brand matches, in-stock offers, direct product links, and 14-day expiry."
     }
   ],
   "reference_sources": [
