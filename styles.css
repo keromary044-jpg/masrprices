@@ -321,7 +321,11 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 
 /* Floating budget filter available inside every opened catalog */
 .budget-fab{position:fixed;right:0;top:46%;z-index:1200;border:0;border-radius:12px 0 0 12px;padding:13px 10px;background:#102b50;color:#fff;font:inherit;font-size:.84rem;font-weight:900;box-shadow:0 5px 18px #102b5040;cursor:pointer;writing-mode:vertical-rl}
-.budget-panel{position:fixed;right:48px;top:40%;z-index:1201;width:min(300px,calc(100vw - 64px));padding:15px;border:1px solid #cbd8e7;border-radius:14px;background:#fff;box-shadow:0 12px 34px #102b5030;direction:rtl}
+.budget-panel{position:fixed;right:48px;top:40%;z-index:1201;width:min(340px,calc(100vw - 64px));max-height:min(72vh,560px);overflow:auto;padding:17px;border:1px solid #cbd8e7;border-radius:16px;background:#fff;box-shadow:0 16px 42px #102b5038;direction:rtl}
+.budget-panel:focus-within{border-color:#527eae;box-shadow:0 0 0 3px #527eae20,0 16px 42px #102b5038}
+.budget-input:focus{outline:3px solid #527eae30;border-color:#527eae}
+.budget-fab:focus-visible,.budget-actions button:focus-visible{outline:3px solid #e63946;outline-offset:3px}
+.budget-panel[hidden]{display:none!important}
 .budget-panel[hidden]{display:none!important}
 .budget-panel>strong{display:block;color:#102b50;font-size:1rem}
 .budget-hint,.budget-status{margin:8px 0;color:#526176;font-size:.84rem;line-height:1.7}
@@ -331,7 +335,7 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .budget-apply{background:#102b50;color:#fff}
 .budget-clear{background:#edf2f8;color:#173d68}
 .budget-hidden{display:none!important}
-@media(max-width:600px){.budget-fab{top:42%;padding:12px 8px;font-size:.78rem}.budget-panel{right:42px;top:36%;padding:12px}}
+@media(max-width:600px){.budget-fab{top:42%;padding:12px 8px;font-size:.78rem}.budget-panel{right:42px;top:auto;bottom:14px;width:min(340px,calc(100vw - 54px));max-height:65vh;padding:14px}}
 
 /* Verified merchant links and transparent savings */
 .offer-source-link{display:inline-flex;align-items:center;gap:5px;margin-inline-start:auto;padding:7px 10px;border:1px solid #c9d8e8;border-radius:9px;background:#f2f7fc;color:#174f86;font-size:.78rem;font-weight:700;text-decoration:none}.offer-source-link:hover,.offer-source-link:focus{background:#e5eff9;text-decoration:underline}.offer-savings-difference{margin:5px 0;color:#17633d;font-size:.82rem;font-weight:700}
