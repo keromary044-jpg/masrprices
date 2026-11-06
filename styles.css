@@ -332,3 +332,6 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .budget-clear{background:#edf2f8;color:#173d68}
 .budget-hidden{display:none!important}
 @media(max-width:600px){.budget-fab{top:42%;padding:12px 8px;font-size:.78rem}.budget-panel{right:42px;top:36%;padding:12px}}
+
+/* Verified merchant links and transparent savings */
+.offer-source-link{display:inline-flex;align-items:center;gap:5px;margin-inline-start:auto;padding:7px 10px;border:1px solid #c9d8e8;border-radius:9px;background:#f2f7fc;color:#174f86;font-size:.78rem;font-weight:700;text-decoration:none}.offer-source-link:hover,.offer-source-link:focus{background:#e5eff9;text-decoration:underline}.offer-savings-difference{margin:5px 0;color:#17633d;font-size:.82rem;font-weight:700}
