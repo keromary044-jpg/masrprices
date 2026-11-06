@@ -52,8 +52,8 @@
         "networking-internet.json",
         "watches.json"
       ],
-      "max_calls_per_run": 3,
-      "activation_note": "Add the API key as the GitHub Actions repository secret APISH_API_KEY. Uses at most 3 search credits per daily run (about 90 per 30-day month), rotates through eligible catalog products, and accepts only exact unique product+brand matches with buyable=true and a Jumia Egypt URL."
+      "max_calls_per_run": 15,
+      "activation_note": "Uses at most 15 search credits per daily run (about 450 per 30-day month). Rotates exact product+brand searches across eligible Egypt catalog products; only buyable Jumia Egypt offers are accepted."
     },
     {
       "id": "sama-link-store",
@@ -141,8 +141,8 @@
         "maternity.json",
         "mattresses-home-linen.json"
       ],
-      "max_calls_per_run": 3,
-      "activation_note": "Uses the existing APISH_API_KEY GitHub Actions secret; no new key required. Three daily calls maximum (about 90 credits per 30-day month). Egypt storefront only, Arabic search, exact unique name+brand matches, in-stock offers, direct product links, and 14-day expiry."
+      "max_calls_per_run": 15,
+      "activation_note": "Uses the existing APISH_API_KEY GitHub Actions secret. Uses at most 15 search credits per daily run (about 450 per 30-day month). Egypt storefront, Arabic search, exact unique product+brand matching, in-stock offers, direct product links, and 14-day expiry."
     }
   ],
   "reference_sources": [
