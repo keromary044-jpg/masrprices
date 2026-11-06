@@ -122,6 +122,19 @@ class PriceUpdaterTests(unittest.TestCase):
         self.assertIn("country=eg", requested_url)
         self.assertEqual(headers["x-api-key"], "test-key")
 
+    @patch.dict(os.environ, {"APISH_API_KEY": "test-key"})
+    @patch("github_actions_updater.get_json")
+    def test_apish_jumia_continues_after_a_slow_search(self, mocked_get):
+        mocked_get.side_effect = TimeoutError("provider timeout")
+        product = {"name":"Samsung Galaxy A56 5G","brand":"Samsung"}
+        accepted = run_apish_jumia({
+            "id":"apish-timeout-test","endpoint":"https://api.api.sh/jumia/v1/search",
+            "coverage":["phones.json"],"max_calls_per_run":1
+        }, {"phones.json":{"products":[product]}}, "fallback")
+        self.assertEqual(accepted, 0)
+        self.assertEqual(mocked_get.call_count, 1)
+        self.assertEqual(mocked_get.call_args.kwargs["timeout"], 8)
+
     @patch.dict(os.environ, {"APISH_API_KEY": ""})
     @patch("github_actions_updater.get_json")
     def test_apish_jumia_does_not_call_api_without_secret(self, mocked_get):
