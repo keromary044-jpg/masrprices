@@ -161,9 +161,25 @@
         if(offer.sourceLabel||offer.checkedAt)details.append(element("small","offer-variant",[offer.sourceLabel,offer.checkedAt].filter(Boolean).join(" · ")));
         row.append(details,element("strong","offer-price",offer.price.toLocaleString("en-US")+" جنيه"));
         if(best&&offer.price===best.price)row.append(element("span","best-store-star","★ أقل سعر"));
+        if(offer.source){
+          try{
+            const sourceUrl=new URL(offer.source);
+            if(sourceUrl.protocol==="https:"){
+              const link=element("a","offer-source-link","زيارة العرض لدى المتجر");
+              link.href=sourceUrl.href;link.target="_blank";link.rel="noopener noreferrer nofollow";
+              row.append(link);
+            }
+          }catch(_error){/* Ignore malformed source URLs. */}
+        }
         panel.append(row);
       });
-      if(best)panel.append(element("p","offer-savings","أقل سعر موثّق: "+best.merchant+" — "+best.price.toLocaleString("en-US")+" جنيه ★"));
+      if(best){
+        const highest=sorted[sorted.length-1];
+        panel.append(element("p","offer-savings","أقل سعر موثّق: "+best.merchant+" — "+best.price.toLocaleString("en-US")+" جنيه"));
+        if(highest&&highest.price>best.price){
+          panel.append(element("p","offer-savings-difference","توفير محتمل "+(highest.price-best.price).toLocaleString("en-US")+" جنيه مقارنة بأعلى عرض مسجل."));
+        }
+      }
       panel.append(element("small","offer-disclaimer","الأسعار حسب آخر رصد موضح، وقد تتغير لدى المتجر."));
     }
     button.addEventListener("click",async()=>{
