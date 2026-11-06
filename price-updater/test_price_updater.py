@@ -140,6 +140,7 @@ class PriceUpdaterTests(unittest.TestCase):
         self.assertEqual(product["priceProvider"], "API.SH — Noon Egypt")
         self.assertEqual(mocked_get.call_args.kwargs["timeout"], 120)
 
+    @patch.dict(os.environ, {"APISH_API_KEY": "test-key"})
     @patch("github_actions_updater.get_json")
     def test_apish_jumia_continues_after_a_slow_search(self, mocked_get):
         mocked_get.side_effect = TimeoutError("provider timeout")
