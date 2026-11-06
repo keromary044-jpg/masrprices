@@ -272,7 +272,7 @@ def run_apish_jumia(source, catalogs, checked_at):
     max_calls = source.get("max_calls_per_run", 20)
     if not isinstance(max_calls, int) or max_calls < 1:
         raise ValueError("API.SH max_calls_per_run must be a positive integer")
-    max_calls = min(max_calls, 3)
+    max_calls = min(max_calls, 15)
 
     # Rotate deterministically through the catalog to stay within the free monthly allowance.
     day_number = datetime.now(timezone.utc).date().toordinal()
@@ -358,7 +358,7 @@ def run_apish_noon(source, catalogs, checked_at):
     max_calls = source.get("max_calls_per_run", 3)
     if not isinstance(max_calls, int) or max_calls < 1:
         raise ValueError("API.SH noon max_calls_per_run must be a positive integer")
-    max_calls = min(max_calls, 3)
+    max_calls = min(max_calls, 15)
     day_number = datetime.now(timezone.utc).date().toordinal()
     start = (day_number * max_calls) % len(candidates)
     selected = [candidates[(start + offset) % len(candidates)] for offset in range(min(max_calls, len(candidates)))]
