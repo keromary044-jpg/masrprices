@@ -1,7 +1,7 @@
 import os
 import unittest
 from unittest.mock import patch
-from github_actions_updater import normalize, apply_offer, run_pricelens, run_open_prices, run_apish_jumia, expire_stale_offers
+from github_actions_updater import normalize, apply_offer, run_pricelens, run_open_prices, run_apish_jumia, run_apish_noon, expire_stale_offers
 from coverage_report import freshness_status
 
 class PriceUpdaterTests(unittest.TestCase):
@@ -136,7 +136,7 @@ class PriceUpdaterTests(unittest.TestCase):
         }
         source = {"id":"apish-noon-test","endpoint":"https://api.api.sh/noon/v1/search",
                   "secret_env":"APISH_API_KEY","coverage":["phones.json"],"max_calls_per_run":3}
-        accepted = updater.run_apish_noon(source, catalogs, "2026-11-06")
+        accepted = run_apish_noon(source, catalogs, "2026-11-06")
         self.assertEqual(accepted, 1)
         self.assertEqual(product["priceEGP"], 12000)
         self.assertEqual(product["priceProvider"], "API.SH — Noon Egypt")
