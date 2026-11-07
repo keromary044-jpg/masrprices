@@ -907,11 +907,26 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy A55 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 20999,
+      "priceSource": "Noon Egypt",
+      "priceStatus": "جديد – المتجر يعرض 3 وحدات وقت الرصد؛ 8GB RAM / 128GB / 5G / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "Noon Egypt",
+      "priceOffers": [
+        {
+          "merchant": "Noon Egypt",
+          "priceEGP": 20999,
+          "variant": "8GB RAM / 128GB / 5G / جديد",
+          "condition": "جديد – المتجر يعرض 3 وحدات وقت الرصد",
+          "source": "https://www.noon.com/egypt-ar/galaxy-a55-dual-sim-awesome-navy-8gb-ram-128gb-5g-middle-east-version/N70049904V/p/",
+          "sourceLabel": "Noon Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://www.noon.com/egypt-ar/galaxy-a55-dual-sim-awesome-navy-8gb-ram-128gb-5g-middle-east-version/N70049904V/p/",
+      "merchant": "Noon Egypt"
     },
     {
       "id": "samsung-galaxy-a35-5g",
@@ -1356,44 +1371,104 @@
       "brand": "OPPO",
       "name": "OPPO Find X8",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29500,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "جديد؛ 16GB RAM / 256GB / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 29500,
+          "variant": "16GB RAM / 256GB / جديد",
+          "condition": "جديد",
+          "source": "https://mobile.store-eg.com/en/product/oppo-find-x8",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/oppo-find-x8",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "oppo-reno13-pro-5g",
       "brand": "OPPO",
       "name": "OPPO Reno13 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 28750,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "مفتوح العلبة – ليس جديدًا؛ 12GB RAM / 512GB / Open Box؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 28750,
+          "variant": "12GB RAM / 512GB / Open Box",
+          "condition": "مفتوح العلبة – ليس جديدًا",
+          "source": "https://mobile.store-eg.com/en/product/oppo-reno-13-pro-5g",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/oppo-reno-13-pro-5g",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "oppo-reno13-5g",
       "brand": "OPPO",
       "name": "OPPO Reno13 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29250,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "جديد؛ 12GB RAM / 256GB / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 29250,
+          "variant": "12GB RAM / 256GB / جديد",
+          "condition": "جديد",
+          "source": "https://mobile.store-eg.com/en/product/oppo-reno-13-5g",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/oppo-reno-13-5g",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "oppo-reno12-pro-5g",
       "brand": "OPPO",
       "name": "OPPO Reno12 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 28750,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "جديد؛ 12GB RAM / 256GB / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 28750,
+          "variant": "12GB RAM / 256GB / جديد",
+          "condition": "جديد",
+          "source": "https://mobile.store-eg.com/en/product/oppo-reno-12-pro-5g",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/oppo-reno-12-pro-5g",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "oppo-reno12-5g",
@@ -1558,11 +1633,26 @@
       "brand": "realme",
       "name": "realme GT 7 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29250,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "جديد؛ 16GB RAM / 512GB / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 29250,
+          "variant": "16GB RAM / 512GB / جديد",
+          "condition": "جديد",
+          "source": "https://mobile.store-eg.com/en/product/realme-gt-7-pro",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/realme-gt-7-pro",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "realme-gt-6",
@@ -1762,11 +1852,26 @@
       "brand": "vivo",
       "name": "vivo X100 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 28750,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "مُجدد – ليس جديدًا؛ 16GB RAM / 256GB / Refurbished؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 28750,
+          "variant": "16GB RAM / 256GB / Refurbished",
+          "condition": "مُجدد – ليس جديدًا",
+          "source": "https://store-eg.com/s/mobile/en/product/vivo-x100-pro",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://store-eg.com/s/mobile/en/product/vivo-x100-pro",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "vivo-x100",
@@ -1821,11 +1926,26 @@
       "brand": "vivo",
       "name": "vivo V40 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 30000,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "جديد؛ 12GB RAM / 256GB / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 30000,
+          "variant": "12GB RAM / 256GB / جديد",
+          "condition": "جديد",
+          "source": "https://store-eg.com/s/mobile/en/product/vivo-v40",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://store-eg.com/s/mobile/en/product/vivo-v40",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "vivo-v30-pro-5g",
@@ -2469,22 +2589,52 @@
       "brand": "Motorola",
       "name": "Motorola Edge 50 Ultra",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29500,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "مُجدد – ليس جديدًا؛ 16GB RAM / 1TB / Refurbished؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 29500,
+          "variant": "16GB RAM / 1TB / Refurbished",
+          "condition": "مُجدد – ليس جديدًا",
+          "source": "https://mobile.store-eg.com/en/product/motorola-edge-50-ultra",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/motorola-edge-50-ultra",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "motorola-edge-50-pro",
       "brand": "Motorola",
       "name": "Motorola Edge 50 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 28750,
+      "priceSource": "MS Mobile Store",
+      "priceStatus": "جديد؛ 12GB RAM / 512GB / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "MS Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 28750,
+          "variant": "12GB RAM / 512GB / جديد",
+          "condition": "جديد",
+          "source": "https://mobile.store-eg.com/en/product/motorola-edge-50-pro",
+          "sourceLabel": "MS Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/motorola-edge-50-pro",
+      "merchant": "MS Mobile Store"
     },
     {
       "id": "motorola-edge-50-fusion",
@@ -2857,33 +3007,78 @@
       "brand": "Apple",
       "name": "iPhone 15 Pro Max",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 81221.25,
+      "priceSource": "TechEgypt",
+      "priceStatus": "سعر معروض لدى المتجر؛ 256GB / Middle East Version؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "TechEgypt",
+      "priceOffers": [
+        {
+          "merchant": "TechEgypt",
+          "priceEGP": 81221.25,
+          "variant": "256GB / Middle East Version",
+          "condition": "سعر معروض لدى المتجر",
+          "source": "https://techtegypt.com/collections/iphone-15",
+          "sourceLabel": "TechEgypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://techtegypt.com/collections/iphone-15",
+      "merchant": "TechEgypt"
     },
     {
       "id": "apple-iphone-15-pro",
       "brand": "Apple",
       "name": "iPhone 15 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 66220.5,
+      "priceSource": "TechEgypt",
+      "priceStatus": "سعر معروض لدى المتجر؛ 128GB / Middle East Version؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "TechEgypt",
+      "priceOffers": [
+        {
+          "merchant": "TechEgypt",
+          "priceEGP": 66220.5,
+          "variant": "128GB / Middle East Version",
+          "condition": "سعر معروض لدى المتجر",
+          "source": "https://techtegypt.com/collections/iphone-15",
+          "sourceLabel": "TechEgypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://techtegypt.com/collections/iphone-15",
+      "merchant": "TechEgypt"
     },
     {
       "id": "apple-iphone-15-plus",
       "brand": "Apple",
       "name": "iPhone 15 Plus",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 63300,
+      "priceSource": "WE Telecom Egypt",
+      "priceStatus": "سعر قائمة جهاز 128GB لدى WE؛ 128GB؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "sourceLabel": "WE Telecom Egypt",
+      "priceOffers": [
+        {
+          "merchant": "WE Telecom Egypt",
+          "priceEGP": 63300,
+          "variant": "128GB",
+          "condition": "سعر قائمة جهاز 128GB لدى WE",
+          "source": "https://www.te.eg/en/web/guest/personal/devices/5g-devices/mobile",
+          "sourceLabel": "WE Telecom Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://www.te.eg/en/web/guest/personal/devices/5g-devices/mobile",
+      "merchant": "WE Telecom Egypt"
     },
     {
       "id": "apple-iphone-15",
