@@ -3825,12 +3825,15 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
+      "source": "https://wakteey.com/en/devices/galaxy-a35/price-in-egypt",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 23499,
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "priceType": "reference"
     },
     {
       "id": "samsung-galaxy-a34",
@@ -7277,12 +7280,15 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.honor.com/eg/phones/",
+      "source": "https://wakteey.com/en/devices/x9c/price-in-egypt",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 22228,
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "priceType": "reference"
     },
     {
       "id": "honor-x9b",
