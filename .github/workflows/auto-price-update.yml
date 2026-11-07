@@ -78,6 +78,8 @@ jobs:
           name: masrprices-price-coverage
           path: price-coverage-report.json
           if-no-files-found: error
+      - name: Discard generated report from worktree
+        run: git restore --worktree -- price-coverage-report.json
       - name: Save changed catalog files
         run: |
           git config user.name "github-actions[bot]"
