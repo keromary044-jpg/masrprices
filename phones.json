@@ -9043,20 +9043,69 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "12GB RAM / 256GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://wakteey.com/en/devices/camon-40-pro/price-in-egypt",
+      "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": 18734,
-      "priceSource": "Wakteey – Egypt phone price index",
-      "priceStatus": "أقل سعر مرصود في مؤشر أسعار الهواتف المصري؛ السعر مرجعي وليس عرض متجر محددًا. تاريخ تحديث المصدر 2 نوفمبر 2026، ويجب التأكد من النسخة والتوفر قبل الشراء.",
-      "priceOffers": [],
-      "priceCheckedAt": "2026-11-02"
+      "priceEGP": 17679,
+      "priceSource": "PriceTeq / B.TECH Egypt",
+      "priceStatus": "سعر جديد لنسخة 12GB/256GB مرصود بتاريخ 7 نوفمبر 2026؛ تحقق من السعر والتوفر والضمان عند المتجر قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 17679,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://btech.com/en/p/b26de24d-0254-4655-9f15-66c685095b2c?offering_id=92cdec11-5be6-4e93-aaaa-5f9de9890563&utm_medium=referral&utm_source=priceteq.com",
+          "sourceLabel": "B.TECH Egypt عبر PriceTeq",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 20222,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
+          "sourceLabel": "PriceTeq – مقارنة المتاجر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 21199,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
+          "sourceLabel": "PriceTeq – مقارنة المتاجر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 21199,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
+          "sourceLabel": "PriceTeq – مقارنة المتاجر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 21999,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
+          "sourceLabel": "PriceTeq – مقارنة المتاجر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceProvider": "PriceTeq – عروض متاجر مصرية",
+      "merchant": "B.TECH Egypt"
     },
     {
       "id": "tecno-camon-40",
