@@ -14782,10 +14782,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 19450,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي منشور؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر حاليًا.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 19450,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://aramobi.com/mobile-price/346063/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-09-01",
+          "observedAt": "2026-09-01",
+          "availability": "check_store"
+        }
+      ],
+      "priceCheckedAt": "2026-09-01",
+      "priceObservedAt": "2026-09-01",
+      "merchant": "Aramobi"
     },
     {
       "id": "oneplus-oneplus-9-pro",
@@ -15088,10 +15102,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.ztedevices.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 59060,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي منشور؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر حاليًا.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 59060,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://aramobi.com/mobile-price/672782/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-09-06",
+          "observedAt": "2026-09-06",
+          "availability": "check_store"
+        }
+      ],
+      "priceCheckedAt": "2026-09-06",
+      "priceObservedAt": "2026-09-06",
+      "merchant": "Aramobi"
     },
     {
       "id": "zte-nubia-z60-ultra",
@@ -15902,13 +15930,27 @@
       "build": "راجع صفحة الشركة",
       "source": "https://www.hmd.com/ar_eg/all-phones",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 4499,
+      "priceSource": "HMD Egypt",
+      "priceStatus": "سعر معلن على صفحة HMD مصر؛ راجع النسخة والتوفر.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "HMD Egypt",
+          "priceEGP": 4499,
+          "variant": "تختلف حسب النسخة",
+          "source": "https://www.hmd.com/ar_eg/smartphones",
+          "sourceLabel": "HMD Egypt",
+          "checkedAt": "2026-10",
+          "observedAt": "2026-10",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-10",
+      "priceObservedAt": "2026-10",
+      "merchant": "HMD Egypt"
     },
     {
       "id": "hmd-hmd-arc",
@@ -15952,13 +15994,27 @@
       "build": "راجع صفحة الشركة",
       "source": "https://www.hmd.com/ar_eg/all-phones",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 13699,
+      "priceSource": "HMD Egypt",
+      "priceStatus": "سعر معلن على صفحة HMD مصر؛ راجع النسخة والتوفر.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "HMD Egypt",
+          "priceEGP": 13699,
+          "variant": "تختلف حسب النسخة",
+          "source": "https://www.hmd.com/ar_eg/smartphones",
+          "sourceLabel": "HMD Egypt",
+          "checkedAt": "2026-10",
+          "observedAt": "2026-10",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-10",
+      "priceObservedAt": "2026-10",
+      "merchant": "HMD Egypt"
     },
     {
       "id": "hmd-hmd-crest-max-5g",
@@ -15977,13 +16033,27 @@
       "build": "راجع صفحة الشركة",
       "source": "https://www.hmd.com/ar_eg/all-phones",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 11599,
+      "priceSource": "HMD Egypt",
+      "priceStatus": "سعر معلن على صفحة HMD مصر؛ راجع النسخة والتوفر.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "HMD Egypt",
+          "priceEGP": 11599,
+          "variant": "تختلف حسب النسخة",
+          "source": "https://www.hmd.com/ar_eg/smartphones",
+          "sourceLabel": "HMD Egypt",
+          "checkedAt": "2026-10",
+          "observedAt": "2026-10",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-10",
+      "priceObservedAt": "2026-10",
+      "merchant": "HMD Egypt"
     },
     {
       "id": "hmd-hmd-skyline",
@@ -16002,13 +16072,27 @@
       "build": "راجع صفحة الشركة",
       "source": "https://www.hmd.com/ar_eg/all-phones",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 22999,
+      "priceSource": "HMD Egypt",
+      "priceStatus": "سعر معلن على صفحة HMD مصر؛ راجع النسخة والتوفر.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "HMD Egypt",
+          "priceEGP": 22999,
+          "variant": "تختلف حسب النسخة",
+          "source": "https://www.hmd.com/ar_eg/smartphones",
+          "sourceLabel": "HMD Egypt",
+          "checkedAt": "2026-10",
+          "observedAt": "2026-10",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-10",
+      "priceObservedAt": "2026-10",
+      "merchant": "HMD Egypt"
     },
     {
       "id": "hmd-hmd-pulse-pro",
@@ -16027,13 +16111,27 @@
       "build": "راجع صفحة الشركة",
       "source": "https://www.hmd.com/ar_eg/all-phones",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 9099,
+      "priceSource": "HMD Egypt",
+      "priceStatus": "السعر الرسمي المعروض لهاتف HMD Pulse Pro؛ تختلف الأسعار حسب سعة الذاكرة.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "HMD Egypt",
+          "priceEGP": 9099,
+          "variant": "تختلف حسب النسخة",
+          "source": "https://www.hmd.com/ar_eg/hmd-pulse-pro",
+          "sourceLabel": "HMD Egypt",
+          "checkedAt": "2026-10",
+          "observedAt": "2026-10",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-10",
+      "priceObservedAt": "2026-10",
+      "merchant": "HMD Egypt"
     },
     {
       "id": "hmd-hmd-102",
@@ -18633,9 +18731,25 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 3000,
+      "priceStatus": "سعر منشور في يوليو 2026؛ قد يختلف حسب نسخة الذاكرة وحالة الجهاز.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Mobicee",
+      "priceCheckedAt": "2026-07-04",
+      "priceObservedAt": "2026-07-04",
+      "merchant": "Mobicee",
+      "priceOffers": [
+        {
+          "merchant": "Mobicee",
+          "priceEGP": 3000,
+          "variant": "توجد نسخ متعددة حسب السوق",
+          "source": "https://mobicee.com/xiaomi-redmi-note-9-specs/",
+          "sourceLabel": "Mobicee",
+          "checkedAt": "2026-07-04",
+          "observedAt": "2026-07-04",
+          "availability": "check_store"
+        }
+      ]
     },
     {
       "id": "redmi-redminote9pro",
