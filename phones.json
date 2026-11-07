@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07",
+  "updatedAt": "2026-11-07T16:11:09.296Z",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -16293,22 +16293,34 @@
       "release": "غير محدد في المصدر المصري",
       "display": "راجع صفحة الشركة للمواصفات الخاصة بالنسخة",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة",
+      "memory": "4GB RAM / 64GB حسب عرض المتجر",
       "rearCamera": "راجع صفحة الشركة",
       "frontCamera": "راجع صفحة الشركة",
       "battery": "راجع صفحة الشركة",
       "os": "حسب النسخة",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة",
-      "source": "https://www.hmd.com/ar_eg/all-phones",
-      "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "source": "https://compuscience.com.eg/ar/-/4800-hmd-arc-4g-4gb-ram-64gb-shadow-black.html",
+      "sourceLabel": "CompuScience – صفحة منتج مباشرة",
+      "priceEGP": 2999,
+      "priceSource": "CompuScience – متجر مصري",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB بسعر 2,999 جنيه؛ تحقق من استمرار التوفر والسعر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "CompuScience",
+          "priceEGP": 2999,
+          "variant": "4GB RAM / 64GB",
+          "source": "https://compuscience.com.eg/ar/-/4800-hmd-arc-4g-4gb-ram-64gb-shadow-black.html",
+          "sourceLabel": "CompuScience – صفحة منتج مباشرة",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07"
     },
     {
       "id": "hmd-hmd-fusion",
@@ -20502,18 +20514,33 @@
       "release": "غير محدد في سجل القائمة",
       "display": "المواصفات التفصيلية غير مدخلة بعد؛ راجع مرجع الموديل",
       "processor": "غير متاح في السجل المختصر",
-      "memory": "توجد نسخ متعددة حسب السوق",
+      "memory": "12GB RAM / 512GB حسب المرجع السعري",
       "rearCamera": "غير متاح في السجل المختصر",
       "frontCamera": "غير متاح في السجل المختصر",
       "battery": "غير متاح في السجل المختصر",
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://www.egyptaway.com/p/xiaomi-17-price-egypt.html",
+      "sourceLabel": "EgyptAway – مرجع سعر سوقي مصري",
+      "priceEGP": 51999,
+      "priceStatus": "سعر سوقي تقريبي لنسخة 12GB RAM / 512GB، وليس عرض متجر مباشر مؤكد؛ تحقق من السعر والتوفر قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "EgyptAway – متوسط سعر سوقي منقول عن Phones7",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "priceOffers": [
+        {
+          "merchant": "مرجع سوقي (Phones7 عبر EgyptAway)",
+          "priceEGP": 51999,
+          "variant": "12GB RAM / 512GB",
+          "source": "https://www.egyptaway.com/p/xiaomi-17-price-egypt.html",
+          "sourceLabel": "EgyptAway – متوسط سعر سوقي منشور بتاريخ 2026-11-02",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-02",
+          "availability": "غير مؤكد لدى متجر بعينه"
+        }
+      ]
     },
     {
       "id": "xiaomi-xiaomicivi",
@@ -28412,6 +28439,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "تحديث جديد: مراجعة أسعار AllCall وReekoo وHMD باستخدام صفحات الشركة ومتاجر مصرية، مع حفظ عروض متعددة ومصدر كل عرض.",
+  "priceUpdateNote": "أضيفت أسعار موثقة لهاتفي HMD Arc وXiaomi 17؛ سعر HMD Arc من صفحة متجر، وسعر Xiaomi 17 تقديري سوقي وليس عرض متجر مباشر.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
