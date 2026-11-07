@@ -1033,11 +1033,25 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 15 Ultra",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29000,
+      "priceSource": "Mobile Store – سعر متجر مصري",
+      "priceStatus": "سعر مرصود لنسخة 16GB RAM / 512GB / جديد حسب صفحة المتجر بتاريخ 2026-11-07؛ تحقق من السعر والتوفر قبل الشراء.",
+      "sourceLabel": "Mobile Store – سعر متجر مصري",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 29000,
+          "variant": "16GB RAM / 512GB / جديد",
+          "source": "https://mobile.store-eg.com/en/product/xiaomi-15-ultra",
+          "sourceLabel": "Mobile Store – سعر متجر مصري",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/xiaomi-15-ultra",
+      "merchant": "Mobile Store"
     },
     {
       "id": "xiaomi-xiaomi-15",
@@ -1068,11 +1082,25 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 14T Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 28750,
+      "priceSource": "Mobile Store – سعر متجر مصري",
+      "priceStatus": "سعر مرصود لنسخة 12GB RAM / 256GB / جديد حسب صفحة المتجر بتاريخ 2026-11-07؛ تحقق من السعر والتوفر قبل الشراء.",
+      "sourceLabel": "Mobile Store – سعر متجر مصري",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 28750,
+          "variant": "12GB RAM / 256GB / جديد",
+          "source": "https://mobile.store-eg.com/en/product/xiaomi-14t-pro",
+          "sourceLabel": "Mobile Store – سعر متجر مصري",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/product/xiaomi-14t-pro",
+      "merchant": "Mobile Store"
     },
     {
       "id": "xiaomi-xiaomi-14t",
@@ -5191,12 +5219,25 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://mobile.store-eg.com/en/product/xiaomi-15-ultra",
+      "sourceLabel": "Mobile Store – سعر متجر مصري",
+      "priceEGP": 29000,
+      "priceSource": "Mobile Store – سعر متجر مصري",
+      "priceStatus": "سعر مرصود لنسخة 16GB RAM / 512GB / جديد حسب صفحة المتجر بتاريخ 2026-11-07؛ تحقق من السعر والتوفر قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 29000,
+          "variant": "16GB RAM / 512GB / جديد",
+          "source": "https://mobile.store-eg.com/en/product/xiaomi-15-ultra",
+          "sourceLabel": "Mobile Store – سعر متجر مصري",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Mobile Store"
     },
     {
       "id": "xiaomi-xiaomi-15-2",
@@ -5609,12 +5650,25 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://mobile.store-eg.com/en/product/xiaomi-14t-pro",
+      "sourceLabel": "Mobile Store – سعر متجر مصري",
+      "priceEGP": 28750,
+      "priceSource": "Mobile Store – سعر متجر مصري",
+      "priceStatus": "سعر مرصود لنسخة 12GB RAM / 256GB / جديد حسب صفحة المتجر بتاريخ 2026-11-07؛ تحقق من السعر والتوفر قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 28750,
+          "variant": "12GB RAM / 256GB / جديد",
+          "source": "https://mobile.store-eg.com/en/product/xiaomi-14t-pro",
+          "sourceLabel": "Mobile Store – سعر متجر مصري",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Mobile Store"
     },
     {
       "id": "xiaomi-xiaomi-14t-2",
