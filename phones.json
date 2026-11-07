@@ -685,24 +685,72 @@
       "name": "Samsung Galaxy S25 Ultra",
       "category": "هاتف ذكي",
       "priceEGP": 63499,
-      "priceSource": "PriceTeq – مقارنة متاجر مصر",
-      "priceStatus": "السعر يبدأ من 63,499 جنيه لنسخة 12GB/256GB؛ قد تختلف الأسعار حسب سعة التخزين والنسخة.",
+      "priceSource": "PriceTeq / Technology Valley Egypt",
+      "priceStatus": "سعر بداية للموديل بحسب أقل نسخة معروضة: 12GB/256GB؛ تم رصد 6 متاجر بتاريخ 7 نوفمبر 2026. السعر لا ينطبق على نسخ 512GB أو 1TB.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [
         {
           "merchant": "Technology Valley Egypt",
           "priceEGP": 63499,
           "variant": "12GB RAM / 256GB / 5G",
-          "source": "https://priceteq.com/eg/product/1910faa1-edf9-464a-aae2-a4f510dda073",
-          "sourceLabel": "PriceTeq – مقارنة متاجر مصر",
+          "source": "https://priceteq.com/eg/product/6613c41f-936d-4459-8453-d847bf7240c1",
+          "sourceLabel": "PriceTeq – Technology Valley Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 63971,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/6613c41f-936d-4459-8453-d847bf7240c1",
+          "sourceLabel": "PriceTeq – Raneen Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 63999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/6613c41f-936d-4459-8453-d847bf7240c1",
+          "sourceLabel": "PriceTeq – Elghazawy Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 65499,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/6613c41f-936d-4459-8453-d847bf7240c1",
+          "sourceLabel": "PriceTeq – Vodafone Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 65500,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/6613c41f-936d-4459-8453-d847bf7240c1",
+          "sourceLabel": "PriceTeq – Raya Shop Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Elshennawy Stores Egypt",
+          "priceEGP": 66715,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/6613c41f-936d-4459-8453-d847bf7240c1",
+          "sourceLabel": "PriceTeq – Elshennawy Stores Egypt",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
         }
       ],
       "price": 63499,
       "merchant": "Technology Valley Egypt",
-      "source": "https://priceteq.com/eg/product/1910faa1-edf9-464a-aae2-a4f510dda073",
-      "priceCheckedAt": "2026-11-07"
+      "source": "https://priceteq.com/eg/product/6613c41f-936d-4459-8453-d847bf7240c1",
+      "priceCheckedAt": "2026-11-07",
+      "memory": "أقل نسخة مرصودة: 12GB RAM / 256GB / 5G",
+      "priceObservedAt": "2026-11-07",
+      "priceProvider": "PriceTeq – مقارنة 6 متاجر مصرية"
     },
     {
       "id": "samsung-galaxy-s25",
