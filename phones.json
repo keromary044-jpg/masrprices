@@ -4465,15 +4465,27 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://wakteey.com/en/devices/iphone-17/price-in-egypt",
+      "source": "https://priceteq.com/eg/product/19830a46-d33f-428a-a7b0-8be97888217f",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": 74880,
-      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
-      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
-      "priceOffers": [],
+      "priceEGP": 48750,
+      "priceSource": "PriceTeq – أقل سعر مرصود في متاجر مصر",
+      "priceStatus": "أقل سعر مرصود 48,750 جنيه لدى Elshennawy Stores Egypt؛ نسخة 256GB جديدة وشاملة الضريبة. تحقق من التوفر والضمان على صفحة المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elshennawy Stores Egypt",
+          "priceEGP": 48750,
+          "variant": "256GB / جديد / السعر شامل الضريبة",
+          "source": "https://priceteq.com/eg/product/19830a46-d33f-428a-a7b0-8be97888217f",
+          "sourceLabel": "PriceTeq – مقارنة أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-02",
-      "priceType": "reference"
+      "priceObservedAt": "2026-11-07",
+      "priceType": "reference",
+      "price": 48750,
+      "merchant": "Elshennawy Stores Egypt"
     },
     {
       "id": "apple-iphone-13-mini",
