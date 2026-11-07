@@ -4963,11 +4963,25 @@
       "brand": "Nothing",
       "name": "Nothing Phone (3a) Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 29000,
+      "priceSource": "Mobile Store Egypt",
+      "priceStatus": "سعر متجر منشور؛ تاريخ آخر تحديث غير ظاهر في نتيجة المصدر. يجب تأكيد التوفر والسعر لدى المتجر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29000,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://store-eg.com/s/mobile/en/product/nothing-phone-3a-pro",
+          "sourceLabel": "Mobile Store – صفحة المنتج",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 29000,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "Mobile Store Egypt",
+      "merchant": "Mobile Store Egypt"
     },
     {
       "id": "nothing-phone-3a",
@@ -5040,22 +5054,54 @@
       "brand": "Nothing",
       "name": "Nothing Phone (2)",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 37390,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقديري؛ المصدر يصرّح أن السعر المحلي الحقيقي غير متوفر. ليس عرض متجر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 37390,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://aramobi.com/mobile-price/nothing/أسعار-هواتف-نوثينج-في-مصر/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "price": 37390,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "Aramobi",
+      "merchant": "Aramobi",
+      "priceObservedAt": "2026-11-06"
     },
     {
       "id": "nothing-phone-1",
       "brand": "Nothing",
       "name": "Nothing Phone (1)",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 24470,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقديري؛ المصدر يصرّح أن السعر المحلي الحقيقي غير متوفر. ليس عرض متجر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 24470,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://aramobi.com/mobile-price/nothing/أسعار-هواتف-نوثينج-في-مصر/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "price": 24470,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "Aramobi",
+      "merchant": "Aramobi",
+      "priceObservedAt": "2026-11-06"
     },
     {
       "id": "huawei-pura-70-ultra",
@@ -5199,78 +5245,162 @@
       "brand": "ASUS",
       "name": "ASUS ROG Phone 9 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 74440,
+      "priceSource": "MobileMall – تقدير محوّل من السعر العالمي",
+      "priceStatus": "تقدير محوّل من السعر الأمريكي وليس سعر متجر مصري؛ قد لا يشمل الجمارك والضرائب ولا يؤكد التوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "MobileMall – تقدير محوّل من السعر العالمي",
+          "priceEGP": 74440,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://egypt.mobilemall.co/asus",
+          "sourceLabel": "MobileMall – ROG Phone 9 Pro",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "price": 74440,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobileMall – تقدير محوّل من السعر العالمي",
+      "merchant": "MobileMall – تقدير محوّل من السعر العالمي"
     },
     {
       "id": "asus-rog-phone-9",
       "brand": "ASUS",
       "name": "ASUS ROG Phone 9",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 55045,
+      "priceSource": "MobileMall – تقدير محوّل من السعر العالمي",
+      "priceStatus": "تقدير محوّل من السعر الأمريكي وليس سعر متجر مصري؛ قد لا يشمل الجمارك والضرائب ولا يؤكد التوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "MobileMall – تقدير محوّل من السعر العالمي",
+          "priceEGP": 55045,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://egypt.mobilemall.co/asus",
+          "sourceLabel": "MobileMall – ROG Phone 9",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "price": 55045,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobileMall – تقدير محوّل من السعر العالمي",
+      "merchant": "MobileMall – تقدير محوّل من السعر العالمي"
     },
     {
       "id": "asus-rog-phone-8-pro",
       "brand": "ASUS",
       "name": "ASUS ROG Phone 8 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 55045,
+      "priceSource": "MobileMall – تقدير محوّل من السعر العالمي",
+      "priceStatus": "تقدير محوّل من السعر الأمريكي وليس سعر متجر مصري؛ قد لا يشمل الجمارك والضرائب ولا يؤكد التوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "MobileMall – تقدير محوّل من السعر العالمي",
+          "priceEGP": 55045,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://egypt.mobilemall.co/asus",
+          "sourceLabel": "MobileMall – ROG Phone 8 Pro",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "price": 55045,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobileMall – تقدير محوّل من السعر العالمي",
+      "merchant": "MobileMall – تقدير محوّل من السعر العالمي"
     },
     {
       "id": "asus-rog-phone-8",
       "brand": "ASUS",
       "name": "ASUS ROG Phone 8",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 52290,
+      "priceSource": "MobileMall – تقدير محوّل من السعر العالمي",
+      "priceStatus": "تقدير محوّل من السعر الأمريكي وليس سعر متجر مصري؛ قد لا يشمل الجمارك والضرائب ولا يؤكد التوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "MobileMall – تقدير محوّل من السعر العالمي",
+          "priceEGP": 52290,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://egypt.mobilemall.co/asus",
+          "sourceLabel": "MobileMall – ROG Phone 8",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "price": 52290,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobileMall – تقدير محوّل من السعر العالمي",
+      "merchant": "MobileMall – تقدير محوّل من السعر العالمي"
     },
     {
       "id": "asus-zenfone-11-ultra",
       "brand": "ASUS",
       "name": "ASUS Zenfone 11 Ultra",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 49535,
+      "priceSource": "MobileMall – تقدير محوّل من السعر العالمي",
+      "priceStatus": "تقدير محوّل من السعر الأمريكي وليس سعر متجر مصري؛ قد لا يشمل الجمارك والضرائب ولا يؤكد التوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "MobileMall – تقدير محوّل من السعر العالمي",
+          "priceEGP": 49535,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://egypt.mobilemall.co/asus",
+          "sourceLabel": "MobileMall – Zenfone 11 Ultra",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "price": 49535,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobileMall – تقدير محوّل من السعر العالمي",
+      "merchant": "MobileMall – تقدير محوّل من السعر العالمي"
     },
     {
       "id": "asus-zenfone-10",
       "brand": "ASUS",
       "name": "ASUS Zenfone 10",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 41270,
+      "priceSource": "MobileMall – تقدير محوّل من السعر العالمي",
+      "priceStatus": "تقدير محوّل من السعر الأمريكي وليس سعر متجر مصري؛ قد لا يشمل الجمارك والضرائب ولا يؤكد التوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "MobileMall – تقدير محوّل من السعر العالمي",
+          "priceEGP": 41270,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://egypt.mobilemall.co/asus",
+          "sourceLabel": "MobileMall – Zenfone 10",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "price": 41270,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobileMall – تقدير محوّل من السعر العالمي",
+      "merchant": "MobileMall – تقدير محوّل من السعر العالمي"
     },
     {
       "id": "samsung-galaxy-s25-2",
@@ -10754,10 +10884,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 19836,
+      "priceSource": "MobileMall",
+      "priceStatus": "تقدير محوّل من السعر الأمريكي؛ ليس سعر متجر مصري ولا يؤكد التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "MobileMall",
+          "priceEGP": 19836,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://egypt.mobilemall.co/realme-gt-neo5",
+          "sourceLabel": "MobileMall – Realme GT Neo 5",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 19836,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobileMall",
+      "merchant": "MobileMall"
     },
     {
       "id": "realme-12-pro-5g-2",
@@ -10868,10 +11012,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 12958,
+      "priceSource": "MobGsm",
+      "priceStatus": "قيمة مرجعية تقديرية من قاعدة مواصفات وأسعار؛ قديمة وغير مؤكدة كسعر بيع محلي. ليست عرض متجر.",
+      "priceOffers": [
+        {
+          "merchant": "MobGsm",
+          "priceEGP": 12958,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://eg.mobgsm.com/mobile/realme-10-pro-plus-price-in-egypt/",
+          "sourceLabel": "MobGsm – Realme 10 Pro+",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 12958,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobGsm",
+      "merchant": "MobGsm"
     },
     {
       "id": "realme-10-pro-5g-2",
@@ -11173,10 +11331,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 20550,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر. ليس عرض متجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 20550,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://aramobi.com/mobile-price/507794/",
+          "sourceLabel": "Aramobi – Realme Narzo 60 Pro",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-11-01"
+        }
+      ],
+      "price": 20550,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "Aramobi",
+      "merchant": "Aramobi",
+      "priceObservedAt": "2026-11-01"
     },
     {
       "id": "realme-narzo-50",
@@ -12842,12 +13016,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 24200,
+      "priceSource": "3edda – قائمة أسعار هواوي في مصر",
+      "priceStatus": "سعر استرشادي من قائمة منشورة منذ عدة أشهر؛ ليس عرض متجر حاليًا ويجب التحقق من التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "3edda – قائمة أسعار هواوي في مصر",
+          "priceEGP": 24200,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://3edda.com/egypt/huawei",
+          "sourceLabel": "3edda – P50 Pro",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 24200,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "3edda – قائمة أسعار هواوي في مصر",
+      "merchant": "3edda – قائمة أسعار هواوي في مصر",
+      "priceObservedAt": "2026-07"
     },
     {
       "id": "huawei-p50",
@@ -12890,12 +13080,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 18600,
+      "priceSource": "3edda – قائمة أسعار هواوي في مصر",
+      "priceStatus": "سعر استرشادي من قائمة منشورة منذ عدة أشهر؛ ليس عرض متجر حاليًا ويجب التحقق من التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "3edda – قائمة أسعار هواوي في مصر",
+          "priceEGP": 18600,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://3edda.com/egypt/huawei",
+          "sourceLabel": "3edda – P40 Pro",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 18600,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "3edda – قائمة أسعار هواوي في مصر",
+      "merchant": "3edda – قائمة أسعار هواوي في مصر",
+      "priceObservedAt": "2026-07"
     },
     {
       "id": "huawei-p40",
@@ -12914,12 +13120,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 16000,
+      "priceSource": "3edda – قائمة أسعار هواوي في مصر",
+      "priceStatus": "سعر استرشادي من قائمة منشورة منذ عدة أشهر؛ ليس عرض متجر حاليًا ويجب التحقق من التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "3edda – قائمة أسعار هواوي في مصر",
+          "priceEGP": 16000,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://3edda.com/egypt/huawei",
+          "sourceLabel": "3edda – P40",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 16000,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "3edda – قائمة أسعار هواوي في مصر",
+      "merchant": "3edda – قائمة أسعار هواوي في مصر",
+      "priceObservedAt": "2026-07"
     },
     {
       "id": "huawei-mate-50-pro",
@@ -12962,12 +13184,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 22500,
+      "priceSource": "3edda – قائمة أسعار هواوي في مصر",
+      "priceStatus": "سعر استرشادي من قائمة منشورة منذ عدة أشهر؛ ليس عرض متجر حاليًا ويجب التحقق من التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "3edda – قائمة أسعار هواوي في مصر",
+          "priceEGP": 22500,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://3edda.com/egypt/huawei",
+          "sourceLabel": "3edda – Mate 40 Pro",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 22500,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "3edda – قائمة أسعار هواوي في مصر",
+      "merchant": "3edda – قائمة أسعار هواوي في مصر",
+      "priceObservedAt": "2026-07"
     },
     {
       "id": "huawei-nova-12-pro",
@@ -13094,12 +13332,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 5926,
+      "priceSource": "3edda – قائمة أسعار هواوي في مصر",
+      "priceStatus": "سعر استرشادي من قائمة منشورة منذ عدة أشهر؛ ليس عرض متجر حاليًا ويجب التحقق من التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "3edda – قائمة أسعار هواوي في مصر",
+          "priceEGP": 5926,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://3edda.com/egypt/huawei",
+          "sourceLabel": "3edda – Nova 10",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 5926,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "3edda – قائمة أسعار هواوي في مصر",
+      "merchant": "3edda – قائمة أسعار هواوي في مصر",
+      "priceObservedAt": "2026-07"
     },
     {
       "id": "huawei-nova-9",
@@ -13118,12 +13372,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 11500,
+      "priceSource": "3edda – قائمة أسعار هواوي في مصر",
+      "priceStatus": "سعر استرشادي من قائمة منشورة منذ عدة أشهر؛ ليس عرض متجر حاليًا ويجب التحقق من التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "3edda – قائمة أسعار هواوي في مصر",
+          "priceEGP": 11500,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://3edda.com/egypt/huawei",
+          "sourceLabel": "3edda – Nova 9",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 11500,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "3edda – قائمة أسعار هواوي في مصر",
+      "merchant": "3edda – قائمة أسعار هواوي في مصر",
+      "priceObservedAt": "2026-07"
     },
     {
       "id": "huawei-y9a",
@@ -13142,12 +13412,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 5990,
+      "priceSource": "3edda – قائمة أسعار هواوي في مصر",
+      "priceStatus": "سعر استرشادي من قائمة منشورة منذ عدة أشهر؛ ليس عرض متجر حاليًا ويجب التحقق من التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "3edda – قائمة أسعار هواوي في مصر",
+          "priceEGP": 5990,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://3edda.com/egypt/huawei",
+          "sourceLabel": "3edda – Y9a",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 5990,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "3edda – قائمة أسعار هواوي في مصر",
+      "merchant": "3edda – قائمة أسعار هواوي في مصر",
+      "priceObservedAt": "2026-07"
     },
     {
       "id": "huawei-y7a",
@@ -13166,12 +13452,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 8000,
+      "priceSource": "3edda – قائمة أسعار هواوي في مصر",
+      "priceStatus": "سعر استرشادي من قائمة منشورة منذ عدة أشهر؛ ليس عرض متجر حاليًا ويجب التحقق من التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "3edda – قائمة أسعار هواوي في مصر",
+          "priceEGP": 8000,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://3edda.com/egypt/huawei",
+          "sourceLabel": "3edda – Y7a",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 8000,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "3edda – قائمة أسعار هواوي في مصر",
+      "merchant": "3edda – قائمة أسعار هواوي في مصر",
+      "priceObservedAt": "2026-07"
     },
     {
       "id": "huawei-y9-prime-2019",
@@ -13238,12 +13540,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 24000,
+      "priceSource": "MobGadgets – سعر استرشادي",
+      "priceStatus": "سعر استرشادي منشور على موقع تجميعي؛ لا يثبت سعر متجر مصري أو توافر الجهاز، تحقق قبل الاعتماد.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي",
+          "priceEGP": 24000,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://mobgadgets.com/gadgets/eg_motorola?page=3",
+          "sourceLabel": "MobGadgets – Edge 30 Ultra",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 24000,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobGadgets – سعر استرشادي",
+      "merchant": "MobGadgets – سعر استرشادي"
     },
     {
       "id": "motorola-edge-30-fusion",
@@ -13262,12 +13578,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 5070,
+      "priceSource": "MobGadgets – سعر استرشادي",
+      "priceStatus": "سعر استرشادي منشور على موقع تجميعي؛ لا يثبت سعر متجر مصري أو توافر الجهاز، تحقق قبل الاعتماد.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي",
+          "priceEGP": 5070,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://mobgadgets.com/gadgets/eg_motorola?page=3",
+          "sourceLabel": "MobGadgets – Edge 30 Fusion",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 5070,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobGadgets – سعر استرشادي",
+      "merchant": "MobGadgets – سعر استرشادي"
     },
     {
       "id": "motorola-edge-30-neo",
@@ -13286,12 +13616,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 9000,
+      "priceSource": "MobGadgets – سعر استرشادي",
+      "priceStatus": "سعر استرشادي منشور على موقع تجميعي؛ لا يثبت سعر متجر مصري أو توافر الجهاز، تحقق قبل الاعتماد.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي",
+          "priceEGP": 9000,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://mobgadgets.com/gadgets/eg_motorola?page=3",
+          "sourceLabel": "MobGadgets – Edge 30 Neo",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 9000,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobGadgets – سعر استرشادي",
+      "merchant": "MobGadgets – سعر استرشادي"
     },
     {
       "id": "motorola-moto-g84-5g",
@@ -13348,12 +13692,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 6420,
+      "priceSource": "MobGadgets – سعر استرشادي",
+      "priceStatus": "سعر استرشادي منشور على موقع تجميعي؛ لا يثبت سعر متجر مصري أو توافر الجهاز، تحقق قبل الاعتماد.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي",
+          "priceEGP": 6420,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://mobgadgets.com/gadgets/eg_motorola?page=3",
+          "sourceLabel": "MobGadgets – Moto G73",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 6420,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobGadgets – سعر استرشادي",
+      "merchant": "MobGadgets – سعر استرشادي"
     },
     {
       "id": "motorola-moto-g13",
@@ -13372,12 +13730,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 7500,
+      "priceSource": "MobGadgets – سعر استرشادي",
+      "priceStatus": "سعر استرشادي منشور على موقع تجميعي؛ لا يثبت سعر متجر مصري أو توافر الجهاز، تحقق قبل الاعتماد.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي",
+          "priceEGP": 7500,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://mobgadgets.com/gadgets/eg_motorola?page=3",
+          "sourceLabel": "MobGadgets – Moto G13",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 7500,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobGadgets – سعر استرشادي",
+      "merchant": "MobGadgets – سعر استرشادي"
     },
     {
       "id": "motorola-moto-e13",
@@ -13396,12 +13768,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 3000,
+      "priceSource": "MobGadgets – سعر استرشادي",
+      "priceStatus": "سعر استرشادي منشور على موقع تجميعي؛ لا يثبت سعر متجر مصري أو توافر الجهاز، تحقق قبل الاعتماد.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي",
+          "priceEGP": 3000,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://mobgadgets.com/gadgets/eg_motorola?page=3",
+          "sourceLabel": "MobGadgets – Moto E13",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 3000,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobGadgets – سعر استرشادي",
+      "merchant": "MobGadgets – سعر استرشادي"
     },
     {
       "id": "motorola-moto-e22",
@@ -13420,12 +13806,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 2400,
+      "priceSource": "MobGadgets – سعر استرشادي",
+      "priceStatus": "سعر استرشادي منشور على موقع تجميعي؛ لا يثبت سعر متجر مصري أو توافر الجهاز، تحقق قبل الاعتماد.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي",
+          "priceEGP": 2400,
+          "variant": "النسخة غير محددة في المصدر",
+          "source": "https://mobgadgets.com/gadgets/eg_motorola?page=3",
+          "sourceLabel": "MobGadgets – Moto E22",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 2400,
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "MobGadgets – سعر استرشادي",
+      "merchant": "MobGadgets – سعر استرشادي"
     },
     {
       "id": "nokia-nokia-g42-5g",
@@ -16162,9 +16562,27 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 5390,
+      "priceStatus": "آخر سعر مرصود 10/09/2026 لنسخة 4GB/128GB؛ المصدر يقول إن السعر غير محدث حاليًا. سعر تاريخي وليس عرضًا حاليًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "price": 5390,
+      "priceSource": "Phones7",
+      "priceOffers": [
+        {
+          "merchant": "Phones7",
+          "priceEGP": 5390,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://phones7.com/en/eg/prices/xiaomi-redmi-note-11-price-in-egypt/",
+          "sourceLabel": "Phones7 – Redmi Note 11",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-09-10"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceProvider": "Phones7",
+      "merchant": "Phones7",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "redmi-redmi10",
@@ -26223,6 +26641,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "أضيفت أسعار مرجعية جديدة بتاريخ 2026-11-07. تم تمييز أسعار المتاجر عن الأسعار الاسترشادية والتقديرية، ولا تعني الأسعار الاسترشادية توافر عرض شراء مباشر.",
+  "priceUpdateNote": "تمت إضافة أسعار متاجر ومراجع تقديرية وتاريخية بتاريخ 2026-11-07 مع تمييز نوع المصدر وحالة التوفر؛ الأسعار التقديرية والتاريخية ليست عروض شراء مباشرة.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
