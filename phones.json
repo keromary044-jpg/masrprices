@@ -8721,12 +8721,15 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.infinixmobility.com/",
+      "source": "https://wakteey.com/en/devices/smart-9/price-in-egypt",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4765,
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "priceType": "reference"
     },
     {
       "id": "infinix-smart-8",
@@ -13427,11 +13430,15 @@
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/redmi-phones/",
+      "source": "https://wakteey.com/en/devices/redmi-a5/price-in-egypt",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 6199,
+      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "priceType": "reference"
     },
     {
       "id": "redmi-redmik30ultra",
