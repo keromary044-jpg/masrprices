@@ -3003,11 +3003,14 @@
       "brand": "TECNO",
       "name": "TECNO Camon 20",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 7499,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 8GB/256GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/tecno-camon-20/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "tecno-pova-6-pro-5g",
@@ -4981,11 +4984,14 @@
       "brand": "Nothing",
       "name": "Nothing Phone (2a) Plus",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 20220,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/635984/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04"
     },
     {
       "id": "nothing-phone-2a",
@@ -9093,10 +9099,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 48650,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/711769/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "poco-poco-f7-pro",
