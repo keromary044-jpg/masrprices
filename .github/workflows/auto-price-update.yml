@@ -43,7 +43,7 @@ jobs:
           node --input-type=module --check < functions/api/real-estate-admin.js
           python -c "import json,glob; files=glob.glob('**/*.json',recursive=True); [json.load(open(p,encoding='utf-8')) for p in files]; print(f'Validated {len(files)} JSON files')"
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Validate Worker security configuration
