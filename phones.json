@@ -15984,6 +15984,15 @@
           "sourceLabel": "متجر AllCall Egypt الرسمي – صفحة المنتج",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "SofiMob",
+          "priceEGP": 4200,
+          "variant": "AllCall HERO 60C – 2GB RAM + 64GB",
+          "source": "https://www.sofimob.com/ar/phones?page=6",
+          "sourceLabel": "SofiMob – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         }
       ],
       "priceSearchAttempts": 1,
@@ -16034,9 +16043,9 @@
       "build": "راجع صفحة الشركة",
       "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": 5150,
-      "priceSource": "متجر AllCall Egypt الرسمي – قائمة المنتجات",
-      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
+      "priceEGP": 4099,
+      "priceSource": "AllCall Egypt / Reekoo – الموقع الرسمي",
+      "priceStatus": "سعر منشور على صفحة المنتج الرسمية بتاريخ 2026-11-07؛ تحقق من السعر والتوافر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
       "priceOffers": [
         {
@@ -16045,6 +16054,15 @@
           "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
           "source": "https://allcall-eg.com/product-category/mobile/",
           "sourceLabel": "متجر AllCall Egypt الرسمي – قائمة المنتجات",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "AllCall Egypt",
+          "priceEGP": 4099,
+          "variant": "Hero 60 MAX – صفحة المنتج الرسمية",
+          "source": "https://reekoo-mobile.com/phones/hero-60-max/",
+          "sourceLabel": "AllCall Egypt / Reekoo – الموقع الرسمي",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
         }
@@ -16188,6 +16206,15 @@
           "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
           "source": "https://www.egprices.com/ar/product/allcall-reekoo-note-70",
           "sourceLabel": "EGPrices – عرض متجر Dream 2000، آخر تحقق ظاهر قبل 13 ساعة",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "El Shennawy",
+          "priceEGP": 5990,
+          "variant": "64GB ROM / 3GB RAM (11GB expanded)",
+          "source": "https://www.elshennawy.com/index.php?manufacturer_id=17&route=product%2Fmanufacturer%2Finfo",
+          "sourceLabel": "El Shennawy – صفحة المنتج",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
         }
@@ -16456,9 +16483,9 @@
       "build": "راجع صفحة الشركة",
       "source": "https://www.hmd.com/ar_eg/all-phones",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": 950,
-      "priceSource": "PriceLens – عرض HMD 102 لدى Kimo",
-      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
+      "priceEGP": 899,
+      "priceSource": "PriceLens – مقارنة أسعار HMD في مصر",
+      "priceStatus": "أقل سعر متجر مرصود من قائمة مقارنة بتاريخ 2026-11-07؛ تختلف النسخ والألوان، تحقق من التوفر.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
       "priceOffers": [
         {
@@ -16467,6 +16494,15 @@
           "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
           "source": "https://pricelens.store/en/products/hmd-hmd-102-dual-sim-8mb-4mb-ram-1-77-inch-2g",
           "sourceLabel": "PriceLens – عرض HMD 102 لدى Kimo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "PriceLens / Kimo",
+          "priceEGP": 899,
+          "variant": "HMD 102 Dual SIM, 1.7-inch, 2G",
+          "source": "https://pricelens.store/en/categories/smartphones/brand/hmd",
+          "sourceLabel": "PriceLens – مقارنة أسعار HMD في مصر",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
         }
@@ -28376,6 +28412,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "تمت إضافة أسعار منشورة لبعض موديلات AllCall وReekoo وHMD من صفحات متاجر/الشركة، مع حفظ مصدر كل سعر وتاريخ الرصد. لا يعني السعر ضمان التوافر الحالي.",
+  "priceUpdateNote": "تحديث جديد: مراجعة أسعار AllCall وReekoo وHMD باستخدام صفحات الشركة ومتاجر مصرية، مع حفظ عروض متعددة ومصدر كل عرض.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
