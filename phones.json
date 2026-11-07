@@ -1771,22 +1771,28 @@
       "brand": "OPPO",
       "name": "OPPO A5 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 12999,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر متوسط سعر منشور لنسخة 8GB/256GB؛ تحقق من توافر نسخة 5G.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/oppo-a5-pro/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "oppo-a3-pro-5g",
       "brand": "OPPO",
       "name": "OPPO A3 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 9450,
+      "priceSource": "Mobile News",
+      "priceStatus": "تقدير منشور لنسخة 8GB/256GB؛ السعر تقريبي وقد يختلف حسب المتجر والتوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://www.mobile.news/article/35703/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-01"
     },
     {
       "id": "oppo-a3x",
@@ -2473,11 +2479,14 @@
       "brand": "vivo",
       "name": "vivo Y28 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 5250,
+      "priceSource": "Mobile57",
+      "priceStatus": "سعر استرشادي منشور لطراز Y28 5G؛ ليس عرض متجر مصري مؤكد.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://www.mobile57.com/eg/phones/vivo-y28-5g-14245",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-01"
     },
     {
       "id": "vivo-y27",
@@ -2790,13 +2799,16 @@
       "brand": "HONOR",
       "name": "Honor 50",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 10500,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 8GB/256GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceSourceUrl": "https://phones7.com/honor-50/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09"
     },
     {
       "id": "tecno-phantom-v-fold2-5g",
@@ -3404,26 +3416,32 @@
       "brand": "Infinix",
       "name": "Infinix Note 30 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 9499,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 8GB/256GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://phones7.com/infinix-note-30-pro/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "infinix-note-30",
       "brand": "Infinix",
       "name": "Infinix Note 30",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 9999,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة Note 30 5G / 8GB / 256GB؛ قد يختلف عن النسخ الأخرى.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://phones7.com/infinix-note-30/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "infinix-hot-50-pro",
@@ -9717,10 +9735,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 24130,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/270717/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-07"
     },
     {
       "id": "oppo-reno14-5g",
@@ -9739,10 +9760,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 24499,
+      "priceSource": "Vodafone Egypt عبر Qarenly",
+      "priceStatus": "سعر متجر منشور لنسخة Reno14 5G؛ راجع التوفر النهائي لدى فودافون.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://qarenly.com/ar/vodafone-eg/oppo-reno14-5g-smartphone-1311209071",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "oppo-reno10-pro-5g",
