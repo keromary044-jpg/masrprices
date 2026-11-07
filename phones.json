@@ -160,8 +160,26 @@
       "os": "Android مع واجهة Xiaomi HyperOS؛ الإصدار قد يختلف حسب المنطقة والتحديث",
       "connectivity": "5G، Wi‑Fi، Bluetooth، NFC حسب المنطقة، USB‑C، شريحتان أو eSIM حسب المنطقة",
       "build": "162.33 × 74.42 × 8.4 مم تقريبًا، 190 جم",
-      "source": "https://www.mi.com/ae-en/product/redmi-note-14-pro-5g/specs/",
-      "sourceLabel": "Xiaomi – المواصفات الرسمية"
+      "source": "https://daleelmob.com/phones/xiaomi/egypt-prices",
+      "sourceLabel": "Xiaomi – المواصفات الرسمية",
+      "priceOffers": [
+        {
+          "merchant": "سعر سوق مرجعي",
+          "priceEGP": 20745,
+          "variant": "8/256GB أو 12/256GB أو 12/512GB حسب السوق",
+          "source": "https://daleelmob.com/phones/xiaomi/egypt-prices",
+          "sourceLabel": "DaleelMob – سعر سوق مرجعي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "priceEGP": 20745,
+      "price": 20745,
+      "priceSource": "DaleelMob – سعر سوق مرجعي",
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "سعر سوق مرجعي",
+      "priceStatus": "سعر سوق مرجعي منشور في نوفمبر 2026؛ ليس عرض متجر محددًا وقد يختلف حسب النسخة والتوفر."
     },
     {
       "id": "realme-14-pro-5g",
@@ -178,8 +196,26 @@
       "os": "Android مع realme UI؛ يختلف الإصدار حسب المنطقة والتحديث",
       "connectivity": "5G، Wi‑Fi، Bluetooth، USB‑C؛ التفاصيل قد تختلف حسب نسخة السوق",
       "build": "المقاسات والوزن يختلفان حسب اللون/النسخة؛ راجع صفحة الشركة للنسخة المحلية",
-      "source": "https://www.realme.com/eg/realme-14-pro-5g/specs",
-      "sourceLabel": "realme مصر – المواصفات الرسمية"
+      "source": "https://eshop.vodafone.com.eg/ar/prod/realme-14pro-5g-smart-phone",
+      "sourceLabel": "realme مصر – المواصفات الرسمية",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 18499,
+          "variant": "8/128GB أو 8/256GB أو 12/256GB أو 12/512GB حسب السوق",
+          "source": "https://eshop.vodafone.com.eg/ar/prod/realme-14pro-5g-smart-phone",
+          "sourceLabel": "Vodafone Egypt – آخر سعر معلن",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-07",
+          "availability": "out_of_stock"
+        }
+      ],
+      "priceEGP": 18499,
+      "price": 18499,
+      "priceSource": "Vodafone Egypt – آخر سعر معلن",
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Vodafone Egypt",
+      "priceStatus": "آخر سعر معلن 18,499 جنيه؛ صفحة فودافون تشير إلى أن الجهاز غير متوفر حاليًا. ليس عرضًا متاحًا للشراء الآن."
     },
     {
       "id": "oppo-reno14-pro-5g",
@@ -196,8 +232,26 @@
       "os": "Android مع ColorOS؛ الإصدار حسب السوق والتحديث",
       "connectivity": "Nano‑SIM وeSIM حسب دعم شركة الاتصالات، USB‑C",
       "build": "163.35 × 76.98 مم تقريبًا، سمك 7.48–7.58 مم، 201 جم",
-      "source": "https://www.oppo.com/eg/smartphones/series-reno/reno14-pro/specs/",
-      "sourceLabel": "OPPO مصر – المواصفات الرسمية"
+      "source": "https://2b.com.eg/en/oppo-reno-14-pro-5g-12gb-ram-512gb-titanium-grey.html",
+      "sourceLabel": "OPPO مصر – المواصفات الرسمية",
+      "priceOffers": [
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 36990,
+          "variant": "12GB RAM + 512GB، LPDDR5X وUFS 3.1",
+          "source": "https://2b.com.eg/en/oppo-reno-14-pro-5g-12gb-ram-512gb-titanium-grey.html",
+          "sourceLabel": "2B Egypt – آخر سعر معلن",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-24",
+          "availability": "out_of_stock"
+        }
+      ],
+      "priceEGP": 36990,
+      "price": 36990,
+      "priceSource": "2B Egypt – آخر سعر معلن",
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "2B Egypt",
+      "priceStatus": "آخر سعر معلن 36,990 جنيه؛ صفحة 2B تشير إلى نفاد المخزون. ليس عرضًا متاحًا للشراء الآن."
     },
     {
       "id": "samsung-a17-256",
@@ -740,11 +794,26 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy A35 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 23249,
+      "priceSource": "Pricena – عرض مرصود من نون",
+      "priceStatus": "سعر مرصود لنسخة 8GB/128GB من نون؛ السعر قد يختلف حسب النسخة واللون.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Noon Egypt",
+          "priceEGP": 23249,
+          "variant": "نسخة حسب عرض المصدر",
+          "source": "https://eg.pricena.com/ar/product/samsung-galaxy-a35-price-in-egypt",
+          "sourceLabel": "Pricena – عرض مرصود من نون",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 23249,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Noon Egypt",
+      "source": "https://eg.pricena.com/ar/product/samsung-galaxy-a35-price-in-egypt"
     },
     {
       "id": "samsung-galaxy-a25-5g",
