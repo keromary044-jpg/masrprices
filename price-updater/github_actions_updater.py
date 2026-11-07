@@ -89,15 +89,17 @@ def catalog_product_has_price(product):
         except (TypeError, ValueError):
             pass
     offers = product.get("priceOffers")
-    return isinstance(offers, list) and any(
-        isinstance(offer, dict) and
-        any(
-            (lambda value: value > 0)(float(str(offer.get(key) or "").replace(",", "").strip()))
-            for key in ("priceEGP", "price_egp", "price")
-            if str(offer.get(key) or "").strip()
-        )
-        for offer in offers
-    )
+    if isinstance(offers, list):
+        for offer in offers:
+            if not isinstance(offer, dict):
+                continue
+            for key in ("priceEGP", "price_egp", "price"):
+                try:
+                    if float(str(offer.get(key) or "").replace(",", "").strip()) > 0:
+                        return True
+                except (TypeError, ValueError):
+                    continue
+    return False
 
 def build_search_candidates(source_catalogs):
     """Prioritize every unpriced phone before other catalogs, fairly rotating attempts."""
