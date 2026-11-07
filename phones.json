@@ -1037,11 +1037,13 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 14T",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 19999,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "السعر المنشور يبدأ من 19,999 ويصل إلى 25,000 جنيه. تم تسجيل الحد الأدنى كسعر مرجعي؛ قد يختلف حسب النسخة والسعة. ليس عرض متجر محددًا.",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "source": "https://daleelmob.com/phones/egypt-prices"
     },
     {
       "id": "xiaomi-xiaomi-13t-pro",
@@ -5531,12 +5533,13 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://daleelmob.com/phones/egypt-prices",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceEGP": 19999,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "السعر المنشور يبدأ من 19,999 ويصل إلى 25,000 جنيه. تم تسجيل الحد الأدنى كسعر مرجعي؛ قد يختلف حسب النسخة والسعة. ليس عرض متجر محددًا.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07"
     },
     {
       "id": "xiaomi-xiaomi-13t-pro-2",
