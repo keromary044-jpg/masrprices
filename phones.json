@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:11:09.296Z",
+  "updatedAt": "2026-11-07T18:00:00+02:00",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -18642,9 +18642,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 3200,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi4",
@@ -18663,9 +18669,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 2700,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi4x",
@@ -18758,9 +18770,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 2000,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi4prime",
@@ -18874,9 +18892,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 2500,
+      "priceStatus": "سعر مصري مرجعي منشور للموديل؛ الجهاز قديم ولا يؤكد المصدر توافره للبيع الآن.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "PhoneZed",
+      "priceSourceUrl": "https://phonezed.com/redmi-note-prime-specs/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2025-08-10",
+      "merchant": "PhoneZed",
+      "priceOffers": []
     },
     {
       "id": "redmi-redminote3",
@@ -18932,9 +18956,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 7351,
+      "priceStatus": "تقدير منشور بالجنيه المصري؛ الجهاز متوقف والمصدر يحذر من احتمال تقادم السعر وعدم ضمان دقته.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGsm",
+      "priceSourceUrl": "https://eg.mobgsm.com/mobile/xiaomi-redmi-2a-price-in-egypt/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-07-01",
+      "merchant": "MobGsm",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi2",
@@ -19187,9 +19217,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 2600,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi3x",
@@ -19208,9 +19244,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 3400,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi5",
@@ -19423,9 +19465,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 8430,
+      "priceStatus": "مرجع سعر تقديري منشور في قائمة مصر؛ ليس عرض متجر مباشرًا مؤكدًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGadgets",
+      "priceSourceUrl": "https://mobgadgets.com/gadgets/eg_xiaomi?page=5",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobGadgets",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmik60",
@@ -19590,9 +19638,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 8250,
+      "priceStatus": "سعر تقريبي منشور للموديل في مصر؛ المصدر ينبه إلى عدم توفر السعر المحلي الحقيقي حاليًا، فلا يُعامل كعرض متجر.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/707/xiaomi-redmi-note-2-price-in-egypt-%D9%85%D8%B5%D8%B1/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-13",
+      "merchant": "Aramobi",
+      "priceOffers": []
     },
     {
       "id": "redmi-redminote2prime",
@@ -19611,9 +19665,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 8250,
+      "priceStatus": "مرجع تقديري لعائلة Redmi Note 2؛ لم يفصل المصدر سعر نسخة Prime عن النسخة الأساسية، لذا يلزم التحقق من النسخة.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/707/xiaomi-redmi-note-2-price-in-egypt-%D9%85%D8%B5%D8%B1/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-13",
+      "merchant": "Aramobi",
+      "priceOffers": []
     },
     {
       "id": "redmi-redminote5pro",
@@ -19632,9 +19692,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 6090,
+      "priceStatus": "سعر تجزئة متوقع منشور لمصر في أكتوبر 2026؛ تقديري وليس عرض متجر مباشر.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGadgets",
+      "priceSourceUrl": "https://mobgadgets.com/gadget/eg/xiaomi-redmi-note-5-pro",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-01",
+      "merchant": "MobGadgets",
+      "priceOffers": []
     },
     {
       "id": "redmi-redminote7",
@@ -19822,9 +19888,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 3000,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmiy1lite",
@@ -19843,9 +19915,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 1800,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmiy2",
@@ -19864,9 +19942,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 3000,
+      "priceStatus": "Redmi Y2 اسم مرتبط بـ Redmi S2؛ السعر المرجعي تاريخي وليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "redmi-xiaomiredmi3s",
@@ -19885,9 +19969,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 2400,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomi15t",
@@ -20057,9 +20147,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 23100,
+      "priceStatus": "مرجع سعر تقديري منشور في قائمة مصر؛ ليس عرض متجر مباشرًا مؤكدًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGadgets",
+      "priceSourceUrl": "https://mobgadgets.com/gadgets/eg_xiaomi?page=5",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobGadgets",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi10pro",
@@ -20078,9 +20174,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 5200,
+      "priceStatus": "إعلان فردي لهاتف مستعمل منشور في مصر؛ ليس متوسط السوق أو سعر جهاز جديد.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "YOJAD",
+      "priceSourceUrl": "https://www.yojad.com/en-eg/mobile-phones/xiaomi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2025-10-19",
+      "merchant": "YOJAD",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimicc9pro",
@@ -20254,9 +20356,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 8000,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi4c",
@@ -20275,9 +20383,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 2750,
+      "priceStatus": "سعر معروض على صفحة مقارنة أسعار مصر؛ تحقق من التوفر والنسخة لدى البائع.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Pricena",
+      "priceSourceUrl": "https://eg.pricena.com/en/brands/xiaomi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Pricena",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi3",
@@ -20296,9 +20410,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 11309,
+      "priceStatus": "تقدير منشور بالجنيه المصري؛ الجهاز متوقف والمصدر يحذر من احتمال تقادم السعر وعدم ضمان دقته.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGsm",
+      "priceSourceUrl": "https://eg.mobgsm.com/mobile/xiaomi-mi-3-price-in-Egypt/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-07-01",
+      "merchant": "MobGsm",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi2s",
@@ -20317,9 +20437,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 17870,
+      "priceStatus": "مرجع سعري قديم منشور بالجنيه المصري؛ السعر تقديري تاريخي وليس قيمة سوق مستعمل حالية.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceSourceUrl": "https://aramobi.com/product/xiaomi-mi-2s-specs-price/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2018-10-29",
+      "merchant": "Aramobi",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi2",
@@ -20338,9 +20464,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 17870,
+      "priceStatus": "مرجع سعري قديم منشور بالجنيه المصري؛ السعر تقديري تاريخي وليس قيمة سوق مستعمل حالية.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceSourceUrl": "https://aramobi.com/product/xiaomi-mi-2-specs-price/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2018-10-29",
+      "merchant": "Aramobi",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi1",
@@ -20380,11 +20512,17 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
+      "priceEGP": 9700,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
       "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-blackshark3",
@@ -20559,9 +20697,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 12300,
+      "priceStatus": "سعر تجزئة متوقع منشور لمصر في أكتوبر 2026؛ تقديري وليس عرض متجر مباشر.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGadgets",
+      "priceSourceUrl": "https://mobgadgets.com/gadget/eg/xiaomi-civi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-01",
+      "merchant": "MobGadgets",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi10lite",
@@ -20692,9 +20836,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 13500,
+      "priceStatus": "إعلان فردي لهاتف مستعمل في مصر؛ السعر يخص الإعلان ولا يمثل سعرًا موحدًا للموديل.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Dubizzle",
+      "priceSourceUrl": "https://www.dubizzle.com.eg/en/mobile-phones-tablets-accessories-numbers/mobile-phones/q-xiaomi-mi-11-ultra/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "merchant": "Dubizzle",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi1s",
@@ -20713,9 +20863,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 12551,
+      "priceStatus": "تقدير محوّل من السعر الأمريكي وليس عرضًا مصريًا مباشرًا؛ يُعرض كمرجع تقريبي فقط.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobileMall",
+      "priceSourceUrl": "https://egypt.mobilemall.co/xiaomi-mi-1s",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-03",
+      "merchant": "MobileMall",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi1youthedition",
@@ -20776,9 +20932,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 13005,
+      "priceStatus": "تقدير منشور بالجنيه المصري؛ الجهاز متوقف والمصدر يحذر من احتمال تقادم السعر وعدم ضمان دقته.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGsm",
+      "priceSourceUrl": "https://eg.mobgsm.com/mobile/xiaomi-mi-4-price-in-egypt/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-07-01",
+      "merchant": "MobGsm",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi4i",
@@ -20797,9 +20959,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 4680,
+      "priceStatus": "سعر تجزئة متوقع منشور لمصر في مايو 2026؛ تقديري وليس عرض متجر مباشر.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGadgets",
+      "priceSourceUrl": "https://mobgadgets.com/gadget/eg/xiaomi-mi-4i",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-05-01",
+      "merchant": "MobGadgets",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi5",
@@ -20818,9 +20986,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 4800,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi5c",
@@ -20839,9 +21013,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 7775,
+      "priceStatus": "تقدير منشور بالجنيه المصري؛ الجهاز متوقف والمصدر يحذر من احتمال تقادم السعر وعدم ضمان دقته.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGsm",
+      "priceSourceUrl": "https://eg.mobgsm.com/mobile/xiaomi-mi-5c-price-in-Egypt/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-07-01",
+      "merchant": "MobGsm",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi5s",
@@ -20881,9 +21061,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 6000,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi5x",
@@ -20923,9 +21109,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 11000,
+      "priceStatus": "سعر منشور تاريخيًا في مصر؛ لا يمثل عرض متجر حاليًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "موقع ون للتقنية",
+      "priceSourceUrl": "https://onetecheg.com/25733/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-01-17",
+      "merchant": "موقع ون للتقنية",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi8lite",
@@ -20944,9 +21136,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 5000,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi9pro",
@@ -20986,9 +21184,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 4140,
+      "priceStatus": "مرجع سعر منشور بقائمة أسعار مصر؛ ليس عرض متجر مباشرًا مؤكدًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGadgets",
+      "priceSourceUrl": "https://mobgadgets.com/gadgets/eg_xiaomi?page=8",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobGadgets",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimimax2",
@@ -21007,9 +21211,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 5800,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimimix",
@@ -21028,9 +21238,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 5000,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimimix2",
@@ -21049,9 +21265,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 8000,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimimix2s",
@@ -21070,9 +21292,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 10000,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimimixalpha",
@@ -21091,9 +21319,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 55000,
+      "priceStatus": "آخر سعر مصري منشور بتاريخ 10 سبتمبر 2026؛ الموديل ملغى/مفهومي وليس معروضًا للبيع عادة.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Phones7",
+      "priceSourceUrl": "https://phones7.com/xiaomi-mi-mix-alpha/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10",
+      "merchant": "Phones7",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomiminote2",
@@ -21112,9 +21346,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 6200,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomiminote3",
@@ -21133,9 +21373,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 7900,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomiminotepro",
@@ -21175,9 +21421,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 2800,
+      "priceStatus": "سعر تاريخي منشور في مصر بتاريخ 20 نوفمبر 2020؛ ليس سعر بيع حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MafiXe",
+      "priceSourceUrl": "https://www.mafixe.com/2020/11/xiaomi.html",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2020-11-20",
+      "merchant": "MafiXe",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimixfold2",
@@ -28439,6 +28691,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "أضيفت أسعار موثقة لهاتفي HMD Arc وXiaomi 17؛ سعر HMD Arc من صفحة متجر، وسعر Xiaomi 17 تقديري سوقي وليس عرض متجر مباشر.",
+  "priceUpdateNote": "أضيفت 42 قيمة مرجعية لموديلات كانت بلا سعر. القيم تميّز بوضوح بين أسعار تاريخية مصرية وتقديرات منشورة وإعلانات مستعمل فردية؛ لا تُعامل هذه المراجع كعروض متاجر حالية أو أسعار شراء مؤكدة.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
