@@ -12670,10 +12670,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4700,
+      "priceSource": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "priceStatus": "قيمة استرشادية من موقع تجميعي؛ لا تمثل عرض بيع موثقًا من متجر مصري، وقد تكون محولة من السعر العالمي.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+          "priceEGP": 4700,
+          "variant": "نسخة غير محددة",
+          "source": "https://www.mobile57.com/eg/phones/tecno/3.php",
+          "sourceLabel": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11",
+          "availability": "check_store"
+        }
+      ],
+      "price": 4700,
+      "priceProvider": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "merchant": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11"
     },
     {
       "id": "tecno-camon-20-pro",
@@ -12692,10 +12708,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 2641,
+      "priceSource": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "priceStatus": "قيمة استرشادية من موقع تجميعي؛ لا تمثل عرض بيع موثقًا من متجر مصري، وقد تكون محولة من السعر العالمي.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+          "priceEGP": 2641,
+          "variant": "نسخة غير محددة",
+          "source": "https://www.mobile57.com/eg/phones/tecno/3.php",
+          "sourceLabel": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11",
+          "availability": "check_store"
+        }
+      ],
+      "price": 2641,
+      "priceProvider": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "merchant": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11"
     },
     {
       "id": "tecno-phantom-v-fold2",
@@ -12948,10 +12980,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 1745,
+      "priceSource": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "priceStatus": "قيمة استرشادية من موقع تجميعي؛ لا تمثل عرض بيع موثقًا من متجر مصري، وقد تكون محولة من السعر العالمي.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+          "priceEGP": 1745,
+          "variant": "نسخة غير محددة",
+          "source": "https://www.mobile57.com/eg/phones/tecno/3.php",
+          "sourceLabel": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11",
+          "availability": "check_store"
+        }
+      ],
+      "price": 1745,
+      "priceProvider": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "merchant": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11"
     },
     {
       "id": "tecno-spark-10",
@@ -12970,10 +13018,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 1415,
+      "priceSource": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "priceStatus": "قيمة استرشادية من موقع تجميعي؛ لا تمثل عرض بيع موثقًا من متجر مصري، وقد تكون محولة من السعر العالمي.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+          "priceEGP": 1415,
+          "variant": "نسخة غير محددة",
+          "source": "https://www.mobile57.com/eg/phones/tecno/3.php",
+          "sourceLabel": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11",
+          "availability": "check_store"
+        }
+      ],
+      "price": 1415,
+      "priceProvider": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "merchant": "Mobile57 – سعر استرشادي محوّل وليس عرض متجر",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11"
     },
     {
       "id": "huawei-p60-pro",
@@ -13880,10 +13944,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 11980,
+      "priceSource": "Aramobi – سعر تقريبي",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر. ليس عرض متجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – سعر تقريبي",
+          "priceEGP": 11980,
+          "variant": "256GB / 6GB",
+          "source": "https://aramobi.com/mobile-price/437997/",
+          "sourceLabel": "Aramobi – سعر تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-21",
+          "availability": "check_store"
+        }
+      ],
+      "price": 11980,
+      "priceProvider": "Aramobi – سعر تقريبي",
+      "merchant": "Aramobi – سعر تقريبي",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-21"
     },
     {
       "id": "nokia-nokia-g21",
@@ -14190,12 +14270,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 3030,
+      "priceSource": "MobGadgets – سعر استرشادي تجميعي",
+      "priceStatus": "سعر استرشادي تجميعي؛ ليس عرض متجر مصريًا حاليًا، ويجب تأكيد التوفر والسعر.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي تجميعي",
+          "priceEGP": 3030,
+          "variant": "نسخة غير محددة",
+          "source": "https://mobgadgets.com/gadgets/eg_nokia-smartphones?page=1",
+          "sourceLabel": "MobGadgets – سعر استرشادي تجميعي",
+          "checkedAt": "2026-11-07",
+          "observedAt": null,
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 3030,
+      "priceProvider": "MobGadgets – سعر استرشادي تجميعي",
+      "merchant": "MobGadgets – سعر استرشادي تجميعي",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null
     },
     {
       "id": "nokia-nokia-c21-plus",
@@ -14214,12 +14310,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 7320,
+      "priceSource": "MobGadgets – سعر استرشادي تجميعي",
+      "priceStatus": "سعر استرشادي تجميعي؛ ليس عرض متجر مصريًا حاليًا، ويجب تأكيد التوفر والسعر.",
+      "priceOffers": [
+        {
+          "merchant": "MobGadgets – سعر استرشادي تجميعي",
+          "priceEGP": 7320,
+          "variant": "نسخة غير محددة",
+          "source": "https://mobgadgets.com/gadgets/eg_nokia-smartphones?page=1",
+          "sourceLabel": "MobGadgets – سعر استرشادي تجميعي",
+          "checkedAt": "2026-11-07",
+          "observedAt": null,
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 7320,
+      "priceProvider": "MobGadgets – سعر استرشادي تجميعي",
+      "merchant": "MobGadgets – سعر استرشادي تجميعي",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null
     },
     {
       "id": "nokia-nokia-c20",
@@ -16261,9 +16373,27 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 19800,
+      "priceStatus": "سعر تقريبي منشور 03/11/2026؛ تحقق من التوفر والنسخة قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "price": 19800,
+      "priceSource": "Aramobi – أسعار مصر التقريبية",
+      "priceProvider": "Aramobi – أسعار مصر التقريبية",
+      "merchant": "Aramobi – أسعار مصر التقريبية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-03",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – أسعار مصر التقريبية",
+          "priceEGP": 19800,
+          "variant": "256GB / 8GB",
+          "source": "https://aramobi.com/mobile-price/xiaomi/أسعار-هواتف-شاومي-في-مصر/",
+          "sourceLabel": "Aramobi – أسعار مصر التقريبية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03",
+          "availability": "check_store"
+        }
+      ]
     },
     {
       "id": "redmi-redmiturbo3",
@@ -16363,9 +16493,27 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 14999,
+      "priceStatus": "سعر تقريبي منشور 05/10/2026؛ ليس عرض متجر حاليًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "price": 14999,
+      "priceSource": "Aramobi – أسعار مصر التقريبية",
+      "priceProvider": "Aramobi – أسعار مصر التقريبية",
+      "merchant": "Aramobi – أسعار مصر التقريبية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-05",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – أسعار مصر التقريبية",
+          "priceEGP": 14999,
+          "variant": "256GB / 8GB",
+          "source": "https://aramobi.com/mobile-price/xiaomi/أسعار-هواتف-شاومي-في-مصر/",
+          "sourceLabel": "Aramobi – أسعار مصر التقريبية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-05",
+          "availability": "check_store"
+        }
+      ]
     },
     {
       "id": "redmi-redminote12turbo",
@@ -16541,9 +16689,27 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 11299,
+      "priceStatus": "سعر تقريبي منشور 03/11/2026؛ تحقق من التوفر والنسخة قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "price": 11299,
+      "priceSource": "Aramobi – أسعار مصر التقريبية",
+      "priceProvider": "Aramobi – أسعار مصر التقريبية",
+      "merchant": "Aramobi – أسعار مصر التقريبية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-03",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – أسعار مصر التقريبية",
+          "priceEGP": 11299,
+          "variant": "64GB / 6GB",
+          "source": "https://aramobi.com/mobile-price/xiaomi/أسعار-هواتف-شاومي-في-مصر/",
+          "sourceLabel": "Aramobi – أسعار مصر التقريبية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03",
+          "availability": "check_store"
+        }
+      ]
     },
     {
       "id": "redmi-redminote11",
@@ -26641,6 +26807,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "تمت إضافة أسعار متاجر ومراجع تقديرية وتاريخية بتاريخ 2026-11-07 مع تمييز نوع المصدر وحالة التوفر؛ الأسعار التقديرية والتاريخية ليست عروض شراء مباشرة.",
+  "priceUpdateNote": "تغطية الأسعار تشمل عروض متاجر وأسعارًا تقريبية وتاريخية واسترشادية، وكل سجل يوضح نوع مصدره وتاريخ الرصد متى توفر؛ لا تعتبر الأسعار التقديرية عروض شراء مباشرة.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
