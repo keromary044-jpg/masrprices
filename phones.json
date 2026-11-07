@@ -849,11 +849,26 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy S23+",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 33450,
+      "priceSource": "MobileMasr",
+      "priceStatus": "أقل سعر جديد منشور في دليل السوق؛ السعة غير محددة، يُراجع المتجر قبل الشراء؛ أقل سعر جديد مسجل؛ السعة غير محددة في ملخص السوق؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "MobileMasr",
+      "priceOffers": [
+        {
+          "merchant": "MobileMasr",
+          "priceEGP": 33450,
+          "variant": "أقل سعر جديد مسجل؛ السعة غير محددة في ملخص السوق",
+          "condition": "جديد",
+          "source": "https://mobilemasr.com/en/guide/brands/samsung",
+          "sourceLabel": "MobileMasr",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobilemasr.com/en/guide/brands/samsung",
+      "merchant": "MobileMasr"
     },
     {
       "id": "samsung-galaxy-s22-ultra",
@@ -885,11 +900,26 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy S22+",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 33240.56,
+      "priceSource": "Kaafo",
+      "priceStatus": "سعر مُجدد؛ المنتج غير متوفر بالمخزون وقت الرصد؛ 128GB؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Kaafo",
+      "priceOffers": [
+        {
+          "merchant": "Kaafo",
+          "priceEGP": 33240.56,
+          "variant": "128GB",
+          "condition": "مُجدد",
+          "source": "https://kaafo.net/ar-eg/products/samsung-galaxy-s22-plus",
+          "sourceLabel": "Kaafo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://kaafo.net/ar-eg/products/samsung-galaxy-s22-plus",
+      "merchant": "Kaafo"
     },
     {
       "id": "samsung-galaxy-z-fold6",
@@ -2203,13 +2233,28 @@
       "brand": "HONOR",
       "name": "Honor Magic6 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceEGP": 28750,
+      "priceSource": "Mobile Store",
+      "priceStatus": "سعر متجر معروض لجهاز جديد؛ التوفر والسعر قابلان للتغير؛ 12GB RAM / 256GB؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 28750,
+          "variant": "12GB RAM / 256GB",
+          "condition": "جديد",
+          "source": "https://mobile.store-eg.com/en/brand/honor",
+          "sourceLabel": "Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/brand/honor",
+      "merchant": "Mobile Store"
     },
     {
       "id": "honor-magic-v3",
@@ -2578,11 +2623,26 @@
       "brand": "Infinix",
       "name": "Infinix Zero 40 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 28750,
+      "priceSource": "Mobile Store",
+      "priceStatus": "سعر متجر معروض لجهاز جديد؛ التوفر والسعر قابلان للتغير؛ 12GB RAM / 256GB؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 28750,
+          "variant": "12GB RAM / 256GB",
+          "condition": "جديد",
+          "source": "https://mobile.store-eg.com/en/brand/infinix",
+          "sourceLabel": "Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/brand/infinix",
+      "merchant": "Mobile Store"
     },
     {
       "id": "infinix-zero-40-4g",
@@ -3292,66 +3352,156 @@
       "brand": "Apple",
       "name": "iPhone 15",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 34500,
+      "priceSource": "Flipify market tracker",
+      "priceStatus": "متوسط سعر طلبات سوق المستعمل، وليس عرض متجر مباشر؛ السعر الفعلي يتغير حسب الحالة والسعة؛ سعر نموذجي للمستعمل؛ السعة غير محددة؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Flipify market tracker",
+      "priceOffers": [
+        {
+          "merchant": "Flipify market tracker",
+          "priceEGP": 34500,
+          "variant": "سعر نموذجي للمستعمل؛ السعة غير محددة",
+          "condition": "مستعمل - متوسط سوقي",
+          "source": "https://www.flipifyapp.com/price-tracker/category/phones",
+          "sourceLabel": "Flipify market tracker",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://www.flipifyapp.com/price-tracker/category/phones",
+      "merchant": "Flipify market tracker"
     },
     {
       "id": "apple-iphone-14-pro-max",
       "brand": "Apple",
       "name": "iPhone 14 Pro Max",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 54205,
+      "priceSource": "Black Mint",
+      "priceStatus": "سعر يبدأ من لدى متجر الأجهزة المُجددة؛ يختلف حسب الدرجة والسعة؛ السعة حسب خيارات المتجر؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Black Mint",
+      "priceOffers": [
+        {
+          "merchant": "Black Mint",
+          "priceEGP": 54205,
+          "variant": "السعة حسب خيارات المتجر",
+          "condition": "مُجدد",
+          "source": "https://blackmint.me/collections/iphone",
+          "sourceLabel": "Black Mint",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://blackmint.me/collections/iphone",
+      "merchant": "Black Mint"
     },
     {
       "id": "apple-iphone-14-pro",
       "brand": "Apple",
       "name": "iPhone 14 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 46328,
+      "priceSource": "Black Mint",
+      "priceStatus": "سعر يبدأ من لدى متجر الأجهزة المُجددة؛ يختلف حسب الدرجة والسعة؛ السعة حسب خيارات المتجر؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Black Mint",
+      "priceOffers": [
+        {
+          "merchant": "Black Mint",
+          "priceEGP": 46328,
+          "variant": "السعة حسب خيارات المتجر",
+          "condition": "مُجدد",
+          "source": "https://blackmint.me/collections/iphone",
+          "sourceLabel": "Black Mint",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://blackmint.me/collections/iphone",
+      "merchant": "Black Mint"
     },
     {
       "id": "apple-iphone-14-plus",
       "brand": "Apple",
       "name": "iPhone 14 Plus",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29500,
+      "priceSource": "MobileMasr",
+      "priceStatus": "أقل سعر مستعمل منشور؛ السعة والحالة التفصيلية تختلف حسب الإعلان؛ السعة غير محددة في ملخص السوق؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "MobileMasr",
+      "priceOffers": [
+        {
+          "merchant": "MobileMasr",
+          "priceEGP": 29500,
+          "variant": "السعة غير محددة في ملخص السوق",
+          "condition": "مستعمل",
+          "source": "https://mobilemasr.com/en/guide/brands/apple",
+          "sourceLabel": "MobileMasr",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobilemasr.com/en/guide/brands/apple",
+      "merchant": "MobileMasr"
     },
     {
       "id": "apple-iphone-14",
       "brand": "Apple",
       "name": "iPhone 14",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 36590,
+      "priceSource": "Black Mint",
+      "priceStatus": "سعر يبدأ من لدى متجر الأجهزة المُجددة؛ يختلف حسب الدرجة والسعة؛ السعة حسب خيارات المتجر؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Black Mint",
+      "priceOffers": [
+        {
+          "merchant": "Black Mint",
+          "priceEGP": 36590,
+          "variant": "السعة حسب خيارات المتجر",
+          "condition": "مُجدد",
+          "source": "https://blackmint.me/collections/iphone",
+          "sourceLabel": "Black Mint",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://blackmint.me/collections/iphone",
+      "merchant": "Black Mint"
     },
     {
       "id": "apple-iphone-13-pro-max",
       "brand": "Apple",
       "name": "iPhone 13 Pro Max",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 44653,
+      "priceSource": "Black Mint",
+      "priceStatus": "سعر يبدأ من لدى متجر الأجهزة المُجددة؛ يختلف حسب الدرجة والسعة؛ السعة حسب خيارات المتجر؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Black Mint",
+      "priceOffers": [
+        {
+          "merchant": "Black Mint",
+          "priceEGP": 44653,
+          "variant": "السعة حسب خيارات المتجر",
+          "condition": "مُجدد",
+          "source": "https://blackmint.me/collections/iphone",
+          "sourceLabel": "Black Mint",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://blackmint.me/collections/iphone",
+      "merchant": "Black Mint"
     },
     {
       "id": "apple-iphone-13-pro",
@@ -3384,22 +3534,52 @@
       "brand": "Apple",
       "name": "iPhone 13",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 31524,
+      "priceSource": "Black Mint",
+      "priceStatus": "سعر جهاز مُجدد معروض لدى المتجر؛ يختلف حسب الدرجة والسعة؛ السعة حسب خيارات المتجر؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Black Mint",
+      "priceOffers": [
+        {
+          "merchant": "Black Mint",
+          "priceEGP": 31524,
+          "variant": "السعة حسب خيارات المتجر",
+          "condition": "مُجدد",
+          "source": "https://blackmint.me/collections/iphone",
+          "sourceLabel": "Black Mint",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://blackmint.me/collections/iphone",
+      "merchant": "Black Mint"
     },
     {
       "id": "apple-iphone-12",
       "brand": "Apple",
       "name": "iPhone 12",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 22383,
+      "priceSource": "Black Mint",
+      "priceStatus": "سعر جهاز مُجدد معروض لدى المتجر؛ يختلف حسب الدرجة والسعة؛ السعة حسب خيارات المتجر؛ تاريخ الرصد 2026-11-07.",
+      "sourceLabel": "Black Mint",
+      "priceOffers": [
+        {
+          "merchant": "Black Mint",
+          "priceEGP": 22383,
+          "variant": "السعة حسب خيارات المتجر",
+          "condition": "مُجدد",
+          "source": "https://blackmint.me/collections/iphone",
+          "sourceLabel": "Black Mint",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://blackmint.me/collections/iphone",
+      "merchant": "Black Mint"
     },
     {
       "id": "apple-iphone-se-3rd-generation",
@@ -4003,12 +4183,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://kaafo.net/ar-eg/",
+      "sourceLabel": "Kaafo",
+      "priceEGP": 31278.71,
+      "priceSource": "Kaafo",
+      "priceStatus": "سعر مُجدد منشور بالقائمة؛ غير متوفر بالمخزون وقت الرصد؛ النسخة/السعة غير محددة بصفحة القائمة؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Kaafo",
+          "priceEGP": 31278.71,
+          "variant": "النسخة/السعة غير محددة بصفحة القائمة",
+          "condition": "مُجدد",
+          "source": "https://kaafo.net/ar-eg/",
+          "sourceLabel": "Kaafo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Kaafo"
     },
     {
       "id": "samsung-galaxy-s22-2",
@@ -4025,12 +4219,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://kaafo.net/ar-eg/",
+      "sourceLabel": "Kaafo",
+      "priceEGP": 18503.1,
+      "priceSource": "Kaafo",
+      "priceStatus": "سعر مُجدد منشور بالقائمة؛ غير متوفر بالمخزون وقت الرصد؛ النسخة/السعة غير محددة بصفحة القائمة؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Kaafo",
+          "priceEGP": 18503.1,
+          "variant": "النسخة/السعة غير محددة بصفحة القائمة",
+          "condition": "مُجدد",
+          "source": "https://kaafo.net/ar-eg/",
+          "sourceLabel": "Kaafo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Kaafo"
     },
     {
       "id": "samsung-galaxy-s21-ultra",
@@ -4047,12 +4255,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://kaafo.net/ar-eg/",
+      "sourceLabel": "Kaafo",
+      "priceEGP": 18503.1,
+      "priceSource": "Kaafo",
+      "priceStatus": "سعر مُجدد منشور بالقائمة؛ غير متوفر بالمخزون وقت الرصد؛ النسخة/السعة غير محددة بصفحة القائمة؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Kaafo",
+          "priceEGP": 18503.1,
+          "variant": "النسخة/السعة غير محددة بصفحة القائمة",
+          "condition": "مُجدد",
+          "source": "https://kaafo.net/ar-eg/",
+          "sourceLabel": "Kaafo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Kaafo"
     },
     {
       "id": "samsung-galaxy-s21",
@@ -4069,12 +4291,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://kaafo.net/ar-eg/",
+      "sourceLabel": "Kaafo",
+      "priceEGP": 19795.01,
+      "priceSource": "Kaafo",
+      "priceStatus": "سعر مُجدد منشور بالقائمة؛ غير متوفر بالمخزون وقت الرصد؛ النسخة/السعة غير محددة بصفحة القائمة؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Kaafo",
+          "priceEGP": 19795.01,
+          "variant": "النسخة/السعة غير محددة بصفحة القائمة",
+          "condition": "مُجدد",
+          "source": "https://kaafo.net/ar-eg/",
+          "sourceLabel": "Kaafo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Kaafo"
     },
     {
       "id": "samsung-galaxy-s21-2",
@@ -4091,12 +4327,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://kaafo.net/ar-eg/",
+      "sourceLabel": "Kaafo",
+      "priceEGP": 14770.9,
+      "priceSource": "Kaafo",
+      "priceStatus": "سعر مُجدد منشور بالقائمة؛ غير متوفر بالمخزون وقت الرصد؛ النسخة/السعة غير محددة بصفحة القائمة؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Kaafo",
+          "priceEGP": 14770.9,
+          "variant": "النسخة/السعة غير محددة بصفحة القائمة",
+          "condition": "مُجدد",
+          "source": "https://kaafo.net/ar-eg/",
+          "sourceLabel": "Kaafo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Kaafo"
     },
     {
       "id": "samsung-galaxy-s20-ultra",
@@ -4113,12 +4363,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://kaafo.net/ar-eg/",
+      "sourceLabel": "Kaafo",
+      "priceEGP": 16924.09,
+      "priceSource": "Kaafo",
+      "priceStatus": "سعر مُجدد منشور بالقائمة؛ غير متوفر بالمخزون وقت الرصد؛ 128GB؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Kaafo",
+          "priceEGP": 16924.09,
+          "variant": "128GB",
+          "condition": "مُجدد",
+          "source": "https://kaafo.net/ar-eg/",
+          "sourceLabel": "Kaafo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Kaafo"
     },
     {
       "id": "samsung-galaxy-s20",
@@ -4157,12 +4421,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://kaafo.net/ar-eg/",
+      "sourceLabel": "Kaafo",
+      "priceEGP": 19938.56,
+      "priceSource": "Kaafo",
+      "priceStatus": "سعر مُجدد منشور بالقائمة؛ غير متوفر بالمخزون وقت الرصد؛ النسخة/السعة غير محددة بصفحة القائمة؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Kaafo",
+          "priceEGP": 19938.56,
+          "variant": "النسخة/السعة غير محددة بصفحة القائمة",
+          "condition": "مُجدد",
+          "source": "https://kaafo.net/ar-eg/",
+          "sourceLabel": "Kaafo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Kaafo"
     },
     {
       "id": "samsung-galaxy-note20-ultra",
@@ -4597,12 +4875,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://mobilemasr.com/en/guide/brands/samsung",
+      "sourceLabel": "MobileMasr",
+      "priceEGP": 12500,
+      "priceSource": "MobileMasr",
+      "priceStatus": "أقل سعر مستعمل منشور؛ السعة والحالة التفصيلية تختلف حسب الإعلان؛ السعة غير محددة في ملخص السوق؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "MobileMasr",
+          "priceEGP": 12500,
+          "variant": "السعة غير محددة في ملخص السوق",
+          "condition": "مستعمل",
+          "source": "https://mobilemasr.com/en/guide/brands/samsung",
+          "sourceLabel": "MobileMasr",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobileMasr"
     },
     {
       "id": "samsung-galaxy-a33",
@@ -5263,12 +5555,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.apple.com/eg/iphone/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://mobilemasr.com/en/guide/brands/apple",
+      "sourceLabel": "MobileMasr",
+      "priceEGP": 23200,
+      "priceSource": "MobileMasr",
+      "priceStatus": "أقل سعر مستعمل منشور؛ السعة والحالة التفصيلية تختلف حسب الإعلان؛ السعة غير محددة في ملخص السوق؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "MobileMasr",
+          "priceEGP": 23200,
+          "variant": "السعة غير محددة في ملخص السوق",
+          "condition": "مستعمل",
+          "source": "https://mobilemasr.com/en/guide/brands/apple",
+          "sourceLabel": "MobileMasr",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobileMasr"
     },
     {
       "id": "apple-iphone-12-pro-max",
@@ -5285,12 +5591,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.apple.com/eg/iphone/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://blackmint.me/collections/iphone",
+      "sourceLabel": "Black Mint",
+      "priceEGP": 31524,
+      "priceSource": "Black Mint",
+      "priceStatus": "سعر يبدأ من لدى متجر الأجهزة المُجددة؛ يختلف حسب الدرجة والسعة؛ السعة حسب خيارات المتجر؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Black Mint",
+          "priceEGP": 31524,
+          "variant": "السعة حسب خيارات المتجر",
+          "condition": "مُجدد",
+          "source": "https://blackmint.me/collections/iphone",
+          "sourceLabel": "Black Mint",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Black Mint"
     },
     {
       "id": "apple-iphone-12-pro",
@@ -5307,12 +5627,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.apple.com/eg/iphone/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://blackmint.me/collections/iphone",
+      "sourceLabel": "Black Mint",
+      "priceEGP": 26334,
+      "priceSource": "Black Mint",
+      "priceStatus": "سعر يبدأ من لدى متجر الأجهزة المُجددة؛ يختلف حسب الدرجة والسعة؛ السعة حسب خيارات المتجر؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Black Mint",
+          "priceEGP": 26334,
+          "variant": "السعة حسب خيارات المتجر",
+          "condition": "مُجدد",
+          "source": "https://blackmint.me/collections/iphone",
+          "sourceLabel": "Black Mint",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Black Mint"
     },
     {
       "id": "apple-iphone-12-mini",
@@ -5386,12 +5720,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.apple.com/eg/iphone/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://www.flipifyapp.com/price-tracker/category/phones",
+      "sourceLabel": "Flipify market tracker",
+      "priceEGP": 13000,
+      "priceSource": "Flipify market tracker",
+      "priceStatus": "متوسط سعر طلبات سوق المستعمل، وليس عرض متجر مباشر؛ السعر الفعلي يتغير حسب الحالة والسعة؛ سعر نموذجي للمستعمل؛ السعة غير محددة؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Flipify market tracker",
+          "priceEGP": 13000,
+          "variant": "سعر نموذجي للمستعمل؛ السعة غير محددة",
+          "condition": "مستعمل - متوسط سوقي",
+          "source": "https://www.flipifyapp.com/price-tracker/category/phones",
+          "sourceLabel": "Flipify market tracker",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Flipify market tracker"
     },
     {
       "id": "apple-iphone-11",
@@ -6284,12 +6632,25 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://daleelmob.com/phones/xiaomi/egypt-prices",
+      "sourceLabel": "Xiaomi – المواصفات الرسمية",
+      "priceEGP": 20745,
+      "priceSource": "DaleelMob – سعر سوق مرجعي",
+      "priceStatus": "سعر سوق مرجعي منشور في نوفمبر 2026؛ ليس عرض متجر محددًا وقد يختلف حسب النسخة والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "سعر سوق مرجعي",
+          "priceEGP": 20745,
+          "variant": "8/256GB أو 12/256GB أو 12/512GB حسب السوق",
+          "source": "https://daleelmob.com/phones/xiaomi/egypt-prices",
+          "sourceLabel": "DaleelMob – سعر سوق مرجعي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "سعر سوق مرجعي"
     },
     {
       "id": "redmi-redmi-note-14-pro",
@@ -6350,12 +6711,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://www.flipifyapp.com/price-tracker/category/phones",
+      "sourceLabel": "Flipify market tracker",
+      "priceEGP": 10200,
+      "priceSource": "Flipify market tracker",
+      "priceStatus": "متوسط سعر طلبات سوق المستعمل، وليس عرض متجر مباشر؛ السعر الفعلي يتغير حسب الحالة والسعة؛ السعة غير محددة؛ تاريخ الرصد 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Flipify market tracker",
+          "priceEGP": 10200,
+          "variant": "السعة غير محددة",
+          "condition": "مستعمل - متوسط سوقي",
+          "source": "https://www.flipifyapp.com/price-tracker/category/phones",
+          "sourceLabel": "Flipify market tracker",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Flipify market tracker"
     },
     {
       "id": "redmi-redmi-note-13-pro-5g",
@@ -6826,12 +7201,25 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/1565c305-3bf7-4768-8115-5de20e7fab80",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 10889,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 10889,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/1565c305-3bf7-4768-8115-5de20e7fab80",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "redmi-redmi-13",
@@ -6870,12 +7258,25 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/08a6313e-3130-41f7-be19-b12402eb0e77",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 9569,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 9569,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/08a6313e-3130-41f7-be19-b12402eb0e77",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "redmi-redmi-12c",
