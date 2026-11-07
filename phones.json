@@ -9118,53 +9118,48 @@
       "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
       "priceEGP": 17679,
-      "priceSource": "PriceTeq / B.TECH Egypt",
-      "priceStatus": "سعر جديد لنسخة 12GB/256GB مرصود بتاريخ 7 نوفمبر 2026؛ تحقق من السعر والتوفر والضمان عند المتجر قبل الشراء.",
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر مرصود لنسخة 12GB/256GB؛ أقل سعر 17,679 جنيه لدى B.TECH، وخمسة متاجر مدرجة. تحقق من التوفر والسعر النهائي عند الشراء.",
       "priceOffers": [
         {
           "merchant": "B.TECH Egypt",
           "priceEGP": 17679,
           "variant": "12GB RAM / 256GB",
-          "source": "https://btech.com/en/p/b26de24d-0254-4655-9f15-66c685095b2c?offering_id=92cdec11-5be6-4e93-aaaa-5f9de9890563&utm_medium=referral&utm_source=priceteq.com",
-          "sourceLabel": "B.TECH Egypt عبر PriceTeq",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07"
         },
         {
           "merchant": "Raya Shop Egypt",
           "priceEGP": 20222,
           "variant": "12GB RAM / 256GB",
           "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
-          "sourceLabel": "PriceTeq – مقارنة المتاجر",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07"
         },
         {
           "merchant": "Raneen Egypt",
           "priceEGP": 21199,
           "variant": "12GB RAM / 256GB",
           "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
-          "sourceLabel": "PriceTeq – مقارنة المتاجر",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06"
         },
         {
           "merchant": "2B Egypt",
           "priceEGP": 21199,
           "variant": "12GB RAM / 256GB",
           "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
-          "sourceLabel": "PriceTeq – مقارنة المتاجر",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07"
         },
         {
           "merchant": "Etisal Stores Egypt",
           "priceEGP": 21999,
           "variant": "12GB RAM / 256GB",
           "source": "https://priceteq.com/eg/product/505d6fb3-5209-4226-9a8b-a76ae06936af",
-          "sourceLabel": "PriceTeq – مقارنة المتاجر",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07"
         }
       ],
       "priceCheckedAt": "2026-11-07",
