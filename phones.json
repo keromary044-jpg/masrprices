@@ -858,11 +858,35 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Redmi Note 14 Pro+ 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 23999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 23999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/1fc3f62f-e3a9-46f6-8eff-f13bcf411bd8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 23999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/1fc3f62f-e3a9-46f6-8eff-f13bcf411bd8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "memory": "12GB RAM / 256GB / 5G",
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/1fc3f62f-e3a9-46f6-8eff-f13bcf411bd8"
     },
     {
       "id": "xiaomi-redmi-note-14-pro-4g",
@@ -902,33 +926,78 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Redmi Note 13 4G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 14409,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 14409,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/1921cd6b-c672-4f97-a565-7db3004d3471",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "memory": "8GB RAM / 256GB / 4G",
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/1921cd6b-c672-4f97-a565-7db3004d3471"
     },
     {
       "id": "xiaomi-redmi-13c",
       "brand": "Xiaomi",
       "name": "Xiaomi Redmi 13C",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 10889,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 10889,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/1565c305-3bf7-4768-8115-5de20e7fab80",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "memory": "8GB RAM / 256GB / 4G",
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/1565c305-3bf7-4768-8115-5de20e7fab80"
     },
     {
       "id": "xiaomi-redmi-12",
       "brand": "Xiaomi",
       "name": "Xiaomi Redmi 12",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 9569,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 9569,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/08a6313e-3130-41f7-be19-b12402eb0e77",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "memory": "8GB RAM / 256GB / 4G",
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/08a6313e-3130-41f7-be19-b12402eb0e77"
     },
     {
       "id": "xiaomi-poco-f7-ultra",
@@ -5187,19 +5256,41 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "12GB RAM / 256GB / 5G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/1fc3f62f-e3a9-46f6-8eff-f13bcf411bd8",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 23999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 23999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/1fc3f62f-e3a9-46f6-8eff-f13bcf411bd8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 23999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/1fc3f62f-e3a9-46f6-8eff-f13bcf411bd8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Raneen Egypt"
     },
     {
       "id": "redmi-redmi-note-14-pro-5g-2",
@@ -5385,19 +5476,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 256GB / 4G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/1921cd6b-c672-4f97-a565-7db3004d3471",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 14409,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 14409,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/1921cd6b-c672-4f97-a565-7db3004d3471",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "redmi-redmi-note-12-pro-5g",
@@ -5495,19 +5599,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB / 4G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/9e35578b-634b-43c8-94c2-55de19ac42bc",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 10119,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 10119,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/9e35578b-634b-43c8-94c2-55de19ac42bc",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "redmi-redmi-note-11-pro-5g",
@@ -11455,18 +11572,33 @@
       "release": "غير محدد في سجل القائمة",
       "display": "المواصفات التفصيلية غير مدخلة بعد؛ راجع مرجع الموديل",
       "processor": "غير متاح في السجل المختصر",
-      "memory": "توجد نسخ متعددة حسب السوق",
+      "memory": "6GB RAM / 128GB / 4G",
       "rearCamera": "غير متاح في السجل المختصر",
       "frontCamera": "غير متاح في السجل المختصر",
       "battery": "غير متاح في السجل المختصر",
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/redmi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://priceteq.com/eg/phones?brand=Xiaomi",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 11560,
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceOffers": [
+        {
+          "merchant": "Mobilaty Egypt",
+          "priceEGP": 11560,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/phones?brand=Xiaomi",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Mobilaty Egypt"
     },
     {
       "id": "redmi-redmi15c",
@@ -11476,18 +11608,51 @@
       "release": "غير محدد في سجل القائمة",
       "display": "المواصفات التفصيلية غير مدخلة بعد؛ راجع مرجع الموديل",
       "processor": "غير متاح في السجل المختصر",
-      "memory": "توجد نسخ متعددة حسب السوق",
+      "memory": "8GB RAM / 256GB / 4G",
       "rearCamera": "غير متاح في السجل المختصر",
       "frontCamera": "غير متاح في السجل المختصر",
       "battery": "غير متاح في السجل المختصر",
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/redmi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://priceteq.com/eg/product/9bb2550b-2b43-48cb-963a-e3ffc0aa4d82",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 12499,
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 12499,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/9bb2550b-2b43-48cb-963a-e3ffc0aa4d82",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 12500,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/9bb2550b-2b43-48cb-963a-e3ffc0aa4d82",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 12999,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/9bb2550b-2b43-48cb-963a-e3ffc0aa4d82",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Vodafone Egypt"
     },
     {
       "id": "redmi-redminote14pro",
@@ -18424,6 +18589,117 @@
       ],
       "merchant": "B.TECH Egypt",
       "source": "https://priceteq.com/eg/phones?brand=Apple",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "xiaomi-poco-c85-8-256",
+      "brand": "Xiaomi",
+      "name": "Xiaomi POCO C85 8GB / 256GB",
+      "category": "اقتصادي",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 12399,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Ehab Center Egypt",
+          "priceEGP": 12399,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/1bb44a09-b1e4-4aa3-9fe6-8a9d13b09e07",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "iMedia Stores Egypt",
+          "priceEGP": 12399,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/1bb44a09-b1e4-4aa3-9fe6-8a9d13b09e07",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Mi Store Egypt",
+          "priceEGP": 12399,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/1bb44a09-b1e4-4aa3-9fe6-8a9d13b09e07",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 12400,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/1bb44a09-b1e4-4aa3-9fe6-8a9d13b09e07",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Ehab Center Egypt",
+      "source": "https://priceteq.com/eg/product/1bb44a09-b1e4-4aa3-9fe6-8a9d13b09e07",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "xiaomi-redmi-note-15-8-256",
+      "brand": "Xiaomi",
+      "name": "Xiaomi Redmi Note 15 5G 8GB / 256GB",
+      "category": "متوسط",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 18500,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 18500,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/c8b1d15d-b3dc-48ee-941e-0bc28d11d856",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/c8b1d15d-b3dc-48ee-941e-0bc28d11d856",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "xiaomi-redmi-note-14-pro-plus-12-512",
+      "brand": "Xiaomi",
+      "name": "Xiaomi Redmi Note 14 Pro+ 5G 12GB / 512GB",
+      "category": "متوسط",
+      "release": "2025",
+      "memory": "12GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 25999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 25999,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/b2da29a7-8460-4960-b9fa-ccebbf21913f",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "2B Egypt",
+      "source": "https://priceteq.com/eg/product/b2da29a7-8460-4960-b9fa-ccebbf21913f",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
