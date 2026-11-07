@@ -1845,11 +1845,14 @@
       "brand": "OPPO",
       "name": "OPPO A79 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 9999,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور للنسخة 8GB/256GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/oppo-a79-5g/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "oppo-a58",
@@ -2182,11 +2185,14 @@
       "brand": "realme",
       "name": "realme Narzo 70 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 12310,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/602616/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-09"
     },
     {
       "id": "vivo-x200-pro",
@@ -2390,11 +2396,14 @@
       "brand": "vivo",
       "name": "vivo V30 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 20990,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 12GB/256GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/vivo-v30/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "vivo-v29-5g",
@@ -2501,11 +2510,14 @@
       "brand": "vivo",
       "name": "vivo Y17s",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 7490,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 6GB/128GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/vivo-y17s/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "honor-magic7-pro",
@@ -2743,26 +2755,32 @@
       "brand": "HONOR",
       "name": "Honor Magic5 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 59060,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/438733/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03"
     },
     {
       "id": "honor-70",
       "brand": "HONOR",
       "name": "Honor 70",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 20560,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/316346/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-04"
     },
     {
       "id": "honor-50",
@@ -3222,11 +3240,14 @@
       "brand": "Infinix",
       "name": "Infinix Zero 30 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 14999,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 12GB/128GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/infinix-zero-30/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "infinix-zero-30-4g",
@@ -3563,11 +3584,14 @@
       "brand": "Motorola",
       "name": "Motorola Edge 40 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 54650,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/455485/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-04"
     },
     {
       "id": "motorola-razr-50-ultra",
@@ -3715,11 +3739,14 @@
       "brand": "Motorola",
       "name": "Motorola Moto G34 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 7160,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي لطراز G34؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/578086/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-08-31"
     },
     {
       "id": "motorola-moto-g24",
@@ -3753,11 +3780,14 @@
       "brand": "Motorola",
       "name": "Motorola Moto G14",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 6730,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/521383/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "motorola-moto-g04",
@@ -4296,11 +4326,14 @@
       "brand": "Apple",
       "name": "iPhone SE (3rd generation)",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 12380,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/277118/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "google-pixel-9-pro-xl",
@@ -4971,65 +5004,80 @@
       "brand": "Huawei",
       "name": "Huawei Pura 70 Ultra",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 71900,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/613425/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-05"
     },
     {
       "id": "huawei-pura-70-pro",
       "brand": "Huawei",
       "name": "Huawei Pura 70 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 61210,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/613429/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-06"
     },
     {
       "id": "huawei-pura-70",
       "brand": "Huawei",
       "name": "Huawei Pura 70",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 52570,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/613431/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03"
     },
     {
       "id": "huawei-mate-60-pro",
       "brand": "Huawei",
       "name": "Huawei Mate 60 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 60590,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/536290/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02"
     },
     {
       "id": "huawei-mate-x6",
       "brand": "Huawei",
       "name": "Huawei Mate X6",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 84000,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/674623/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-08-31"
     },
     {
       "id": "huawei-nova-13-pro",
@@ -5051,13 +5099,16 @@
       "brand": "Huawei",
       "name": "Huawei Nova 12s",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 24330,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/602653/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-12"
     },
     {
       "id": "huawei-nova-11-pro",
@@ -5180,10 +5231,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 42580,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/692994/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09"
     },
     {
       "id": "samsung-galaxy-s24-2",
@@ -5202,10 +5256,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 38310,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/585434/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "samsung-galaxy-s23-2",
@@ -5440,10 +5497,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 18490,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/38098/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06"
     },
     {
       "id": "samsung-galaxy-s20-2",
@@ -5498,10 +5558,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 74500,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/64474/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09"
     },
     {
       "id": "samsung-galaxy-note20",
@@ -5520,10 +5583,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 14900,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 4G مصر 8GB/256GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/samsung-galaxy-note-20/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "samsung-galaxy-a73",
@@ -5612,10 +5678,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 28790,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/33061/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "samsung-galaxy-a56",
@@ -5680,10 +5749,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 21999,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي منشور لنسخة 128GB/8GB؛ ليس عرض متجر مباشر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/600608/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-05"
     },
     {
       "id": "samsung-galaxy-a54",
@@ -6456,10 +6528,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 12960,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي لطراز M34 5G؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/507269/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03"
     },
     {
       "id": "samsung-galaxy-m33",
@@ -6535,10 +6610,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 17430,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/39572/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "samsung-galaxy-m30s",
@@ -6557,10 +6635,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.samsung.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 11480,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/25893/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-24"
     },
     {
       "id": "apple-iphone-17-pro-max",
@@ -7202,10 +7283,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 8480,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/iphone-7-plus/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-11"
     },
     {
       "id": "apple-iphone-7",
@@ -7224,10 +7308,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 20730,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ هاتف قديم والمصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/408/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "apple-iphone-se-2022",
@@ -7319,10 +7406,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 52280,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/665745/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "xiaomi-xiaomi-14-ultra-2",
@@ -7377,10 +7467,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 61030,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/557744/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "xiaomi-xiaomi-13-ultra",
@@ -7435,10 +7528,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 62990,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/400460/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02"
     },
     {
       "id": "xiaomi-xiaomi-13-2",
@@ -7457,10 +7553,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 49690,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/400458/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-05"
     },
     {
       "id": "xiaomi-xiaomi-12-pro",
@@ -7515,10 +7614,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 26660,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/243428/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03"
     },
     {
       "id": "xiaomi-xiaomi-12t-pro",
@@ -7681,10 +7783,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 18380,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/201097/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-26"
     },
     {
       "id": "xiaomi-xiaomi-mi-11",
@@ -7703,10 +7808,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 58320,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/104978/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02"
     },
     {
       "id": "xiaomi-xiaomi-mi-10t-pro",
@@ -7871,10 +7979,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 41010,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/547478/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02"
     },
     {
       "id": "xiaomi-xiaomi-13t-2",
@@ -7893,10 +8004,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 30690,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/547476/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09"
     },
     {
       "id": "xiaomi-xiaomi-12-lite",
@@ -8088,10 +8202,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 36840,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/655025/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "redmi-redmi-note-14-5g",
@@ -8110,10 +8227,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 16910,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي لنسخة 5G؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/689086/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09"
     },
     {
       "id": "redmi-redmi-note-14",
@@ -8212,10 +8332,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 19610,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/545639/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "redmi-redmi-note-13-5g",
@@ -8964,10 +9087,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29470,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/621701/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "poco-poco-f6",
@@ -8986,10 +9112,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 20730,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/621699/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "poco-poco-f5-pro",
@@ -9008,10 +9137,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 30590,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/474135/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02"
     },
     {
       "id": "poco-poco-f5",
@@ -9030,10 +9162,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 24820,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/474133/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "poco-poco-f4-gt",
@@ -9052,10 +9187,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 30430,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يصف السعر بأنه تقريبي.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price-en/299335/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-08-01"
     },
     {
       "id": "poco-poco-f4",
@@ -9162,10 +9300,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 17500,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/583241/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09"
     },
     {
       "id": "poco-poco-x6",
@@ -9206,10 +9347,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 12500,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/427427/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "poco-poco-x5",
@@ -9250,10 +9394,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 18280,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/273069/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-01"
     },
     {
       "id": "poco-poco-x3-pro",
@@ -9338,10 +9485,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 8070,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي لطراز M6 Pro 5G؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/584175/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "poco-poco-m6",
@@ -9426,10 +9576,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 47950,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/582349/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-06"
     },
     {
       "id": "oppo-find-x7",
@@ -9448,10 +9601,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 38000,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/582347/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-05"
     },
     {
       "id": "oppo-find-x5-pro",
@@ -9470,10 +9626,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 26999,
+      "priceSource": "SofiMob / Noon",
+      "priceStatus": "أقل عرض متجر معروض لنسخة 256GB/12GB؛ تحقق من التوفر عند فتح المتجر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://www.sofimob.com/ar/phone/15825/oppo-find-x5-pro",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-01"
     },
     {
       "id": "oppo-find-x5",
@@ -9536,10 +9695,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 101300,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي لطراز Reno10 Pro+؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/484249/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-05"
     },
     {
       "id": "oppo-reno10-pro-5g-2",
@@ -9558,10 +9720,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 20560,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/484251/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-05"
     },
     {
       "id": "oppo-reno10-5g",
@@ -9616,10 +9781,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 24330,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/425218/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "oppo-reno8-t",
@@ -9673,10 +9841,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 37270,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/230589/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-06"
     },
     {
       "id": "oppo-reno7",
@@ -9788,10 +9959,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 18040,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/544180/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-25"
     },
     {
       "id": "oppo-a1-pro",
@@ -9810,10 +9984,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 19770,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/388983/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-07"
     },
     {
       "id": "oppo-a78",
