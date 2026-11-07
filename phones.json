@@ -53,9 +53,36 @@
       "os": "Android 15 مع One UI 7 عند الإطلاق",
       "connectivity": "5G، Wi‑Fi 6، Bluetooth 5.3، NFC، USB‑C، eSIM حسب المنطقة",
       "build": "162.2 × 77.5 × 7.4 مم، 198 جم، مقاومة IP67",
-      "source": "https://priceteq.com/eg/product/b69fd4f7-f0e3-4867-99c4-a916e2830336",
+      "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
       "sourceLabel": "سامسونج مصر – المواصفات الرسمية",
       "priceOffers": [
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 23999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 24299,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 24499,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
         {
           "merchant": "Raneen Egypt",
           "priceEGP": 24999,
@@ -63,6 +90,15 @@
           "source": "https://priceteq.com/eg/product/b69fd4f7-f0e3-4867-99c4-a916e2830336",
           "sourceLabel": "PriceTeq",
           "checkedAt": "2026-11-01"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 25499,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         },
         {
           "merchant": "Etisal Stores Egypt",
@@ -73,6 +109,51 @@
           "checkedAt": "2026-11-01"
         },
         {
+          "merchant": "Technology Valley Egypt",
+          "priceEGP": 25799,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Sharaf DG Egypt",
+          "priceEGP": 25999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Carrefour Egypt",
+          "priceEGP": 26000,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "iMedia Stores Egypt",
+          "priceEGP": 26499,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Elshennawy Stores Egypt",
+          "priceEGP": 26990,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
           "merchant": "2B Egypt",
           "priceEGP": 29999,
           "variant": "8GB RAM / 256GB / 5G",
@@ -81,12 +162,13 @@
           "checkedAt": "2026-11-01"
         }
       ],
-      "priceEGP": 24999,
-      "priceSource": "PriceTeq – عروض متاجر مصرية",
-      "priceCheckedAt": "2026-11-01",
-      "priceObservedAt": "2026-11-03",
-      "priceStatus": "أسعار رصدتها PriceTeq لنسخة 8GB/256GB: أقلها 24,999 جنيه لدى Raneen. الأسعار كما ظهرت في 1 نوفمبر 2026؛ تحقق من السعر والتوفر عند الشراء.",
-      "merchant": "Etisal Stores Egypt"
+      "priceEGP": 23999,
+      "priceSource": "PriceTeq — أقل سعر مرصود في مصر",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "أقل سعر مرصود 23,999 جنيه لنسخة 8/256GB لدى Etisal Stores Egypt؛ 9 متاجر مدرجة بتاريخ 7 نوفمبر 2026.",
+      "merchant": "Etisal Stores Egypt",
+      "priceProvider": "PriceTeq"
     },
     {
       "id": "redmi-note-14-pro-5g",
@@ -1631,11 +1713,26 @@
       "brand": "vivo",
       "name": "vivo V29 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 27829,
+      "priceSource": "PriceTeq — أقل سعر مرصود في مصر",
+      "priceStatus": "سعر 27,829 جنيه لدى Cairo Drop Egypt؛ آخر تحقق ظاهر بالمصدر قبل 3 أيام والمنتج ظاهر متاحًا.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 27829,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/bc590141-5449-4f0b-a4cd-d90208271905",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceProvider": "PriceTeq",
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/bc590141-5449-4f0b-a4cd-d90208271905"
     },
     {
       "id": "vivo-y200-5g",
@@ -3592,12 +3689,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
+      "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 20999,
+      "priceSource": "PriceTeq — أقل سعر مرصود في مصر",
+      "priceStatus": "سعر مرصود لنسخة 8/128GB يبدأ من 20,999 جنيه لدى Hyper One Egypt؛ لا يخلط مع نسخة 8/256GB.",
+      "priceOffers": [
+        {
+          "merchant": "Hyper One Egypt",
+          "priceEGP": 20999,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceProvider": "PriceTeq",
+      "merchant": "Hyper One Egypt"
     },
     {
       "id": "samsung-galaxy-a55",
@@ -4126,12 +4237,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
+      "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 19990,
+      "priceSource": "PriceTeq — أقل سعر مرصود في مصر",
+      "priceStatus": "سعر جديد 19,990 جنيه لدى Elshennawy Stores Egypt؛ متجر واحد مدرج ومتاح بتاريخ 7 نوفمبر 2026.",
+      "priceOffers": [
+        {
+          "merchant": "Elshennawy Stores Egypt",
+          "priceEGP": 19990,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceProvider": "PriceTeq",
+      "merchant": "Elshennawy Stores Egypt"
     },
     {
       "id": "samsung-galaxy-m54",
@@ -7317,12 +7442,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.honor.com/eg/phones/",
+      "source": "https://priceteq.com/eg/product/8b34dc78-af10-441d-8a98-4711fea7b228",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 17049,
+      "priceSource": "PriceTeq — أقل سعر مرصود في مصر",
+      "priceStatus": "سعر 17,049 جنيه لدى Cairo Drop Egypt؛ آخر تحقق ظاهر بالمصدر قبل يومين والمنتج ظاهر متاحًا.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 17049,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/8b34dc78-af10-441d-8a98-4711fea7b228",
+          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceProvider": "PriceTeq",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "honor-x9a",
