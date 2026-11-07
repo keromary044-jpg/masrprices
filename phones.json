@@ -2421,11 +2421,26 @@
       "brand": "Motorola",
       "name": "Motorola Edge 50 Fusion",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 21333,
+      "priceSource": "AskYasser – سعر متجر مرصود؛ قد يكون آخر سعر معروف",
+      "priceStatus": "سعر بداية للموديل من النسخة المحددة الموضحة في خانة الذاكرة؛ قد تختلف الأسعار حسب السعة والنسخة.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "B.TECH",
+          "priceEGP": 21333,
+          "variant": "12GB RAM / 512GB",
+          "source": "https://prices.askyasser.com/en/brand/motorola",
+          "sourceLabel": "AskYasser – مقارنة أسعار مصر",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "memory": "سعر بداية لنسخة 12GB RAM / 512GB",
+      "priceCheckedAt": "2026-11-05",
+      "priceObservedAt": "2026-11-05",
+      "priceProvider": "AskYasser – سعر متجر مرصود؛ قد يكون آخر سعر معروف",
+      "merchant": "B.TECH",
+      "source": "https://prices.askyasser.com/en/brand/motorola"
     },
     {
       "id": "motorola-edge-40-neo",
@@ -2476,11 +2491,26 @@
       "brand": "Motorola",
       "name": "Motorola Moto G85 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 16499,
+      "priceSource": "AskYasser – سعر متجر مرصود؛ قد يكون آخر سعر معروف",
+      "priceStatus": "سعر بداية للموديل من النسخة المحددة الموضحة في خانة الذاكرة؛ قد تختلف الأسعار حسب السعة والنسخة.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "B.TECH",
+          "priceEGP": 16499,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://prices.askyasser.com/en/brand/motorola",
+          "sourceLabel": "AskYasser – مقارنة أسعار مصر",
+          "checkedAt": "2026-11-05"
+        }
+      ],
+      "memory": "سعر بداية لنسخة 12GB RAM / 256GB",
+      "priceCheckedAt": "2026-11-05",
+      "priceObservedAt": "2026-11-05",
+      "priceProvider": "AskYasser – سعر متجر مرصود؛ قد يكون آخر سعر معروف",
+      "merchant": "B.TECH",
+      "source": "https://prices.askyasser.com/en/brand/motorola"
     },
     {
       "id": "motorola-moto-g75-5g",
@@ -8241,19 +8271,33 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "سعر بداية لنسخة 12GB RAM / 256GB / 5G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.vivo.com/eg/",
+      "source": "https://priceteq.com/eg/product/ac61e176-1e11-42de-8e83-ea2d6e0172f5",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 30580,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر بداية للموديل من النسخة المحددة الموضحة في خانة الذاكرة؛ قد تختلف الأسعار حسب السعة والنسخة.",
+      "priceOffers": [
+        {
+          "merchant": "Ehab Center Egypt",
+          "priceEGP": 30580,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/ac61e176-1e11-42de-8e83-ea2d6e0172f5",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceProvider": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "merchant": "Ehab Center Egypt"
     },
     {
       "id": "vivo-v40-pro",
