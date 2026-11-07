@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -13880,7 +13880,7 @@
       "priceCheckedAt": "2026-11-07",
       "priceStatus": "سعر متجر معلن لنسخة 8GB RAM / 256GB / 5G؛ ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
       "memory": "8GB RAM / 256GB",
-      "merchant": "Amazon.eg",
+      "merchant": "Technology Valley Egypt",
       "priceOffers": [
         {
           "merchant": "Technology Valley Egypt",
@@ -13933,7 +13933,7 @@
       "priceCheckedAt": "2026-11-07",
       "priceStatus": "سعر متجر معلن لنسخة 12GB RAM / 256GB / 5G؛ ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
       "memory": "12GB RAM / 256GB",
-      "merchant": "Noon",
+      "merchant": "Etisalat Egypt",
       "priceOffers": [
         {
           "merchant": "Etisalat Egypt",
@@ -14636,7 +14636,8 @@
           "checkedAt": "2026-11-06",
           "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "merchant": "El Avocato Mobile Egypt"
     },
     {
       "id": "honor-x7e-6-256",
@@ -14688,7 +14689,8 @@
           "checkedAt": "2026-11-06",
           "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "merchant": "Vodafone Egypt"
     },
     {
       "id": "samsung-galaxy-a08-4-128",
@@ -14740,7 +14742,8 @@
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
         }
-      ]
+      ],
+      "merchant": "Etisal Stores Egypt"
     },
     {
       "id": "samsung-galaxy-a18-6-128",
@@ -14792,7 +14795,8 @@
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
         }
-      ]
+      ],
+      "merchant": "Sharaf DG Egypt"
     },
     {
       "id": "infinix-smart-20-4-128",
@@ -14844,7 +14848,8 @@
           "checkedAt": "2026-11-06",
           "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "merchant": "B.TECH Egypt"
     },
     {
       "id": "honor-600-lite-8-128",
@@ -14896,7 +14901,8 @@
           "checkedAt": "2026-11-06",
           "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "merchant": "Etisal Stores Egypt"
     },
     {
       "id": "samsung-galaxy-a37-12-256",
@@ -14948,7 +14954,8 @@
           "checkedAt": "2026-11-06",
           "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "merchant": "El Avocato Mobile Egypt"
     }
   ],
   "priceUpdateNote": "تم تحديث أسعار النسخ المطابقة فقط من صفحات مقارنة ومتاجر مصرية؛ لا يُستنتج سعر نسخة من نسخة أخرى."
