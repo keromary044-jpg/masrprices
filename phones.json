@@ -2854,11 +2854,26 @@
       "brand": "Nothing",
       "name": "Nothing Phone (3a)",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 27492,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 27492,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/3d8a1fef-8013-4cc7-83ce-e32d756af8f9",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "memory": "12GB RAM / 256GB / 5G",
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/3d8a1fef-8013-4cc7-83ce-e32d756af8f9"
     },
     {
       "id": "nothing-phone-2a-plus",
@@ -2876,11 +2891,26 @@
       "brand": "Nothing",
       "name": "Nothing Phone (2a)",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 20000,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Etisalat Egypt",
+          "priceEGP": 20000,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/b634d248-b5a1-45c3-8780-c4b78f421be8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "memory": "8GB RAM / 128GB",
+      "merchant": "Etisalat Egypt",
+      "source": "https://priceteq.com/eg/product/b634d248-b5a1-45c3-8780-c4b78f421be8"
     },
     {
       "id": "nothing-phone-2",
@@ -15543,24 +15573,26 @@
       "brand": "Motorola",
       "name": "Motorola Moto G56 5G 12GB / 256GB",
       "category": "هواتف ذكية",
-      "source": "https://prices.askyasser.com/en/brand/motorola",
-      "sourceLabel": "AskYasser – مقارنة أسعار مصر",
-      "priceEGP": 14990,
-      "priceSource": "AskYasser – سعر متجر مرصود؛ قد يكون آخر سعر معروف",
-      "priceCheckedAt": "2026-11-05",
-      "priceStatus": "سعر مرصود للنسخة المحددة؛ قابل للتغيير وقد يكون المخزون نفد",
-      "memory": "12GB RAM / 256GB",
-      "merchant": "Dream2000",
+      "source": "https://priceteq.com/eg/product/9656d606-42e1-46d7-aa41-9cac1c26ef19",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 16299,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "memory": "12GB RAM / 256GB / 5G",
+      "merchant": "Raneen Egypt",
       "priceOffers": [
         {
-          "merchant": "Dream2000",
-          "priceEGP": 14990,
-          "variant": "12GB RAM / 256GB",
-          "source": "https://prices.askyasser.com/en/brand/motorola",
-          "sourceLabel": "AskYasser – مقارنة أسعار مصر",
-          "checkedAt": "2026-11-05"
+          "merchant": "Raneen Egypt",
+          "priceEGP": 16299,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/9656d606-42e1-46d7-aa41-9cac1c26ef19",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         }
-      ]
+      ],
+      "priceObservedAt": "2026-11-07"
     },
     {
       "id": "motorolaedge60pro5g12gb512gb",
@@ -21237,6 +21269,859 @@
       ],
       "merchant": "2B Egypt",
       "source": "https://priceteq.com/eg/product/227ec6f8-5284-4436-9d10-5c89ad104599",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "google-pixel-10a-8-256",
+      "brand": "Google",
+      "name": "Google Pixel 10a 5G 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 30990,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Koshk Egypt",
+          "priceEGP": 30990,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/1713ac09-7d4e-417a-9a40-e6b23ee226a7",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "merchant": "Smart Koshk Egypt",
+      "source": "https://priceteq.com/eg/product/1713ac09-7d4e-417a-9a40-e6b23ee226a7",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "google-pixel-10-pro-12-256",
+      "brand": "Google",
+      "name": "Google Pixel 10 Pro 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 52990,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Koshk Egypt",
+          "priceEGP": 52990,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/0a1c810d-26d3-4b9a-a8e6-124780673c20",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Smart Koshk Egypt",
+      "source": "https://priceteq.com/eg/product/0a1c810d-26d3-4b9a-a8e6-124780673c20",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "google-pixel-11-pro-12-256",
+      "brand": "Google",
+      "name": "Google Pixel 11 Pro 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 59999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-03",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-03؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Ennap Egypt",
+          "priceEGP": 59999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e2a2bb70-12d9-4420-ba89-e8e94a84a377",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03"
+        }
+      ],
+      "merchant": "Ennap Egypt",
+      "source": "https://priceteq.com/eg/product/e2a2bb70-12d9-4420-ba89-e8e94a84a377",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "google-pixel-11-pro-xl-12-256",
+      "brand": "Google",
+      "name": "Google Pixel 11 Pro XL 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 64999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Ennap Egypt",
+          "priceEGP": 64999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/1e9042b7-19f6-4d4b-ab17-f38838a609f2",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "Ennap Egypt",
+      "source": "https://priceteq.com/eg/product/1e9042b7-19f6-4d4b-ab17-f38838a609f2",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "google-pixel-10-pro-fold-512",
+      "brand": "Google",
+      "name": "Google Pixel 10 Pro Fold 5G 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "16GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 84999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 16GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Ennap Egypt",
+          "priceEGP": 84999,
+          "variant": "16GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/b0a21ea1-0441-4f72-abd4-005de8b5ee45",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Ennap Egypt",
+      "source": "https://priceteq.com/eg/product/b0a21ea1-0441-4f72-abd4-005de8b5ee45",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oneplus-13s-16-512",
+      "brand": "OnePlus",
+      "name": "OnePlus 13s 5G 16GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "16GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 34999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 16GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Ennap Egypt",
+          "priceEGP": 34999,
+          "variant": "16GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/89de1e53-f28d-4f7b-886c-d81d9ee750ea",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Ennap Egypt",
+      "source": "https://priceteq.com/eg/product/89de1e53-f28d-4f7b-886c-d81d9ee750ea",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oneplus-16-12-256",
+      "brand": "OnePlus",
+      "name": "OnePlus 16 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 54990,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Koshk Egypt",
+          "priceEGP": 54990,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/d9a29143-df4f-4109-9015-5d10f66ef22b",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Smart Koshk Egypt",
+      "source": "https://priceteq.com/eg/product/d9a29143-df4f-4109-9015-5d10f66ef22b",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oneplus-turbo-6x-12-256",
+      "brand": "OnePlus",
+      "name": "OnePlus Turbo 6x 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 18990,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Koshk Egypt",
+          "priceEGP": 18990,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/97bb0122-bf8b-4aaa-b859-398097390eb9",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Smart Koshk Egypt",
+      "source": "https://priceteq.com/eg/product/97bb0122-bf8b-4aaa-b859-398097390eb9",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nothing-phone-3a-8-128",
+      "brand": "Nothing",
+      "name": "Nothing Phone (3a) 5G 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 128GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 24084,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 24084,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/b2052096-0f5d-4103-a488-55e64581d941",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/b2052096-0f5d-4103-a488-55e64581d941",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nothing-phone-4-8-128",
+      "brand": "Nothing",
+      "name": "Nothing Phone (4) 5G 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 128GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 24999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Ennap Egypt",
+          "priceEGP": 24999,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/124d037c-abdf-4a7c-99a4-27c637c713c4",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Ennap Egypt",
+      "source": "https://priceteq.com/eg/product/124d037c-abdf-4a7c-99a4-27c637c713c4",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nothing-phone-2a-12-256-bundle",
+      "brand": "Nothing",
+      "name": "Nothing Phone (2a) 12GB / 256GB + CMF Buds bundle",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB + CMF Buds",
+      "priceEGP": 24999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB + CMF Buds، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Etisalat Egypt",
+          "priceEGP": 24999,
+          "variant": "12GB RAM / 256GB + CMF Buds",
+          "source": "https://priceteq.com/eg/product/d66610c3-62cb-42a7-8078-f7e3e13cc2a3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "merchant": "Etisalat Egypt",
+      "source": "https://priceteq.com/eg/product/d66610c3-62cb-42a7-8078-f7e3e13cc2a3",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-15-max-8-256",
+      "brand": "Huawei",
+      "name": "Huawei nova 15 Max 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 19999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "iMedia Stores Egypt",
+          "priceEGP": 19999,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/f011fdd8-e062-45ce-9090-6dada7de5595",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "iMedia Stores Egypt",
+      "source": "https://priceteq.com/eg/product/f011fdd8-e062-45ce-9090-6dada7de5595",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-16s-12-256",
+      "brand": "Huawei",
+      "name": "Huawei nova 16s 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 31524,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-02؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 31524,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/351f78ee-bbc9-4646-8eec-d537aa6b98c8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-02"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/351f78ee-bbc9-4646-8eec-d537aa6b98c8",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-16s-pro-12-256",
+      "brand": "Huawei",
+      "name": "Huawei nova 16s Pro 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 41900,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 41900,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/10186690-5687-4e44-9807-e96e747d3b45",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/10186690-5687-4e44-9807-e96e747d3b45",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-14i-8-256",
+      "brand": "Huawei",
+      "name": "Huawei nova 14i 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 11000,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 11000,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/13149f70-dc53-4eac-b8a9-740383424075",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/13149f70-dc53-4eac-b8a9-740383424075",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-10-se-8-256",
+      "brand": "Huawei",
+      "name": "Huawei nova 10 SE 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB",
+      "priceEGP": 13309,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 13309,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/28900899-1136-4c71-b761-ff79aa73dbdf",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/28900899-1136-4c71-b761-ff79aa73dbdf",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-12i-8-256",
+      "brand": "Huawei",
+      "name": "Huawei nova 12i 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB",
+      "priceEGP": 14519,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 14519,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/ef583819-7855-462b-8d4d-f69d8b2535d3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/ef583819-7855-462b-8d4d-f69d8b2535d3",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-9-se-8-128",
+      "brand": "Huawei",
+      "name": "Huawei nova 9 SE 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 128GB",
+      "priceEGP": 15069,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 15069,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/5833d1d6-e64d-464f-a4e7-cc0656e68e88",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/5833d1d6-e64d-464f-a4e7-cc0656e68e88",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-12-se-8-256",
+      "brand": "Huawei",
+      "name": "Huawei nova 12 SE 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB",
+      "priceEGP": 16939,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 16939,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/7943c441-b2e8-41d8-b2e2-14781c2b7a22",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/7943c441-b2e8-41d8-b2e2-14781c2b7a22",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-13-12-256",
+      "brand": "Huawei",
+      "name": "Huawei nova 13 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB",
+      "priceEGP": 22105,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 22105,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/b13aea19-40e1-4cd6-829a-41d677c06634",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/b13aea19-40e1-4cd6-829a-41d677c06634",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-y90-8-128",
+      "brand": "Huawei",
+      "name": "Huawei nova Y90 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 128GB",
+      "priceEGP": 10119,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 10119,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/66778383-2b5b-4ae0-9370-050ecc32819b",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/66778383-2b5b-4ae0-9370-050ecc32819b",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "huawei-nova-y74-8-256",
+      "brand": "Huawei",
+      "name": "Huawei nova Y74 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 12474,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 12474,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/3bbcd8a7-a0f6-4b62-b525-240468ea771b",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/3bbcd8a7-a0f6-4b62-b525-240468ea771b",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-110-32",
+      "brand": "Nokia",
+      "name": "Nokia 110 32GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "32GB storage",
+      "priceEGP": 1250,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 32GB storage، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 1250,
+          "variant": "32GB storage",
+          "source": "https://priceteq.com/eg/product/4b44c911-30ac-4063-88dd-76343f862819",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/4b44c911-30ac-4063-88dd-76343f862819",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-106",
+      "brand": "Nokia",
+      "name": "Nokia 106 Dual SIM",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "Feature phone",
+      "priceEGP": 899,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة Feature phone، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 899,
+          "variant": "Feature phone",
+          "source": "https://priceteq.com/eg/product/85d30124-4dd9-4122-a380-61456cc1942d",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/85d30124-4dd9-4122-a380-61456cc1942d",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-105-2g",
+      "brand": "Nokia",
+      "name": "Nokia 105 Dual SIM 2G",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "Feature phone",
+      "priceEGP": 1099,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة Feature phone، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Shop IT Egypt",
+          "priceEGP": 1099,
+          "variant": "Feature phone",
+          "source": "https://priceteq.com/eg/product/49e7f454-d130-4a5b-bbc9-64bea197cef6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Smart Shop IT Egypt",
+      "source": "https://priceteq.com/eg/product/49e7f454-d130-4a5b-bbc9-64bea197cef6",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-108",
+      "brand": "Nokia",
+      "name": "Nokia 108 Dual SIM",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "Feature phone",
+      "priceEGP": 1250,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة Feature phone، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 1250,
+          "variant": "Feature phone",
+          "source": "https://priceteq.com/eg/product/2db22479-641e-419c-9796-62877eec8a4e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/2db22479-641e-419c-9796-62877eec8a4e",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-125",
+      "brand": "Nokia",
+      "name": "Nokia 125 Dual SIM",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "Feature phone",
+      "priceEGP": 1425,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة Feature phone، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Shop IT Egypt",
+          "priceEGP": 1425,
+          "variant": "Feature phone",
+          "source": "https://priceteq.com/eg/product/72aa39f5-ed0b-4043-a7ec-8bb41a7396ed",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Smart Shop IT Egypt",
+      "source": "https://priceteq.com/eg/product/72aa39f5-ed0b-4043-a7ec-8bb41a7396ed",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-150-music",
+      "brand": "Nokia",
+      "name": "Nokia HMD 150 Music",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "Feature phone",
+      "priceEGP": 1750,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة Feature phone، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Shop IT Egypt",
+          "priceEGP": 1750,
+          "variant": "Feature phone",
+          "source": "https://priceteq.com/eg/product/74a90a75-e9f0-4d01-92de-6bfd0a7cf21a",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Smart Shop IT Egypt",
+      "source": "https://priceteq.com/eg/product/74a90a75-e9f0-4d01-92de-6bfd0a7cf21a",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-150",
+      "brand": "Nokia",
+      "name": "Nokia 150 Dual SIM",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "Feature phone",
+      "priceEGP": 1900,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة Feature phone، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 1900,
+          "variant": "Feature phone",
+          "source": "https://priceteq.com/eg/product/65e87484-9881-4132-b024-2bedecdcc71c",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/65e87484-9881-4132-b024-2bedecdcc71c",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-c1-2nd-edition-16",
+      "brand": "Nokia",
+      "name": "Nokia C1 2nd Edition 1GB / 16GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "1GB RAM / 16GB",
+      "priceEGP": 2199,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 1GB RAM / 16GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 2199,
+          "variant": "1GB RAM / 16GB",
+          "source": "https://priceteq.com/eg/product/5699409c-5e06-4735-b0a3-abb6209c8dbd",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/5699409c-5e06-4735-b0a3-abb6209c8dbd",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "nokia-215-4g",
+      "brand": "Nokia",
+      "name": "Nokia 215 4G",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "Feature phone / 4G",
+      "connectivity": "4G",
+      "priceEGP": 2390,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة Feature phone / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 2390,
+          "variant": "Feature phone / 4G",
+          "source": "https://priceteq.com/eg/product/db5c0f72-422f-4262-bfe9-44bd9647a7a6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/db5c0f72-422f-4262-bfe9-44bd9647a7a6",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
