@@ -2484,11 +2484,14 @@
       "brand": "vivo",
       "name": "vivo Y100 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 7500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-y28-5g",
@@ -8024,10 +8027,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 6000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "xiaomi-xiaomi-mi-10t",
@@ -8527,10 +8533,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 8500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "redmi-redmi-note-13-pro",
@@ -9501,10 +9510,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 6500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "poco-poco-f3",
@@ -9645,10 +9657,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 7000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "poco-poco-x5-pro",
@@ -9692,10 +9707,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 5500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "poco-poco-x4-pro-5g",
@@ -9850,10 +9868,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4800,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "poco-poco-m5s",
@@ -9872,10 +9893,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4200,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "poco-poco-m5",
@@ -10215,10 +10239,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 6000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "oppo-a5-pro",
@@ -10393,10 +10420,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oppo.com/eg/smartphones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "oppo-a17",
@@ -10514,12 +10544,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.honor.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 28000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "honor-magic-vs",
@@ -10538,12 +10571,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.honor.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 16000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "honor-90-pro",
@@ -10696,12 +10732,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.honor.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 4500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "honor-x7b",
@@ -10756,12 +10795,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.honor.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 3000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "honor-50-lite",
@@ -10780,12 +10822,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.honor.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 4500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "honor-20-pro",
@@ -10804,12 +10849,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.honor.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 3500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-gt-5-pro",
@@ -10971,10 +11019,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 6500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-11-pro-5g-2",
@@ -11064,10 +11115,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 5500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-10",
@@ -11086,10 +11140,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 5000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-9-pro-5g",
@@ -11108,10 +11165,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 5500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-9-pro-5g-2",
@@ -11130,10 +11190,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4800,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-9-5g",
@@ -11152,10 +11215,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-8-pro",
@@ -11174,10 +11240,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4200,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-8",
@@ -11196,10 +11265,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 3500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-c67",
@@ -11289,10 +11361,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 3200,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "realme-narzo-70-pro",
@@ -11385,10 +11460,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 3800,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-x90-pro",
@@ -11445,10 +11523,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 14500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-v50",
@@ -11684,10 +11765,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 8000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-v25",
@@ -11706,10 +11790,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 7000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-v23",
@@ -11728,10 +11815,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 6000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-y200",
@@ -11786,10 +11876,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 6000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-y36",
@@ -11843,10 +11936,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 3500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-y15s",
@@ -11865,10 +11961,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 2500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-y21",
@@ -11949,10 +12048,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 2600,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "vivo-y19",
@@ -11971,10 +12073,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 2400,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-zero-40",
@@ -12033,12 +12138,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 6500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-zero-20",
@@ -12057,12 +12165,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 4500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-note-50-pro-5g",
@@ -12081,12 +12192,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 13500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-note-50-pro",
@@ -12105,12 +12219,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 9500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-note-50",
@@ -12129,12 +12246,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 8000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-note-40-pro",
@@ -12191,12 +12311,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 4000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-hot-50-pro-2",
@@ -12314,12 +12437,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 3800,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-hot-20",
@@ -12338,12 +12464,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 3200,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "infinix-smart-9",
@@ -12834,10 +12963,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 17000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "tecno-phantom-v-flip",
@@ -12856,10 +12988,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 10000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "tecno-pova-5-pro",
@@ -12878,10 +13013,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4200,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "tecno-spark-30",
@@ -12974,10 +13112,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 3500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "tecno-spark-10-pro",
@@ -13072,12 +13213,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 17000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "huawei-p50-pro",
@@ -13136,12 +13280,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 8500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "huawei-p40-pro",
@@ -13240,12 +13387,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 14000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "huawei-mate-40-pro",
@@ -13340,12 +13490,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 8500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "huawei-nova-11",
@@ -13364,12 +13517,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 6500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "huawei-nova-10-pro",
@@ -13388,12 +13544,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 7000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "huawei-nova-10",
@@ -13572,12 +13731,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://consumer.huawei.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 2500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "motorola-edge-40",
@@ -13596,12 +13758,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 7500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "motorola-edge-30-ultra",
@@ -13998,10 +14163,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 2500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-g20",
@@ -14020,10 +14188,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 2000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-g11-plus",
@@ -14042,10 +14213,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 1800,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-x30-5g",
@@ -14064,10 +14238,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 6500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-x20",
@@ -14086,10 +14263,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 4000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-x10",
@@ -14108,10 +14288,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 3500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-8-3-5g",
@@ -14130,12 +14313,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 3000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-7-2",
@@ -14154,12 +14340,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 2000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-6-2",
@@ -14178,12 +14367,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 1800,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-5-4",
@@ -14202,12 +14394,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 2000,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-3-4",
@@ -14226,12 +14421,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 1500,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "nokia-nokia-c32",
@@ -14366,12 +14564,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 1200,
+      "priceSource": "تقدير استرشادي لسوق المستعمل – ليس سعر متجر مؤكد",
+      "priceStatus": "قيمة تقديرية غير مؤكدة، تختلف حسب حالة الجهاز والذاكرة والضمان؛ لا تُعامل كعرض بيع أو سعر حالي موثق.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": null,
+      "merchant": "تقدير استرشادي"
     },
     {
       "id": "oneplus-oneplus-13-2",
