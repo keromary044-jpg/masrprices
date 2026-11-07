@@ -1525,11 +1525,27 @@
       "brand": "Xiaomi",
       "name": "Xiaomi POCO F7 Ultra",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 48650,
+      "priceSource": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceStatus": "سعر تقريبي منشور بتاريخ 10/09/2026؛ المصدر يوضح أن السعر المحلي الحقيقي غير متاح. ليس عرض متجر ولا يؤكد التوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+          "priceEGP": 48650,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://aramobi.com/mobile-price/711769/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-09-10"
+        }
+      ],
+      "price": 48650,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceProvider": "Aramobi",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "xiaomi-poco-f6-pro",
@@ -8345,10 +8361,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 19940,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-03. قد يختلف السعر الفعلي بين المتاجر. تم ربطه بسعر نفس الموديل المطابق المسجل في قاعدة البيانات.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 19940,
+          "variant": "16GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/545637/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-03"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03",
+      "merchant": "Aramobi"
     },
     {
       "id": "redmi-redmi-note-13-pro-5g-2",
@@ -9124,10 +9154,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 37570,
+      "priceSource": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceStatus": "سعر تقريبي منشور بتاريخ 10/09/2026؛ المصدر يوضح أن السعر المحلي الحقيقي غير متاح. ليس عرض متجر ولا يؤكد التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+          "priceEGP": 37570,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://aramobi.com/mobile-price/711767/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-09-10"
+        }
+      ],
+      "price": 37570,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceProvider": "Aramobi",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "poco-poco-f7",
@@ -9146,10 +9192,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 35360,
+      "priceSource": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceStatus": "سعر تقريبي منشور بتاريخ 10/09/2026؛ المصدر يوضح أن السعر المحلي الحقيقي غير متاح. ليس عرض متجر ولا يؤكد التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+          "priceEGP": 35360,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://aramobi.com/mobile-price/738681/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-09-10"
+        }
+      ],
+      "price": 35360,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceProvider": "Aramobi",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "poco-poco-f6-pro",
@@ -9340,10 +9402,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 13849,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 13849,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/xiaomi/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار Xiaomi في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 13849,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "poco-poco-x7",
@@ -9362,10 +9438,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 11870,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 11870,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/xiaomi/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار Xiaomi في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 11870,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "poco-poco-x6-pro",
@@ -9553,10 +9643,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 8903,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 8903,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/xiaomi/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار Xiaomi في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 8903,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "poco-poco-m6-pro",
@@ -10578,10 +10682,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29000,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "سعر متجر محلي معروض بتاريخ 7 نوفمبر 2026، والصفحة تعرض الهاتف متاحًا. تحقق من النسخة والضمان قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29000,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://mobile.store-eg.com/en/brand/realme",
+          "sourceLabel": "Mobile Store – قائمة منتجات Realme",
+          "checkedAt": "2026-11-07",
+          "availability": "in_stock"
+        }
+      ],
+      "price": 29000,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "realme-gt-neo-6",
@@ -10600,10 +10718,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 30000,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "سعر متجر محلي معروض بتاريخ 7 نوفمبر 2026، والصفحة تعرض الهاتف متاحًا. تحقق من النسخة والضمان قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 30000,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://mobile.store-eg.com/en/brand/realme",
+          "sourceLabel": "Mobile Store – قائمة منتجات Realme",
+          "checkedAt": "2026-11-07",
+          "availability": "in_stock"
+        }
+      ],
+      "price": 30000,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "realme-gt-neo-5",
@@ -10912,10 +11044,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29500,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "آخر سعر معلن في صفحة المتجر؛ الصفحة تشير إلى أن الهاتف غير متوفر حاليًا، لذلك لا يعتبر عرضًا متاحًا للشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29500,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://mobile.store-eg.com/en/brand/realme",
+          "sourceLabel": "Mobile Store – قائمة منتجات Realme",
+          "checkedAt": "2026-11-07",
+          "availability": "out_of_stock"
+        }
+      ],
+      "price": 29500,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "realme-c51",
@@ -10991,10 +11137,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.realme.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 11870,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 11870,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/realme/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار Realme في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 11870,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "realme-narzo-60-pro",
@@ -11057,10 +11217,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 60610,
+      "priceSource": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceStatus": "سعر تقريبي منشور بتاريخ 02/09/2026؛ السعر المحلي الحقيقي غير متاح وفق المصدر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+          "priceEGP": 60610,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://aramobi.com/mobile-price/392480/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-09-02"
+        }
+      ],
+      "price": 60610,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceProvider": "Aramobi",
+      "priceObservedAt": "2026-09-02"
     },
     {
       "id": "vivo-x90",
@@ -11137,10 +11313,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29580,
+      "priceSource": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceStatus": "سعر تقريبي منشور بتاريخ 27/09/2026؛ السعر المحلي الحقيقي غير متاح وفق المصدر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+          "priceEGP": 29580,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://aramobi.com/mobile-price/637610/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-09-27"
+        }
+      ],
+      "price": 29580,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceProvider": "Aramobi",
+      "priceObservedAt": "2026-09-27"
     },
     {
       "id": "vivo-v40",
@@ -11159,10 +11351,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 18795,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 18795,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/vivo/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار vivo في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 18795,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "vivo-v30-pro",
@@ -11181,10 +11387,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29627,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 29627,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/vivo/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار vivo في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 29627,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "vivo-v30",
@@ -11203,10 +11423,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 20990,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 20990,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/vivo/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار vivo في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 20990,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "vivo-v29",
@@ -11326,10 +11560,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.vivo.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 13650,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 13650,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/vivo/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار vivo في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 13650,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "vivo-y100",
@@ -11555,12 +11803,28 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 26750,
+      "priceSource": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceStatus": "سعر تقريبي منشور بتاريخ 08/09/2026؛ المصدر يوضح أن السعر المحلي الحقيقي غير متاح. ليس عرض متجر ولا يؤكد التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+          "priceEGP": 26750,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://aramobi.com/mobile-price/646129/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-09-08"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 26750,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceProvider": "Aramobi",
+      "priceObservedAt": "2026-09-08"
     },
     {
       "id": "infinix-zero-30",
@@ -11699,12 +11963,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 12860,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 12860,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار Infinix في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 12860,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-note-12",
@@ -11747,10 +12025,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 9397,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 9397,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار Infinix في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 9397,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-hot-50",
@@ -11794,12 +12086,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 9892,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 9892,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار Infinix في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 9892,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-hot-30",
@@ -11893,12 +12199,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.infinixmobility.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 5193,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 5193,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار Infinix في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 5193,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-smart-7",
@@ -11952,10 +12272,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 28687,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 28687,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار TECNO في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 28687,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-camon-40-pro-5g",
@@ -12126,10 +12460,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 27203,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 27203,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار TECNO في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 27203,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-camon-20-premier",
@@ -12192,10 +12540,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 59847,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 59847,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار TECNO في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 59847,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-phantom-v-flip2",
@@ -12214,10 +12576,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 35859,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 35859,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار TECNO في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 35859,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-phantom-v-fold",
@@ -12302,10 +12678,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 9892,
+      "priceSource": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر أو النسخة. تحقق من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+          "priceEGP": 9892,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار TECNO في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 9892,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "ECT Gadget – مرجع سعري لقائمة الهواتف في مصر",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-spark-20-pro-2",
@@ -12324,10 +12714,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.tecno-mobile.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 13699,
+      "priceSource": "PriceTeq – أقل سعر مرصود لدى Raneen Egypt",
+      "priceStatus": "سعر متجر مرصود 13,699 جنيه لنسخة 256GB/8GB لدى Raneen Egypt بتاريخ 7 نوفمبر 2026؛ تحقق من التوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 13699,
+          "variant": "256GB / 8GB RAM / 4G",
+          "source": "https://priceteq.com/eg/phones?brand=Tecno",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "price": 13699,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Raneen Egypt",
+      "priceProvider": "PriceTeq",
+      "priceObservedAt": "2026-11-07"
     },
     {
       "id": "tecno-spark-20",
@@ -12904,12 +13310,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.motorola.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 29000,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "سعر متجر محلي معروض بتاريخ 7 نوفمبر 2026؛ النسخة والتوفر يحتاجان تأكيدًا مباشرًا من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29000,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://mobile.store-eg.com/en/brand/motorola",
+          "sourceLabel": "Mobile Store – قائمة منتجات Motorola",
+          "checkedAt": "2026-11-07",
+          "availability": "in_stock"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 29000,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "motorola-moto-g73-5g",
@@ -13024,10 +13444,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29500,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "سعر متجر محلي معروض بتاريخ 7 نوفمبر 2026؛ النسخة والتوفر يحتاجان تأكيدًا مباشرًا من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29500,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://store-eg.com/s/mobile/en/brand/nokia",
+          "sourceLabel": "Mobile Store – قائمة منتجات Nokia",
+          "checkedAt": "2026-11-07",
+          "availability": "in_stock"
+        }
+      ],
+      "price": 29500,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "nokia-nokia-g22",
@@ -13320,10 +13754,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.hmd.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 28750,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "سعر متجر محلي معروض بتاريخ 7 نوفمبر 2026؛ النسخة والتوفر يحتاجان تأكيدًا مباشرًا من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 28750,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://store-eg.com/s/mobile/en/brand/nokia",
+          "sourceLabel": "Mobile Store – قائمة منتجات Nokia",
+          "checkedAt": "2026-11-07",
+          "availability": "in_stock"
+        }
+      ],
+      "price": 28750,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "nokia-nokia-c22",
@@ -13436,10 +13884,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29250,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "سعر متجر محلي معروض بتاريخ 7 نوفمبر 2026؛ النسخة والتوفر يحتاجان تأكيدًا مباشرًا من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29250,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://mobile.store-eg.com/en/brand/oneplus",
+          "sourceLabel": "Mobile Store – قائمة منتجات OnePlus",
+          "checkedAt": "2026-11-07",
+          "availability": "in_stock"
+        }
+      ],
+      "price": 29250,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "oneplus-oneplus-12-2",
@@ -13480,10 +13942,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29000,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "سعر متجر محلي معروض بتاريخ 7 نوفمبر 2026؛ النسخة والتوفر يحتاجان تأكيدًا مباشرًا من البائع.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29000,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://mobile.store-eg.com/en/brand/oneplus",
+          "sourceLabel": "Mobile Store – قائمة منتجات OnePlus",
+          "checkedAt": "2026-11-07",
+          "availability": "in_stock"
+        }
+      ],
+      "price": 29000,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "oneplus-oneplus-11-2",
@@ -13524,10 +14000,12 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 43580,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر. تم ربطه بسعر نفس الموديل المطابق المسجل في قاعدة البيانات.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-01"
     },
     {
       "id": "oneplus-oneplus-10t",
@@ -13678,10 +14156,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29250,
+      "priceSource": "Mobile Store Egypt – صفحة منتجات المتجر",
+      "priceStatus": "سعر يبدأ من 29,250 جنيه بحسب صفحة المتجر؛ السعر النهائي يختلف حسب النسخة.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29250,
+          "variant": "السعر يبدأ من 29,250 جنيه؛ الذاكرة غير محددة",
+          "source": "https://mobile.store-eg.com/en/brand/oneplus",
+          "sourceLabel": "Mobile Store – قائمة منتجات OnePlus",
+          "checkedAt": "2026-11-07",
+          "availability": "in_stock"
+        }
+      ],
+      "price": 29250,
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt",
+      "priceProvider": "Mobile Store"
     },
     {
       "id": "oneplus-oneplus-nord-ce3-lite-2",
@@ -13700,10 +14192,12 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 18010,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر. تم ربطه بسعر نفس الموديل المطابق المسجل في قاعدة البيانات.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03"
     },
     {
       "id": "google-pixel-6",
@@ -15430,9 +15924,27 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 19510,
+      "priceStatus": "سعر تقريبي منشور بتاريخ 09/09/2026؛ المصدر يوضح أن السعر المحلي الحقيقي غير متاح. ليس عرض متجر ولا يؤكد التوفر.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "price": 19510,
+      "priceSource": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+          "priceEGP": 19510,
+          "variant": "النسخة غير محددة في المصدر؛ راجع البائع",
+          "source": "https://aramobi.com/mobile-price/545639/",
+          "sourceLabel": "Aramobi – السعر التقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "availability": "check_store",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "merchant": "Aramobi – سعر مصري تقريبي منشور، وليس عرض متجر",
+      "priceProvider": "Aramobi",
+      "priceObservedAt": "2026-09-09"
     },
     {
       "id": "redmi-redminote12s",
@@ -25711,6 +26223,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "تمت إضافة أسعار سوق مرجعية منفصلة عن عروض المتاجر؛ لا تُعرض كسعر متجر مؤكد.",
+  "priceUpdateNote": "أضيفت أسعار مرجعية جديدة بتاريخ 2026-11-07. تم تمييز أسعار المتاجر عن الأسعار الاسترشادية والتقديرية، ولا تعني الأسعار الاسترشادية توافر عرض شراء مباشر.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
