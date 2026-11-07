@@ -2597,11 +2597,26 @@
       "brand": "Apple",
       "name": "iPhone 16 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 66999,
+      "priceSource": "Orange Egypt – صفحة المنتج الرسمية",
+      "priceStatus": "سعر منشور على صفحة Orange Egypt: 66,999 جنيه لنسخة 128GB؛ تحقق من اختيار السعة والتوفر قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Orange Egypt",
+          "priceEGP": 66999,
+          "variant": "128GB / جديد",
+          "source": "https://shop.orange.eg/en/mobiles/apple/iphone-16-pro",
+          "sourceLabel": "Orange Egypt – صفحة المنتج الرسمية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "price": 66999,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Orange Egypt",
+      "source": "https://shop.orange.eg/en/mobiles/apple/iphone-16-pro"
     },
     {
       "id": "apple-iphone-16-plus",
