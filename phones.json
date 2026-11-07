@@ -14591,10 +14591,23 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29500,
+      "priceSource": "سعر متجر مصري معلن — Mobile Store Egypt",
+      "priceStatus": "سعر معلن في مصدر مصري؛ قد يختلف حسب نسخة الذاكرة والتوفر. تاريخ المصدر 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29500,
+          "variant": "النسخة حسب صفحة المتجر؛ يجب التحقق من السعة والرام قبل الشراء",
+          "source": "https://mobile.store-eg.com/en/brand/oneplus",
+          "sourceLabel": "سعر متجر مصري معلن — Mobile Store Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt"
     },
     {
       "id": "oneplus-oneplus-13r-2",
@@ -14649,10 +14662,23 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29000,
+      "priceSource": "سعر يبدأ من — Mobile Store Egypt",
+      "priceStatus": "سعر معلن في مصدر مصري؛ قد يختلف حسب نسخة الذاكرة والتوفر. تاريخ المصدر 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store Egypt",
+          "priceEGP": 29000,
+          "variant": "النسخة حسب صفحة المتجر؛ يجب التحقق من السعة والرام قبل الشراء",
+          "source": "https://mobile.store-eg.com/en/brand/oneplus",
+          "sourceLabel": "سعر يبدأ من — Mobile Store Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Mobile Store Egypt"
     },
     {
       "id": "oneplus-oneplus-12r-2",
@@ -18681,9 +18707,24 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 40990,
+      "priceStatus": "سعر معلن في مصدر مصري؛ قد يختلف حسب نسخة الذاكرة والتوفر. تاريخ المصدر 2026-11-02.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "مؤشر أسعار السوق المصري — Wakteey (آخر صفحة منشورة 2026-11-02)",
+      "priceCheckedAt": "2026-11-02",
+      "priceObservedAt": "2026-11-02",
+      "merchant": "Wakteey price index",
+      "priceOffers": [
+        {
+          "merchant": "Wakteey price index",
+          "priceEGP": 40990,
+          "variant": "النسخة حسب صفحة المتجر؛ يجب التحقق من السعة والرام قبل الشراء",
+          "source": "https://wakteey.com/en/egypt-prices",
+          "sourceLabel": "مؤشر أسعار السوق المصري — Wakteey (آخر صفحة منشورة 2026-11-02)",
+          "checkedAt": "2026-11-02",
+          "observedAt": "2026-11-02"
+        }
+      ]
     },
     {
       "id": "xiaomi-xiaomi15tpro",
@@ -18702,9 +18743,24 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 53990,
+      "priceStatus": "سعر معلن في مصدر مصري؛ قد يختلف حسب نسخة الذاكرة والتوفر. تاريخ المصدر 2026-11-02.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "مؤشر أسعار السوق المصري — Wakteey (آخر صفحة منشورة 2026-11-02)",
+      "priceCheckedAt": "2026-11-02",
+      "priceObservedAt": "2026-11-02",
+      "merchant": "Wakteey price index",
+      "priceOffers": [
+        {
+          "merchant": "Wakteey price index",
+          "priceEGP": 53990,
+          "variant": "النسخة حسب صفحة المتجر؛ يجب التحقق من السعة والرام قبل الشراء",
+          "source": "https://wakteey.com/en/egypt-prices",
+          "sourceLabel": "مؤشر أسعار السوق المصري — Wakteey (آخر صفحة منشورة 2026-11-02)",
+          "checkedAt": "2026-11-02",
+          "observedAt": "2026-11-02"
+        }
+      ]
     },
     {
       "id": "xiaomi-xiaomi14pro",
