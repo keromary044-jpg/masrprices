@@ -3777,11 +3777,11 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+      "source": "https://wakteey.com/en/devices/galaxy-a56/price-in-egypt",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": 20999,
-      "priceSource": "PriceTeq — أقل سعر مرصود في مصر",
-      "priceStatus": "سعر مرصود لنسخة 8/128GB يبدأ من 20,999 جنيه لدى Hyper One Egypt؛ لا يخلط مع نسخة 8/256GB.",
+      "priceEGP": 23777,
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceStatus": "سعر مرجعي منشور 23,777 جنيه لنسخة 6GB RAM؛ المصدر لا يحدد سعة التخزين أو اسم المتجر، وآخر تاريخ للصفحة 2026-11-02. لا تقارنه مباشرة بعروض 8GB/256GB.",
       "priceOffers": [
         {
           "merchant": "Hyper One Egypt",
@@ -3791,12 +3791,22 @@
           "sourceLabel": "PriceTeq — أسعار متاجر مصر",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "مرجع أسعار Wakteey",
+          "priceEGP": 23777,
+          "variant": "6GB RAM / سعة التخزين غير محددة في المصدر",
+          "source": "https://wakteey.com/en/devices/galaxy-a56/price-in-egypt",
+          "sourceLabel": "Wakteey – مؤشر أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-02",
+          "observedAt": "2026-11-02"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
+      "priceCheckedAt": "2026-11-02",
+      "priceObservedAt": "2026-11-02",
       "priceProvider": "PriceTeq",
-      "merchant": "Hyper One Egypt"
+      "merchant": "مرجع أسعار Wakteey",
+      "price": 23777
     },
     {
       "id": "samsung-galaxy-a55",
