@@ -1030,11 +1030,26 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy A15 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 11700,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-10. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 11700,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/574506/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-10"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10",
+      "source": "https://aramobi.com/mobile-price/574506/",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-a15-4g",
@@ -1131,11 +1146,26 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 14 Ultra",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 63580,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/1TB؛ آخر تحديث ظاهر بالمصدر 2026-09-05. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 63580,
+          "variant": "16GB/1TB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/595317/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-05"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-05",
+      "source": "https://aramobi.com/mobile-price/595317/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-14t-pro",
@@ -1180,44 +1210,104 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 13T Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 41010,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/1TB؛ آخر تحديث ظاهر بالمصدر 2026-09-04. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 41010,
+          "variant": "16GB/1TB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/547478/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-04",
+      "source": "https://aramobi.com/mobile-price/547478/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-13t",
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 13T",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 30690,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 30690,
+          "variant": "12GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/547476/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "source": "https://aramobi.com/mobile-price/547476/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-13-pro",
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 13 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 62990,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-02. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 62990,
+          "variant": "12GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/400460/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-02"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02",
+      "source": "https://aramobi.com/mobile-price/400460/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-13",
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 13",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 49690,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-02. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 49690,
+          "variant": "12GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/400458/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-02"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02",
+      "source": "https://aramobi.com/mobile-price/400458/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-redmi-note-14-pro-5g",
@@ -1259,33 +1349,78 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Redmi Note 14 Pro 4G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 18890,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-10. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 18890,
+          "variant": "12GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/689094/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-10"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10",
+      "source": "https://aramobi.com/mobile-price/689094/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-redmi-note-14-5g",
       "brand": "Xiaomi",
       "name": "Xiaomi Redmi Note 14 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 16910,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 16910,
+          "variant": "12GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/689086/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "source": "https://aramobi.com/mobile-price/689086/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-redmi-note-13-pro-5g",
       "brand": "Xiaomi",
       "name": "Xiaomi Redmi Note 13 Pro+ 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 19940,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-03. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 19940,
+          "variant": "16GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/545637/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-03"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03",
+      "source": "https://aramobi.com/mobile-price/545637/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-redmi-note-13-4g",
@@ -1381,11 +1516,26 @@
       "brand": "Xiaomi",
       "name": "Xiaomi POCO F6 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29470,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/1TB؛ آخر تحديث ظاهر بالمصدر 2026-09-10. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 29470,
+          "variant": "16GB/1TB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/621701/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-10"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10",
+      "source": "https://aramobi.com/mobile-price/621701/",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-poco-x6-pro",
@@ -1549,11 +1699,26 @@
       "brand": "OPPO",
       "name": "OPPO Reno11 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 24750,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-04. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 24750,
+          "variant": "12GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/584043/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-04",
+      "source": "https://aramobi.com/mobile-price/584043/",
+      "merchant": "Aramobi"
     },
     {
       "id": "oppo-reno11-5g",
@@ -1827,11 +1992,26 @@
       "brand": "realme",
       "name": "realme 12+ 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 17340,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 17340,
+          "variant": "12GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/597547/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "source": "https://aramobi.com/mobile-price/597547/",
+      "merchant": "Aramobi"
     },
     {
       "id": "realme-11-pro-5g",
@@ -1930,11 +2110,26 @@
       "brand": "realme",
       "name": "realme C55",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 8780,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية النسخة غير محددة في ملخص السعر؛ آخر تحديث ظاهر بالمصدر 2026-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 8780,
+          "variant": "النسخة غير محددة في ملخص السعر",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/442788/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09",
+      "source": "https://aramobi.com/mobile-price/442788/",
+      "merchant": "Aramobi"
     },
     {
       "id": "realme-c53",
@@ -2028,11 +2223,26 @@
       "brand": "vivo",
       "name": "vivo X100",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 49170,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/1TB؛ آخر تحديث ظاهر بالمصدر 2026-09-07. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 49170,
+          "variant": "16GB/1TB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/564149/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-07",
+      "source": "https://aramobi.com/mobile-price/564149/",
+      "merchant": "Aramobi"
     },
     {
       "id": "vivo-v50-5g",
@@ -2165,11 +2375,26 @@
       "brand": "vivo",
       "name": "vivo Y200 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 13650,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-03. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 13650,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/556759/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-03"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03",
+      "source": "https://aramobi.com/mobile-price/556759/",
+      "merchant": "Aramobi"
     },
     {
       "id": "vivo-y100-5g",
@@ -2304,26 +2529,56 @@
       "brand": "HONOR",
       "name": "Honor 200",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceEGP": 24950,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-10. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 24950,
+          "variant": "16GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/622704/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-10"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10",
+      "source": "https://aramobi.com/mobile-price/622704/",
+      "merchant": "Aramobi"
     },
     {
       "id": "honor-90",
       "brand": "HONOR",
       "name": "Honor 90",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceEGP": 23580,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 23580,
+          "variant": "16GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/487232/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "source": "https://aramobi.com/mobile-price/487232/",
+      "merchant": "Aramobi"
     },
     {
       "id": "honor-x9c-5g",
@@ -2371,11 +2626,26 @@
       "brand": "HONOR",
       "name": "Honor X8b",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 12320,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 12320,
+          "variant": "8GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/576539/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "source": "https://aramobi.com/mobile-price/576539/",
+      "merchant": "Aramobi"
     },
     {
       "id": "honor-x7c",
@@ -2524,11 +2794,26 @@
       "brand": "TECNO",
       "name": "TECNO Camon 20 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 18980,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-01. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 18980,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/474129/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-01"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-01",
+      "source": "https://aramobi.com/mobile-price/474129/",
+      "merchant": "Aramobi"
     },
     {
       "id": "tecno-camon-20",
@@ -2686,11 +2971,26 @@
       "brand": "Infinix",
       "name": "Infinix Zero 30 4G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 12280,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-03. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 12280,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/557613/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-03"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03",
+      "source": "https://aramobi.com/mobile-price/557613/",
+      "merchant": "Aramobi"
     },
     {
       "id": "infinix-note-40-pro-5g",
@@ -2708,11 +3008,26 @@
       "brand": "Infinix",
       "name": "Infinix Note 40 Pro 4G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 17340,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 17340,
+          "variant": "12GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/602433/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "source": "https://aramobi.com/mobile-price/602433/",
+      "merchant": "Aramobi"
     },
     {
       "id": "infinix-note-40-5g",
@@ -3790,11 +4105,26 @@
       "brand": "OnePlus",
       "name": "OnePlus OnePlus 12",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 49320,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 24GB/1TB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 49320,
+          "variant": "24GB/1TB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/571853/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "source": "https://aramobi.com/mobile-price/571853/",
+      "merchant": "Aramobi"
     },
     {
       "id": "oneplus-oneplus-12r",
@@ -4812,12 +5142,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/134722/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 18750,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 18750,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/134722/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-a51",
@@ -4834,12 +5178,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/32825/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 17340,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 17340,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/32825/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-a36",
@@ -4970,12 +5328,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/281241/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 18220,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-10. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 18220,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/281241/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-10"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-a25",
@@ -5202,12 +5574,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/91083/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 8030,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 6GB/128GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 8030,
+          "variant": "6GB/128GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/91083/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-m55",
@@ -5260,12 +5646,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/450290/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 13070,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-12. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 13070,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/450290/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-12"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-12",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-m53",
@@ -5282,12 +5682,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/291318/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 19020,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-10-18. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 19020,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/291318/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-18"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-18",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-m52",
@@ -5304,12 +5718,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/204624/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 19510,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/128GB؛ آخر تحديث ظاهر بالمصدر 2026-09-09. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 19510,
+          "variant": "8GB/128GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/204624/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-m51",
@@ -5326,12 +5754,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/69847/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 34350,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/128GB؛ آخر تحديث ظاهر بالمصدر 2026-09-02. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 34350,
+          "variant": "8GB/128GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/69847/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-02"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02",
+      "merchant": "Aramobi"
     },
     {
       "id": "samsung-galaxy-m34",
@@ -6105,12 +6547,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/595317/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 63580,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/1TB؛ آخر تحديث ظاهر بالمصدر 2026-09-05. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 63580,
+          "variant": "16GB/1TB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/595317/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-05"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-05",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-14",
@@ -6149,12 +6605,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/462416/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 59060,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/1TB؛ آخر تحديث ظاهر بالمصدر 2026-09-02. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 59060,
+          "variant": "16GB/1TB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/462416/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-02"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-13-pro-2",
@@ -6215,12 +6685,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/243426/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 41800,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-28. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 41800,
+          "variant": "12GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/243426/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-28"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-28",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-12",
@@ -6259,12 +6743,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/369713/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 37270,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-03. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 37270,
+          "variant": "12GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/369713/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-03"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-03",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-12t",
@@ -6281,12 +6779,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/369711/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 27860,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-09-01. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 27860,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/369711/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-01"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-01",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-11t-pro",
@@ -6609,12 +7121,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/334684/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 18930,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 8GB/256GB؛ آخر تحديث ظاهر بالمصدر 2026-10-15. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 18930,
+          "variant": "8GB/256GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/334684/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-15"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-15",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-11-lite",
@@ -8713,14 +9239,28 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.honor.com/eg/phones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "source": "https://aramobi.com/mobile-price/487234/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 29860,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 16GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-09-29. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 29860,
+          "variant": "16GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/487234/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-29"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-29",
+      "merchant": "Aramobi"
     },
     {
       "id": "honor-x9c",
@@ -10927,12 +11467,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://consumer.huawei.com/eg/phones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/578488/",
+      "sourceLabel": "Aramobi — سعر محلي تقريبي",
+      "priceEGP": 37640,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي من Aramobi وليس عرض متجر مؤكدًا أو ضمانًا للتوفر؛ النسخة المرجعية 12GB/512GB؛ آخر تحديث ظاهر بالمصدر 2026-10-16. قد يختلف السعر الفعلي بين المتاجر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 37640,
+          "variant": "12GB/512GB",
+          "condition": "تقديري - متوسط سوق محلي",
+          "source": "https://aramobi.com/mobile-price/578488/",
+          "sourceLabel": "Aramobi — سعر محلي تقريبي",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-16"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-16",
+      "merchant": "Aramobi"
     },
     {
       "id": "huawei-nova-12",
