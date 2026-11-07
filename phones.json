@@ -757,11 +757,26 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy S25+",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 41344,
+      "priceSource": "Elshennawi – قائمة أسعار متجر الشناوي",
+      "priceStatus": "آخر سعر منشور عُثر عليه 41,344 جنيه لنسخة 12GB RAM / 256GB لدى متجر الشناوي؛ تاريخ آخر ظهور للمصدر 2026-11-02. السعر يحتاج تأكيدًا من المتجر قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Elshennawi",
+          "priceEGP": 41344,
+          "variant": "12GB RAM / 256GB",
+          "source": "https://www.elshennawi.com/shop?brand=samsung",
+          "sourceLabel": "Elshennawi – قائمة أسعار متجر الشناوي",
+          "checkedAt": "2026-11-02",
+          "observedAt": "2026-11-02"
+        }
+      ],
+      "price": 41344,
+      "priceCheckedAt": "2026-11-02",
+      "priceObservedAt": "2026-11-02",
+      "merchant": "Elshennawi",
+      "source": "https://www.elshennawi.com/shop?brand=samsung"
     },
     {
       "id": "samsung-galaxy-s24-ultra",
