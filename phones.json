@@ -15835,13 +15835,26 @@
       "build": "راجع صفحة الشركة",
       "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 3999,
+      "priceSource": "متجر AllCall Egypt الرسمي – صفحة المنتج",
+      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "AllCall Egypt",
+          "priceEGP": 3999,
+          "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
+          "source": "https://allcall-eg.com/product/magic-60c-up-to-12gb-ram-64gb-rom/",
+          "sourceLabel": "متجر AllCall Egypt الرسمي – صفحة المنتج",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "AllCall Egypt"
     },
     {
       "id": "allcall-magic-60-max",
@@ -15860,13 +15873,26 @@
       "build": "راجع صفحة الشركة",
       "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 4950,
+      "priceSource": "متجر AllCall Egypt الرسمي – قائمة المنتجات",
+      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "AllCall Egypt",
+          "priceEGP": 4950,
+          "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
+          "source": "https://allcall-eg.com/product-category/mobile/",
+          "sourceLabel": "متجر AllCall Egypt الرسمي – قائمة المنتجات",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "AllCall Egypt"
     },
     {
       "id": "allcall-hero-60c",
@@ -15885,13 +15911,26 @@
       "build": "راجع صفحة الشركة",
       "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 4199,
+      "priceSource": "متجر AllCall Egypt الرسمي – صفحة المنتج",
+      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "AllCall Egypt",
+          "priceEGP": 4199,
+          "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
+          "source": "https://allcall-eg.com/product/hero-60c-up-to-12gb-ram-64gb-rom-2/",
+          "sourceLabel": "متجر AllCall Egypt الرسمي – صفحة المنتج",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "AllCall Egypt"
     },
     {
       "id": "allcall-hero-60-plus",
@@ -15935,13 +15974,26 @@
       "build": "راجع صفحة الشركة",
       "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 5150,
+      "priceSource": "متجر AllCall Egypt الرسمي – قائمة المنتجات",
+      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "AllCall Egypt",
+          "priceEGP": 5150,
+          "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
+          "source": "https://allcall-eg.com/product-category/mobile/",
+          "sourceLabel": "متجر AllCall Egypt الرسمي – قائمة المنتجات",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "AllCall Egypt"
     },
     {
       "id": "reekoo-hero-70",
@@ -15983,11 +16035,24 @@
       "build": "راجع صفحة الشركة",
       "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 4999,
+      "priceSource": "الموقع الرسمي لـ Reekoo – سعر معروض للمنتج",
+      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Reekoo / JEZI Group",
+          "priceEGP": 4999,
+          "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
+          "source": "https://reekoo-mobile.com/",
+          "sourceLabel": "الموقع الرسمي لـ Reekoo – سعر معروض للمنتج",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Reekoo / JEZI Group"
     },
     {
       "id": "reekoo-note-60",
@@ -16052,11 +16117,24 @@
       "build": "راجع صفحة الشركة",
       "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 5999,
+      "priceSource": "EGPrices – عرض متجر Dream 2000، آخر تحقق ظاهر قبل 13 ساعة",
+      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "Dream 2000",
+          "priceEGP": 5999,
+          "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
+          "source": "https://www.egprices.com/ar/product/allcall-reekoo-note-70",
+          "sourceLabel": "EGPrices – عرض متجر Dream 2000، آخر تحقق ظاهر قبل 13 ساعة",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Dream 2000"
     },
     {
       "id": "reekoo-note-70-max",
@@ -16318,13 +16396,26 @@
       "build": "راجع صفحة الشركة",
       "source": "https://www.hmd.com/ar_eg/all-phones",
       "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 950,
+      "priceSource": "PriceLens – عرض HMD 102 لدى Kimo",
+      "priceStatus": "سعر منشور لنسخة/عرض محدد في المصدر بتاريخ الرصد؛ تحقق من السعر والتوافر قبل الشراء.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "Kimo",
+          "priceEGP": 950,
+          "variant": "النسخة المعروضة في صفحة المصدر؛ قد تختلف السعة أو التهيئة",
+          "source": "https://pricelens.store/en/products/hmd-hmd-102-dual-sim-8mb-4mb-ram-1-77-inch-2g",
+          "sourceLabel": "PriceLens – عرض HMD 102 لدى Kimo",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Kimo"
     },
     {
       "id": "symphony-z72",
@@ -28208,6 +28299,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "تمت إضافة سعر تاريخي معلن من Vodafone لهاتف Redmi Note 13 5G مع توضيح أن الجهاز غير متوفر؛ لا يُعرض كسعر شراء متاح.",
+  "priceUpdateNote": "تمت إضافة أسعار منشورة لبعض موديلات AllCall وReekoo وHMD من صفحات متاجر/الشركة، مع حفظ مصدر كل سعر وتاريخ الرصد. لا يعني السعر ضمان التوافر الحالي.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
