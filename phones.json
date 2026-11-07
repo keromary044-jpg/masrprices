@@ -53,8 +53,52 @@
       "os": "Android 15 مع One UI 7 عند الإطلاق",
       "connectivity": "5G، Wi‑Fi 6، Bluetooth 5.3، NFC، USB‑C، eSIM حسب المنطقة",
       "build": "162.2 × 77.5 × 7.4 مم، 198 جم، مقاومة IP67",
-      "source": "https://www.samsung.com/eg/smartphones/galaxy-a/galaxy-a56-5g-awesome-graphite-128gb-sm-a566bzkvmea/",
-      "sourceLabel": "سامسونج مصر – المواصفات الرسمية"
+      "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+      "sourceLabel": "سامسونج مصر – المواصفات الرسمية",
+      "priceOffers": [
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 23999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 24499,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03"
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 27299,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 29999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03"
+        }
+      ],
+      "priceEGP": 23999,
+      "priceSource": "PriceTeq – أقل سعر مرصود لنسخة 8GB RAM / 256GB / 5G",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-03",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G؛ أقل سعر 23,999 جنيه من Etisal Stores Egypt، وأربع عروض بين 23,999 و29,999 جنيه. تاريخ صفحة المصدر 2026-11-03؛ تحقق من السعر والمخزون والضمان قبل الشراء.",
+      "merchant": "Etisal Stores Egypt"
     },
     {
       "id": "redmi-note-14-pro-5g",
