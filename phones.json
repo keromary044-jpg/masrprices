@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T19:00:00+02:00",
+  "updatedAt": "2026-11-07T19:20:00+02:00",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -16975,13 +16975,17 @@
       "build": "راجع صفحة الشركة",
       "source": "https://www.tra.gov.eg/wp-content/uploads/2022/04/Type-Approved-List-April-2022-new-%D9%90.pdf",
       "sourceLabel": "قائمة اعتماد NTRA سابقة – لا تؤكد التوافر الحالي",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceEGP": 777,
+      "priceSource": "PriceLens / Noon",
+      "priceStatus": "عرض متجر مصري منشور من Noon؛ النسخة السوداء، رُصد السعر قبل يومين حسب صفحة المقارنة.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceSourceUrl": "https://pricelens.store/en/products/celphy-f9-dual-sim-feature-phone-1-8-inch-display-1000mah-battery-camera-bluetooth-fm-radio-and-memory-card-support-black",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "PriceLens / Noon"
     },
     {
       "id": "celphy-r2",
@@ -19017,9 +19021,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 2000,
+      "priceStatus": "سعر مصري مرجعي منشور قديم لهاتف متوقف؛ ليس عرض بيع حاليًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "PhoneZed",
+      "priceSourceUrl": "https://phonezed.com/redmi-2-specs/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2025-11-25",
+      "merchant": "PhoneZed",
+      "priceOffers": []
     },
     {
       "id": "redmi-redminote",
@@ -19038,9 +19048,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 6785.28,
+      "priceStatus": "سعر مرجعي تقديري منشور بالجنيه المصري لهاتف متوقف؛ ليس عرض متجر أو قيمة سوق مستعمل حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGsm",
+      "priceSourceUrl": "https://eg.mobgsm.com/mobile/xiaomi-redmi-note-price-in-egypt/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobGsm",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi1s",
@@ -19059,9 +19075,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 5088.96,
+      "priceStatus": "سعر مرجعي تقديري منشور بالجنيه المصري لهاتف متوقف؛ ليس عرض متجر أو قيمة سوق مستعمل حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGsm",
+      "priceSourceUrl": "https://eg.mobgsm.com/mobile/xiaomi-redmi-1s-price-in-egypt/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobGsm",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi",
@@ -19080,9 +19102,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 5654.4,
+      "priceStatus": "سعر مرجعي تقديري منشور بالجنيه المصري لهاتف متوقف؛ ليس عرض متجر أو قيمة سوق مستعمل حالي.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobGsm",
+      "priceSourceUrl": "https://eg.mobgsm.com/mobile/xiaomi-redmi-price-in-Egypt/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobGsm",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi105g",
@@ -19236,9 +19264,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 7108,
+      "priceStatus": "تقدير محوّل منشور بالجنيه المصري لهاتف متوقف؛ ليس عرضًا محليًا مباشرًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobileMall",
+      "priceSourceUrl": "https://mobilemall.co/xiaomi-redmi-2-prime",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobileMall",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi3pro",
@@ -19459,9 +19493,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 4999,
+      "priceStatus": "سعر سوق مصري تقريبي منشور لنسخة 4GB/64GB؛ يختلف حسب المتجر والتوافر.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Mobile News",
+      "priceSourceUrl": "https://www.mobile.news/article/37009/سعر-ومواصفات-موبايل-Xiaomi-Redmi-A4-5G",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-07",
+      "merchant": "Mobile News",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmia5",
@@ -19907,9 +19947,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 11300,
+      "priceStatus": "سعر مصري مرجعي منشور تاريخيًا عند الإطلاق؛ ليس سعر سوق مستعمل حاليًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "PhoneZed",
+      "priceSourceUrl": "https://phonezed.com/redmi-pro-specs/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2025-11-25",
+      "merchant": "PhoneZed",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmis2",
@@ -20987,9 +21033,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 11571,
+      "priceStatus": "تقدير محوّل منشور بالجنيه المصري؛ ليس عرضًا محليًا مباشرًا، والهاتف متوقف.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobileMall",
+      "priceSourceUrl": "https://egypt.mobilemall.co/xiaomi-mi-2a",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobileMall",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi4",
@@ -21116,9 +21168,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 13775,
+      "priceStatus": "تقدير محوّل منشور بالجنيه المصري لهاتف متوقف؛ ليس عرضًا محليًا مباشرًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobileMall",
+      "priceSourceUrl": "https://mobilemall.co/xiaomi-mi-5s",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobileMall",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi5splus",
@@ -21164,9 +21222,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 14100,
+      "priceStatus": "سعر تقديري منشور في مصر؛ المصدر يوضح أن الهاتف غير متاح محليًا وأن القيمة تقريبية.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "3edda",
+      "priceSourceUrl": "https://3edda.com/specs-price/xiaomi-mi-a1-mi-5x",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "3edda",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimi8ee",
@@ -21482,9 +21546,15 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 14326,
+      "priceStatus": "تقدير محوّل منشور بالجنيه المصري لهاتف متوقف؛ ليس عرضًا محليًا مباشرًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "MobileMall",
+      "priceSourceUrl": "https://egypt.mobilemall.co/xiaomi-mi-note-pro",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobileMall",
+      "priceOffers": []
     },
     {
       "id": "xiaomi-xiaomimiplay",
@@ -28773,6 +28843,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "أضيفت مراجع سعرية موثقة المصدر إلى موديلات جديدة. بعض القيم أسعار منشورة تاريخية أو تقديرية وليست عروض بيع حالي؛ حالة كل مرجع ورابطه وتاريخه محفوظة داخل سجل المنتج.",
+  "priceUpdateNote": "تمت إضافة مراجع إضافية من صفحات أسعار مصرية ومتاجر محلية. السجلات التاريخية والتقديرية والمحوّلة موضحة بوضوح ولا تمثل عروض شراء حالية؛ كل سجل يحتفظ بالمصدر والرابط والتاريخ.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
