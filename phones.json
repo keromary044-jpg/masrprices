@@ -13873,48 +13873,106 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy A57 5G 8GB / 256GB",
       "category": "هواتف ذكية",
-      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
-      "sourceLabel": "مصدر مقارنة أسعار مصر",
-      "priceEGP": 27930,
-      "priceSource": "Kolasaar – مقارنة متاجر مصر",
-      "priceCheckedAt": "2026-10-23",
-      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "source": "https://priceteq.com/eg/product/8ba2f5ca-a216-40f5-8655-a7b6eb7d05a1",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 27999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceStatus": "سعر متجر معلن لنسخة 8GB RAM / 256GB / 5G؛ ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
       "memory": "8GB RAM / 256GB",
       "merchant": "Amazon.eg",
       "priceOffers": [
         {
-          "merchant": "Amazon.eg",
-          "priceEGP": 27930,
-          "variant": "8GB RAM / 256GB",
-          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
-          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
-          "checkedAt": "2026-10-23"
+          "merchant": "Technology Valley Egypt",
+          "priceEGP": 27999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/8ba2f5ca-a216-40f5-8655-a7b6eb7d05a1",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-05",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 28000,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/8ba2f5ca-a216-40f5-8655-a7b6eb7d05a1",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Carrefour Egypt",
+          "priceEGP": 30565,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/8ba2f5ca-a216-40f5-8655-a7b6eb7d05a1",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 30999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/8ba2f5ca-a216-40f5-8655-a7b6eb7d05a1",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "priceObservedAt": "2026-11-06"
     },
     {
       "id": "samsunggalaxys2612gb256gb",
       "brand": "Samsung",
       "name": "Samsung Galaxy S26 12GB / 256GB",
       "category": "هواتف ذكية",
-      "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
-      "sourceLabel": "مصدر مقارنة أسعار مصر",
-      "priceEGP": 48597,
-      "priceSource": "Kolasaar – مقارنة متاجر مصر",
-      "priceCheckedAt": "2026-10-23",
-      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "source": "https://priceteq.com/eg/product/7cb6d4bf-bf6e-4372-9ca5-a2352301c681",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 45650,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceStatus": "سعر متجر معلن لنسخة 12GB RAM / 256GB / 5G؛ ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
       "memory": "12GB RAM / 256GB",
       "merchant": "Noon",
       "priceOffers": [
         {
-          "merchant": "Noon",
-          "priceEGP": 48597,
-          "variant": "12GB RAM / 256GB",
-          "source": "https://kolasaar.com/eg/en/phones/brand/samsung/",
-          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
-          "checkedAt": "2026-10-23"
+          "merchant": "Etisalat Egypt",
+          "priceEGP": 45650,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/7cb6d4bf-bf6e-4372-9ca5-a2352301c681",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-05",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 46999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/7cb6d4bf-bf6e-4372-9ca5-a2352301c681",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 47999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/7cb6d4bf-bf6e-4372-9ca5-a2352301c681",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Carrefour Egypt",
+          "priceEGP": 49500,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/7cb6d4bf-bf6e-4372-9ca5-a2352301c681",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "priceObservedAt": "2026-11-05"
     },
     {
       "id": "samsunggalaxys26fe8gb256gb",
@@ -14525,6 +14583,370 @@
           "source": "https://prices.askyasser.com/en/brand/motorola",
           "sourceLabel": "AskYasser – مقارنة أسعار مصر",
           "checkedAt": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a57-12-256",
+      "name": "Samsung Galaxy A57 5G 12GB / 256GB",
+      "brand": "Samsung",
+      "category": "متوسط",
+      "memory": "12GB RAM / 256GB",
+      "priceEGP": 31800,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر معلن لنسخة 12GB RAM / 256GB / 5G؛ السعر ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون والضمان عند المتجر قبل الشراء.",
+      "source": "https://priceteq.com/eg/product/f214bbca-483a-4121-8af8-ffcc0e1fd214",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 31800,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/f214bbca-483a-4121-8af8-ffcc0e1fd214",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Technology Valley Egypt",
+          "priceEGP": 34272,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/f214bbca-483a-4121-8af8-ffcc0e1fd214",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Ehab Center Egypt",
+          "priceEGP": 35000,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/f214bbca-483a-4121-8af8-ffcc0e1fd214",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 35799,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/f214bbca-483a-4121-8af8-ffcc0e1fd214",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "id": "honor-x7e-6-256",
+      "name": "Honor X7e 4G 6GB / 256GB",
+      "brand": "HONOR",
+      "category": "اقتصادي ومتوسط",
+      "memory": "6GB RAM / 256GB",
+      "priceEGP": 13499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر معلن لنسخة 6GB RAM / 256GB / 4G؛ السعر ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون والضمان عند المتجر قبل الشراء.",
+      "source": "https://priceteq.com/eg/product/d72cedd2-2327-487b-83ed-e454b2c33891",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 13499,
+          "variant": "6GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/d72cedd2-2327-487b-83ed-e454b2c33891",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 13799,
+          "variant": "6GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/d72cedd2-2327-487b-83ed-e454b2c33891",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 13999,
+          "variant": "6GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/d72cedd2-2327-487b-83ed-e454b2c33891",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Technology Valley Egypt",
+          "priceEGP": 13999,
+          "variant": "6GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/d72cedd2-2327-487b-83ed-e454b2c33891",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a08-4-128",
+      "name": "Samsung Galaxy A08 4GB / 128GB",
+      "brand": "Samsung",
+      "category": "اقتصادي",
+      "memory": "4GB RAM / 128GB",
+      "priceEGP": 11399,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر معلن لنسخة 4GB RAM / 128GB / 4G؛ السعر ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون والضمان عند المتجر قبل الشراء.",
+      "source": "https://priceteq.com/eg/product/917d642a-aeeb-4049-b40f-cbb50e6b7bd3",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 11399,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/917d642a-aeeb-4049-b40f-cbb50e6b7bd3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Carrefour Egypt",
+          "priceEGP": 11410,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/917d642a-aeeb-4049-b40f-cbb50e6b7bd3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 11464,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/917d642a-aeeb-4049-b40f-cbb50e6b7bd3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Sharaf DG Egypt",
+          "priceEGP": 11499,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/917d642a-aeeb-4049-b40f-cbb50e6b7bd3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a18-6-128",
+      "name": "Samsung Galaxy A18 4G 6GB / 128GB",
+      "brand": "Samsung",
+      "category": "اقتصادي ومتوسط",
+      "memory": "6GB RAM / 128GB",
+      "priceEGP": 13999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر معلن لنسخة 6GB RAM / 128GB / 4G؛ السعر ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون والضمان عند المتجر قبل الشراء.",
+      "source": "https://priceteq.com/eg/product/163d530c-da82-4d44-ad94-3970b31a88a7",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Sharaf DG Egypt",
+          "priceEGP": 13999,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/163d530c-da82-4d44-ad94-3970b31a88a7",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 14899,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/163d530c-da82-4d44-ad94-3970b31a88a7",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 14979,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/163d530c-da82-4d44-ad94-3970b31a88a7",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 15000,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/163d530c-da82-4d44-ad94-3970b31a88a7",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
+    },
+    {
+      "id": "infinix-smart-20-4-128",
+      "name": "Infinix Smart 20 4GB / 128GB",
+      "brand": "Infinix",
+      "category": "اقتصادي",
+      "memory": "4GB RAM / 128GB",
+      "priceEGP": 8949,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر معلن لنسخة 4GB RAM / 128GB / 4G؛ السعر ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون والضمان عند المتجر قبل الشراء.",
+      "source": "https://priceteq.com/eg/product/e63695ec-c6f8-4017-9a1f-e96d07a1fd26",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 8949,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e63695ec-c6f8-4017-9a1f-e96d07a1fd26",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 9299,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e63695ec-c6f8-4017-9a1f-e96d07a1fd26",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 9299,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e63695ec-c6f8-4017-9a1f-e96d07a1fd26",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 9499,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e63695ec-c6f8-4017-9a1f-e96d07a1fd26",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "id": "honor-600-lite-8-128",
+      "name": "Honor 600 Lite 5G 8GB / 128GB",
+      "brand": "HONOR",
+      "category": "متوسط",
+      "memory": "8GB RAM / 128GB",
+      "priceEGP": 16999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر معلن لنسخة 8GB RAM / 128GB / 5G؛ السعر ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون والضمان عند المتجر قبل الشراء.",
+      "source": "https://priceteq.com/eg/product/a453f20e-adc7-44a9-8e6a-24a462f27205",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 16999,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/a453f20e-adc7-44a9-8e6a-24a462f27205",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 18499,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/a453f20e-adc7-44a9-8e6a-24a462f27205",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 18599,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/a453f20e-adc7-44a9-8e6a-24a462f27205",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 18999,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/a453f20e-adc7-44a9-8e6a-24a462f27205",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "id": "samsung-galaxy-a37-12-256",
+      "name": "Samsung Galaxy A37 5G 12GB / 256GB",
+      "brand": "Samsung",
+      "category": "متوسط",
+      "memory": "12GB RAM / 256GB",
+      "priceEGP": 25000,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر معلن لنسخة 12GB RAM / 256GB / 5G؛ السعر ليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون والضمان عند المتجر قبل الشراء.",
+      "source": "https://priceteq.com/eg/product/ae537d04-8928-4ed6-9f6e-20f21cbf9646",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 25000,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/ae537d04-8928-4ed6-9f6e-20f21cbf9646",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 25399,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/ae537d04-8928-4ed6-9f6e-20f21cbf9646",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 32399,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/ae537d04-8928-4ed6-9f6e-20f21cbf9646",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 32560,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/ae537d04-8928-4ed6-9f6e-20f21cbf9646",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-06",
+          "observedAt": "2026-11-06"
         }
       ]
     }
