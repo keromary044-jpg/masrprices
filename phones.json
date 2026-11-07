@@ -8574,10 +8574,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 5999,
+      "priceSource": "Vodafone Egypt eShop",
+      "priceStatus": "آخر سعر ظاهر في صفحة Vodafone لنسخة 6GB/128GB؛ الصفحة توضح أن الجهاز غير متوفر حاليًا. سعر تاريخي وليس عرض شراء متاحًا.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 5999,
+          "variant": "6GB RAM / 128GB",
+          "source": "https://eshop.vodafone.com.eg/ar/prod/redmi-smart-phone-note-13-5g---ram-6-gb",
+          "sourceLabel": "Vodafone Egypt eShop – Redmi Note 13",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10",
+          "availability": "out_of_stock"
+        }
+      ],
+      "price": 5999,
+      "priceProvider": "Vodafone Egypt",
+      "merchant": "Vodafone Egypt",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10"
     },
     {
       "id": "redmi-redmi-note-13",
@@ -26807,6 +26823,6 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "تغطية الأسعار تشمل عروض متاجر وأسعارًا تقريبية وتاريخية واسترشادية، وكل سجل يوضح نوع مصدره وتاريخ الرصد متى توفر؛ لا تعتبر الأسعار التقديرية عروض شراء مباشرة.",
+  "priceUpdateNote": "تمت إضافة سعر تاريخي معلن من Vodafone لهاتف Redmi Note 13 5G مع توضيح أن الجهاز غير متوفر؛ لا يُعرض كسعر شراء متاح.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo"
 }
