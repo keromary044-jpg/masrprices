@@ -52,9 +52,12 @@ jobs:
       - name: Validate JavaScript syntax
         run: |
           node --check app.js
+          node --check admin.js
           node --check site-enhancements.js
           node --check sw.js
           node --input-type=module --check < worker.js
+          node --input-type=module --check < price-updater/index.js
+          node --input-type=module --check < "functions/products/[slug].js"
           for file in functions/api/*.js; do node --input-type=module --check < "$file"; done
       - name: Validate JSON, sitemap, SEO metadata and PWA manifest
         run: |
