@@ -33,6 +33,16 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 76899,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://2b.com.eg/en/pre-order-samsung-galaxy-s26-ultra-12gb-ram-256gb-white.html",
+          "sourceLabel": "2B Egypt – سعر متجر مباشر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05",
+          "availability": "in_stock"
         }
       ],
       "priceObservedAt": "2026-11-07",
@@ -511,6 +521,16 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Sharaf DG Egypt",
+          "priceEGP": 9499,
+          "variant": "4GB RAM / 64GB / 4G",
+          "source": "https://egypt.sharafdg.com/ar/product/realme-c100i-dual-sim-64gb-4gb-ram-4g-lte-dawn-purple/",
+          "sourceLabel": "Sharaf DG Egypt – سعر متجر مباشر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
         }
       ],
       "priceObservedAt": "2026-11-07",
