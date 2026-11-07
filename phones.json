@@ -773,11 +773,26 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy S24 Ultra",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 46099,
+      "priceSource": "SofiMob / Upgrade.me",
+      "priceStatus": "سعر نسخة مُجددة؛ ليس سعر جهاز جديد؛ 12GB RAM / 256GB / مُجدد؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "SofiMob / Upgrade.me",
+      "priceOffers": [
+        {
+          "merchant": "SofiMob / Upgrade.me",
+          "priceEGP": 46099,
+          "variant": "12GB RAM / 256GB / مُجدد",
+          "condition": "سعر نسخة مُجددة؛ ليس سعر جهاز جديد",
+          "source": "https://www.sofimob.com/ar/phone/18151/samsung-galaxy-s24-ultra",
+          "sourceLabel": "SofiMob / Upgrade.me",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://www.sofimob.com/ar/phone/18151/samsung-galaxy-s24-ultra",
+      "merchant": "SofiMob / Upgrade.me"
     },
     {
       "id": "samsung-galaxy-s24",
@@ -1500,11 +1515,26 @@
       "brand": "OPPO",
       "name": "OPPO Reno11 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 20400,
+      "priceSource": "TechEgypt",
+      "priceStatus": "سعر متجر معروض؛ 12GB RAM / 256GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "TechEgypt",
+      "priceOffers": [
+        {
+          "merchant": "TechEgypt",
+          "priceEGP": 20400,
+          "variant": "12GB RAM / 256GB",
+          "condition": "سعر متجر معروض",
+          "source": "https://techtegypt.com/collections/oppo-reno-series",
+          "sourceLabel": "TechEgypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://techtegypt.com/collections/oppo-reno-series",
+      "merchant": "TechEgypt"
     },
     {
       "id": "oppo-a5-pro-5g",
@@ -1559,11 +1589,26 @@
       "brand": "OPPO",
       "name": "OPPO A60",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 30000,
+      "priceSource": "Mobile Store",
+      "priceStatus": "سعر متجر معروض؛ الصفحة تعرضه متوفرًا؛ حسب صفحة المنتج؛ تفاصيل السعة تحتاج مراجعة المتجر؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 30000,
+          "variant": "حسب صفحة المنتج؛ تفاصيل السعة تحتاج مراجعة المتجر",
+          "condition": "سعر متجر معروض؛ الصفحة تعرضه متوفرًا",
+          "source": "https://mobile.store-eg.com/en/category/oppo-phones",
+          "sourceLabel": "Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/category/oppo-phones",
+      "merchant": "Mobile Store"
     },
     {
       "id": "oppo-a79-5g",
@@ -1659,33 +1704,78 @@
       "brand": "realme",
       "name": "realme GT 6",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29500,
+      "priceSource": "Mobile Store",
+      "priceStatus": "سعر متجر معروض؛ متوفر حسب الصفحة؛ 8GB RAM / 256GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 29500,
+          "variant": "8GB RAM / 256GB",
+          "condition": "سعر متجر معروض؛ متوفر حسب الصفحة",
+          "source": "https://store-eg.com/s/mobile/en/product/realme-gt-6",
+          "sourceLabel": "Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://store-eg.com/s/mobile/en/product/realme-gt-6",
+      "merchant": "Mobile Store"
     },
     {
       "id": "realme-gt-6t",
       "brand": "realme",
       "name": "realme GT 6T",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 23580,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي معلن من دليل أسعار مصر وليس عرض متجر؛ 12GB RAM / 512GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 23580,
+          "variant": "12GB RAM / 512GB",
+          "condition": "سعر تقريبي معلن من دليل أسعار مصر وليس عرض متجر",
+          "source": "https://aramobi.com/mobile-price/621475/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://aramobi.com/mobile-price/621475/",
+      "merchant": "Aramobi"
     },
     {
       "id": "realme-12-pro-5g",
       "brand": "realme",
       "name": "realme 12 Pro+ 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 23499,
+      "priceSource": "Ennap",
+      "priceStatus": "آخر سعر معروض؛ المنتج غير متوفر بالمخزون حسب الصفحة؛ 12GB RAM / 256GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "Ennap",
+      "priceOffers": [
+        {
+          "merchant": "Ennap",
+          "priceEGP": 23499,
+          "variant": "12GB RAM / 256GB",
+          "condition": "آخر سعر معروض؛ المنتج غير متوفر بالمخزون حسب الصفحة",
+          "source": "https://ennap.com/ar/collections/vendors?q=realme",
+          "sourceLabel": "Ennap",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://ennap.com/ar/collections/vendors?q=realme",
+      "merchant": "Ennap"
     },
     {
       "id": "realme-12-5g",
@@ -1703,11 +1793,26 @@
       "brand": "realme",
       "name": "realme 11 Pro+ 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 25299,
+      "priceSource": "Ennap",
+      "priceStatus": "آخر سعر معروض؛ المنتج غير متوفر بالمخزون حسب الصفحة؛ 12GB RAM / 256GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "Ennap",
+      "priceOffers": [
+        {
+          "merchant": "Ennap",
+          "priceEGP": 25299,
+          "variant": "12GB RAM / 256GB",
+          "condition": "آخر سعر معروض؛ المنتج غير متوفر بالمخزون حسب الصفحة",
+          "source": "https://ennap.com/ar/collections/vendors?q=realme",
+          "sourceLabel": "Ennap",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://ennap.com/ar/collections/vendors?q=realme",
+      "merchant": "Ennap"
     },
     {
       "id": "realme-11-5g",
@@ -1952,11 +2057,26 @@
       "brand": "vivo",
       "name": "vivo V30 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29750,
+      "priceSource": "Mobile Store",
+      "priceStatus": "سعر يبدأ من لدى متجر؛ السعر يختلف حسب النسخة؛ السعر يبدأ من؛ 256GB حسب خيارات المنتج؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 29750,
+          "variant": "السعر يبدأ من؛ 256GB حسب خيارات المنتج",
+          "condition": "سعر يبدأ من لدى متجر؛ السعر يختلف حسب النسخة",
+          "source": "https://store-eg.com/s/mobile/en/product/vivo-v30-pro-5g",
+          "sourceLabel": "Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://store-eg.com/s/mobile/en/product/vivo-v30-pro-5g",
+      "merchant": "Mobile Store"
     },
     {
       "id": "vivo-v30-5g",
@@ -2679,11 +2799,26 @@
       "brand": "Motorola",
       "name": "Motorola Edge 40 Neo",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 29500,
+      "priceSource": "Mobile Store",
+      "priceStatus": "سعر متجر معروض؛ متوفر حسب الصفحة؛ حسب صفحة المتجر؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "Mobile Store",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 29500,
+          "variant": "حسب صفحة المتجر",
+          "condition": "سعر متجر معروض؛ متوفر حسب الصفحة",
+          "source": "https://mobile.store-eg.com/en/brand/motorola",
+          "sourceLabel": "Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://mobile.store-eg.com/en/brand/motorola",
+      "merchant": "Mobile Store"
     },
     {
       "id": "motorola-edge-40-pro",
@@ -2701,22 +2836,52 @@
       "brand": "Motorola",
       "name": "Motorola Razr 50 Ultra",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 59303,
+      "priceSource": "ECT Gadget",
+      "priceStatus": "سعر قائمة سوقية معلن؛ تحقق من النسخة والتوفر؛ قائمة أسعار مصر؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "ECT Gadget",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget",
+          "priceEGP": 59303,
+          "variant": "قائمة أسعار مصر",
+          "condition": "سعر قائمة سوقية معلن؛ تحقق من النسخة والتوفر",
+          "source": "https://www.ectgadget.com/egypt/motorola/mobile-phones",
+          "sourceLabel": "ECT Gadget",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://www.ectgadget.com/egypt/motorola/mobile-phones",
+      "merchant": "ECT Gadget"
     },
     {
       "id": "motorola-razr-50",
       "brand": "Motorola",
       "name": "Motorola Razr 50",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 49411,
+      "priceSource": "ECT Gadget",
+      "priceStatus": "سعر قائمة سوقية معلن؛ تحقق من النسخة والتوفر؛ قائمة أسعار مصر؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "ECT Gadget",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget",
+          "priceEGP": 49411,
+          "variant": "قائمة أسعار مصر",
+          "condition": "سعر قائمة سوقية معلن؛ تحقق من النسخة والتوفر",
+          "source": "https://www.ectgadget.com/egypt/motorola/mobile-phones",
+          "sourceLabel": "ECT Gadget",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://www.ectgadget.com/egypt/motorola/mobile-phones",
+      "merchant": "ECT Gadget"
     },
     {
       "id": "motorola-moto-g85-5g",
@@ -2749,22 +2914,52 @@
       "brand": "Motorola",
       "name": "Motorola Moto G75 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 11299,
+      "priceSource": "Vodafone Egypt",
+      "priceStatus": "آخر سعر متجر مسجل؛ غير متوفر حاليًا؛ 8GB RAM / 256GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "Vodafone Egypt",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 11299,
+          "variant": "8GB RAM / 256GB",
+          "condition": "آخر سعر متجر مسجل؛ غير متوفر حاليًا",
+          "source": "https://eshop.vodafone.com.eg/en/prod/motorola-g75-256GB",
+          "sourceLabel": "Vodafone Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://eshop.vodafone.com.eg/en/prod/motorola-g75-256GB",
+      "merchant": "Vodafone Egypt"
     },
     {
       "id": "motorola-moto-g55-5g",
       "brand": "Motorola",
       "name": "Motorola Moto G55 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 13849,
+      "priceSource": "ECT Gadget",
+      "priceStatus": "سعر قائمة سوقية معلن؛ تحقق من النسخة لدى البائع؛ المواصفات تختلف حسب النسخة؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "sourceLabel": "ECT Gadget",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget",
+          "priceEGP": 13849,
+          "variant": "المواصفات تختلف حسب النسخة",
+          "condition": "سعر قائمة سوقية معلن؛ تحقق من النسخة لدى البائع",
+          "source": "https://www.ectgadget.com/egypt/motorola/mobile-phones",
+          "sourceLabel": "ECT Gadget",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://www.ectgadget.com/egypt/motorola/mobile-phones",
+      "merchant": "ECT Gadget"
     },
     {
       "id": "motorola-moto-g54-5g",
@@ -6300,12 +6495,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://mobilemasr.com/en/category/mobile-phone/brand/xiaomi/xiaomi-redmi-note-12-pro-plus-5g",
+      "sourceLabel": "MobileMasr",
+      "priceEGP": 17450,
+      "priceSource": "MobileMasr",
+      "priceStatus": "سعر مستعمل؛ لا يمثل سعر الجهاز الجديد؛ 12GB RAM / 256GB / مستعمل؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "priceOffers": [
+        {
+          "merchant": "MobileMasr",
+          "priceEGP": 17450,
+          "variant": "12GB RAM / 256GB / مستعمل",
+          "condition": "سعر مستعمل؛ لا يمثل سعر الجهاز الجديد",
+          "source": "https://mobilemasr.com/en/category/mobile-phone/brand/xiaomi/xiaomi-redmi-note-12-pro-plus-5g",
+          "sourceLabel": "MobileMasr",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobileMasr"
     },
     {
       "id": "redmi-redmi-note-12-pro-5g-2",
@@ -6423,12 +6632,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/277183/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 16999,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي معلن؛ ليس عرض متجر مباشر؛ 8GB RAM / 256GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 16999,
+          "variant": "8GB RAM / 256GB",
+          "condition": "سعر تقريبي معلن؛ ليس عرض متجر مباشر",
+          "source": "https://aramobi.com/mobile-price/277183/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "redmi-redmi-note-11-pro",
@@ -7465,12 +7688,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.oppo.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://techtegypt.com/collections/oppo-reno-series",
+      "sourceLabel": "TechEgypt",
+      "priceEGP": 23985,
+      "priceSource": "TechEgypt",
+      "priceStatus": "سعر متجر معروض؛ 8GB RAM / 256GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "priceOffers": [
+        {
+          "merchant": "TechEgypt",
+          "priceEGP": 23985,
+          "variant": "8GB RAM / 256GB",
+          "condition": "سعر متجر معروض",
+          "source": "https://techtegypt.com/collections/oppo-reno-series",
+          "sourceLabel": "TechEgypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "TechEgypt"
     },
     {
       "id": "oppo-reno8-t-5g",
@@ -7782,12 +8019,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.oppo.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://techtegypt.com/collections/oppo-other-products",
+      "sourceLabel": "TechEgypt",
+      "priceEGP": 8748.75,
+      "priceSource": "TechEgypt",
+      "priceStatus": "سعر متجر معروض؛ 4GB RAM / 64GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "priceOffers": [
+        {
+          "merchant": "TechEgypt",
+          "priceEGP": 8748.75,
+          "variant": "4GB RAM / 64GB",
+          "condition": "سعر متجر معروض",
+          "source": "https://techtegypt.com/collections/oppo-other-products",
+          "sourceLabel": "TechEgypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "TechEgypt"
     },
     {
       "id": "honor-magic4-pro",
@@ -11647,12 +11898,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.itel-life.com/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://eliraqi.com.eg/en/itel-a60s-storge-128g-ram-4-g",
+      "sourceLabel": "El-Iraqi",
+      "priceEGP": 4490,
+      "priceSource": "El-Iraqi",
+      "priceStatus": "سعر متجر مسجل؛ المنتج غير متوفر بالمخزن وقت الرصد؛ 4GB RAM / 128GB؛ تاريخ تسجيل السعر 2026-11-07. السعر والتوفر قابلان للتغير ويجب تأكيدهما من المصدر.",
+      "priceOffers": [
+        {
+          "merchant": "El-Iraqi",
+          "priceEGP": 4490,
+          "variant": "4GB RAM / 128GB",
+          "condition": "سعر متجر مسجل؛ المنتج غير متوفر بالمخزن وقت الرصد",
+          "source": "https://eliraqi.com.eg/en/itel-a60s-storge-128g-ram-4-g",
+          "sourceLabel": "El-Iraqi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "El-Iraqi"
     },
     {
       "id": "allcall-magic-60c",
