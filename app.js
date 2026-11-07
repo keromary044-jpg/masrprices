@@ -377,10 +377,13 @@
       article.dataset.search = normalize([phone.brand,phone.name,phone.category,phone.processor,phone.memory].join(" "));
       article.append(element("h3", "phone-name", phone.name));
       if(Number(phone.priceEGP)>0){
-        const priceLine=element("p","phone-price","السعر في مصر: "+phone.priceEGP.toLocaleString("en-US")+" جنيه");
+        const status=String(phone.priceStatus||"");
+        const isReference=/(تاريخي|تاريخيًا|تقديري|تقريبي|إعلان فردي|ليس سعر بيع حالي|ليس عرض متجر|غير متاح في مصر|ملغى|مرجع سعري)/.test(status);
+        const priceLine=element("p","phone-price",(isReference?"مرجع سعري: ":"السعر في مصر: ")+phone.priceEGP.toLocaleString("en-US")+" جنيه");
         priceLine.dataset.price=String(phone.priceEGP);
         article.append(priceLine);
         article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")+" · "+(phone.priceCheckedAt || "تاريخ الرصد غير محدد")));
+        if(status) article.append(element("small","phone-price-status",status));
       } else {
         article.append(element("p","phone-price phone-price-unavailable","السعر غير متاح حاليًا"));
         article.append(element("small","phone-price-source","لم نعثر على عرض موثّق لهذا الموديل. لن نعرض سعرًا تقديريًا على أنه سعر حقيقي."));
