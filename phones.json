@@ -757,26 +757,16 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy S25+",
       "category": "هاتف ذكي",
-      "priceEGP": 41344,
-      "priceSource": "Elshennawi – قائمة أسعار متجر الشناوي",
-      "priceStatus": "آخر سعر منشور عُثر عليه 41,344 جنيه لنسخة 12GB RAM / 256GB لدى متجر الشناوي؛ تاريخ آخر ظهور للمصدر 2026-11-02. السعر يحتاج تأكيدًا من المتجر قبل الشراء.",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [
-        {
-          "merchant": "Elshennawi",
-          "priceEGP": 41344,
-          "variant": "12GB RAM / 256GB",
-          "source": "https://www.elshennawi.com/shop?brand=samsung",
-          "sourceLabel": "Elshennawi – قائمة أسعار متجر الشناوي",
-          "checkedAt": "2026-11-02",
-          "observedAt": "2026-11-02"
-        }
-      ],
+      "priceEGP": 51999,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "سعر منشور لدى دليل موب: 51,999 جنيه. مصدر سوق مرجعي محدث كل أسبوعين؛ لم تُحدد سعة الذاكرة في صفحة المؤشر. ليس عرض متجر محددًا؛ تأكد من السعر عند الشراء.",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceOffers": [],
       "price": 41344,
-      "priceCheckedAt": "2026-11-02",
+      "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-02",
       "merchant": "Elshennawi",
-      "source": "https://www.elshennawi.com/shop?brand=samsung"
+      "source": "https://daleelmob.com/phones/egypt-prices"
     },
     {
       "id": "samsung-galaxy-s24-ultra",
@@ -849,22 +839,26 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy Z Fold6",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 47000,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "سعر منشور لدى دليل موب: 47,000 جنيه. مصدر سوق مرجعي محدث كل أسبوعين؛ تحقق من سعة الذاكرة والتوفر. ليس عرض متجر محددًا؛ تأكد من السعر عند الشراء.",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "source": "https://daleelmob.com/phones/egypt-prices"
     },
     {
       "id": "samsung-galaxy-z-flip6",
       "brand": "Samsung",
       "name": "Samsung Galaxy Z Flip6",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 47000,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "السعر المنشور لدى دليل موب يبدأ من 47,000 ويصل إلى 51,800 جنيه. تم تسجيل الحد الأدنى كسعر مرجعي؛ قد يختلف حسب النسخة. ليس عرض متجر محددًا؛ تأكد من السعر عند الشراء.",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "source": "https://daleelmob.com/phones/egypt-prices"
     },
     {
       "id": "samsung-galaxy-a55-5g",
@@ -1008,11 +1002,13 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Xiaomi 15",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 48000,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "سعر منشور لدى دليل موب: 48,000 جنيه. مصدر سوق مرجعي محدث كل أسبوعين؛ تحقق من النسخة والتوفر. ليس عرض متجر محددًا؛ تأكد من السعر عند الشراء.",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "source": "https://daleelmob.com/phones/egypt-prices"
     },
     {
       "id": "xiaomi-xiaomi-14-ultra",
@@ -1275,11 +1271,13 @@
       "brand": "OPPO",
       "name": "OPPO Find X8 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 43999,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "السعر المنشور لدى دليل موب يبدأ من 43,999 ويصل إلى 50,000 جنيه. تم تسجيل الحد الأدنى كسعر مرجعي؛ قد يختلف حسب النسخة. ليس عرض متجر محددًا؛ تأكد من السعر عند الشراء.",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "source": "https://daleelmob.com/phones/egypt-prices"
     },
     {
       "id": "oppo-find-x8",
@@ -1668,11 +1666,13 @@
       "brand": "vivo",
       "name": "vivo X200 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 39000,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "السعر المنشور لدى دليل موب يبدأ من 39,000 ويصل إلى 40,000 جنيه. تم تسجيل الحد الأدنى كسعر مرجعي؛ قد يختلف حسب النسخة. ليس عرض متجر محددًا؛ تأكد من السعر عند الشراء.",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "source": "https://daleelmob.com/phones/egypt-prices"
     },
     {
       "id": "vivo-x200",
@@ -1878,11 +1878,13 @@
       "brand": "HONOR",
       "name": "Honor Magic7 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 46999,
+      "priceSource": "DaleelMob – أسعار سوق مرجعية",
+      "priceStatus": "السعر المنشور لدى دليل موب يبدأ من 46,999 ويصل إلى 56,666 جنيه. تم تسجيل الحد الأدنى كسعر مرجعي؛ قد يختلف حسب النسخة. ليس عرض متجر محددًا؛ تأكد من السعر عند الشراء.",
+      "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "source": "https://daleelmob.com/phones/egypt-prices"
     },
     {
       "id": "honor-magic6-pro",
@@ -22441,5 +22443,5 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "تم تحديث أسعار النسخ المطابقة فقط من صفحات مقارنة ومتاجر مصرية؛ لا يُستنتج سعر نسخة من نسخة أخرى."
+  "priceUpdateNote": "تمت إضافة أسعار سوق مرجعية منفصلة عن عروض المتاجر؛ لا تُعرض كسعر متجر مؤكد."
 }
