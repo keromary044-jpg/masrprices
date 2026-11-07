@@ -75,7 +75,7 @@ jobs:
           seo_products = json.loads((root / "seo-products.json").read_text(encoding="utf-8"))
           product_slugs = [item.get("slug") for item in seo_products]
           assert all(product_slugs) and len(product_slugs) == len(set(product_slugs)), "SEO product slugs are missing or duplicated"
-          sitemap_slugs = [url[len(base + "products/"):].strip("/") for url in urls if url.startswith(base + "products/")]
+          sitemap_slugs = [url[len(base + "products/"):].strip("/") for url in urls if url.startswith(base + "products/") and url != base + "products/"]
           product_index = (root / "products/index.html").read_text(encoding="utf-8")
           index_slugs = re.findall(r'href="/products/([^"/]+)/"', product_index)
           assert set(product_slugs) == set(sitemap_slugs) == set(index_slugs), "Product index, SEO data and sitemap do not contain the same product slugs"
