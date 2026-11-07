@@ -14733,10 +14733,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 30000,
+      "priceSource": "Mobile Store",
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: Mobile Store. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-01",
+      "merchant": ""
     },
     {
       "id": "oneplus-oneplus-10-pro-2",
@@ -14867,10 +14870,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 17806,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 17806,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/oneplus",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)"
     },
     {
       "id": "oneplus-oneplus-nord-3-2",
@@ -14889,10 +14906,24 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.oneplus.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 20560,
+      "priceSource": "Aramobi",
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: Aramobi. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 20560,
+          "variant": "16GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/507267/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "oneplus-oneplus-nord-ce4-2",
@@ -16817,9 +16848,14 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 9999,
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: Mobizil. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Mobizil",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-04",
+      "merchant": "",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi10a",
@@ -17010,9 +17046,14 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 8750,
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: Aramobi. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10",
+      "merchant": "",
+      "priceOffers": []
     },
     {
       "id": "redmi-redminote10t",
@@ -17089,9 +17130,25 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 11870,
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: Aramobi. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 11870,
+          "variant": "8GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/129596/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "redmi-redminote10",
@@ -17110,9 +17167,25 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 11640,
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: Aramobi. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 11640,
+          "variant": "6GB RAM / 128GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/129453/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "redmi-redmik40",
@@ -17152,9 +17225,14 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 12280,
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: Aramobi. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-06",
+      "merchant": "",
+      "priceOffers": []
     },
     {
       "id": "redmi-redmi9c",
@@ -18434,9 +18512,25 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/redmi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 10200,
+      "priceStatus": "السعر من سجل آخر لنفس الموديل في قاعدة البيانات؛ المصدر الأصلي: Flipify market tracker. تحقق من تطابق نسخة الذاكرة قبل الشراء.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Flipify market tracker",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Flipify market tracker",
+      "priceOffers": [
+        {
+          "merchant": "Flipify market tracker",
+          "priceEGP": 10200,
+          "variant": "السعة غير محددة",
+          "condition": "مستعمل - متوسط سوقي",
+          "source": "https://www.flipifyapp.com/price-tracker/category/phones",
+          "sourceLabel": "Flipify market tracker",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "redmi-redminote2",
