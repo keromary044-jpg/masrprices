@@ -732,22 +732,52 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy A15 4G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 8029,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 8029,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/f99d46fb-5658-4020-ac09-790a540cb01a",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "memory": "4GB RAM / 128GB / 4G",
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/f99d46fb-5658-4020-ac09-790a540cb01a"
     },
     {
       "id": "samsung-galaxy-m55-5g",
       "brand": "Samsung",
       "name": "Samsung Galaxy M55 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 19990,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Elshennawy Stores Egypt",
+          "priceEGP": 19990,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "memory": "8GB RAM / 256GB / 5G",
+      "merchant": "Elshennawy Stores Egypt",
+      "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162"
     },
     {
       "id": "xiaomi-xiaomi-15-ultra",
@@ -1478,11 +1508,26 @@
       "brand": "vivo",
       "name": "vivo Y27",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 9569,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 9569,
+          "variant": "6GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/981344dd-90a6-42f2-8cf3-b417d1a5b8f5",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "memory": "6GB RAM / 128GB",
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/981344dd-90a6-42f2-8cf3-b417d1a5b8f5"
     },
     {
       "id": "vivo-y17s",
@@ -1577,11 +1622,26 @@
       "brand": "HONOR",
       "name": "Honor X9b 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 17049,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 17049,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/8b34dc78-af10-441d-8a98-4711fea7b228",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "memory": "12GB RAM / 256GB / 5G",
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/8b34dc78-af10-441d-8a98-4711fea7b228"
     },
     {
       "id": "honor-x8b",
@@ -1819,11 +1879,26 @@
       "brand": "TECNO",
       "name": "TECNO Spark 20 Pro+",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 13699,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G (8GB+8GB extended)، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 13699,
+          "variant": "8GB RAM / 256GB / 4G (8GB+8GB extended)",
+          "source": "https://priceteq.com/eg/product/15c4df1b-89a2-46e8-b5a3-1848c12cda96",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "memory": "8GB RAM / 256GB / 4G (8GB+8GB extended)",
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/15c4df1b-89a2-46e8-b5a3-1848c12cda96"
     },
     {
       "id": "infinix-zero-40-5g",
@@ -3065,19 +3140,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB / 5G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/f157f6f0-0d66-4a14-89f0-9795517f0fca",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 25409,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 25409,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/f157f6f0-0d66-4a14-89f0-9795517f0fca",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a72",
@@ -3197,19 +3285,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB / 5G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/0cb0afdf-c1ec-47b7-85e8-2a5426b40f72",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 20569,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 20569,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/0cb0afdf-c1ec-47b7-85e8-2a5426b40f72",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a52s",
@@ -3285,19 +3386,50 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 256GB / 5G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/e804eb2b-cc72-444b-bd39-df38d04d7247",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 22300,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 22300,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e804eb2b-cc72-444b-bd39-df38d04d7247",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 22719,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e804eb2b-cc72-444b-bd39-df38d04d7247",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 23719,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/e804eb2b-cc72-444b-bd39-df38d04d7247",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "El Avocato Mobile Egypt"
     },
     {
       "id": "samsung-galaxy-a35",
@@ -3395,19 +3527,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB / 4G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/fced5faa-c3a2-463f-8fe6-9fd7e4197be8",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 13859,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 13859,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/fced5faa-c3a2-463f-8fe6-9fd7e4197be8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a23",
@@ -3439,19 +3584,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 256GB / 4G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/e6891f3f-f9c3-40bf-be76-97dbaa8d58a2",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 11329,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 11329,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/e6891f3f-f9c3-40bf-be76-97dbaa8d58a2",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a14",
@@ -7442,19 +7600,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.vivo.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/faf63438-dbb1-4bb6-a520-28c038add7e8",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 9679,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 9679,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/faf63438-dbb1-4bb6-a520-28c038add7e8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "vivo-y16",
@@ -7948,19 +8119,59 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "12GB RAM / 256GB / 5G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.tecno-mobile.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/b553a445-a643-4a64-a4a4-f3560ffff9b6",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 17679,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 17679,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/b553a445-a643-4a64-a4a4-f3560ffff9b6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 20222,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/b553a445-a643-4a64-a4a4-f3560ffff9b6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 21199,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/b553a445-a643-4a64-a4a4-f3560ffff9b6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 20999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/b553a445-a643-4a64-a4a4-f3560ffff9b6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "B.TECH Egypt"
     },
     {
       "id": "tecno-camon-40-pro",
@@ -15775,44 +15986,27 @@
       "name": "Samsung Galaxy A07 4G 8GB / 256GB",
       "category": "اقتصادي",
       "release": "2026",
-      "memory": "8GB RAM / 256GB",
+      "memory": "8GB RAM / 256GB / 4G",
       "connectivity": "4G",
-      "source": "https://www.samsung.com/eg/smartphones/galaxy-a/",
-      "sourceLabel": "Samsung Egypt – سلسلة Galaxy A",
-      "priceEGP": 13999,
+      "source": "https://priceteq.com/eg/phones?brand=Samsung&page=2",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 13499,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-06",
-      "priceStatus": "سعر متجر مرصود لنسخة محددة، شامل ضريبة القيمة المضافة حسب المصدر. الأسعار قابلة للتغيير ويجب التأكد من السعر والمخزون والضمان لدى المتجر. النسخة: 8GB RAM / 256GB / 4G.",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
       "priceOffers": [
         {
-          "merchant": "Raya Shop Egypt",
-          "priceEGP": 13999,
+          "merchant": "iMedia Stores Egypt",
+          "priceEGP": 13499,
           "variant": "8GB RAM / 256GB / 4G",
-          "source": "https://priceteq.com/eg/product/83a46dba-8e38-456b-852b-67726585de82",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
-        },
-        {
-          "merchant": "2B Egypt",
-          "priceEGP": 14299,
-          "variant": "8GB RAM / 256GB / 4G",
-          "source": "https://priceteq.com/eg/product/83a46dba-8e38-456b-852b-67726585de82",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
-        },
-        {
-          "merchant": "Raneen Egypt",
-          "priceEGP": 15750,
-          "variant": "8GB RAM / 256GB / 4G",
-          "source": "https://priceteq.com/eg/product/83a46dba-8e38-456b-852b-67726585de82",
+          "source": "https://priceteq.com/eg/phones?brand=Samsung&page=2",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "merchant": "iMedia Stores Egypt"
     },
     {
       "id": "samsung-galaxy-a07-4-64",
@@ -15820,44 +16014,27 @@
       "name": "Samsung Galaxy A07 4G 4GB / 64GB",
       "category": "اقتصادي",
       "release": "2026",
-      "memory": "4GB RAM / 64GB",
+      "memory": "4GB RAM / 64GB / 4G",
       "connectivity": "4G",
-      "source": "https://www.samsung.com/eg/smartphones/galaxy-a/",
-      "sourceLabel": "Samsung Egypt – سلسلة Galaxy A",
-      "priceEGP": 8799,
+      "source": "https://priceteq.com/eg/phones?brand=Samsung&page=2",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 9700,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-06",
-      "priceStatus": "سعر متجر مرصود لنسخة محددة، شامل ضريبة القيمة المضافة حسب المصدر. الأسعار قابلة للتغيير ويجب التأكد من السعر والمخزون والضمان لدى المتجر. النسخة: 4GB RAM / 64GB / 4G.",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
       "priceOffers": [
         {
-          "merchant": "Raya Shop Egypt",
-          "priceEGP": 8799,
-          "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/c744f833-1ace-489c-859b-1a66c2f03438",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
-        },
-        {
           "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 9800,
+          "priceEGP": 9700,
           "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/c744f833-1ace-489c-859b-1a66c2f03438",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
-        },
-        {
-          "merchant": "Raneen Egypt",
-          "priceEGP": 9999,
-          "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/c744f833-1ace-489c-859b-1a66c2f03438",
+          "source": "https://priceteq.com/eg/phones?brand=Samsung&page=2",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-06"
         }
-      ]
+      ],
+      "merchant": "El Avocato Mobile Egypt"
     },
     {
       "id": "samsung-galaxy-a56-8-256",
@@ -17337,6 +17514,228 @@
       ],
       "merchant": "B.TECH Egypt",
       "source": "https://priceteq.com/eg/product/225a87ff-5c6f-460c-991f-359e7586e134",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "samsung-galaxy-a26-8-256",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A26 5G 8GB / 256GB",
+      "category": "متوسط",
+      "release": "2025",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 18999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 18999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/7a6fb719-3445-4a81-bc12-075462eac6a5",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 21830,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/7a6fb719-3445-4a81-bc12-075462eac6a5",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/7a6fb719-3445-4a81-bc12-075462eac6a5",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "samsung-galaxy-a26-6-128",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A26 5G 6GB / 128GB",
+      "category": "متوسط",
+      "release": "2025",
+      "memory": "6GB RAM / 128GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 16790,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 16790,
+          "variant": "6GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/03986a87-16ee-4bfa-847b-44199b0d4c89",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 17299,
+          "variant": "6GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/03986a87-16ee-4bfa-847b-44199b0d4c89",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/03986a87-16ee-4bfa-847b-44199b0d4c89",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x7d-8-256",
+      "brand": "HONOR",
+      "name": "HONOR X7d 4G 8GB / 256GB",
+      "category": "اقتصادي ومتوسط",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 14290,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 14290,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/264f9a56-d8db-4630-9838-0e9e32bfb125",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 14619,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/264f9a56-d8db-4630-9838-0e9e32bfb125",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 14800,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/264f9a56-d8db-4630-9838-0e9e32bfb125",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Etisal Stores Egypt",
+      "source": "https://priceteq.com/eg/product/264f9a56-d8db-4630-9838-0e9e32bfb125",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "tecno-spark-40-pro-8-128",
+      "brand": "TECNO",
+      "name": "TECNO Spark 40 Pro 4G 8GB / 128GB",
+      "category": "اقتصادي ومتوسط",
+      "release": "2026",
+      "memory": "8GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 11469,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 11469,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/1871ffc7-3e8e-456a-8d0f-3780046842c3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 11499,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/1871ffc7-3e8e-456a-8d0f-3780046842c3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 12499,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/1871ffc7-3e8e-456a-8d0f-3780046842c3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/1871ffc7-3e8e-456a-8d0f-3780046842c3",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-y22-4-128",
+      "brand": "vivo",
+      "name": "vivo Y22 4GB / 128GB",
+      "category": "اقتصادي",
+      "release": "2022",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 7259,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 7259,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/4d0b058e-2a78-41ee-8f9f-96cb86420c11",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/4d0b058e-2a78-41ee-8f9f-96cb86420c11",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-y33a-4-128",
+      "brand": "vivo",
+      "name": "vivo Y33A 4GB / 128GB",
+      "category": "اقتصادي",
+      "release": "2021",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 7039,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 7039,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/16919b10-fab6-43c9-b02c-5542ad65e472",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/16919b10-fab6-43c9-b02c-5542ad65e472",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
