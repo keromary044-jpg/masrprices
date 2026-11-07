@@ -3175,19 +3175,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/b9efe56f-619c-43e7-8ca2-80a3b1569ea1",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 18589,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 18589,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/b9efe56f-619c-43e7-8ca2-80a3b1569ea1",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a71",
@@ -3320,19 +3333,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/741173b2-f1c0-4499-b782-af18901f4641",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 18149,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 18149,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/741173b2-f1c0-4499-b782-af18901f4641",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a52",
@@ -3505,19 +3531,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 256GB / 5G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/d4b90d3c-e349-45f3-b2c0-26871dea2921",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 15729,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 15729,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/d4b90d3c-e349-45f3-b2c0-26871dea2921",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a24",
@@ -3562,19 +3601,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "4GB RAM / 128GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/3c04731a-70c5-4ec7-991e-4a3b378a0a86",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 7699,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 7699,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/3c04731a-70c5-4ec7-991e-4a3b378a0a86",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a15",
@@ -3619,19 +3671,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "4GB RAM / 64GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/4b084173-6c81-461f-b89a-d1e75af1754c",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 7259,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 7259,
+          "variant": "4GB RAM / 64GB",
+          "source": "https://priceteq.com/eg/product/4b084173-6c81-461f-b89a-d1e75af1754c",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a13",
@@ -3641,19 +3706,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "4GB RAM / 64GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/79aa831e-d52a-4a6b-b522-4ae761f302fa",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 6379,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 6379,
+          "variant": "4GB RAM / 64GB",
+          "source": "https://priceteq.com/eg/product/79aa831e-d52a-4a6b-b522-4ae761f302fa",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-a12",
@@ -3817,19 +3895,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/217d7b19-e60f-4edb-9b8c-36bb60596771",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 9679,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 9679,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/217d7b19-e60f-4edb-9b8c-36bb60596771",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "samsung-galaxy-m32",
@@ -17736,6 +17827,118 @@
       ],
       "merchant": "Cairo Drop Egypt",
       "source": "https://priceteq.com/eg/product/16919b10-fab6-43c9-b02c-5542ad65e472",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "samsung-galaxy-a06-4-64",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A06 4GB / 64GB",
+      "category": "هواتف ذكية",
+      "release": "2023-2026",
+      "memory": "4GB RAM / 64GB",
+      "connectivity": "4G",
+      "priceEGP": 6379,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 6379,
+          "variant": "4GB RAM / 64GB",
+          "source": "https://priceteq.com/eg/product/a905167f-71b3-48b2-992f-ee6368b701c1",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/a905167f-71b3-48b2-992f-ee6368b701c1",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "samsung-galaxy-a04s-4-128",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A04s 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2023-2026",
+      "memory": "4GB RAM / 128GB",
+      "connectivity": "4G",
+      "priceEGP": 7259,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 7259,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/ecd691f4-8714-4463-a0ea-dd553eff6f21",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/ecd691f4-8714-4463-a0ea-dd553eff6f21",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "samsung-galaxy-a05s-4-128",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A05s 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2023-2026",
+      "memory": "4GB RAM / 128GB",
+      "connectivity": "4G",
+      "priceEGP": 9569,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 9569,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/43466a04-499a-4051-b2e5-ef426769d587",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/43466a04-499a-4051-b2e5-ef426769d587",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "samsung-galaxy-a37-8-128",
+      "brand": "Samsung",
+      "name": "Samsung Galaxy A37 5G 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2023-2026",
+      "memory": "8GB RAM / 128GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 25382,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ يجب التأكد من استمرار العرض والتوفر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 25382,
+          "variant": "8GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/692f059b-16c9-4fc1-b7e1-7116a5a59c08",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/692f059b-16c9-4fc1-b7e1-7116a5a59c08",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
