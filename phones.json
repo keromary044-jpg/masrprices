@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:17:52+02:00",
+  "updatedAt": "2026-11-07T20:25:57+02:00",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -1357,7 +1357,7 @@
       "category": "هاتف ذكي",
       "priceEGP": 19990,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G هو 19,990 جنيه لدى Elshennawy Stores Egypt؛ صفحة PriceTeq مؤرخة 7 نوفمبر 2026 وتعرض المنتج متاحًا. لم أتعامل معه كسعر رسمي من سامسونج.",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceOffers": [
         {
@@ -1367,14 +1367,18 @@
           "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-07",
+          "availability": "in_stock"
         }
       ],
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-07",
       "memory": "8GB RAM / 256GB / 5G",
       "merchant": "Elshennawy Stores Egypt",
-      "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162"
+      "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "in_stock"
     },
     {
       "id": "xiaomi-xiaomi-15-ultra",
@@ -2162,7 +2166,7 @@
       "category": "هاتف ذكي",
       "priceEGP": 24199,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceStatus": "آخر سعر مرصود 24,199 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceOffers": [
         {
@@ -2172,14 +2176,18 @@
           "source": "https://priceteq.com/eg/product/4bdb9cde-8c02-4ab9-8da0-141e320585d2",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
       ],
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
       "memory": "4GB RAM / 128GB",
       "merchant": "Cairo Drop Egypt",
-      "source": "https://priceteq.com/eg/product/4bdb9cde-8c02-4ab9-8da0-141e320585d2"
+      "source": "https://priceteq.com/eg/product/4bdb9cde-8c02-4ab9-8da0-141e320585d2",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "realme-gt-7-pro",
@@ -5286,7 +5294,7 @@
       "category": "هاتف ذكي",
       "priceEGP": 20000,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceStatus": "آخر سعر مرصود 20,000 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 5 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceOffers": [
         {
@@ -5296,14 +5304,18 @@
           "source": "https://priceteq.com/eg/product/b634d248-b5a1-45c3-8780-c4b78f421be8",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-05",
+          "availability": "unknown"
         }
       ],
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
       "memory": "8GB RAM / 128GB",
       "merchant": "Etisalat Egypt",
-      "source": "https://priceteq.com/eg/product/b634d248-b5a1-45c3-8780-c4b78f421be8"
+      "source": "https://priceteq.com/eg/product/b634d248-b5a1-45c3-8780-c4b78f421be8",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "nothing-phone-2",
@@ -6791,25 +6803,29 @@
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceEGP": 19990,
-      "priceSource": "PriceTeq — أقل سعر مرصود في مصر",
-      "priceStatus": "سعر جديد 19,990 جنيه لدى Elshennawy Stores Egypt؛ متجر واحد مدرج ومتاح بتاريخ 7 نوفمبر 2026.",
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G هو 19,990 جنيه لدى Elshennawy Stores Egypt؛ صفحة PriceTeq مؤرخة 7 نوفمبر 2026 وتعرض المنتج متاحًا. لم أتعامل معه كسعر رسمي من سامسونج.",
       "priceOffers": [
         {
           "merchant": "Elshennawy Stores Egypt",
           "priceEGP": 19990,
           "variant": "8GB RAM / 256GB / 5G",
           "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162",
-          "sourceLabel": "PriceTeq — أسعار متاجر مصر",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-07",
+          "availability": "in_stock"
         }
       ],
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-07",
       "priceProvider": "PriceTeq",
-      "merchant": "Elshennawy Stores Egypt"
+      "merchant": "Elshennawy Stores Egypt",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "in_stock"
     },
     {
       "id": "samsung-galaxy-m54",
@@ -24415,78 +24431,18 @@
       "memory": "8GB RAM / 128GB",
       "connectivity": "5G",
       "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 57500,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "sourceLabel": "PriceTeq – أسعار متعارضة، لم يعتمد السعر",
+      "priceEGP": null,
+      "priceSource": "غير مؤكد – تعارض بين صفحات المصدر",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-07",
-      "priceStatus": "أقل سعر متجر مرصود لنسخة 8GB RAM / 128GB / 5G هو 57,500 جنيه لدى El Avocato Mobile Egypt؛ 6 متاجر تعرض النسخة الجديدة والمتاحة حسب صفحة المصدر بتاريخ 7 نوفمبر 2026.",
-      "priceOffers": [
-        {
-          "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 57500,
-          "variant": "8GB RAM / 128GB / 5G",
-          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07",
-          "availability": "in_stock"
-        },
-        {
-          "merchant": "Techmart Egypt",
-          "priceEGP": 63900,
-          "variant": "8GB RAM / 128GB / 5G",
-          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07",
-          "availability": "in_stock"
-        },
-        {
-          "merchant": "B.TECH Egypt",
-          "priceEGP": 63999,
-          "variant": "8GB RAM / 128GB / 5G",
-          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07",
-          "availability": "in_stock"
-        },
-        {
-          "merchant": "Raneen Egypt",
-          "priceEGP": 64680,
-          "variant": "8GB RAM / 128GB / 5G",
-          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06",
-          "availability": "in_stock"
-        },
-        {
-          "merchant": "Elghazawy Egypt",
-          "priceEGP": 69900,
-          "variant": "8GB RAM / 128GB / 5G",
-          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07",
-          "availability": "in_stock"
-        },
-        {
-          "merchant": "Raya Shop Egypt",
-          "priceEGP": 70999,
-          "variant": "8GB RAM / 128GB / 5G",
-          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07",
-          "availability": "in_stock"
-        }
-      ],
-      "priceVerifiedAt": "2026-11-07T20:12:58+02:00",
-      "priceLastVerifiedAt": "2026-11-07T20:12:58+02:00",
-      "priceAvailability": "in_stock",
-      "merchant": "El Avocato Mobile Egypt"
+      "priceStatus": "غير مؤكد: توجد صفحة قديمة لنسخة 8GB/128GB بسعر 57,500 جنيه، بينما قائمة PriceTeq الأحدث تعرض 39,800 جنيه لاسم iPhone 16 128GB لكن صفحة العرض المباشرة تعذر فتحها، وظهرت صفحات أخرى بأسعار مختلفة. لم أعتمد أي سعر لحين التحقق من صفحة متجر مباشرة.",
+      "priceOffers": [],
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown",
+      "merchant": "El Avocato Mobile Egypt",
+      "alternateSource": "https://priceteq.com/eg/phones?page=10"
     },
     {
       "id": "apple-iphone-16e-128",
@@ -24700,7 +24656,7 @@
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-04",
-      "priceStatus": "سعر مرصود لدى متجر واحد لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر؛ يلزم التأكد من السعر والمخزون.",
+      "priceStatus": "آخر سعر مرصود 24,199 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
@@ -24709,9 +24665,13 @@
           "source": "https://priceteq.com/eg/product/4bdb9cde-8c02-4ab9-8da0-141e320585d2",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-04"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
-      ]
+      ],
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "honor-x5c-plus-4-128",
@@ -24889,8 +24849,8 @@
       "priceEGP": 7699,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "آخر سعر مرصود 7,699 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
@@ -24899,10 +24859,14 @@
           "source": "https://priceteq.com/eg/product/81e773c5-ae50-4106-a49a-5810d431c9e6",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
       ],
-      "merchant": "Cairo Drop Egypt"
+      "merchant": "Cairo Drop Egypt",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "honor-x9b-12-256",
@@ -26413,8 +26377,8 @@
       "priceEGP": 37990,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-06",
-      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "آخر سعر مرصود 37,990 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "priceOffers": [
         {
           "merchant": "Smart Koshk Egypt",
@@ -26423,12 +26387,16 @@
           "source": "https://priceteq.com/eg/product/5903ee60-7128-4145-8cbb-bdaf71a54136",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
       ],
       "merchant": "Smart Koshk Egypt",
       "source": "https://priceteq.com/eg/product/5903ee60-7128-4145-8cbb-bdaf71a54136",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "oppo-reno16-pro-12-512",
@@ -26442,7 +26410,7 @@
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G هو 57,999 جنيه لدى 2B Egypt؛ صفحة PriceTeq مؤرخة 7 نوفمبر 2026 وتعرض العرض متاحًا.",
       "priceOffers": [
         {
           "merchant": "2B Egypt",
@@ -26451,12 +26419,16 @@
           "source": "https://priceteq.com/eg/product/b008157f-0a5b-4378-87c5-5d5607884541",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-07",
+          "availability": "in_stock"
         }
       ],
       "merchant": "2B Egypt",
       "source": "https://priceteq.com/eg/product/b008157f-0a5b-4378-87c5-5d5607884541",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "in_stock"
     },
     {
       "id": "oppo-find-x10-pro-max-12-512",
@@ -26941,8 +26913,8 @@
       "priceEGP": 16500,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "آخر سعر مرصود 16,500 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "priceOffers": [
         {
           "merchant": "Raneen Egypt",
@@ -26951,12 +26923,16 @@
           "source": "https://priceteq.com/eg/product/ffba4561-e47e-4a49-ac7e-72bf64b3e0ba",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
       ],
       "merchant": "Raneen Egypt",
       "source": "https://priceteq.com/eg/product/ffba4561-e47e-4a49-ac7e-72bf64b3e0ba",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "realme-c71-4-128",
@@ -28284,8 +28260,8 @@
       "priceEGP": 16059,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "آخر سعر مرصود 16,059 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
@@ -28294,12 +28270,16 @@
           "source": "https://priceteq.com/eg/product/96175878-305c-4e67-bc25-3b9ec5d035c6",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
       ],
       "merchant": "Cairo Drop Egypt",
       "source": "https://priceteq.com/eg/product/96175878-305c-4e67-bc25-3b9ec5d035c6",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "vivo-x300-ultra-16-512",
@@ -29326,8 +29306,8 @@
       "priceEGP": 13309,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "آخر سعر مرصود 13,309 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
@@ -29336,12 +29316,16 @@
           "source": "https://priceteq.com/eg/product/28900899-1136-4c71-b761-ff79aa73dbdf",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
       ],
       "merchant": "Cairo Drop Egypt",
       "source": "https://priceteq.com/eg/product/28900899-1136-4c71-b761-ff79aa73dbdf",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "huawei-nova-12i-8-256",
@@ -29353,8 +29337,8 @@
       "priceEGP": 14519,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "آخر سعر مرصود 14,519 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
@@ -29363,12 +29347,16 @@
           "source": "https://priceteq.com/eg/product/ef583819-7855-462b-8d4d-f69d8b2535d3",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
       ],
       "merchant": "Cairo Drop Egypt",
       "source": "https://priceteq.com/eg/product/ef583819-7855-462b-8d4d-f69d8b2535d3",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "huawei-nova-9-se-8-128",
@@ -29407,8 +29395,8 @@
       "priceEGP": 16939,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "آخر سعر مرصود 16,939 جنيه، لكن صفحة المصدر لم تُحدّث السعر منذ 4 نوفمبر 2026؛ تم الاحتفاظ به كسجل سابق فقط وعدم اعتباره عرضًا مؤكدًا اليوم.",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
@@ -29417,12 +29405,16 @@
           "source": "https://priceteq.com/eg/product/7943c441-b2e8-41d8-b2e2-14781c2b7a22",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
         }
       ],
       "merchant": "Cairo Drop Egypt",
       "source": "https://priceteq.com/eg/product/7943c441-b2e8-41d8-b2e2-14781c2b7a22",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "priceAvailability": "unknown"
     },
     {
       "id": "huawei-nova-13-12-256",
@@ -29751,7 +29743,7 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "فحص 7 نوفمبر 2026: تحديث أدنى سعر S26 Ultra 12/256 إلى 69,899 جنيه، وتحديث iPhone 17 Pro Max 256GB إلى 89,000 جنيه، وتوثيق نسختي Samsung A07. تم تعليق سعر S25 Ultra 12/512 بسبب اختلاف صفحة المنتج عن قائمة الهواتف.",
+  "priceUpdateNote": "مراجعة إضافية 7 نوفمبر 2026: توثيق Samsung Galaxy M55 8/256 وOPPO Reno16 Pro 12/512؛ تعليق سعر iPhone 16 بسبب تعارض القوائم وعدم فتح صفحة العرض؛ وتصحيح تواريخ الرصد للصفحات التي لم تتحدث منذ 4–5 نوفمبر.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo",
-  "lastManualPriceVerification": "2026-11-07T20:17:52+02:00"
+  "lastManualPriceVerification": "2026-11-07T20:25:57+02:00"
 }
