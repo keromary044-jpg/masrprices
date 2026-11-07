@@ -2742,13 +2742,16 @@
       "brand": "HONOR",
       "name": "Honor X5 Plus",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 6670,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/558903/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-04"
     },
     {
       "id": "honor-magic5-pro",
@@ -3731,11 +3734,14 @@
       "brand": "Motorola",
       "name": "Motorola Moto G54 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 9340,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي لطراز G54؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/539350/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-04"
     },
     {
       "id": "motorola-moto-g34-5g",
@@ -7870,10 +7876,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 23580,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/75971/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-08"
     },
     {
       "id": "xiaomi-xiaomi-mi-10",
@@ -7892,10 +7901,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 11333,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 8GB/256GB؛ السعر استرشادي وليس عرض متجر حاليًا.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/xiaomi-mi-10/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-22"
     },
     {
       "id": "xiaomi-xiaomi-mi-9",
@@ -7914,10 +7926,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 19920,
+      "priceSource": "MobGadgets",
+      "priceStatus": "نطاق سعر تجزئة متوقع 19,920–19,950 جنيه؛ الهاتف متوقف والسعر استرشادي.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://mobgadgets.com/gadget/eg/xiaomi-mi-9",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-01"
     },
     {
       "id": "xiaomi-xiaomi-14t-pro-2",
@@ -8116,10 +8131,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 17620,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/75973/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-16"
     },
     {
       "id": "redmi-redmi-note-14-pro-5g",
@@ -8515,10 +8533,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.mi.com/eg/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 5999,
+      "priceSource": "Phones7",
+      "priceStatus": "آخر سعر منشور لنسخة 4GB/128GB؛ هاتف قديم والسعر ليس عرض متجر حاليًا.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://phones7.com/xiaomi-redmi-note-12/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-10"
     },
     {
       "id": "redmi-redmi-note-12",
@@ -9455,10 +9476,13 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.po.co/global/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 24130,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
+      "priceOffers": [],
+      "priceSourceUrl": "https://aramobi.com/mobile-price/136731/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-02"
     },
     {
       "id": "poco-poco-x3-nfc",
@@ -10180,12 +10204,15 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.honor.com/eg/phones/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
+      "priceEGP": 60540,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي؛ المصدر يوضح أن السعر المحلي الحقيقي غير متوفر.",
       "priceOffers": [],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "priceSourceUrl": "https://aramobi.com/mobile-price/273090/",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-06"
     },
     {
       "id": "honor-magic-v2",
