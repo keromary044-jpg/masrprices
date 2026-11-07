@@ -33,7 +33,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Get repository files
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       - name: Check JavaScript syntax
         run: |
           node --check app.js
