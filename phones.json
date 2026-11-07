@@ -1392,11 +1392,26 @@
       "brand": "Xiaomi",
       "name": "Xiaomi POCO X6 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 17500,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي؛ لا يوجد عرض متجر مباشر مؤكد؛ 12GB RAM / 512GB (أكبر سعة مذكورة)؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "sourceLabel": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 17500,
+          "variant": "12GB RAM / 512GB (أكبر سعة مذكورة)",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/583241/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://aramobi.com/mobile-price/583241/",
+      "merchant": "Aramobi"
     },
     {
       "id": "oppo-find-x8-pro",
@@ -3830,11 +3845,26 @@
       "brand": "OnePlus",
       "name": "OnePlus OnePlus Nord 3",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 20560,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 16GB RAM / 256GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "sourceLabel": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 20560,
+          "variant": "16GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/507267/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://aramobi.com/mobile-price/507267/",
+      "merchant": "Aramobi"
     },
     {
       "id": "oneplus-oneplus-nord-ce4",
@@ -4040,11 +4070,26 @@
       "brand": "Huawei",
       "name": "Huawei Nova 11 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 46710,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 8GB RAM / 512GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "sourceLabel": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 46710,
+          "variant": "8GB RAM / 512GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/461761/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "source": "https://aramobi.com/mobile-price/461761/",
+      "merchant": "Aramobi"
     },
     {
       "id": "asus-rog-phone-9-pro",
@@ -4661,12 +4706,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.samsung.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://mobilemasr.com/en/products/show/samsung-galaxy-a54-ram-8-gb-128-gb-black-used-su002225",
+      "sourceLabel": "MobileMasr",
+      "priceEGP": 14300,
+      "priceSource": "MobileMasr",
+      "priceStatus": "إعلان جهاز مستعمل محدد مع تقرير فحص؛ 8GB RAM / 128GB؛ الحالة: مستعمل - جيد جدًا؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "MobileMasr",
+          "priceEGP": 14300,
+          "variant": "8GB RAM / 128GB",
+          "condition": "مستعمل - جيد جدًا",
+          "source": "https://mobilemasr.com/en/products/show/samsung-galaxy-a54-ram-8-gb-128-gb-black-used-su002225",
+          "sourceLabel": "MobileMasr",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "MobileMasr"
     },
     {
       "id": "samsung-galaxy-a53",
@@ -6244,12 +6303,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://ts3era.com/product/xiaomi-11t-pro-12gb-ram-256gb/",
+      "sourceLabel": "Ts3era",
+      "priceEGP": 15499,
+      "priceSource": "Ts3era",
+      "priceStatus": "آخر سعر مقارنة؛ كل العروض المعروضة غير متوفرة وقت الرصد؛ 12GB RAM / 256GB؛ الحالة: آخر سعر مرصود - غير متوفر؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Ts3era",
+          "priceEGP": 15499,
+          "variant": "12GB RAM / 256GB",
+          "condition": "آخر سعر مرصود - غير متوفر",
+          "source": "https://ts3era.com/product/xiaomi-11t-pro-12gb-ram-256gb/",
+          "sourceLabel": "Ts3era",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Ts3era"
     },
     {
       "id": "xiaomi-xiaomi-11t",
@@ -6266,12 +6339,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/201099/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 19310,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 8GB RAM / 256GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 19310,
+          "variant": "8GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/201099/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-11-lite-5g-ne",
@@ -6544,12 +6631,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/111295/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 12100,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 8GB RAM / 128GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 12100,
+          "variant": "8GB RAM / 128GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/111295/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "xiaomi-xiaomi-10t-lite",
@@ -7043,12 +7144,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/xiaomi/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 11299,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي لنسخة 6/64GB؛ 6GB RAM / 64GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 11299,
+          "variant": "6GB RAM / 64GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/xiaomi/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "redmi-redmi-note-11s",
@@ -7065,12 +7180,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/456129/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 13310,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 8GB RAM / 256GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 13310,
+          "variant": "8GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/456129/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "redmi-redmi-note-11",
@@ -7087,12 +7216,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/218954/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 8800,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 6GB RAM / 128GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 8800,
+          "variant": "6GB RAM / 128GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/218954/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "redmi-redmi-note-10-pro",
@@ -7109,12 +7252,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/129596/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 11870,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 8GB RAM / 256GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 11870,
+          "variant": "8GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/129596/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "redmi-redmi-note-10s",
@@ -7153,12 +7310,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.mi.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/129453/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 11640,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 6GB RAM / 128GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 11640,
+          "variant": "6GB RAM / 128GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/129453/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "redmi-redmi-14c",
@@ -8398,12 +8569,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.oppo.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://eshop.vodafone.com.eg/en/prod/oppo-smart-phone-a-17",
+      "sourceLabel": "Vodafone Egypt",
+      "priceEGP": 5799,
+      "priceSource": "Vodafone Egypt",
+      "priceStatus": "سعر قائمة اتصالات رسمي؛ الجهاز غير متوفر حاليًا؛ 4GB RAM / 64GB؛ الحالة: آخر سعر مرصود - غير متوفر؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 5799,
+          "variant": "4GB RAM / 64GB",
+          "condition": "آخر سعر مرصود - غير متوفر",
+          "source": "https://eshop.vodafone.com.eg/en/prod/oppo-smart-phone-a-17",
+          "sourceLabel": "Vodafone Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Vodafone Egypt"
     },
     {
       "id": "oppo-a16",
@@ -8670,12 +8855,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.honor.com/eg/phones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/571113/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 8700,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ حتى 12GB RAM / 256GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 8700,
+          "variant": "حتى 12GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/571113/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "honor-x5",
@@ -11806,14 +12005,28 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://store.google.com/category/phones",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "source": "https://www.dubizzle.com.eg/en/mobile-phones-tablets-accessories-numbers/mobile-phones/google/q-google-pixel-6/",
+      "sourceLabel": "Dubizzle Egypt",
+      "priceEGP": 11000,
+      "priceSource": "Dubizzle Egypt",
+      "priceStatus": "سعر طلب من إعلانات مستعمل متعددة؛ السعر يختلف حسب حالة الجهاز؛ 128GB / 8GB (إعلانات مستعمل)؛ الحالة: مستعمل - سعر طلب؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Dubizzle Egypt",
+          "priceEGP": 11000,
+          "variant": "128GB / 8GB (إعلانات مستعمل)",
+          "condition": "مستعمل - سعر طلب",
+          "source": "https://www.dubizzle.com.eg/en/mobile-phones-tablets-accessories-numbers/mobile-phones/google/q-google-pixel-6/",
+          "sourceLabel": "Dubizzle Egypt",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Dubizzle Egypt"
     },
     {
       "id": "google-pixel-5",
@@ -11900,12 +12113,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.ztedevices.com/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://store-eg.com/s/mobile/en/product/zte-nubia-z60-ultra",
+      "sourceLabel": "Mobile Store",
+      "priceEGP": 29750,
+      "priceSource": "Mobile Store",
+      "priceStatus": "سعر متجر لجهاز جديد؛ الصفحة تعرض التوفر والضمان سنة؛ 12GB RAM / 256GB؛ الحالة: جديد؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Mobile Store",
+          "priceEGP": 29750,
+          "variant": "12GB RAM / 256GB",
+          "condition": "جديد",
+          "source": "https://store-eg.com/s/mobile/en/product/zte-nubia-z60-ultra",
+          "sourceLabel": "Mobile Store",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Mobile Store"
     },
     {
       "id": "zte-nubia-z50",
@@ -11922,12 +12149,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.ztedevices.com/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/403501/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 24140,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ حتى 16GB RAM / 1TB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 24140,
+          "variant": "حتى 16GB RAM / 1TB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/403501/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "zte-nubia-flip-5g",
@@ -12035,12 +12276,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.ztedevices.com/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://aramobi.com/mobile-price/580606/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 5980,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 4GB RAM / 128GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 5980,
+          "variant": "4GB RAM / 128GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/580606/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi"
     },
     {
       "id": "itel-s25-ultra",
@@ -12145,12 +12400,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.itel-life.com/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://tv-it.com/product-categories/itel",
+      "sourceLabel": "TV-IT",
+      "priceEGP": 3999,
+      "priceSource": "TV-IT",
+      "priceStatus": "سعر متجر مسجل؛ الصفحة تشير إلى نفاد المخزون؛ 128GB / 4GB+4GB RAM؛ الحالة: آخر سعر مرصود - غير متوفر؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "TV-IT",
+          "priceEGP": 3999,
+          "variant": "128GB / 4GB+4GB RAM",
+          "condition": "آخر سعر مرصود - غير متوفر",
+          "source": "https://tv-it.com/product-categories/itel",
+          "sourceLabel": "TV-IT",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "TV-IT"
     },
     {
       "id": "itel-p55-5g",
@@ -12189,12 +12458,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.itel-life.com/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://tv-it.com/product-categories/itel",
+      "sourceLabel": "TV-IT",
+      "priceEGP": 6425,
+      "priceSource": "TV-IT",
+      "priceStatus": "سعر متجر مسجل؛ الصفحة تشير إلى نفاد المخزون؛ 128GB / 8GB+16GB RAM؛ الحالة: آخر سعر مرصود - غير متوفر؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "TV-IT",
+          "priceEGP": 6425,
+          "variant": "128GB / 8GB+16GB RAM",
+          "condition": "آخر سعر مرصود - غير متوفر",
+          "source": "https://tv-it.com/product-categories/itel",
+          "sourceLabel": "TV-IT",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "TV-IT"
     },
     {
       "id": "itel-p40",
@@ -12277,12 +12560,26 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.itel-life.com/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://tv-it.com/product-categories/itel",
+      "sourceLabel": "TV-IT",
+      "priceEGP": 5150,
+      "priceSource": "TV-IT",
+      "priceStatus": "سعر متجر مسجل؛ الصفحة تشير إلى نفاد المخزون؛ 128GB / 3GB+5GB RAM؛ الحالة: آخر سعر مرصود - غير متوفر؛ تم تسجيله 2026-11-07.",
+      "priceOffers": [
+        {
+          "merchant": "TV-IT",
+          "priceEGP": 5150,
+          "variant": "128GB / 3GB+5GB RAM",
+          "condition": "آخر سعر مرصود - غير متوفر",
+          "source": "https://tv-it.com/product-categories/itel",
+          "sourceLabel": "TV-IT",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "TV-IT"
     },
     {
       "id": "itel-a60s",
@@ -13511,11 +13808,27 @@
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/redmi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://aramobi.com/mobile-price/286285/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 6670,
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ حتى 6GB RAM / 128GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 6670,
+          "variant": "حتى 6GB RAM / 128GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/286285/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "redmi-redmik50",
@@ -13673,11 +13986,27 @@
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/redmi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://aramobi.com/mobile-price/129600/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 12320,
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 8GB RAM / 256GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 12320,
+          "variant": "8GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/129600/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "redmi-redminote10pro",
@@ -13778,11 +14107,27 @@
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/redmi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://aramobi.com/mobile-price/57976/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 7340,
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 4GB RAM / 128GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 7340,
+          "variant": "4GB RAM / 128GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/57976/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "redmi-redmi9a",
@@ -13799,11 +14144,27 @@
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/redmi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://aramobi.com/mobile-price/57974/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 7340,
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ حتى 6GB RAM / 128GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 7340,
+          "variant": "حتى 6GB RAM / 128GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/57974/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "redmi-redmi9",
@@ -13925,11 +14286,27 @@
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/redmi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة Redmi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://aramobi.com/mobile-price/25351/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 13650,
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 8GB RAM / 256GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 13650,
+          "variant": "8GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/25351/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "redmi-redmi7a",
@@ -15348,11 +15725,27 @@
       "os": "قد يختلف حسب النسخة والمنطقة",
       "connectivity": "تختلف حسب النسخة",
       "build": "غير متاح في السجل المختصر",
-      "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
-      "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "source": "https://aramobi.com/mobile-price/243468/",
+      "sourceLabel": "Aramobi",
+      "priceEGP": 23340,
+      "priceStatus": "سعر محلي تقريبي وليس عرض متجر مباشر؛ 12GB RAM / 256GB؛ الحالة: تقديري؛ تم تسجيله 2026-11-07.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "priceSource": "Aramobi",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Aramobi",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 23340,
+          "variant": "12GB RAM / 256GB",
+          "condition": "تقديري",
+          "source": "https://aramobi.com/mobile-price/243468/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ]
     },
     {
       "id": "xiaomi-xiaomimi10ultra",
