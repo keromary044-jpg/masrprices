@@ -2206,11 +2206,27 @@
       "brand": "vivo",
       "name": "vivo X200",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 30171,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 30171,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/vivo/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 30171,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "vivo-x100-pro",
@@ -2295,11 +2311,27 @@
       "brand": "vivo",
       "name": "vivo V40 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 27698,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 27698,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/vivo/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 27698,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "vivo-v40-5g",
@@ -2750,66 +2782,162 @@
       "brand": "TECNO",
       "name": "TECNO Phantom V Fold2 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 59847,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 59847,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 59847,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-phantom-v-flip2-5g",
       "brand": "TECNO",
       "name": "TECNO Phantom V Flip2 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 35859,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 35859,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 35859,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-camon-30-premier-5g",
       "brand": "TECNO",
       "name": "TECNO Camon 30 Premier 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 27203,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 27203,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 27203,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-camon-30-pro-5g",
       "brand": "TECNO",
       "name": "TECNO Camon 30 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 16816,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 16816,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 16816,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-camon-30-5g",
       "brand": "TECNO",
       "name": "TECNO Camon 30 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 27203,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 27203,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 27203,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-camon-30",
       "brand": "TECNO",
       "name": "TECNO Camon 30",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 10387,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 10387,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 10387,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-camon-20-pro-5g",
@@ -2853,66 +2981,162 @@
       "brand": "TECNO",
       "name": "TECNO Pova 6 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 11870,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 11870,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 11870,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-pova-6",
       "brand": "TECNO",
       "name": "TECNO Pova 6",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 11870,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 11870,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 11870,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-pova-5-pro-5g",
       "brand": "TECNO",
       "name": "TECNO Pova 5 Pro 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 9892,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 9892,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 9892,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-pova-5",
       "brand": "TECNO",
       "name": "TECNO Pova 5",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 9892,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 9892,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 9892,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-spark-30-pro",
       "brand": "TECNO",
       "name": "TECNO Spark 30 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 12365,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 12365,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 12365,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-spark-30c",
       "brand": "TECNO",
       "name": "TECNO Spark 30C",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 8161,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 8161,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/tecno/mobiles",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 8161,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "tecno-spark-20-pro",
@@ -2971,11 +3195,27 @@
       "brand": "Infinix",
       "name": "Infinix Zero 40 4G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 14789,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 14789,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 14789,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-zero-30-5g",
@@ -3019,11 +3259,27 @@
       "brand": "Infinix",
       "name": "Infinix Note 40 Pro+ 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 15333,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 15333,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 15333,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-note-40-pro-4g",
@@ -3056,22 +3312,54 @@
       "brand": "Infinix",
       "name": "Infinix Note 40 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 12365,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 12365,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 12365,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-note-40",
       "brand": "Infinix",
       "name": "Infinix Note 40",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 9892,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 9892,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 9892,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-note-30-vip",
@@ -3115,24 +3403,56 @@
       "brand": "Infinix",
       "name": "Infinix Hot 50 Pro+",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 12365,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 12365,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 12365,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "infinix-hot-40-pro",
       "brand": "Infinix",
       "name": "Infinix Hot 40 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 10881,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 10881,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/infinix/smartphones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:26 Cairo",
+      "price": 10881,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "motorola-edge-50-ultra",
@@ -3406,11 +3726,27 @@
       "brand": "Motorola",
       "name": "Motorola Moto G24",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 6924,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 6924,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/motorola/mobile-phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 6924,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "motorola-moto-g14",
@@ -3428,11 +3764,27 @@
       "brand": "Motorola",
       "name": "Motorola Moto G04",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 6430,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 6430,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/motorola/mobile-phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 6430,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "apple-iphone-16-pro-max",
@@ -3955,178 +4307,402 @@
       "brand": "Google",
       "name": "Google Pixel 9 Pro XL",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 52378,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 52378,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 52378,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-9-pro",
       "brand": "Google",
       "name": "Google Pixel 9 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 49411,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 49411,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 49411,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-9",
       "brand": "Google",
       "name": "Google Pixel 9",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 39568,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 39568,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 39568,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-9a",
       "brand": "Google",
       "name": "Google Pixel 9a",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 24730,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 24730,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 24730,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-8-pro",
       "brand": "Google",
       "name": "Google Pixel 8 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 49411,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 49411,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 49411,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-8",
       "brand": "Google",
       "name": "Google Pixel 8",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 34622,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 34622,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 34622,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-8a",
       "brand": "Google",
       "name": "Google Pixel 8a",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 24730,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 24730,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 24730,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-7-pro",
       "brand": "Google",
       "name": "Google Pixel 7 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 44465,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 44465,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 44465,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-7",
       "brand": "Google",
       "name": "Google Pixel 7",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 29627,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 29627,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 29627,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-7a",
       "brand": "Google",
       "name": "Google Pixel 7a",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 24730,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 24730,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:10 Cairo",
+      "price": 24730,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-6-pro",
       "brand": "Google",
       "name": "Google Pixel 6 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 44465,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 44465,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "price": 44465,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "google-pixel-6a",
       "brand": "Google",
       "name": "Google Pixel 6a",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 22208,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 22208,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/google/phones",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "price": 22208,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "oneplus-oneplus-13",
       "brand": "OnePlus",
       "name": "OnePlus OnePlus 13",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 44465,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 44465,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/oneplus",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 44465,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "oneplus-oneplus-13r",
       "brand": "OnePlus",
       "name": "OnePlus OnePlus 13R",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 29627,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 29627,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/oneplus",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 29627,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "oneplus-oneplus-12",
@@ -4159,11 +4735,27 @@
       "brand": "OnePlus",
       "name": "OnePlus OnePlus 12R",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 24681,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 24681,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/oneplus",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 24681,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "oneplus-oneplus-11",
@@ -4192,11 +4784,27 @@
       "brand": "OnePlus",
       "name": "OnePlus OnePlus Nord 4",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 17806,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 17806,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/oneplus",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 17806,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "oneplus-oneplus-nord-3",
@@ -4229,11 +4837,27 @@
       "brand": "OnePlus",
       "name": "OnePlus OnePlus Nord CE4",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 14838,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 14838,
+          "variant": "النسخة غير محددة في قائمة المصدر",
+          "source": "https://www.ectgadget.com/egypt/oneplus",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 14838,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "oneplus-oneplus-nord-ce3-lite",
@@ -6206,10 +6830,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 35611,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 35611,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://www.ectgadget.com/egypt/apple/iphones/1",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 35611,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "apple-iphone-11-pro-max",
@@ -6334,10 +6974,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 39568,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 39568,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://www.ectgadget.com/egypt/apple/iphones/1",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 39568,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "apple-iphone-xs",
@@ -6356,10 +7012,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 37095,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 37095,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://www.ectgadget.com/egypt/apple/iphones/1",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 37095,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "apple-iphone-xr",
@@ -6378,10 +7050,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29676,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 29676,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://www.ectgadget.com/egypt/apple/iphones/1",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 29676,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "apple-iphone-x",
@@ -6400,10 +7088,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 38579,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 38579,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://www.ectgadget.com/egypt/apple/iphones/1",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 38579,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "apple-iphone-8-plus",
@@ -6422,10 +7126,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 29676,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 29676,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://www.ectgadget.com/egypt/apple/iphones/1",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 29676,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "apple-iphone-8",
@@ -6444,10 +7164,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 22504,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 22504,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://www.ectgadget.com/egypt/apple/iphones/1",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 22504,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "apple-iphone-7-plus",
@@ -6510,10 +7246,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.apple.com/eg/iphone/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 18795,
+      "priceSource": "ECT Gadget – سعر استرشادي منشور لقائمة الهواتف في مصر",
+      "priceStatus": "سعر استرشادي منشور في قائمة أسعار مصر بتاريخ 7 نوفمبر 2026؛ ليس عرض متجر مباشرًا ولا يؤكد التوفر. لم تُحدد نسخة الذاكرة في المصدر؛ تحقق من النسخة والسعر لدى البائع قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "ECT Gadget – مرجع سعري",
+          "priceEGP": 18795,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://www.ectgadget.com/egypt/apple/iphones/1",
+          "sourceLabel": "ECT Gadget – قائمة أسعار الهواتف في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 18795,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "ECT Gadget (مرجع سعري، وليس متجر بيع مباشر)",
+      "priceProvider": "ECT Gadget"
     },
     {
       "id": "xiaomi-xiaomi-15-ultra-2",
