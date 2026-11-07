@@ -53,6 +53,7 @@ jobs:
         run: |
           node --check app.js
           node --check site-enhancements.js
+          node --check sw.js
           node --input-type=module --check < worker.js
           for file in functions/api/*.js; do node --input-type=module --check < "$file"; done
       - name: Validate JSON, sitemap, SEO metadata and PWA manifest
@@ -71,6 +72,17 @@ jobs:
           assert urls, "Sitemap contains no URLs"
           base = "https://masrprices-new.keromary044.workers.dev/"
           assert all(url.startswith(base) for url in urls), "Sitemap contains a URL outside the production origin"
+          seo_products = json.loads((root / "seo-products.json").read_text(encoding="utf-8"))
+          product_slugs = [item.get("slug") for item in seo_products]
+          assert all(product_slugs) and len(product_slugs) == len(set(product_slugs)), "SEO product slugs are missing or duplicated"
+          sitemap_slugs = [url[len(base + "products/"):].strip("/") for url in urls if url.startswith(base + "products/")]
+          product_index = (root / "products/index.html").read_text(encoding="utf-8")
+          index_slugs = re.findall(r'href="/products/([^"/]+)/"', product_index)
+          assert set(product_slugs) == set(sitemap_slugs) == set(index_slugs), "Product index, SEO data and sitemap do not contain the same product slugs"
+          sw = (root / "sw.js").read_text(encoding="utf-8")
+          for required_asset in ['"./site-enhancements.js"', '"./assets/icon.svg"', '"./products/"']:
+              assert required_asset in sw, f"Service worker precache is missing {required_asset}"
+          assert 'url.pathname.endsWith(".json")' in sw, "Service worker does not refresh JSON data from the network"
           robots = (root / "robots.txt").read_text(encoding="utf-8")
           assert base + "sitemap.xml" in robots, "robots.txt does not point to the production sitemap"
           for name in ["index.html", "about.html", "contact.html", "privacy.html", "terms.html", "products/index.html"]:
