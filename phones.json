@@ -17156,6 +17156,141 @@
           "observedAt": "2026-11-05"
         }
       ]
+    },
+    {
+      "id": "realme-c53-8-256",
+      "brand": "realme",
+      "name": "realme C53 8GB / 256GB",
+      "category": "اقتصادي ومتوسط",
+      "release": "2023-2024",
+      "memory": "8GB RAM / 256GB",
+      "connectivity": "4G",
+      "source": "https://priceteq.com/eg/product/00e1c0d9-a8ea-4fcb-9945-eb6707d9c53d",
+      "sourceLabel": "PriceTeq – قائمة أسعار المتاجر المصرية",
+      "priceEGP": 8689,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر واحد مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر؛ تأكد من توفر المخزون والسعر النهائي.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 8689,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/00e1c0d9-a8ea-4fcb-9945-eb6707d9c53d",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "id": "realme-c51-4-128",
+      "brand": "realme",
+      "name": "realme C51 4GB / 128GB",
+      "category": "اقتصادي ومتوسط",
+      "release": "2023-2024",
+      "memory": "4GB RAM / 128GB",
+      "connectivity": "4G",
+      "source": "https://priceteq.com/eg/product/2457156b-6a97-4d44-9330-d3f62c0544e2",
+      "sourceLabel": "PriceTeq – قائمة أسعار المتاجر المصرية",
+      "priceEGP": 6049,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر واحد مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر؛ تأكد من توفر المخزون والسعر النهائي.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 6049,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/2457156b-6a97-4d44-9330-d3f62c0544e2",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "id": "realme-11-8-256",
+      "brand": "realme",
+      "name": "realme 11 5G 8GB / 256GB",
+      "category": "اقتصادي ومتوسط",
+      "release": "2023-2024",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "source": "https://priceteq.com/eg/product/bb00d253-6903-4710-93c3-320cea08f92b",
+      "sourceLabel": "PriceTeq – قائمة أسعار المتاجر المصرية",
+      "priceEGP": 14739,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر واحد مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر؛ تأكد من توفر المخزون والسعر النهائي.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 14739,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/bb00d253-6903-4710-93c3-320cea08f92b",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "id": "realme-11-pro-8-256",
+      "brand": "realme",
+      "name": "realme 11 Pro 5G 8GB / 256GB",
+      "category": "اقتصادي ومتوسط",
+      "release": "2023-2024",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "source": "https://priceteq.com/eg/product/865e71a6-cbdb-4afb-8510-b4731b5a0abc",
+      "sourceLabel": "PriceTeq – قائمة أسعار المتاجر المصرية",
+      "priceEGP": 24199,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر واحد مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر؛ تأكد من توفر المخزون والسعر النهائي.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 24199,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/865e71a6-cbdb-4afb-8510-b4731b5a0abc",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "id": "realme-12-pro-12-512",
+      "brand": "realme",
+      "name": "realme 12 Pro 12GB / 512GB",
+      "category": "اقتصادي ومتوسط",
+      "release": "2023-2024",
+      "memory": "12GB RAM / 512GB",
+      "connectivity": "4G",
+      "source": "https://priceteq.com/eg/product/f2e5374d-2428-4162-a172-95df5768006f",
+      "sourceLabel": "PriceTeq – قائمة أسعار المتاجر المصرية",
+      "priceEGP": 24200,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر واحد مرصود لنسخة 12GB RAM / 512GB، شامل الضريبة حسب المصدر؛ تأكد من توفر المخزون والسعر النهائي.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 24200,
+          "variant": "12GB RAM / 512GB",
+          "source": "https://priceteq.com/eg/product/f2e5374d-2428-4162-a172-95df5768006f",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ]
     }
   ],
   "priceUpdateNote": "تم تحديث أسعار النسخ المطابقة فقط من صفحات مقارنة ومتاجر مصرية؛ لا يُستنتج سعر نسخة من نسخة أخرى."
