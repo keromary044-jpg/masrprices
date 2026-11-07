@@ -15280,10 +15280,25 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.ztedevices.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 20120,
+      "priceSource": "Mobizil – سعر إرشادي منشور عند الإطلاق",
+      "priceStatus": "سعر إرشادي تاريخي منشور عند الإطلاق في فبراير 2024؛ ليس سعر متجر حاليًا ولا يؤكد التوفر.",
+      "priceOffers": [
+        {
+          "merchant": "سعر مرجعي",
+          "priceEGP": 20120,
+          "variant": "6GB RAM / 128GB",
+          "source": "https://mobizil.org/zte-nubia-flip-5g-specs/",
+          "sourceLabel": "Mobizil – سعر إرشادي منشور عند الإطلاق",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2024-02-28",
+          "availability": "check_store"
+        }
+      ],
+      "price": 20120,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2024-02-28",
+      "merchant": "سعر مرجعي"
     },
     {
       "id": "zte-nubia-neo-2-5g",
@@ -15549,10 +15564,25 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.itel-life.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 7850,
+      "priceSource": "Telfonak – سعر منشور",
+      "priceStatus": "سعر منشور بتاريخ 3 ديسمبر 2025 لنسخة 8/256GB؛ سعر تاريخي استرشادي وليس عرضًا حاليًا مؤكدًا.",
+      "priceOffers": [
+        {
+          "merchant": "سعر مرجعي",
+          "priceEGP": 7850,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://telfonak.com/itel-s23-plus/",
+          "sourceLabel": "Telfonak – سعر منشور",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2025-12-03",
+          "availability": "check_store"
+        }
+      ],
+      "price": 7850,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2025-12-03",
+      "merchant": "سعر مرجعي"
     },
     {
       "id": "itel-s23-2",
@@ -15607,12 +15637,27 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.itel-life.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 7360,
+      "priceSource": "Aramobi – سعر تقريبي في مصر",
+      "priceStatus": "سعر تقريبي منشور في 9 سبتمبر 2026؛ المصدر ينبه إلى عدم توفر سعر محلي حقيقي مؤكد.",
+      "priceOffers": [
+        {
+          "merchant": "سعر تقريبي",
+          "priceEGP": 7360,
+          "variant": "6GB RAM / 128GB / 5G",
+          "source": "https://aramobi.com/mobile-price/601079/",
+          "sourceLabel": "Aramobi – سعر تقريبي في مصر",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-09",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 17:40 Cairo",
+      "price": 7360,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-09",
+      "merchant": "سعر تقريبي"
     },
     {
       "id": "itel-p55",
@@ -15667,10 +15712,25 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://www.itel-life.com/",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 3492,
+      "priceSource": "Simfonio – قائمة أسعار مرجعية",
+      "priceStatus": "سعر مرجعي ظاهر في قائمة أسعار Itel؛ لم يتم تأكيده كعرض متجر متاح أو كنسخة مطابقة في كل الأسواق.",
+      "priceOffers": [
+        {
+          "merchant": "سعر مرجعي",
+          "priceEGP": 3492,
+          "variant": "itel P40 Plus",
+          "source": "https://simfonio.com/brand/itel-mobile-prices-egypt?page=2",
+          "sourceLabel": "Simfonio – قائمة أسعار مرجعية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07",
+          "availability": "check_store"
+        }
+      ],
+      "price": 3492,
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "سعر مرجعي"
     },
     {
       "id": "itel-p40-2",
@@ -20457,9 +20517,26 @@
       "build": "غير متاح في السجل المختصر",
       "source": "https://everythingxiaomi.com/best/xiaomi-phones/",
       "sourceLabel": "Everything Xiaomi – قائمة موديلات Xiaomi؛ مرجع اسم الموديل فقط",
-      "priceEGP": null,
-      "priceStatus": "لم يتم التحقق من السعر أو التوفر الحالي في مصر",
-      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر"
+      "priceEGP": 5799,
+      "priceStatus": "آخر سعر معلن بتاريخ 25 سبتمبر 2026 لهاتف قديم؛ سعر تاريخي مرجعي وليس عرض شراء حاليًا.",
+      "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
+      "price": 5799,
+      "priceSource": "Phones7 – آخر سعر معلن",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-09-25",
+      "merchant": "سعر مرجعي",
+      "priceOffers": [
+        {
+          "merchant": "سعر مرجعي",
+          "priceEGP": 5799,
+          "variant": "6GB RAM / 128GB",
+          "source": "https://phones7.com/xiaomi-mi-10-lite/",
+          "sourceLabel": "Phones7 – آخر سعر معلن",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-09-25",
+          "availability": "check_store"
+        }
+      ]
     },
     {
       "id": "xiaomi-xiaomimi11i",
