@@ -419,67 +419,32 @@
       "release": "2026",
       "display": "راجع مواصفات النسخة المصرية في صفحة الشركة",
       "processor": "راجع صفحة الشركة الرسمية",
-      "memory": "64GB / 4GB RAM",
+      "memory": "4GB RAM / 64GB / 4G",
       "rearCamera": "راجع صفحة الشركة الرسمية",
       "frontCamera": "راجع صفحة الشركة الرسمية",
       "battery": "راجع صفحة الشركة الرسمية",
       "os": "راجع صفحة الشركة الرسمية",
       "connectivity": "حسب نسخة السوق",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.oppo.com/eg/",
-      "sourceLabel": "الموقع الرسمي للشركة – المواصفات",
+      "source": "https://priceteq.com/eg/product/057112d5-c764-465a-ad16-5a634f3a566d",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceEGP": 9822,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
-      "priceCheckedAt": "2026-11-06",
-      "priceStatus": "سعر متجر معلن لنسخة 4GB RAM / 64GB / 4G؛ ليس سعرًا رسميًا من الشركة. تاريخ بيانات المصدر: 2026-11-06. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
       "priceOffers": [
         {
           "merchant": "Raneen Egypt",
           "priceEGP": 9822,
           "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/beaf2a95-a409-4b8b-b8f6-9c2a8020cd0a",
+          "source": "https://priceteq.com/eg/product/057112d5-c764-465a-ad16-5a634f3a566d",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-06"
-        },
-        {
-          "merchant": "Hyper One Egypt",
-          "priceEGP": 9999,
-          "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/beaf2a95-a409-4b8b-b8f6-9c2a8020cd0a",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-06"
-        },
-        {
-          "merchant": "Sharaf DG Egypt",
-          "priceEGP": 9999,
-          "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/beaf2a95-a409-4b8b-b8f6-9c2a8020cd0a",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-06"
-        },
-        {
-          "merchant": "Vodafone Egypt",
-          "priceEGP": 9999,
-          "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/beaf2a95-a409-4b8b-b8f6-9c2a8020cd0a",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-06"
-        },
-        {
-          "merchant": "Elghazawy Egypt",
-          "priceEGP": 10000,
-          "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/beaf2a95-a409-4b8b-b8f6-9c2a8020cd0a",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-06"
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         }
       ],
-      "priceObservedAt": "2026-11-06"
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Raneen Egypt"
     },
     {
       "id": "samsung-a17",
@@ -1221,11 +1186,26 @@
       "brand": "OPPO",
       "name": "OPPO A38",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 24199,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 24199,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/4bdb9cde-8c02-4ab9-8da0-141e320585d2",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "memory": "4GB RAM / 128GB",
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/4bdb9cde-8c02-4ab9-8da0-141e320585d2"
     },
     {
       "id": "realme-gt-7-pro",
@@ -6716,19 +6696,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 256GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.oppo.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/ab862df9-dcbb-4dbb-a4b5-45a30c2cf9a8",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 16939,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 16939,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/ab862df9-dcbb-4dbb-a4b5-45a30c2cf9a8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "oppo-reno7-5g",
@@ -6892,19 +6885,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 256GB",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.oppo.com/eg/smartphones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/687f3a70-6b93-452b-9832-e10e55e44eb6",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 13089,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 13089,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/687f3a70-6b93-452b-9832-e10e55e44eb6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "oppo-a18",
@@ -18700,6 +18706,397 @@
       ],
       "merchant": "2B Egypt",
       "source": "https://priceteq.com/eg/product/b2da29a7-8460-4960-b9fa-ccebbf21913f",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-a6x-4-128",
+      "brand": "OPPO",
+      "name": "OPPO A6x 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 11500,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 11500,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e1802082-211a-452c-bbfe-9c764f3383dc",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 11299,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e1802082-211a-452c-bbfe-9c764f3383dc",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/e1802082-211a-452c-bbfe-9c764f3383dc",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-a6-8-256-4g",
+      "brand": "OPPO",
+      "name": "OPPO A6 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 16500,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 16500,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/187bc953-c45f-4a37-a074-4559ca9f5a3a",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 16999,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/187bc953-c45f-4a37-a074-4559ca9f5a3a",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/187bc953-c45f-4a37-a074-4559ca9f5a3a",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-a6-pro-4g-8-256",
+      "brand": "OPPO",
+      "name": "OPPO A6 Pro 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 15999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "iMedia Stores Egypt",
+          "priceEGP": 15999,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/9b0a5378-6b20-48e3-9dc3-8ae4a2b61309",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "iMedia Stores Egypt",
+      "source": "https://priceteq.com/eg/product/9b0a5378-6b20-48e3-9dc3-8ae4a2b61309",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-a6-pro-5g-8-256",
+      "brand": "OPPO",
+      "name": "OPPO A6 Pro 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 17499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 17499,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/1e634908-934e-4153-9fb7-e7ab5a622c80",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Vodafone Egypt",
+      "source": "https://priceteq.com/eg/product/1e634908-934e-4153-9fb7-e7ab5a622c80",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-reno-16f-12-256",
+      "brand": "OPPO",
+      "name": "OPPO Reno16F 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 28799,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-03",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-03؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 28799,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/01b11645-1e54-48ac-ac88-386d0bb96b1f",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 33199,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/01b11645-1e54-48ac-ac88-386d0bb96b1f",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/01b11645-1e54-48ac-ac88-386d0bb96b1f",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-reno15-12-256",
+      "brand": "OPPO",
+      "name": "OPPO Reno 15 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 26700,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-31",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-10-31؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 26700,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/42380006-2c6f-44e4-bedd-7632019213f4",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-31"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/42380006-2c6f-44e4-bedd-7632019213f4",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-reno15-12-512",
+      "brand": "OPPO",
+      "name": "OPPO Reno 15 5G 12GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 35000,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 35000,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/98382702-6bca-4055-9030-f419e56d186c",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/98382702-6bca-4055-9030-f419e56d186c",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-reno15f-8-256",
+      "brand": "OPPO",
+      "name": "OPPO Reno15 F 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 25480,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 25480,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/493c4fbd-cf0f-48da-a15c-fb8027cd94be",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/493c4fbd-cf0f-48da-a15c-fb8027cd94be",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-reno15f-12-256",
+      "brand": "OPPO",
+      "name": "OPPO Reno15 F 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 26699,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 26699,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/6d3447cd-406f-45db-8411-f1620700f9ca",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/6d3447cd-406f-45db-8411-f1620700f9ca",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-reno15-pro-12-512",
+      "brand": "OPPO",
+      "name": "OPPO Reno15 Pro 5G 12GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 48000,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 48000,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/04120e76-de3d-469c-b2e3-0477d7737746",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/04120e76-de3d-469c-b2e3-0477d7737746",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-reno16-pro-12-256",
+      "brand": "OPPO",
+      "name": "OPPO Reno16 Pro 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 37990,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Koshk Egypt",
+          "priceEGP": 37990,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/5903ee60-7128-4145-8cbb-bdaf71a54136",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Smart Koshk Egypt",
+      "source": "https://priceteq.com/eg/product/5903ee60-7128-4145-8cbb-bdaf71a54136",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-reno16-pro-12-512",
+      "brand": "OPPO",
+      "name": "OPPO Reno16 Pro 5G 12GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 57999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 57999,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/b008157f-0a5b-4378-87c5-5d5607884541",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "2B Egypt",
+      "source": "https://priceteq.com/eg/product/b008157f-0a5b-4378-87c5-5d5607884541",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "oppo-find-x10-pro-max-12-512",
+      "brand": "OPPO",
+      "name": "OPPO Find X10 Pro Max 5G 12GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 99999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 99999,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/25cee4a2-7bdc-4644-a716-114e18d4e2ad",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/25cee4a2-7bdc-4644-a716-114e18d4e2ad",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
