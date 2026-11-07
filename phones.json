@@ -303,49 +303,50 @@
       "release": "2026",
       "display": "راجع مواصفات النسخة المصرية في صفحة الشركة",
       "processor": "راجع صفحة الشركة الرسمية",
-      "memory": "64GB / 4GB RAM",
+      "memory": "4GB RAM / 64GB / 4G",
       "rearCamera": "راجع صفحة الشركة الرسمية",
       "frontCamera": "راجع صفحة الشركة الرسمية",
       "battery": "راجع صفحة الشركة الرسمية",
       "os": "راجع صفحة الشركة الرسمية",
       "connectivity": "حسب نسخة السوق",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.realme.com/eg/",
-      "sourceLabel": "الموقع الرسمي للشركة – المواصفات",
-      "priceEGP": 8780,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية – أقل سعر مرصود للنسخة المطابقة",
-      "priceCheckedAt": "2026-11-06",
-      "priceStatus": "سعر متجر معلن لنسخة 4GB RAM / 64GB / 4G؛ ليس سعرًا رسميًا من الشركة. تاريخ بيانات المصدر: 2026-11-03. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
+      "source": "https://priceteq.com/eg/product/6386e44b-ee86-466c-9303-d18ad3916678",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 8799,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
       "priceOffers": [
         {
-          "merchant": "Raneen Egypt",
-          "priceEGP": 8780,
+          "merchant": "Technology Valley Egypt",
+          "priceEGP": 8799,
           "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/44395e7b-5656-4e0e-82de-e7134727f502",
+          "source": "https://priceteq.com/eg/product/6386e44b-ee86-466c-9303-d18ad3916678",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-03"
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         },
         {
-          "merchant": "2B Egypt",
-          "priceEGP": 9499,
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 8999,
           "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/44395e7b-5656-4e0e-82de-e7134727f502",
+          "source": "https://priceteq.com/eg/product/6386e44b-ee86-466c-9303-d18ad3916678",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-03"
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         },
         {
-          "merchant": "Dream 2000 Egypt",
-          "priceEGP": 9990,
+          "merchant": "Elshennawy Stores Egypt",
+          "priceEGP": 9300,
           "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/44395e7b-5656-4e0e-82de-e7134727f502",
+          "source": "https://priceteq.com/eg/product/6386e44b-ee86-466c-9303-d18ad3916678",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-03"
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         }
       ],
-      "priceObservedAt": "2026-11-03"
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Technology Valley Egypt"
     },
     {
       "id": "tecno-spark-go-3",
@@ -355,29 +356,41 @@
       "release": "2026",
       "display": "راجع مواصفات النسخة المصرية في صفحة الشركة",
       "processor": "راجع صفحة الشركة الرسمية",
-      "memory": "64GB / 4GB RAM",
+      "memory": "4GB RAM / 64GB / 4G",
       "rearCamera": "راجع صفحة الشركة الرسمية",
       "frontCamera": "راجع صفحة الشركة الرسمية",
       "battery": "راجع صفحة الشركة الرسمية",
       "os": "راجع صفحة الشركة الرسمية",
       "connectivity": "حسب نسخة السوق",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.tecno-mobile.com/eg/",
-      "sourceLabel": "الموقع الرسمي للشركة – المواصفات",
-      "priceEGP": 7040,
-      "priceSource": "أقل سعر مرصود في مقارنة PriceTeq؛ السعر قابل للتغير",
-      "priceCheckedAt": "2026-11-02",
-      "priceStatus": "سعر مقارنة مجمّع وليس عرضًا مضمونًا",
+      "source": "https://priceteq.com/eg/product/093f4074-6d13-46bd-8f1f-75b26630b36e",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 6999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تأكد من السعر والتوفر لدى المتجر.",
       "priceOffers": [
         {
-          "merchant": "متجر مصري عبر PriceTeq",
-          "priceEGP": 7040,
-          "variant": "التكوين الموضح في الاسم",
-          "source": "https://priceteq.com/eg/phones",
-          "sourceLabel": "PriceTeq – مقارنة الأسعار",
-          "checkedAt": "2026-11-02"
+          "merchant": "Raneen Egypt",
+          "priceEGP": 6999,
+          "variant": "4GB RAM / 64GB / 4G",
+          "source": "https://priceteq.com/eg/product/093f4074-6d13-46bd-8f1f-75b26630b36e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 6999,
+          "variant": "4GB RAM / 64GB / 4G",
+          "source": "https://priceteq.com/eg/product/093f4074-6d13-46bd-8f1f-75b26630b36e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
         }
-      ]
+      ],
+      "priceObservedAt": "2026-11-05",
+      "merchant": "Raneen Egypt"
     },
     {
       "id": "vivo-y05e",
@@ -8585,7 +8598,7 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceEGP": 17679,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
       "priceOffers": [
         {
           "merchant": "B.TECH Egypt",
@@ -8615,8 +8628,8 @@
           "observedAt": "2026-11-07"
         },
         {
-          "merchant": "Vodafone Egypt",
-          "priceEGP": 20999,
+          "merchant": "2B Egypt",
+          "priceEGP": 21199,
           "variant": "12GB RAM / 256GB / 5G",
           "source": "https://priceteq.com/eg/product/b553a445-a643-4a64-a4a4-f3560ffff9b6",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
@@ -18124,20 +18137,20 @@
       "release": "2026",
       "memory": "8GB RAM / 128GB / 4G",
       "connectivity": "4G",
-      "priceEGP": 11469,
+      "priceEGP": 11488,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-06",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
       "priceOffers": [
         {
           "merchant": "Raneen Egypt",
-          "priceEGP": 11469,
+          "priceEGP": 11488,
           "variant": "8GB RAM / 128GB / 4G",
           "source": "https://priceteq.com/eg/product/1871ffc7-3e8e-456a-8d0f-3780046842c3",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-07"
         },
         {
           "merchant": "Elghazawy Egypt",
@@ -18146,7 +18159,7 @@
           "source": "https://priceteq.com/eg/product/1871ffc7-3e8e-456a-8d0f-3780046842c3",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-07"
         },
         {
           "merchant": "2B Egypt",
@@ -18155,7 +18168,7 @@
           "source": "https://priceteq.com/eg/product/1871ffc7-3e8e-456a-8d0f-3780046842c3",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-07"
         }
       ],
       "merchant": "Raneen Egypt",
@@ -19097,6 +19110,788 @@
       ],
       "merchant": "Elghazawy Egypt",
       "source": "https://priceteq.com/eg/product/25cee4a2-7bdc-4644-a716-114e18d4e2ad",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c85-8-256",
+      "brand": "Realme",
+      "name": "Realme C85 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 15000,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 15000,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/833d71cd-4b8c-4126-acdb-804fa5f293e3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 15499,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/833d71cd-4b8c-4126-acdb-804fa5f293e3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 15999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/833d71cd-4b8c-4126-acdb-804fa5f293e3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/833d71cd-4b8c-4126-acdb-804fa5f293e3",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c100x-6-128",
+      "brand": "Realme",
+      "name": "Realme C100X 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 11999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 11999,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e21ee3b8-2451-46f1-8e4e-c68aa29c9832",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 12499,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e21ee3b8-2451-46f1-8e4e-c68aa29c9832",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "iMedia Stores Egypt",
+          "priceEGP": 12499,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e21ee3b8-2451-46f1-8e4e-c68aa29c9832",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/e21ee3b8-2451-46f1-8e4e-c68aa29c9832",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c85-pro-8-256",
+      "brand": "Realme",
+      "name": "Realme C85 Pro 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 16800,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 16800,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/3d4a874a-3f77-4fb8-9916-f3dc3630d589",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/3d4a874a-3f77-4fb8-9916-f3dc3630d589",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c100-6-128",
+      "brand": "Realme",
+      "name": "Realme C100 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 13915,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 13915,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/62e9a470-bb87-4809-b327-1a1cca9b88ee",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/62e9a470-bb87-4809-b327-1a1cca9b88ee",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c100-8-256",
+      "brand": "Realme",
+      "name": "Realme C100 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 16299,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 16299,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/37f2fb47-79a1-49eb-ae31-f999a7ca5f23",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/37f2fb47-79a1-49eb-ae31-f999a7ca5f23",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c100i-4-128",
+      "brand": "Realme",
+      "name": "Realme C100i 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 9779,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 9779,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/8d639d54-59ee-46ff-a185-4539898c8021",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/8d639d54-59ee-46ff-a185-4539898c8021",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-16-8-256",
+      "brand": "Realme",
+      "name": "Realme 16 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 20800,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 20800,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/09a21635-9518-43e8-b50d-c5c04392de8e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "2B Egypt",
+      "source": "https://priceteq.com/eg/product/09a21635-9518-43e8-b50d-c5c04392de8e",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-16-pro-12-256",
+      "brand": "Realme",
+      "name": "Realme 16 Pro 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 27999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 27999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/b8250fac-e815-481e-afd4-9e27234b33b9",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raya Shop Egypt",
+      "source": "https://priceteq.com/eg/product/b8250fac-e815-481e-afd4-9e27234b33b9",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-15-12-256",
+      "brand": "Realme",
+      "name": "Realme 15 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 21999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 21999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/709b4bff-582b-4f11-95e2-0afdba5e7352",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/709b4bff-582b-4f11-95e2-0afdba5e7352",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-15-pro-12-256",
+      "brand": "Realme",
+      "name": "Realme 15 Pro 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 28999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 28999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/35825d26-c00b-47ec-b548-ae07298cbc29",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/35825d26-c00b-47ec-b548-ae07298cbc29",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c75x-6-128",
+      "brand": "Realme",
+      "name": "Realme C75X 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 8999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 8999,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/49249f09-b86b-4175-8306-e91ce0203166",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Vodafone Egypt",
+      "source": "https://priceteq.com/eg/product/49249f09-b86b-4175-8306-e91ce0203166",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-15t-8-256",
+      "brand": "Realme",
+      "name": "Realme 15T 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 16999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 16999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/990f9a5b-976d-4aff-8975-75c5d3b85db8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "merchant": "Raya Shop Egypt",
+      "source": "https://priceteq.com/eg/product/990f9a5b-976d-4aff-8975-75c5d3b85db8",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-15t-12-256",
+      "brand": "Realme",
+      "name": "Realme 15T 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 20499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 20499,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/3c31e2fc-be13-47f4-a90b-44e38320bf79",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "2B Egypt",
+      "source": "https://priceteq.com/eg/product/3c31e2fc-be13-47f4-a90b-44e38320bf79",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-14t-8-256",
+      "brand": "Realme",
+      "name": "Realme 14T 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 16500,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 16500,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/ffba4561-e47e-4a49-ac7e-72bf64b3e0ba",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/ffba4561-e47e-4a49-ac7e-72bf64b3e0ba",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c71-4-128",
+      "brand": "Realme",
+      "name": "Realme C71 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 9750,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 9750,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/47c06360-162f-4b7f-806f-5f19cf08dcfd",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/47c06360-162f-4b7f-806f-5f19cf08dcfd",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-note-70-4-128",
+      "brand": "Realme",
+      "name": "Realme Note 70 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 10300,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 10300,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/e321b80f-3aae-49ac-a22a-fcdcbab3fa58",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/e321b80f-3aae-49ac-a22a-fcdcbab3fa58",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-note-60x-4-128",
+      "brand": "Realme",
+      "name": "Realme Note 60X 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 7499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 7499,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/d15ee473-becf-4c80-8e60-2dd6d5d34e3f",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Vodafone Egypt",
+      "source": "https://priceteq.com/eg/product/d15ee473-becf-4c80-8e60-2dd6d5d34e3f",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-narzo-50a-4-128",
+      "brand": "Realme",
+      "name": "Realme Narzo 50A 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 7039,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 7039,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/2a6ba825-7064-4a1d-a56f-626f53451bb9",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/2a6ba825-7064-4a1d-a56f-626f53451bb9",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-c53-6-128",
+      "brand": "Realme",
+      "name": "Realme C53 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 8029,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 8029,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/a3b32b4b-16f6-4435-ae90-a748944fbea4",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/a3b32b4b-16f6-4435-ae90-a748944fbea4",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "realme-50i-2-32",
+      "brand": "Realme",
+      "name": "Realme 50i 2GB / 32GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "2GB RAM / 32GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 5169,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 2GB RAM / 32GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 5169,
+          "variant": "2GB RAM / 32GB / 4G",
+          "source": "https://priceteq.com/eg/product/f1c81450-7bbf-47c2-b04f-a2d77eec79f0",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/f1c81450-7bbf-47c2-b04f-a2d77eec79f0",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "tecno-spark-go-3-4-128",
+      "brand": "TECNO",
+      "name": "TECNO Spark Go 3 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 7999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 7999,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/02cfa4e7-84ed-435e-ad95-193052641489",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/02cfa4e7-84ed-435e-ad95-193052641489",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "tecno-spark-50-6-128",
+      "brand": "TECNO",
+      "name": "TECNO Spark 50 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 9199,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 9199,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/a7928a4a-95e6-4a97-acac-f1d142ff8dae",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "merchant": "Vodafone Egypt",
+      "source": "https://priceteq.com/eg/product/a7928a4a-95e6-4a97-acac-f1d142ff8dae",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "tecno-spark-slim-8-256",
+      "brand": "TECNO",
+      "name": "TECNO Spark Slim 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 13499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 13499,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/7c8378c7-777d-4b11-9a94-dca87269fc48",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/7c8378c7-777d-4b11-9a94-dca87269fc48",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "tecno-camon-50-ultra-12-256",
+      "brand": "TECNO",
+      "name": "TECNO Camon 50 Ultra 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 28599,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 28599,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/b79bc392-ed04-4392-a5e3-5e5f52833704",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 28599,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/b79bc392-ed04-4392-a5e3-5e5f52833704",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 28599,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/b79bc392-ed04-4392-a5e3-5e5f52833704",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "2B Egypt",
+      "source": "https://priceteq.com/eg/product/b79bc392-ed04-4392-a5e3-5e5f52833704",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "tecno-camon-50-6-128",
+      "brand": "TECNO",
+      "name": "TECNO Camon 50 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 11040,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Mobilaty Egypt",
+          "priceEGP": 11040,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/7784851e-7c02-495e-9cfc-d80c86bbf5e4",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Mobilaty Egypt",
+      "source": "https://priceteq.com/eg/product/7784851e-7c02-495e-9cfc-d80c86bbf5e4",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "tecno-spark-40-pro-8-256",
+      "brand": "TECNO",
+      "name": "TECNO Spark 40 Pro 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 12730,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والتوفر لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 12730,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/2652a42e-0c67-4610-aa20-b9be47f9396b",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/2652a42e-0c67-4610-aa20-b9be47f9396b",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
