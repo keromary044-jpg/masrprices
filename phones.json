@@ -15120,12 +15120,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://store.google.com/category/phones",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": [],
+      "priceEGP": 24200,
+      "priceSource": "Aramobi",
+      "priceStatus": "سعر تقريبي منشور في مصر؛ المصدر يذكر أن السعر المحلي الحقيقي غير متاح حاليًا.",
+      "priceOffers": [
+        {
+          "merchant": "Aramobi",
+          "priceEGP": 24200,
+          "variant": "تختلف حسب النسخة والسوق",
+          "source": "https://aramobi.com/mobile-price/64071/",
+          "sourceLabel": "Aramobi",
+          "checkedAt": "2026-09-09",
+          "observedAt": "2026-09-09",
+          "availability": "check_store"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceCheckedAt": "2026-09-09",
+      "priceObservedAt": "2026-09-09",
+      "merchant": "Aramobi"
     },
     {
       "id": "zte-nubia-z70-ultra",
