@@ -1791,11 +1791,15 @@
       "brand": "HONOR",
       "name": "Honor Magic V3",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 70875,
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "source": "https://wakteey.com/en/devices/magic-v3/price-in-egypt",
+      "priceType": "reference"
     },
     {
       "id": "honor-200-pro",
@@ -1835,11 +1839,15 @@
       "brand": "HONOR",
       "name": "Honor X9c 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 22228,
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "source": "https://wakteey.com/en/devices/x9c/price-in-egypt",
+      "priceType": "reference"
     },
     {
       "id": "honor-x9b-5g",
@@ -3166,11 +3174,15 @@
       "brand": "Huawei",
       "name": "Huawei Nova 13 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
+      "priceEGP": 33119,
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "source": "https://wakteey.com/en/devices/nova-13-pro/price-in-egypt",
+      "priceType": "reference"
     },
     {
       "id": "huawei-nova-12s",
@@ -4501,12 +4513,15 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.apple.com/eg/iphone/",
+      "source": "https://wakteey.com/en/devices/iphone-17/price-in-egypt",
       "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "priceEGP": 74880,
+      "priceSource": "Wakteey – مؤشر أسعار الهواتف في مصر",
+      "priceStatus": "سعر مرجعي منشور في مؤشر أسعار الهواتف بمصر، وليس عرض متجر مباشر. تاريخ المؤشر 2026-11-02؛ النسخة والبائع والتوفر قد تختلف، ويجب التحقق من المتجر قبل الشراء.",
+      "priceOffers": [],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "priceType": "reference"
     },
     {
       "id": "apple-iphone-13-mini",
