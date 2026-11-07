@@ -80,6 +80,63 @@ def build_exact_index(catalogs, allowed_files=None):
                 index.setdefault((name, brand), []).append((filename, product))
     return index
 
+def catalog_product_has_price(product):
+    """Return True only when a positive EGP price or offer is already recorded."""
+    for key in ("priceEGP", "price", "price_egp", "lowestPrice", "lowest_price"):
+        try:
+            if float(str(product.get(key) or "").replace(",", "").strip()) > 0:
+                return True
+        except (TypeError, ValueError):
+            pass
+    offers = product.get("priceOffers")
+    return isinstance(offers, list) and any(
+        isinstance(offer, dict) and
+        any(
+            (lambda value: value > 0)(float(str(offer.get(key) or "").replace(",", "").strip()))
+            for key in ("priceEGP", "price_egp", "price")
+            if str(offer.get(key) or "").strip()
+        )
+        for offer in offers
+    )
+
+def build_search_candidates(source_catalogs):
+    """Prioritize every unpriced phone before other catalogs, fairly rotating attempts."""
+    exact_index = build_exact_index(source_catalogs)
+    phones, others = [], []
+    seen = set()
+    for filename in sorted(source_catalogs):
+        for product in source_catalogs[filename].get("products", []):
+            if not isinstance(product, dict):
+                continue
+            name = str(product.get("name") or product.get("title") or "").strip()
+            brand = str(product.get("brand") or "").strip()
+            key_pair = (normalize(name), normalize(brand))
+            if not name or not brand or key_pair in seen or len(exact_index.get(key_pair, [])) != 1:
+                continue
+            seen.add(key_pair)
+            row = (name, brand, product)
+            if filename == "phones.json":
+                try:
+                    attempts = int(product.get("priceSearchAttempts") or 0)
+                except (TypeError, ValueError):
+                    attempts = 0
+                phones.append((catalog_product_has_price(product), attempts,
+                               str(product.get("priceSearchLastAttempt") or ""),
+                               normalize(name), row))
+            else:
+                others.append(row)
+    phones.sort(key=lambda item: (item[0], item[1], item[2], item[3]))
+    return [item[4] for item in phones] + others
+
+def mark_search_attempt(product, checked_at):
+    """Record a provider search attempt so failed searches do not starve later phones."""
+    try:
+        attempts = int(product.get("priceSearchAttempts") or 0)
+    except (TypeError, ValueError):
+        attempts = 0
+    product["priceSearchAttempts"] = attempts + 1
+    product["priceSearchLastAttempt"] = checked_at
+
 def apply_offer(index, name, brand, price, store, link, checked_at, source_label, variant=""):
     if not name or not brand or not store or not valid_https(link):
         return False
@@ -252,18 +309,7 @@ def run_apish_jumia(source, catalogs, checked_at):
     coverage = source.get("coverage", [])
     source_catalogs = {name: catalog for name, catalog in catalogs.items() if name in coverage}
     source_index = build_exact_index(source_catalogs)
-    candidates = []
-    seen = set()
-    for filename in sorted(source_catalogs):
-        for product in source_catalogs[filename].get("products", []):
-            if not isinstance(product, dict):
-                continue
-            name = str(product.get("name") or product.get("title") or "").strip()
-            brand = str(product.get("brand") or "").strip()
-            key_pair = (normalize(name), normalize(brand))
-            if name and brand and key_pair in source_index and len(source_index[key_pair]) == 1 and key_pair not in seen:
-                seen.add(key_pair)
-                candidates.append((name, brand))
+    candidates = build_search_candidates(source_catalogs)
 
     if not candidates:
         print(f"OK {source['id']}: no eligible catalog products")
@@ -275,16 +321,17 @@ def run_apish_jumia(source, catalogs, checked_at):
     max_calls = min(max_calls, 15)
 
     # Rotate deterministically through the catalog to stay within the free monthly allowance.
-    day_number = datetime.now(timezone.utc).date().toordinal()
-    start = (day_number * max_calls) % len(candidates)
-    selected = [candidates[(start + offset) % len(candidates)] for offset in range(min(max_calls, len(candidates)))]
+    # Search unpriced phones first. Attempts are persisted so failed searches
+    # move behind phones that have not yet been checked.
+    selected = candidates[:min(max_calls, len(candidates))]
 
     accepted = scanned = request_errors = 0
     endpoint = source.get("endpoint", "https://api.api.sh/jumia/v1/search")
     if not valid_https(endpoint):
         raise ValueError("Invalid API.SH endpoint")
     headers = {"x-api-key": key}
-    for name, brand in selected:
+    for name, brand, catalog_product in selected:
+        mark_search_attempt(catalog_product, checked_at)
         params = urllib.parse.urlencode({
             "q": name, "country": "eg", "sort": "lowest-price", "page": 1
         })
@@ -338,18 +385,7 @@ def run_apish_noon(source, catalogs, checked_at):
     coverage = source.get("coverage", [])
     source_catalogs = {name: catalog for name, catalog in catalogs.items() if name in coverage}
     source_index = build_exact_index(source_catalogs)
-    candidates = []
-    seen = set()
-    for filename in sorted(source_catalogs):
-        for product in source_catalogs[filename].get("products", []):
-            if not isinstance(product, dict):
-                continue
-            name = str(product.get("name") or product.get("title") or "").strip()
-            brand = str(product.get("brand") or "").strip()
-            key_pair = (normalize(name), normalize(brand))
-            if name and brand and key_pair in source_index and len(source_index[key_pair]) == 1 and key_pair not in seen:
-                seen.add(key_pair)
-                candidates.append((name, brand))
+    candidates = build_search_candidates(source_catalogs)
 
     if not candidates:
         print(f"OK {source['id']}: no eligible catalog products")
@@ -359,16 +395,17 @@ def run_apish_noon(source, catalogs, checked_at):
     if not isinstance(max_calls, int) or max_calls < 1:
         raise ValueError("API.SH noon max_calls_per_run must be a positive integer")
     max_calls = min(max_calls, 15)
-    day_number = datetime.now(timezone.utc).date().toordinal()
-    start = (day_number * max_calls) % len(candidates)
-    selected = [candidates[(start + offset) % len(candidates)] for offset in range(min(max_calls, len(candidates)))]
+    # Search unpriced phones first. Attempts are persisted so failed searches
+    # move behind phones that have not yet been checked.
+    selected = candidates[:min(max_calls, len(candidates))]
 
     accepted = scanned = request_errors = 0
     endpoint = source.get("endpoint", "https://api.api.sh/noon/v1/search")
     if not valid_https(endpoint):
         raise ValueError("Invalid API.SH noon endpoint")
     headers = {"x-api-key": key}
-    for name, brand in selected:
+    for name, brand, catalog_product in selected:
+        mark_search_attempt(catalog_product, checked_at)
         params = urllib.parse.urlencode({
             "q": name, "country": "eg", "language": "ar", "sort": "price_asc", "page": 1, "limit": 50
         })
