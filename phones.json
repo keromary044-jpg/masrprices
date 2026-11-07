@@ -15785,12 +15785,12 @@
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-07",
-      "priceStatus": "أقل سعر متجر مرصود لنسخة iPhone 15 سعة 128GB، شامل ضريبة القيمة المضافة حسب المصدر. يوجد فرق كبير بين عروض المتاجر؛ تحقق من حالة الجهاز والضمان والسعر النهائي قبل الشراء.",
+      "priceStatus": "سعر متجر مرصود لنسخة 128GB، شامل الضريبة حسب المصدر. تحقق من السعر والمخزون والضمان قبل الشراء.",
       "priceOffers": [
         {
           "merchant": "Elshennawy Stores Egypt",
           "priceEGP": 35500,
-          "variant": "128GB تخزين",
+          "variant": "128GB",
           "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
@@ -15799,7 +15799,7 @@
         {
           "merchant": "Vodafone Egypt",
           "priceEGP": 54999,
-          "variant": "128GB تخزين",
+          "variant": "128GB",
           "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
@@ -15808,7 +15808,7 @@
         {
           "merchant": "Techmart Egypt",
           "priceEGP": 57900,
-          "variant": "128GB تخزين",
+          "variant": "128GB",
           "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
@@ -15817,7 +15817,7 @@
         {
           "merchant": "B.TECH Egypt",
           "priceEGP": 58499,
-          "variant": "128GB تخزين",
+          "variant": "128GB",
           "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
@@ -15826,11 +15826,56 @@
         {
           "merchant": "Ehab Center Egypt",
           "priceEGP": 58500,
-          "variant": "128GB تخزين",
+          "variant": "128GB",
           "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 59900,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Sharaf DG Egypt",
+          "priceEGP": 61999,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 61999,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 62619,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 63299,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/a63fc0f1-38d0-4ede-80df-4c854a536b65",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         }
       ]
     },
@@ -16539,6 +16584,186 @@
           "priceEGP": 14409,
           "variant": "8GB RAM / 256GB",
           "source": "https://priceteq.com/eg/product/1921cd6b-c672-4f97-a565-7db3004d3471",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "id": "apple-iphone-16-128",
+      "brand": "Apple",
+      "name": "Apple iPhone 16 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2024",
+      "memory": "8GB RAM / 128GB",
+      "connectivity": "5G",
+      "source": "https://www.apple.com/eg/iphone/",
+      "sourceLabel": "Apple – الموقع الرسمي",
+      "priceEGP": 57500,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB، شامل الضريبة حسب المصدر. تحقق من السعر والمخزون والضمان قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 57500,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 66000,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 66999,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 69900,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 70999,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "apple-iphone-16e-128",
+      "brand": "Apple",
+      "name": "Apple iPhone 16e 128GB",
+      "category": "هواتف ذكية",
+      "release": "2024",
+      "memory": "128GB",
+      "connectivity": "5G",
+      "source": "https://www.apple.com/eg/iphone/",
+      "sourceLabel": "Apple – الموقع الرسمي",
+      "priceEGP": 44999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 128GB، شامل الضريبة حسب المصدر. تحقق من السعر والمخزون والضمان قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 44999,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/81b3e72a-bb22-4abf-8a1e-b33ba7b0b4fd",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "XPRS Egypt",
+          "priceEGP": 45500,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/81b3e72a-bb22-4abf-8a1e-b33ba7b0b4fd",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "Tradeline Egypt",
+          "priceEGP": 49500,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/81b3e72a-bb22-4abf-8a1e-b33ba7b0b4fd",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ]
+    },
+    {
+      "id": "apple-iphone-13-128",
+      "brand": "Apple",
+      "name": "Apple iPhone 13 128GB",
+      "category": "هواتف ذكية",
+      "release": "2021",
+      "memory": "128GB",
+      "connectivity": "5G",
+      "source": "https://www.apple.com/eg/iphone/",
+      "sourceLabel": "Apple – الموقع الرسمي",
+      "priceEGP": 32999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 128GB، شامل الضريبة حسب المصدر. تحقق من السعر والمخزون والضمان قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Ennap Egypt",
+          "priceEGP": 32999,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/3a32007e-8f64-479d-b30e-4cd0aa878335",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        },
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 36189,
+          "variant": "128GB",
+          "source": "https://priceteq.com/eg/product/3a32007e-8f64-479d-b30e-4cd0aa878335",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ]
+    },
+    {
+      "id": "apple-iphone-16-pro-max-256",
+      "brand": "Apple",
+      "name": "Apple iPhone 16 Pro Max 256GB",
+      "category": "هواتف ذكية",
+      "release": "2024",
+      "memory": "256GB",
+      "connectivity": "5G",
+      "source": "https://www.apple.com/eg/iphone/",
+      "sourceLabel": "Apple – الموقع الرسمي",
+      "priceEGP": 62999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 256GB، شامل الضريبة حسب المصدر. تحقق من السعر والمخزون والضمان قبل الشراء.",
+      "priceOffers": [
+        {
+          "merchant": "Smart Koshk Egypt",
+          "priceEGP": 62999,
+          "variant": "256GB",
+          "source": "https://priceteq.com/eg/product/2eb8e239-250c-4185-a4a5-b6b1629a68e5",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        },
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 89999,
+          "variant": "256GB",
+          "source": "https://priceteq.com/eg/product/2eb8e239-250c-4185-a4a5-b6b1629a68e5",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-04"
