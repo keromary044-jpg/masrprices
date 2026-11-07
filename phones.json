@@ -1446,11 +1446,26 @@
       "brand": "vivo",
       "name": "vivo V50 5G",
       "category": "هاتف ذكي",
-      "priceEGP": null,
-      "priceSource": "لم يتم التحقق من سعر مصري موثوق لهذه النسخة",
-      "priceStatus": "السعر غير متاح حاليًا",
-      "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
-      "priceOffers": []
+      "priceEGP": 30580,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceOffers": [
+        {
+          "merchant": "Ehab Center Egypt",
+          "priceEGP": 30580,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/ac61e176-1e11-42de-8e83-ea2d6e0172f5",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "memory": "12GB RAM / 256GB / 5G",
+      "merchant": "Ehab Center Egypt",
+      "source": "https://priceteq.com/eg/product/ac61e176-1e11-42de-8e83-ea2d6e0172f5"
     },
     {
       "id": "vivo-v40-pro-5g",
@@ -7131,19 +7146,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "8GB RAM / 128GB / 4G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.honor.com/eg/phones/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/4d438444-4851-4ba3-a262-029886952a01",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 15899,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 15899,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/4d438444-4851-4ba3-a262-029886952a01",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "honor-x8a",
@@ -7896,19 +7924,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "12GB RAM / 256GB / 5G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.vivo.com/eg/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/bc590141-5449-4f0b-a4cd-d90208271905",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 27829,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 27829,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/bc590141-5449-4f0b-a4cd-d90208271905",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "vivo-v27",
@@ -8543,19 +8584,32 @@
       "release": "غير محدد",
       "display": "راجع صفحة الشركة للنسخة المصرية",
       "processor": "غير متاح في سجل الموديل الحالي",
-      "memory": "تختلف حسب النسخة والسوق",
+      "memory": "4GB RAM / 64GB / 4G",
       "rearCamera": "راجع مواصفات النسخة الرسمية",
       "frontCamera": "راجع مواصفات النسخة الرسمية",
       "battery": "راجع مواصفات النسخة الرسمية",
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://www.infinixmobility.com/",
-      "sourceLabel": "صفحة الشركة الرسمية – يلزم التحقق من توافر الموديل في مصر",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل في قاعدة البيانات",
-      "priceStatus": "السعر والتوافر غير مؤكدين",
-      "priceOffers": []
+      "source": "https://priceteq.com/eg/product/16e29fe3-ba53-46d1-bc0b-ae114995203c",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 6049,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 6049,
+          "variant": "4GB RAM / 64GB / 4G",
+          "source": "https://priceteq.com/eg/product/16e29fe3-ba53-46d1-bc0b-ae114995203c",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "tecno-camon-40-premier",
@@ -15319,24 +15373,26 @@
       "brand": "vivo",
       "name": "vivo Y31d 8GB / 256GB",
       "category": "هواتف ذكية",
-      "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
-      "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
-      "priceEGP": 16600,
-      "priceSource": "Kolasaar – مقارنة متاجر مصر",
-      "priceCheckedAt": "2026-10-23",
-      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
-      "memory": "8GB RAM / 256GB",
-      "merchant": "Raneen",
+      "source": "https://priceteq.com/eg/product/63b8feaa-1944-403d-a44e-83a12a31dfc2",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 15999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "memory": "8GB RAM / 256GB / 4G",
+      "merchant": "Hyper One Egypt",
       "priceOffers": [
         {
-          "merchant": "Raneen",
-          "priceEGP": 16600,
-          "variant": "8GB RAM / 256GB",
-          "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
-          "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
-          "checkedAt": "2026-10-23"
+          "merchant": "Hyper One Egypt",
+          "priceEGP": 15999,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/63b8feaa-1944-403d-a44e-83a12a31dfc2",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
         }
-      ]
+      ],
+      "priceObservedAt": "2026-11-07"
     },
     {
       "id": "vivoy5008gb256gb",
@@ -15966,45 +16022,27 @@
       "name": "Infinix Smart 20 4GB / 64GB",
       "category": "اقتصادي",
       "release": "2026",
-      "memory": "4GB RAM / 64GB",
+      "memory": "4GB RAM / 64GB / 4G",
       "connectivity": "4G",
-      "source": "https://priceteq.com/eg/product/0bd2540b-67a7-4801-a2a1-8c45f9605491",
+      "source": "https://priceteq.com/eg/phones?brand=Infinix",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 8096,
+      "priceEGP": 7999,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-07",
-      "priceStatus": "أقل سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. السعر متغير ويجب التأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
       "priceOffers": [
         {
-          "merchant": "B.TECH Egypt",
-          "priceEGP": 8096,
-          "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/0bd2540b-67a7-4801-a2a1-8c45f9605491",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
-        },
-        {
           "merchant": "Raneen Egypt",
-          "priceEGP": 8199,
+          "priceEGP": 7999,
           "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/0bd2540b-67a7-4801-a2a1-8c45f9605491",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
-        },
-        {
-          "merchant": "2B Egypt",
-          "priceEGP": 8399,
-          "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/0bd2540b-67a7-4801-a2a1-8c45f9605491",
+          "source": "https://priceteq.com/eg/phones?brand=Infinix",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
         }
       ],
-      "merchant": "B.TECH Egypt"
+      "merchant": "Raneen Egypt"
     },
     {
       "id": "honor-play-20a-128",
@@ -16152,19 +16190,19 @@
       "release": "2026",
       "memory": "8GB RAM / 256GB / 4G",
       "connectivity": "4G",
-      "source": "https://priceteq.com/eg/product/344488f8-8fe5-4f5b-bb5b-0bd67153c2d7",
+      "source": "https://priceteq.com/eg/phones?brand=Infinix",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 13799,
+      "priceEGP": 13999,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تحقق من السعر والتوفر لدى المتجر.",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
       "priceOffers": [
         {
           "merchant": "Raneen Egypt",
-          "priceEGP": 13799,
+          "priceEGP": 13999,
           "variant": "8GB RAM / 256GB / 4G",
-          "source": "https://priceteq.com/eg/product/344488f8-8fe5-4f5b-bb5b-0bd67153c2d7",
+          "source": "https://priceteq.com/eg/phones?brand=Infinix",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
@@ -17429,12 +17467,21 @@
       "connectivity": "4G",
       "source": "https://priceteq.com/eg/product/2f18d277-62e5-409b-bae5-1341e7a1257b",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 8555,
+      "priceEGP": 8299,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-05",
-      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تحقق من السعر والتوفر لدى المتجر.",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
       "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 8299,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://priceteq.com/eg/product/2f18d277-62e5-409b-bae5-1341e7a1257b",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
         {
           "merchant": "Etisal Stores Egypt",
           "priceEGP": 8555,
@@ -17442,16 +17489,7 @@
           "source": "https://priceteq.com/eg/product/2f18d277-62e5-409b-bae5-1341e7a1257b",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-05"
-        },
-        {
-          "merchant": "Etisalat Egypt",
-          "priceEGP": 8649,
-          "variant": "4GB RAM / 128GB",
-          "source": "https://priceteq.com/eg/product/2f18d277-62e5-409b-bae5-1341e7a1257b",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-05"
+          "observedAt": "2026-11-07"
         },
         {
           "merchant": "Raneen Egypt",
@@ -17460,28 +17498,10 @@
           "source": "https://priceteq.com/eg/product/2f18d277-62e5-409b-bae5-1341e7a1257b",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-05"
-        },
-        {
-          "merchant": "Elghazawy Egypt",
-          "priceEGP": 8790,
-          "variant": "4GB RAM / 128GB",
-          "source": "https://priceteq.com/eg/product/2f18d277-62e5-409b-bae5-1341e7a1257b",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-05"
-        },
-        {
-          "merchant": "Carrefour Egypt",
-          "priceEGP": 8799,
-          "variant": "4GB RAM / 128GB",
-          "source": "https://priceteq.com/eg/product/2f18d277-62e5-409b-bae5-1341e7a1257b",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-05"
+          "observedAt": "2026-11-07"
         }
       ],
-      "merchant": "Etisal Stores Egypt"
+      "merchant": "B.TECH Egypt"
     },
     {
       "id": "honor-play-20a-4-64",
@@ -17606,26 +17626,27 @@
       "name": "HONOR X6a 4GB / 128GB",
       "category": "اقتصادي ومتوسط",
       "release": "2025",
-      "memory": "4GB RAM / 128GB",
+      "memory": "4GB RAM / 128GB / 4G",
       "connectivity": "4G",
       "source": "https://priceteq.com/eg/product/81e773c5-ae50-4106-a49a-5810d431c9e6",
-      "sourceLabel": "PriceTeq – قائمة أسعار المتاجر المصرية",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceEGP": 7699,
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-04",
-      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. يجب التأكد من السعر والمخزون قبل الشراء.",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
           "priceEGP": 7699,
-          "variant": "4GB RAM / 128GB",
+          "variant": "4GB RAM / 128GB / 4G",
           "source": "https://priceteq.com/eg/product/81e773c5-ae50-4106-a49a-5810d431c9e6",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-04"
+          "observedAt": "2026-11-07"
         }
-      ]
+      ],
+      "merchant": "Cairo Drop Egypt"
     },
     {
       "id": "honor-x9b-12-256",
@@ -18095,7 +18116,7 @@
       "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceCheckedAt": "2026-11-07",
       "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
       "priceOffers": [
         {
           "merchant": "Etisal Stores Egypt",
@@ -18109,15 +18130,6 @@
         {
           "merchant": "Raneen Egypt",
           "priceEGP": 14619,
-          "variant": "8GB RAM / 256GB / 4G",
-          "source": "https://priceteq.com/eg/product/264f9a56-d8db-4630-9838-0e9e32bfb125",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07"
-        },
-        {
-          "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 14800,
           "variant": "8GB RAM / 256GB / 4G",
           "source": "https://priceteq.com/eg/product/264f9a56-d8db-4630-9838-0e9e32bfb125",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
@@ -19892,6 +19904,1339 @@
       ],
       "merchant": "Raneen Egypt",
       "source": "https://priceteq.com/eg/product/2652a42e-0c67-4610-aa20-b9be47f9396b",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-hot-70-4-128",
+      "brand": "Infinix",
+      "name": "Infinix Hot 70 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 9999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 9999,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/fa4bb0de-6d9b-4cc5-82da-84724bd60994",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 10699,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/fa4bb0de-6d9b-4cc5-82da-84724bd60994",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/fa4bb0de-6d9b-4cc5-82da-84724bd60994",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-hot-70-6-128",
+      "brand": "Infinix",
+      "name": "Infinix Hot 70 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 12999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 12999,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/phones?brand=Infinix",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Etisal Stores Egypt",
+      "source": "https://priceteq.com/eg/phones?brand=Infinix",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-note-edge-8-256",
+      "brand": "Infinix",
+      "name": "Infinix Note Edge 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 14499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 14499,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/25f7c17d-93b3-4b36-bc2d-fb1f44152824",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/25f7c17d-93b3-4b36-bc2d-fb1f44152824",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-note-60-8-256",
+      "brand": "Infinix",
+      "name": "Infinix Note 60 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 18500,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 18500,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/48dc1c7a-9aa1-43f1-934d-fd41543f78ac",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/48dc1c7a-9aa1-43f1-934d-fd41543f78ac",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-note-60-pro-12-256",
+      "brand": "Infinix",
+      "name": "Infinix Note 60 Pro 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 25999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 25999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/71d2da71-bb0c-4448-9201-b1c115716fb1",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Vodafone Egypt",
+      "source": "https://priceteq.com/eg/product/71d2da71-bb0c-4448-9201-b1c115716fb1",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-gt30-pro-12-512",
+      "brand": "Infinix",
+      "name": "Infinix GT 30 Pro 5G 12GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 25799,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 25799,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/ebf91b70-90a6-4687-8fc1-fe5dca11250a",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "2B Egypt",
+      "source": "https://priceteq.com/eg/product/ebf91b70-90a6-4687-8fc1-fe5dca11250a",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-smart-10-4-128",
+      "brand": "Infinix",
+      "name": "Infinix Smart 10 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 9499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 9499,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/9522af9c-2e1e-4592-8445-2704b244d392",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/9522af9c-2e1e-4592-8445-2704b244d392",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-note-50s-8-256",
+      "brand": "Infinix",
+      "name": "Infinix Note 50S 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 18999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 18999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/4966eeeb-20cd-4e5d-9937-9d775ac6d058",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/4966eeeb-20cd-4e5d-9937-9d775ac6d058",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-smart-10-3-64",
+      "brand": "Infinix",
+      "name": "Infinix Smart 10 4G 3GB / 64GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "3GB RAM / 64GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 8199,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 3GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 8199,
+          "variant": "3GB RAM / 64GB / 4G",
+          "source": "https://priceteq.com/eg/product/6116f759-53d6-450b-9790-8ca9dc56fdb8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/6116f759-53d6-450b-9790-8ca9dc56fdb8",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-hot-60i-6-128",
+      "brand": "Infinix",
+      "name": "Infinix Hot 60i 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 10900,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 10900,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/eb20f3e8-521f-4000-83b0-912076a2bd5c",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/eb20f3e8-521f-4000-83b0-912076a2bd5c",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-hot-60-6-128",
+      "brand": "Infinix",
+      "name": "Infinix Hot 60 5G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 11499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 11499,
+          "variant": "6GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/32495762-e447-4574-be4b-b8c677097250",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/32495762-e447-4574-be4b-b8c677097250",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-hot-60-pro-8-256",
+      "brand": "Infinix",
+      "name": "Infinix Hot 60 Pro 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 14400,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 14400,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/38647309-46f5-44bf-97f9-65f7a9e505e8",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/38647309-46f5-44bf-97f9-65f7a9e505e8",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-hot-60-pro-plus-8-256",
+      "brand": "Infinix",
+      "name": "Infinix Hot 60 Pro+ 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 18800,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 18800,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/4ee5e770-2c5b-461e-9c90-004dc8ee5d10",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/4ee5e770-2c5b-461e-9c90-004dc8ee5d10",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-hot-30i-8-128",
+      "brand": "Infinix",
+      "name": "Infinix Hot 30i 4G 8GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 6929,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-03",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-03؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 6929,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/1014be4b-255e-4008-bc95-196d2bfae8ee",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-03"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/1014be4b-255e-4008-bc95-196d2bfae8ee",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "infinix-smart-10-4-256",
+      "brand": "Infinix",
+      "name": "Infinix Smart 10 4G 4GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 11299,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 11299,
+          "variant": "4GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/36c94519-3fef-4487-987e-588f3e92cdff",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/36c94519-3fef-4487-987e-588f3e92cdff",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-y11d-4-128",
+      "brand": "vivo",
+      "name": "vivo Y11D 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 10099,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 10099,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/b08d309d-cf28-403a-b022-755a8fbb73ba",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/b08d309d-cf28-403a-b022-755a8fbb73ba",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-y11d-6-128",
+      "brand": "vivo",
+      "name": "vivo Y11D 4G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 11599,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 11599,
+          "variant": "6GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/4750496c-63e7-4130-9cb6-1b09b783ce35",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/4750496c-63e7-4130-9cb6-1b09b783ce35",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-y05-4-64",
+      "brand": "vivo",
+      "name": "vivo Y05 4G 4GB / 64GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 64GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 8399,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Etisal Stores Egypt",
+          "priceEGP": 8399,
+          "variant": "4GB RAM / 64GB / 4G",
+          "source": "https://priceteq.com/eg/product/9cc80478-9967-474e-b0c6-48a75d7d9fa6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Etisal Stores Egypt",
+      "source": "https://priceteq.com/eg/product/9cc80478-9967-474e-b0c6-48a75d7d9fa6",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-y05-4-128",
+      "brand": "vivo",
+      "name": "vivo Y05 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 9999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 9999,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/a94bf4ff-416a-450a-87a8-f39957e4e620",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Vodafone Egypt",
+      "source": "https://priceteq.com/eg/product/a94bf4ff-416a-450a-87a8-f39957e4e620",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-v70-fe-12-256",
+      "brand": "vivo",
+      "name": "vivo V70 FE 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 26399,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Carrefour Egypt",
+          "priceEGP": 26399,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/8a4a75a2-90cd-4160-b949-78ce196b0d85",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "merchant": "Carrefour Egypt",
+      "source": "https://priceteq.com/eg/product/8a4a75a2-90cd-4160-b949-78ce196b0d85",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-v70-fe-8-256",
+      "brand": "vivo",
+      "name": "vivo V70 FE 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 24999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 24999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/9d2c86ea-e872-4a90-95b7-6d4b7fea17d2",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/9d2c86ea-e872-4a90-95b7-6d4b7fea17d2",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-v70-8-256",
+      "brand": "vivo",
+      "name": "vivo V70 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 32999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 32999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/39e09981-d055-4460-bf92-9d153eaa92f5",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/39e09981-d055-4460-bf92-9d153eaa92f5",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-v70-12-256",
+      "brand": "vivo",
+      "name": "vivo V70 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 35499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 35499,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/ed87290f-8d52-47bd-9737-67c82c6045ae",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Vodafone Egypt",
+      "source": "https://priceteq.com/eg/product/ed87290f-8d52-47bd-9737-67c82c6045ae",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-v80-8-256",
+      "brand": "vivo",
+      "name": "vivo V80 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 41999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "XPRS Egypt",
+          "priceEGP": 41999,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/cf843403-c2a9-4e1e-a4d1-f740c0de70b3",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "XPRS Egypt",
+      "source": "https://priceteq.com/eg/product/cf843403-c2a9-4e1e-a4d1-f740c0de70b3",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-v80-8-512",
+      "brand": "vivo",
+      "name": "vivo V80 5G 8GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 49999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "XPRS Egypt",
+          "priceEGP": 49999,
+          "variant": "8GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/715ef136-4782-4692-bf7c-b322fb2a94d7",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "XPRS Egypt",
+      "source": "https://priceteq.com/eg/product/715ef136-4782-4692-bf7c-b322fb2a94d7",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-v29e-8-256",
+      "brand": "vivo",
+      "name": "vivo V29e 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB",
+      "connectivity": "4G",
+      "priceEGP": 16059,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Cairo Drop Egypt",
+          "priceEGP": 16059,
+          "variant": "8GB RAM / 256GB",
+          "source": "https://priceteq.com/eg/product/96175878-305c-4e67-bc25-3b9ec5d035c6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/product/96175878-305c-4e67-bc25-3b9ec5d035c6",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-x300-ultra-16-512",
+      "brand": "vivo",
+      "name": "vivo X300 Ultra 5G 16GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "16GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 94999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 16GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 94999,
+          "variant": "16GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/d5b3d422-37e1-472f-9036-32b404a67176",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 94999,
+          "variant": "16GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/d5b3d422-37e1-472f-9036-32b404a67176",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 94999,
+          "variant": "16GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/d5b3d422-37e1-472f-9036-32b404a67176",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/d5b3d422-37e1-472f-9036-32b404a67176",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-x300-fe-12-256",
+      "brand": "vivo",
+      "name": "vivo X300 FE 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 52999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 52999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/2bd705ab-06c3-427d-b6c3-33f4d7051c26",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 52999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/2bd705ab-06c3-427d-b6c3-33f4d7051c26",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/2bd705ab-06c3-427d-b6c3-33f4d7051c26",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-x300-pro-16-512",
+      "brand": "vivo",
+      "name": "vivo X300 Pro 5G 16GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "16GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 69999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 16GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 69999,
+          "variant": "16GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/dfc9f082-1459-4fbf-8aaa-bc6f235d3481",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Etisalat Egypt",
+          "priceEGP": 69999,
+          "variant": "16GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/dfc9f082-1459-4fbf-8aaa-bc6f235d3481",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/dfc9f082-1459-4fbf-8aaa-bc6f235d3481",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "vivo-y05e-4-64",
+      "brand": "vivo",
+      "name": "vivo Y05E 4G 4GB / 64GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 64GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 7599,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Carrefour Egypt",
+          "priceEGP": 7599,
+          "variant": "4GB RAM / 64GB / 4G",
+          "source": "https://priceteq.com/eg/product/3408b644-7fa0-4aaf-91db-d4e344ef4802",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Carrefour Egypt",
+      "source": "https://priceteq.com/eg/product/3408b644-7fa0-4aaf-91db-d4e344ef4802",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x7e-plus-6-128",
+      "brand": "HONOR",
+      "name": "HONOR X7e Plus 5G 6GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 128GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 15300,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-01",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-01؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 15300,
+          "variant": "6GB RAM / 128GB / 5G",
+          "source": "https://priceteq.com/eg/product/f2ec4df9-d334-44ce-83a0-a93dcada4a3d",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-01"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/f2ec4df9-d334-44ce-83a0-a93dcada4a3d",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x9e-pro-8-256",
+      "brand": "HONOR",
+      "name": "HONOR X9e Pro 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 26669,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 26669,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/d2dfa37d-2eca-4472-8c94-0edd0a53fdcb",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/d2dfa37d-2eca-4472-8c94-0edd0a53fdcb",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-600-lite-8-256",
+      "brand": "HONOR",
+      "name": "HONOR 600 Lite 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 21899,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Technology Valley Egypt",
+          "priceEGP": 21899,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/336a77ec-4047-4b90-b0bb-bb5a60d40b53",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-06"
+        }
+      ],
+      "merchant": "Technology Valley Egypt",
+      "source": "https://priceteq.com/eg/product/336a77ec-4047-4b90-b0bb-bb5a60d40b53",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x6e-4-128",
+      "brand": "HONOR",
+      "name": "HONOR X6E 4G 4GB / 128GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 128GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 10290,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 128GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 10290,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/3fc30437-8ad0-45ab-8855-7b2e06a4fd3d",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/3fc30437-8ad0-45ab-8855-7b2e06a4fd3d",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x7e-plus-8-256",
+      "brand": "HONOR",
+      "name": "HONOR X7e Plus 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 18099,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 18099,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/98414902-e012-4288-8f2c-d50e105f244e",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/98414902-e012-4288-8f2c-d50e105f244e",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-600-pro-12-512",
+      "brand": "HONOR",
+      "name": "HONOR 600 Pro 5G 12GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 51099,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-05",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 51099,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/15788fd4-70a2-4fe3-a54e-f860c5f62e35",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-05"
+        }
+      ],
+      "merchant": "B.TECH Egypt",
+      "source": "https://priceteq.com/eg/product/15788fd4-70a2-4fe3-a54e-f860c5f62e35",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-magic-8-pro-12-512",
+      "brand": "HONOR",
+      "name": "HONOR Magic 8 Pro 5G 12GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 512GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 67900,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 512GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 67900,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://priceteq.com/eg/product/34d606af-860f-4283-bc2b-b7afe4361f4c",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Elghazawy Egypt",
+      "source": "https://priceteq.com/eg/product/34d606af-860f-4283-bc2b-b7afe4361f4c",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x8d-8-512",
+      "brand": "HONOR",
+      "name": "HONOR X8d 4G 8GB / 512GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 512GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 18999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 512GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 18999,
+          "variant": "8GB RAM / 512GB / 4G",
+          "source": "https://priceteq.com/eg/product/25d3f2a0-7cf3-49ce-ac21-1575435bdd98",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/25d3f2a0-7cf3-49ce-ac21-1575435bdd98",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x8d-8-256",
+      "brand": "HONOR",
+      "name": "HONOR X8d 4G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 16900,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 16900,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/e61a7f3f-d54b-4c63-9e86-106110fe7908",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-04"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/e61a7f3f-d54b-4c63-9e86-106110fe7908",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x9d-8-256",
+      "brand": "HONOR",
+      "name": "HONOR X9d 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 22499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-10-31",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-10-31؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 22499,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/09782746-3c73-4f28-9c4d-b92041a28de6",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-10-31"
+        }
+      ],
+      "merchant": "Raya Shop Egypt",
+      "source": "https://priceteq.com/eg/product/09782746-3c73-4f28-9c4d-b92041a28de6",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x7d-5g-8-256",
+      "brand": "HONOR",
+      "name": "HONOR X7d 5G 8GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "8GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 16200,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-02",
+      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-02؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 16200,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/a9a1bfca-1d7a-4b59-9825-6383043f4a57",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-02"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/a9a1bfca-1d7a-4b59-9825-6383043f4a57",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x5c-4-64",
+      "brand": "HONOR",
+      "name": "HONOR X5c 4G 4GB / 64GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "4GB RAM / 64GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 7999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 4GB RAM / 64GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "More Shopping Egypt",
+          "priceEGP": 7999,
+          "variant": "4GB RAM / 64GB / 4G",
+          "source": "https://priceteq.com/eg/product/d1816bdd-6b5c-4194-be99-1541dae4830f",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "More Shopping Egypt",
+      "source": "https://priceteq.com/eg/product/d1816bdd-6b5c-4194-be99-1541dae4830f",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-x6c-6-256",
+      "brand": "HONOR",
+      "name": "HONOR X6c 4G 6GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "6GB RAM / 256GB / 4G",
+      "connectivity": "4G",
+      "priceEGP": 14000,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 6GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 14000,
+          "variant": "6GB RAM / 256GB / 4G",
+          "source": "https://priceteq.com/eg/product/9613f8e9-edf8-4ced-ab5b-88ee90ce4150",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "El Avocato Mobile Egypt",
+      "source": "https://priceteq.com/eg/product/9613f8e9-edf8-4ced-ab5b-88ee90ce4150",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-400-12-256",
+      "brand": "HONOR",
+      "name": "HONOR 400 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 28000,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Ehab Center Egypt",
+          "priceEGP": 28000,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/d89107e3-ad59-4b3b-85ea-4a6e1bcf544a",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Ehab Center Egypt",
+      "source": "https://priceteq.com/eg/product/d89107e3-ad59-4b3b-85ea-4a6e1bcf544a",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-600-12-256",
+      "brand": "HONOR",
+      "name": "HONOR 600 5G 12GB / 256GB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "12GB RAM / 256GB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 30999,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 12GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 30999,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://priceteq.com/eg/product/aeeaa50f-289d-44cb-b4b4-d85addc4a80a",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/aeeaa50f-289d-44cb-b4b4-d85addc4a80a",
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+    },
+    {
+      "id": "honor-magic-8-pro-16-1tb",
+      "brand": "HONOR",
+      "name": "HONOR Magic 8 Pro 5G 16GB / 1TB",
+      "category": "هواتف ذكية",
+      "release": "2026",
+      "memory": "16GB RAM / 1TB / 5G",
+      "connectivity": "5G",
+      "priceEGP": 77499,
+      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceCheckedAt": "2026-11-07",
+      "priceObservedAt": "2026-11-07",
+      "priceStatus": "سعر متجر مرصود لنسخة 16GB RAM / 1TB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ تأكد من السعر والتوفر والضمان لدى المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 77499,
+          "variant": "16GB RAM / 1TB / 5G",
+          "source": "https://priceteq.com/eg/product/227ec6f8-5284-4436-9d10-5c89ad104599",
+          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+          "checkedAt": "2026-11-07",
+          "observedAt": "2026-11-07"
+        }
+      ],
+      "merchant": "2B Egypt",
+      "source": "https://priceteq.com/eg/product/227ec6f8-5284-4436-9d10-5c89ad104599",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
