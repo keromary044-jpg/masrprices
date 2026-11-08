@@ -3051,11 +3051,12 @@
       "name": "BMW 2 Series",
       "brand": "BMW",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2650000,
+      "modelYear": 2027,
+      "source": "https://ellithy.com/en/new-vehicles/410",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر BMW 218 M Sport موديل 2027 وفق سعر الوكيل المنشور لدى الليثي.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-255",
@@ -3299,11 +3300,12 @@
       "name": "Subaru XV",
       "brand": "Subaru",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2495000,
+      "modelYear": 2026,
+      "source": "https://eg.hatla2ee.com/en/new-car/subaru/XV-Crosstrek",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الرسمي لسيارة Subaru XV Crosstrek 2026 في مصر، فئة واحدة.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-276",
@@ -3321,11 +3323,12 @@
       "name": "Subaru Outback",
       "brand": "Subaru",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2237400,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/subaru/outback/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة Subaru Outback 2.5i S Touring EyeSight AWD موديل 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-278",
@@ -4547,8 +4550,13 @@
       "name": "Jetour X70 – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1240000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/en/new-cars/jetour-x70___facelift",
+      "priceType": "new_official_trim",
+      "modelYear": 2027,
+      "spec": "السعر الأعلى المنشور ضمن نطاق فئات Jetour X70 facelift 2027 الجديدة في مصر.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0097",
@@ -4568,8 +4576,13 @@
       "name": "Jetour Dashing – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1480000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/en/new-cars/jetour-dashing/for-sale/eb11007c4bbb",
+      "priceType": "new_official_trim",
+      "modelYear": 2027,
+      "spec": "السعر الأعلى المنشور ضمن نطاق فئات Jetour Dashing 2027 الجديدة في مصر.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0099",
