@@ -4168,8 +4168,13 @@
       "name": "Honda Civic – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1350000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://prices.sayaratelyoum.com/articles/mg-gt-2026-prices-egypt",
+      "priceType": "new_reported_starting_price",
+      "modelYear": 2026,
+      "checkedAt": "2026-11-08",
+      "spec": "سعر البداية المنشور لهوندا Civic 2026 في مقارنة سيارات اليوم: 1,350,000 جنيه؛ لم يتوفر تفصيل مستقل لفئاتها في المصدر."
     },
     {
       "id": "cars-new-0062",
