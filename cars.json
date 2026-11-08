@@ -2876,11 +2876,12 @@
       "name": "Seres 3",
       "brand": "Seres",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1720000,
+      "modelYear": 2026,
+      "source": "https://dragonwatt.com/eg/ar/alama/seres",
+      "checkedAt": "2026-11-08",
+      "spec": "تقدير محلي لسيارة Seres 3 الكهربائية في مصر، وليس سعر وكيل مؤكد؛ المصدر يصرّح بأن السعر تقديري.",
+      "priceType": "estimated_local_market_price"
     },
     {
       "id": "car-239",
@@ -2933,11 +2934,12 @@
       "name": "GAC GS8",
       "brand": "GAC",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1800000,
+      "modelYear": 2026,
+      "source": "https://eg-car.com/new-car/gac-gs8-2025/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة GAC GS8 Pro المنشور في مصر؛ المصدر نفسه يعرض فئة Elite بسعر 2,500,000 جنيه، وآخر تحديث نوفمبر 2026.",
+      "priceType": "new_reported_trim_price"
     },
     {
       "id": "car-244",
@@ -4182,16 +4184,24 @@
       "name": "Skoda Fabia – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 283000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/used-car-prices/skoda",
+      "priceType": "used_market_median",
+      "spec": "السعر النموذجي المنشور لسيارات Skoda Fabia المستعملة في مصر (موديلات 1988–2009)، وليس سعر فئة جديدة.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0056",
       "name": "Skoda Fabia – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 283000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/used-car-prices/skoda",
+      "priceType": "used_market_median",
+      "spec": "مرجع سوقي واحد لموديل Skoda Fabia المستعمل؛ السجل لا يحدد فئة حقيقية، لذلك لا يمثل فرق سعر فئة أساسية ومتوسطة.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0057",
@@ -4224,16 +4234,26 @@
       "name": "Volkswagen Passat – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 2550000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://hatgebk.com/en/cars/volkswagen/passat",
+      "priceType": "new_single_listing",
+      "modelYear": 2026,
+      "spec": "سعر إعلان سيارة Volkswagen Passat 2026 جديدة صفر كيلومتر في أسيوط؛ إعلان واحد، والفئة غير محددة.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0060",
       "name": "Volkswagen Passat – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 2550000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://hatgebk.com/en/cars/volkswagen/passat",
+      "priceType": "new_single_listing",
+      "modelYear": 2026,
+      "spec": "مرجع سعر إعلان واحد لسيارة Volkswagen Passat 2026 جديدة صفر كيلومتر؛ الفئة غير محددة ولا يثبت فرق سعر الفئة المتوسطة.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0061",
@@ -4366,16 +4386,24 @@
       "name": "Toyota Rush – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1400000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/used-car-prices/toyota/rush",
+      "priceType": "used_market_median",
+      "spec": "السعر المطلوب النموذجي لسيارات Toyota Rush المستعملة في مصر من 5 إعلانات موديلات 2022–2023؛ ليس سعر فئة جديدة.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0072",
       "name": "Toyota Rush – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1400000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/used-car-prices/toyota/rush",
+      "priceType": "used_market_median",
+      "spec": "مرجع سوقي واحد لموديل Toyota Rush المستعمل؛ السجل لا يحدد فئة حقيقية، لذلك لا يمثل فرق سعر الفئة الأساسية والمتوسطة.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0073",
