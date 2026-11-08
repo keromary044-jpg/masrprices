@@ -3301,11 +3301,12 @@
       "name": "Subaru Impreza",
       "brand": "Subaru",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 650000,
+      "modelYear": 2015,
+      "source": "https://eg.hatla2ee.com/en/car/subaru/impreza/7319269",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Subaru Impreza 2015 مستعملة في 6 أكتوبر؛ 406 ألف كم، وإعلان واحد محدد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-275",
