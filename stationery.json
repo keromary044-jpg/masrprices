@@ -129,11 +129,11 @@
       "category": "أقلام",
       "brand": "BIC",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 74,
+      "merchant": "RS Egypt",
+      "source": "https://eg.rsdelivers.com/brands/bic",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "سعر الوحدة 74 جنيهًا ضمن عبوة 50 قلمًا، قبل الضريبة. تحقق من تفاصيل العبوة والتوفر قبل الشراء."
     },
     {
       "id": "stationery-قلم-جاف-أسود-bic-قطعة",
@@ -141,11 +141,11 @@
       "category": "أقلام",
       "brand": "BIC",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 74,
+      "merchant": "RS Egypt",
+      "source": "https://eg.rsdelivers.com/brands/bic",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "سعر الوحدة 74 جنيهًا ضمن عبوة 50 قلمًا، قبل الضريبة. تحقق من تفاصيل العبوة والتوفر قبل الشراء."
     },
     {
       "id": "stationery-قلم-جاف-أحمر-bic-قطعة",
@@ -345,11 +345,11 @@
       "category": "أدوات هندسية",
       "brand": "Maped",
       "unit": "طقم",
-      "price": 99,
-      "merchant": "Moubarak Bookstore",
-      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "price": 90,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-geometry-tools",
       "checkedAt": null,
-      "details": "السعر يخص طقم Maped Geometry Set من 8 قطع. السعر ظهر في صفحة المتجر عند الفهرسة؛ يُنصح بالتحقق من السعر والتوفر قبل الشراء."
+      "details": "السعر يخص طقم Maped Plastic Geometry Tool Set من 8 قطع ET519118. تحقق من تفاصيل العبوة والتوفر قبل الشراء."
     },
     {
       "id": "stationery-آلة-حاسبة-علمية-casio-قطعة",
@@ -573,11 +573,11 @@
       "category": "ورق وطباعة",
       "brand": "متعدد",
       "unit": "عبوة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 85,
+      "merchant": "Deif Stationery",
+      "source": "https://deifstationery.com/collections/خامات-كرافت/products/عبوة-ورق-كانسون-مقاس-a4-ألوان-متنوعة-27-ورقة",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص عبوة Canson A4 ملون، 27 ورقة. تحقق من تفاصيل العبوة والتوفر قبل الشراء."
     },
     {
       "id": "stationery-ورق-فوم-ملون-متعدد-عبوة",
@@ -593,15 +593,15 @@
     },
     {
       "id": "stationery-شنطة-أدوات-مدرسية-متعدد-قطعة",
-      "name": "شنطة أدوات مدرسية",
-      "category": "حقائب مدرسية",
+      "name": "حقيبة أدوات رسم وتلوين Unicorn عدد 67 قطعة",
+      "category": "أدوات رسم وتلوين",
       "brand": "متعدد",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 300,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص حقيبة أدوات رسم وتلوين Unicorn بتشكيلة 67 قطعة، وليست حقيبة ظهر. تحقق من تفاصيل العبوة والتوفر قبل الشراء."
     },
     {
       "id": "catalog-stationery-0001",
@@ -9997,6 +9997,116 @@
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
       "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-deif-canson-b4-12",
+      "name": "اسكتش رسم Canson ورق ملون B4 وزن 150 جم عدد 12 ورقة",
+      "brand": "Canson",
+      "category": "رسم وتخطيط",
+      "unit": "قطعة",
+      "price": 156,
+      "merchant": "Deif Stationery",
+      "source": "https://deifstationery.com/collections/اسكتشات-رسم/products/canson-sketchbook-12-sheets-150-gsm-multi-color",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-arda-ruler-20",
+      "name": "مسطرة Arda Pick It Up طول 20 سم",
+      "brand": "Arda",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 39.9,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-rulers-geometry-121",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-arda-ruler-30",
+      "name": "مسطرة Arda Pick It Up طول 30 سم",
+      "brand": "Arda",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 45.6,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-rulers-geometry-121",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-arda-protractor-360",
+      "name": "منقلة Arda Tecnoschool 360 درجة مقاس 12 سم",
+      "brand": "Arda",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 112.58,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-rulers-geometry-121",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-plastic-ruler-20-gbh",
+      "name": "مسطرة بلاستيك 20 سم",
+      "brand": "متعدد",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 8.55,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-rulers-geometry-121",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-maped-study-compass-bayan",
+      "name": "برجل Maped Study Compass بألوان متنوعة",
+      "brand": "Maped",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 130,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/measuring-drawing",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-yplus-geometry-set-8",
+      "name": "طقم أدوات هندسية Y Plus بلاستيك 8 قطع MS190200",
+      "brand": "Y Plus",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 140,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/engineering-tools",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-canson-triangle-30cm",
+      "name": "مثلث هندسي Canson مقاس 30 سم بزوايا 30 و60",
+      "brand": "Canson",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 170,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/engineering-tools",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-deli-geometry-set-8-metal",
+      "name": "طقم أدوات هندسية Deli عدد 8 قطع بعلبة معدنية EG30505",
+      "brand": "Deli",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 80,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/engineering-tools",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-hamada-geometry-set-6",
+      "name": "طقم أدوات هندسية Hamada عدد 6 قطع",
+      "brand": "Hamada",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 37,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/engineering-tools",
+      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
     }
   ]
 }
