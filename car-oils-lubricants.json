@@ -126,208 +126,323 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "منظف دورة الوقود",
-      "brand": "ماركات متعددة",
+      "name": "Shell Helix Ultra 5W-40 Motor Oil - 5 Liter",
+      "brand": "Shell",
       "category": "عناية",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3100,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/shell-ultra-5w40-5l-10000k/p/645635?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك تخليقي – 0W-20",
-      "brand": "ماركات متعددة",
+      "name": "Shell Helix HX3 Red Motor Oil - 4 Liters - 20W-50",
+      "brand": "Shell",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 899,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/shell-hx3-20w-50-4l/p/664755?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك تخليقي – 5W-30",
-      "brand": "ماركات متعددة",
+      "name": "Total Quartz 5000 20W-50 Motor Oil - 4 Liter",
+      "brand": "Total",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 999,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/total-quartz-20w50-4l-5000k/p/645631?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك تخليقي – 5W-40",
-      "brand": "ماركات متعددة",
+      "name": "Mobil 1 x 1 5W-30 Motor Oil - 4 Liter",
+      "brand": "Mobil",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2750,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/mobil1-5w30-4l-10000k/p/645624?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك تخليقي – 10W-40",
-      "brand": "ماركات متعددة",
+      "name": "Shell Helix Ultra 5W-40 Motor Oil - 4 Liter",
+      "brand": "Shell",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2650,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/shell-ultra-5w40-4l-10000k/p/645627?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك تخليقي – 15W-40",
-      "brand": "ماركات متعددة",
+      "name": "Shell Helix HX5 15W-50 Motor Oil - 4 Liter",
+      "brand": "Shell",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1299,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/shell-hx5-15w50-4l-5000k/p/645628?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك نصف تخليقي – 0W-20",
-      "brand": "ماركات متعددة",
+      "name": "Max Well Green Coolant Radiator Fluid - 5 liters",
+      "brand": "Max Well",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 199,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/max-well-coolant-green-5l/p/635489?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك نصف تخليقي – 5W-30",
-      "brand": "ماركات متعددة",
+      "name": "Superdrive Engine Coolant for Car Radiator - 4 Liter + Engine Coolant - 1 Liter - Green",
+      "brand": "Superdrive",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 285,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/superdrive-coolant-4l-1-green/p/637437?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك نصف تخليقي – 5W-40",
-      "brand": "ماركات متعددة",
+      "name": "Superdrive Engine Coolant for Car Radiator - 4 Liter - Red",
+      "brand": "Superdrive",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 259,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/superdrive-engine-coolant-4l-red/p/637432?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك نصف تخليقي – 10W-40",
-      "brand": "ماركات متعددة",
+      "name": "Water for Wipers - 1 Liter",
+      "brand": "Carrefour",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 50,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/water-for-wipers-1liter/p/354844?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك نصف تخليقي – 15W-40",
-      "brand": "ماركات متعددة",
+      "name": "Mobil 1 5W-40 Motor Oil - 4 Liter",
+      "brand": "Mobil",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2750,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/mobil1-5w40-4l-10000k/p/645625?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك معدني – 0W-20",
-      "brand": "ماركات متعددة",
+      "name": "Mobil Special Motor Oil - 4 Liters - 20W-50 - 3000K",
+      "brand": "Mobil",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 999,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/mobil-special-20w-50-oil-4l-3000k/p/664754?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك معدني – 5W-30",
-      "brand": "ماركات متعددة",
+      "name": "Mobil Ready Mixed 33% Coolant Advanced Radiator Fluid - 4 Liters",
+      "brand": "Mobil",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 899,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/mobil-ready-mixed-33-coolant-adv4l/p/660130?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك معدني – 5W-40",
-      "brand": "ماركات متعددة",
+      "name": "Superdrive Engine Coolant for Car Radiator - 4 Liter + Engine Coolant - 1 Liter - Red",
+      "brand": "Superdrive",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 285,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/superdrive-coolant-offer-4l-1l-red/p/637438?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك معدني – 10W-40",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Engine Coolant - 5 Liter",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 250,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/adco-radi-coolant-5lit/p/104038?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك معدني – 15W-40",
-      "brand": "ماركات متعددة",
+      "name": "Flamingo Rust Remover - 450ml",
+      "brand": "Flamingo",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 199,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/flamingo-rust-remover-450ml/p/591460?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس أوتوماتيك ATF – 0W-20",
-      "brand": "ماركات متعددة",
+      "name": "Motor Extreme 33% Concentration Coolant - Red - 5 Litres",
+      "brand": "Motor Extreme",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 639,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/motor-extreme-5-litre-red-33-/p/666488?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس أوتوماتيك ATF – 5W-30",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Petrol Injector Cleaner",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 150,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/injector-treatment-one-shot/p/104044?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس أوتوماتيك ATF – 5W-40",
-      "brand": "ماركات متعددة",
+      "name": "Flamingo Rust Remover - 110 ml",
+      "brand": "Flamingo",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 100,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/flamingo-rust-remover-110ml/p/591462?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس أوتوماتيك ATF – 10W-40",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Octane Booster and Petrol Treatment - 300ml",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 150,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/rapido-octane-booster/p/424148?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس أوتوماتيك ATF – 15W-40",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Engine Coolant - 5 Liter - Red",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 220,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/rapido-coolant-5-litre-red/p/454358?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس يدوي – 0W-20",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Radiator Coolant - 6 Liter - Red",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 260,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/rapido-radcoolant-5l-red-1-l/p/554562?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس يدوي – 5W-30",
-      "brand": "ماركات متعددة",
+      "name": "BS-40 Rust Remover - 200mm",
+      "brand": "BS-40",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 125,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/bs-rust-remover200mm/p/596969?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس يدوي – 5W-40",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Coolant - 5 Liters +1 Liter",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 260,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/rapido-coolant-5-l-1-l/p/433635?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس يدوي – 10W-40",
-      "brand": "ماركات متعددة",
+      "name": "Rust Remover - 400 mm",
+      "brand": "Rust Remover",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 184,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/bs-rust-remover-400-mm/p/596970?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس يدوي – 15W-40",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Engine Coolant 33% - Red - 5 Liters",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 499,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/rapido-engine-coolant-5-l-red-33-/p/686465?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت باور – 0W-20",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Engine Coolant 33% - Red - 1 Liter",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 160,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/rapido-engine-coolant-1l-red-33-/p/686463?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت باور – 5W-30",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Engine Coolant 33% - Red - 5 + 1 Liters",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 599,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/rapido-red-coolant-5-l-1-l-33-/p/686470?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت باور – 5W-40",
-      "brand": "ماركات متعددة",
+      "name": "Rapido Engine Coolant 33% - Green - 5 + 1 Liters",
+      "brand": "Rapido",
       "category": "زيوت السيارات والشحوم",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 599,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/en/lubricants-fluids/rapido-green-coolant-5-l-1-l-33-/p/686469?offer=offer_carrefour_&sid=SLOTTED&sellerId=0000",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "زيت باور – 10W-40",
