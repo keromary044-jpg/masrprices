@@ -249,11 +249,11 @@
       "category": "ألوان ورسم",
       "brand": "Maped",
       "unit": "علبة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 499,
+      "merchant": "Amazon Egypt via Pricena",
+      "source": "https://eg.pricena.com/en/office-electronics/brand/maped",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص Maped 12 Colors Hydrographic Pen؛ الشحن ظهر منفصلًا في صفحة المقارنة. السعر كما ظهر في صفحة المتجر؛ تحقق من المواصفات والشحن قبل الشراء."
     },
     {
       "id": "stationery-ألوان-شمع-12-لون-maped-علبة",
@@ -501,11 +501,11 @@
       "category": "ملفات وحفظ",
       "brand": "متعدد",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 21.38,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص ملفًا بلاستيكيًا بزر إغلاق (Plastic Button-up File). السعر كما ظهر في صفحة المتجر؛ تحقق من المواصفات والشحن قبل الشراء."
     },
     {
       "id": "stationery-حافظة-أوراق-بسوستة-متعدد-قطعة",
@@ -10107,6 +10107,193 @@
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/engineering-tools",
       "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-a3-fabric-zip",
+      "name": "ملف قماش A3 بسوستة",
+      "brand": "متعدد",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-a4-fabric-zip",
+      "name": "ملف قماش A4 بسوستة",
+      "brand": "متعدد",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-centropen-30",
+      "name": "علبة أقلام تلوين Centropen عدد 30 قلمًا",
+      "brand": "Centropen",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 230,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-striped-zip-file-a4",
+      "name": "ملف A4 مخطط بسوستة",
+      "brand": "متعدد",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-prima-flash-set",
+      "name": "طقم أقلام Prima Flash",
+      "brand": "Prima",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 15,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-foldable-geometry-ruler",
+      "name": "مسطرة هندسية قابلة للطي بأشكال هندسية",
+      "brand": "متعدد",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-wood-mechanical-pencil-2mm",
+      "name": "قلم رصاص ميكانيكي خشبي 2 مم HB",
+      "brand": "متعدد",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-deli-scribe-hb-12",
+      "name": "علبة أقلام Deli Scribe HB عدد 12 قلمًا",
+      "brand": "Deli",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-faber-colored-12",
+      "name": "علبة ألوان خشب Faber-Castell عدد 12 قطعة",
+      "brand": "Faber-Castell",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 65,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-mg-titan-gel",
+      "name": "قلم جل M&G Titan قابل للسحب 0.5 مم",
+      "brand": "M&G",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-unik-whiteboard",
+      "name": "قلم سبورة Unik",
+      "brand": "Unik",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 15,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-pastel-highlighter-1044",
+      "name": "قلم تحديد فسفوري Pastel موديل 1044",
+      "brand": "متعدد",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 15,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-sticky-colored-76",
+      "name": "ورق ملاحظات لاصق ملون 76×76 مم",
+      "brand": "متعدد",
+      "category": "ملاحظات لاصقة",
+      "unit": "قطعة",
+      "price": 15,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-stickn-sticky-76",
+      "name": "ورق ملاحظات Stick'n لاصق 76×76 مم",
+      "brand": "Stick'n",
+      "category": "ملاحظات لاصقة",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-magnetic-board-eraser",
+      "name": "ممحاة سبورة مغناطيسية صغيرة 6 سم",
+      "brand": "متعدد",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-gxin-cd-marker",
+      "name": "قلم ماركر GXIN للأقراص CD",
+      "brand": "GXIN",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-gelstik-glue-8",
+      "name": "قلم لاصق Gelstik وزن 8 جم",
+      "brand": "Gelstik",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/school-items-1",
+      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
     }
   ]
 }
