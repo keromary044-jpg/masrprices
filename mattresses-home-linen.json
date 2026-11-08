@@ -5,184 +5,268 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "مرتبة سوست منفصلة",
-      "brand": "ماركات متعددة",
+      "name": "Forbed Super Mattress Connected Springs 100x195x23cm",
+      "brand": "Forbed",
       "category": "مراتب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 5299,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Raneen",
+      "sourceRef": "turn972292search6",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست متصلة",
-      "brand": "ماركات متعددة",
+      "name": "Sleepee Goldie Mattress 100x195x26cm",
+      "brand": "Sleepee",
       "category": "مراتب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 4399,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Raneen",
+      "sourceRef": "turn972292search6",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة إسفنج",
-      "brand": "ماركات متعددة",
+      "name": "Forbed Mega Double Net Mattress 100x195x27cm",
+      "brand": "Forbed",
       "category": "مراتب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 5699,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Raneen",
+      "sourceRef": "turn972292search6",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة طبية",
-      "brand": "ماركات متعددة",
+      "name": "Bed&Bed Super Mattress 100x195x23cm",
+      "brand": "Bed&Bed",
       "category": "مراتب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3999,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Raneen",
+      "sourceRef": "turn972292search6",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سرير غرفة نوم",
-      "brand": "ماركات متعددة",
+      "name": "AlMamoun Brown Mattress 100x195x29cm",
+      "brand": "Al Mamoun",
       "category": "أسرة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 7399,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Raneen",
+      "sourceRef": "turn972292search6",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "طقم ملاية سرير",
-      "brand": "ماركات متعددة",
+      "name": "Forbed Rebond Medical Mattress 120x195x20cm",
+      "brand": "Forbed",
       "category": "مفروشات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 10899,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Raneen",
+      "sourceRef": "turn972292search6",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "لحاف",
-      "brand": "ماركات متعددة",
+      "name": "American House Medical Cotton Mattress 100x195x20cm",
+      "brand": "American House",
       "category": "مفروشات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 4870,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Raneen",
+      "sourceRef": "turn972292search6",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطانية",
-      "brand": "ماركات متعددة",
+      "name": "Sleep Joy Mattress",
+      "brand": "Sleep",
       "category": "مفروشات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 12778,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "SH Egypt",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مخدة نوم",
-      "brand": "ماركات متعددة",
+      "name": "Sleep Total Sport Mattress",
+      "brand": "Sleep",
       "category": "مفروشات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 12700,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "SH Egypt",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "واقي مرتبة",
-      "brand": "ماركات متعددة",
+      "name": "Sleep Sensa Mattress",
+      "brand": "Sleep",
       "category": "مفروشات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 12700,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "SH Egypt",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ستارة",
-      "brand": "ماركات متعددة",
+      "name": "Sleep Delight Mattress",
+      "brand": "Sleep",
       "category": "مفروشات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 9556,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "SH Egypt",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سجادة",
-      "brand": "ماركات متعددة",
+      "name": "Sleep Rest Calm Mattress",
+      "brand": "Sleep",
       "category": "مفروشات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 9445,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "SH Egypt",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست متصلة – مقاس 90×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Sleep Cool Tech Mattress",
+      "brand": "Sleep",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 8667,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "SH Egypt",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست متصلة – مقاس 100×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Sleep Smart Cool Mattress",
+      "brand": "Sleep",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 7223,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "SH Egypt",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست متصلة – مقاس 120×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Sleep Super Strong Mattress",
+      "brand": "Sleep",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 5445,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "SH Egypt",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست متصلة – مقاس 140×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Elastic Mattress Protector Polyester 160x200cm",
+      "brand": "SH",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2600,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "SH Egypt",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست متصلة – مقاس 160×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Double Net Deluxe Mattress Topper",
+      "brand": "SH",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2128,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "SH Egypt",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست منفصلة – مقاس 90×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Elastic Fitted Sheet Set 3 Pieces Striped 120x200cm",
+      "brand": "SH",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 799,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "SH Egypt",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search5",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست منفصلة – مقاس 100×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Striped Fitted Sheet 120x200cm",
+      "brand": "Eldafa",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 370,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Eldafa",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search0",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست منفصلة – مقاس 120×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Plain Cotton Fitted Sheet 150x200cm",
+      "brand": "Eldafa",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 590,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Eldafa",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search0",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست منفصلة – مقاس 140×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Printed Cotton Fitted Sheet Set 180x200cm",
+      "brand": "Eldafa",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 620,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Eldafa",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search0",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة سوست منفصلة – مقاس 160×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Flat Striped Sheet 120x200cm",
+      "brand": "Eldafa",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 350,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Eldafa",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search0",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة إسفنج – مقاس 90×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Fitted Sheet and Comforter Set 150x200cm",
+      "brand": "Eldafa",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1320,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Eldafa",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search0",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "مرتبة إسفنج – مقاس 100×195 سم",
-      "brand": "ماركات متعددة",
+      "name": "Comforter 240x240cm",
+      "brand": "Eldafa",
       "category": "المراتب والمفروشات المنزلية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 750,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Eldafa",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search0",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "مرتبة إسفنج – مقاس 120×195 سم",
