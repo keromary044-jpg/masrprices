@@ -7951,6 +7951,226 @@
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/school-supplies-",
       "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-silka-craft-eraser-art1",
+      "name": "ممحاة Silka Craft كبيرة بيضاء ART-1",
+      "brand": "Silka",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 7,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-silka-craft-eraser-art11",
+      "name": "ممحاة Silka Craft متوسطة بيضاء ART-11",
+      "brand": "Silka",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 6,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-silka-space-eraser-art16",
+      "name": "ممحاة Silka Space بشكل رائد فضاء ART-16",
+      "brand": "Silka",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 18,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-silka-funny-eraser-art17",
+      "name": "ممحاة Silka Funny بأشكال تعبيرية ART-17",
+      "brand": "Silka",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 18,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-silka-flamingo-eraser-sg20",
+      "name": "ممحاة Silka بشكل فلامنجو SG-20",
+      "brand": "Silka",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 18,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-silka-unicorn-eraser-sg21",
+      "name": "ممحاة Silka بشكل يونيكورن SG-21",
+      "brand": "Silka",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 18,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-oval-corrector-12",
+      "name": "قلم تصحيح Oval سعة 12 مل PAJ-10",
+      "brand": "Oval",
+      "category": "أدوات تصحيح",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-oval-corrector-7",
+      "name": "قلم تصحيح Oval سعة 7 مل PQN-10",
+      "brand": "Oval",
+      "category": "أدوات تصحيح",
+      "unit": "قطعة",
+      "price": 28,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-rock-corrector-303",
+      "name": "قلم تصحيح Rock 3A مقاس 2 مم 303",
+      "brand": "Rock",
+      "category": "أدوات تصحيح",
+      "unit": "قطعة",
+      "price": 4,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-cassa-gel-black",
+      "name": "قلم جل CASSA تركي أسود 1 مم",
+      "brand": "CASSA",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-donga-gel-black",
+      "name": "قلم جل Dong-A سريع الجفاف أسود 0.7 مم",
+      "brand": "Dong-A",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 14,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bigboss-power-gel",
+      "name": "قلم جل Big Boss Power أسود XC-809",
+      "brand": "Big Boss",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 9,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-power-gel-xc8020",
+      "name": "قلم جل Power أسود XC-8020",
+      "brand": "Power",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 9,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-prima-oro-blue",
+      "name": "قلم جاف Prima Oro أزرق 0.7 مم",
+      "brand": "Prima",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-200-black",
+      "name": "قلم جاف Bravo 200 أسود 1 مم",
+      "brand": "Bravo",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-claro-cr45-blue",
+      "name": "قلم جاف Claro CR-45 أزرق 0.7 مم",
+      "brand": "Claro",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-claro-force-blue",
+      "name": "قلم جاف Claro Force أزرق 0.7 مم",
+      "brand": "Claro",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 9,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-rox-o2-plus-blue",
+      "name": "قلم جاف Rox O2 Plus أزرق 0.7 مم",
+      "brand": "Rox",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 5,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-prima-fino-multicolor",
+      "name": "قلم جاف Prima Fino متعدد الألوان 0.7 مم",
+      "brand": "Prima",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-madden-highlighter-6",
+      "name": "طقم أقلام تحديد Madden عدد 6 أشكال وألوان 7008-6",
+      "brand": "Madden",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 44,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
