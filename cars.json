@@ -3146,44 +3146,48 @@
       "name": "Audi A4",
       "brand": "Audi",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2750000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/audi/a4/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لفئات Audi A4 40 TFSI S-line موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-265",
       "name": "Audi A6",
       "brand": "Audi",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 4300000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/audi/a6/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة Audi A6 40 TFSI S-Line موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-266",
       "name": "Audi Q2",
       "brand": "Audi",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2100000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/audi/q2/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لفئات Audi Q2 35 TFSI موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-267",
       "name": "Audi Q3",
       "brand": "Audi",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2450000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/audi/q3/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Audi Q3 35 TFSI Advanced موديل 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-268",
@@ -3410,11 +3414,12 @@
       "name": "Porsche Panamera",
       "brand": "Porsche",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 10156666,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/porsche/panamera/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Porsche Panamera Base موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-288",
@@ -3445,22 +3450,24 @@
       "name": "Tesla Model S",
       "brand": "Tesla",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 5508500,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/tesla/model-s/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Tesla Model S Long Range AWD موديل 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-291",
       "name": "Tesla Model X",
       "brand": "Tesla",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 3935520,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/tesla/model-x/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Tesla Model X Long Range AWD موديل 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "cars-new-0001",
