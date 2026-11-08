@@ -260,11 +260,12 @@
       "name": "Nissan Tiida",
       "brand": "Nissan",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 370000,
+      "modelYear": 2010,
+      "source": "https://egypt.yallamotor.com/used-cars/nissan/tiida",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Nissan Tiida 1.8 Sedan موديل 2010 مستعملة؛ من 5 إعلانات متاحة، وليس متوسطًا.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-008",
@@ -437,22 +438,24 @@
       "name": "Toyota Auris",
       "brand": "Toyota",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 550000,
+      "modelYear": 2017,
+      "source": "https://eg.hatla2ee.com/en/car/toyota/auris",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر إعلان Toyota Auris 2017 مستعملة في التجمع الخامس؛ سعر طلب لإعلان محدد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-024",
       "name": "Toyota Starlet",
       "brand": "Toyota",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 175000,
+      "modelYear": 1992,
+      "source": "https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/toyota/model-starlet/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Toyota Starlet موديل 1992 مستعملة في شبرا، القاهرة؛ إعلان واحد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-025",
@@ -710,11 +713,12 @@
       "name": "Kia Forte",
       "brand": "Kia",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 825000,
+      "modelYear": 2013,
+      "source": "https://egypt.yallamotor.com/used-cars/kia/forte",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Kia Forte 2013 مستعملة؛ من 3 إعلانات ظاهرة في السوق.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-048",
@@ -1307,11 +1311,12 @@
       "name": "Fiat Linea",
       "brand": "Fiat",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 400000,
+      "modelYear": 2016,
+      "source": "https://eg.hatla2ee.com/en/car/fiat/linea",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Fiat Linea 2016 مستعملة في القاهرة، 220 ألف كم.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-101",
@@ -1329,11 +1334,12 @@
       "name": "Fiat Fiorino",
       "brand": "Fiat",
       "category": "فان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 260000,
+      "modelYear": 2015,
+      "source": "https://www.contactcars.com/en/car/used-prices/fiat/fiorino",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط السعر المنشور لسيارة Fiat Fiorino 2015 المستعملة في مصر؛ البيانات المعروضة لإعلان واحد.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-103",
@@ -1672,11 +1678,12 @@
       "name": "Mazda 2",
       "brand": "Mazda",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 430000,
+      "modelYear": 2016,
+      "source": "https://www.dubizzle.com.eg/en/vehicles/q-mazda-2/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Mazda 2 موديل 2016 مستعملة في بنها، 200 ألف كم.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-134",
