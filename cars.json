@@ -3848,16 +3848,26 @@
       "name": "Suzuki Ciaz – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 809900,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/new-car/suzuki/ciaz/2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر فئة Suzuki Ciaz 1.5L GL الأساسية موديل 2026 في مصر.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0030",
       "name": "Suzuki Ciaz – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 874900,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/new-car/suzuki/ciaz/2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر فئة Suzuki Ciaz 1.5L GLX موديل 2026 في مصر.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0031",
@@ -4189,16 +4199,26 @@
       "name": "Honda City – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1260000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.autopediaeg.com/car/honda-city-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "السعر الرسمي المنشور لفئة Honda City LX موديل 2026 في مصر.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0064",
       "name": "Honda City – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1260000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.autopediaeg.com/car/honda-city-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "السعر الرسمي المنشور لفئة Honda City LX Sport موديل 2026 في مصر؛ نفس السعر المعلن للفئتين.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0065",
