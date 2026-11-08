@@ -2,39 +2,51 @@
   "schemaVersion": 1,
   "catalog": "الموتوسيكلات والسكوتر",
   "currency": "EGP",
-  "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
+  "pricePolicy": "الأسعار مرتبطة بالموديل وسنة الصنع والمصدر المذكور؛ لا تُعمم على نسخ أخرى.",
   "products": [
     {
-      "name": "موتوسيكل اقتصادي 150 سي سي",
-      "brand": "ماركات متعددة",
+      "name": "Bajaj Boxer BM 150 2026",
+      "brand": "Bajaj",
       "category": "موتوسيكلات",
-      "price": null,
+      "price": 61999,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "سعر منشور للموديل المحدد؛ الأسعار والمخزون قد يتغيران.",
+      "merchant": "Eliraki Store",
+      "source": "https://eliraki.com/product-category/المركبات-والدراجات-البخارية/bajaj/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "موتوسيكل رياضي",
-      "brand": "ماركات متعددة",
+      "name": "TVS Apache RTR 160 2025",
+      "brand": "TVS",
       "category": "موتوسيكلات",
-      "price": null,
+      "price": 80100,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "سعر مدرج للموديل وسنة الصنع المذكورين.",
+      "merchant": "Hatla2ee",
+      "source": "https://eg.hatla2ee.com/en/motorcycle/all-prices",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "موتوسيكل اقتصادي",
-      "brand": "ماركات متعددة",
+      "name": "Haojiang 4 150cc",
+      "brand": "Haojiang",
       "category": "موتوسيكلات",
-      "price": null,
+      "price": 44000,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "سعر عرض منشور؛ تحقق من توافر النسخة والمواصفات.",
+      "merchant": "Aman Stores",
+      "source": "https://www.amanstores.com/en/vehicles-125/vehicle/motorcycle/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سكوتر بنزين",
-      "brand": "ماركات متعددة",
+      "name": "SYM Fiddle 3 2024 150cc",
+      "brand": "SYM",
       "category": "سكوتر",
-      "price": null,
+      "price": 85400,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "سعر مدرج للموديل وسنة الصنع المذكورين.",
+      "merchant": "Hatla2ee",
+      "source": "https://eg.hatla2ee.com/en/motorcycle/all-prices",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "سكوتر كهربائي",
@@ -45,12 +57,15 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "دراجة توصيل",
-      "brand": "ماركات متعددة",
-      "category": "دراجات",
-      "price": null,
+      "name": "Dayun 4 150cc",
+      "brand": "Dayun",
+      "category": "موتوسيكلات",
+      "price": 43500,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "سعر عرض منشور؛ تحقق من توافر النسخة والمواصفات.",
+      "merchant": "Aman Stores",
+      "source": "https://www.amanstores.com/en/vehicles-125/vehicle/motorcycle/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "خوذة قيادة",
@@ -115,18 +130,24 @@
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
     },
     {
-      "name": "موتوسيكل اقتصادي – 125 سي سي",
-      "brand": "ماركات متعددة",
-      "category": "الموتوسيكلات والسكوتر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "name": "Benelli S200 2025 200cc",
+      "brand": "Benelli",
+      "category": "موتوسيكلات",
+      "price": 85000,
+      "details": "سعر مدرج للموديل وسنة الصنع المذكورين.",
+      "merchant": "Hatla2ee",
+      "source": "https://eg.hatla2ee.com/en/motorcycle/all-prices",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "موتوسيكل اقتصادي – 150 سي سي",
-      "brand": "ماركات متعددة",
-      "category": "الموتوسيكلات والسكوتر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "name": "Benelli Caffenero 2024 150cc",
+      "brand": "Benelli",
+      "category": "سكوتر",
+      "price": 87000,
+      "details": "سعر مدرج للموديل وسنة الصنع المذكورين.",
+      "merchant": "Hatla2ee",
+      "source": "https://eg.hatla2ee.com/en/motorcycle/all-prices",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "موتوسيكل اقتصادي – 160 سي سي",
@@ -220,11 +241,14 @@
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
     },
     {
-      "name": "موتوسيكل رياضي – 150 سي سي",
-      "brand": "ماركات متعددة",
-      "category": "الموتوسيكلات والسكوتر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "name": "Bajaj Pulsar 150 2025",
+      "brand": "Bajaj",
+      "category": "موتوسيكلات",
+      "price": 68000,
+      "details": "سعر مدرج للموديل وسنة الصنع المذكورين.",
+      "merchant": "Hatla2ee",
+      "source": "https://eg.hatla2ee.com/en/motorcycle/all-prices",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "موتوسيكل رياضي – 160 سي سي",
