@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
   "notice": "دليل لأكثر من 200 موديل سيارة متداول أو معروف في السوق المصري، ويشمل موديلات جديدة ومستعملة وموديلات فئات مختلفة. الأسعار الفارغة تعني أن السعر لم يتم التحقق منه؛ لا تعتبر القائمة تأكيدًا للتوافر الحالي. تحقق من سنة الصنع والفئة والحالة والسعر لدى الوكيل أو البائع.",
   "products": [
@@ -4189,6 +4189,72 @@
       "brand": "متعدد",
       "price": null,
       "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+    },
+    {
+      "id": "car-chevrolet-optra-2027-ls-20261108",
+      "name": "Chevrolet Optra 2027 LS",
+      "brand": "Chevrolet",
+      "modelYear": "2027",
+      "price": 785000,
+      "category": "سيارات جديدة",
+      "source": "https://hatgebk.com/en/catalog/chevrolet/prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة محددة منشور في السوق المصري؛ تحقق من التوافر والسعر النهائي لدى الوكيل."
+    },
+    {
+      "id": "car-chevrolet-optra-2027-lt-20261108",
+      "name": "Chevrolet Optra 2027 LT",
+      "brand": "Chevrolet",
+      "modelYear": "2027",
+      "price": 810000,
+      "category": "سيارات جديدة",
+      "source": "https://hatgebk.com/en/catalog/chevrolet/prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة محددة منشور في السوق المصري؛ تحقق من التوافر والسعر النهائي لدى الوكيل."
+    },
+    {
+      "id": "car-hyundai-elantra-ad-2026-baseline-20261108",
+      "name": "Hyundai Elantra AD 2026 Baseline",
+      "brand": "Hyundai",
+      "modelYear": "2026",
+      "price": 999000,
+      "category": "سيارات جديدة",
+      "source": "https://www.contactcars.com/en/new-cars/hyundai-elantra_ad",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة محددة منشور في السوق المصري؛ تحقق من التوافر والسعر النهائي لدى الوكيل."
+    },
+    {
+      "id": "car-hyundai-elantra-ad-2026-modern-20261108",
+      "name": "Hyundai Elantra AD 2026 Modern",
+      "brand": "Hyundai",
+      "modelYear": "2026",
+      "price": 1100000,
+      "category": "سيارات جديدة",
+      "source": "https://www.contactcars.com/en/new-cars/hyundai-elantra_ad",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة محددة منشور في السوق المصري؛ تحقق من التوافر والسعر النهائي لدى الوكيل."
+    },
+    {
+      "id": "car-hyundai-elantra-ad-2026-modern-sunroof-20261108",
+      "name": "Hyundai Elantra AD 2026 Modern Sunroof",
+      "brand": "Hyundai",
+      "modelYear": "2026",
+      "price": 1115000,
+      "category": "سيارات جديدة",
+      "source": "https://www.contactcars.com/en/new-cars/hyundai-elantra_ad",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة محددة منشور في السوق المصري؛ تحقق من التوافر والسعر النهائي لدى الوكيل."
+    },
+    {
+      "id": "car-hyundai-elantra-ad-2026-topline-20261108",
+      "name": "Hyundai Elantra AD 2026 Topline",
+      "brand": "Hyundai",
+      "modelYear": "2026",
+      "price": 1215000,
+      "category": "سيارات جديدة",
+      "source": "https://www.contactcars.com/en/new-cars/hyundai-elantra_ad",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة محددة منشور في السوق المصري؛ تحقق من التوافر والسعر النهائي لدى الوكيل."
     }
   ]
 }
