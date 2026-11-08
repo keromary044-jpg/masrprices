@@ -960,14 +960,15 @@
     },
     {
       "id": "car-069",
-      "name": "Chevrolet Tornado",
+      "name": "Chevrolet Pickup (Dabbaba)",
       "brand": "Chevrolet",
       "category": "بيك أب",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1105000,
+      "modelYear": 2027,
+      "source": "https://hatgebk.com/en/catalog/chevrolet/prices",
+      "checkedAt": "2026-11-08",
+      "spec": "تم تصحيح اسم السجل من Chevrolet Tornado إلى Chevrolet Pickup/Dabbaba المتداولة رسميًا في مصر؛ السعر الرسمي لفئة Base Line وفق قائمة موزع شيفروليه السارية من 26 أكتوبر 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-070",
