@@ -210,9 +210,9 @@
     });
     actions.append(fav,alert,review);card.append(actions);
     const alerts=mpStore.read("alerts",[]),price=Number(item.priceEGP??item.price);
-    if(Number.isFinite(price)&&price>0){
+    if(Number.isFinite(price)&&price>=0){
       const match=alerts.find(x=>x.id===id&&price<=Number(x.target)&&x.lastNotified!==String(price));
-      if(match){const notice=element("p","mp-alert-hit","وصل السعر المسجل إلى "+price.toLocaleString("en-US")+" جنيه — أقل من هدفك.");card.append(notice);match.lastNotified=String(price);mpStore.write("alerts",alerts);}
+      if(match){const notice=element("p","mp-alert-hit",price===0?"المنتج متاح مجانًا.":"وصل السعر المسجل إلى "+price.toLocaleString("en-US")+" جنيه — أقل من هدفك.");card.append(notice);match.lastNotified=String(price);mpStore.write("alerts",alerts);}
     }
   }
   function mpInitConsent(){
@@ -296,7 +296,7 @@
     const price=Number(raw.priceEGP??raw.price_egp??raw.price);
     const merchant=String(raw.merchant??raw.store_name??"").trim();
     const source=String(raw.source??raw.product_url??"").trim();
-    if(!merchant||!Number.isFinite(price)||price<=0)return null;
+    if(!merchant||!Number.isFinite(price)||price<0)return null;
     return {merchant,price,source,sourceLabel:String(raw.sourceLabel??raw.source_name??""),checkedAt:String(raw.checkedAt??raw.checked_at??""),variant:String(raw.variant??"")};
   }
   function addStoreComparison(card,product,isPhone=false){
@@ -330,7 +330,7 @@
         const details=element("div","store-price-details");details.append(element("strong","",offer.merchant));
         if(offer.variant)details.append(element("small","offer-variant",offer.variant));
         if(offer.sourceLabel||offer.checkedAt)details.append(element("small","offer-variant",[offer.sourceLabel,offer.checkedAt].filter(Boolean).join(" · ")));
-        row.append(details,element("strong","offer-price",offer.price.toLocaleString("en-US")+" جنيه"));
+        row.append(details,element("strong","offer-price",offer.price===0?"مجاني":offer.price.toLocaleString("en-US")+" جنيه"));
         if(best&&offer.price===best.price)row.append(element("span","best-store-star","★ أقل سعر"));
         if(offer.source){
           try{
@@ -346,7 +346,7 @@
       });
       if(best){
         const highest=sorted[sorted.length-1];
-        panel.append(element("p","offer-savings","أقل سعر موثّق: "+best.merchant+" — "+best.price.toLocaleString("en-US")+" جنيه"));
+        panel.append(element("p","offer-savings","أقل سعر موثّق: "+best.merchant+" — "+(best.price===0?"مجاني":best.price.toLocaleString("en-US")+" جنيه")));
         if(highest&&highest.price>best.price){
           panel.append(element("p","offer-savings-difference","توفير محتمل "+(highest.price-best.price).toLocaleString("en-US")+" جنيه مقارنة بأعلى عرض مسجل."));
         }
@@ -764,7 +764,7 @@
       info.append(element("strong","",item.name||item.title||"منتج"));
       const rawPrice=item.price??item.priceEGP??item.priceFrom??null;
       const numericPrice=rawPrice!==null&&rawPrice!==""?Number(rawPrice):NaN;
-      if(Number.isFinite(numericPrice)&&numericPrice>0)info.append(element("small","",meta[1]+" · "+numericPrice.toLocaleString("en-US")+" جنيه"));
+      if(Number.isFinite(numericPrice)&&numericPrice>=0)info.append(element("small","",meta[1]+" · "+(numericPrice===0?"مجاني":numericPrice.toLocaleString("en-US")+" جنيه")));
       button.append(info);
       button.addEventListener("click",()=>openSearchResult(meta,item));
       globalSearchBox.append(button);
