@@ -44,7 +44,7 @@ export async function onRequest({ request, env }) {
     }
     if(data.action==="saveOffer"){
       const productId=clean(data.product_id,120),store=clean(data.store_name,120),source=clean(data.product_url,500),sourceName=clean(data.source_name,120),price=Number(data.price_egp);
-      if(!productId||!store||!sourceName||!Number.isFinite(price)||price<=0||price>100000000000||!/^https:\/\//i.test(source)) return json(400,{error:"أكمل المنتج والمتجر والسعر ورابط المصدر الصحيح."});
+      if(!productId||!store||!sourceName||!Number.isFinite(price)||price<0||price>100000000000||!/^https:\/\//i.test(source)) return json(400,{error:"أكمل المنتج والمتجر والسعر ورابط المصدر الصحيح."});
       const exists=await env.DB.prepare("SELECT id FROM products WHERE id=?").bind(productId).first();
       if(!exists) return json(400,{error:"سجّل المنتج أولًا."});
       await env.DB.prepare("INSERT INTO offers(product_id,store_name,price_egp,product_url,source_name,variant,region,checked_at,status) VALUES(?,?,?,?,?,?,?,?,?)")
@@ -73,7 +73,7 @@ export async function onRequest({ request, env }) {
       let accepted=0;
       for(const item of data.items){
         const productId=clean(item.product_id,120),store=clean(item.store_name,120),source=clean(item.product_url,500),sourceName=clean(item.source_name,120),price=Number(item.price_egp);
-        if(!productId||!store||!sourceName||!Number.isFinite(price)||price<=0||price>100000000000||!/^https:\/\//i.test(source)) continue;
+        if(!productId||!store||!sourceName||!Number.isFinite(price)||price<0||price>100000000000||!/^https:\/\//i.test(source)) continue;
         const exists=await env.DB.prepare("SELECT id FROM products WHERE id=?").bind(productId).first();
         if(!exists) continue;
         await env.DB.prepare("INSERT INTO offers(product_id,store_name,price_egp,product_url,source_name,variant,region,checked_at,status) VALUES(?,?,?,?,?,?,?,?,?)")
