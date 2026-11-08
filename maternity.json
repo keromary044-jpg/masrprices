@@ -5,84 +5,114 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "شفاط حليب يدوي",
-      "brand": "ماركات متعددة",
+      "name": "Granzia Manual Breast Pump",
+      "brand": "Granzia",
       "category": "رضاعة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 900,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "شفاط حليب يدوي من Granzia؛ السعر المنشور 900 جنيه.",
+      "merchant": "ECARE Egypt",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شفاط حليب كهربائي",
-      "brand": "ماركات متعددة",
+      "name": "Granzia Rosefeed Electric Breast Pump",
+      "brand": "Granzia",
       "category": "رضاعة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 4830,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "شفاط الثدي الكهربائي Rosefeed؛ السعر المنشور 4,830 جنيه.",
+      "merchant": "ECARE Egypt",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "أكياس تخزين حليب",
-      "brand": "ماركات متعددة",
+      "name": "La Frutta Breast Milk Storage Bags 10 pcs 210ml",
+      "brand": "La Frutta",
       "category": "رضاعة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 140,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "أكياس حفظ حليب La Frutta سعة 210 مل، عبوة 10 أكياس؛ السعر المعروض 140 جنيه.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/breast-pump-accessories/?oos=1",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "وسادة رضاعة",
-      "brand": "ماركات متعددة",
+      "name": "Tiibaby Adjustable Elevate Nursing Pillow",
+      "brand": "Tiibaby",
       "category": "رضاعة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 999,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "وسادة رضاعة قابلة للتعديل والرفع من Tiibaby؛ السعر المنشور 999 جنيه.",
+      "merchant": "Noor's Nook",
+      "source": "https://noorsnook.com/collections/breastfeeding-essentials",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كريم عناية بالبشرة للأم",
-      "brand": "ماركات متعددة",
+      "name": "Beesline Chapped Nipples Cream 35ml",
+      "brand": "Beesline",
       "category": "عناية",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 555,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "كريم Beesline للعناية بالحلمة 35 مل؛ السعر المعروض، والصفحة أشارت لعدم التوفر وقت الرصد.",
+      "merchant": "Tadawi",
+      "source": "https://tdawi.com/ar_eg/breastfeeding",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "حزام دعم الحمل",
-      "brand": "ماركات متعددة",
+      "name": "Maternity Support Belt",
+      "brand": "Generic",
       "category": "عناية",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 450,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "حزام دعم الحمل؛ السعر المنشور 450 جنيه.",
+      "merchant": "ECARE Egypt",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ملابس حمل",
-      "brand": "ماركات متعددة",
+      "name": "Mamina Sleeveless Nursing Top",
+      "brand": "Mamina",
       "category": "ملابس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 550,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "بلوزة رضاعة بدون أكمام؛ السعر المنشور بعد الخصم.",
+      "merchant": "Mamina Egypt",
+      "source": "https://mamina-eg.com/collections/nursing-care",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "حمالة رضاعة",
-      "brand": "ماركات متعددة",
+      "name": "Mamina Soft Nursing Bra",
+      "brand": "Mamina",
       "category": "ملابس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1215,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "حمالة رضاعة Soft Nursing Bra؛ السعر المنشور 1,215 جنيه.",
+      "merchant": "Mamina Egypt",
+      "source": "https://mamina-eg.com/collections/nursing-care",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "وسادة حمل",
-      "brand": "ماركات متعددة",
+      "name": "Hedeya Body Pillow",
+      "brand": "Hedeya",
       "category": "راحة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1495,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "وسادة جسم لدعم الحمل؛ السعر المنشور 1,495 جنيه.",
+      "merchant": "Hedeya",
+      "source": "https://hedeya.com/collections/breast-feeding/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كمادات رضاعة",
-      "brand": "ماركات متعددة",
+      "name": "Disposable Breast Pads 24 pcs",
+      "brand": "Safari",
       "category": "راحة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 200,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "وسادات رضاعة للاستعمال مرة واحدة، عبوة 24 قطعة؛ السعر المنشور.",
+      "merchant": "Hedeya",
+      "source": "https://hedeya.com/collections/breast-care/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "حقيبة مستلزمات الأم",
@@ -93,12 +123,15 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "منظم مستلزمات الرضاعة",
-      "brand": "ماركات متعددة",
+      "name": "Milk Powder Dispenser Pack of 6",
+      "brand": "Generic",
       "category": "تنظيم",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1000,
+      "priceStatus": "سعر منشور بصفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "منظم/موزع مسحوق الحليب، عبوة 6 قطع؛ السعر المنشور 1,000 جنيه.",
+      "merchant": "Hedeya",
+      "source": "https://hedeya.com/collections/breast-feeding/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "شفاط حليب يدوي – صغير",
