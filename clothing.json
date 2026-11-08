@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
   "notice": "أسعار منشورة في قوائم متاجر إلكترونية وقت الرصد؛ المقاسات والألوان والمخزون قد تختلف. تم توسيع الكتالوج بسجلات تعريفية إضافية؛ الأسعار غير المحددة غير متحققة وليست أسعار بيع حالية.",
   "products": [
@@ -3049,6 +3049,46 @@
       "brand": "متعدد",
       "price": null,
       "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+    },
+    {
+      "id": "clothing-lcw-classic-crewneck-mens-tee-20261108",
+      "name": "LCWAIKIKI Classic Crew Neck Printed Jersey Men's T-Shirt",
+      "brand": "LC Waikiki",
+      "category": "ملابس رجالية",
+      "price": 399,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/t-shirts-u-300345",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "clothing-lcw-kids-crewneck-boys-tee-20261108",
+      "name": "LCW Kids Crew Neck Boys' T-Shirt",
+      "brand": "LC Waikiki",
+      "category": "ملابس أطفال",
+      "price": 229,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/t-shirts-u-300345",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "clothing-lcw-kids-ribbed-girls-tee-20261108",
+      "name": "LCW Kids Ribbed Girls' T-Shirt",
+      "brand": "LC Waikiki",
+      "category": "ملابس أطفال",
+      "price": 349,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/t-shirts-u-300345",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "clothing-lcw-xsideloose-tee-20261108",
+      "name": "XSIDE Loose Fit Thick Fabric T-Shirt /04",
+      "brand": "XSIDE",
+      "category": "ملابس رجالية",
+      "price": 399,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/t-shirts-u-300345",
+      "checkedAt": "2026-11-08"
     }
   ]
 }
