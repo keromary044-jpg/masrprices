@@ -3983,16 +3983,26 @@
       "name": "Renault Logan – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 470000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.yallamotor.com/new-cars/renault/prices",
+      "priceType": "new_market_listing",
+      "modelYear": 2026,
+      "spec": "سعر فئة Renault Logan 1.6L Vision A/T المنشور في قائمة السوق المصرية؛ لا يتوفر سعر ثابت لفئة Signature.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0042",
       "name": "Renault Logan – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 470000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.yallamotor.com/new-cars/renault/prices",
+      "priceType": "new_market_listing",
+      "modelYear": 2026,
+      "spec": "سعر فئة Renault Logan 1.6L Signatura Plus A/T المنشور في قائمة السوق المصرية؛ نفس السعر المنشور لفئة Vision.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0043",
@@ -4036,24 +4046,39 @@
       "name": "Peugeot 301 – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1149990,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.egypttelegraph.com/article/17602/مواصفات-وأسعار-سيارة-بيجو-301-في-السوق",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "السعر الرسمي لفئة Peugeot 301 Allure 2026 وفق قائمة وكيل مانسكو المنشورة في 12 سبتمبر 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0047",
       "name": "Peugeot 208 – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1032000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/new-car/peugeot/208/2026",
+      "priceType": "new_market_listing",
+      "modelYear": 2026,
+      "spec": "سعر فئة Peugeot 208 1.2T GT الجديدة موديل 2026 في مصر.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0048",
       "name": "Peugeot 208 – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 2879520,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/new-car/peugeot/208/2026",
+      "priceType": "new_market_listing",
+      "modelYear": 2026,
+      "spec": "سعر فئة Peugeot e-208 الكهربائية موديل 2026 في مصر؛ نسخة كهربائية وليست فئة بنزين أعلى.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0049",
@@ -4191,8 +4216,13 @@
       "name": "Honda Civic – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1422200,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/new-car/honda/civic/2026",
+      "priceType": "new_market_listing",
+      "modelYear": 2026,
+      "spec": "سعر فئة Honda Civic 1.5T Sport موديل 2026 ضمن قائمة الفئات المنشورة في السوق المصري.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0063",
@@ -4273,16 +4303,26 @@
       "name": "Toyota Yaris – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 852300,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/new-car/toyota/yaris-sedan/2026",
+      "priceType": "new_dealer_market_listing",
+      "modelYear": 2026,
+      "spec": "سعر فئة Toyota Yaris Sedan 1.5L E CVT الجديدة المنشور لدى مجمّع أسعار الموزعين؛ التوافر الرسمي لدى Toyota Egypt غير مؤكد.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0070",
       "name": "Toyota Yaris – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 978900,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/new-car/toyota/yaris-sedan/2026",
+      "priceType": "new_dealer_market_listing",
+      "modelYear": 2026,
+      "spec": "سعر فئة Toyota Yaris Sedan 1.5L G CVT الجديدة المنشور لدى مجمّع أسعار الموزعين؛ التوافر الرسمي لدى Toyota Egypt غير مؤكد.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0071",
