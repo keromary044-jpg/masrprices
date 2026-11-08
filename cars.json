@@ -1958,11 +1958,12 @@
       "name": "Volkswagen Caddy",
       "brand": "Volkswagen",
       "category": "فان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 290000,
+      "modelYear": 2009,
+      "source": "https://egypt.yallamotor.com/used-cars/volkswagen/caddy",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Volkswagen Caddy 1.4 TSI Maxi Life 2009 مستعملة في القاهرة؛ إعلان واحد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-158",
@@ -2346,11 +2347,12 @@
       "name": "Geely Preface",
       "brand": "Geely",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1599750,
+      "modelYear": 2025,
+      "source": "https://egypt.yallamotor.com/new-cars/geely/preface",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط السعر المنشور لسيارات Geely Preface المستعملة موديل 2025 في مصر؛ 4 سيارات معروضة، والنطاق 1,200,000–1,849,000 جنيه.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-193",
