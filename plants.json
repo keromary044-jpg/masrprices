@@ -105,15 +105,16 @@
     },
     {
       "id": "plants-بذور-طماطم-متعدد-عبوة-بذور",
-      "name": "بذور طماطم",
+      "name": "بذور طماطم Mashtal 2 جم",
       "category": "بذور خضروات",
-      "brand": "متعدد",
-      "unit": "عبوة بذور",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "brand": "Mashtal",
+      "unit": "2 جم",
+      "price": 50,
+      "merchant": "Mashtal Garden Centers",
+      "source": "https://www.mashtalegypt.com/product-category/plants/seeds/",
+      "checkedAt": "2026-11-08",
+      "details": "السعر المعروض لعبوة بذور الطماطم 2 جم.",
+      "priceStatus": "verified"
     },
     {
       "id": "plants-بذور-خيار-متعدد-عبوة-بذور",
@@ -1032,6 +1033,71 @@
       "price": null,
       "priceStatus": "لا يوجد سعر موثق؛ ليس عرض بيع",
       "details": "سجل تعريفي ضمن كتالوج النباتات. لم يُنشر سعر لأننا لم نتحقق من عرض بيع موثوق لهذا الصنف."
+    },
+    {
+      "id": "mashtal-cherry-tomato-seeds",
+      "name": "بذور طماطم شيري Mashtal 2 جم",
+      "brand": "Mashtal",
+      "category": "بذور خضروات",
+      "price": 220,
+      "unit": "2 جم",
+      "source": "https://www.mashtalegypt.com/product-category/plants/seeds/",
+      "merchant": "Mashtal Garden Centers",
+      "details": "السعر المعروض لعبوة البذور بالحجم المذكور.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "mashtal-eggplant-seeds",
+      "name": "بذور باذنجان عروس Mashtal 2 جم",
+      "brand": "Mashtal",
+      "category": "بذور خضروات",
+      "price": 45,
+      "unit": "2 جم",
+      "source": "https://www.mashtalegypt.com/product-category/plants/seeds/",
+      "merchant": "Mashtal Garden Centers",
+      "details": "السعر المعروض لعبوة البذور بالحجم المذكور.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "mashtal-cantaloupe-seeds",
+      "name": "بذور شمام Mashtal 5 جم",
+      "brand": "Mashtal",
+      "category": "بذور خضروات",
+      "price": 50,
+      "unit": "5 جم",
+      "source": "https://www.mashtalegypt.com/product-category/plants/seeds/",
+      "merchant": "Mashtal Garden Centers",
+      "details": "السعر المعروض لعبوة البذور بالحجم المذكور.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "mashtal-italian-eggplant-seeds",
+      "name": "بذور باذنجان رومي Mashtal 2 جم",
+      "brand": "Mashtal",
+      "category": "بذور خضروات",
+      "price": 45,
+      "unit": "2 جم",
+      "source": "https://www.mashtalegypt.com/product-category/plants/seeds/",
+      "merchant": "Mashtal Garden Centers",
+      "details": "السعر المعروض لعبوة البذور بالحجم المذكور.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "mashtal-broccoli-seeds",
+      "name": "بذور بروكلي Mashtal 2 جم",
+      "brand": "Mashtal",
+      "category": "بذور خضروات",
+      "price": 55,
+      "unit": "2 جم",
+      "source": "https://www.mashtalegypt.com/product-category/plants/seeds/",
+      "merchant": "Mashtal Garden Centers",
+      "details": "السعر المعروض لعبوة البذور بالحجم المذكور.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
     }
   ]
 }

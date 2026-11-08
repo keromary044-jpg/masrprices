@@ -10,8 +10,8 @@
       "brand": "Purina Friskies",
       "price": 44.99,
       "merchant": "Carrefour Egypt",
-      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
-      "checkedAt": "2026-11-02"
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1100000",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "pet-litter-first1",
@@ -68,20 +68,20 @@
       "name": "طعام كلاب Carlito للبالغين 1.5 كجم",
       "category": "طعام كلاب",
       "brand": "Carlito",
-      "price": 198.5,
+      "price": 194.99,
       "merchant": "Carrefour Egypt",
-      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
-      "checkedAt": "2026-11-02"
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1100000",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "pet-drill-dog4",
       "name": "طعام كلاب Drill للبالغين 4 كجم",
       "category": "طعام كلاب",
       "brand": "Drill",
-      "price": 535.5,
+      "price": 568.5,
       "merchant": "Carrefour Egypt",
-      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
-      "checkedAt": "2026-11-02"
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1100000",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "pet-guide-001",

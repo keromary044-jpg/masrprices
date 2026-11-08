@@ -155,23 +155,29 @@
     },
     {
       "id": "electrical-catalog-001",
-      "name": "كابل كهرباء نحاس 1 مم – مقاس صغير",
-      "category": "أدوات كهربائية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "سلك نحاس السويدي شعر 1 مم² أسود",
+      "category": "كابلات نحاس",
+      "price": 1270.02,
+      "merchant": "Elmwan",
+      "source": "https://elmwan.com/products",
+      "checkedAt": "2026-11-08",
+      "brand": "El Sewedy Cables",
+      "unit": "قطعة",
+      "details": "سعر القطعة حسب المقاس والنوع المعروض؛ التوصيل غير شامل.",
+      "priceStatus": "verified"
     },
     {
       "id": "electrical-catalog-002",
-      "name": "كابل كهرباء نحاس 1.5 مم – مقاس صغير",
-      "category": "أدوات كهربائية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "سلك نحاس السويدي شعر 1.5 مم² أسود",
+      "category": "كابلات نحاس",
+      "price": 1803.88,
+      "merchant": "Elmwan",
+      "source": "https://elmwan.com/products",
+      "checkedAt": "2026-11-08",
+      "brand": "El Sewedy Cables",
+      "unit": "قطعة",
+      "details": "سعر القطعة حسب المقاس والنوع المعروض؛ التوصيل غير شامل.",
+      "priceStatus": "verified"
     },
     {
       "id": "electrical-catalog-003",
@@ -195,13 +201,16 @@
     },
     {
       "id": "electrical-catalog-005",
-      "name": "كابل كهرباء نحاس 6 مم – مقاس صغير",
-      "category": "أدوات كهربائية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "سلك نحاس السويدي شعر 6 مم² أرضي",
+      "category": "كابلات نحاس",
+      "price": 6742.7,
+      "merchant": "Elmwan",
+      "source": "https://elmwan.com/products",
+      "checkedAt": "2026-11-08",
+      "brand": "El Sewedy Cables",
+      "unit": "قطعة",
+      "details": "سعر القطعة حسب المقاس والنوع المعروض؛ التوصيل غير شامل.",
+      "priceStatus": "verified"
     },
     {
       "id": "electrical-catalog-006",
@@ -215,13 +224,16 @@
     },
     {
       "id": "electrical-catalog-007",
-      "name": "سلك كهرباء مجدول – مقاس صغير",
-      "category": "أدوات كهربائية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "سلك نحاس السويدي مجدول 1 مم² أسود",
+      "category": "أسلاك نحاس مجدولة",
+      "price": 1115.6,
+      "merchant": "Elmwan",
+      "source": "https://elmwan.com/products",
+      "checkedAt": "2026-11-08",
+      "brand": "El Sewedy Cables",
+      "unit": "قطعة",
+      "details": "سعر القطعة حسب المقاس والنوع المعروض؛ التوصيل غير شامل.",
+      "priceStatus": "verified"
     },
     {
       "id": "electrical-catalog-008",

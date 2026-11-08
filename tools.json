@@ -235,13 +235,16 @@
     },
     {
       "id": "tools-catalog-003",
-      "name": "طقم مفكات – مقاس صغير",
-      "category": "أدوات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Weneed Screwdriver Set 5 Pieces",
+      "category": "أطقم مفكات",
+      "price": 274.95,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+      "checkedAt": "2026-11-08",
+      "brand": "Weneed",
+      "unit": "طقم",
+      "details": "السعر المعروض في قائمة الأدوات لدى كارفور؛ شامل الضريبة.",
+      "priceStatus": "verified"
     },
     {
       "id": "tools-catalog-004",
@@ -285,13 +288,16 @@
     },
     {
       "id": "tools-catalog-008",
-      "name": "مفتاح إنجليزي – مقاس صغير",
-      "category": "أدوات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "El Giza French Wrench 12 Inch",
+      "category": "مفاتيح ربط",
+      "price": 299,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+      "checkedAt": "2026-11-08",
+      "brand": "El Giza",
+      "unit": "قطعة",
+      "details": "السعر المعروض في قائمة الأدوات لدى كارفور؛ شامل الضريبة.",
+      "priceStatus": "verified"
     },
     {
       "id": "tools-catalog-009",
@@ -395,13 +401,16 @@
     },
     {
       "id": "tools-catalog-019",
-      "name": "متر قياس – مقاس صغير",
-      "category": "أدوات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Measurement Meter 3 Meters",
+      "category": "أدوات قياس",
+      "price": 74.95,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+      "checkedAt": "2026-11-08",
+      "brand": "Carrefour",
+      "unit": "قطعة",
+      "details": "السعر المعروض في قائمة الأدوات لدى كارفور؛ شامل الضريبة.",
+      "priceStatus": "verified"
     },
     {
       "id": "tools-catalog-020",
