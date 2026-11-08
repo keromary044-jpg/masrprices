@@ -293,11 +293,12 @@
       "name": "Nissan Maxima",
       "brand": "Nissan",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1886580,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/ar/new-car/nissan/maxima/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "أقل سعر معلن لفئات Nissan Maxima 2026 الجديدة في مصر؛ الفئة 3.5L SE.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-011",
@@ -1172,11 +1173,12 @@
       "name": "Peugeot Partner",
       "brand": "Peugeot",
       "category": "فان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 750000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/price/under-1000000",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي المنشور لسيارة Peugeot Partner 2026 الجديدة في مصر؛ النطاق المعلن 750,000–896,000 جنيه.",
+      "priceType": "new_starting_price"
     },
     {
       "id": "car-089",
@@ -1929,11 +1931,12 @@
       "name": "Volkswagen Touareg",
       "brand": "Volkswagen",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 4150000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/volkswagen/touareg/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئات Volkswagen Touareg 2026 الجديدة في مصر، فئة 2.0T Trendline.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-157",
@@ -2017,11 +2020,12 @@
       "name": "Opel Meriva",
       "brand": "Opel",
       "category": "MPV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 440000,
+      "modelYear": 2016,
+      "source": "https://egypt.arabiawheel.com/used-car/opel/under-1000000",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Opel Meriva 2016 مستعملة في الجيزة؛ إعلان واحد، وليس متوسطًا سوقيًا.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-165",
@@ -2916,11 +2920,12 @@
       "name": "Mercedes-Benz A-Class",
       "brand": "Mercedes-Benz",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2840000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/mercedes-benz/a-class/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Mercedes-Benz A 250 موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-246",
@@ -2974,11 +2979,12 @@
       "name": "Mercedes-Benz GLB",
       "brand": "Mercedes-Benz",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2885200,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/price/under-5000000",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي المنشور لفئة Mercedes-Benz GLB 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-251",
@@ -2997,22 +3003,24 @@
       "name": "Mercedes-Benz GLE",
       "brand": "Mercedes-Benz",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 4680000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/mercedes-benz/gle-class/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي المنشور لفئات Mercedes-Benz GLE 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-253",
       "name": "BMW 1 Series",
       "brand": "BMW",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2200000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/bmw/1-series/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر BMW 118i 2026 الجديدة في مصر؛ فئة واحدة منشورة.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-254",
@@ -3125,11 +3133,12 @@
       "name": "Audi A3",
       "brand": "Audi",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1090000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/audi/a3/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي المنشور لفئة Audi A3 35 TFSI Sport 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-264",
@@ -3191,11 +3200,12 @@
       "name": "Audi Q7",
       "brand": "Audi",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 5750000,
+      "modelYear": 2026,
+      "source": "https://www.contactcars.com/ar/new-cars?page=1",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر Audi Q7 2026 S-line المنشور في قائمة السيارات الجديدة بمصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-270",
