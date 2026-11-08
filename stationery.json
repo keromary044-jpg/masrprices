@@ -1442,6 +1442,138 @@
       "source": "https://moubarakstore.com/en/categories/school-supplies",
       "checkedAt": "2026-11-08",
       "details": "سعر منشور لعبوة BIC Cristal Ballpoint Pens، 10 أقلام؛ اللون/التشكيلة حسب المتجر والسعر قابل للتغيير."
+    },
+    {
+      "id": "stationery-elghazawy-pentonic-ballpoint-black-07",
+      "name": "قلم Pentonic جاف أسود 0.7 مم",
+      "category": "أقلام",
+      "brand": "Pentonic",
+      "unit": "قطعة",
+      "price": 12,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-pentonic-ballpoint-blue-07",
+      "name": "قلم Pentonic جاف أزرق 0.7 مم",
+      "category": "أقلام",
+      "brand": "Pentonic",
+      "unit": "قطعة",
+      "price": 12,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-pentonic-retractable-red-07",
+      "name": "قلم Pentonic جاف قابل للضغط أحمر 0.7 مم",
+      "category": "أقلام",
+      "brand": "Pentonic",
+      "unit": "قطعة",
+      "price": 23,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-mintra-pin-notebook-40",
+      "name": "كراسة Mintra دبوس 40 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Mintra",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-andalosia-notebook-60-a4",
+      "name": "كراسة أندلسية 60 ورقة A4 مسطرة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Andalosia",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-wire-notebook-200-b5",
+      "name": "كشكول سلك 200 ورقة B5 – 5 فواصل",
+      "category": "كراسات وكشاكيل",
+      "brand": "متعدد",
+      "unit": "قطعة",
+      "price": 70,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-mintra-a4-96",
+      "name": "كشكول Mintra A4 سلك 96 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Mintra",
+      "unit": "قطعة",
+      "price": 55,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-faber-short-colors-12",
+      "name": "ألوان خشب Faber-Castell قصيرة 12 لون",
+      "category": "ألوان ورسم",
+      "brand": "Faber-Castell",
+      "unit": "علبة",
+      "price": 62,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-skyglory-colors-12",
+      "name": "ألوان خشب SkyGlory عدد 12 لون",
+      "category": "ألوان ورسم",
+      "brand": "SkyGlory",
+      "unit": "علبة",
+      "price": 48,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-artesco-colors-12",
+      "name": "ألوان خشب Artesco عدد 12 قلمًا مع براية",
+      "category": "ألوان ورسم",
+      "brand": "Artesco",
+      "unit": "علبة",
+      "price": 25,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-colored-gel-pen-g622",
+      "name": "قلم جيل ملون G-622",
+      "category": "أقلام",
+      "brand": "متعدد",
+      "unit": "قطعة",
+      "price": 11,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
     }
   ]
 }
