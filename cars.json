@@ -3990,8 +3990,13 @@
       "name": "Opel Corsa – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1300000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/opel-corsa-2027",
+      "priceType": "new_official_trim",
+      "modelYear": 2027,
+      "spec": "سعر الفئة الوحيدة Topline+ من قائمة الوكيل الرسمية لأوبل كورسا 2027.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0052",
@@ -4046,8 +4051,13 @@
       "name": "Volkswagen Golf – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1790000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/volkswagen-golf-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر الفئة الأساسية لفولكس فاجن جولف 2026 وفق قائمة الوكيل الرسمية.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0058",
@@ -4286,32 +4296,52 @@
       "name": "Hyundai Tucson – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1700000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/hyundai-tucson-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر فئة Shadow الأساسية لهيونداي توسان 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0082",
       "name": "Hyundai Tucson – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1850000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/hyundai-tucson-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر فئة Plus الثانية لهيونداي توسان 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0083",
       "name": "Hyundai Creta – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 985000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/hyundai-creta-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر فئة Smart الأساسية لهيونداي كريتا 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0084",
       "name": "Hyundai Creta – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1195000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/hyundai-creta-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر فئة Premium الثانية لهيونداي كريتا 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0085",
@@ -4342,16 +4372,26 @@
       "name": "Kia Seltos – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1350000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/kia-seltos-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر فئة EX الأساسية لكيا سيلتوس 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0088",
       "name": "Kia Seltos – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1500000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/kia-seltos-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر فئة Highline Turbo الثانية لكيا سيلتوس 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0089",
