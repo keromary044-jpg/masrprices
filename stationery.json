@@ -237,11 +237,11 @@
       "category": "ألوان ورسم",
       "brand": "Faber-Castell",
       "unit": "علبة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 125,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/Drawing-and-Colours-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لدى متجر الغزاوي لعلبة Faber-Castell Colored Pencils، 12 لونًا طويلًا؛ السعر قد يتغير."
     },
     {
       "id": "stationery-ألوان-فلوماستر-12-لون-maped-علبة",
@@ -357,11 +357,11 @@
       "category": "آلات حاسبة",
       "brand": "Casio",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 1100,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/scientific-calculators",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لدى متجر الغزاوي لآلة Casio fx-991ES PLUS-2 العلمية، 417 وظيفة؛ السعر يخص هذا الموديل تحديدًا وقد يتغير."
     },
     {
       "id": "stationery-آلة-حاسبة-مكتبية-casio-قطعة",
