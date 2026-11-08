@@ -137,18 +137,26 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار ملاكي – 175/70 R13",
-      "brand": "ماركات متعددة",
+      "name": "GoodYear EAGLE SPORT 2",
+      "brand": "GoodYear",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3800,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/goodyear/eagle-sport-2/185-65-r15-88-h--poland-dot25",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار ملاكي – 185/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "KUMHO ECOWING KH27",
+      "brand": "KUMHO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2625,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/kumho/ecowing-kh27/185-65-r15-88-h--korea-dot24-korean",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Dynamo MH01 195/65 R15 91V",
@@ -217,67 +225,103 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV – 175/70 R13",
-      "brand": "ماركات متعددة",
+      "name": "ROVELO RHP-A68",
+      "brand": "ROVELO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2404.8,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/rovelo/rhp-a68/185-65-r15-88-t--cambodia-dot25",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV – 185/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "Landsail RapidDragon RD-3 AS",
+      "brand": "Landsail",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2186.1,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/landsail/rapiddragon-rd-3-as/185-65-r15-88-h--morocco-dot25",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV – 195/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "BOTO Genesys 228",
+      "brand": "BOTO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2690,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/boto/genesys-228/185-65-r15-88-h--china-dot26",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV – 205/55 R16",
-      "brand": "ماركات متعددة",
+      "name": "GoodRide RIDEMAX G-127",
+      "brand": "GoodRide",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2824,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/goodride/ridemax-g-127/185-65-r15-88-h--thailand-dot26",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV – 215/60 R16",
-      "brand": "ماركات متعددة",
+      "name": "PRINX HH2",
+      "brand": "PRINX",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2824,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/prinx/hh2/185-65-r15-88-h--thailand-dot26",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV – 225/45 R17",
-      "brand": "ماركات متعددة",
+      "name": "OTANI EK1000",
+      "brand": "OTANI",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3163,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/otani/ek1000/185-65-r15-88-v--thailand-dot25",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV – 225/55 R17",
-      "brand": "ماركات متعددة",
+      "name": "Laufenn G FIT EQ+ (LK41)",
+      "brand": "Laufenn",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3315,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/laufenn/lk41/185-65-r15-88-h--korea-korean-dot26",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV – 235/60 R18",
-      "brand": "ماركات متعددة",
+      "name": "Hankook Kinergy Eco2 (K435)",
+      "brand": "Hankook",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3414,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/hankook/k435/185-65-r15-88-h--korea-dot26",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار نقل خفيف – 175/70 R13",
-      "brand": "ماركات متعددة",
+      "name": "Michelin Primacy 4",
+      "brand": "Michelin",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 6146,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tire/michelin/primacy-4/185-65-r15-88-h--eu-poland-dot26",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "إطار نقل خفيف – 185/65 R15",
