@@ -477,11 +477,11 @@
       "category": "لصق وأعمال يدوية",
       "brand": "UHU",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 78.38,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص UHU Paper Glue Stick وزن 8.2 جم. السعر ظهر في صفحة المتجر عند الفهرسة؛ تحقق من الحجم والتوفر."
     },
     {
       "id": "stationery-شريط-لاصق-شفاف-متعدد-لفة",
@@ -489,11 +489,11 @@
       "category": "لصق وأعمال يدوية",
       "brand": "متعدد",
       "unit": "لفة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 20,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/office-essentials",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يبدأ من 20 جنيه لشريط Scotch شفاف؛ قد يختلف حسب المقاس. السعر ظهر في صفحة المتجر عند الفهرسة؛ تحقق من الحجم والتوفر."
     },
     {
       "id": "stationery-ملف-بلاستيك-كبس-متعدد-قطعة",
@@ -8897,6 +8897,226 @@
       "merchant": "GBH",
       "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
       "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-gbh-snowman-whiteboard-marker",
+      "name": "قلم سبورة Snowman سن مائل",
+      "brand": "Snowman",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 59.85,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-pilot-whiteboard-round",
+      "name": "قلم سبورة Pilot رأس دائري",
+      "brand": "Pilot",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 61.28,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-pilot-whiteboard-chisel",
+      "name": "قلم سبورة Pilot سن مائل",
+      "brand": "Pilot",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 61.28,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-unik-whiteboard-red",
+      "name": "قلم سبورة Unik أحمر رأس مدبب 500",
+      "brand": "Unik",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 12,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-pilot-enog-hb",
+      "name": "علبة سنون Pilot ENO-G درجة HB",
+      "brand": "Pilot",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 69.83,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-pilot-eno-09",
+      "name": "علبة سنون Pilot Eno مقاس 0.9 مم",
+      "brand": "Pilot",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 69.83,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-pilot-eno-07",
+      "name": "علبة سنون Pilot Eno مقاس 0.7 مم",
+      "brand": "Pilot",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 69.83,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-penac-leads-05",
+      "name": "علبة سنون Penac High-Tech Polymer مقاس 0.5 مم",
+      "brand": "Penac",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 29.93,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-penac-mechanical-07",
+      "name": "قلم سنون Penac CCH-3 مقاس 0.7 مم",
+      "brand": "Penac",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 63.43,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-staedtler-ballpoint",
+      "name": "قلم جاف Staedtler 430 M3 سن متوسط",
+      "brand": "Staedtler",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 27.08,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-faber-1423-blue",
+      "name": "قلم جاف Faber-Castell 1423 أزرق شفاف",
+      "brand": "Faber-Castell",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 31.35,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-faber-cx7-blue",
+      "name": "قلم جاف Faber-Castell CX7 أزرق",
+      "brand": "Faber-Castell",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 31.35,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-unik-round-whiteboard",
+      "name": "قلم سبورة Unik رأس دائري",
+      "brand": "Unik",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 34.2,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-penac-crossbeam",
+      "name": "قلم جاف Penac Cross Beam سن 0.7 مم",
+      "brand": "Penac",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 34.92,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-pilot-bp1rt-10",
+      "name": "قلم Pilot BP-1RT-M مقاس 1 مم",
+      "brand": "Pilot",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 35.63,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-faber-roller-red",
+      "name": "قلم رولر Faber-Castell CX7 أحمر 0.7 مم",
+      "brand": "Faber-Castell",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 35.63,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-etafelt-red",
+      "name": "قلم ماركر Etafelt 641 أحمر دائم برأس دائري",
+      "brand": "Etafelt",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 35.63,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-stabilo-point88-blue",
+      "name": "قلم Stabilo Point 88 أزرق",
+      "brand": "Stabilo",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 64.13,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-stabilo-point88-black",
+      "name": "قلم Stabilo Point 88 أسود",
+      "brand": "Stabilo",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 64.13,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gbh-stabilo-point88-green-red",
+      "name": "قلم Stabilo Point 88 أخضر وأحمر",
+      "brand": "Stabilo",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 64.13,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
     }
   ]
 }
