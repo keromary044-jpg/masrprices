@@ -49,20 +49,26 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فتيس أوتوماتيك ATF",
-      "brand": "ماركات متعددة",
+      "name": "Mobil 1 Engine Oil 4L 5W30",
+      "brand": "Mobil 1",
       "category": "زيوت ناقل الحركة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2750,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=automotive",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت ناقل حركة يدوي",
-      "brand": "ماركات متعددة",
+      "name": "CGS Engine Coolant 5L Red-131",
+      "brand": "CGS",
       "category": "زيوت ناقل الحركة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 239,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "LuLu Hypermarket Egypt",
+      "source": "https://snapflyer.io/eg/all/products?category=automotive",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Toyota Red Coolant 50% 3.78L",
@@ -87,12 +93,15 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت باور",
-      "brand": "ماركات متعددة",
+      "name": "Total Quartz Engine Oil 4L 5W40",
+      "brand": "Total",
       "category": "سوائل",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2100,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Carrefour",
+      "source": "https://snapflyer.io/eg/all/products?category=automotive",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Mobil Fibrex 235 Grease 0.5kg",
@@ -106,12 +115,15 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "شحم محامل",
-      "brand": "ماركات متعددة",
+      "name": "Total Quartz Ineo 5W-40 Engine Oil 4L",
+      "brand": "Total",
       "category": "شحوم",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2049,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Hyper One",
+      "source": "https://snapflyer.io/eg/all/products?category=automotive",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "منظف دورة الوقود",
