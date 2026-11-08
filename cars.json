@@ -942,11 +942,12 @@
       "name": "Chevrolet N300",
       "brand": "Chevrolet",
       "category": "فان",
-      "price": null,
+      "price": 460000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://www.contactcars.com/en/car/used-prices/chevrolet/n300",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر معلن لسيارات مستعملة من موديلات متعددة؛ آخر بيانات المصدر 27 أكتوبر 2026، ويتغير حسب السنة والحالة.",
+      "priceType": "used_market_listing_average"
     },
     {
       "id": "car-069",
@@ -2421,22 +2422,24 @@
       "name": "Proton Persona",
       "brand": "Proton",
       "category": "سيدان",
-      "price": null,
+      "price": 400000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://www.contactcars.com/en/car/used-prices/proton",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط أسعار إعلانات بروتون بيرسونا المستعملة؛ يتغير حسب سنة الصنع والحالة.",
+      "priceType": "used_market_listing_average"
     },
     {
       "id": "car-202",
       "name": "Proton Gen-2",
       "brand": "Proton",
       "category": "هاتشباك",
-      "price": null,
+      "price": 380000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://www.contactcars.com/en/car/used-prices/proton",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط أسعار إعلانات بروتون جين 2 المستعملة؛ يتغير حسب سنة الصنع والحالة.",
+      "priceType": "used_market_listing_average"
     },
     {
       "id": "car-203",
