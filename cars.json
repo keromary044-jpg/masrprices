@@ -1583,11 +1583,12 @@
       "name": "Mitsubishi L200",
       "brand": "Mitsubishi",
       "category": "بيك أب",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 891850,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/mitsubishi/l200/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لفئة Mitsubishi L200 2.4L Single Cab GL (2WD) موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-125",
@@ -2694,22 +2695,24 @@
       "name": "Haval Dargo",
       "brand": "Haval",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1400000,
+      "modelYear": 2026,
+      "source": "https://eg-car.com/car-make/%D9%87%D8%A7%D9%81%D8%A7%D9%84/",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Haval Dargo Pro 2026 وفق قائمة الأسعار المنشورة في نوفمبر 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-224",
       "name": "Haval H9",
       "brand": "Haval",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2000000,
+      "modelYear": 2026,
+      "source": "https://eg-car.com/new-car/%D9%87%D8%A7%D9%81%D8%A7%D9%84-h9-2026/",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Haval H9 Luxury 2026؛ الفئة الأعلى Supreme بسعر 2,500,000 جنيه.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-225",
@@ -2883,11 +2886,12 @@
       "name": "Dongfeng AX7",
       "brand": "Dongfeng",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 600000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/dongfeng/ax7/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي المنشور لفئة Dongfeng AX7 1.5T E1 موديل 2026 في مصر؛ فئة E2 منشورة بسعر 1,126,005 جنيه.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-241",
