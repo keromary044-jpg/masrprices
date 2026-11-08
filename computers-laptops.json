@@ -930,74 +930,114 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماوس – AMD Ryzen 5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "NVIDIA GeForce GT 710 2GB",
+      "brand": "NVIDIA",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2900,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Kimo Store",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماوس ألعاب – Intel Core i3 / 8GB / 256GB",
-      "brand": "ماركات متعددة",
+      "name": "NVIDIA GeForce GT 730 4GB",
+      "brand": "NVIDIA",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2999,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "El Badr Group",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماوس ألعاب – Intel Core i5 / 8GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "AMD Radeon RX 6500 XT 8GB",
+      "brand": "AMD",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 12499,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "El Badr Group",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماوس ألعاب – Intel Core i5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "NVIDIA GeForce RTX 3050 6GB",
+      "brand": "NVIDIA",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 12999,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Maximum Hardware",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماوس ألعاب – Intel Core i7 / 16GB / 1TB",
-      "brand": "ماركات متعددة",
+      "name": "NVIDIA GeForce RTX 5050 8GB",
+      "brand": "NVIDIA",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 17170,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Compumarts",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماوس ألعاب – AMD Ryzen 5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "AMD Radeon RX 7600 8GB",
+      "brand": "AMD",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 19499,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Sigma Computer",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "لوحة مفاتيح ميكانيكية – Intel Core i3 / 8GB / 256GB",
-      "brand": "ماركات متعددة",
+      "name": "NVIDIA GeForce RTX 3060 12GB",
+      "brand": "NVIDIA",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 22000,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Maximum Hardware",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "لوحة مفاتيح ميكانيكية – Intel Core i5 / 8GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "NVIDIA GeForce RTX 5060 8GB",
+      "brand": "NVIDIA",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 22500,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "El Badr Group",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "لوحة مفاتيح ميكانيكية – Intel Core i5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "AMD Radeon RX 9060 XT 16GB",
+      "brand": "AMD",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 26500,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "El Badr Group",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "لوحة مفاتيح ميكانيكية – Intel Core i7 / 16GB / 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Intel Core i5-5500",
+      "brand": "Intel",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 4099,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "El Badr Group",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "لوحة مفاتيح ميكانيكية – AMD Ryzen 5 / 16GB / 512GB",
