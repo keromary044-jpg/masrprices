@@ -1574,6 +1574,138 @@
       "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
       "checkedAt": "2026-11-08",
       "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-mintra-notebook-100",
+      "name": "كشكول Mintra عدد 100 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Mintra",
+      "unit": "قطعة",
+      "price": 22,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-mintra-a4-80-lined",
+      "name": "كشكول Mintra A4 مسطر 80 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Mintra",
+      "unit": "قطعة",
+      "price": 39,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-mintra-square-60",
+      "name": "كراسة Mintra مربعات 60 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Mintra",
+      "unit": "قطعة",
+      "price": 15,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-mintra-stapled-60",
+      "name": "كراسة Mintra دبوس 60 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Mintra",
+      "unit": "قطعة",
+      "price": 15,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-rox-a4-40",
+      "name": "كراسة Rox A4 دبوس 40 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Rox",
+      "unit": "قطعة",
+      "price": 16,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-rox-stapled-60",
+      "name": "كراسة Rox دبوس 60 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Rox",
+      "unit": "قطعة",
+      "price": 13,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-sasco-bravo-160",
+      "name": "كشكول Sasco Bravo سلك 160 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Sasco",
+      "unit": "قطعة",
+      "price": 90,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-max-hardcover-150",
+      "name": "كشكول Max بغلاف صلب 150 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Max",
+      "unit": "قطعة",
+      "price": 95,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-faber-colors-24",
+      "name": "ألوان خشب Faber-Castell عدد 24 لون",
+      "category": "ألوان ورسم",
+      "brand": "Faber-Castell",
+      "unit": "علبة",
+      "price": 170,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-skyglory-colors-24",
+      "name": "ألوان خشب SkyGlory طويلة 24 لون",
+      "category": "ألوان ورسم",
+      "brand": "SkyGlory",
+      "unit": "علبة",
+      "price": 65,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
+    },
+    {
+      "id": "stationery-elghazawy-faber-colors-36",
+      "name": "ألوان خشب Faber-Castell عدد 36 لون",
+      "category": "ألوان ورسم",
+      "brand": "Faber-Castell",
+      "unit": "علبة",
+      "price": 250,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "السعر منشور في صفحة مستلزمات المدارس لدى متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر."
     }
   ]
 }
