@@ -971,14 +971,15 @@
     },
     {
       "id": "car-070",
-      "name": "Chevrolet D-Max",
-      "brand": "Chevrolet",
+      "name": "Isuzu D-Max",
+      "brand": "Isuzu",
       "category": "بيك أب",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1070000,
+      "modelYear": 2026,
+      "source": "https://www.elhamdimport.com/vehicles/019c8000-0009-7000-8000-000000000009",
+      "checkedAt": "2026-11-08",
+      "spec": "تم تصحيح العلامة إلى Isuzu لأن D-Max موديل إيسوزو وليس شيفروليه؛ السعر الرسمي لفئة D-Max نقل خفيف موديل 2026 من شركة الحمد، شامل ضريبة القيمة المضافة.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-071",
