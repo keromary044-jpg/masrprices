@@ -359,18 +359,26 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "Xbox Series X – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Animal Crossing: New Horizons - Nintendo Switch",
+      "brand": "Nintendo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2814,
+      "details": "السعر المعروض بالجنيه المصري وقت الرصد.",
+      "merchant": "Noon",
+      "source": "https://kolasaar.com/eg/ar/",
+      "priceStatus": "سعر منشور في مقارنة متاجر مصرية؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "Xbox Series X – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "The Legend of Zelda: Echoes of Wisdom - Nintendo Switch",
+      "brand": "Nintendo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2999,
+      "details": "السعر المعروض بالجنيه المصري وقت الرصد.",
+      "merchant": "Raneen",
+      "source": "https://kolasaar.com/eg/ar/",
+      "priceStatus": "سعر منشور في مقارنة متاجر مصرية؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Microsoft Xbox Series S",
@@ -384,11 +392,15 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "Xbox Series S – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "Gran Turismo 7 - PS5",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2145,
+      "details": "السعر المعروض بالجنيه المصري وقت الرصد.",
+      "merchant": "Jumia",
+      "source": "https://kolasaar.com/eg/ar/",
+      "priceStatus": "سعر منشور في مقارنة متاجر مصرية؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Xbox Series S – حزمة مع لعبة",
