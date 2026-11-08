@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
   "region": "أسعار متجر كارفور الإلكتروني في مصر؛ قد تختلف حسب الفرع والتوصيل",
   "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000",
@@ -10,9 +10,10 @@
       "category": "أرز وبقوليات",
       "brand": "المزاج",
       "unit": "1 كجم",
-      "price": 26.99,
-      "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "price": 25.5,
+      "merchant": "Carrefour Egypt",
+      "checkedAt": "2026-11-08",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200"
     },
     {
       "id": "grocery-rice-darham",
@@ -20,9 +21,10 @@
       "category": "أرز وبقوليات",
       "brand": "دراهم",
       "unit": "1 كجم",
-      "price": 23.99,
-      "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "price": 24.99,
+      "merchant": "Carrefour Egypt",
+      "checkedAt": "2026-11-08",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200"
     },
     {
       "id": "grocery-rice-doha",
@@ -31,8 +33,9 @@
       "brand": "الضحى",
       "unit": "1 كجم",
       "price": 44.5,
-      "merchant": "Carrefour",
-      "checkedAt": "2026-11-02"
+      "merchant": "Carrefour Egypt",
+      "checkedAt": "2026-11-08",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200"
     },
     {
       "id": "grocery-pasta-ahl300",
@@ -2422,6 +2425,72 @@
       "checkedAt": "",
       "brand": "غير محدد",
       "unit": "عبوة/وزن حسب المنتج"
+    },
+    {
+      "id": "grocery-rice-doha5kg-20261108",
+      "name": "أرز الضحى المصري 5 كجم",
+      "brand": "الضحى",
+      "category": "أرز وبقوليات",
+      "unit": "5 كجم",
+      "price": 209.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "grocery-rice-elsaa-20261108",
+      "name": "أرز الساعة الأبيض 1 كجم",
+      "brand": "الساعة",
+      "category": "أرز وبقوليات",
+      "unit": "1 كجم",
+      "price": 31.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "grocery-pasta-maleka-spaghetti-1kg-20261108",
+      "name": "مكرونة الملكة اسباجتي 1 كجم",
+      "brand": "الملكة",
+      "category": "مكرونة",
+      "unit": "1 كجم",
+      "price": 39.5,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "grocery-pasta-khatira-rings-280g-20261108",
+      "name": "مكرونة خطيرة خواتم 280 جم",
+      "brand": "خطيرة",
+      "category": "مكرونة",
+      "unit": "280 جم",
+      "price": 9.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "grocery-pasta-regina-spaghetti-400g-20261108",
+      "name": "مكرونة ريجينا اسباجتي 400 جم",
+      "brand": "ريجينا",
+      "category": "مكرونة",
+      "unit": "400 جم",
+      "price": 30.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "grocery-lentils-doha-500g-20261108",
+      "name": "عدس أصفر الضحى 500 جم",
+      "brand": "الضحى",
+      "category": "بقوليات",
+      "unit": "500 جم",
+      "price": 62.5,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+      "checkedAt": "2026-11-08"
     }
   ],
   "notice": " الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية."
