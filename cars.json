@@ -1694,11 +1694,12 @@
       "name": "Mazda 6",
       "brand": "Mazda",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 635000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/mazda/6/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي المنشور لفئات Mazda 6 2026 الجديدة في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-136",
@@ -3303,55 +3304,60 @@
       "name": "Volvo XC40",
       "brand": "Volvo",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2750000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/volvo/xc40/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Volvo XC40 2.0T T5 FWD Momentum موديل 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-279",
       "name": "Volvo XC60",
       "brand": "Volvo",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 4200000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/volvo/xc60/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لفئات Volvo XC60 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-280",
       "name": "Volvo XC90",
       "brand": "Volvo",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 4950000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/volvo/xc90/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لفئات Volvo XC90 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-281",
       "name": "Volvo S60",
       "brand": "Volvo",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2895700,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/volvo/s60/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة Volvo S60 2.0T B4 MHEV R Design موديل 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-282",
       "name": "Land Rover Range Rover Evoque",
       "brand": "Land Rover",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 3237000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/land-rover/range-rover-evoque/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Range Rover Evoque 2.0T S موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-283",
@@ -3369,22 +3375,24 @@
       "name": "Land Rover Defender",
       "brand": "Land Rover",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 3273225,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/land-rover/defender/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Land Rover Defender 90 SE Base (P300) موديل 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-285",
       "name": "Porsche Macan",
       "brand": "Porsche",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 4471856,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/porsche/macan/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Porsche Macan Base موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-286",
@@ -3413,22 +3421,24 @@
       "name": "Tesla Model 3",
       "brand": "Tesla",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2303000,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/tesla/model-3/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Tesla Model 3 Long Range موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-289",
       "name": "Tesla Model Y",
       "brand": "Tesla",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2399520,
+      "modelYear": 2026,
+      "source": "https://egypt.arabiawheel.com/new-car/tesla/model-y/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة Tesla Model Y Long Range موديل 2026 في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-290",
