@@ -245,74 +245,124 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "حلة ضغط – قطعة واحدة",
-      "brand": "ماركات متعددة",
+      "name": "Arabian Stainless Steel Olive Oil Sprayer",
+      "brand": "Arabian",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 199,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "Oil sprayer",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "حلة ضغط – طقم 2 قطعة",
-      "brand": "ماركات متعددة",
+      "name": "Aramex Wooden Coaster",
+      "brand": "Aramex",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 50,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "Wood coaster",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "حلة ضغط – طقم 3 قطع",
-      "brand": "ماركات متعددة",
+      "name": "Arabian Manual Flour Sifter",
+      "brand": "Arabian",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 164.95,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "Sifter",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "حلة ضغط – طقم 5 قطع",
-      "brand": "ماركات متعددة",
+      "name": "Al Fath Kitchen Apron 15 Pieces",
+      "brand": "Al Fath",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 75,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "15 pcs",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "طاسة قلي – قطعة واحدة",
-      "brand": "ماركات متعددة",
+      "name": "Helal Dishes Colander",
+      "brand": "Helal",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 339,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "Colander",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "طاسة قلي – طقم 2 قطعة",
-      "brand": "ماركات متعددة",
+      "name": "Heroplast Plastic Rice Strainer",
+      "brand": "Heroplast",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 134.95,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "Strainer",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "طاسة قلي – طقم 3 قطع",
-      "brand": "ماركات متعددة",
+      "name": "Neoflam Measure Cup Set 5 Count",
+      "brand": "Neoflam",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 165,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "5 count",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "طاسة قلي – طقم 5 قطع",
-      "brand": "ماركات متعددة",
+      "name": "Tramontina Tradicional Knife Size 6",
+      "brand": "Tramontina",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 385,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "Size 6",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "طاسة جريل – قطعة واحدة",
-      "brand": "ماركات متعددة",
+      "name": "Zahran Nylon Utensils Set 6 Count",
+      "brand": "Zahran",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 399,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "6 count",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "طاسة جريل – طقم 2 قطعة",
-      "brand": "ماركات متعددة",
+      "name": "Arabian Oil Strainer Size 5",
+      "brand": "Arabian",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 179,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر.",
+      "unit": "Size 5",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8090900",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "طاسة جريل – طقم 3 قطع",
