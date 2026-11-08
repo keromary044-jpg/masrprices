@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://masrprices-new.keromary044.workers.dev/sitemap.xml
+Sitemap: https://masrprices.pages.dev/sitemap.xml
