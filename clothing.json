@@ -484,14 +484,14 @@
     },
     {
       "id": "clothing-بنطلون-أطفال-متعدد-مقاسات-متعددة",
-      "name": "بنطلون أطفال",
+      "name": "LCW Kids Loose Fit Boys' Jeans",
       "category": "ملابس أطفال",
-      "brand": "متعدد",
+      "brand": "LCW Kids",
       "unit": "مقاسات متعددة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
+      "price": 899,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/jeans-u-300194",
+      "checkedAt": "2026-11-08",
       "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
     },
     {
@@ -914,27 +914,36 @@
     },
     {
       "id": "cloth-catalog-0033",
-      "name": "بنطلون جينز رجالي – أسود مقاس S",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "LCW Jeans 779 Regular Fit Men's Jeans",
+      "category": "ملابس رجالية",
+      "brand": "LCW Jeans",
+      "price": 1099,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-jeans-t-194",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0034",
-      "name": "بنطلون جينز رجالي – أسود مقاس M",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "LCW Jeans 745 Baggy Fit Men's Jeans",
+      "category": "ملابس رجالية",
+      "brand": "LCW Jeans",
+      "price": 1299,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-jeans-t-194",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0035",
-      "name": "بنطلون جينز رجالي – أسود مقاس L",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "LCW Jeans 780 Jogger Fit Men's Jeans",
+      "category": "ملابس رجالية",
+      "brand": "LCW Jeans",
+      "price": 999,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-jeans-t-194",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0036",
@@ -954,11 +963,14 @@
     },
     {
       "id": "cloth-catalog-0038",
-      "name": "بنطلون جينز رجالي – أبيض مقاس M",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "LCW Jeans 750 Slim Fit Men's Jeans",
+      "category": "ملابس رجالية",
+      "brand": "LCW Jeans",
+      "price": 999,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-jeans-t-194",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0039",
@@ -2322,27 +2334,36 @@
     },
     {
       "id": "cloth-catalog-0209",
-      "name": "بنطلون جينز حريمي – أسود مقاس S",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "LCW EVERYDAY Wideleg Fit Women's Jeans",
+      "category": "ملابس نسائية",
+      "brand": "LCW EVERYDAY",
+      "price": 899,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/women-jeans-t-196",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0210",
-      "name": "بنطلون جينز حريمي – أسود مقاس M",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "LCW Comfort Wideleg Women's Jeans",
+      "category": "ملابس نسائية",
+      "brand": "LCW Comfort",
+      "price": 1299,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/women-jeans-t-196",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0211",
-      "name": "بنطلون جينز حريمي – أسود مقاس L",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "XSIDE Belted Waist Straight Fit Women's Jeans",
+      "category": "ملابس نسائية",
+      "brand": "XSIDE",
+      "price": 1699,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/women-jeans-t-196",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0212",
@@ -2362,11 +2383,14 @@
     },
     {
       "id": "cloth-catalog-0214",
-      "name": "بنطلون جينز حريمي – أبيض مقاس M",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "LCW Modest Wideleg Women's Jeans",
+      "category": "ملابس نسائية",
+      "brand": "LCW Modest",
+      "price": 1099,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/women-jeans-t-196",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0215",
@@ -2378,11 +2402,14 @@
     },
     {
       "id": "cloth-catalog-0216",
-      "name": "بنطلون جينز حريمي – أزرق مقاس M",
-      "category": "ملابس وأحذية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "name": "LCW EVERYDAY Slim Mom Women's Jeans",
+      "category": "ملابس نسائية",
+      "brand": "LCW EVERYDAY",
+      "price": 1099,
+      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء.",
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/women-jeans-t-196",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cloth-catalog-0217",
