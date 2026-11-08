@@ -417,11 +417,11 @@
       "category": "أدوات مكتبية",
       "brand": "Kangaro",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 175,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص دباسة Kangaro PRO.45 سعة 30 ورقة. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
     },
     {
       "id": "stationery-دبابيس-دباسة-kangaro-علبة",
@@ -429,11 +429,11 @@
       "category": "أدوات مكتبية",
       "brand": "Kangaro",
       "unit": "علبة",
-      "price": 27.08,
-      "merchant": "GBH",
-      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
+      "price": 20,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
       "checkedAt": null,
-      "details": "السعر يخص Kangaro 24/6 Staples، عبوة 1000 دبوس. السعر شامل الضريبة كما ظهر في صفحة المتجر؛ تحقق من التوفر."
+      "details": "السعر يخص دبابيس Kangaro مقاس 24-6، عبوة 1000 دبوس. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
     },
     {
       "id": "stationery-خرامة-ورق-kangaro-قطعة",
@@ -441,11 +441,11 @@
       "category": "أدوات مكتبية",
       "brand": "Kangaro",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 155,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص خرامة ورق Kangaro DP-540 بفتحتين. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
     },
     {
       "id": "stationery-مقص-مدرسي-maped-قطعة",
@@ -9777,6 +9777,226 @@
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
       "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-hyundai-clear-a4-dg8320",
+      "name": "حافظة Hyundai مكتبية شفافة A4 موديل DG-8320A4",
+      "brand": "Hyundai",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 19,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-sasco-transparent-file-60mic",
+      "name": "ملف Sasco شفاف 60 ميكرون",
+      "brand": "Sasco",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 1,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-clear-book-holder-a4-30",
+      "name": "حافظة أوراق Clear Book مقاس A4 عدد 30 جيبًا",
+      "brand": "متعدد",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-display-book-a4-60",
+      "name": "ملف عرض A4 عدد 60 جيبًا شفافًا",
+      "brand": "متعدد",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 19,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-digital-looseleaf-a4-4cm",
+      "name": "ملف Digital Loose Leaf A4 ارتفاع 4 سم",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 70,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-digital-pocket-folder-a4-30",
+      "name": "ملف Digital A4 عدد 30 جيبًا رمادي",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 32,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-digital-note-holder",
+      "name": "حامل ملاحظات Digital ألوان متنوعة",
+      "brand": "Digital",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 33,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-digital-paper-holder-a4-40",
+      "name": "حافظة أوراق Digital A4 عدد 40 جيبًا",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 37,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-digital-pocket-folder-a4-20",
+      "name": "ملف Digital A4 عدد 20 جيبًا متعدد الألوان",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 26,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-transparent-paper-holder-a4-40",
+      "name": "حافظة أوراق شفافة A4 عدد 40 جيبًا رمادي",
+      "brand": "متعدد",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 16,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-hyundai-document-holder-10",
+      "name": "حافظة مستندات Hyundai A4 عدد 10 جيوب",
+      "brand": "Hyundai",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 15,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-digital-b4-writing-board",
+      "name": "لوح كتابة Digital مقاس B4 بغطاء PVC",
+      "brand": "Digital",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 65,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-digital-a4-notebook-cover",
+      "name": "غلاف كشكول مدرسي Digital بلاستيك A4",
+      "brand": "Digital",
+      "category": "أدوات مدرسية",
+      "unit": "قطعة",
+      "price": 55,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-mintra-easy-bind-45",
+      "name": "ملف Mintra Easy Bind مقاس 4.5 مم",
+      "brand": "Mintra",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 14,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-mintra-files-holder-25",
+      "name": "حافظة ملفات Mintra مقاس 25 مم سوداء",
+      "brand": "Mintra",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 66,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-mintra-royal-classier-8",
+      "name": "ملف Mintra Royal Classier ارتفاع 8 سم رمادي",
+      "brand": "Mintra",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 28,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-eclair-white-ring-2",
+      "name": "ملف Eclair بحلقتين أبيض",
+      "brand": "Eclair",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 80,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gazelle-dl-envelope-50-90",
+      "name": "عبوة 50 ظرف Gazelle DL مقاس 90×140 مم وزن 100 جم",
+      "brand": "Gazelle",
+      "category": "مظاريف وورق",
+      "unit": "قطعة",
+      "price": 50,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-gazelle-dl-envelope-50-220",
+      "name": "عبوة 50 ظرف Gazelle DL مقاس 220×110 مم وزن 80 جم",
+      "brand": "Gazelle",
+      "category": "مظاريف وورق",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-yassin-c5-selfadhesive-50",
+      "name": "ظرف Yassin C5 لاصق ذاتيًا مقاس 229×162 مم",
+      "brand": "Yassin",
+      "category": "مظاريف وورق",
+      "unit": "قطعة",
+      "price": 75,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
     }
   ]
 }
