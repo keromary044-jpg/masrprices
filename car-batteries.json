@@ -93,11 +93,15 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "بطارية سيارة جافة – 45 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Chloride Gold NS60 45Ah Car Battery",
+      "brand": "Chloride",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2250,
+      "details": "بطارية 12V سعة 45Ah؛ السعر المعروض 2,250 جنيه.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/brands/chloride",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "بطارية سيارة جافة – 55 أمبير",
@@ -107,53 +111,81 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "بطارية سيارة جافة – 60 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Chloride Gold N60L 60Ah Car Battery",
+      "brand": "Chloride",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2726,
+      "details": "بطارية كلورايد جولد 60Ah؛ السعر المعروض 2,726 جنيه.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Deepa",
+      "source": "https://deepa-eg.com/ar/batteries",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية سيارة جافة – 65 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Chloride Gold NS70L 65Ah Car Battery",
+      "brand": "Chloride",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3306,
+      "details": "بطارية كلورايد جولد 65Ah؛ السعر المعروض 3,306 جنيه.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Deepa",
+      "source": "https://deepa-eg.com/ar/batteries",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية سيارة جافة – 70 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Bosch TD70 70Ah Car Battery",
+      "brand": "Bosch",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3388,
+      "details": "سعر كتالوج 8 نوفمبر 2026 لبطارية بوش TD70؛ التوافر والسعر النهائي يتأكدان قبل الطلب.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية سيارة جافة – 75 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Blazaro 75Ah Car Battery",
+      "brand": "Blazaro",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 5171,
+      "details": "أقل سعر متاح معروض لفئة 75Ah في كتالوج 8 نوفمبر 2026.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية سيارة جافة – 80 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Blazaro 80Ah Car Battery",
+      "brand": "Blazaro",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 5001,
+      "details": "أقل سعر متاح معروض لفئة 80Ah في كتالوج 8 نوفمبر 2026.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية سيارة جافة – 90 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "G-Force Gold Spark 90Ah Car Battery",
+      "brand": "G-Force / Gold Spark",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3616,
+      "details": "أقل سعر متاح معروض لفئة 90Ah في كتالوج 8 نوفمبر 2026.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية سيارة جافة – 100 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Blazaro 100Ah Car Battery",
+      "brand": "Blazaro",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 6121,
+      "details": "أقل سعر متاح معروض لفئة 100Ah في كتالوج 8 نوفمبر 2026.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "بطارية سيارة جافة – 120 أمبير",
