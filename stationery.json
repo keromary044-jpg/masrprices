@@ -9190,10 +9190,10 @@
       "brand": "UHU",
       "category": "لصق وأعمال يدوية",
       "unit": "قطعة",
-      "price": 70,
+      "price": 65,
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
-      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+      "details": "السعر الظاهر لاصق UHU شفاف متعدد الأغراض 35 مل؛ تاريخ تحديث المتجر غير مؤكد، تحقق قبل الشراء."
     },
     {
       "id": "stationery-store-uhu-liquid-20",
@@ -9557,6 +9557,226 @@
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/stationary-supplies",
       "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة منذ يومين؛ راجع المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-paper-clips-25mm-12",
+      "name": "علبة مشابك ورق 25 مم عدد 12 قطعة DL0004",
+      "brand": "DL",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 14,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-coloring-book-basic",
+      "name": "كتاب تلوين",
+      "brand": "متعدد",
+      "category": "كتب وأنشطة",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-finger-wetting-sponge-dl0529",
+      "name": "إسفنجة ترطيب الأصابع بغطاء DL0529",
+      "brand": "DL",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 28,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pritt-glue-stick-43",
+      "name": "قلم لاصق Pritt أبيض 43 جم",
+      "brand": "Pritt",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 75,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-deli-white-glue-40",
+      "name": "لاصق Deli أبيض 40 جم 39445",
+      "brand": "Deli",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 19,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stanger-correction-tape",
+      "name": "شريط تصحيح Stanger عرض 5 مم وطول 8 مم",
+      "brand": "Stanger",
+      "category": "أدوات تصحيح",
+      "unit": "قطعة",
+      "price": 90,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-deli-correction-tape-ns156",
+      "name": "شريط تصحيح Deli NS156",
+      "brand": "Deli",
+      "category": "أدوات تصحيح",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eagle-tape-dispenser-large",
+      "name": "موزع شريط لاصق Eagle كبير 898",
+      "brand": "Eagle",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 160,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-hyundai-tape-dispenser-large",
+      "name": "موزع شريط لاصق Hyundai كبير TP-03",
+      "brand": "Hyundai",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 74,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eagle-tape-dispenser-medium",
+      "name": "موزع شريط لاصق Eagle متوسط 898M",
+      "brand": "Eagle",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 75,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eagle-tape-dispenser-small",
+      "name": "موزع شريط لاصق Eagle صغير 898S",
+      "brand": "Eagle",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 50,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-deli-tape-dispenser-medium",
+      "name": "موزع شريط لاصق Deli متوسط 815",
+      "brand": "Deli",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-deli-tape-dispenser-large",
+      "name": "موزع شريط لاصق Deli كبير 810",
+      "brand": "Deli",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-deli-slottape-dispenser",
+      "name": "موزع شريط لاصق Deli SlotTape موديل 808",
+      "brand": "Deli",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-magic-tape-dispenser-card",
+      "name": "شريط لاصق غير ظاهر Magic Tape مع موزع 18 مم",
+      "brand": "متعدد",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-tackit-strips-50",
+      "name": "شرائط لاصق Faber-Castell Tack-It خضراء 50 جم",
+      "brand": "Faber-Castell",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 80,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-tackit-tapes-50",
+      "name": "شرائط Tack-It ملونة Faber-Castell 50 جم",
+      "brand": "Faber-Castell",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 70,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-double-face-slices-50",
+      "name": "شرائح لاصق مزدوج الوجه Faber-Castell 50 جم",
+      "brand": "Faber-Castell",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-tackit-paste-50",
+      "name": "معجون لاصق Faber-Castell Tack It أخضر 50 جم 187091",
+      "brand": "Faber-Castell",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-transparent-double-tape-5m",
+      "name": "شريط لاصق شفاف مزدوج الوجه 5 أمتار",
+      "brand": "متعدد",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 50,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأيام الأخيرة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
