@@ -1,19 +1,21 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
-  "notice": "دليل أولي لفئات قطع الغيار. لا توجد أسعار منشورة مؤكدة في المصدر لهذه السجلات؛ تأكد من التوافق ورقم القطعة والسعر لدى الموزع قبل الشراء. تتضمن القائمة سجلات تعريفية إضافية. الأسعار غير المحددة غير متحققة ولا تمثل سعرًا متاحًا حاليًا.",
+  "notice": "دليل أولي لفئات قطع الغيار. لا توجد أسعار منشورة مؤكدة في المصدر لهذه السجلات؛ تأكد من التوافق ورقم القطعة والسعر لدى الموزع قبل الشراء. تتضمن القائمة سجلات تعريفية إضافية. الأسعار غير المحددة غير متحققة ولا تمثل سعرًا متاحًا حاليًا. تمت إضافة أسعار منشورة لقطع محددة مع رقم القطعة أو جيل السيارة حيث توفر.",
   "products": [
     {
       "id": "part-toyota-oil-filter",
-      "name": "فلتر زيت أصلي لتويوتا",
+      "name": "فلتر زيت أصلي Toyota Corolla (90915-YZZE1)",
       "category": "فلاتر",
       "brand": "Toyota",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 180,
+      "merchant": "الورشة – المتنبي، العبور",
+      "details": "سعر منشور للقطعة؛ يلزم مطابقة رقم القطعة وموديل وسنة السيارة.",
+      "source": "https://alwarsha.heliopoliscore.com/ar/parts?make=toyota&model=corolla",
+      "checkedAt": "2026-11-08",
+      "model": "Corolla",
+      "partNumber": "90915-YZZE1"
     },
     {
       "id": "part-toyota-air-filter",
@@ -281,15 +283,17 @@
     },
     {
       "id": "spare-parts-تيل-فرامل-أمامي-لتويوتا-كورولا-toyota-طقم",
-      "name": "تيل فرامل أمامي لتويوتا كورولا",
+      "name": "تيل فرامل أمامي Toyota Corolla (04465-02220)",
       "category": "فرامل",
       "brand": "Toyota",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 950,
+      "merchant": "الورشة – المتنبي، العبور",
+      "source": "https://alwarsha.heliopoliscore.com/ar/parts?make=toyota&model=corolla",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور؛ يلزم مطابقة رقم القطعة وسنة السيارة.",
+      "model": "Corolla",
+      "partNumber": "04465-02220"
     },
     {
       "id": "spare-parts-تيل-فرامل-خلفي-لتويوتا-كورولا-toyota-طقم",
@@ -305,27 +309,29 @@
     },
     {
       "id": "spare-parts-تيل-فرامل-أمامي-لنيسان-صني-nissan-طقم",
-      "name": "تيل فرامل أمامي لنيسان صني",
+      "name": "تيل فرامل أمامي Nissan Sunny N17",
       "category": "فرامل",
       "brand": "Nissan",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 1050,
+      "merchant": "Fit&Fix Egypt",
+      "source": "https://www.fitandfix.com/categories/spare-parts",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لنسخة N17 فقط؛ لا ينطبق تلقائيًا على جميع أجيال صني.",
+      "model": "Sunny N17"
     },
     {
       "id": "spare-parts-تيل-فرامل-أمامي-لهيونداي-إلنترا-hyundai-طقم",
-      "name": "تيل فرامل أمامي لهيونداي إلنترا",
+      "name": "تيل فرامل أمامي Hyundai Elantra 2007–2011",
       "category": "فرامل",
       "brand": "Hyundai",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 800,
+      "merchant": "Fit&Fix Egypt",
+      "source": "https://www.fitandfix.com/categories/spare-parts",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور للجيل المحدد فقط؛ يلزم مطابقة الفئة ورقم القطعة.",
+      "model": "Elantra 2007–2011"
     },
     {
       "id": "spare-parts-تيل-فرامل-أمامي-لكيا-سيراتو-kia-طقم",
