@@ -6950,6 +6950,171 @@
       "source": "https://elghazawy.com/en/sub-category/School-Supplies-",
       "checkedAt": "2026-11-08",
       "details": "سعر منشور على صفحة متجر الغزاوي بتاريخ الرصد؛ قد يتغير السعر أو التوفر، ويجب مراجعة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-apollo-07-sky",
+      "name": "قلم سنون Faber-Castell Apollo 0.7 مم أزرق سماوي",
+      "category": "أدوات كتابة",
+      "brand": "Faber-Castell",
+      "unit": "قطعة",
+      "price": 150,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-apollo-05-navy",
+      "name": "قلم سنون Faber-Castell Apollo 0.5 مم أزرق داكن",
+      "category": "أدوات كتابة",
+      "brand": "Faber-Castell",
+      "unit": "قطعة",
+      "price": 150,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-apollo-05-black",
+      "name": "قلم سنون Faber-Castell Apollo 0.5 مم أسود",
+      "category": "أدوات كتابة",
+      "brand": "Faber-Castell",
+      "unit": "قطعة",
+      "price": 150,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-apollo-07-navy",
+      "name": "قلم سنون Faber-Castell Apollo 0.7 مم أزرق داكن",
+      "category": "أدوات كتابة",
+      "brand": "Faber-Castell",
+      "unit": "قطعة",
+      "price": 150,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-apollo-07-black",
+      "name": "قلم سنون Faber-Castell Apollo 0.7 مم أسود",
+      "category": "أدوات كتابة",
+      "brand": "Faber-Castell",
+      "unit": "قطعة",
+      "price": 150,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pilot-hitec-v7-red",
+      "name": "قلم Pilot HI-TECPOINT حبر سائل 0.7 مم أحمر BX-V7-R",
+      "category": "أقلام",
+      "brand": "Pilot",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pilot-hitec-v7-blue",
+      "name": "قلم Pilot HI-TECPOINT حبر سائل 0.7 مم أزرق BX-V7-L",
+      "category": "أقلام",
+      "brand": "Pilot",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pilot-vball-grip-05-green",
+      "name": "قلم Pilot V-Ball Grip أخضر 0.5 مم BLN-VBG5-G",
+      "category": "أقلام",
+      "brand": "Pilot",
+      "unit": "قطعة",
+      "price": 36,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pilot-vball-grip-05-red",
+      "name": "قلم Pilot V-Ball Grip أحمر 0.5 مم BLN-VBG5-R",
+      "category": "أقلام",
+      "brand": "Pilot",
+      "unit": "قطعة",
+      "price": 36,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pilot-vball-grip-05-black",
+      "name": "قلم Pilot V-Ball Grip أسود 0.5 مم BLN-VBG5-B",
+      "category": "أقلام",
+      "brand": "Pilot",
+      "unit": "قطعة",
+      "price": 36,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pilot-vball-grip-05-blue",
+      "name": "قلم Pilot V-Ball Grip أزرق 0.5 مم BLN-VBG5-L",
+      "category": "أقلام",
+      "brand": "Pilot",
+      "unit": "قطعة",
+      "price": 36,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pilot-vball-grip-07-blue",
+      "name": "قلم Pilot V-Ball Grip أزرق 0.7 مم BLN-VBG7-L",
+      "category": "أقلام",
+      "brand": "Pilot",
+      "unit": "قطعة",
+      "price": 36,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pilot-vball-grip-07-black",
+      "name": "قلم Pilot V-Ball Grip أسود 0.7 مم BLN-VBG7-B",
+      "category": "أقلام",
+      "brand": "Pilot",
+      "unit": "قطعة",
+      "price": 36,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-giorgione-filbert-6",
+      "name": "طقم فرش رسم Giorgione Filbert عدد 6 قطع",
+      "category": "فرش رسم",
+      "brand": "Giorgione",
+      "unit": "قطعة",
+      "price": 135,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-giorgione-assorted-brush-12",
+      "name": "طقم فرش رسم Giorgione مقاسات متنوعة عدد 12 قطعة G-P123",
+      "category": "فرش رسم",
+      "brand": "Giorgione",
+      "unit": "قطعة",
+      "price": 200,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
