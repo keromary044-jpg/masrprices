@@ -550,11 +550,12 @@
       "name": "Hyundai i20",
       "brand": "Hyundai",
       "category": "هاتشباك",
-      "price": null,
+      "price": 750000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/used-car-prices/hyundai",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر طلب معلن لهيونداي i20 موديل 2022؛ 3 إعلانات، والنطاق المنشور 690,000–795,000 جنيه. سعر مستعمل.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-034",
@@ -572,11 +573,12 @@
       "name": "Hyundai Grand i10",
       "brand": "Hyundai",
       "category": "هاتشباك",
-      "price": null,
+      "price": 658000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/used-car-prices/hyundai",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر طلب معلن لهيونداي Grand i10 موديلات 2016–2017؛ إعلانان، والنطاق المنشور 650,000–665,000 جنيه. سعر مستعمل.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-036",
@@ -2389,11 +2391,12 @@
       "name": "BYD Seagull",
       "brand": "BYD",
       "category": "هاتشباك",
-      "price": null,
+      "price": 380000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://eg-car.com/car-make/byd/",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الرسمي المعلن لفئة BYD Seagull 2026 Standard في مصر؛ توجد فئة أخرى بسعر 500,000 جنيه.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-199",
