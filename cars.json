@@ -2523,11 +2523,12 @@
       "name": "Changan Eado",
       "brand": "Changan",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 875000,
+      "modelYear": 2026,
+      "source": "https://hatgebk.com/en/catalog/changan/prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر الفئة الأساسية Elite لسيارة Changan Eado 2026 وفق قائمة الوكيل الرسمية، سارية من 15 أكتوبر 2026.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-210",
@@ -2957,11 +2958,12 @@
       "name": "Mercedes-Benz S-Class",
       "brand": "Mercedes-Benz",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 11900000,
+      "modelYear": 2026,
+      "source": "https://www.contactcars.com/en/new-cars",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الرسمي المنشور لمرسيدس S450 2026 4M Saloon Long في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-249",
@@ -3123,11 +3125,12 @@
       "name": "BMW X7",
       "brand": "BMW",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 10200000,
+      "modelYear": 2026,
+      "source": "https://www.contactcars.com/en/new-cars",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الرسمي المنشور لسيارة BMW X7 2026 M60i في مصر.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-263",
@@ -3403,11 +3406,12 @@
       "name": "Porsche Cayenne",
       "brand": "Porsche",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 6522600,
+      "modelYear": 2026,
+      "source": "https://hatgebk.com/en/catalog/porsche/prices",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي المنشور لسيارة Porsche Cayenne ضمن قائمة أسعار الوكيل الرسمي في مصر (أكتوبر 2026).",
+      "priceType": "new_official_starting_price"
     },
     {
       "id": "car-287",
