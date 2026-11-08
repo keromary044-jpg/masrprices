@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
-  "notice": "نطاقات أسعار منشورة في تقارير صحفية عن السوق المصري ومعارض أهلا مدارس خلال 2026؛ ليست أسعار متجر واحد وقد تختلف حسب الجودة والمكان. تم توسيع الكتالوج بسجلات تعريفية إضافية؛ الأسعار غير المحددة غير متحققة وليست أسعار بيع حالية.",
+  "notice": "أسعار مسجلة من صفحات متاجر مصرية كما ظهرت بتاريخ الرصد؛ قد تتغير الأسعار أو حالة التوفر، ويجب مراجعة صفحة المتجر قبل الشراء.",
   "products": [
     {
       "id": "stationery-notebook-28",
@@ -165,11 +165,11 @@
       "category": "أقلام",
       "brand": "Faber-Castell",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 15.68,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop?order=list_price+asc&tags=6",
+      "checkedAt": "2026-11-08",
+      "details": "سعر متجر منشور لقلم Faber Castell 2122 HB، شامل الضريبة؛ تحقق من توافر المنتج قبل الشراء."
     },
     {
       "id": "stationery-قلم-رصاص-2b-faber-castell-قطعة",
@@ -177,11 +177,11 @@
       "category": "أقلام",
       "brand": "Faber-Castell",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 21.38,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=name+asc",
+      "checkedAt": "2026-11-08",
+      "details": "سعر متجر منشور لقلم FABER CASTELL 2B، شامل الضريبة؛ تحقق من توافر المنتج قبل الشراء."
     },
     {
       "id": "stationery-قلم-سنون-0-5-مم-pilot-قطعة",
@@ -381,11 +381,11 @@
       "category": "مستلزمات كتابة",
       "brand": "Faber-Castell",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 18.53,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-110?order=website_sequence+asc",
+      "checkedAt": "2026-11-08",
+      "details": "سعر متجر منشور لممحاة Faber Castell Dust Free 7085-30D، شامل الضريبة."
     },
     {
       "id": "stationery-براية-بعلبة-maped-قطعة",
@@ -405,11 +405,11 @@
       "category": "ألوان ورسم",
       "brand": "Faber-Castell",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 49.88,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-110?order=website_sequence+asc",
+      "checkedAt": "2026-11-08",
+      "details": "سعر متجر منشور لممحاة Faber Castell Art Eraser، شامل الضريبة."
     },
     {
       "id": "stationery-دباسة-مكتبية-kangaro-قطعة",
