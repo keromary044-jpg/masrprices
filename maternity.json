@@ -115,12 +115,15 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "حقيبة مستلزمات الأم",
-      "brand": "ماركات متعددة",
+      "name": "أكياس حفظ حليب ثدي – Breast milk storage bags",
+      "brand": "Unknown",
       "category": "تنظيم",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1000,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "ecareeg",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Milk Powder Dispenser Pack of 6",
@@ -134,39 +137,59 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "شفاط حليب يدوي – صغير",
-      "brand": "ماركات متعددة",
+      "name": "شفاط حليب الثدي الكهربائي جينتل فيد 4P من جرانزيا – Electric breast pump Golden Feed 4P",
+      "brand": "Granazia",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 6000,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "ecareeg",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شفاط حليب يدوي – متوسط",
-      "brand": "ماركات متعددة",
+      "name": "شفاط حليب الثدي الكهربائي جولدن فيد من جرانزيا – Granzia Golden Feed electric breast pump",
+      "brand": "Granazia",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 5500,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "ecareeg",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شفاط حليب يدوي – كبير",
-      "brand": "ماركات متعددة",
+      "name": "شفاط حليب الثدي اليدوي سوفت فيد – Soft Feed Manual Breast Pump From Granzia",
+      "brand": "Granazia",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 900,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "ecareeg",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شفاط حليب يدوي – طقم",
-      "brand": "ماركات متعددة",
+      "name": "مضخة الثدي الكهربائية روزفيد من جرانزيا – ROSEFEED Electric breast pump from Granzia",
+      "brand": "Granazia",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 4830,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "ecareeg",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شفاط حليب كهربائي – صغير",
-      "brand": "ماركات متعددة",
+      "name": "حزام للحفاظ على الحمل",
+      "brand": "Unknown",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 450,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "ecareeg",
+      "source": "https://ecareeg.com/product-category/baby-mother-care/pregnancy-maternity/",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "شفاط حليب كهربائي – متوسط",
