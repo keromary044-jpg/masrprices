@@ -8545,6 +8545,226 @@
       "merchant": "Moubarak Bookstore",
       "source": "https://moubarakstore.com/en/categories/school-supplies",
       "details": "السعر ظهر في صفحة متجر مبارك المفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-wax-crayons-12",
+      "name": "علبة ألوان شمع Stabilo عدد 12 لونًا",
+      "brand": "Stabilo",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 64,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-wax-wallet-12",
+      "name": "محفظة ألوان شمع Stabilo عدد 12 لونًا",
+      "brand": "Stabilo",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 95,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-jumbo-wax-12",
+      "name": "محفظة ألوان شمع Stabilo Jumbo عدد 12 لونًا",
+      "brand": "Stabilo",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 168,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-wax-wallet-24",
+      "name": "محفظة ألوان شمع Stabilo عدد 24 لونًا",
+      "brand": "Stabilo",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 199,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-eraser-small-white",
+      "name": "ممحاة Stabilo Supreme صغيرة بيضاء",
+      "brand": "Stabilo",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 14.5,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-trio-eraser-large",
+      "name": "ممحاة Stabilo Trio مثلثة كبيرة",
+      "brand": "Stabilo",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 18.75,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-exam-eraser-black",
+      "name": "ممحاة Stabilo Exam Grade متوسطة سوداء",
+      "brand": "Stabilo",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 20.25,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-point88-04",
+      "name": "قلم تحديد Stabilo Point 88 سن 0.4 مم",
+      "brand": "Stabilo",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 43,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-point88-neon-6",
+      "name": "محفظة أقلام Stabilo Point 88 نيون عدد 6",
+      "brand": "Stabilo",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 235.75,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-boss-original",
+      "name": "قلم تحديد Stabilo Boss Original",
+      "brand": "Stabilo",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 64.5,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-boss-set-4",
+      "name": "طقم أقلام تحديد Stabilo Boss Original عدد 4",
+      "brand": "Stabilo",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 299.75,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-sharpener-deposit",
+      "name": "براية Stabilo Exam Grade بعلبة تجميع",
+      "brand": "Stabilo",
+      "category": "برايات",
+      "unit": "قطعة",
+      "price": 45,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stabilo-dressmaker-sketchbook",
+      "name": "كراسة رسم مربعات Stabilo Dressmaker عدد 48 ورقة",
+      "brand": "Stabilo",
+      "category": "رسم وتخطيط",
+      "unit": "قطعة",
+      "price": 50.75,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-marker-black-washable",
+      "name": "قلم ماركر Faber-Castell أسود دائم قابل للغسل",
+      "brand": "Faber-Castell",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-marker-green-chisel",
+      "name": "قلم ماركر Faber-Castell أخضر سن مائل",
+      "brand": "Faber-Castell",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-marker-orange-chisel",
+      "name": "قلم ماركر Faber-Castell برتقالي سن مائل",
+      "brand": "Faber-Castell",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-marker-indigo-chisel",
+      "name": "قلم ماركر Faber-Castell نيلي سن مائل",
+      "brand": "Faber-Castell",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-marker-red-chisel",
+      "name": "قلم ماركر Faber-Castell أحمر سن مائل",
+      "brand": "Faber-Castell",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-9000-3b",
+      "name": "قلم رصاص Faber-Castell 9000 درجة 3B",
+      "brand": "Faber-Castell",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 26,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-9000-4b",
+      "name": "قلم رصاص Faber-Castell 9000 درجة 4B",
+      "brand": "Faber-Castell",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 26,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
