@@ -11020,18 +11020,30 @@
       "os": "حسب النسخة والتحديثات",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة الرسمية",
-      "source": "https://priceteq.com/eg/product/4d438444-4851-4ba3-a262-029886952a01",
-      "sourceLabel": "PriceTeq – مطابقة مرفوضة (الصفحة تخص تابلت وليس هاتفًا)",
-      "priceEGP": null,
-      "priceSource": "غير مؤكد – مصدر غير مطابق",
-      "priceStatus": "غير مؤكد: صفحة PriceTeq المرتبطة كانت تخص جهاز HONOR X9A Pad اللوحي بشاشة 11.5 بوصة، وليس هاتف HONOR X9a؛ تم رفض المطابقة وعدم اعتماد السعر حتى العثور على صفحة هاتف مطابقة.",
-      "priceOffers": [],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "merchant": "Cairo Drop Egypt",
+      "source": "https://priceteq.com/eg/phones?brand=Honor",
+      "sourceLabel": "PriceTeq – أقل سعر منشور لموديل HONOR X9A 8GB/128GB 4G",
+      "priceEGP": 15899,
+      "priceSource": "PriceTeq – أقل سعر منشور لموديل HONOR X9A 8GB/128GB 4G",
+      "priceStatus": "15,899 جنيه لنسخة 8GB/128GB 4G كما تظهر في قائمة أسعار Honor المصرية. حالة المخزون لدى المتجر تحتاج تأكيدًا.",
+      "priceOffers": [
+        {
+          "merchant": "PriceTeq – مقارنة المتاجر المصرية",
+          "priceEGP": 15899,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/phones?brand=Honor",
+          "sourceLabel": "PriceTeq – أقل سعر منشور لموديل HONOR X9A 8GB/128GB 4G",
+          "checkedAt": "2026-11-08",
+          "observedAt": "2026-11-08",
+          "availability": "unknown"
+        }
+      ],
+      "priceCheckedAt": "2026-11-08",
+      "priceObservedAt": "2026-11-08",
+      "merchant": "PriceTeq – مقارنة المتاجر المصرية",
       "priceAvailability": "unknown",
-      "priceVerifiedAt": "2026-11-07T20:12:58+02:00",
-      "priceLastVerifiedAt": "2026-11-07T20:12:58+02:00"
+      "priceVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceLastVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceSourceUrl": "https://priceteq.com/eg/phones?brand=Honor"
     },
     {
       "id": "honor-x8a",
@@ -16334,15 +16346,33 @@
       "os": "حسب النسخة",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة",
-      "source": "https://reekoo-mobile.com/ar/about-us/",
-      "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "source": "https://reekoo-mobile.com/phone/allcall/",
+      "sourceLabel": "السعر الرسمي المنشور لدى AllCall Egypt",
+      "priceEGP": 5000,
+      "priceSource": "السعر الرسمي المنشور لدى AllCall Egypt",
+      "priceStatus": "السعر الرسمي المنشور 5,000 جنيه؛ المنتج معروض حاليًا بنفاد المخزون.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": [],
+      "priceOffers": [
+        {
+          "merchant": "AllCall Egypt",
+          "priceEGP": 5000,
+          "variant": "تختلف حسب النسخة",
+          "source": "https://reekoo-mobile.com/phone/allcall/",
+          "sourceLabel": "السعر الرسمي المنشور لدى AllCall Egypt",
+          "checkedAt": "2026-11-08",
+          "observedAt": "2026-11-08",
+          "availability": "out_of_stock"
+        }
+      ],
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo"
+      "priceSearchLastAttempt": "2026-11-07 09:08 Cairo",
+      "priceSourceUrl": "https://reekoo-mobile.com/phone/allcall/",
+      "priceCheckedAt": "2026-11-08",
+      "priceObservedAt": "2026-11-08",
+      "priceAvailability": "out_of_stock",
+      "merchant": "AllCall Egypt",
+      "priceVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceLastVerifiedAt": "2026-11-08T03:20:00+02:00"
     },
     {
       "id": "allcall-hero-60-max",
@@ -16406,13 +16436,31 @@
       "os": "حسب النسخة",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة",
-      "source": "https://reekoo-mobile.com/ar/about-us/",
-      "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "source": "https://reekoo-mobile.com/phone/reekoo/",
+      "sourceLabel": "السعر الرسمي المنشور لدى Reekoo Egypt",
+      "priceEGP": 5000,
+      "priceSource": "السعر الرسمي المنشور لدى Reekoo Egypt",
+      "priceStatus": "السعر الرسمي المنشور 5,000 جنيه؛ المنتج معروض حاليًا بنفاد المخزون.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "AllCall / Reekoo Egypt",
+          "priceEGP": 5000,
+          "variant": "تختلف حسب النسخة",
+          "source": "https://reekoo-mobile.com/phone/reekoo/",
+          "sourceLabel": "السعر الرسمي المنشور لدى Reekoo Egypt",
+          "checkedAt": "2026-11-08",
+          "observedAt": "2026-11-08",
+          "availability": "out_of_stock"
+        }
+      ],
+      "priceSourceUrl": "https://reekoo-mobile.com/phone/reekoo/",
+      "priceCheckedAt": "2026-11-08",
+      "priceObservedAt": "2026-11-08",
+      "priceAvailability": "out_of_stock",
+      "merchant": "AllCall / Reekoo Egypt",
+      "priceVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceLastVerifiedAt": "2026-11-08T03:20:00+02:00"
     },
     {
       "id": "reekoo-hero-70-max",
@@ -16465,13 +16513,31 @@
       "os": "حسب النسخة",
       "connectivity": "حسب النسخة",
       "build": "راجع صفحة الشركة",
-      "source": "https://reekoo-mobile.com/ar/about-us/",
-      "sourceLabel": "صفحة الشركة / المصنع",
-      "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "source": "https://reekoo-mobile.com/phone/reekoo/",
+      "sourceLabel": "السعر الرسمي المنشور لدى Reekoo Egypt",
+      "priceEGP": 5000,
+      "priceSource": "السعر الرسمي المنشور لدى Reekoo Egypt",
+      "priceStatus": "السعر الرسمي المنشور 5,000 جنيه؛ المنتج معروض حاليًا بنفاد المخزون.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": []
+      "priceOffers": [
+        {
+          "merchant": "AllCall / Reekoo Egypt",
+          "priceEGP": 5000,
+          "variant": "تختلف حسب النسخة",
+          "source": "https://reekoo-mobile.com/phone/reekoo/",
+          "sourceLabel": "السعر الرسمي المنشور لدى Reekoo Egypt",
+          "checkedAt": "2026-11-08",
+          "observedAt": "2026-11-08",
+          "availability": "out_of_stock"
+        }
+      ],
+      "priceSourceUrl": "https://reekoo-mobile.com/phone/reekoo/",
+      "priceCheckedAt": "2026-11-08",
+      "priceObservedAt": "2026-11-08",
+      "priceAvailability": "out_of_stock",
+      "merchant": "AllCall / Reekoo Egypt",
+      "priceVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceLastVerifiedAt": "2026-11-08T03:20:00+02:00"
     },
     {
       "id": "reekoo-note-60-max",
@@ -29780,7 +29846,7 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "تم اعتماد 3 أسعار إضافية بعد مطابقة الموديل وسعة الذاكرة مع مصادر أسعار مصرية منشورة. بعض القيم تمثل أقل سعر مرصود أو قائمة متجر، وليست ضمانًا باستمرار التوفر؛ راجع حالة كل سجل.",
+  "priceUpdateNote": "أضيفت أربعة أسعار موثقة جديدة: HONOR X9a من مقارنة أسعار مصرية، وثلاثة أسعار رسمية منشورة من AllCall/Reekoo؛ تم تمييز الموديلات المعروضة بنفاد المخزون بوضوح. الموديلات القديمة أو التي لا يظهر لها سعر مصري مطابق بقيت بلا سعر لتجنب اختلاق أرقام.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo",
   "lastManualPriceVerification": "2026-11-07T20:25:57+02:00"
 }
