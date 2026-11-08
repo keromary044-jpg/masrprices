@@ -11405,6 +11405,226 @@
       "merchant": "Kassem Store",
       "source": "https://kassemstore.com/shop",
       "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mintra-a4-jumbo-200",
+      "name": "كشكول Mintra A4 Jumbo سلك 5 مواد عدد 200 ورقة",
+      "brand": "Mintra",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 175,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-canson-sketch-35x50",
+      "name": "كراسة رسم Canson مقاس 35×50 سم متعددة الألوان",
+      "brand": "Canson",
+      "category": "رسم وتخطيط",
+      "unit": "قطعة",
+      "price": 140,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mintra-jumbo-120",
+      "name": "كشكول Mintra A4 Jumbo سلك 3 مواد عدد 120 ورقة",
+      "brand": "Mintra",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 120,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-notte-trend-lined",
+      "name": "كراسة Notte غلاف بلاستيك مسطرة",
+      "brand": "Notte",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 165,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-notte-seyes",
+      "name": "كراسة Notte غلاف بلاستيك French Seyes",
+      "brand": "Notte",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 145,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-notte-squared",
+      "name": "كراسة Notte غلاف بلاستيك مربعات",
+      "brand": "Notte",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 85,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-secret-diary-lock",
+      "name": "دفتر يوميات بقفل لون عشوائي",
+      "brand": "متعدد",
+      "category": "دفاتر ومذكرات",
+      "unit": "قطعة",
+      "price": 225,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-world-colors-a4",
+      "name": "كشكول Wire Lined World of Colors مقاس A4",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 240,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-spiral-trend-lined",
+      "name": "كشكول Spiral Plastic Cover Trend مسطر",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 240,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-trend-lined",
+      "name": "كراسة Plastic Cover Trend مسطرة لون عشوائي",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 115,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-pin-lined-80",
+      "name": "كشكول Pin مسطر عدد 80 ورقة",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 125,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mintra-french-seyes-40",
+      "name": "كراسة Mintra Excluso French Seyes عدد 40 ورقة",
+      "brand": "Mintra",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 45,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-french-seyes-a4-48",
+      "name": "ورق French Seyes مقاس A4 عدد 48 ورقة",
+      "brand": "متعدد",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 42,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-cut-paste-paper",
+      "name": "طقم ورق ملون للقص واللصق",
+      "brand": "متعدد",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-craft-foam-paper",
+      "name": "ورق فوم للأعمال اليدوية",
+      "brand": "متعدد",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-glitter-foam-paper",
+      "name": "ورق فوم لامع للأعمال اليدوية",
+      "brand": "متعدد",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 50,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-eva-sticker-glitter",
+      "name": "ملصقات فوم EVA لامعة",
+      "brand": "متعدد",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 70,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-sinar-spectra-100",
+      "name": "ورق Sinar Spectra ملون عدد 100 ورقة",
+      "brand": "Sinar",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 80,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-colored-cardstock-a4",
+      "name": "ورق كرتون ملون A4",
+      "brand": "متعدد",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-yassin-divider-6",
+      "name": "فواصل ملفات Yassin عدد 6 ألوان",
+      "brand": "Yassin",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
