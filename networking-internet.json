@@ -149,18 +149,26 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "راوتر ADSL – منفذ واحد",
-      "brand": "ماركات متعددة",
+      "name": "TP-Link USB 3.0 Gigabit Ethernet Network Adapter - UE300",
+      "brand": "Tp-Link",
       "category": "الشبكات والإنترنت",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 599,
+      "details": "السعر المعروض بالجنيه المصري في صفحة مقارنة الأسعار وقت الرصد.",
+      "merchant": "2B",
+      "source": "https://kolasaar.com/eg/ar/",
+      "priceStatus": "سعر منشور من مقارنة متاجر مصرية؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "راوتر ADSL – 4 منافذ",
-      "brand": "ماركات متعددة",
+      "name": "D-Link N300 Wireless Router - DIR-612",
+      "brand": "D-Link",
       "category": "الشبكات والإنترنت",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 699,
+      "details": "السعر المعروض بالجنيه المصري في صفحة مقارنة الأسعار وقت الرصد.",
+      "merchant": "2B",
+      "source": "https://kolasaar.com/eg/ar/",
+      "priceStatus": "سعر منشور من مقارنة متاجر مصرية؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "راوتر ADSL – 8 منافذ",
