@@ -73,7 +73,7 @@ jobs:
           ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
           urls = [node.text for node in sitemap.findall("sm:url/sm:loc", ns)]
           assert urls, "Sitemap contains no URLs"
-          base = "https://masrprices-new.keromary044.workers.dev/"
+          base = "https://masrprices.pages.dev/"
           assert all(url.startswith(base) for url in urls), "Sitemap contains a URL outside the production origin"
           seo_products = json.loads((root / "seo-products.json").read_text(encoding="utf-8"))
           product_slugs = [item.get("slug") for item in seo_products]
