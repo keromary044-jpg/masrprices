@@ -2472,11 +2472,12 @@
       "name": "Lada Granta",
       "brand": "Lada",
       "category": "سيدان",
-      "price": null,
+      "price": 305000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/used-car-prices/lada/granta-sedan",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر الطلب لسيارات Lada Granta Sedan المستعملة في مصر: 305,000 جنيه من 9 إعلانات (سنوات 1992–2022). السعر ليس قيمة بيع نهائية.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-206",
