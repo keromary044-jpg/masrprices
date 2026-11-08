@@ -11185,6 +11185,226 @@
       "merchant": "Shopzawy",
       "source": "https://shopzawy.com/en/category/office-products/",
       "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-faber-graphite-eraser",
+      "name": "قلم رصاص Faber-Castell Graphite مع ممحاة",
+      "brand": "Faber-Castell",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 9,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-pritt-glue-10",
+      "name": "قلم لاصق Pritt وزن 10 جم",
+      "brand": "Pritt",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 40,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-pritt-glue-40",
+      "name": "قلم لاصق Pritt وزن 40 جم",
+      "brand": "Pritt",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 80,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-faber-goldfaber",
+      "name": "قلم رصاص Faber-Castell Goldfaber",
+      "brand": "Faber-Castell",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 11,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-faber-graphite",
+      "name": "قلم رصاص Faber-Castell Graphite",
+      "brand": "Faber-Castell",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 8,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-uniball-laknock",
+      "name": "قلم Uni-ball Laknock جاف",
+      "brand": "Uni-ball",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 40,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-uniball-eye",
+      "name": "قلم Uni-ball Eye Rollerball",
+      "brand": "Uni-ball",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 50,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mg-office-gel",
+      "name": "قلم جل مكتبي M&G",
+      "brand": "M&G",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 12,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-blue-refill",
+      "name": "عبوة إعادة تعبئة قلم أزرق",
+      "brand": "متعدد",
+      "category": "أقلام وملحقاتها",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-donga-xq-leads",
+      "name": "علبة سنون Dong-A XQ",
+      "brand": "Dong-A",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-uniball-signo",
+      "name": "قلم جل Uni-ball Signo",
+      "brand": "Uni-ball",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 45,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-faber-cx7",
+      "name": "قلم جاف Faber-Castell CX7",
+      "brand": "Faber-Castell",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 16,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-faber-gripx",
+      "name": "قلم جاف Faber-Castell Grip X قابل للسحب",
+      "brand": "Faber-Castell",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-faber-metallic-highlighter",
+      "name": "قلم تحديد معدني Faber-Castell",
+      "brand": "Faber-Castell",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mg-roller-gel-05",
+      "name": "قلم جل رولر M&G مقاس 0.5 مم",
+      "brand": "M&G",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-pilot-rexgrip",
+      "name": "قلم Pilot Rexgrip Fineliner مقاس 0.7 مم",
+      "brand": "Pilot",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 40,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-staedtler-tradition",
+      "name": "قلم رصاص Staedtler Tradition",
+      "brand": "Staedtler",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 28,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-staedtler-noris",
+      "name": "قلم رصاص Staedtler Noris",
+      "brand": "Staedtler",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-stabilo-leads-24",
+      "name": "علبة سنون Stabilo Hi Polymer عدد 24",
+      "brand": "Stabilo",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 5.25,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mg-mechanical-09",
+      "name": "قلم سنون M&G ميكانيكي 0.9 مم",
+      "brand": "M&G",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يختلف حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
