@@ -1100,11 +1100,12 @@
       "name": "Renault Symbol",
       "brand": "Renault",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 270000,
+      "modelYear": 2009,
+      "source": "https://www.contactcars.com/sitemap.xmlcoll/used-cars/renault-symbol",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الوسيط التقريبي من إعلانات Renault Symbol 2009 المستعملة؛ بيانات 4 إعلانات حديثة في مصر.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-082",
@@ -1266,11 +1267,12 @@
       "name": "Citroen Berlingo",
       "brand": "Citroen",
       "category": "فان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 350000,
+      "modelYear": 2009,
+      "source": "https://egypt.arabiawheel.com/used-car-prices/citroen",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر الطلب لسيارات Citroen Berlingo 2009 المستعملة في مصر؛ إعلانان ونطاق 345,000–355,000 جنيه.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-097",
@@ -1478,11 +1480,12 @@
       "name": "Suzuki APV",
       "brand": "Suzuki",
       "category": "فان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 230000,
+      "modelYear": 2017,
+      "source": "https://egypt.yallamotor.com/used-cars/suzuki/apv/2017/used-suzuki-apv-2017-cairo-1531932",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Suzuki APV 2017 مستعملة في القاهرة؛ إعلان واحد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-116",
