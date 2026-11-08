@@ -11064,6 +11064,127 @@
       "merchant": "Eltawfeek Stationery",
       "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
       "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-safezone-hardcover",
+      "name": "كشكول SafeZone بغلاف صلب A5 عدد 200 صفحة",
+      "brand": "SafeZone",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 200,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/products/stay-safezone-notebook-wired-hardcover/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-floral-safezone",
+      "name": "كشكول Floral Symphony SafeZone سلك بغلاف صلب",
+      "brand": "SafeZone",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 210,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/category/office-products/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-pocket-ya-ret",
+      "name": "كشكول جيب Ya Ret Zamany بغلاف صلب 130 صفحة",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 200,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/products/ya-ret-zamany-pocket-notebook/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-double-lined-100",
+      "name": "ورق مسطر سطرين عدد 100 ورقة 31.5×20 سم",
+      "brand": "متعدد",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 119,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/products/double-lined-paper-100-sheets/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-prima-coloring-18",
+      "name": "طقم أقلام تلوين Prima عدد 18 قلمًا (3 عبوات × 6)",
+      "brand": "Prima",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 111,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/category/office-products/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-faber-color-pencil-24",
+      "name": "طقم ألوان خشب Faber-Castell عدد 24 قلمًا (عبوتان × 12)",
+      "brand": "Faber-Castell",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 287,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/category/office-products/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-wire-sketch-2",
+      "name": "طقم كراسات رسم سلك 40 ورقة وزن 80 جم مقاس 25×34 سم عدد 2",
+      "brand": "متعدد",
+      "category": "رسم وتخطيط",
+      "unit": "قطعة",
+      "price": 189,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/category/office-products/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-faber-classic-24",
+      "name": "علبة ألوان خشب Faber-Castell Classic عدد 24 قلمًا",
+      "brand": "Faber-Castell",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 289,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/category/office-products/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-kangaro-dp600",
+      "name": "خرامة ورق Kangaro DP-600 زرقاء",
+      "brand": "Kangaro",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 199,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/category/office-products/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-deli-punch-0121",
+      "name": "خرامة ورق Deli 0121 بيضاء",
+      "brand": "Deli",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 599,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/category/office-products/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-shopzawy-double-face-tape-10m",
+      "name": "شريط لاصق مزدوج الوجه 10 متر عرض 20 مم",
+      "brand": "متعدد",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 130,
+      "merchant": "Shopzawy",
+      "source": "https://shopzawy.com/en/category/office-products/",
+      "details": "السعر منشور في صفحة المتجر المفهرسة خلال الأيام الأخيرة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
