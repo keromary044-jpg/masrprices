@@ -10294,6 +10294,226 @@
       "merchant": "El-Fagala",
       "source": "https://www.fagalaonline.com/collections/school-items-1",
       "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-belal-colored-50",
+      "name": "عبوة ورق ملون Belal وزن 80 جم عدد 50 ورقة",
+      "brand": "Belal",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 95,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-inacopia-a4-100-70",
+      "name": "عبوة ورق تصوير Inacopia A4 عدد 100 ورقة وزن 70 جم",
+      "brand": "Inacopia",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 240,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-inacopia-a5-250",
+      "name": "عبوة ورق تصوير Inacopia A5 عدد 250 ورقة وزن 70 جم",
+      "brand": "Inacopia",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 80,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-doublea-a4-500",
+      "name": "ريزمة ورق تصوير Double A A4 وزن 80 جم عدد 500 ورقة",
+      "brand": "Double A",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 265,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-colored-copy-4colors-50",
+      "name": "عبوة ورق تصوير ملون 4 ألوان A4 عدد 50 ورقة",
+      "brand": "متعدد",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 80,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-sinar-spectra-a4-100",
+      "name": "عبوة ورق طباعة Sinar Spectra A4 وزن 80 جم عدد 100 ورقة",
+      "brand": "Sinar",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-inacopia-a4-100-80",
+      "name": "عبوة ورق تصوير Inacopia A4 وزن 80 جم عدد 100 ورقة",
+      "brand": "Inacopia",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 95,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-inacopia-a4-250-100",
+      "name": "عبوة ورق تصوير Inacopia Elite A4 وزن 100 جم عدد 250 ورقة",
+      "brand": "Inacopia",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 250,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-simba-multicolor-100",
+      "name": "عبوة ورق تصوير Simba خمسة ألوان وزن 80 جم عدد 100 ورقة",
+      "brand": "Simba",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-inacopia-a4-100-100g",
+      "name": "عبوة ورق تصوير Inacopia A4 وزن 100 جم عدد 100 ورقة",
+      "brand": "Inacopia",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-inacopia-a3-500",
+      "name": "ريزمة ورق تصوير Inacopia Elite A3 وزن 80 جم عدد 500 ورقة",
+      "brand": "Inacopia",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 195,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-simba-cyan-a4-100",
+      "name": "عبوة ورق تصوير Simba سماوي A4 وزن 80 جم عدد 100 ورقة",
+      "brand": "Simba",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 85,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-elite-a4-colored-100",
+      "name": "عبوة ورق تصوير ملون A4 وزن 80 جم عدد 100 ورقة",
+      "brand": "متعدد",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 75,
+      "merchant": "Elite Stationery House",
+      "source": "https://elitestationeryhouse.com/collections/paper-products-2005",
+      "details": "الشحن يبدأ من 100 جنيه ويُحسب منفصلًا. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bayan-canson-a4-150",
+      "name": "ورقة رسم Canson ملونة A4 وزن 150 جم",
+      "brand": "Canson",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 6.25,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/collections/art-craft-paper",
+      "details": "السعر للورقة الواحدة. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bayan-fabriano-a4-180",
+      "name": "ورقة رسم Fabriano ملونة A4 وزن 180 جم",
+      "brand": "Fabriano",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 6.25,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/collections/art-craft-paper",
+      "details": "السعر للورقة الواحدة. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bayan-power-selfadhesive-a4",
+      "name": "دفتر ورق ملون لاصق ذاتيًا Power A4 للقص واللصق",
+      "brand": "Power",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 28,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/collections/art-craft-paper",
+      "details": "السعر للعبوة. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bayan-deligao-tracing-10",
+      "name": "عبوة ورق شفاف Deligao A4 وزن 70 جم عدد 10 أوراق",
+      "brand": "Deligao",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 29.5,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/collections/art-craft-paper",
+      "details": "السعر للعبوة. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bayan-3a-tracing-10",
+      "name": "عبوة ورق شفاف 3A A4 وزن 70 جم عدد 10 أوراق",
+      "brand": "3A",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/collections/art-craft-paper",
+      "details": "السعر للعبوة. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bayan-canson-tracing-10",
+      "name": "عبوة ورق شفاف Canson A4 وزن 70 جم عدد 10 أوراق",
+      "brand": "Canson",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 39.75,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/collections/art-craft-paper",
+      "details": "السعر للعبوة. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bayan-apple-chart-b1",
+      "name": "ورقة كرتون ملون Apple Chart مقاس B1 وزن 180 جم",
+      "brand": "Apple",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 40,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/collections/art-craft-paper",
+      "details": "السعر للورقة الواحدة. السعر كما ظهر في صفحة المتجر؛ تحقق من التوفر قبل الشراء."
     }
   ]
 }
