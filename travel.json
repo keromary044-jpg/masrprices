@@ -8,26 +8,22 @@
       "name": "المتحف المصري بالتحرير",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": 30,
-      "merchant": "وزارة السياحة والآثار",
-      "details": "السعر للمصري البالغ؛ الطالب 10 جنيه. راجع فئات التذاكر وسياسة الزيارة بالمصدر الرسمي.",
-      "source": "https://egymonuments.gov.eg/museums/egyptian-museum",
-      "checkedAt": "2026-11-08",
-      "priceStatus": "verified",
-      "unit": "تذكرة بالغ مصري"
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "تحقق من سعر التذكرة وموعد الزيارة قبل الذهاب.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
     },
     {
       "id": "travel-grand-egyptian",
       "name": "المتحف المصري الكبير",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": 220,
-      "merchant": "المتحف المصري الكبير",
-      "details": "السعر للمصري البالغ اعتبارًا من 1 نوفمبر 2026؛ الطلاب والأطفال 110 جنيه. تحقق من الحجز والتصنيفات قبل الزيارة.",
-      "source": "https://www.egypttoday.com/Article/4/150275/Grand-Egyptian-Museum-Announces-New-Ticket-Prices-Starting-November-1",
-      "checkedAt": "2026-11-08",
-      "priceStatus": "verified",
-      "unit": "تذكرة بالغ مصري"
+      "price": null,
+      "merchant": "بوابة التذاكر الرسمية",
+      "details": "التذاكر والحجز من البوابة الرسمية.",
+      "source": "https://egymonuments.gov.eg/en",
+      "checkedAt": "2026-11-02"
     },
     {
       "id": "travel-karnak",

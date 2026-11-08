@@ -260,7 +260,7 @@
       "brand": "Samsung",
       "price": 23333,
       "merchant": "Carrefour Egypt",
-      "source": "https://www.carrefouregypt.com/mafegy/en/c/promo-tvs-deals",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
       "checkedAt": "2026-11-02"
     },
     {
@@ -280,7 +280,7 @@
       "brand": "Samsung",
       "price": 22777,
       "merchant": "Carrefour Egypt",
-      "source": "https://www.carrefouregypt.com/mafegy/en/c/promo-tvs-deals",
+      "source": "https://www.carrefouregypt.com/mafegy/en",
       "checkedAt": "2026-11-02"
     },
     {
@@ -365,55 +365,51 @@
     },
     {
       "id": "elx-0001",
-      "name": "Samsung U8000H 43 inch 4K Vision AI Smart Crystal UHD TV",
+      "name": "Samsung Crystal UHD 4K 43",
       "category": "الشاشات والتلفزيونات",
       "brand": "Samsung",
-      "price": 16999,
-      "merchant": "Orange eShop",
-      "source": "https://www.egprices.com/en/product/samsung-u8000h-43-inch-4k-vision-ai-smart-crystal-uhd-tv",
-      "checkedAt": "2026-11-08",
-      "priceStatus": "verified",
-      "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
-      "model": "UA43U8000HUXEG"
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "priceStatus": "غير متحقق",
+      "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
     },
     {
       "id": "elx-0002",
-      "name": "Samsung 55-inch 4K Crystal UHD Smart TV 55U8000F",
+      "name": "Samsung Crystal UHD 4K 50",
       "category": "الشاشات والتلفزيونات",
       "brand": "Samsung",
-      "price": 24786,
-      "merchant": "Carrefour Egypt",
-      "source": "https://www.carrefouregypt.com/mafegy/en/c/promo-tvs-deals",
-      "checkedAt": "2026-11-08",
-      "priceStatus": "verified",
-      "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
-      "model": "55U8000F"
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "priceStatus": "غير متحقق",
+      "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
     },
     {
       "id": "elx-0003",
-      "name": "Samsung 65-inch 4K Crystal UHD Smart TV 65U8000F",
+      "name": "Samsung Crystal UHD 4K 55",
       "category": "الشاشات والتلفزيونات",
       "brand": "Samsung",
-      "price": 26499,
-      "merchant": "Carrefour Egypt",
-      "source": "https://www.carrefouregypt.com/mafegy/en/c/promo-tvs-deals",
-      "checkedAt": "2026-11-08",
-      "priceStatus": "verified",
-      "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
-      "model": "65U8000F"
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "priceStatus": "غير متحقق",
+      "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
     },
     {
       "id": "elx-0004",
-      "name": "Samsung 85-inch 4K Crystal UHD Smart TV 85U8000F",
+      "name": "Samsung QLED Q60 55",
       "category": "الشاشات والتلفزيونات",
       "brand": "Samsung",
-      "price": 57999,
-      "merchant": "Carrefour Egypt",
-      "source": "https://www.carrefouregypt.com/mafegy/en/c/promo-tvs-deals",
-      "checkedAt": "2026-11-08",
-      "priceStatus": "verified",
-      "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
-      "model": "85U8000F"
+      "price": null,
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "priceStatus": "غير متحقق",
+      "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
     },
     {
       "id": "elx-0005",
