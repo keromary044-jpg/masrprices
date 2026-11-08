@@ -2611,22 +2611,24 @@
       "name": "JAC S3",
       "brand": "JAC",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 560000,
+      "modelYear": 2019,
+      "source": "https://eg.hatla2ee.com/en/car/jac/s3/6852493",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان JAC S3 موديل 2019 مستعملة في القاهرة؛ إعلان محدد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-216",
       "name": "JAC S4",
       "brand": "JAC",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 667000,
+      "modelYear": 2021,
+      "source": "https://eg.instadriv.com/en/used-cars/prices/jac/s4",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر JAC S4 موديل 2021 المستعملة في مصر وفق InstaDriv؛ النطاق 644,000–690,000 جنيه.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-217",
@@ -2834,33 +2836,36 @@
       "name": "DFSK Glory 330",
       "brand": "DFSK",
       "category": "فان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 520000,
+      "modelYear": 2019,
+      "source": "https://www.contactcars.com/en/car/used-prices/dfsk/glory_330",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان DFSK Glory 330 موديل 2019 مستعملة؛ إعلان واحد في القاهرة.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-236",
       "name": "DFSK Glory 580",
       "brand": "DFSK",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 650000,
+      "modelYear": 2019,
+      "source": "https://egypt.yallamotor.com/used-cars/dfsk/glory-580",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان DFSK Glory 580 1.5T موديل 2019 مستعملة في القاهرة؛ إعلان واحد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-237",
       "name": "DFSK Eagle 580",
       "brand": "DFSK",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 675000,
+      "modelYear": 2019,
+      "source": "https://eg.hatla2ee.com/en/car/dfsk?condition=used",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان DFSK Eagle 580 موديل 2019 مستعملة في القاهرة؛ إعلان محدد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-238",
