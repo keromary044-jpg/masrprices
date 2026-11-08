@@ -194,11 +194,11 @@
       "name": "Nissan Sunny",
       "brand": "Nissan",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 820000,
+      "modelYear": "2026",
+      "source": "https://mena.org.eg/ar/news/نيسان-مصر-تعلن-أسعار-سياراتها-الجديدة-خلال-نوفمبر",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية نيسان صني المعلن في تحديث نوفمبر 2026؛ الفئات الأعلى أغلى."
     },
     {
       "id": "car-002",
@@ -502,11 +502,11 @@
       "name": "Hyundai Elantra AD",
       "brand": "Hyundai",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 999000,
+      "modelYear": "2026",
+      "source": "https://www.contactcars.com/en/new-cars/hyundai-elantra_ad",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة Baseline المنشور للموديل؛ الفئات الأعلى لها أسعار مختلفة."
     },
     {
       "id": "car-030",
@@ -744,33 +744,33 @@
       "name": "Kia Sportage",
       "brand": "Kia",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1850000,
+      "modelYear": "2026",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/كيا/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية كيا سبورتاج في قائمة نوفمبر 2026؛ الفئات الأعلى أغلى."
     },
     {
       "id": "car-052",
       "name": "Kia Sorento",
       "brand": "Kia",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 3549900,
+      "modelYear": "2026",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/كيا/",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لكيا سورينتو في قائمة نوفمبر 2026."
     },
     {
       "id": "car-053",
       "name": "Kia Seltos",
       "brand": "Kia",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1369900,
+      "modelYear": "2026",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/كيا/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية كيا سيلتوس في قائمة نوفمبر 2026."
     },
     {
       "id": "car-054",
@@ -821,11 +821,11 @@
       "name": "Kia Carnival",
       "brand": "Kia",
       "category": "MPV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 3849900,
+      "modelYear": "2026",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/كيا/",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لكيا كرنفال في قائمة نوفمبر 2026."
     },
     {
       "id": "car-059",
@@ -1096,44 +1096,44 @@
       "name": "Peugeot 208",
       "brand": "Peugeot",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 850000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/بيجو/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية بيجو 208 لفئة Active في قائمة نوفمبر 2026."
     },
     {
       "id": "car-084",
       "name": "Peugeot 2008",
       "brand": "Peugeot",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1499990,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/بيجو/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية بيجو 2008 لفئة Allure في قائمة نوفمبر 2026."
     },
     {
       "id": "car-085",
       "name": "Peugeot 3008",
       "brand": "Peugeot",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2099990,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/بيجو/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية بيجو 3008 لفئة Allure في قائمة نوفمبر 2026."
     },
     {
       "id": "car-086",
       "name": "Peugeot 5008",
       "brand": "Peugeot",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2274990,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/بيجو/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية بيجو 5008 لفئة Allure في قائمة نوفمبر 2026."
     },
     {
       "id": "car-087",
@@ -1250,11 +1250,11 @@
       "name": "Fiat Tipo",
       "brand": "Fiat",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 795000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/فيات/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية فيات تيبو لفئة Entry Plus في قائمة نوفمبر 2026."
     },
     {
       "id": "car-098",
@@ -1316,66 +1316,66 @@
       "name": "Fiat 500X",
       "brand": "Fiat",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1100000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/فيات/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فيات 500X لفئة Cross في قائمة نوفمبر 2026."
     },
     {
       "id": "car-104",
       "name": "Suzuki Alto",
       "brand": "Suzuki",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 535000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوزوكي ألتو لفئة Standard في قائمة نوفمبر 2026."
     },
     {
       "id": "car-105",
       "name": "Suzuki Celerio",
       "brand": "Suzuki",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 450000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لسوزوكي سيليريو في قائمة نوفمبر 2026؛ راجع الوكيل لتأكيد التوفر."
     },
     {
       "id": "car-106",
       "name": "Suzuki Swift",
       "brand": "Suzuki",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 880000,
+      "modelYear": "2026",
+      "source": "https://www.contactcars.com/ar/new-cars/suzuki-swift",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة GLX Single المنشور في نوفمبر 2026؛ توجد فئات أخرى بسعر مختلف."
     },
     {
       "id": "car-107",
       "name": "Suzuki Dzire",
       "brand": "Suzuki",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 885000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوزوكي ديزاير لفئة GLX في قائمة نوفمبر 2026."
     },
     {
       "id": "car-108",
       "name": "Suzuki Baleno",
       "brand": "Suzuki",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1090000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوزوكي بالينو لفئة Standard في قائمة نوفمبر 2026."
     },
     {
       "id": "car-109",
@@ -1393,33 +1393,33 @@
       "name": "Suzuki Ertiga",
       "brand": "Suzuki",
       "category": "MPV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1185000,
+      "modelYear": "2026",
+      "source": "https://hatgebk.com/ar/catalog/suzuki/prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوزوكي إرتيجا المنشور في قائمة الأسعار؛ تحقق من الفئة والتوافر."
     },
     {
       "id": "car-111",
       "name": "Suzuki S-Presso",
       "brand": "Suzuki",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 705000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوزوكي إس بريسو لفئة Standard في قائمة نوفمبر 2026."
     },
     {
       "id": "car-112",
       "name": "Suzuki Vitara",
       "brand": "Suzuki",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1100000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوزوكي فيتارا لفئة GL في قائمة نوفمبر 2026."
     },
     {
       "id": "car-113",
@@ -1470,44 +1470,44 @@
       "name": "Mitsubishi Attrage",
       "brand": "Mitsubishi",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 740000,
+      "modelYear": "2025",
+      "source": "https://eg-car.com/car-make/ميتسوبيشي/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر ميتسوبيشي أتراج لفئة Highline في قائمة نوفمبر 2026."
     },
     {
       "id": "car-118",
       "name": "Mitsubishi Mirage",
       "brand": "Mitsubishi",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 755000,
+      "modelYear": "2025",
+      "source": "https://eg-car.com/car-make/ميتسوبيشي/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر ميتسوبيشي ميراج لفئة Highline في قائمة نوفمبر 2026."
     },
     {
       "id": "car-119",
       "name": "Mitsubishi Xpander",
       "brand": "Mitsubishi",
       "category": "MPV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1350000,
+      "modelYear": "2027",
+      "source": "https://eg.hatla2ee.com/news/205743",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية ميتسوبيشي إكسباندر لفئة Midline في قائمة نوفمبر 2026."
     },
     {
       "id": "car-120",
       "name": "Mitsubishi Eclipse Cross",
       "brand": "Mitsubishi",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1400000,
+      "modelYear": "2026",
+      "source": "https://www.mitsubishimotors-eg.com/ar/buy",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية إكليبس كروس المنشور على موقع ميتسوبيشي مصر."
     },
     {
       "id": "car-121",
@@ -1756,22 +1756,22 @@
       "name": "Skoda Octavia",
       "brand": "Skoda",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1650000,
+      "modelYear": "2026",
+      "source": "https://www.contactcars.com/ar/new-cars/skoda-octavia",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر فئة Selection Loft المنشور بتاريخ 8 نوفمبر 2026؛ الفئات الأعلى أغلى."
     },
     {
       "id": "car-144",
       "name": "Skoda Superb",
       "brand": "Skoda",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 2350000,
+      "modelYear": "2026",
+      "source": "https://hatgebk.com/ar/catalog/skoda/prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية سكودا سوبيرب في قائمة الأسعار المنشورة؛ يختلف حسب الفئة."
     },
     {
       "id": "car-145",
@@ -1800,11 +1800,11 @@
       "name": "Skoda Kodiaq",
       "brand": "Skoda",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 3150000,
+      "modelYear": "2026",
+      "source": "https://hatgebk.com/ar/catalog/skoda/prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية سكودا كودياك في قائمة الأسعار المنشورة؛ يختلف حسب الفئة."
     },
     {
       "id": "car-148",
@@ -2009,44 +2009,44 @@
       "name": "MG MG 5",
       "brand": "MG",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 889990,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/mg/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية MG 5 لفئة Standard في قائمة نوفمبر 2026."
     },
     {
       "id": "car-167",
       "name": "MG MG 6",
       "brand": "MG",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1280000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/mg/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية MG 6 لفئة Black Interior في قائمة نوفمبر 2026."
     },
     {
       "id": "car-168",
       "name": "MG MG GT",
       "brand": "MG",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1110000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/mg/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية MG GT لفئة Comfort في قائمة نوفمبر 2026."
     },
     {
       "id": "car-169",
       "name": "MG ZS",
       "brand": "MG",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1075000,
+      "modelYear": "2026",
+      "source": "https://eg-car.com/car-make/mg/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية MG ZS لفئة Comfort في قائمة نوفمبر 2026."
     },
     {
       "id": "car-170",
@@ -2086,11 +2086,11 @@
       "name": "MG One",
       "brand": "MG",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1425000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/mg/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر MG One لفئة Luxury في قائمة نوفمبر 2026."
     },
     {
       "id": "car-174",
@@ -2108,11 +2108,11 @@
       "name": "Chery Arrizo 5",
       "brand": "Chery",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 705000,
+      "modelYear": "2026",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية شيري أريزو 5 المنشور في قائمة نوفمبر 2026؛ توجد فئات أعلى."
     },
     {
       "id": "car-176",
@@ -2306,11 +2306,11 @@
       "name": "BYD F3",
       "brand": "BYD",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 650000,
+      "modelYear": "2026",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية BYD F3 المنشور في قائمة أرخص السيارات الجديدة؛ قد تختلف الفئة."
     },
     {
       "id": "car-194",
@@ -2383,11 +2383,11 @@
       "name": "Proton Saga",
       "brand": "Proton",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 685000,
+      "modelYear": "2027",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/بروتون/",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر المنشور لبروتون ساجا في قائمة نوفمبر 2026."
     },
     {
       "id": "car-201",
@@ -2614,11 +2614,11 @@
       "name": "Haval Jolion",
       "brand": "Haval",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1025000,
+      "modelYear": "2026",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/هافال/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية هافال جوليان في قائمة نوفمبر 2026."
     },
     {
       "id": "car-222",
@@ -2658,55 +2658,55 @@
       "name": "Jetour X70",
       "brand": "Jetour",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1095000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/جيتور/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية جيتور X70 لفئة Comfort في قائمة نوفمبر 2026."
     },
     {
       "id": "car-226",
       "name": "Jetour X70 Plus",
       "brand": "Jetour",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1275000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/جيتور/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر جيتور X70 Plus لفئة Luxury Local في قائمة نوفمبر 2026."
     },
     {
       "id": "car-227",
       "name": "Jetour X90 Plus",
       "brand": "Jetour",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1560000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/جيتور/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر جيتور X90 Plus لفئة Luxury في قائمة نوفمبر 2026."
     },
     {
       "id": "car-228",
       "name": "Jetour Dashing",
       "brand": "Jetour",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1155000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/جيتور/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية جيتور Dashing لفئة Comfort في قائمة نوفمبر 2026."
     },
     {
       "id": "car-229",
       "name": "Jetour T2",
       "brand": "Jetour",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1900000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/جيتور/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية جيتور T2 لفئة Comfort في قائمة نوفمبر 2026؛ الفئات الهجينة أعلى."
     },
     {
       "id": "car-230",
@@ -2746,11 +2746,11 @@
       "name": "BAIC U5 Plus",
       "brand": "BAIC",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 725000,
+      "modelYear": "2026",
+      "source": "https://guarantee-car.com/اسعار-السيارات/الجديدة/بايك/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر بداية BAIC U5 Plus في قائمة نوفمبر 2026."
     },
     {
       "id": "car-234",
@@ -2834,22 +2834,22 @@
       "name": "GAC GS3",
       "brand": "GAC",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1014000,
+      "modelYear": "2027",
+      "source": "https://eg-car.com/car-make/gac/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر GAC GS3 Emzoom لفئة GS في قائمة نوفمبر 2026."
     },
     {
       "id": "car-242",
       "name": "GAC GS4",
       "brand": "GAC",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1355000,
+      "modelYear": "2025",
+      "source": "https://eg-car.com/car-make/gac/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر GAC GS4 لفئة GE في قائمة نوفمبر 2026."
     },
     {
       "id": "car-243",
