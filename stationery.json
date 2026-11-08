@@ -638,7 +638,12 @@
       "category": "أدوات مدرسية",
       "brand": "متعدد",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "details": "Roto Tree Touch عبوة 12 قلم جاف أزرق نطاق منشور لمنتجات محددة بمواصفات مماثلة؛ قد تختلف العلامة التجارية والسعر النهائي.",
+      "priceFrom": 65,
+      "priceTo": 65,
+      "merchant": "متاجر متعددة",
+      "source": "https://kassemstore.com/shop",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "catalog-stationery-0005",
@@ -870,7 +875,12 @@
       "category": "أدوات مدرسية",
       "brand": "متعدد",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "details": "عبوة Prima Whiteboard Markers عدد 12 قلمًا نطاق منشور لمنتجات محددة بمواصفات مماثلة؛ قد تختلف العلامة التجارية والسعر النهائي.",
+      "priceFrom": 139,
+      "priceTo": 139,
+      "merchant": "متاجر متعددة",
+      "source": "https://kassemstore.com/shop",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "catalog-stationery-0029",
@@ -907,7 +917,12 @@
       "category": "أدوات مدرسية",
       "brand": "متعدد",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "details": "نطاق أسعار عبوات أقلام فلوماستر 12 لونًا من Deli وFaber-Castell نطاق منشور لمنتجات محددة بمواصفات مماثلة؛ قد تختلف العلامة التجارية والسعر النهائي.",
+      "priceFrom": 55,
+      "priceTo": 165,
+      "merchant": "متاجر متعددة",
+      "source": "https://kassemstore.com/shop",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "catalog-stationery-0033",
@@ -939,7 +954,12 @@
       "category": "أدوات مدرسية",
       "brand": "متعدد",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "details": "نطاق أسعار عبوات أقلام تلوين 12 لونًا من Deli وFaber-Castell نطاق منشور لمنتجات محددة بمواصفات مماثلة؛ قد تختلف العلامة التجارية والسعر النهائي.",
+      "priceFrom": 55,
+      "priceTo": 125,
+      "merchant": "متاجر متعددة",
+      "source": "https://kassemstore.com/shop",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "catalog-stationery-0037",
@@ -1132,7 +1152,12 @@
       "category": "أدوات مدرسية",
       "brand": "متعدد",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "details": "نطاق أسعار رزم ورق تصوير A4، 500 ورقة، من متاجر متعددة نطاق منشور لمنتجات محددة بمواصفات مماثلة؛ قد تختلف العلامة التجارية والسعر النهائي.",
+      "priceFrom": 147,
+      "priceTo": 265,
+      "merchant": "متاجر متعددة",
+      "source": "https://kassemstore.com/shop",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "catalog-stationery-0058",
@@ -11739,6 +11764,138 @@
       "price": 30,
       "merchant": "Kassem Store",
       "source": "https://kassemstore.com/product-category/stationery/notebooks-sketch-books",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-pritt-glue-20",
+      "name": "قلم لاصق Pritt وزن 20 جم",
+      "brand": "Pritt",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-faber-graphite-goldfaber-eraser",
+      "name": "قلم رصاص Faber-Castell Goldfaber مع ممحاة",
+      "brand": "Faber-Castell",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 12,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-staedtler-triplus-jumbo",
+      "name": "قلم رصاص Staedtler Triplus Jumbo",
+      "brand": "Staedtler",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mg-triangle-jumbo",
+      "name": "قلم رصاص M&G مثلث جامبو",
+      "brand": "M&G",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mg-writing-creativity-2b",
+      "name": "قلم رصاص M&G Writing Creativity درجة 2B",
+      "brand": "M&G",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 4,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-yplus-2b-12",
+      "name": "علبة أقلام Y-Plus Smart خشب 2B عدد 12 قلمًا",
+      "brand": "Y-Plus",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 70,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-rotring-leads",
+      "name": "علبة سنون Rotring لقلم ميكانيكي",
+      "brand": "Rotring",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 49,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mg-fancy-quickstart",
+      "name": "قلم سنون M&G Fancy Quick Start ميكانيكي",
+      "brand": "M&G",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-lightyear-mechanical-07",
+      "name": "قلم سنون Light Year Away ميكانيكي 0.7 مم",
+      "brand": "متعدد",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-mechanical-07",
+      "name": "قلم سنون ميكانيكي 0.7 مم لون عشوائي",
+      "brand": "متعدد",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 22,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-cat-mechanical-07",
+      "name": "قلم سنون ميكانيكي بشكل قطة 0.7 مم",
+      "brand": "متعدد",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 23,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
+      "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-kassem-kids-mechanical-2mm",
+      "name": "قلم سنون أطفال ميكانيكي 2 مم",
+      "brand": "متعدد",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "Kassem Store",
+      "source": "https://kassemstore.com/shop",
       "details": "السعر منشور في كتالوج Kassem Store؛ قد يتغير حسب اللون أو الموديل، راجع صفحة المتجر قبل الشراء."
     }
   ]
