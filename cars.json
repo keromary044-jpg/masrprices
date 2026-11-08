@@ -2847,11 +2847,12 @@
       "name": "Dongfeng Aeolus Shine",
       "brand": "Dongfeng",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 790000,
+      "modelYear": 2026,
+      "source": "https://sayaratelyoum.com/prices/dongfeng-shine-2026",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر الفئة الأساسية Advance لسيارة Dongfeng Shine 2026 في مصر، وفق قائمة الوكيل المنشورة.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-240",
@@ -3708,8 +3709,13 @@
       "name": "Proton Saga – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 675000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/prices/proton-saga-2026",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر الفئة الوحيدة Premium لسيارة Proton Saga 2026؛ يوجد موديل بفئة واحدة فقط، لذلك لا ينطبق السعر على فئة أخرى.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0024",
@@ -4456,16 +4462,26 @@
       "name": "BAIC X35 – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 800000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://ellithy.com/en/new-vehicles/139",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر الوكيل لفئة BAIC X35 Comfort موديل 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0100",
       "name": "BAIC X35 – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 900000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://ellithy.com/en/new-vehicles/139",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "سعر الوكيل لفئة BAIC X35 Luxury موديل 2026.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "car-chevrolet-optra-2027-ls-20261108",
