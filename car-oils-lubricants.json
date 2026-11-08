@@ -5,36 +5,48 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "زيت محرك تخليقي 5W-30",
-      "brand": "ماركات متعددة",
+      "name": "Toyota Genuine Motor Oil 5W-30 SP 4L",
+      "brand": "Toyota",
       "category": "زيوت محركات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1744,
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "زيت تويوتا الأصلي 5W-30 SP عبوة 4 لتر؛ قائمة نوفمبر 2026.",
+      "merchant": "Masrawy / Toyota Egypt",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/6/3074489",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك تخليقي 5W-40",
-      "brand": "ماركات متعددة",
+      "name": "Toyota Genuine Motor Oil 5W-40 SP 4L",
+      "brand": "Toyota",
       "category": "زيوت محركات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1744,
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "زيت تويوتا الأصلي 5W-40 SP عبوة 4 لتر؛ قائمة نوفمبر 2026.",
+      "merchant": "Masrawy / Toyota Egypt",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/6/3074489",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك 10W-40",
-      "brand": "ماركات متعددة",
+      "name": "Mobil 10W-40 Synthetic Technology 1L",
+      "brand": "Mobil",
       "category": "زيوت محركات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 460,
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "زيت موبيل 10W-40 Synthetic Technology عبوة لتر؛ قائمة 3 نوفمبر 2026.",
+      "merchant": "Masrawy / ExxonMobil Egypt",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/3/3073014",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت محرك 20W-50",
-      "brand": "ماركات متعددة",
+      "name": "Toyota Genuine Motor Oil 20W-50 SL 4L",
+      "brand": "Toyota",
       "category": "زيوت محركات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 946,
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "زيت تويوتا 20W-50 SL عبوة 4 لتر؛ قائمة نوفمبر 2026.",
+      "merchant": "Masrawy / Toyota Egypt",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/6/3074489",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "زيت فتيس أوتوماتيك ATF",
@@ -53,20 +65,26 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "سائل تبريد محرك",
-      "brand": "ماركات متعددة",
+      "name": "Toyota Red Coolant 50% 3.78L",
+      "brand": "Toyota",
       "category": "سوائل",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 798,
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "سائل تبريد تويوتا الأحمر تركيز 50% سعة 3.78 لتر.",
+      "merchant": "Masrawy / Toyota Egypt",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/6/3074489",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "زيت فرامل DOT 4",
-      "brand": "ماركات متعددة",
+      "name": "Toyota Genuine Brake Fluid 0.5L",
+      "brand": "Toyota",
       "category": "سوائل",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 222,
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "سائل فرامل تويوتا عبوة نصف لتر؛ قائمة نوفمبر 2026.",
+      "merchant": "Masrawy / Toyota Egypt",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/6/3074489",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "زيت باور",
@@ -77,12 +95,15 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "شحم متعدد الاستخدام",
-      "brand": "ماركات متعددة",
+      "name": "Mobil Fibrex 235 Grease 0.5kg",
+      "brand": "Mobil",
       "category": "شحوم",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 175,
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "details": "شحم موبيل Fibrex 235 وزن نصف كجم؛ قائمة نوفمبر 2026.",
+      "merchant": "Masrawy / ExxonMobil Egypt",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/3/3073014",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "شحم محامل",
