@@ -1302,11 +1302,12 @@
       "name": "Fiat Panda",
       "brand": "Fiat",
       "category": "هاتشباك",
-      "price": null,
+      "price": 324000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://eg.instadriv.com/en/used-cars/prices/fiat",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر Fiat Panda المستعملة في مصر وفق بيانات InstaDriv؛ نطاق الأسعار المنشور 304,000–345,000 جنيه.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-100",
@@ -1626,11 +1627,12 @@
       "name": "Honda Jazz",
       "brand": "Honda",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 250000,
+      "modelYear": 2005,
+      "source": "https://www.contactcars.com/en/used-cars/honda-jazz",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب منشور لسيارتي Honda Jazz مستعملتين موديل 2003 و2005؛ كل إعلان بسعر 250,000 جنيه.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-129",
@@ -1749,11 +1751,12 @@
       "name": "Mazda CX-9",
       "brand": "Mazda",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 880000,
+      "modelYear": 2019,
+      "source": "https://egypt.yallamotor.com/used-cars/mazda/cx-9",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط السعر المنشور لسيارات Mazda CX-9 موديل 2019 المستعملة في مصر من إعلانين.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-140",
@@ -1850,11 +1853,12 @@
       "name": "Skoda Yeti",
       "brand": "Skoda",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 700000,
+      "modelYear": 2013,
+      "source": "https://www.contactcars.com/en/used-cars/skoda-yeti",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Skoda Yeti 2013 مستعملة في 6 أكتوبر؛ إعلان واحد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-149",
