@@ -206,13 +206,16 @@
     },
     {
       "id": "personal-care-catalog-001",
-      "name": "شامبو للشعر الجاف – مقاس صغير",
-      "category": "عناية شخصية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "L'Oreal Elvive Extraordinary Oil Shampoo Very Dry Hair 400 ml",
+      "category": "شامبو للشعر الجاف",
+      "price": 173.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2030500",
+      "checkedAt": "2026-11-08",
+      "brand": "L'Oreal",
+      "unit": "400 مل",
+      "details": "سعر المنتج المعروض لدى كارفور؛ شامل الضريبة.",
+      "priceStatus": "verified"
     },
     {
       "id": "personal-care-catalog-002",
@@ -236,13 +239,16 @@
     },
     {
       "id": "personal-care-catalog-004",
-      "name": "بلسم شعر – مقاس صغير",
-      "category": "عناية شخصية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Tresemme Conditioner Keratin Smooth 600 ml",
+      "category": "بلسم شعر",
+      "price": 251.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2030500",
+      "checkedAt": "2026-11-08",
+      "brand": "Tresemme",
+      "unit": "600 مل",
+      "details": "سعر المنتج المعروض لدى كارفور؛ شامل الضريبة.",
+      "priceStatus": "verified"
     },
     {
       "id": "personal-care-catalog-005",
