@@ -38,12 +38,16 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز قياس سكر",
-      "brand": "ماركات متعددة",
+      "name": "Beurer Blood Pressure Monitor BM 40",
+      "brand": "Beurer",
       "category": "قياس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3350,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Blood pressure monitor",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Bionime Rightest WIZPlus Glucose Test Strips 50 strips",
@@ -68,66 +72,100 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "مقياس تشبع أكسجين",
-      "brand": "ماركات متعددة",
+      "name": "Beurer Blood Pressure Monitor BM28",
+      "brand": "Beurer",
       "category": "تنفس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3299,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Blood pressure monitor",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "عكاز طبي",
-      "brand": "ماركات متعددة",
+      "name": "Beurer Nebuliser IH 18",
+      "brand": "Beurer",
       "category": "حركة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2999,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Nebulizer",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كرسي متحرك",
-      "brand": "ماركات متعددة",
+      "name": "Beurer Nebuliser IH 16",
+      "brand": "Beurer",
       "category": "حركة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2699,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Nebulizer",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة إسعافات أولية",
-      "brand": "ماركات متعددة",
+      "name": "Beurer BM27+ Type-C Blood Pressure Monitor",
+      "brand": "Beurer",
       "category": "مستلزمات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2199,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Blood pressure monitor",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شاش طبي معقم",
-      "brand": "ماركات متعددة",
+      "name": "Beurer Limited Blood Pressure Monitor",
+      "brand": "Beurer",
       "category": "مستلزمات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1995,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Blood pressure monitor",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز قياس وزن",
-      "brand": "ماركات متعددة",
+      "name": "Granzia Pure Mesh Portable Nebulizer",
+      "brand": "Granzia",
       "category": "مستلزمات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1600,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Portable nebulizer",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز قياس ضغط رقمي – رقمي",
-      "brand": "ماركات متعددة",
+      "name": "Beurer GS 215 Glass Bathroom Scale 180kg",
+      "brand": "Beurer",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1500,
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Bathroom scale",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز قياس ضغط رقمي – يدوي",
-      "brand": "ماركات متعددة",
+      "name": "Beurer GS 10 Glass Bathroom Scale 180kg",
+      "brand": "Beurer",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1300,
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Bathroom scale",
+      "merchant": "Mohieldeen Pharmacy",
+      "source": "https://mohieldeenpharmacy.com/shop/category/medical-devices-body-support-6?order=list_price+desc",
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "جهاز قياس ضغط رقمي – محمول",
