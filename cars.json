@@ -1070,11 +1070,12 @@
       "name": "Renault Clio",
       "brand": "Renault",
       "category": "هاتشباك",
-      "price": null,
+      "price": 183000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/used-car-prices/renault",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر الطلب المنشور لسيارات Renault Clio المستعملة موديلات 2001–2005؛ 4 إعلانات، والنطاق المنشور 170,000–190,000 جنيه. ليس سعر سيارة جديدة.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-080",
