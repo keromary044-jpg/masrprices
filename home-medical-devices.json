@@ -498,179 +498,279 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز قياس حرارة بالأشعة – محمول",
-      "brand": "ماركات متعددة",
+      "name": "Univeral Sterile Blood Lancets",
+      "brand": "Pharmapore",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 75,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز قياس حرارة بالأشعة – منزلي",
-      "brand": "ماركات متعددة",
+      "name": "Accu-Chek Softclix Lancets",
+      "brand": "Accu-Chek",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 665,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز قياس حرارة بالأشعة – احترافي",
-      "brand": "ماركات متعددة",
+      "name": "Planet Health Tempo Flex Waterproof Thermometer - Blue & White",
+      "brand": "Planet Health",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 210,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز نيبولايزر – رقمي",
-      "brand": "ماركات متعددة",
+      "name": "Omron M3 Comfort Automatic Upper Arm Blood Pressure Monitor",
+      "brand": "Omron",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 4580,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز نيبولايزر – يدوي",
-      "brand": "ماركات متعددة",
+      "name": "Beurer Bm 27+ Upper Arm Blood Pressure Monitor with Type C",
+      "brand": "Beurer",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 2199,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز نيبولايزر – محمول",
-      "brand": "ماركات متعددة",
+      "name": "Planet Health Wrist Blood Pressure Monitor - White, PH 330",
+      "brand": "Planet Health",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1300,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز نيبولايزر – منزلي",
-      "brand": "ماركات متعددة",
+      "name": "Planet Health C2 Nebulizer - White & Black",
+      "brand": "Planet Health",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1700,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز نيبولايزر – احترافي",
-      "brand": "ماركات متعددة",
+      "name": "Planet Health Arm Blood Pressure Monitor - White, PH 230",
+      "brand": "Planet Health",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1999,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز شفط طبي – رقمي",
-      "brand": "ماركات متعددة",
+      "name": "Planet Health Thermo Care Electric Heating Pad (30x60cm)",
+      "brand": "Planet Health",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1750,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز شفط طبي – يدوي",
-      "brand": "ماركات متعددة",
+      "name": "Pic Solution Lite Rapid Automatic Digital Blood Pressure Monitor",
+      "brand": "Pic",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 2750,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز شفط طبي – محمول",
-      "brand": "ماركات متعددة",
+      "name": "Planet Health Arm Blood Pressure Monitor - White, PH 220",
+      "brand": "Planet Health",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1740,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز شفط طبي – منزلي",
-      "brand": "ماركات متعددة",
+      "name": "Pic Solution One Rapid Digital Arm Blood Pressure Monitor",
+      "brand": "Pic",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 4900,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز شفط طبي – احترافي",
-      "brand": "ماركات متعددة",
+      "name": "Pic Solution Maxi Rapid Automatic Digital Blood Pressure Monitor",
+      "brand": "Pic",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 3750,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سرير طبي منزلي – رقمي",
-      "brand": "ماركات متعددة",
+      "name": "Planet Health Thermo Care Electric Foot Warmer (31x25x27cm)",
+      "brand": "Planet Health",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1900,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سرير طبي منزلي – يدوي",
-      "brand": "ماركات متعددة",
+      "name": "Medel Soft Digital Wrist Blood Pressure Monitor",
+      "brand": "Medel",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1700,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سرير طبي منزلي – محمول",
-      "brand": "ماركات متعددة",
+      "name": "Microlife White B1 Classic Blood Pressure Monitor",
+      "brand": "MICROLIFE",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 950,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سرير طبي منزلي – منزلي",
-      "brand": "ماركات متعددة",
+      "name": "Medel Check White Automatic Blood Pressure Monitor",
+      "brand": "Medel",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1350,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سرير طبي منزلي – احترافي",
-      "brand": "ماركات متعددة",
+      "name": "Medel Sense White Blood Pressure Monitor",
+      "brand": "Medel",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 2900,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كرسي متحرك – رقمي",
-      "brand": "ماركات متعددة",
+      "name": "Beurer BM 28 Upper Arm Blood Pressure Monitor",
+      "brand": "Beurer",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 2199,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كرسي متحرك – يدوي",
-      "brand": "ماركات متعددة",
+      "name": "Beurer Medical White & Gray Multi-Functional Thermometer",
+      "brand": "Beurer",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1899,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كرسي متحرك – محمول",
-      "brand": "ماركات متعددة",
+      "name": "Beurer FT 85 Non-Contact Thermometer",
+      "brand": "Beurer",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 1950,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كرسي متحرك – منزلي",
-      "brand": "ماركات متعددة",
+      "name": "Contour TS Blood Glucose Test Strips",
+      "brand": "Contour",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 650,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كرسي متحرك – احترافي",
-      "brand": "ماركات متعددة",
+      "name": "Pic Solution Thermogel Maxi Reusable Hot & Cold Therapy Cushion with Comfort Cover (20x30cm)",
+      "brand": "Pic",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 450,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "عكاز طبي – رقمي",
-      "brand": "ماركات متعددة",
+      "name": "Jumper Gray & White Pulse Oximeter",
+      "brand": "Jumper",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 650,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "عكاز طبي – يدوي",
-      "brand": "ماركات متعددة",
+      "name": "Sejoy DET-306 Infrared Forehead Thermometer",
+      "brand": "Sejoy",
       "category": "أجهزة ومستلزمات طبية منزلية",
-      "price": null,
-      "details": "عنصر تعريفي فقط؛ يجب مراجعة المواصفات والاعتماد الطبي قبل الشراء."
+      "price": 650,
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Lotus",
+      "source": "https://www.lotusonline.com/collections/home-healthcare-solutions-geriatric-care-copy",
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "عكاز طبي – محمول",
