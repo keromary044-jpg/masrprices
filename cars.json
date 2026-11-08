@@ -2260,11 +2260,12 @@
       "name": "Chery A5",
       "brand": "Chery",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 550000,
+      "modelYear": 2022,
+      "source": "https://eg.hatla2ee.com/en/car/chery/a-5",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Chery A5 موديل 2022 مستعملة في الجيزة؛ إعلان محدد، وليس متوسطًا.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-185",
@@ -3847,8 +3848,13 @@
       "name": "Suzuki Ertiga – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1185000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://sayaratelyoum.com/suzuki-egypt-prices-specs-2026/",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "السعر الرسمي المنشور لسوزوكي Ertiga 2026 في مصر؛ فئة واحدة بسعر 1,185,000 جنيه.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0032",
@@ -3991,8 +3997,13 @@
       "name": "Peugeot 301 – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1124990,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/new-car/price/under-1500000",
+      "priceType": "new_official_trim",
+      "modelYear": 2026,
+      "spec": "السعر الابتدائي المنشور لسيارة Peugeot 301 2026 الجديدة في مصر؛ المصدر يذكر وجود فئتين.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0046",
@@ -4523,8 +4534,13 @@
       "name": "Jetour X70 – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1095000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/en/new-cars/jetour-x70___facelift",
+      "priceType": "new_official_trim",
+      "modelYear": 2027,
+      "spec": "السعر الابتدائي لنطاق Jetour X70 facelift 2027 الجديد في مصر؛ النطاق المنشور 1,095,000–1,240,000 جنيه.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0096",
@@ -4539,8 +4555,13 @@
       "name": "Jetour Dashing – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1330000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/en/new-cars/jetour-dashing/for-sale/eb11007c4bbb",
+      "priceType": "new_official_trim",
+      "modelYear": 2027,
+      "spec": "السعر الابتدائي المعلن لفئات Jetour Dashing 2027 الجديدة في مصر؛ نطاق الوكيل 1,330,000–1,480,000 جنيه.",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "cars-new-0098",
