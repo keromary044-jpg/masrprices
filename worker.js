@@ -125,8 +125,8 @@ async function productPageHandler(request, env) {
   const name = escapeHtml(item.name || "منتج");
   const category = escapeHtml(item.category || "منتجات");
   const price = Number(item.price);
-  const hasPrice = Number.isFinite(price) && price > 0;
-  const priceText = hasPrice ? price.toLocaleString("en-US") + " جنيه" : "لا يتوفر سعر مسجل";
+  const hasPrice = Number.isFinite(price) && price >= 0;
+  const priceText = hasPrice ? (price === 0 ? "مجاني" : price.toLocaleString("en-US") + " جنيه") : "لا يتوفر سعر مسجل";
   const checkedDate = escapeHtml(item.date || "غير محدد");
   const canonical = url.origin + "/products/" + encodeURIComponent(slug) + "/";
   const source = safeHttpUrl(item.source);
@@ -134,10 +134,10 @@ async function productPageHandler(request, env) {
   const details = item.details && typeof item.details === "object" ? Object.entries(item.details)
     .filter(([key, value]) => value != null && String(value).trim() && !/^راجع\b/.test(String(value).trim()))
     .map(([key, value]) => '<tr><th>' + escapeHtml(({brand:"العلامة التجارية",category:"الفئة",release:"سنة الإصدار",display:"الشاشة",processor:"المعالج",memory:"الذاكرة والتخزين",rearCamera:"الكاميرا الخلفية",frontCamera:"الكاميرا الأمامية",battery:"البطارية",os:"نظام التشغيل",connectivity:"الاتصال",build:"التصميم"}[key] || key)) + '</th><td>' + escapeHtml(value) + '</td></tr>').join("") : "";
-  const offers = Array.isArray(item.offers) ? item.offers.filter(o => o && Number.isFinite(Number(o.price)) && Number(o.price) > 0).sort((a,b)=>Number(a.price)-Number(b.price)) : [];
+  const offers = Array.isArray(item.offers) ? item.offers.filter(o => o && Number.isFinite(Number(o.price)) && Number(o.price) >= 0).sort((a,b)=>Number(a.price)-Number(b.price)) : [];
   const offerRows = offers.map(offer => {
     const href = safeHttpUrl(offer.source);
-    return '<tr><td>' + escapeHtml(offer.merchant || "متجر") + '</td><td>' + Number(offer.price).toLocaleString("en-US") + ' جنيه</td><td>' + escapeHtml(offer.variant || "—") + '</td><td>' + (href ? '<a rel="nofollow noopener" target="_blank" href="' + escapeHtml(href) + '">عرض المصدر</a>' : "—") + '</td></tr>';
+    return '<tr><td>' + escapeHtml(offer.merchant || "متجر") + '</td><td>' + (Number(offer.price) === 0 ? 'مجاني' : Number(offer.price).toLocaleString("en-US") + ' جنيه') + '</td><td>' + escapeHtml(offer.variant || "—") + '</td><td>' + (href ? '<a rel="nofollow noopener" target="_blank" href="' + escapeHtml(href) + '">عرض المصدر</a>' : "—") + '</td></tr>';
   }).join("");
   const mainSource = source ? '<p><a rel="nofollow noopener" target="_blank" href="' + escapeHtml(source) + '">فتح ' + sourceLabel + '</a></p>' : '<p>لم يُسجل رابط مصدر مباشر لهذا المنتج.</p>';
   const jsonLd = JSON.stringify({
