@@ -523,25 +523,25 @@
       "id": "stationery-كشكول-سلك-100-ورقة-متعدد-قطعة",
       "name": "كشكول سلك 100 ورقة",
       "category": "كراسات وكشاكيل",
-      "brand": "متعدد",
+      "brand": "A&G",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 46,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لدى متجر الغزاوي لكشكول A&G سلك، 100 ورقة، مقاس A4؛ السعر قد يتغير."
     },
     {
       "id": "stationery-كشكول-سلك-200-ورقة-متعدد-قطعة",
       "name": "كشكول سلك 200 ورقة",
       "category": "كراسات وكشاكيل",
-      "brand": "متعدد",
+      "brand": "Mintra",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 121,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لدى متجر الغزاوي لكشكول Mintra سلك، 200 ورقة، مقاس 27.9 × 21.6 سم؛ السعر قد يتغير."
     },
     {
       "id": "stationery-ورق-تصوير-a4-double-a-ريزمة",
@@ -549,11 +549,11 @@
       "category": "ورق وطباعة",
       "brand": "Double A",
       "unit": "ريزمة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 185,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/paper-products",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لدى متجر الغزاوي لريزمة ورق تصوير Double A، مقاس A4، وزن 80 جم، 500 ورقة؛ السعر قد يتغير."
     },
     {
       "id": "stationery-ورق-تصوير-a3-double-a-ريزمة",
