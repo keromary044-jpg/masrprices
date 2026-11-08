@@ -10844,6 +10844,226 @@
       "merchant": "Kassem Store",
       "source": "https://kassemstore.com/product-category/stationery/whiteboard-markers",
       "details": "السعر كما ظهر في قائمة المتجر المفهرسة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-mg-highlighter",
+      "name": "قلم ماركر فسفوري M&G",
+      "brand": "M&G",
+      "category": "أقلام تحديد",
+      "unit": "قطعة",
+      "price": 17,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-staedtler-felt-tip",
+      "name": "قلم فلوماستر Staedtler سن ريشة",
+      "brand": "Staedtler",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 42,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-mg-clay-24",
+      "name": "برطمان صلصال M&G عدد 24 قطعة",
+      "brand": "M&G",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 130,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-mg-clay-9",
+      "name": "برطمان صلصال M&G عدد 9 قطع",
+      "brand": "M&G",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 35,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-mg-clay-sticks-12",
+      "name": "طقم صلصال M&G عدد 12 إصبعًا",
+      "brand": "M&G",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 55,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-mg-clay-sticks-6",
+      "name": "طقم صلصال M&G عدد 6 أصابع",
+      "brand": "M&G",
+      "category": "أعمال يدوية",
+      "unit": "قطعة",
+      "price": 27,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-rocket-markers-24",
+      "name": "علبة ألوان فلوماستر شكل صاروخ عدد 24 لونًا مع لعبة",
+      "brand": "متعدد",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 150,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-watercolor-36",
+      "name": "طقم ألوان مائية حجرية M&G عدد 36 لونًا مع باليتة وفرشاة",
+      "brand": "M&G",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 245,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-watercolor-12-130",
+      "name": "طقم ألوان مائية حجرية M&G عدد 12 لونًا مع باليتة وفرشاة وإسفنجة",
+      "brand": "M&G",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 130,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-watercolor-12-110",
+      "name": "طقم ألوان مائية حجرية M&G عدد 12 لونًا",
+      "brand": "M&G",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-felt-pens-24",
+      "name": "علبة ألوان فلوماستر M&G عدد 24 لونًا سن رفيع قابلة للغسيل",
+      "brand": "M&G",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 78,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-felt-pens-12-thick",
+      "name": "علبة ألوان فلوماستر M&G عدد 12 لونًا سن سميك",
+      "brand": "M&G",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-notebook-a4-100",
+      "name": "كشكول 100 ورقة A4",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 45,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-notebook-b5-100",
+      "name": "كشكول 100 ورقة B5",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 24,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-notebook-a4-60",
+      "name": "كشكول 60 ورقة A4",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-notebook-b5-60",
+      "name": "كشكول 60 ورقة B5",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 16,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-notebook-a4-80",
+      "name": "كشكول 80 ورقة A4",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 37,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-notebook-b5-80",
+      "name": "كشكول 80 ورقة B5",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-six-color-ballpen",
+      "name": "قلم جاف متعدد الألوان 6 ألوان",
+      "brand": "متعدد",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eltawfeek-a4-photo-paper",
+      "name": "ورق صور لامع A4",
+      "brand": "متعدد",
+      "category": "ورق وطباعة",
+      "unit": "قطعة",
+      "price": 205,
+      "merchant": "Eltawfeek Stationery",
+      "source": "https://eltawfeekstationery.com/store/tawfeek-station/catalog?lang=en&sort=name_asc",
+      "details": "السعر منشور في كتالوج متجر التوفيق؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
