@@ -2171,11 +2171,12 @@
       "name": "Chery Arrizo 6",
       "brand": "Chery",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 925000,
+      "modelYear": 2026,
+      "source": "https://eg.hatla2ee.com/en/car/chery/Arrizo-6",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر إعلان سيارة Chery Arrizo 6 موديل 2026 جديدة لدى بائع في القاهرة؛ سعر إعلان وليس قائمة وكيل.",
+      "priceType": "new_single_listing"
     },
     {
       "id": "car-177",
@@ -2372,11 +2373,12 @@
       "name": "BYD L3",
       "brand": "BYD",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 388000,
+      "modelYear": 2017,
+      "source": "https://eg.hatla2ee.com/en/car/used-prices/byd/l3",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر BYD L3 موديل 2017 المستعملة في مصر وفق Hatla2ee؛ نطاق الأسعار 369,000–407,000 جنيه.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-195",
@@ -2508,11 +2510,12 @@
       "name": "Lada Niva",
       "brand": "Lada",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 100000,
+      "modelYear": 1993,
+      "source": "https://www.contactcars.com/en/car/used-prices/lada/niva",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط السعر المنشور لسيارة Lada Niva موديل 1993 مستعملة؛ بيانات إعلان واحد بتاريخ سبتمبر 2026.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-207",
