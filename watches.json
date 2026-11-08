@@ -2,31 +2,40 @@
   "schemaVersion": 1,
   "catalog": "الساعات",
   "currency": "EGP",
-  "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
+  "pricePolicy": "تُعرض الأسعار فقط لمنتجات محددة لها سعر منشور في متجر مصري؛ الأسعار والمخزون قابلان للتغير.",
   "products": [
     {
-      "name": "ساعة يد رجالي",
-      "brand": "ماركات متعددة",
-      "category": "ساعات يد",
-      "price": null,
+      "name": "Casio MTP-VD01D-7CVUDF Men's Watch",
+      "brand": "Casio",
+      "category": "ساعات يد رجالي",
+      "price": 3338,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/watches-sunglasses/casio-edifice/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ساعة يد حريمي",
-      "brand": "ماركات متعددة",
-      "category": "ساعات يد",
-      "price": null,
+      "name": "Casio LTP-V007L-7E1UDF Women's Watch",
+      "brand": "Casio",
+      "category": "ساعات يد حريمي",
+      "price": 1830,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/watches-sunglasses/casio-edifice/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ساعة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "Casio W-219H-8BVDF Digital Men's Watch",
+      "brand": "Casio",
       "category": "ساعات رقمية",
-      "price": null,
+      "price": 2175,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/men-s-resin-strap-watch-48-mm-black/N44260490A/p/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "ساعة ذكية",
@@ -37,12 +46,15 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "ساعة رياضية",
-      "brand": "ماركات متعددة",
+      "name": "Casio MW-620H-2AVDF Men's Watch",
+      "brand": "Casio",
       "category": "ساعات رياضية",
-      "price": null,
+      "price": 2975,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/watches-sunglasses/casio-edifice/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "سوار ساعة",
@@ -77,18 +89,24 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "ساعة يد رجالي – سوار ستانلس ستيل",
-      "brand": "ماركات متعددة",
-      "category": "الساعات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "name": "Casio MTP-VD03B-7AUDF Men's Watch",
+      "brand": "Casio",
+      "category": "ساعات يد رجالي",
+      "price": 4284,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/watches-sunglasses/casio-edifice/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ساعة يد رجالي – سوار جلد",
-      "brand": "ماركات متعددة",
-      "category": "الساعات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "name": "Casio MW-240-2BVDF Men's Watch",
+      "brand": "Casio",
+      "category": "ساعات يد رجالي",
+      "price": 1515,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/casio-mw-240-2bvdf-men-watch-131935731.html",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "ساعة يد رجالي – سوار سيليكون",
@@ -105,11 +123,14 @@
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
     },
     {
-      "name": "ساعة يد رجالي – هيكل أسود",
-      "brand": "ماركات متعددة",
-      "category": "الساعات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "name": "Casio WS-1300H-1AVDF Men's Watch",
+      "brand": "Casio",
+      "category": "ساعات يد رجالي",
+      "price": 2820,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/watches-sunglasses/casio-edifice/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "ساعة يد رجالي – هيكل فضي",
@@ -189,11 +210,14 @@
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
     },
     {
-      "name": "ساعة يد حريمي – سوار جلد",
-      "brand": "ماركات متعددة",
-      "category": "الساعات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "name": "Casio LA670WGA-1DF Women's Digital Watch",
+      "brand": "Casio",
+      "category": "ساعات رقمية حريمي",
+      "price": 3680,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/watches-sunglasses/casio-edifice/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "ساعة يد حريمي – سوار سيليكون",
