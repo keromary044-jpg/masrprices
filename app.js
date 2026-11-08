@@ -378,7 +378,7 @@
       article.append(element("h3", "phone-name", phone.name));
       if(Number(phone.priceEGP)>0){
         const status=String(phone.priceStatus||"");
-        const isReference=/(تاريخي|تاريخيًا|تقديري|تقريبي|إعلان فردي|ليس سعر بيع حالي|ليس عرض متجر|غير متاح في مصر|ملغى|مرجع سعري|مرجع سعر)\/.test(status);
+        const isReference=/(تاريخي|تاريخيًا|تقديري|تقريبي|إعلان فردي|ليس سعر بيع حالي|ليس عرض متجر|غير متاح في مصر|ملغى|مرجع سعري|مرجع سعر)/.test(status);
         const priceLine=element("p","phone-price",(isReference?"مرجع سعري: ":"السعر في مصر: ")+phone.priceEGP.toLocaleString("en-US")+" جنيه");
         priceLine.dataset.price=String(phone.priceEGP);
         article.append(priceLine);
