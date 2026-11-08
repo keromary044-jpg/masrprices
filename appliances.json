@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
   "notice": "أسعار منشورة لدى متاجر مصرية وقت الرصد، وليست تحديثًا لحظيًا. قد تتغير الأسعار والتوافر حسب الفرع والعروض. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "products": [
@@ -1266,6 +1266,16 @@
       "source": "",
       "checkedAt": "",
       "brand": "غير محدد"
+    },
+    {
+      "id": "appliance-fresh-upright-freezer-fnu-mt271b-20261108",
+      "name": "Fresh Upright Deep Freezer FNU-MT271B-4O",
+      "brand": "Fresh",
+      "category": "ديب فريزر",
+      "price": 23499,
+      "merchant": "2B Egypt",
+      "source": "https://2b.com.eg/ar/home-appliances.html",
+      "checkedAt": "2026-11-08"
     }
   ]
 }
