@@ -403,32 +403,48 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "Xbox Series S – حزمة مع لعبة",
-      "brand": "ماركات متعددة",
+      "name": "Nioh 3 (PS5)",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2990,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "EgyGamer",
+      "source": "https://egygamer.com/en/nioh-3-playstation-5.html",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "Xbox Series S – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Code Vein 2 (PS5)",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2990,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "EgyGamer",
+      "source": "https://egygamer.com/en/code-vein-2-ps5.html",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "Xbox Series S – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "PlayStation 5 DualSense Wireless Controller God of War™ 20th Anniversary Limited Edition",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 6200,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "EgyGamer",
+      "source": "https://egygamer.com/en/playstation-5-dualsense-wireless-controller-god-of-wartm-20th-anniversary-limited-edition.html",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "Nintendo Switch – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "The 9th Charnel (PS5)",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 1799,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "EgyGamer",
+      "source": "https://egygamer.com/en/the-9th-charnel-ps5.html",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Nintendo Switch – نسخة رقمية",
