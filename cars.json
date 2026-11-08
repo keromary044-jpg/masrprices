@@ -3508,16 +3508,24 @@
       "name": "Kia Cerato – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1249900,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/ar/new-cars/kia?page=2",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0008",
       "name": "Kia Cerato – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1379900,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/ar/new-cars/kia?page=2",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0009",
@@ -3708,32 +3716,48 @@
       "name": "Suzuki Dzire – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 885000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0026",
       "name": "Suzuki Dzire – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 885000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0027",
       "name": "Suzuki Swift – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 875000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0028",
       "name": "Suzuki Swift – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 905000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://eg-car.com/car-make/سوزوكي/",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0029",
@@ -3772,48 +3796,72 @@
       "name": "Suzuki Alto – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 535000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://hatgebk.com/ar/catalog/suzuki/prices",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0034",
       "name": "Suzuki Alto – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 535000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://hatgebk.com/ar/catalog/suzuki/prices",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0035",
       "name": "Kia Picanto – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 800000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/ar/new-cars/kia?page=2",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0036",
       "name": "Kia Picanto – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 800000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/ar/new-cars/kia?page=2",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0037",
       "name": "Hyundai i10 – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 523000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "priceType": "used_market_median",
+      "spec": "سعر سوق مستعمل نموذجي للموديل؛ يختلف حسب السنة والفئة والحالة، وليس سعر سيارة زيرو."
     },
     {
       "id": "cars-new-0038",
       "name": "Hyundai i10 – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 555000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "priceType": "used_market_median",
+      "spec": "سعر سوق مستعمل نموذجي للموديل؛ يختلف حسب السنة والفئة والحالة، وليس سعر سيارة زيرو."
     },
     {
       "id": "cars-new-0039",
@@ -3852,16 +3900,24 @@
       "name": "Renault Megane – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1220000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/ar/new-cars/renault-megane",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0044",
       "name": "Renault Megane – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1330000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/ar/new-cars/renault-megane",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0045",
@@ -3936,16 +3992,24 @@
       "name": "Skoda Octavia – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1825000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://hatgebk.com/ar/catalog/skoda/prices",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0054",
       "name": "Skoda Octavia – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 2050000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://hatgebk.com/ar/catalog/skoda/prices",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0055",
@@ -4032,32 +4096,48 @@
       "name": "Mitsubishi Attrage – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 740000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.mitsubishimotors-eg.com/ar/buy",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0066",
       "name": "Mitsubishi Attrage – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 740000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.mitsubishimotors-eg.com/ar/buy",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0067",
       "name": "Mitsubishi Xpander – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1390000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.mitsubishimotors-eg.com/ar/MitsubisiDiamond",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0068",
       "name": "Mitsubishi Xpander – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1475000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.mitsubishimotors-eg.com/ar/MitsubisiDiamond",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0069",
@@ -4096,16 +4176,24 @@
       "name": "Toyota Fortuner – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 3700000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/7/3075016/",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0074",
       "name": "Toyota Fortuner – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 3700000,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.masrawy.com/autos/autos_news/details/2026/11/7/3075016/",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0075",
@@ -4216,16 +4304,24 @@
       "name": "Kia Sportage – فئة أساسية",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1799900,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/ar/new-cars/kia?page=2",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0086",
       "name": "Kia Sportage – فئة متوسطة",
       "category": "سيارات",
       "brand": "متعدد",
-      "price": null,
-      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء."
+      "price": 1919900,
+      "details": "بيانات تعريفية للكتالوج؛ تفاصيل التوافق والمقاس والمواصفات تُراجع قبل الشراء.",
+      "source": "https://www.contactcars.com/ar/new-cars/kia?page=2",
+      "checkedAt": "2026-11-08",
+      "priceType": "new_official_starting_price",
+      "spec": "سعر رسمي منشور لفئة أو بداية فئات الموديل في مصر بتاريخ التحقق؛ قد تختلف الفئة والتجهيزات."
     },
     {
       "id": "cars-new-0087",
