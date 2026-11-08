@@ -5,20 +5,28 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "جهاز ألعاب منزلي",
-      "brand": "ماركات متعددة",
+      "name": "PS5 Pro New",
+      "brand": "Sony",
       "category": "منصات ألعاب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 85000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console new",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز ألعاب محمول",
-      "brand": "ماركات متعددة",
+      "name": "PS5 Slim Digital 1TB Used",
+      "brand": "Sony",
       "category": "منصات ألعاب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 33000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console used",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Sony DualSense Wireless Controller Chroma Teal",
@@ -32,76 +40,112 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "ذراع تحكم سلكي",
-      "brand": "ماركات متعددة",
+      "name": "Nintendo Switch 2 Console",
+      "brand": "Nintendo",
       "category": "أذرع تحكم",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 32000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ألعاب PlayStation",
-      "brand": "ماركات متعددة",
+      "name": "PS4 Fat 500GB Used",
+      "brand": "Sony",
       "category": "ألعاب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 10000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console used",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ألعاب Xbox",
-      "brand": "ماركات متعددة",
+      "name": "PS4 Slim 1TB Used",
+      "brand": "Sony",
       "category": "ألعاب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 13000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console used",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ألعاب Nintendo",
-      "brand": "ماركات متعددة",
+      "name": "PS4 Slim 500GB Used",
+      "brand": "Sony",
       "category": "ألعاب",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 12000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console used",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "سماعة ألعاب",
-      "brand": "ماركات متعددة",
+      "name": "PS5 Fat CD 825GB Used",
+      "brand": "Sony",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 29000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console used",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كرسي ألعاب",
-      "brand": "ماركات متعددة",
+      "name": "PS5 Slim CD 1TB New",
+      "brand": "Sony",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 46000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console new",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "عجلة قيادة ألعاب",
-      "brand": "ماركات متعددة",
+      "name": "PS5 Slim CD 1TB Used",
+      "brand": "Sony",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 34000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console used",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "قاعدة شحن أذرع التحكم",
-      "brand": "ماركات متعددة",
+      "name": "PS5 Slim Digital 825GB FC26 Edition New",
+      "brand": "Sony",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 43000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console new",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "لوحة مفاتيح ألعاب",
-      "brand": "ماركات متعددة",
+      "name": "PS5 Slim Digital 825GB New",
+      "brand": "Sony",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 42000,
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console new",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Sony PlayStation 5 Slim Disc Edition",
@@ -137,11 +181,16 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "PlayStation 5 – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "PS5 Slim Digital 825GB Wolverine Edition New",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 47000,
+      "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "unit": "Console new",
+      "merchant": "Sigma Store",
+      "source": "https://sigmastores.net/en-eg/products/console",
+      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "PlayStation 5 – إصدار تخزين 2TB",
