@@ -5,28 +5,37 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "جهاز قياس ضغط رقمي",
-      "brand": "ماركات متعددة",
+      "name": "ICONE KF-65E Digital Blood Pressure Monitor",
+      "brand": "ICONE",
       "category": "قياس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1150,
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "details": "جهاز قياس ضغط رقمي KF-65E؛ السعر المعروض بعد الخصم.",
+      "merchant": "ALesraa Medical",
+      "source": "https://alesraamedical.store/product-category/%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D9%82%D9%8A%D8%A7%D8%B3-%D9%88%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ترمومتر رقمي",
-      "brand": "ماركات متعددة",
+      "name": "Rossmax TG100 Oral Digital Thermometer",
+      "brand": "Rossmax",
       "category": "قياس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 175,
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "details": "ترمومتر فموي رقمي Rossmax TG100؛ السعر المنشور.",
+      "merchant": "EGMED Store",
+      "source": "https://shop.egmed.com/en",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ميزان حرارة بالأشعة",
-      "brand": "ماركات متعددة",
+      "name": "Rossmax HA500 Non-Contact Infrared Thermometer",
+      "brand": "Rossmax",
       "category": "قياس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1280,
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "details": "ترمومتر لا تلامسي Rossmax HA500؛ السعر المنشور.",
+      "merchant": "EGMED Store",
+      "source": "https://shop.egmed.com/en",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "جهاز قياس سكر",
@@ -37,20 +46,26 @@
       "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "شرائط قياس سكر",
-      "brand": "ماركات متعددة",
+      "name": "Bionime Rightest WIZPlus Glucose Test Strips 50 strips",
+      "brand": "Bionime",
       "category": "قياس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 615,
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "details": "عبوتان بإجمالي 50 شريط قياس؛ السعر المنشور.",
+      "merchant": "EGMED Store",
+      "source": "https://shop.egmed.com/en",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز نيبولايزر",
-      "brand": "ماركات متعددة",
+      "name": "Granzia Compatto Compressor Nebulizer",
+      "brand": "Granzia",
       "category": "تنفس",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يجب مطابقة الماركة والموديل ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1450,
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "details": "جهاز نيبولايزر Compatto من Granzia؛ السعر المنشور.",
+      "merchant": "ALesraa Medical",
+      "source": "https://alesraamedical.store/product-category/%D8%A3%D8%AC%D9%87%D8%B2%D8%A9-%D9%82%D9%8A%D8%A7%D8%B3-%D9%88%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "مقياس تشبع أكسجين",
