@@ -629,11 +629,12 @@
       "name": "Hyundai Bayon",
       "brand": "Hyundai",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 782000,
+      "modelYear": 2022,
+      "source": "https://eg.hatla2ee.com/en/car/used-prices/hyundai/Bayon",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر هيونداي Bayon موديل 2022 المستعملة في مصر وفق Hatla2ee؛ السعر استرشادي ويتغير حسب الحالة والعداد.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-041",
@@ -2748,11 +2749,12 @@
       "name": "BAIC X35",
       "brand": "BAIC",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 900000,
+      "modelYear": 2026,
+      "source": "https://www.contactcars.com/en/new-cars/baic-x35",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الرسمي لفئة BAIC X35 2026 المتاحة في مصر وفق صفحة ContactCars؛ فئة واحدة.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-231",
