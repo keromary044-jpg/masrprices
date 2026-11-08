@@ -5,92 +5,125 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "بطارية 45 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Bosch Car Battery 62Ah 12V, Positive Terminal Left | TD70L",
+      "brand": "Bosch",
       "category": "بطاريات جافة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3713.25,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/bosch-car-battery-reversed-td70l-12-62-ah",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية 55 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Blue Dynamic Car Battery 80Ah 12V | DIN80",
+      "brand": "VARTA",
       "category": "بطاريات جافة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 5769.54,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-blue-dynamic-car-batteries-din-80ah",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية 60 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Blue Dynamic Car Battery 45Ah 12V, Positive Left | NS60",
+      "brand": "VARTA",
       "category": "بطاريات جافة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3629.76,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-blue-dynamic-car-batteries-ns60-45ah-left-polar",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية 70 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Blue Dynamic Car Battery 44Ah 12V | DIN44",
+      "brand": "VARTA",
       "category": "بطاريات جافة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3344.76,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-blue-dynamic-car-batteries-din44ah",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية 80 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Silver Dynamic AGM Car Battery 105Ah 12V, Positive Left | DIN105",
+      "brand": "VARTA",
       "category": "بطاريات جافة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 16400.04,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-silver-dynamic-car-batteries-din-105-agm-silver-left-polar",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية سائلة للسيارات",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Silver Dynamic AGM Car Battery 95Ah 12V, Positive Left | DIN95",
+      "brand": "VARTA",
       "category": "بطاريات سائلة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 14400.48,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-silver-dynamic-car-batteries-din95-agm-silver-left-polar",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية AGM",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Silver Dynamic Car Batteries DIN70AH AGM SILVER Left Polar",
+      "brand": "VARTA",
       "category": "بطاريات AGM",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 13699.38,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-silver-dynamic-car-batteries-din70ah-agm-silver-left-polar",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية EFB",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Blue Dynamic Car Battery 62Ah 12V, Positive Left | TD70",
+      "brand": "VARTA",
       "category": "بطاريات EFB",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 4000.26,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-batteries-td70-62ah-blue-left-polar",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شاحن بطارية سيارة",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Silver AGM Car Battery 12V, Positive Left | TD70AGM",
+      "brand": "VARTA",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 9354.84,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-batteries-td70agm-60ah-silver-left-polar",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "كابل اشتراك بطارية",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Blue Dynamic Car Battery 45Ah 12V, Positive Right | NS60",
+      "brand": "VARTA",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3629.76,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-blue-dynamic-car-batteries-ns60-45ah-right-polar",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "جهاز اختبار البطارية",
-      "brand": "ماركات متعددة",
+      "name": "VARTA Blue Dynamic Car Battery 50Ah 12V | DIN50",
+      "brand": "VARTA",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3650.28,
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/varta-blue-dynamic-car-batteries-din50ah-blue",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Chloride Gold NS60 45Ah Car Battery",
@@ -104,11 +137,15 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "بطارية سيارة جافة – 55 أمبير",
-      "brand": "ماركات متعددة",
+      "name": "Bosch Dry Car Battery 74Ah 12V, 680A CCA | DIN74",
+      "brand": "Bosch",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 5199.54,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Nauto Express",
+      "source": "https://nautoexpress.com/collections/battery/products/bosch-dry-battery-74-ampere-din74",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Chloride Gold N60L 60Ah Car Battery",
