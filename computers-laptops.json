@@ -1040,18 +1040,26 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "لوحة مفاتيح ميكانيكية – AMD Ryzen 5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Microsoft Surface Laptop",
+      "brand": "Microsoft",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 18500,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Egyptlaptop",
+      "source": "https://egyptlaptop.com/laptops/laptops-and-notebooks/microsoft-surface",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "وحدة تخزين SSD – Intel Core i3 / 8GB / 256GB",
-      "brand": "ماركات متعددة",
+      "name": "Gaming Laptop - 12th Gen Intel",
+      "brand": "Various",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 25000,
+      "details": "السعر المعروض بالجنيه المصري كما ظهر في صفحة المتجر وقت الرصد.",
+      "merchant": "Egyptlaptop",
+      "source": "https://egyptlaptop.com/laptops/gaming-laptops/12th-gen-intel-gaming-laptops",
+      "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "وحدة تخزين SSD – Intel Core i5 / 8GB / 512GB",
