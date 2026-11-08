@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:25:57+02:00",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -24009,17 +24009,30 @@
       "release": "2025",
       "memory": "12GB RAM / 512GB",
       "connectivity": "5G",
-      "source": "https://priceteq.com/eg/product/250bf781-342e-4f48-bbff-d5afb005c78d",
-      "sourceLabel": "PriceTeq – تعارض بين صفحة المنتج وقائمة الهواتف",
-      "priceEGP": null,
-      "priceSource": "غير مؤكد – تعارض في المصدر",
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-06",
-      "priceStatus": "غير مؤكد: صفحة المنتج المباشرة تعرض 67,899 جنيه بتاريخ 5 نوفمبر 2026، بينما قائمة الهواتف تعرض 68,360 جنيه للنسخة 12GB/512GB بتاريخ 7 نوفمبر؛ لم يتم اعتماد أي رقم لحين التحقق من صفحة المتجر نفسها.",
-      "priceOffers": [],
+      "source": "https://priceteq.com/eg/product/30514d9b-39a7-4091-a0a3-a6e4c2f9308d",
+      "sourceLabel": "PriceTeq – مقارنة متاجر مصرية؛ أقل عرض منشور لدى Elghazawy Egypt",
+      "priceEGP": 68999,
+      "priceSource": "PriceTeq – مقارنة متاجر مصرية؛ أقل عرض منشور لدى Elghazawy Egypt",
+      "priceCheckedAt": "2026-11-08",
+      "priceObservedAt": "2026-11-04",
+      "priceStatus": "68,999 جنيه لنسخة 12GB/512GB؛ PriceTeq يعرض ثمانية متاجر، ويذكر أن Elghazawy هو الأقل. تاريخ رصد المقارنة 4 نوفمبر 2026؛ يلزم تأكيد السعر والتوفر النهائي عند المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 68999,
+          "variant": "12GB RAM / 512GB",
+          "source": "https://priceteq.com/eg/product/30514d9b-39a7-4091-a0a3-a6e4c2f9308d",
+          "sourceLabel": "PriceTeq – مقارنة متاجر مصرية؛ أقل عرض منشور لدى Elghazawy Egypt",
+          "checkedAt": "2026-11-08",
+          "observedAt": "2026-11-04",
+          "availability": "unknown"
+        }
+      ],
       "priceAvailability": "unknown",
-      "priceVerifiedAt": "2026-11-07T20:17:52+02:00",
-      "priceLastVerifiedAt": "2026-11-07T20:17:52+02:00"
+      "priceVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceLastVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceSourceUrl": "https://priceteq.com/eg/product/30514d9b-39a7-4091-a0a3-a6e4c2f9308d",
+      "merchant": "Elghazawy Egypt"
     },
     {
       "id": "xiaomi-redmi-note-14-pro-plus-12-256",
@@ -24430,19 +24443,31 @@
       "release": "2024",
       "memory": "8GB RAM / 128GB",
       "connectivity": "5G",
-      "source": "https://priceteq.com/eg/product/f0a2bac6-c890-4163-a90a-8b8863a4e84e",
-      "sourceLabel": "PriceTeq – أسعار متعارضة، لم يعتمد السعر",
-      "priceEGP": null,
-      "priceSource": "غير مؤكد – تعارض بين صفحات المصدر",
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "priceStatus": "غير مؤكد: توجد صفحة قديمة لنسخة 8GB/128GB بسعر 57,500 جنيه، بينما قائمة PriceTeq الأحدث تعرض 39,800 جنيه لاسم iPhone 16 128GB لكن صفحة العرض المباشرة تعذر فتحها، وظهرت صفحات أخرى بأسعار مختلفة. لم أعتمد أي سعر لحين التحقق من صفحة متجر مباشرة.",
-      "priceOffers": [],
-      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
-      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "source": "https://elghazawy.com/en/sub-category/phones?ct=2068&ordered=published_date&sort=asc",
+      "sourceLabel": "Elghazawy Egypt – قائمة الهواتف والأسعار المنشورة",
+      "priceEGP": 69900,
+      "priceSource": "Elghazawy Egypt – قائمة الهواتف والأسعار المنشورة",
+      "priceCheckedAt": "2026-11-08",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "69,900 جنيه لنسخة iPhone 16 بسعة 128GB وذاكرة 8GB كما تظهر في قائمة المتجر؛ السعر رصد من القائمة بتاريخ 6 نوفمبر 2026، والتوفر النهائي يحتاج تأكيد المتجر.",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 69900,
+          "variant": "8GB RAM / 128GB",
+          "source": "https://elghazawy.com/en/sub-category/phones?ct=2068&ordered=published_date&sort=asc",
+          "sourceLabel": "Elghazawy Egypt – قائمة الهواتف والأسعار المنشورة",
+          "checkedAt": "2026-11-08",
+          "observedAt": "2026-11-06",
+          "availability": "unknown"
+        }
+      ],
+      "priceVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceLastVerifiedAt": "2026-11-08T03:20:00+02:00",
       "priceAvailability": "unknown",
-      "merchant": "El Avocato Mobile Egypt",
-      "alternateSource": "https://priceteq.com/eg/phones?page=10"
+      "merchant": "Elghazawy Egypt",
+      "alternateSource": "https://priceteq.com/eg/phones?page=10",
+      "priceSourceUrl": "https://elghazawy.com/en/sub-category/phones?ct=2068&ordered=published_date&sort=asc"
     },
     {
       "id": "apple-iphone-16e-128",
@@ -25456,18 +25481,30 @@
       "release": "2026",
       "memory": "8GB RAM / 128GB / 4G",
       "connectivity": "4G",
-      "priceEGP": null,
-      "priceSource": "غير مؤكد – تعارض في السعر",
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "priceStatus": "غير مؤكد: صفحة PriceTeq تعرض 11,469 جنيه في ملخص المقارنة و11,489 جنيه في خانة السعر الرئيسي لنسخة 8GB RAM / 128GB؛ لم يتم اعتماد أي منهما لحين إزالة التعارض.",
-      "priceOffers": [],
+      "priceEGP": 11469,
+      "priceSource": "PriceTeq – مقارنة متاجر مصرية؛ أقل عرض لدى Raneen Egypt",
+      "priceCheckedAt": "2026-11-08",
+      "priceObservedAt": "2026-11-06",
+      "priceStatus": "11,469 جنيه لنسخة 8GB/128GB؛ صفحة المقارنة تسمي Raneen أقل متجر وتذكر أن الهاتف متاح بالمخزون عند آخر فحص 6 نوفمبر 2026. السعر قد يتغير.",
+      "priceOffers": [
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 11469,
+          "variant": "8GB RAM / 128GB / 4G",
+          "source": "https://priceteq.com/eg/product/f3005f6d-9b17-41bb-82e0-60c07acecb91",
+          "sourceLabel": "PriceTeq – مقارنة متاجر مصرية؛ أقل عرض لدى Raneen Egypt",
+          "checkedAt": "2026-11-08",
+          "observedAt": "2026-11-06",
+          "availability": "unknown"
+        }
+      ],
       "merchant": "Raneen Egypt",
-      "source": "https://priceteq.com/eg/product/1871ffc7-3e8e-456a-8d0f-3780046842c3",
-      "sourceLabel": "PriceTeq – سعر متعارض، غير معتمد",
+      "source": "https://priceteq.com/eg/product/f3005f6d-9b17-41bb-82e0-60c07acecb91",
+      "sourceLabel": "PriceTeq – مقارنة متاجر مصرية؛ أقل عرض لدى Raneen Egypt",
       "priceAvailability": "unknown",
-      "priceVerifiedAt": "2026-11-07T20:12:58+02:00",
-      "priceLastVerifiedAt": "2026-11-07T20:12:58+02:00"
+      "priceVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceLastVerifiedAt": "2026-11-08T03:20:00+02:00",
+      "priceSourceUrl": "https://priceteq.com/eg/product/f3005f6d-9b17-41bb-82e0-60c07acecb91"
     },
     {
       "id": "vivo-y22-4-128",
@@ -29743,7 +29780,7 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "مراجعة إضافية 7 نوفمبر 2026: توثيق Samsung Galaxy M55 8/256 وOPPO Reno16 Pro 12/512؛ تعليق سعر iPhone 16 بسبب تعارض القوائم وعدم فتح صفحة العرض؛ وتصحيح تواريخ الرصد للصفحات التي لم تتحدث منذ 4–5 نوفمبر.",
+  "priceUpdateNote": "تم اعتماد 3 أسعار إضافية بعد مطابقة الموديل وسعة الذاكرة مع مصادر أسعار مصرية منشورة. بعض القيم تمثل أقل سعر مرصود أو قائمة متجر، وليست ضمانًا باستمرار التوفر؛ راجع حالة كل سجل.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo",
   "lastManualPriceVerification": "2026-11-07T20:25:57+02:00"
 }
