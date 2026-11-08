@@ -8468,6 +8468,83 @@
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/school-supplies-",
       "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-moubarak-pilot-g2-07",
+      "name": "قلم Pilot G-2 جل 0.7 مم",
+      "brand": "Pilot",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 65,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "details": "السعر ظهر في صفحة متجر مبارك المفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-moubarak-staedtler-noris-hb-12",
+      "name": "علبة أقلام Staedtler Noris HB عدد 12 قلمًا",
+      "brand": "Staedtler",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 80.75,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "details": "السعر ظهر في صفحة متجر مبارك المفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-moubarak-ergonomic-backpack",
+      "name": "حقيبة مدرسية Ergonomic بظهر مبطن",
+      "brand": "متعدد",
+      "category": "حقائب مدرسية",
+      "unit": "قطعة",
+      "price": 850,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "details": "السعر ظهر في صفحة متجر مبارك المفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-moubarak-oxford-a4-100",
+      "name": "كشكول Oxford سلك A4 عدد 100 ورقة",
+      "brand": "Oxford",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 72.25,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "details": "السعر ظهر في صفحة متجر مبارك المفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-moubarak-exercise-book-60-pack5",
+      "name": "عبوة 5 كراسات مدرسية مسطرة 60 ورقة",
+      "brand": "متعدد",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 38.25,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "details": "السعر ظهر في صفحة متجر مبارك المفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-moubarak-bic-cristal-10",
+      "name": "عبوة أقلام BIC Cristal عدد 10",
+      "brand": "BIC",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 50,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "details": "السعر ظهر في صفحة متجر مبارك المفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-moubarak-faber-mechanical-05",
+      "name": "قلم سنون Faber-Castell ميكانيكي 0.5 مم",
+      "brand": "Faber-Castell",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 93.5,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "details": "السعر ظهر في صفحة متجر مبارك المفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
