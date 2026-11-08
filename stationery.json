@@ -1309,11 +1309,15 @@
     },
     {
       "id": "catalog-stationery-0089",
-      "name": "مسطرة 30 سم – قطعة",
+      "name": "مسطرة Prima شفافة 30 سم",
       "category": "أدوات مدرسية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "brand": "Prima",
+      "price": 40,
+      "details": "سعر منشور لدى كارفور مصر لمسطره Prima شفافة 30 سم؛ اللون قد يختلف والسعر والتوفر قابلان للتغيير.",
+      "unit": "قطعة",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY1300000",
+      "checkedAt": "2026-11-08"
     },
     {
       "id": "catalog-stationery-0090",
@@ -1402,6 +1406,42 @@
       "brand": "متعدد",
       "price": null,
       "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    },
+    {
+      "id": "stationery-deli-h00310-eraser",
+      "name": "ممحاة Deli H00310",
+      "category": "مستلزمات كتابة",
+      "brand": "Deli",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY1300000",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لدى كارفور مصر لممحاة Deli موديل H00310؛ السعر والتوفر قابلان للتغيير."
+    },
+    {
+      "id": "stationery-mintra-9lines-80sheets",
+      "name": "كشكول Mintra 9 خطوط – 80 ورقة",
+      "category": "كراسات وكشاكيل",
+      "brand": "Mintra",
+      "unit": "قطعة",
+      "price": 25,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY1300000",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لدى كارفور مصر لكشكول Mintra تسعة أسطر، 80 ورقة؛ الغلاف قد يختلف والسعر والتوفر قابلان للتغيير."
+    },
+    {
+      "id": "stationery-bic-cristal-blue-10pack",
+      "name": "أقلام BIC Cristal جاف – عبوة 10 أقلام",
+      "category": "أقلام",
+      "brand": "BIC",
+      "unit": "عبوة 10 أقلام",
+      "price": 50,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
+      "checkedAt": "2026-11-08",
+      "details": "سعر منشور لعبوة BIC Cristal Ballpoint Pens، 10 أقلام؛ اللون/التشكيلة حسب المتجر والسعر قابل للتغيير."
     }
   ]
 }
