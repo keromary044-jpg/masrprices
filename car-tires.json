@@ -5,100 +5,136 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "إطار 13 بوصة",
-      "brand": "ماركات متعددة",
+      "name": "Laufenn 205/55 R16 Tire",
+      "brand": "Laufenn",
       "category": "إطارات ملاكي",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3085,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار 14 بوصة",
-      "brand": "ماركات متعددة",
+      "name": "BOTO 215/60 R17 Tire",
+      "brand": "BOTO",
       "category": "إطارات ملاكي",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3470,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار 15 بوصة",
-      "brand": "ماركات متعددة",
+      "name": "BOTO 185/65 R15 Tire",
+      "brand": "BOTO",
       "category": "إطارات ملاكي",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2205,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار 16 بوصة",
-      "brand": "ماركات متعددة",
+      "name": "Laufenn 215/60 R17 Tire",
+      "brand": "Laufenn",
       "category": "إطارات ملاكي",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 4410,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار 17 بوصة",
-      "brand": "ماركات متعددة",
+      "name": "Laufenn 195/65 R15 Tire",
+      "brand": "Laufenn",
       "category": "إطارات ملاكي",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2935,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار SUV",
-      "brand": "ماركات متعددة",
+      "name": "LASSA 175/70 R13 Tire",
+      "brand": "LASSA",
       "category": "إطارات SUV",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1995,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار نصف نقل",
-      "brand": "ماركات متعددة",
+      "name": "AUSTONE 185/65 R14 Tire",
+      "brand": "AUSTONE",
       "category": "إطارات نقل",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2305,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار تجاري",
-      "brand": "ماركات متعددة",
+      "name": "Laufenn 195/60 R15 Tire",
+      "brand": "Laufenn",
       "category": "إطارات نقل",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2935,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ترصيص إطارات",
-      "brand": "ماركات متعددة",
+      "name": "BOTO 195/65 R15 Tire",
+      "brand": "BOTO",
       "category": "خدمات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2305,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "تركيب إطار",
-      "brand": "ماركات متعددة",
+      "name": "KUMHO 195/65 R15 Tire",
+      "brand": "KUMHO",
       "category": "خدمات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2675,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "صمام إطار",
-      "brand": "ماركات متعددة",
+      "name": "DYNAMO 195/65 R15 Tire",
+      "brand": "DYNAMO",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2045,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "عدة إصلاح الإطارات",
-      "brand": "ماركات متعددة",
+      "name": "BOTO 205/55 R16 Tire",
+      "brand": "BOTO",
       "category": "ملحقات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2615,
+      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
+      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
+      "merchant": "Shaheen",
+      "source": "https://www.shaheentire.com/en/categories/tires",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "إطار ملاكي – 175/70 R13",
