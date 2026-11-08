@@ -1300,6 +1300,58 @@
       "brand": "متعدد",
       "price": null,
       "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    },
+    {
+      "id": "service-passport-regular",
+      "name": "استخراج جواز سفر مميكن عادي",
+      "brand": "وزارة الداخلية",
+      "price": 705,
+      "category": "جوازات وسفر",
+      "unit": "معاملة",
+      "source": "https://www.moi.gov.eg/passports/home/GetPassport",
+      "merchant": "وزارة الداخلية المصرية",
+      "details": "الرسم المنشور على بوابة وزارة الداخلية المصرية.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "service-passport-lost",
+      "name": "استخراج جواز سفر بدل فاقد أو تالف",
+      "brand": "وزارة الداخلية",
+      "price": 1155,
+      "category": "جوازات وسفر",
+      "unit": "معاملة",
+      "source": "https://www.moi.gov.eg/passports/home/GetPassport",
+      "merchant": "وزارة الداخلية المصرية",
+      "details": "الرسم المنشور على بوابة وزارة الداخلية المصرية.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "service-passport-same-day",
+      "name": "خدمة جواز السفر المميز في نفس اليوم",
+      "brand": "وزارة الداخلية",
+      "price": 500,
+      "category": "جوازات وسفر",
+      "unit": "معاملة",
+      "source": "https://www.moi.gov.eg/passports/home/GetPassport",
+      "merchant": "وزارة الداخلية المصرية",
+      "details": "الرسم المنشور على بوابة وزارة الداخلية المصرية.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "service-passport-next-day",
+      "name": "خدمة جواز السفر العاجل يوم العمل التالي",
+      "brand": "وزارة الداخلية",
+      "price": 100,
+      "category": "جوازات وسفر",
+      "unit": "معاملة",
+      "source": "https://www.moi.gov.eg/passports/home/GetPassport",
+      "merchant": "وزارة الداخلية المصرية",
+      "details": "الرسم المنشور على بوابة وزارة الداخلية المصرية.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
     }
   ]
 }

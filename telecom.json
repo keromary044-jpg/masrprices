@@ -269,15 +269,16 @@
     },
     {
       "id": "telecom-باقات-إنترنت-موبايل-vodafone-حسب-الباقة",
-      "name": "باقات إنترنت موبايل",
+      "name": "Vodafone Plus 1400 MB",
       "category": "إنترنت موبايل",
       "brand": "Vodafone",
-      "unit": "حسب الباقة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "unit": "باقة",
+      "price": 37,
+      "merchant": "Vodafone Egypt",
+      "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+      "checkedAt": "2026-11-08",
+      "details": "سعر الباقة الرسمي المنشور على صفحة Vodafone Plus.",
+      "priceStatus": "verified"
     },
     {
       "id": "telecom-باقات-إنترنت-موبايل-orange-حسب-الباقة",
@@ -1294,6 +1295,97 @@
       "brand": "متعدد",
       "price": null,
       "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    },
+    {
+      "id": "vodafone-plus-3000",
+      "name": "Vodafone Plus 3000 MB",
+      "brand": "Vodafone",
+      "category": "إنترنت موبايل",
+      "price": 69,
+      "unit": "باقة",
+      "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+      "merchant": "Vodafone Egypt",
+      "details": "سعر الباقة الرسمي المنشور على صفحة Vodafone Plus.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "vodafone-plus-4750",
+      "name": "Vodafone Plus 4750 MB",
+      "brand": "Vodafone",
+      "category": "إنترنت موبايل",
+      "price": 98,
+      "unit": "باقة",
+      "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+      "merchant": "Vodafone Egypt",
+      "details": "سعر الباقة الرسمي المنشور على صفحة Vodafone Plus.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "vodafone-plus-6000",
+      "name": "Vodafone Plus 6000 MB",
+      "brand": "Vodafone",
+      "category": "إنترنت موبايل",
+      "price": 120,
+      "unit": "باقة",
+      "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+      "merchant": "Vodafone Egypt",
+      "details": "سعر الباقة الرسمي المنشور على صفحة Vodafone Plus.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "vodafone-plus-10000",
+      "name": "Vodafone Plus 10000 MB",
+      "brand": "Vodafone",
+      "category": "إنترنت موبايل",
+      "price": 180,
+      "unit": "باقة",
+      "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+      "merchant": "Vodafone Egypt",
+      "details": "سعر الباقة الرسمي المنشور على صفحة Vodafone Plus.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "vodafone-plus-18000",
+      "name": "Vodafone Plus 18000 MB",
+      "brand": "Vodafone",
+      "category": "إنترنت موبايل",
+      "price": 300,
+      "unit": "باقة",
+      "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+      "merchant": "Vodafone Egypt",
+      "details": "سعر الباقة الرسمي المنشور على صفحة Vodafone Plus.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "vodafone-plus-29000",
+      "name": "Vodafone Plus 29000 MB",
+      "brand": "Vodafone",
+      "category": "إنترنت موبايل",
+      "price": 450,
+      "unit": "باقة",
+      "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+      "merchant": "Vodafone Egypt",
+      "details": "سعر الباقة الرسمي المنشور على صفحة Vodafone Plus.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "vodafone-plus-45000",
+      "name": "Vodafone Plus 45000 MB",
+      "brand": "Vodafone",
+      "category": "إنترنت موبايل",
+      "price": 600,
+      "unit": "باقة",
+      "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+      "merchant": "Vodafone Egypt",
+      "details": "سعر الباقة الرسمي المنشور على صفحة Vodafone Plus.",
+      "priceStatus": "verified",
+      "checkedAt": "2026-11-08"
     }
   ]
 }

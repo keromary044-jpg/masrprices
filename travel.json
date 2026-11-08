@@ -8,22 +8,26 @@
       "name": "المتحف المصري بالتحرير",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة التذاكر الرسمية",
-      "details": "تحقق من سعر التذكرة وموعد الزيارة قبل الذهاب.",
-      "source": "https://egymonuments.gov.eg/en",
-      "checkedAt": "2026-11-02"
+      "price": 30,
+      "merchant": "وزارة السياحة والآثار / المتحف المصري الكبير",
+      "details": "المصري البالغ 30 جنيه؛ الطالب 10 جنيه.",
+      "source": "https://egymonuments.gov.eg/museums/egyptian-museum",
+      "checkedAt": "2026-11-08",
+      "unit": "تذكرة بالغ مصري",
+      "priceStatus": "verified"
     },
     {
       "id": "travel-grand-egyptian",
       "name": "المتحف المصري الكبير",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة التذاكر الرسمية",
-      "details": "التذاكر والحجز من البوابة الرسمية.",
-      "source": "https://egymonuments.gov.eg/en",
-      "checkedAt": "2026-11-02"
+      "price": 220,
+      "merchant": "وزارة السياحة والآثار / المتحف المصري الكبير",
+      "details": "المصري البالغ 220 جنيه من 1 نوفمبر 2026؛ الطالب/الطفل 110 جنيه.",
+      "source": "https://english.ahram.org.eg/NewsContentP/1/580158/Egypt/Egypt-raises-GEM-ticket-prices-starting--November.aspx",
+      "checkedAt": "2026-11-08",
+      "unit": "تذكرة بالغ مصري",
+      "priceStatus": "verified"
     },
     {
       "id": "travel-karnak",
