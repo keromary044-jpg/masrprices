@@ -115,46 +115,70 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "إطار ملاكي – 195/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "Dynamo MH01 195/65 R15 91V",
+      "brand": "Dynamo",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2045,
+      "details": "إطار Dynamo MH01 مقاس 195/65 R15؛ السعر المعروض شامل الضريبة.",
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/195-65-r15",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار ملاكي – 205/55 R16",
-      "brand": "ماركات متعددة",
+      "name": "BOTO 195/65 R15 91H",
+      "brand": "BOTO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2155,
+      "details": "إطار BOTO مقاس 195/65 R15؛ السعر المعروض شامل الضريبة.",
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/195-65-r15",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار ملاكي – 215/60 R16",
-      "brand": "ماركات متعددة",
+      "name": "BOTO 195/65 R15 91H – variant 2",
+      "brand": "BOTO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2305,
+      "details": "خيار آخر من BOTO بالمقاس نفسه كما ظهر في صفحة المتجر.",
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/195-65-r15",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار ملاكي – 225/45 R17",
-      "brand": "ماركات متعددة",
+      "name": "AUSTONE 195/65 R15 91H",
+      "brand": "Austone",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2475,
+      "details": "إطار AUSTONE مقاس 195/65 R15؛ السعر المعروض شامل الضريبة.",
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/195-65-r15",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار ملاكي – 225/55 R17",
-      "brand": "ماركات متعددة",
+      "name": "CHAOYANG 195/65 R15 91H",
+      "brand": "Chaoyang",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2465,
+      "details": "إطار CHAOYANG مقاس 195/65 R15؛ السعر المعروض شامل الضريبة.",
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/195-65-r15",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "إطار ملاكي – 235/60 R18",
-      "brand": "ماركات متعددة",
+      "name": "KUMHO 195/65 R15 91V",
+      "brand": "Kumho",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2675,
+      "details": "إطار KUMHO مقاس 195/65 R15؛ السعر المعروض شامل الضريبة.",
+      "priceStatus": "سعر منشور في قائمة/صفحة متجر مصرية؛ يُعاد تأكيد التوفر والسعر عند الشراء",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/195-65-r15",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "إطار SUV – 175/70 R13",
