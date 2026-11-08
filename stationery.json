@@ -225,11 +225,11 @@
       "category": "أقلام",
       "brand": "Stabilo",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 26.25,
+      "merchant": "Bayan eShop",
+      "source": "https://bayan-eshop.com/pages/stabilo",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص قلم Stabilo Neon Highlighter. السعر ظهر في صفحة المتجر عند الفهرسة؛ يُنصح بالتحقق من السعر والتوفر قبل الشراء."
     },
     {
       "id": "stationery-أقلام-تلوين-خشب-12-لون-faber-castell-علبة",
@@ -345,11 +345,11 @@
       "category": "أدوات هندسية",
       "brand": "Maped",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 99,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص طقم Maped Geometry Set من 8 قطع. السعر ظهر في صفحة المتجر عند الفهرسة؛ يُنصح بالتحقق من السعر والتوفر قبل الشراء."
     },
     {
       "id": "stationery-آلة-حاسبة-علمية-casio-قطعة",
@@ -393,11 +393,11 @@
       "category": "مستلزمات كتابة",
       "brand": "Maped",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 35,
+      "merchant": "Moubarak Bookstore",
+      "source": "https://moubarakstore.com/en/categories/school-supplies",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص طقم Maped Eraser & Canister Sharpener. السعر ظهر في صفحة المتجر عند الفهرسة؛ يُنصح بالتحقق من السعر والتوفر قبل الشراء."
     },
     {
       "id": "stationery-استيكة-عجن-للرسم-faber-castell-قطعة",
@@ -8168,6 +8168,138 @@
       "category": "أقلام تحديد",
       "unit": "قطعة",
       "price": 44,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-mintra-wire-sketch-12",
+      "name": "كراسة رسم Mintra سلك 12 ورقة مقاس 35×25 سم",
+      "brand": "Mintra",
+      "category": "رسم وتخطيط",
+      "unit": "قطعة",
+      "price": 40,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-mintra-200-red-9x11",
+      "name": "كشكول Mintra مسطر 200 ورقة مقاس 9×11 سم أحمر",
+      "brand": "Mintra",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-mintra-200-green-9x11",
+      "name": "كشكول Mintra مسطر 200 ورقة مقاس 9×11 سم أخضر",
+      "brand": "Mintra",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-mintra-200-black-9x11",
+      "name": "كشكول Mintra مسطر 200 ورقة مقاس 9×11 سم أسود",
+      "brand": "Mintra",
+      "category": "كراسات وكشاكيل",
+      "unit": "قطعة",
+      "price": 110,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-alwan-mechanical-07-pink",
+      "name": "قلم سنون Alwan وردي 0.7 مم 1307.0.7",
+      "brand": "Alwan",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-alwan-pencil-05",
+      "name": "قلم Alwan سن 0.5 مم بمشبك معدني وممحاة 1305",
+      "brand": "Alwan",
+      "category": "أدوات كتابة",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-hongwei-pencil-set",
+      "name": "طقم أقلام HONG WEI درجات مختلفة HW-976",
+      "brand": "HONG WEI",
+      "category": "أقلام رصاص",
+      "unit": "قطعة",
+      "price": 38,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-queen-rollerball-white",
+      "name": "قلم Queen Rollerball أبيض موديل 188",
+      "brand": "Queen",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 18,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-faber-aquarel-wood-12",
+      "name": "علبة أقلام Faber-Castell Aquarel خشبية مائية طويلة 12 لونًا",
+      "brand": "Faber-Castell",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 150,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-doms-dustfree-3421",
+      "name": "ممحاة Doms Dust Free متوسطة 3421",
+      "brand": "Doms",
+      "category": "ممحاة",
+      "unit": "قطعة",
+      "price": 4,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-deli-sharpener-e0531",
+      "name": "براية Deli بلاستيك متعددة الألوان E0531",
+      "brand": "Deli",
+      "category": "برايات",
+      "unit": "قطعة",
+      "price": 6,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-dong-a-dooly-poster-6",
+      "name": "طقم ألوان بوستر Dong-A Dooly عدد 6 ألوان × 15 مل",
+      "brand": "Dong-A",
+      "category": "ألوان ورسم",
+      "unit": "قطعة",
+      "price": 195,
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/school-supplies-",
       "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
