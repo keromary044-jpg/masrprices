@@ -9117,6 +9117,226 @@
       "merchant": "GBH",
       "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
       "details": "السعر شامل الضريبة كما ظهر في صفحة GBH عند الفهرسة؛ راجع صفحة المتجر للتأكد من السعر والتوفر."
+    },
+    {
+      "id": "stationery-store-sticky-note-7204-100",
+      "name": "ورق ملاحظات لاصق 100 ورقة موديل 7204",
+      "brand": "متعدد",
+      "category": "ملاحظات لاصقة",
+      "unit": "قطعة",
+      "price": 18,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-xingli-sticky-3x2",
+      "name": "ورق ملاحظات لاصق Xingli S1-2 مقاس 3×2 بوصة 100 ورقة",
+      "brand": "Xingli",
+      "category": "ملاحظات لاصقة",
+      "unit": "قطعة",
+      "price": 12,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-sticky-note-yellow-76",
+      "name": "ورق ملاحظات لاصق أصفر 7.6×7.6 سم",
+      "brand": "متعدد",
+      "category": "ملاحظات لاصقة",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-french-color-chalk-21",
+      "name": "طباشير ألوان فرنسي",
+      "brand": "متعدد",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 21,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stanger-superglue-2x3",
+      "name": "لاصق Stanger فائق القوة عبوتان × 3 جم",
+      "brand": "Stanger",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 48,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-stanger-clear-adhesive-30",
+      "name": "لاصق Stanger شفاف متعدد الاستخدامات 30 مل",
+      "brand": "Stanger",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 65,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-uhu-liquid-35",
+      "name": "لاصق UHU سائل شفاف متعدد الأغراض 35 مل",
+      "brand": "UHU",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 70,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-uhu-liquid-20",
+      "name": "لاصق UHU سائل شفاف متعدد الأغراض 20 مل",
+      "brand": "UHU",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 50,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pritt-glue-stick-10",
+      "name": "قلم لاصق Pritt أبيض 10 جم",
+      "brand": "Pritt",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 38,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-adel-glue-stick-8",
+      "name": "قلم لاصق Adel أصفر 8 جم",
+      "brand": "Adel",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-eagle-stapler-s5101b",
+      "name": "دباسة مكتبية Eagle سعة 20 ورقة S5101B",
+      "brand": "Eagle",
+      "category": "أدوات مكتبية",
+      "unit": "قطعة",
+      "price": 195,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-digital-plastic-dossier-case",
+      "name": "ملف Digital بلاستيك بجراب متعدد الألوان",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 12,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-sofi-plast-dossier-blue",
+      "name": "ملف Sofi Plast بلاستيك أزرق",
+      "brand": "Sofi Plast",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 6,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-sascho-plastic-dossier-7",
+      "name": "ملف Sasco بلاستيك متعدد الألوان",
+      "brand": "Sasco",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 7,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-luxe-plastic-dossier-case",
+      "name": "ملف Luxe بلاستيك بجراب متعدد الألوان",
+      "brand": "Luxe",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-digital-fs-envelope",
+      "name": "ملف Digital FS Envelope",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 8,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-digital-expanding-envelope",
+      "name": "حافظة Digital قابلة للتمدد بزر مقاس FS",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 13,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-digital-zipper-file",
+      "name": "ملف Digital بسوستة متعدد الألوان",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 10,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-digital-longitudinal-ties",
+      "name": "ملف Digital بلاستيك برباط طولي FC.119",
+      "brand": "Digital",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 8,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-mintra-plastic-dossier-ruler",
+      "name": "ملف Mintra بلاستيك بمسطرة متعددة الألوان",
+      "brand": "Mintra",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 14,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery-supplies",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي المفهرسة خلال الأسبوع الأخير؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
