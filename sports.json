@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
   "notice": "أسعار معروضة على موقع Decathlon Egypt وقت الرصد وقد تختلف حسب التوافر. تم توسيع الكتالوج بسجلات تعريفية إضافية؛ الأسعار غير المحددة غير متحققة وليست أسعار بيع حالية.",
   "source": "https://www.decathlon.eg/en/4913-balls",
@@ -1405,6 +1405,136 @@
       "brand": "متعدد",
       "price": null,
       "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    },
+    {
+      "id": "sport-shirt-kids-essential-black-20261108",
+      "name": "KIPSTA Kids' Football Shirt Essential - Black",
+      "brand": "KIPSTA",
+      "category": "ملابس كرة قدم",
+      "price": 199,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-bag-club100-20l-20261108",
+      "name": "DECATHLON Club 100 20L Foldable Sports Bag",
+      "brand": "DECATHLON",
+      "category": "حقائب رياضية",
+      "price": 699,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-bag-kipsta-35l-20261108",
+      "name": "KIPSTA Club 100 35L Foldable Sports Bag",
+      "brand": "KIPSTA",
+      "category": "حقائب رياضية",
+      "price": 1099,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-socks-viralto-club-20261108",
+      "name": "KIPSTA Football Socks Viralto Club - Black",
+      "brand": "KIPSTA",
+      "category": "جوارب رياضية",
+      "price": 499,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-shorts-kids-essential-20261108",
+      "name": "KIPSTA Kids' Football Shorts Essential - Black",
+      "brand": "KIPSTA",
+      "category": "ملابس كرة قدم",
+      "price": 249,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-thermal-undershorts-kids-20261108",
+      "name": "KIPSTA Kids' Thermal Football Undershorts Keepcomfort - Black",
+      "brand": "KIPSTA",
+      "category": "ملابس رياضية",
+      "price": 749,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-shorts-adult-essential-white-20261108",
+      "name": "KIPSTA Adult Football Shorts Essential - White",
+      "brand": "KIPSTA",
+      "category": "ملابس كرة قدم",
+      "price": 249,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-shirt-adult-essential-blue-2026-20261108",
+      "name": "KIPSTA Adult Short-Sleeved Football Shirt Essential - Blue 2026",
+      "brand": "KIPSTA",
+      "category": "ملابس كرة قدم",
+      "price": 299,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-boots-kids-easy-tf-20261108",
+      "name": "KIPSTA Kids' Rip-Tab Turf Football Boots 100 Easy TF - Black/Yellow",
+      "brand": "KIPSTA",
+      "category": "أحذية كرة قدم",
+      "price": 899,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-goal-kage-95x70-20261108",
+      "name": "KIPSTA Football Goal Kage 95 x 70 cm",
+      "brand": "KIPSTA",
+      "category": "معدات ملاعب",
+      "price": 3999,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-goal-size-s-20261108",
+      "name": "KIPSTA Football Goal Size S 95 x 70 cm",
+      "brand": "KIPSTA",
+      "category": "معدات ملاعب",
+      "price": 7999,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-goal-size-m-20261108",
+      "name": "KIPSTA Football Goal Size M 180 x 120 cm",
+      "brand": "KIPSTA",
+      "category": "معدات ملاعب",
+      "price": 10999,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "sport-goal-size-l-20261108",
+      "name": "KIPSTA Football Goal Size L 300 x 200 cm",
+      "brand": "KIPSTA",
+      "category": "معدات ملاعب",
+      "price": 21499,
+      "merchant": "Decathlon Egypt",
+      "source": "https://www.decathlon.eg/en/4906-football",
+      "checkedAt": "2026-11-08"
     }
   ]
 }
