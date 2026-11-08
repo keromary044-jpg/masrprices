@@ -5,371 +5,565 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "شنطة سفر صغيرة",
-      "brand": "ماركات متعددة",
+      "name": "Sun Polo Travel Suitcase 24 inch",
+      "brand": "Sun Polo",
       "category": "حقائب سفر",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1500,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر متوسطة",
-      "brand": "ماركات متعددة",
+      "name": "Sun Polo Travel Suitcase 28 inch",
+      "brand": "Sun Polo",
       "category": "حقائب سفر",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2350,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر كبيرة",
-      "brand": "ماركات متعددة",
+      "name": "Latina Fabric Travel Suitcase 32 inch",
+      "brand": "Latina",
       "category": "حقائب سفر",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3150,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر مدرسية",
-      "brand": "ماركات متعددة",
+      "name": "Samsonite Silicone Travel Suitcase 28 inch",
+      "brand": "Samsonite",
       "category": "حقائب ظهر",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 2650,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر لابتوب",
-      "brand": "ماركات متعددة",
+      "name": "Samsonite Silicone Travel Suitcase 24 inch",
+      "brand": "Samsonite",
       "category": "حقائب ظهر",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1800,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة يد حريمي",
-      "brand": "ماركات متعددة",
+      "name": "Samsonite Silicone Travel Suitcase 20 inch",
+      "brand": "Samsonite",
       "category": "حقائب يد",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 800,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "حقيبة يد رجالي",
-      "brand": "ماركات متعددة",
+      "name": "Talgo Fiber Travel Suitcase 28 inch",
+      "brand": "Talgo",
       "category": "حقائب يد",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 1350,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "منظم شنطة سفر",
-      "brand": "ماركات متعددة",
+      "name": "Talgo Fiber Travel Suitcase 20 inch",
+      "brand": "Talgo",
       "category": "إكسسوارات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 600,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "قفل شنطة",
-      "brand": "ماركات متعددة",
+      "name": "Hammer Travel Suitcase 24 inch",
+      "brand": "Hammer",
       "category": "إكسسوارات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 3700,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ميزان حقائب",
-      "brand": "ماركات متعددة",
+      "name": "Hammer Travel Suitcase 28 inch",
+      "brand": "Hammer",
       "category": "إكسسوارات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 5200,
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "merchant": "Elghazawy",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر صغيرة – أسود",
-      "brand": "ماركات متعددة",
+      "name": "Travel Suitcase 28 inch",
+      "brand": "Generic",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1600,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Elghazawy",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر صغيرة – كحلي",
-      "brand": "ماركات متعددة",
+      "name": "Travel Suitcase 24 inch",
+      "brand": "Generic",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1150,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Elghazawy",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر صغيرة – رمادي",
-      "brand": "ماركات متعددة",
+      "name": "Travel Suitcase 20 inch",
+      "brand": "Generic",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 600,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Elghazawy",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر صغيرة – بني",
-      "brand": "ماركات متعددة",
+      "name": "Polo Polyester Travel Suitcase 32 inch Black",
+      "brand": "Polo",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2600,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Elghazawy",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر صغيرة – بيج",
-      "brand": "ماركات متعددة",
+      "name": "Turkish PP Silicone Trolley Suitcase 20 inch",
+      "brand": "Generic",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 950,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Elghazawy",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر متوسطة – أسود",
-      "brand": "ماركات متعددة",
+      "name": "PP Fiber Trolley Suitcase 28 inch",
+      "brand": "Generic",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 3100,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Elghazawy",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر متوسطة – كحلي",
-      "brand": "ماركات متعددة",
+      "name": "PP Fiber Trolley Suitcase 24 inch",
+      "brand": "Generic",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2700,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Elghazawy",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search7",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر متوسطة – رمادي",
-      "brand": "ماركات متعددة",
+      "name": "Cairo Way Waist Bag",
+      "brand": "Cairo Way",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 99,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر متوسطة – بني",
-      "brand": "ماركات متعددة",
+      "name": "Bange Waist Bag",
+      "brand": "Bange",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 275,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر متوسطة – بيج",
-      "brand": "ماركات متعددة",
+      "name": "Bange Handbag",
+      "brand": "Bange",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 349,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر كبيرة – أسود",
-      "brand": "ماركات متعددة",
+      "name": "Cairo Baby Diaper Bag",
+      "brand": "Cairo",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 499,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر كبيرة – كحلي",
-      "brand": "ماركات متعددة",
+      "name": "BG Bange Handbag",
+      "brand": "BG Bange",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 799,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر كبيرة – رمادي",
-      "brand": "ماركات متعددة",
+      "name": "QA Group Backpack",
+      "brand": "QA Group",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 599,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر كبيرة – بني",
-      "brand": "ماركات متعددة",
+      "name": "Cairo Way Crossbody Bag",
+      "brand": "Cairo Way",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 149,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة سفر كبيرة – بيج",
-      "brand": "ماركات متعددة",
+      "name": "Cairo Way Linen Crossbody Bag",
+      "brand": "Cairo Way",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 175,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة كابينة – أسود",
-      "brand": "ماركات متعددة",
+      "name": "LiLiBaiHE Men's Crossbody Bag",
+      "brand": "LiLiBaiHE",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 325,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة كابينة – كحلي",
-      "brand": "ماركات متعددة",
+      "name": "Bange H.D. Crossbody Bag",
+      "brand": "Bange",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 499,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة كابينة – رمادي",
-      "brand": "ماركات متعددة",
+      "name": "Kingsun Crossbody Bag",
+      "brand": "Kingsun",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 499,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة كابينة – بني",
-      "brand": "ماركات متعددة",
+      "name": "Bange Jamboo Crossbody Bag",
+      "brand": "Bange",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 499,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة كابينة – بيج",
-      "brand": "ماركات متعددة",
+      "name": "Bange Simple Laptop Bag",
+      "brand": "Bange",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 349,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر مدرسية – أسود",
-      "brand": "ماركات متعددة",
+      "name": "Cairo Way Waterproof Laptop Bag",
+      "brand": "Cairo Way",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 299,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر مدرسية – كحلي",
-      "brand": "ماركات متعددة",
+      "name": "CAT Art Rock Laptop Bag",
+      "brand": "CAT",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 475,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر مدرسية – رمادي",
-      "brand": "ماركات متعددة",
+      "name": "Art Rock Bag 17 inch Laptop Bag with Pouch",
+      "brand": "Art Rock Bag",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 475,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر مدرسية – بني",
-      "brand": "ماركات متعددة",
+      "name": "Art Rock Bag Oxford Lux Laptop Bag",
+      "brand": "Art Rock Bag",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 575,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر مدرسية – بيج",
-      "brand": "ماركات متعددة",
+      "name": "Bange Classic Laptop Bag",
+      "brand": "Bange",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 649,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر لابتوب – أسود",
-      "brand": "ماركات متعددة",
+      "name": "Art Rock Bag Oxford Black Laptop Bag",
+      "brand": "Art Rock Bag",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 675,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر لابتوب – كحلي",
-      "brand": "ماركات متعددة",
+      "name": "Three M Backpack",
+      "brand": "Three M",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1299,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر لابتوب – رمادي",
-      "brand": "ماركات متعددة",
+      "name": "Three M Waterproof School Backpack Set 18 inch",
+      "brand": "Three M",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1699,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر لابتوب – بني",
-      "brand": "ماركات متعددة",
+      "name": "Albatros Fabric Trolley Suitcase 24 inch",
+      "brand": "Albatros",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1675,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر لابتوب – بيج",
-      "brand": "ماركات متعددة",
+      "name": "Art Rock Bag Silicone Trolley Suitcase 21 inch",
+      "brand": "Art Rock Bag",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 849,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر رياضية – أسود",
-      "brand": "ماركات متعددة",
+      "name": "Art Rock Bag Silicone Trolley Suitcase 25 inch",
+      "brand": "Art Rock Bag",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1199,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر رياضية – كحلي",
-      "brand": "ماركات متعددة",
+      "name": "Art Rock Bag Silicone Trolley Suitcase 29 inch",
+      "brand": "Art Rock Bag",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1999,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر رياضية – رمادي",
-      "brand": "ماركات متعددة",
+      "name": "Three M Fabric Trolley Suitcase 24 inch",
+      "brand": "Three M",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1849,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر رياضية – بني",
-      "brand": "ماركات متعددة",
+      "name": "Three M Fabric Trolley Suitcase 28 inch",
+      "brand": "Three M",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2499,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة ظهر رياضية – بيج",
-      "brand": "ماركات متعددة",
+      "name": "Three M Fabric Trolley Suitcase 20 inch",
+      "brand": "Three M",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1199,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة يد حريمي – أسود",
-      "brand": "ماركات متعددة",
+      "name": "Three M Fabric Trolley Suitcase 32 inch",
+      "brand": "Three M",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2575,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة يد حريمي – كحلي",
-      "brand": "ماركات متعددة",
+      "name": "Bange Mini Black Crossbody Bag",
+      "brand": "Bange",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 449,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة يد حريمي – رمادي",
-      "brand": "ماركات متعددة",
+      "name": "Three M Travel Trolley Suitcase",
+      "brand": "Three M",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 3149,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة يد حريمي – بني",
-      "brand": "ماركات متعددة",
+      "name": "Albatros Silicone Trolley Suitcase 19 inch",
+      "brand": "Albatros",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 999,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة يد حريمي – بيج",
-      "brand": "ماركات متعددة",
+      "name": "Albatros Silicone Trolley Suitcase 23 inch",
+      "brand": "Albatros",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 1575,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "شنطة كتف – أسود",
-      "brand": "ماركات متعددة",
+      "name": "Albatros Silicone Trolley Suitcase 27 inch",
+      "brand": "Albatros",
       "category": "الحقائب وشنط السفر",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 2099,
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "merchant": "Raneen",
+      "priceStatus": "سعر منشور من متجر مصري بتاريخ الرصد؛ قابل للتغيير",
+      "sourceRef": "turn972292search3",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "شنطة كتف – كحلي",
