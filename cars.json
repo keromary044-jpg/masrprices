@@ -272,11 +272,12 @@
       "name": "Nissan Micra",
       "brand": "Nissan",
       "category": "هاتشباك",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 600000,
+      "modelYear": 2017,
+      "source": "https://egypt.yallamotor.com/new-cars/nissan/micra",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط السعر المنشور لسيارات Nissan Micra موديل 2017 المستعملة في مصر؛ 21 سيارة معروضة، بمتوسط 600,000 جنيه.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-009",
