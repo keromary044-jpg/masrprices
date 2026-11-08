@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-08",
   "currency": "EGP",
   "notice": "أسعار معلنة على مواقع المتاجر وقت الرصد؛ قد تختلف حسب المقاس والخامة واللون والتوصيل والتركيب. تم توسيع الكتالوج بسجلات تعريفية إضافية؛ الأسعار غير المحددة غير متحققة وليست أسعار بيع حالية.",
   "products": [
@@ -1412,6 +1412,106 @@
       "brand": "متعدد",
       "price": null,
       "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    },
+    {
+      "id": "furn-rubik-fabric-dining-chair-20261108",
+      "name": "Rubik Fabric Dining Chair",
+      "brand": "Home Centre",
+      "category": "كراسي سفرة",
+      "price": 5819,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-boston-fabric-dining-chair-20261108",
+      "name": "Boston Fabric Dining Chair",
+      "brand": "Home Centre",
+      "category": "كراسي سفرة",
+      "price": 6599,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-jan-deluxe-single-mattress-20261108",
+      "name": "Jan Deluxe Single Mattress 120x200 cm",
+      "brand": "Home Centre",
+      "category": "مراتب",
+      "price": 6499,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-baden-fabric-armchair-20261108",
+      "name": "Baden Fabric Armchair",
+      "brand": "Home Centre",
+      "category": "كراسي",
+      "price": 17999,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-octon-4-seater-dining-set-20261108",
+      "name": "Octon 4-Seater Dining Set",
+      "brand": "Home Centre",
+      "category": "سفرات",
+      "price": 34199,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-baden-3-seater-sofa-20261108",
+      "name": "Baden 3-Seater Fabric Sofa",
+      "brand": "Home Centre",
+      "category": "أرائك",
+      "price": 9499,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-ace-bookcase-20261108",
+      "name": "Ace Bookcase",
+      "brand": "Home Centre",
+      "category": "مكتبات",
+      "price": 23999,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-lupi-wall-unit-20261108",
+      "name": "Lupi Wall Unit",
+      "brand": "Home Centre",
+      "category": "وحدات تلفزيون",
+      "price": 61799,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-rubik-6-seater-dining-table-20261108",
+      "name": "Rubik 6-Seater Dining Table",
+      "brand": "Home Centre",
+      "category": "ترابيزات سفرة",
+      "price": 60999,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "furn-dublin-king-bedroom-set-20261108",
+      "name": "Dublin 4-Piece King Bedroom Set 180x200 cm",
+      "brand": "Home Centre",
+      "category": "غرف نوم",
+      "price": 31200,
+      "merchant": "Home Centre Egypt",
+      "source": "https://www.homecentre.com/eg/en/c/furniture",
+      "checkedAt": "2026-11-08"
     }
   ]
 }
