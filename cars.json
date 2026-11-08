@@ -1190,11 +1190,12 @@
       "name": "Peugeot Rifter",
       "brand": "Peugeot",
       "category": "MPV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1580000,
+      "modelYear": 2025,
+      "source": "https://egypt.yallamotor.com/new-cars/peugeot/rifter/2026",
+      "checkedAt": "2026-11-08",
+      "spec": "متوسط سعر Peugeot Rifter موديل 2025 المستعملة في مصر؛ سيارتان معروضتان بسعر 1,485,000–1,675,000 جنيه.",
+      "priceType": "used_market_average"
     },
     {
       "id": "car-090",
@@ -2385,11 +2386,12 @@
       "name": "BYD Qin Plus",
       "brand": "BYD",
       "category": "سيدان",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1002829,
+      "modelYear": 2025,
+      "source": "https://egypt.icartea.com/newcars/byd/qin-plus",
+      "checkedAt": "2026-11-08",
+      "spec": "السعر الابتدائي لفئة BYD Qin Plus Premium الهجينة موديل 2025 في مصر؛ الفئة الأعلى FWD بسعر 1,156,748 جنيه.",
+      "priceType": "new_official_trim"
     },
     {
       "id": "car-196",
