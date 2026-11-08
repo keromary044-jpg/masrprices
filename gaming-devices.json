@@ -21,12 +21,15 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "ذراع تحكم لاسلكي",
-      "brand": "ماركات متعددة",
+      "name": "Sony DualSense Wireless Controller Chroma Teal",
+      "brand": "Sony",
       "category": "أذرع تحكم",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 4350,
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "details": "السعر المنشور لذراع DualSense اللاسلكي Chroma Teal.",
+      "merchant": "Live Stores",
+      "source": "https://livestores.co/ar/C/games/?filter_category=playstation-5-egypt&query_type_category=and",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "ذراع تحكم سلكي",
@@ -101,25 +104,37 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "PlayStation 5 – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "Sony PlayStation 5 Slim Disc Edition",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 45500,
+      "details": "السعر المنشور لجهاز PlayStation 5 Slim Disc Version.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "EgyGamer",
+      "source": "https://egygamer.com/en/console",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "PlayStation 5 – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "Sony PlayStation 5 Slim Digital Edition 825GB",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 42999,
+      "details": "السعر الحالي المعروض للنسخة الرقمية 825GB.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "ON BOARD",
+      "source": "https://www.onboardeg.com/",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "PlayStation 5 – حزمة مع لعبة",
-      "brand": "ماركات متعددة",
+      "name": "Sony PlayStation 5 Slim Disc Edition FC 26 Bundle 1TB",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 45999,
+      "details": "حزمة FC 26 بسعة 1TB؛ السعر المعروض بعد الخصم.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "ON BOARD",
+      "source": "https://www.onboardeg.com/",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "PlayStation 5 – إصدار تخزين 1TB",
@@ -171,11 +186,15 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "PlayStation 5 Pro – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "Sony PlayStation 5 Pro 2TB",
+      "brand": "Sony",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 84999,
+      "details": "السعر المنشور لجهاز PlayStation 5 Pro بسعة 2TB.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Live Stores",
+      "source": "https://livestores.co/ar/C/games/?filter_category=playstation-5-egypt&query_type_category=and",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "PlayStation 5 Pro – نسخة رقمية",
@@ -206,11 +225,15 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "Xbox Series X – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "Microsoft Xbox Series X 1TB",
+      "brand": "Microsoft",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 40999,
+      "details": "السعر المنشور لجهاز Xbox Series X سعة 1TB.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "XPRS",
+      "source": "https://myxprs.com/collections/gaming-console",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Xbox Series X – نسخة رقمية",
@@ -241,11 +264,15 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "Xbox Series S – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "Microsoft Xbox Series S",
+      "brand": "Microsoft",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 27500,
+      "details": "السعر المنشور لجهاز Xbox Series S.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "XGame Stores",
+      "source": "https://mapp.xgame-stores.com/index.php?route=product%2Fcatalog",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Xbox Series S – نسخة رقمية",
@@ -311,11 +338,15 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "Nintendo Switch OLED – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "Nintendo Switch OLED",
+      "brand": "Nintendo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 22000,
+      "details": "السعر المنشور لطراز Nintendo Switch OLED؛ الصفحة ذكرت توافر وحدتين وقت الرصد.",
+      "priceStatus": "سعر منشور من متجر/كتالوج مصري؛ يلزم تأكيد التوافر والسعر عند الطلب",
+      "merchant": "Elogail Stores",
+      "source": "https://elogailstores.com/collections/gaming-consoles",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Nintendo Switch OLED – نسخة رقمية",
