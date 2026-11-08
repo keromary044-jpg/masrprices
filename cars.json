@@ -469,11 +469,12 @@
       "name": "Hyundai Verna",
       "brand": "Hyundai",
       "category": "سيدان",
-      "price": null,
+      "price": 340000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2005–2018؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-027",
@@ -524,22 +525,24 @@
       "name": "Hyundai Avante",
       "brand": "Hyundai",
       "category": "سيدان",
-      "price": null,
+      "price": 690000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2003–2025؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-032",
       "name": "Hyundai i10",
       "brand": "Hyundai",
       "category": "هاتشباك",
-      "price": null,
+      "price": 523000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2008–2016؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-033",
@@ -656,11 +659,12 @@
       "name": "Hyundai Getz",
       "brand": "Hyundai",
       "category": "هاتشباك",
-      "price": null,
+      "price": 358000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2008–2011؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-044",
@@ -678,11 +682,12 @@
       "name": "Kia Rio",
       "brand": "Kia",
       "category": "سيدان",
-      "price": null,
+      "price": 545000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2001–2019؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-046",
@@ -832,44 +837,48 @@
       "name": "Chevrolet Optra",
       "brand": "Chevrolet",
       "category": "سيدان",
-      "price": null,
+      "price": 470000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2007–2026؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-060",
       "name": "Chevrolet Aveo",
       "brand": "Chevrolet",
       "category": "سيدان",
-      "price": null,
+      "price": 365000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2006–2020؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-061",
       "name": "Chevrolet Cruze",
       "brand": "Chevrolet",
       "category": "سيدان",
-      "price": null,
+      "price": 553000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2010–2017؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-062",
       "name": "Chevrolet Lanos",
       "brand": "Chevrolet",
       "category": "سيدان",
-      "price": null,
+      "price": 310000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2005–2026؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-063",
@@ -920,11 +929,12 @@
       "name": "Chevrolet Malibu",
       "brand": "Chevrolet",
       "category": "سيدان",
-      "price": null,
+      "price": 1200000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2020–2021؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-068",
@@ -964,33 +974,36 @@
       "name": "Renault Logan",
       "brand": "Renault",
       "category": "سيدان",
-      "price": null,
+      "price": 400000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2009–2021؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-072",
       "name": "Renault Sandero",
       "brand": "Renault",
       "category": "هاتشباك",
-      "price": null,
+      "price": 363000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2012–2017؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-073",
       "name": "Renault Stepway",
       "brand": "Renault",
       "category": "هاتشباك",
-      "price": null,
+      "price": 465000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2012–2018؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-074",
@@ -1019,11 +1032,12 @@
       "name": "Renault Kadjar",
       "brand": "Renault",
       "category": "SUV",
-      "price": null,
+      "price": 820000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2017–2020؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-077",
@@ -1063,11 +1077,12 @@
       "name": "Renault Fluence",
       "brand": "Renault",
       "category": "سيدان",
-      "price": null,
+      "price": 488000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2011–2016؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-081",
@@ -1261,11 +1276,12 @@
       "name": "Fiat 500",
       "brand": "Fiat",
       "category": "هاتشباك",
-      "price": null,
+      "price": 760000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2019–2021؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-099",
@@ -1459,11 +1475,12 @@
       "name": "Mitsubishi Lancer",
       "brand": "Mitsubishi",
       "category": "سيدان",
-      "price": null,
+      "price": 530000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 1992–2018؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-117",
@@ -1723,11 +1740,12 @@
       "name": "Skoda Fabia",
       "brand": "Skoda",
       "category": "هاتشباك",
-      "price": null,
+      "price": 283000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 1988–2009؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-141",
@@ -1745,11 +1763,12 @@
       "name": "Skoda Rapid",
       "brand": "Skoda",
       "category": "سيدان",
-      "price": null,
+      "price": 615000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2013–2018؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-143",
@@ -1822,11 +1841,12 @@
       "name": "Volkswagen Polo",
       "brand": "Volkswagen",
       "category": "هاتشباك",
-      "price": null,
+      "price": 183000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 1995–2004؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-150",
@@ -1855,11 +1875,12 @@
       "name": "Volkswagen Passat",
       "brand": "Volkswagen",
       "category": "سيدان",
-      "price": null,
+      "price": 815000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2000–2021؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-153",
@@ -1998,11 +2019,12 @@
       "name": "MG MG 3",
       "brand": "MG",
       "category": "هاتشباك",
-      "price": null,
+      "price": 750000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2020–2025؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-166",
@@ -3153,11 +3175,12 @@
       "name": "Jeep Renegade",
       "brand": "Jeep",
       "category": "SUV",
-      "price": null,
+      "price": 953000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2016–2022؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-271",
@@ -3175,22 +3198,24 @@
       "name": "Jeep Grand Cherokee",
       "brand": "Jeep",
       "category": "SUV",
-      "price": null,
+      "price": 1840000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2000–2025؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-273",
       "name": "Jeep Wrangler",
       "brand": "Jeep",
       "category": "SUV",
-      "price": null,
+      "price": 1290000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2010–2017؛ نطاق السعر يختلف حسب السنة والفئة والحالة. ليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-274",
