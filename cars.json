@@ -3227,11 +3227,12 @@
       "name": "Audi Q5",
       "brand": "Audi",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1750000,
+      "modelYear": 2017,
+      "source": "https://www.dubizzle.com.eg/en/vehicles/cars-for-sale/audi/model-q5/",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Audi Q5 موديل 2017 مستعملة في الإسكندرية، 119 ألف كم.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-269",
@@ -3403,11 +3404,12 @@
       "name": "Land Rover Discovery Sport",
       "brand": "Land Rover",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 3100000,
+      "modelYear": 2021,
+      "source": "https://www.contactcars.com/en/used-cars/land_rover-discovery_sport",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر طلب لإعلان Land Rover Discovery Sport 2021 2.0 A/T P250 R Dynamic SE مستعملة في القاهرة؛ إعلان محدد.",
+      "priceType": "used_single_listing"
     },
     {
       "id": "car-284",
