@@ -16557,10 +16557,13 @@
       "source": "https://reekoo-mobile.com/ar/about-us/",
       "sourceLabel": "صفحة الشركة / المصنع",
       "priceEGP": null,
-      "priceSource": "لا يوجد سعر مصري موثق لهذا الموديل",
-      "priceStatus": "السعر والتوافر الحاليان غير مؤكدين",
+      "priceSource": "AllCall / Reekoo Egypt – صفحة المنتج الرسمية",
+      "priceStatus": "الموديل موجود على الموقع الرسمي، لكن المنتج غير متاح حاليًا ونفد المخزون، والصفحة لا تعرض سعرًا؛ لذلك لم يتم إدخال سعر تخميني.",
       "availabilityNote": "الموديل مدرج من مصدر الشركة؛ يلزم التحقق من توافر النسخة في مصر",
-      "priceOffers": []
+      "priceOffers": [],
+      "priceAvailability": "out_of_stock",
+      "priceSourceUrl": "https://reekoo-mobile.com/phones/note-60-max/",
+      "priceCheckedAt": "2026-11-08"
     },
     {
       "id": "reekoo-note-70",
@@ -29846,7 +29849,7 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "أضيفت أربعة أسعار موثقة جديدة: HONOR X9a من مقارنة أسعار مصرية، وثلاثة أسعار رسمية منشورة من AllCall/Reekoo؛ تم تمييز الموديلات المعروضة بنفاد المخزون بوضوح. الموديلات القديمة أو التي لا يظهر لها سعر مصري مطابق بقيت بلا سعر لتجنب اختلاق أرقام.",
+  "priceUpdateNote": "تم توثيق حالة نفاد مخزون Reekoo Note 60 MAX من الصفحة الرسمية دون اختلاق سعر غير منشور. ما زالت 16 موديلات بلا سعر رقمي مصري موثوق.",
   "lastAutomaticUpdate": "2026-11-07 17:40 Cairo",
   "lastManualPriceVerification": "2026-11-07T20:25:57+02:00"
 }
