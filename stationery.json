@@ -7335,6 +7335,226 @@
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/school-supplies-",
       "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-roto-redbirds-blue",
+      "name": "قلم جاف Rox Redbirds أزرق 0.7 مم",
+      "category": "أقلام",
+      "brand": "Rox",
+      "unit": "قطعة",
+      "price": 4,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-rox-classic-blue",
+      "name": "قلم جاف Rox Classic أزرق 0.7 مم",
+      "category": "أقلام",
+      "brand": "Rox",
+      "unit": "قطعة",
+      "price": 4,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-roto-mega-multicolor",
+      "name": "قلم جاف Roto Mega متعدد الألوان 0.7 مم",
+      "category": "أقلام",
+      "brand": "Roto",
+      "unit": "قطعة",
+      "price": 4,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-roto-golden-eye-10",
+      "name": "عبوة أقلام Roto Golden Eye أزرق عدد 10",
+      "category": "أقلام",
+      "brand": "Roto",
+      "unit": "قطعة",
+      "price": 40,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-roto-ultrablack-10",
+      "name": "عبوة أقلام Roto Ultra Black عدد 10",
+      "category": "أقلام",
+      "brand": "Roto",
+      "unit": "قطعة",
+      "price": 40,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-roto-liquid-blue-10",
+      "name": "عبوة أقلام Roto Liquid أزرق عدد 10",
+      "category": "أقلام",
+      "brand": "Roto",
+      "unit": "قطعة",
+      "price": 40,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-roto-pastel-highlighter-4",
+      "name": "طقم أقلام Roto Pastel فسفورية 4 ألوان",
+      "category": "أقلام تحديد",
+      "brand": "Roto",
+      "unit": "قطعة",
+      "price": 30,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-roto-pyramid-07",
+      "name": "قلم جاف Roto Pyramid سن 0.7 مم",
+      "category": "أقلام",
+      "brand": "Roto",
+      "unit": "قطعة",
+      "price": 4,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-roto-fineliner-04",
+      "name": "قلم Roto Fineliner رأس ريشة 0.4 مم",
+      "category": "أقلام",
+      "brand": "Roto",
+      "unit": "قطعة",
+      "price": 8,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-300-blue",
+      "name": "قلم جاف Bravo 300 أزرق",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-300-black",
+      "name": "قلم جاف Bravo 300 أسود 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-300-red",
+      "name": "قلم جاف Bravo 300 أحمر 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-plus-black",
+      "name": "قلم جاف Bravo Plus أسود 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 5,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-plus-red",
+      "name": "قلم جاف Bravo Plus أحمر 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 5,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-plus-blue",
+      "name": "قلم جاف Bravo Plus أزرق 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 5,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-100-green",
+      "name": "قلم جاف Bravo 100 أخضر 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-100-blue",
+      "name": "قلم جاف Bravo 100 أزرق 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-100-red",
+      "name": "قلم جاف Bravo 100 أحمر 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-bravo-100-black",
+      "name": "قلم جاف Bravo 100 أسود 0.7 مم",
+      "category": "أقلام",
+      "brand": "Bravo",
+      "unit": "قطعة",
+      "price": 3,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-pensan-1003-multicolor",
+      "name": "قلم جاف Pensan 1003 Triball متعدد الألوان 1 مم",
+      "category": "أقلام",
+      "brand": "Pensan",
+      "unit": "قطعة",
+      "price": 8,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
     }
   ]
 }
