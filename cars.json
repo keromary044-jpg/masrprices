@@ -492,11 +492,12 @@
       "name": "Hyundai Accent HCI",
       "brand": "Hyundai",
       "category": "سيدان",
-      "price": null,
+      "price": 620000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 1997–2024؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-029",
@@ -1531,11 +1532,12 @@
       "name": "Mitsubishi ASX",
       "brand": "Mitsubishi",
       "category": "SUV",
-      "price": null,
+      "price": 1250000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2018–2025؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-122",
@@ -1864,11 +1866,12 @@
       "name": "Volkswagen Jetta",
       "brand": "Volkswagen",
       "category": "سيدان",
-      "price": null,
+      "price": 578000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2009–2012؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-152",
@@ -1887,11 +1890,12 @@
       "name": "Volkswagen T-Cross",
       "brand": "Volkswagen",
       "category": "SUV",
-      "price": null,
+      "price": 2180000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2017–2025؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-154",
@@ -2152,11 +2156,12 @@
       "name": "Chery Tiggo 2",
       "brand": "Chery",
       "category": "SUV",
-      "price": null,
+      "price": 550000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2010–2024؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-178",
@@ -2911,22 +2916,24 @@
       "name": "Mercedes-Benz C-Class",
       "brand": "Mercedes-Benz",
       "category": "سيدان",
-      "price": null,
+      "price": 2180000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 1998–2025؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-247",
       "name": "Mercedes-Benz E-Class",
       "brand": "Mercedes-Benz",
       "category": "سيدان",
-      "price": null,
+      "price": 1780000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 1979–2024؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-248",
@@ -2944,11 +2951,12 @@
       "name": "Mercedes-Benz GLA",
       "brand": "Mercedes-Benz",
       "category": "SUV",
-      "price": null,
+      "price": 1850000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2018–2022؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-250",
@@ -2966,11 +2974,12 @@
       "name": "Mercedes-Benz GLC",
       "brand": "Mercedes-Benz",
       "category": "SUV",
-      "price": null,
+      "price": 4400000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2019–2026؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-252",
@@ -3010,77 +3019,84 @@
       "name": "BMW 3 Series",
       "brand": "BMW",
       "category": "سيدان",
-      "price": null,
+      "price": 1200000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 1995–2027؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-256",
       "name": "BMW 5 Series",
       "brand": "BMW",
       "category": "سيدان",
-      "price": null,
+      "price": 1250000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 1989–2025؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-257",
       "name": "BMW 7 Series",
       "brand": "BMW",
       "category": "سيدان",
-      "price": null,
+      "price": 2550000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2009–2019؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-258",
       "name": "BMW X1",
       "brand": "BMW",
       "category": "SUV",
-      "price": null,
+      "price": 1550000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2011–2020؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-259",
       "name": "BMW X3",
       "brand": "BMW",
       "category": "SUV",
-      "price": null,
+      "price": 1580000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2011–2024؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-260",
       "name": "BMW X5",
       "brand": "BMW",
       "category": "SUV",
-      "price": null,
+      "price": 4550000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2023–2024؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-261",
       "name": "BMW X6",
       "brand": "BMW",
       "category": "SUV",
-      "price": null,
+      "price": 3020000,
       "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "source": "https://egypt.arabiawheel.com/ar/used-car-prices",
+      "checkedAt": "2026-11-08",
+      "spec": "سعر سوق مستعمل نموذجي (وسيط الإعلانات)، لسنوات موديل 2017–2019؛ السعر يتغير حسب السنة والفئة والحالة، وليس سعر سيارة زيرو.",
+      "priceType": "used_market_median"
     },
     {
       "id": "car-262",
