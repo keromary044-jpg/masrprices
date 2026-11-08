@@ -201,11 +201,11 @@
       "category": "أدوات كتابة",
       "brand": "Pilot",
       "unit": "علبة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 69.83,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-الاقلام-114?order=list_price+asc",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص Pilot Eno Pencil Leads مقاس 0.5 مم. السعر شامل الضريبة كما ظهر في صفحة المتجر؛ تحقق من التوفر."
     },
     {
       "id": "stationery-قلم-ماركر-سبورة-schneider-قطعة",
@@ -429,11 +429,11 @@
       "category": "أدوات مكتبية",
       "brand": "Kangaro",
       "unit": "علبة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 27.08,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص Kangaro 24/6 Staples، عبوة 1000 دبوس. السعر شامل الضريبة كما ظهر في صفحة المتجر؛ تحقق من التوفر."
     },
     {
       "id": "stationery-خرامة-ورق-kangaro-قطعة",
@@ -513,11 +513,11 @@
       "category": "ملفات وحفظ",
       "brand": "متعدد",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
+      "price": 28.5,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
       "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "details": "السعر يخص حافظة ملفات بسوستة مقاس A6. السعر شامل الضريبة كما ظهر في صفحة المتجر؛ تحقق من التوفر."
     },
     {
       "id": "stationery-كشكول-سلك-100-ورقة-متعدد-قطعة",
@@ -8764,6 +8764,138 @@
       "price": 26,
       "merchant": "ElGhazawy",
       "source": "https://elghazawy.com/en/sub-category/school-supplies-",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-gbh-metal-ruler-30",
+      "name": "مسطرة معدنية 30 سم",
+      "brand": "متعدد",
+      "category": "أدوات هندسية",
+      "unit": "قطعة",
+      "price": 25.65,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop?order=list_price+asc&tags=6",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-gbh-snowman-whiteboard",
+      "name": "قلم ماركر سبورة Snowman سن مائل",
+      "brand": "Snowman",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 59.85,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-pens-markers-114?order=list_price+asc",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-gbh-uhu-paper-stick-82",
+      "name": "قلم لاصق UHU Paper Glue Stick وزن 8.2 جم",
+      "brand": "UHU",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 78.38,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-gbh-uhu-stick-40",
+      "name": "قلم لاصق UHU Stic وزن 40 جم",
+      "brand": "UHU",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 149.63,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-clear-tape",
+      "name": "شريط لاصق شفاف Scotch Tape",
+      "brand": "متعدد",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 20,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/office-essentials",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-deli-glue",
+      "name": "قلم لاصق Deli Stick Up Glue",
+      "brand": "Deli",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 15,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/office-essentials",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-schneider-topliner",
+      "name": "قلم Schneider Topliner 967",
+      "brand": "Schneider",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 45,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/office-essentials",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-uniball-fine-deluxe",
+      "name": "قلم Uni-ball Fine Deluxe",
+      "brand": "Uni-ball",
+      "category": "أقلام",
+      "unit": "قطعة",
+      "price": 45,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/office-essentials",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-crome-whiteboard",
+      "name": "قلم Crome ماركر سبورة",
+      "brand": "Crome",
+      "category": "مستلزمات سبورة",
+      "unit": "قطعة",
+      "price": 12,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/office-essentials",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-fagala-faber-tackit",
+      "name": "لاصق Faber-Castell Tack It",
+      "brand": "Faber-Castell",
+      "category": "لصق وأعمال يدوية",
+      "unit": "قطعة",
+      "price": 60,
+      "merchant": "El-Fagala",
+      "source": "https://www.fagalaonline.com/collections/office-essentials",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-gbh-zip-folder-a6",
+      "name": "حافظة ملفات بسوستة مقاس A6",
+      "brand": "متعدد",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 28.5,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
+      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+    },
+    {
+      "id": "stationery-store-gbh-zip-folder-waterproof-a6",
+      "name": "حافظة ملفات مقاومة للماء بسوستة مقاس A6",
+      "brand": "متعدد",
+      "category": "ملفات وحفظ",
+      "unit": "قطعة",
+      "price": 28.5,
+      "merchant": "GBH",
+      "source": "https://www.gb-hub.com/ar/shop/category/المستلزمات-المؤسسية-الادوات-المكتبية-110?order=publish_date+desc",
       "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
     }
   ]
