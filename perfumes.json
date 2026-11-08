@@ -252,25 +252,34 @@
       "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
     },
     {
-      "name": "منتج عطري للجنسين – عبوة 30 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Supremacy Gold EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور مشتركة",
+      "price": 2150,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "منتج عطري للجنسين – عبوة 50 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan 9AM Dive EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور مشتركة",
+      "price": 2200,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "منتج عطري للجنسين – عبوة 75 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Inara Black EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور مشتركة",
+      "price": 1075,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Afnan Historic Doria EDP 100ml",
@@ -283,18 +292,24 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "منتج عطري للجنسين – عبوة 125 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Inara White EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور مشتركة",
+      "price": 1075,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "منتج عطري للجنسين – عبوة 150 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Portrait Revival EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور مشتركة",
+      "price": 3300,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "منتج عطري للجنسين – حجم سفر",
@@ -325,46 +340,64 @@
       "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
     },
     {
-      "name": "ماء عطر رجالي – عبوة 30 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Rare Carbon EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور رجالية",
+      "price": 2300,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر رجالي – عبوة 50 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Tribute Blue EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور رجالية",
+      "price": 4455,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر رجالي – عبوة 75 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Supremacy Collector's EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور رجالية",
+      "price": 3600,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر رجالي – عبوة 100 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Modest Pour Homme EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور رجالية",
+      "price": 2450,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر رجالي – عبوة 125 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Supremacy Noir EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور رجالية",
+      "price": 2150,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر رجالي – عبوة 150 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Mirsaal of Trust EDP 90ml",
+      "brand": "Afnan",
+      "category": "عطور رجالية",
+      "price": 2000,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "ماء عطر رجالي – حجم سفر",
@@ -395,25 +428,34 @@
       "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
     },
     {
-      "name": "ماء عطر حريمي – عبوة 30 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Souvenir Blooming Bliss EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 2750,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر حريمي – عبوة 50 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Modest Deux Femme EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 2450,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر حريمي – عبوة 75 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan La Fleure Bouquet EDP 80ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 2650,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "Afnan Violet Bouquet EDP 80ml",
@@ -426,46 +468,64 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر حريمي – عبوة 125 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Supremacy Tapis Rouge Femme EDP 90ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 3500,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر حريمي – عبوة 150 مل",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Supremacy Femme Purple EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 2150,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر حريمي – حجم سفر",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Turathi Femme Red EDP 90ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 2500,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر حريمي – عبوة بخاخ",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Turathi Femme Purple EDP 90ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 2500,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر حريمي – عبوة زجاجية",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Mirsaal With Love EDP 90ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 2000,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
-      "name": "ماء عطر حريمي – طقم هدايا",
-      "brand": "ماركات متعددة",
-      "category": "عطور",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "name": "Afnan Rare EDP 100ml",
+      "brand": "Afnan",
+      "category": "عطور حريمي",
+      "price": 1900,
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "merchant": "Faces Egypt",
+      "source": "https://www.faces.eg/en/brands/afnan",
+      "checkedAt": "2026-11-08"
     },
     {
       "name": "ماء تواليت رجالي – عبوة 30 مل",
