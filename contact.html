@@ -17,6 +17,24 @@
   <p class="eyebrow">نسمع ملاحظاتك</p>
   <h1>اتصل بنا</h1>
   <p>استخدم النموذج لإرسال تصحيح لسعر أو مصدر، أو الإبلاغ عن مشكلة فنية، أو اقتراح تحسين للموقع. عند الضغط على الإرسال ستُفتح محادثة واتساب مع فريق MasrPrices والرسالة جاهزة لتراجعها وترسلها بنفسك. لا ترسل كلمات مرور أو بيانات بنكية أو معلومات شخصية حساسة.</p>
+  <section class="admin-panel" aria-labelledby="communityPriceHeading">
+    <h2 id="communityPriceHeading">ساعدنا في تحديث الأسعار</h2>
+    <p>أرسل سعرًا شاهدته بنفسك في متجر داخل مصر. أرفق رابط صفحة المنتج، ويمكنك إضافة صورة أو رابط إثبات. لن يظهر السعر على الموقع إلا بعد مراجعته والتحقق من تطابق المنتج والنسخة والسعر.</p>
+    <form id="communityPriceForm" class="property-form">
+      <label>اسم المنتج<input id="priceProduct" maxlength="180" required placeholder="مثال: اسم المنتج والموديل"></label>
+      <label>القسم<input id="priceCategory" maxlength="100" required placeholder="مثال: موبايلات، أجهزة منزلية، منظفات"></label>
+      <label>اسم المتجر<input id="priceStore" maxlength="120" required placeholder="اسم المتجر"></label>
+      <label>السعر بالجنيه المصري<input id="priceAmount" type="number" min="0.01" max="100000000000" step="0.01" required placeholder="0.00"></label>
+      <label>النسخة أو الوحدة (اختياري)<input id="priceUnit" maxlength="80" placeholder="مثال: 256 جيجا / عبوة 1 كجم"></label>
+      <label>رابط صفحة المنتج<input id="priceUrl" type="url" maxlength="500" required placeholder="https://..." inputmode="url"></label>
+      <label class="property-form-wide">رابط صورة أو إثبات السعر (اختياري)<input id="priceProof" type="url" maxlength="500" placeholder="https://..." inputmode="url"></label>
+      <label class="property-form-wide">ملاحظات (اختياري)<textarea id="priceNotes" maxlength="700" rows="3" placeholder="تاريخ المشاهدة أو تفاصيل النسخة والعرض"></textarea></label>
+      <label class="property-honeypot" aria-hidden="true">اترك هذا الحقل فارغًا<input id="priceWebsite" tabindex="-1" autocomplete="off"></label>
+      <label class="property-check property-form-wide"><input id="priceConsent" type="checkbox" required> أؤكد أنني أدخلت السعر كما ظهر في المصدر، وأوافق على إرساله للمراجعة قبل نشره.</label>
+      <button type="submit" id="priceSubmitButton">إرسال السعر للمراجعة</button>
+      <p id="priceSubmitStatus" class="catalog-footnote property-form-wide" aria-live="polite"></p>
+    </form>
+  </section>
   <form id="contactForm" class="property-form contact-form">
     <label>الاسم (اختياري)<input id="contactName" maxlength="80" placeholder="اكتب اسمك"></label>
     <label>نوع الرسالة<select id="contactType" required><option value="تصحيح سعر أو بيانات">تصحيح سعر أو بيانات</option><option value="مشكلة فنية">مشكلة فنية</option><option value="اقتراح تطوير">اقتراح تطوير</option><option value="استفسار عام">استفسار عام</option><option value="طلب متعلق بالخصوصية">طلب متعلق بالخصوصية</option></select></label>
