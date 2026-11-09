@@ -1168,13 +1168,17 @@
       "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "ذاكرة RAM – Intel Core i3 / 8GB / 256GB",
-      "brand": "ماركات متعددة",
+      "name": "TeamGroup T-Force Delta RGB DDR4 8GB 3200MHz Desktop RAM",
+      "brand": "TeamGroup",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 3500,
+      "details": "ذاكرة مكتبية DDR4 بسعة 8GB وتردد 3200MHz؛ السعر المرصود 3,500 جنيه في El Badr Group.",
       "priceSearchAttempts": 2,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "El Badr Group",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Patriot Viper Steel DDR4 8GB 3200MHz CL16 Desktop RAM",
