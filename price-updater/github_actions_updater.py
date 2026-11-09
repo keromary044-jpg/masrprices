@@ -150,7 +150,9 @@ def build_search_candidates(source_catalogs, rotation_key="", rotation_offset=0)
             name = str(product.get("name") or product.get("title") or "").strip()
             brand = str(product.get("brand") or "").strip()
             key_pair = (normalize(name), normalize(brand))
-            if not name or not brand or key_pair in seen or len(exact_index.get(key_pair, [])) != 1:
+            placeholder_brands = {"غير محدد", "ماركات متعددة", "متعدد", "متعددة", "multiple brands", "unspecified", "various"}
+            if (not name or not brand or key_pair[1] in placeholder_brands
+                    or key_pair in seen or len(exact_index.get(key_pair, [])) != 1):
                 continue
             seen.add(key_pair)
             try:
