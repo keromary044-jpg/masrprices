@@ -463,13 +463,16 @@
       "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
-      "name": "طابعة حرارية – مكتبية",
-      "brand": "ماركات متعددة",
+      "name": "Xprinter XP-Q838L USB Thermal Receipt Printer",
+      "brand": "Xprinter",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 1799,
+      "details": "موديل محدد؛ أقل سعر منشور 1,799 جنيهًا لدى Raneen، مع مقارنة متجر آخر بسعر 1,850 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo",
+      "merchant": "Raneen",
+      "source": "https://priceteq.com/eg/product/29653bf1-eb9c-4fe4-a658-655278b3e9ac",
+      "checkedAt": "2026-11-09"
     },
     {
       "name": "طابعة حرارية – لاسلكية",
