@@ -1093,15 +1093,18 @@
   },
   {
     "id": "elx-0061",
-    "name": "Fresh Smart TV 43",
+    "name": "Fresh Coolita 43MF423C Smart LED TV 43 بوصة FHD",
     "category": "الشاشات والتلفزيونات",
     "brand": "Fresh",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11499,
+    "merchant": "Raya Shop Egypt",
+    "source": "https://www.rayashop.com/en/fresh",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "retailer_price_comparison",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "unit": "جهاز",
+    "currency": "EGP",
+    "details": "السعر المرصود في صفحة مقارنة أسعار المتاجر المصرية بالتاريخ المحدد؛ تحقق من السعر والتوفر لدى البائع قبل الشراء."
   },
   {
     "id": "elx-0062",
@@ -1837,15 +1840,18 @@
   },
   {
     "id": "elx-0123",
-    "name": "Dell Inspiron 15 3530",
+    "name": "Dell Inspiron 15 3530 Laptop",
     "category": "لابتوبات",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 33399,
+    "merchant": "متاجر مصر عبر KolaSaar",
+    "source": "https://kolasaar.com/eg/en/laptops/",
+    "checkedAt": "2026-10-23",
+    "priceStatus": "retailer_price_comparison",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "unit": "جهاز",
+    "currency": "EGP",
+    "details": "السعر المرصود في صفحة مقارنة أسعار المتاجر المصرية بالتاريخ المحدد؛ تحقق من السعر والتوفر لدى البائع قبل الشراء."
   },
   {
     "id": "elx-0124",
