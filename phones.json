@@ -387,7 +387,8 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/"
         }
       ],
       "source": "https://priceteq.com/eg/product/5d66133b-d007-418c-a80e-013be76ff76a",
@@ -443,6 +444,19 @@
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 8999,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://www.rayashop.com/en/honor-x5c-plus-dual-sim-128gb-4gb-ram-4g-lte-midnight-black-3",
+          "sourceLabel": "Raya Shop Egypt – صفحة المنتج المباشرة",
+          "retailerUrl": "https://www.rayashop.com/en/honor-x5c-plus-dual-sim-128gb-4gb-ram-4g-lte-midnight-black-3",
+          "checkedAt": "2026-11-09",
+          "observedAt": "2026-11-09",
+          "availability": "unknown",
+          "priceType": "store",
+          "currency": "EGP"
         }
       ],
       "source": "https://priceteq.com/eg/product/1c3705fa-1e37-405e-a27c-3d5947b72315",
@@ -7080,6 +7094,19 @@
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true
+        },
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 94999,
+          "variant": "256GB / 5G",
+          "source": "https://eshop.vodafone.com.eg/en/prod/i-phone-17-pro-max",
+          "sourceLabel": "Vodafone Egypt – صفحة المنتج المباشرة؛ نسخة 256GB",
+          "retailerUrl": "https://eshop.vodafone.com.eg/en/prod/i-phone-17-pro-max",
+          "checkedAt": "2026-11-09",
+          "observedAt": "2026-11-09",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP"
         }
       ],
       "priceCheckedAt": "2026-11-09",
@@ -22043,7 +22070,8 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://elghazawy.com/en/product/38074270308538/Samsung%2BGalaxy%2BA08%2B4G%2BLTE%2BDual%2BSIM%2B64GB%2B4GB%2BRAM%2B-%2BDark%2BBlue"
         },
         {
           "merchant": "Ehab Center Egypt",
@@ -22107,25 +22135,26 @@
       "category": "هواتف ذكية",
       "source": "https://priceteq.com/eg/product/50a80a50-0be8-490a-9f7c-0ff7bfdcbf25",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 19399,
-      "priceSource": "PriceTeq – B.TECH Egypt (سعر متجر؛ ليس سعرًا رسميًا)",
+      "priceEGP": 18999,
+      "priceSource": "B.TECH Egypt – صفحة المنتج المباشرة، مع مطابقة PriceTeq (سعر متجر؛ ليس رسميًا)",
       "priceCheckedAt": "2026-11-09",
-      "priceStatus": "سعر متجر جديد للنسخة 8GB RAM / 128GB / 5G: 19,399 جنيه لدى B.TECH Egypt. يعرض PriceTeq عروضًا مطابقة لهذه النسخة ويشير إلى توافرها؛ هذا سعر متجر وليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
+      "priceStatus": "18,999 جنيه للنسخة المطابقة 8GB RAM / 128GB / 5G. صفحة B.TECH المباشرة وصفحة PriceTeq تعرضان السعر نفسه؛ سعر متجر وليس سعرًا رسميًا من Samsung.",
       "memory": "8GB RAM / 128GB / 5G",
       "merchant": "Etisal Stores Egypt",
       "priceOffers": [
         {
           "merchant": "B.TECH Egypt",
-          "priceEGP": 19399,
+          "priceEGP": 18999,
           "variant": "8GB RAM / 128GB / 5G",
           "source": "https://priceteq.com/eg/product/50a80a50-0be8-490a-9f7c-0ff7bfdcbf25",
           "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
           "checkedAt": "2026-11-09",
-          "observedAt": "2026-11-08",
+          "observedAt": "2026-11-09",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://btech.com/en/p/5f7ecf65-f4b5-4379-9d61-c2f5f90243bd?offering_id=96accbd7-ea3c-45d5-9617-d6dc0f1eb138"
         },
         {
           "merchant": "Etisal Stores Egypt",
@@ -22296,7 +22325,8 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://btech.com/en/p/samsung-galaxy-s26-fe-256-gb-8-gb-5g-dual-sim-graphite?offering_id=8a07e131-5b16-461b-b9fd-5256944c7778"
         },
         {
           "merchant": "Elghazawy Egypt",
@@ -22437,6 +22467,19 @@
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 14299,
+          "variant": "4GB RAM / 128GB",
+          "source": "https://2b.com.eg/en/oppo-a6-4gb-ram-128gb-sapphire-blue.html",
+          "sourceLabel": "2B Egypt – صفحة المنتج المباشرة؛ المنتج متاح بالمخزون",
+          "retailerUrl": "https://2b.com.eg/en/oppo-a6-4gb-ram-128gb-sapphire-blue.html",
+          "checkedAt": "2026-11-09",
+          "observedAt": "2026-11-09",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP"
         }
       ],
       "priceObservedAt": "2026-11-05",
@@ -22519,10 +22562,10 @@
       "category": "هواتف ذكية",
       "source": "https://priceteq.com/eg/product/4f33e642-82fc-4e52-806e-fba08fcbe725",
       "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
-      "priceEGP": 9499,
-      "priceSource": "PriceTeq – Etisal Stores Egypt (سعر متجر؛ ليس سعرًا رسميًا)",
+      "priceEGP": 10099,
+      "priceSource": "B.TECH Egypt – صفحة المنتج المباشرة مع مطابقة PriceTeq (سعر متجر؛ ليس رسميًا)",
       "priceCheckedAt": "2026-11-09",
-      "priceStatus": "سعر متجر جديد للنسخة 4GB RAM / 128GB / 4G: 9,499 جنيه لدى Etisal Stores Egypt. يعرض PriceTeq عروضًا مطابقة لهذه النسخة ويشير إلى توافرها؛ هذا سعر متجر وليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
+      "priceStatus": "تم استبعاد عرض Etisal البالغ 9,499 جنيه لأن صفحة المتجر المطابقة للنسخة 4GB RAM / 128GB / 4G تعرض Out of stock. أقل عرض آخر ظهر متاحًا هو B.TECH بسعر 10,099 جنيه؛ سعر متجر وليس رسميًا.",
       "memory": "4GB RAM / 128GB",
       "merchant": "Noon",
       "priceOffers": [
@@ -22531,13 +22574,14 @@
           "priceEGP": 9499,
           "variant": "4GB RAM / 128GB / 4G",
           "source": "https://priceteq.com/eg/product/4f33e642-82fc-4e52-806e-fba08fcbe725",
-          "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
+          "sourceLabel": "PriceTeq – عرض المتجر، مع تحقق مباشر من نفاد المخزون في Etisal",
           "checkedAt": "2026-11-09",
           "observedAt": "2026-11-09",
-          "availability": "in_stock",
+          "availability": "out_of_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://etisalstore.com/en/vivo-y11d-4g-4gb-ram-128gb-black"
         },
         {
           "merchant": "B.TECH Egypt",
@@ -22550,7 +22594,8 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://btech.com/en/p/628d0e22-5d20-4783-9e9f-d78b02aab18f?offering_id=f095be01-6719-47b2-afe3-67d82c11808b"
         },
         {
           "merchant": "2B Egypt",
@@ -22938,7 +22983,8 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-12gb-256gb-egypt/"
         },
         {
           "merchant": "B.TECH Egypt",
@@ -23153,26 +23199,29 @@
       "brand": "Infinix",
       "category": "اقتصادي",
       "memory": "4GB RAM / 128GB",
-      "priceEGP": 8949,
-      "priceSource": "PriceTeq – B.TECH Egypt (سعر متجر؛ ليس سعرًا رسميًا)",
+      "priceEGP": 8700,
+      "priceSource": "B.TECH Egypt – صفحة المنتج المباشرة؛ غير مؤكد بسبب اختلاف PriceTeq",
       "priceCheckedAt": "2026-11-09",
       "priceObservedAt": "2026-11-08",
-      "priceStatus": "سعر متجر جديد للنسخة 4GB RAM / 128GB / 4G: 8,949 جنيه لدى B.TECH Egypt. يعرض PriceTeq عروضًا مطابقة لهذه النسخة ويشير إلى توافرها؛ هذا سعر متجر وليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
-      "source": "https://priceteq.com/eg/product/e63695ec-c6f8-4017-9a1f-e96d07a1fd26",
+      "priceStatus": "غير مؤكد: صفحة B.TECH المباشرة تعرض 8,700 جنيه للنسخة 4GB RAM / 128GB / 4G، بينما PriceTeq يعرض 8,949 جنيه للمتجر نفسه في 9 نوفمبر. صفحة B.TECH لم تعرض حالة مخزون صريحة؛ لا تعتمد السعر قبل تأكيده من المتجر.",
+      "source": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceOffers": [
         {
           "merchant": "B.TECH Egypt",
-          "priceEGP": 8949,
+          "priceEGP": 8700,
           "variant": "4GB RAM / 128GB / 4G",
-          "source": "https://priceteq.com/eg/product/e63695ec-c6f8-4017-9a1f-e96d07a1fd26",
-          "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
+          "source": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
+          "sourceLabel": "B.TECH Egypt – صفحة المنتج المباشرة؛ يوجد اختلاف مع PriceTeq",
           "checkedAt": "2026-11-09",
           "observedAt": "2026-11-09",
-          "availability": "in_stock",
+          "availability": "unknown",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
+          "comparisonPriceEGP": 8949,
+          "comparisonSourceUrl": "https://priceteq.com/eg/product/e63695ec-c6f8-4017-9a1f-e96d07a1fd26"
         },
         {
           "merchant": "Raneen Egypt",
@@ -23294,7 +23343,8 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a37-5g-12gb-256gb/"
         },
         {
           "merchant": "Raneen Egypt",
@@ -25111,6 +25161,19 @@
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 8999,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://www.rayashop.com/en/honor-x5c-plus-dual-sim-128gb-4gb-ram-4g-lte-midnight-black-3",
+          "sourceLabel": "Raya Shop Egypt – صفحة المنتج المباشرة",
+          "retailerUrl": "https://www.rayashop.com/en/honor-x5c-plus-dual-sim-128gb-4gb-ram-4g-lte-midnight-black-3",
+          "checkedAt": "2026-11-09",
+          "observedAt": "2026-11-09",
+          "availability": "unknown",
+          "priceType": "store",
+          "currency": "EGP"
         }
       ],
       "merchant": "B.TECH Egypt"
@@ -28123,24 +28186,25 @@
       "release": "2026",
       "memory": "4GB RAM / 128GB / 4G",
       "connectivity": "4G",
-      "priceEGP": 9499,
-      "priceSource": "PriceTeq – Etisal Stores Egypt (سعر متجر؛ ليس سعرًا رسميًا)",
+      "priceEGP": 10099,
+      "priceSource": "B.TECH Egypt – صفحة المنتج المباشرة مع مطابقة PriceTeq (سعر متجر؛ ليس رسميًا)",
       "priceCheckedAt": "2026-11-09",
       "priceObservedAt": "2026-11-07",
-      "priceStatus": "سعر متجر جديد للنسخة 4GB RAM / 128GB / 4G: 9,499 جنيه لدى Etisal Stores Egypt. يعرض PriceTeq عروضًا مطابقة لهذه النسخة ويشير إلى توافرها؛ هذا سعر متجر وليس سعرًا رسميًا من الشركة. تحقق من السعر والمخزون عند المتجر قبل الشراء.",
+      "priceStatus": "تم استبعاد عرض Etisal البالغ 9,499 جنيه لأن صفحة المتجر المطابقة للنسخة 4GB RAM / 128GB / 4G تعرض Out of stock. أقل عرض آخر ظهر متاحًا هو B.TECH بسعر 10,099 جنيه؛ سعر متجر وليس رسميًا.",
       "priceOffers": [
         {
           "merchant": "Etisal Stores Egypt",
           "priceEGP": 9499,
           "variant": "4GB RAM / 128GB / 4G",
           "source": "https://priceteq.com/eg/product/4f33e642-82fc-4e52-806e-fba08fcbe725",
-          "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
+          "sourceLabel": "PriceTeq – عرض المتجر، مع تحقق مباشر من نفاد المخزون في Etisal",
           "checkedAt": "2026-11-09",
           "observedAt": "2026-11-09",
-          "availability": "in_stock",
+          "availability": "out_of_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://etisalstore.com/en/vivo-y11d-4g-4gb-ram-128gb-black"
         },
         {
           "merchant": "B.TECH Egypt",
@@ -28153,7 +28217,8 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "retailerUrl": "https://btech.com/en/p/628d0e22-5d20-4783-9e9f-d78b02aab18f?offering_id=f095be01-6719-47b2-afe3-67d82c11808b"
         },
         {
           "merchant": "2B Egypt",
