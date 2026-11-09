@@ -559,17 +559,17 @@
       "priceProvider": "Raneen Public Catalogue API"
     },
     {
-      "name": "مقوي إشارة Wi-Fi – منفذ واحد",
-      "brand": "ماركات متعددة",
+      "name": "TP-Link RE305 AC1200 Wi-Fi Range Extender",
+      "brand": "TP-Link",
       "category": "الشبكات والإنترنت",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
+      "price": 1399,
+      "details": "موديل RE305 AC1200 محدد؛ مقارنة أسعار تعرض 1,399 جنيهًا لدى متاجر إلكترونية في مصر وقت الرصد.",
       "priceSearchAttempts": 2,
       "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "priceStatus": "غير متحقق"
+      "merchant": "Noon / Amazon EG عبر Pricena",
+      "source": "https://eg.pricena.com/en/product/tp-link-re305-wi-fi-range-extender-price-in-egypt-36156736",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "أقل سعر منشور في مقارنة متاجر؛ تحقق من التوفر والسعر النهائي"
     },
     {
       "name": "مقوي إشارة Wi-Fi – 4 منافذ",
