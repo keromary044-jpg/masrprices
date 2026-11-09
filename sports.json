@@ -350,15 +350,16 @@
   },
   {
     "id": "sports-بار-تمارين-منزلي-متعدد-قطعة",
-    "name": "بار تمارين منزلي",
+    "name": "DOMYOS 5 kg Fitness Dumbbells Twin-Pack",
     "category": "أوزان وتمارين",
-    "brand": "متعدد",
+    "brand": "DOMYOS",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 1999,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/13369-dumbells",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "sports-عجلة-تمارين-بطن-متعدد-قطعة",
@@ -374,15 +375,16 @@
   },
   {
     "id": "sports-كرة-طبية-للتمارين-domyos-أوزان-متعددة",
-    "name": "كرة طبية للتمارين",
+    "name": "DOMYOS Hex Dumbbell Cross Training 5kg",
     "category": "لياقة بدنية",
-    "brand": "Domyos",
+    "brand": "DOMYOS",
     "unit": "أوزان متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 1599,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/13369-dumbells",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "sports-قفازات-جيم-domyos-مقاسات-متعددة",
@@ -1058,27 +1060,39 @@
   },
   {
     "id": "catalog-sports-0049",
-    "name": "دامبل – مقاس صغير",
+    "name": "DOMYOS 1.5 kg Fitness Dumbbells Twin-Pack",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "DOMYOS",
+    "price": 699,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/13369-dumbells",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "catalog-sports-0050",
-    "name": "دامبل – مقاس متوسط",
+    "name": "DOMYOS 2 kg Fitness Dumbbells Twin-Pack",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "DOMYOS",
+    "price": 899,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/13369-dumbells",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "catalog-sports-0051",
-    "name": "دامبل – مقاس كبير",
+    "name": "DOMYOS 3 kg Fitness Dumbbells Twin-Pack",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "DOMYOS",
+    "price": 1499,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/13369-dumbells",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "catalog-sports-0052",
