@@ -2,7 +2,7 @@
   "version": 3,
   "currency": "EGP",
   "matching_policy": "Exact normalized product name AND brand only; ambiguous or partial matches are rejected.",
-  "update_schedule": "03:00 UTC daily (05:00 Africa/Cairo during Egypt winter time); price-feed calls are limited to the daily scheduled run and manual dispatch.",
+  "update_schedule": "03:00 UTC daily (05:00 Africa/Cairo during Egypt winter time); API.SH retailer calls run only on the daily schedule, not on manual dispatch or code pushes.",
   "sources": [
     {
       "id": "pricelens-eg-retailers",
