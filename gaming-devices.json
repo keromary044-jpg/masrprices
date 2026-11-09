@@ -753,11 +753,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "يد تحكم لاسلكية – حزمة مع لعبة",
-      "brand": "ماركات متعددة",
+      "name": "Microsoft Xbox Series S|X Wireless Controller",
+      "brand": "Microsoft",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 4600,
+      "details": "يد تحكم لاسلكية أصلية لأجهزة Xbox Series S|X؛ السعر المنشور 4,600 جنيه.",
+      "merchant": "HES Gaming Store",
+      "source": "https://helectronicservices.com/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "يد تحكم لاسلكية – إصدار تخزين 1TB",
@@ -910,11 +914,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كرسي ألعاب – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "COUGAR EXPLORE Gaming Chair",
+      "brand": "COUGAR",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 12999,
+      "details": "كرسي ألعاب COUGAR EXPLORE؛ السعر المنشور 12,999 جنيهًا.",
+      "merchant": "Shift Store",
+      "source": "https://shiftstore-eg.com/product-category/gaming/gaming-chair/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كرسي ألعاب – حزمة مع لعبة",
@@ -986,13 +994,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "VR Headset – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "Meta Quest 3S Mixed Reality VR Headset",
+      "brand": "Meta",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 21999,
+      "details": "نظارة Meta Quest 3S للواقع الافتراضي والمختلط؛ السعر يبدأ من 21,999 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Ennap",
+      "source": "https://ennap.com/collections/gaming",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "VR Headset – حزمة مع لعبة",
@@ -1078,11 +1090,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "قاعدة شحن يد التحكم – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "SparkFox Dual Charging Station for Xbox Controllers",
+      "brand": "SparkFox",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 900,
+      "details": "قاعدة شحن مزدوجة لأذرع تحكم Xbox؛ السعر المنشور 900 جنيه.",
+      "merchant": "HES Gaming Store",
+      "source": "https://helectronicservices.com/categories?cat_id=34",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "قاعدة شحن يد التحكم – حزمة مع لعبة",
