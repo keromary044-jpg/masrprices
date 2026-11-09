@@ -531,15 +531,16 @@
   },
   {
     "id": "elx-0014",
-    "name": "LG QNED80 65",
+    "name": "LG QNED80 65-inch Smart TV",
     "category": "الشاشات والتلفزيونات",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 44000,
+    "merchant": "MEST Stores Egypt",
+    "source": "https://priceteq.com/eg/shop/779?cat=tv&page=2",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في قائمة مقارنة أسعار مصر بتاريخ 8 نوفمبر 2026.",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "details": "تلفزيون LG QNED80 مقاس 65 بوصة؛ السعر الظاهر لدى MEST Stores Egypt في قائمة التلفزيونات."
   },
   {
     "id": "elx-0015",
