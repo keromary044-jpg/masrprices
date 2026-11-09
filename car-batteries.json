@@ -988,6 +988,18 @@
       "checkedAt": "2026-11-09",
       "priceStatus": "سعر منشور في صفحة المتجر وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
       "details": "السعر الظاهر في قائمة المتجر: 2649.00 جنيه مصري."
+    },
+    {
+      "id": "battery-chloride-ns70-right-70ah",
+      "name": "بطارية كلورايد 70 أمبير NS70 يمين 12V",
+      "brand": "كلورايد",
+      "category": "بطاريات رصاص حمضية",
+      "price": 2800,
+      "priceStatus": "سعر منشور في متجر مصري معروض كمتوفر؛ قابل للتغيير ويجب تأكيده عند الشراء.",
+      "details": "بطارية كلورايد 70Ah، كود NS70 يمين 12V؛ السعر بالجنيه المصري كما ظهر في صفحة Shaheen Tire.",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/categories/batteries",
+      "checkedAt": "2026-11-09"
     }
   ],
   "updatedAt": "2026-11-09"
