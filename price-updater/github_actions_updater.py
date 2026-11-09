@@ -59,7 +59,11 @@ def load_catalogs():
             continue
         try:
             data = json.loads(path.read_text(encoding="utf-8"))
-            if isinstance(data.get("products"), list):
+            if isinstance(data, list):
+                # Some catalog files intentionally use a top-level JSON array.
+                # Normalize in memory for matching, but preserve the array shape on disk.
+                catalogs[filename] = {"products": data, "_rootArray": True}
+            elif isinstance(data, dict) and isinstance(data.get("products"), list):
                 catalogs[filename] = data
         except (OSError, ValueError):
             continue
@@ -640,9 +644,13 @@ def main():
         print(f"FRESHNESS expired_offers={expired_offers} products_cleaned={products_cleaned}")
     changed = {name for name, data in catalogs.items() if json.dumps(data, ensure_ascii=False, sort_keys=True) != original_catalogs[name]}
     for filename in changed:
-        catalogs[filename]["updatedAt"] = now.strftime("%Y-%m-%d")
-        catalogs[filename]["lastAutomaticUpdate"] = checked_at
-        (ROOT / filename).write_text(json.dumps(catalogs[filename], ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        if catalogs[filename].get("_rootArray"):
+            output_data = catalogs[filename]["products"]
+        else:
+            catalogs[filename]["updatedAt"] = now.strftime("%Y-%m-%d")
+            catalogs[filename]["lastAutomaticUpdate"] = checked_at
+            output_data = catalogs[filename]
+        (ROOT / filename).write_text(json.dumps(output_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     pending = sum(1 for s in sources if isinstance(s, dict) and not s.get("active", False))
     print(f"SUMMARY accepted={accepted_total} updated_files={len(changed)} active_sources={active_count} pending_sources={pending} failures={failures}")
     if os.environ.get("GITHUB_STEP_SUMMARY"):
