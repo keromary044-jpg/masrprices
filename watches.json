@@ -524,7 +524,7 @@
       "name": "Casio MTP-1314L-8AVDF Men's Watch",
       "brand": "Casio",
       "category": "ساعات يد رجالي",
-      "price": 3329.0,
+      "price": 3329,
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
       "merchant": "Raneen",
       "source": "https://www.raneen.com/en/4971850930839blk-conf",
@@ -537,7 +537,7 @@
       "priceOffers": [
         {
           "merchant": "Raneen",
-          "priceEGP": 3329.0,
+          "priceEGP": 3329,
           "source": "https://www.raneen.com/en/4971850930839blk-conf",
           "sourceLabel": "Raneen Public Catalogue API",
           "checkedAt": "2026-11-09 14:50 Cairo",
@@ -802,7 +802,7 @@
       "name": "Casio LTP-VT01L-1BUDF Women's Watch",
       "brand": "Casio",
       "category": "ساعات يد حريمي",
-      "price": 2909.0,
+      "price": 2909,
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
       "merchant": "Raneen",
       "source": "https://www.raneen.com/en/4549526214523blg-conf",
@@ -812,7 +812,7 @@
       "priceOffers": [
         {
           "merchant": "Raneen",
-          "priceEGP": 2909.0,
+          "priceEGP": 2909,
           "source": "https://www.raneen.com/en/4549526214523blg-conf",
           "sourceLabel": "Raneen Public Catalogue API",
           "checkedAt": "2026-11-09 14:48 Cairo",
@@ -3696,6 +3696,20 @@
       "checkedAt": "2026-11-09",
       "priceStatus": "سعر ظاهر في صفحة مجموعة Casio لدى Azzam Watches بتاريخ 9 نوفمبر 2026.",
       "details": "In stock only"
+    },
+    {
+      "name": "ساعة كاسيو ديجيتال نسائية LB-611A-8BUWDF فضي",
+      "category": "ساعات يد نسائية",
+      "brand": "Casio",
+      "model": "LB-611A-8BUWDF",
+      "sku": "4971850221708SLV-conf",
+      "price": 1019,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/4971850221708slv-conf",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاحة وقت التحقق؛ السعر المنشور 1,019 جنيه."
     }
   ],
   "updatedAt": "2026-11-09",
