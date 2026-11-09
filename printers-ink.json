@@ -644,13 +644,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "خرطوشة حبر أسود – مكتبية",
-      "brand": "ماركات متعددة",
+      "name": "HP 653 Black Original Ink Cartridge 3YM75AE",
+      "brand": "HP",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 1000,
+      "details": "خرطوشة HP 653 سوداء أصلية رقم 3YM75AE؛ السعر المنشور 1,000 جنيه.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo",
+      "merchant": "Abuelkher",
+      "source": "https://abuelkher.com/product-category/ink/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "خرطوشة حبر أسود – لاسلكية",
@@ -662,13 +666,17 @@
       "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
     },
     {
-      "name": "خرطوشة حبر أسود – USB",
-      "brand": "ماركات متعددة",
+      "name": "Canon PG-445 Pixma Fine Black Ink Cartridge",
+      "brand": "Canon",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 999,
+      "details": "خرطوشة Canon PG-445 سوداء؛ السعر المنشور 999 جنيهًا.",
       "priceSearchAttempts": 2,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Winner Brands",
+      "source": "https://www.wb.com.eg/product-category/cartridges/ink/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "خرطوشة حبر أسود – سعة قياسية",
@@ -693,13 +701,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "خرطوشة حبر ألوان – مكتبية",
-      "brand": "ماركات متعددة",
+      "name": "Canon CL-446 Tri-Colour Ink Cartridge",
+      "brand": "Canon",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 999,
+      "details": "خرطوشة Canon CL-446 ثلاثية الألوان؛ السعر المنشور بعد الخصم 999 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo",
+      "merchant": "Winner Brands",
+      "source": "https://www.wb.com.eg/product-category/cartridges/ink/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "خرطوشة حبر ألوان – لاسلكية",
@@ -711,13 +723,17 @@
       "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
     },
     {
-      "name": "خرطوشة حبر ألوان – USB",
-      "brand": "ماركات متعددة",
+      "name": "HP 305 Black & Tri-Colour Ink Cartridge Multipack",
+      "brand": "HP",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 1650,
+      "details": "عبوة HP 305 متعددة تتضمن خرطوشة سوداء وثلاثية الألوان؛ السعر المنشور 1,650 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+      "merchant": "Winner Brands",
+      "source": "https://www.wb.com.eg/product-category/cartridges/ink/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "خرطوشة حبر ألوان – سعة قياسية",
