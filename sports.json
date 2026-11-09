@@ -178,15 +178,16 @@
   },
   {
     "id": "sports-مضخة-هواء-للكرات-متعدد-قطعة",
-    "name": "مضخة هواء للكرات",
+    "name": "KIPSTA Single Action Ball Pump Essential",
     "category": "إكسسوارات رياضية",
-    "brand": "متعدد",
+    "brand": "KIPSTA",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 299,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4813-hand-pumps",
+    "checkedAt": "2026-11-09",
+    "details": "مضخة كرات KIPSTA Single Action Ball Pump Essential؛ السعر الحالي الظاهر على Decathlon Egypt.",
+    "priceStatus": "سعر منشور على صفحة فئة المتجر بتاريخ 9 نوفمبر 2026."
   },
   {
     "id": "sports-شبكة-مرمى-كرة-قدم-متعدد-مقاسات-متعددة",
