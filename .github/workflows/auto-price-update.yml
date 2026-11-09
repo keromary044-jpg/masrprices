@@ -65,14 +65,32 @@ jobs:
       - name: Test price source matching and safety rules
         run: python -m unittest discover -s price-updater -p 'test_*.py'
       - name: Fetch and validate authorized price feeds
-        # Avoid spending API.SH credits on ordinary code/catalog pushes.
-        # Provider calls run only on the daily schedule or manual dispatch.
-        if: github.event_name == 'schedule'
+        # Paid/keyed providers run only on the daily schedule. Pushes run only
+        # the public, keyless Raneen feed to start importing verified prices.
+        if: github.event_name == 'schedule' || github.event_name == 'push'
         env:
           PRICELENS_API_KEY: ${{ secrets.PRICELENS_API_KEY }}
           SAMA_LINK_API_KEY: ${{ secrets.SAMA_LINK_API_KEY }}
           APISH_API_KEY: ${{ secrets.APISH_API_KEY }}
-        run: python price-updater/github_actions_updater.py
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            python price-updater/github_actions_updater.py
+          else
+            python - <<'PY'
+            import sys
+            sys.path.insert(0, "price-updater")
+            import github_actions_updater as updater
+            def skipped(*args, **kwargs):
+                print("SKIPPED: paid/keyed provider is schedule-only")
+                return 0
+            updater.run_pricelens = skipped
+            updater.run_sama_link = skipped
+            updater.run_apish_jumia = skipped
+            updater.run_apish_noon = skipped
+            updater.run_open_prices = skipped
+            raise SystemExit(updater.main())
+            PY
+          fi
       - name: Build complete product price coverage report
         run: python price-updater/coverage_report.py
       - name: Save price coverage report artifact
