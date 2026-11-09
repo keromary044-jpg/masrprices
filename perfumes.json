@@ -1594,7 +1594,9 @@
       "brand": "ماركات متعددة",
       "category": "عطور",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
       "name": "رذاذ جسم – طقم هدايا",
@@ -1652,7 +1654,9 @@
       "brand": "ماركات متعددة",
       "category": "عطور",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
       "name": "رذاذ شعر – عبوة بخاخ",
@@ -2778,5 +2782,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
 }

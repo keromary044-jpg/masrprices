@@ -489,7 +489,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
       "name": "جهاز تعقيم رضاعات – متوسط",
@@ -510,7 +512,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
       "name": "سخان رضاعات – صغير",
@@ -984,5 +988,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
 }

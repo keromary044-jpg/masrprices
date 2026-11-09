@@ -655,7 +655,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
   },
   {
     "id": "personal-care-catalog-039",
@@ -1187,7 +1189,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
   },
   {
     "id": "personal-care-catalog-089",

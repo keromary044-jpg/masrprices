@@ -1417,7 +1417,9 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
       "name": "حامل أطباق – طقم 2 قطعة",
@@ -1458,7 +1460,9 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
       "name": "رف مطبخ – طقم 3 قطع",
@@ -2052,5 +2056,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
 }

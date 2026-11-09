@@ -1284,7 +1284,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
   },
   {
     "id": "appliances-catalog-081",
@@ -1372,7 +1374,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
   },
   {
     "id": "appliances-catalog-088",
@@ -2417,12 +2421,23 @@
     "name": "Kenwood Fruit Juicer JEM02.A0BK 800 Watt",
     "brand": "Kenwood",
     "category": "أجهزة منزلية",
-    "price": 4490,
-    "merchant": "Elogail Stores",
-    "source": "https://elogailstores.com/collections/home-appliances/products/kenwood-fruit-juicer-jem02-a0bk-800-watt",
-    "checkedAt": "2026-11-09",
-    "priceStatus": "سعر ظاهر في صفحة المنتج لدى Elogail Stores بتاريخ 9 نوفمبر 2026.",
-    "details": "Only 1 unit left"
+    "price": 4079.0,
+    "merchant": "Raneen",
+    "source": "https://www.raneen.com/en/el1102828bns-2",
+    "checkedAt": "2026-11-09 15:20 Cairo",
+    "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+    "details": "Only 1 unit left",
+    "priceOffers": [
+      {
+        "merchant": "Raneen",
+        "priceEGP": 4079.0,
+        "source": "https://www.raneen.com/en/el1102828bns-2",
+        "sourceLabel": "Raneen Public Catalogue API",
+        "checkedAt": "2026-11-09 15:20 Cairo",
+        "variant": "radiotalaat"
+      }
+    ],
+    "priceProvider": "Raneen Public Catalogue API"
   },
   {
     "id": "appliance-kenwood-chopper-chp61-000wh-550-watt-500ml-white-2-years-warranty",

@@ -6217,7 +6217,9 @@
     "source": null,
     "checkedAt": null,
     "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
   },
   {
     "id": "elx-0486",
@@ -6529,7 +6531,9 @@
     "source": null,
     "checkedAt": null,
     "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
   },
   {
     "id": "elx-0512",

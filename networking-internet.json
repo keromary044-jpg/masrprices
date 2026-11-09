@@ -558,7 +558,9 @@
       "brand": "ماركات متعددة",
       "category": "الشبكات والإنترنت",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
       "name": "مقوي إشارة Wi-Fi – 8 منافذ",
@@ -572,7 +574,9 @@
       "brand": "ماركات متعددة",
       "category": "الشبكات والإنترنت",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
       "name": "مقوي إشارة Wi-Fi – ثنائي النطاق",
@@ -947,5 +951,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
 }
