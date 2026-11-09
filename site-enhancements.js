@@ -50,4 +50,33 @@
     }
     status.textContent = "تم فتح واتساب. راجع الرسالة واضغط إرسال لإيصالها إلينا.";
   });
+  const priceForm = document.getElementById("communityPriceForm");
+  if (priceForm) {
+    priceForm.addEventListener("submit", async function (event) {
+      event.preventDefault();
+      const status = document.getElementById("priceSubmitStatus");
+      const button = document.getElementById("priceSubmitButton");
+      const value = id => document.getElementById(id).value.trim();
+      if (!document.getElementById("priceConsent").checked) { status.textContent = "وافق على إرسال السعر بعد التأكد من صحته."; return; }
+      button.disabled = true; status.textContent = "جارٍ إرسال السعر إلى قائمة المراجعة...";
+      try {
+        const response = await fetch("/api/price-submission", {
+          method: "POST", headers: {"Content-Type":"application/json"},
+          body: JSON.stringify({
+            product_name:value("priceProduct"), category:value("priceCategory"),
+            store_name:value("priceStore"), price_egp:value("priceAmount"),
+            unit:value("priceUnit"), product_url:value("priceUrl"),
+            proof_url:value("priceProof"), notes:value("priceNotes"),
+            website:value("priceWebsite"), consent:true
+          })
+        });
+        const data = await response.json();
+        if (!response.ok) throw new Error(data.error || "تعذر إرسال السعر.");
+        status.textContent = data.message || "تم استلام السعر للمراجعة.";
+        priceForm.reset();
+      } catch (error) { status.textContent = error.message || "حدث خطأ. حاول لاحقًا."; }
+      finally { button.disabled = false; }
+    });
+  }
+
 })();
