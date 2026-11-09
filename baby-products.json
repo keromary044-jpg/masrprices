@@ -789,13 +789,24 @@
     "category": "رضّاعات",
     "brand": "Dr. Brown's",
     "unit": "مقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب.",
+    "price": 1300,
+    "merchant": "The Baby Garage",
+    "source": "https://thebabygarage.com/dr-browns-natural-flow-anti-colic-options-wide-neck-baby-bottle-designer-edition-bottles-270-ml/",
+    "checkedAt": "2026-11-09",
+    "details": "تم التحقق من نسخة 270 مل (Designer Edition)؛ قد تختلف الأسعار حسب المقاس والتصميم.",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+    "priceOffers": [
+      {
+        "merchant": "The Baby Garage",
+        "priceEGP": 1300,
+        "source": "https://thebabygarage.com/dr-browns-natural-flow-anti-colic-options-wide-neck-baby-bottle-designer-edition-bottles-270-ml/",
+        "sourceLabel": "The Baby Garage",
+        "checkedAt": "2026-11-09",
+        "variant": "270 ml; Designer Edition; wide neck"
+      }
+    ],
+    "priceStatus": "السعر والتوفر معلنان في صفحة المنتج"
   },
   {
     "id": "baby-products-زجاجة-رضاعة-chicco-مقاسات-متعددة",
