@@ -2944,5 +2944,53 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر منشور على صفحة قسم الأجهزة الكبيرة لدى كارفور",
     "details": "السعر المعروض 12,999 جنيه."
+  },
+  {
+    "id": "midea-dishwasher-mdwpf1333c-s-w-eg",
+    "name": "غسالة أطباق ميديا MDWPF1333C(S)-W-EG سعة 13 فرد",
+    "category": "غسالات أطباق",
+    "brand": "Midea",
+    "model": "MDWPF1333C(S)-W-EG",
+    "price": 14964,
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/home-office/",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة Jumia وقت الرصد؛ يلزم تأكيد السعر والتوفر عند الشراء"
+  },
+  {
+    "id": "fresh-jumbo-blender-grinder-15l",
+    "name": "خلاط فريش Jumbo مع مطحنة 1.5 لتر 360 وات",
+    "category": "خلاطات",
+    "brand": "Fresh",
+    "model": "Jumbo Blender With Grinder 1.5 L",
+    "price": 939,
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/home-office/",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة Jumia وقت الرصد؛ يلزم تأكيد السعر والتوفر عند الشراء"
+  },
+  {
+    "id": "midea-air-fryer-mf-cy85wk-85l",
+    "name": "قلاية هوائية ميديا 8.5 لتر MF-CY85WK",
+    "category": "قلايات هوائية",
+    "brand": "Midea",
+    "model": "MF-CY85WK",
+    "price": 5699,
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/home-office/",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة Jumia وقت الرصد؛ يلزم تأكيد السعر والتوفر عند الشراء"
+  },
+  {
+    "id": "fresh-electric-kettle-egk-17000-17l",
+    "name": "غلاية كهربائية فريش EGK-17000 سعة 1.7 لتر 2200 وات",
+    "category": "غلايات كهربائية",
+    "brand": "Fresh",
+    "model": "EGK-17000",
+    "price": 794,
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/home-office/",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة Jumia وقت الرصد؛ يلزم تأكيد السعر والتوفر عند الشراء"
   }
 ]
