@@ -122,7 +122,12 @@ _UNSAFE_PRODUCT_TERMS = (
 def is_safe_catalog_product(product):
     fields = ("name", "title", "brand", "category", "subcategory", "description", "details", "note", "unit")
     value = normalize(" ".join(str(product.get(key) or "") for key in fields))
-    return not any(normalize(term) in value for term in _UNSAFE_PRODUCT_TERMS)
+    tokens = set(value.split())
+    for raw_term in _UNSAFE_PRODUCT_TERMS:
+        term = normalize(raw_term)
+        if (" " in term and term in value) or (" " not in term and term in tokens):
+            return False
+    return True
 
 def build_exact_index(catalogs, allowed_files=None):
     index = {}
