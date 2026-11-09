@@ -703,11 +703,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "شاشة ألعاب – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "Samsung Odyssey G5 LS27FG502EMXEG 27-inch 2K Gaming Monitor",
+      "brand": "Samsung",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 11999,
+      "details": "شاشة ألعاب Samsung Odyssey G5 مقاس 27 بوصة بدقة 2K؛ السعر المنشور 11,999 جنيهًا.",
+      "merchant": "Shift Store",
+      "source": "https://shiftstore-eg.com/product-category/monitors/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "شاشة ألعاب – حزمة مع لعبة",
@@ -789,11 +793,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "سماعة ألعاب – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "HyperX Cloud Stinger 2 Core Wired Gaming Headset",
+      "brand": "HyperX",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2645,
+      "details": "سماعة ألعاب سلكية HyperX Cloud Stinger 2 Core؛ السعر المنشور 2,645 جنيهًا.",
+      "merchant": "Shift Store",
+      "source": "https://shiftstore-eg.com/product-category/gaming/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "سماعة ألعاب – حزمة مع لعبة",
