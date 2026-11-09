@@ -523,11 +523,17 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "Mesh Wi-Fi – ثنائي النطاق",
-      "brand": "ماركات متعددة",
+      "name": "TP-Link Deco E4 (3-Pack) Whole Home Mesh Wi-Fi System AC1200",
+      "brand": "TP-Link",
       "category": "الشبكات والإنترنت",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 5200,
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "model": "Deco E4",
+      "unit": "3-Pack AC1200",
+      "merchant": "Dream 2000",
+      "source": "https://dream2000.com/products/tp-link-deco-e4-3-packs-whole-home-mesh-wi-fi-system-ac1200",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified"
     },
     {
       "name": "مقوي إشارة Wi-Fi – منفذ واحد",
