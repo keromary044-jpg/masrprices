@@ -626,6 +626,34 @@
       "source": "https://2b.com.eg/en/computers/printers.html",
       "checkedAt": "2026-11-09",
       "priceStatus": "السعر ظاهر في قائمة طابعات 2B بتاريخ 9 نوفمبر 2026."
+    },
+    {
+      "name": "طابعة HP LaserJet MFP M141W لاسلكية طباعة ونسخ ومسح",
+      "category": "طابعات ليزر",
+      "brand": "HP",
+      "model": "M141W",
+      "sku": "M141W-conf",
+      "price": 10024,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/hp-printer-m141w-laserjet-mfp-wireless-print-copy-scan-white-2",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاحة وقت التحقق؛ السعر المنشور 10,024 جنيه."
+    },
+    {
+      "name": "طابعة HP LaserJet M111W لاسلكية أبيض وأسود",
+      "category": "طابعات ليزر",
+      "brand": "HP",
+      "model": "M111W",
+      "sku": "7Md68A-conf",
+      "price": 7274,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/hp-laserjet-m111w-black-white-laser-printer-wireless-connectivity-7md68a-white-3",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاحة وقت التحقق؛ السعر المنشور 7,274 جنيه."
     }
   ],
   "updatedAt": "2026-11-09",
