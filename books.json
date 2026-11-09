@@ -1763,12 +1763,13 @@
       "title": "قصر الشوق",
       "author": "نجيب محفوظ",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 400,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product-category/books/arabic-books/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور لدى المتجر وقت آخر تحقق"
     },
     {
       "id": "catalog-022-بين-القصرين",
@@ -1787,12 +1788,13 @@
       "title": "السكرية",
       "author": "نجيب محفوظ",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 380,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product-category/books/arabic-books/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور لدى المتجر وقت آخر تحقق"
     },
     {
       "id": "catalog-024-أولاد-حارتنا",
@@ -1896,36 +1898,39 @@
       "title": "تراب الماس",
       "author": "أحمد مراد",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 240,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product/%D8%AA%D8%B1%D8%A7%D8%A8-%D8%A7%D9%84%D9%85%D8%A7%D8%B3-%D8%AD%D9%8A%D9%86-%D9%8A%D8%B5%D8%A8%D8%AD-%D8%A7%D9%84%D9%82%D8%AA%D9%84-%D8%A7%D8%AB%D8%B1%D8%A7-%D8%AC%D8%A7%D9%86%D8%A8%D9%8A%D8%A7/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور لدى المتجر وقت آخر تحقق"
     },
     {
       "id": "catalog-033-الفيل-الأزرق",
       "title": "الفيل الأزرق",
       "author": "أحمد مراد",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 170,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product/%D8%A7%D9%84%D9%81%D9%8A%D9%84-%D8%A7%D9%84%D8%A7%D8%B2%D8%B1%D9%82/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور لدى المتجر وقت آخر تحقق"
     },
     {
       "id": "catalog-034-1919",
       "title": "1919",
       "author": "أحمد مراد",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 245,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/book_author/%D8%A3%D8%AD%D9%85%D8%AF-%D9%85%D8%B1%D8%A7%D8%AF/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور لدى المتجر وقت آخر تحقق"
     },
     {
       "id": "catalog-035-أرض-زيكولا",
@@ -1969,12 +1974,13 @@
       "title": "يوتوبيا",
       "author": "أحمد خالد توفيق",
       "category": "خيال علمي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 190,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product/%D9%8A%D9%88%D8%AA%D9%88%D8%A8%D9%8A%D8%A7/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور لدى المتجر وقت آخر تحقق"
     },
     {
       "id": "catalog-039-في-ممر-الفئران",
@@ -2053,12 +2059,13 @@
       "title": "موسم الهجرة إلى الشمال",
       "author": "الطيب صالح",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 200,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product-category/books/arabic-books/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور لدى المتجر وقت آخر تحقق"
     },
     {
       "id": "catalog-046-ثلاثية-غرناطة",
@@ -2953,12 +2960,13 @@
       "title": "العادات الذرية",
       "author": "جيمس كلير",
       "category": "تنمية ذاتية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 550,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/new/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور لدى المتجر وقت آخر تحقق"
     },
     {
       "id": "catalog-121-العادات-السبع-للناس-الأكثر-فعالية",
