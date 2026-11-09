@@ -2357,14 +2357,18 @@
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "ساعة GPS – سوار قماش",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "ساعة GPS – هيكل أسود",
@@ -3695,5 +3699,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 14:50 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 14:51 Cairo"
 }

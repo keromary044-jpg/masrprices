@@ -1369,14 +1369,18 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "حافظة طعام – طقم 5 قطع",
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "علبة توابل – قطعة واحدة",
@@ -1766,5 +1770,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 14:50 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 14:51 Cairo"
 }

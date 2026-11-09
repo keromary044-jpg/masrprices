@@ -538,7 +538,9 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "خرطوشة حبر أسود – مكتبية",
@@ -602,7 +604,9 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "خرطوشة حبر ألوان – سعة قياسية",
@@ -625,5 +629,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 14:50 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 14:51 Cairo"
 }

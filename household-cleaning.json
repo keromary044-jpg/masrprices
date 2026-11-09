@@ -2152,7 +2152,9 @@
       "merchant": null,
       "source": "https://www.jumia.com.eg/ar/household-cleaning/",
       "priceStatus": "بانتظار مطابقة المنتج والعبوة مع مصدر بيع موثوق",
-      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد."
+      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "id": "home-clean-170",
@@ -2164,7 +2166,9 @@
       "merchant": null,
       "source": "https://www.jumia.com.eg/ar/household-cleaning/",
       "priceStatus": "بانتظار مطابقة المنتج والعبوة مع مصدر بيع موثوق",
-      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد."
+      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "id": "home-clean-171",
@@ -2647,5 +2651,5 @@
       "details": "In stock"
     }
   ],
-  "lastAutomaticUpdate": "2026-11-09 14:50 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 14:51 Cairo"
 }

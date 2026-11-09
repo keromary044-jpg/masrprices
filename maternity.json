@@ -434,7 +434,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "أكياس تخزين الحليب – كبير",
@@ -893,7 +895,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "فستان رضاعة",
@@ -944,5 +948,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 14:50 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 14:51 Cairo"
 }

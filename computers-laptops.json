@@ -1122,7 +1122,9 @@
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "ذاكرة RAM – Intel Core i3 / 8GB / 256GB",
@@ -1156,7 +1158,9 @@
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
     },
     {
       "name": "ذاكرة RAM – AMD Ryzen 5 / 16GB / 512GB",
@@ -1239,5 +1243,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 14:50 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 14:51 Cairo"
 }
