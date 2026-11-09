@@ -1477,7 +1477,9 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "رف مطبخ – طقم 2 قطعة",
@@ -1635,7 +1637,9 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "Home Oil and Vinegar Set 2 Piece 170ml",
@@ -2116,5 +2120,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
 }

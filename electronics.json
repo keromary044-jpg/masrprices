@@ -2891,12 +2891,23 @@
     "name": "Canon i-SENSYS MF3010",
     "category": "طابعات وماسحات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14525.0,
+    "merchant": "Raneen",
+    "source": "https://www.raneen.com/en/canon-mf3010-monochrome-inkjet-printer-3-in-1-energy-efficient",
+    "checkedAt": "2026-11-09 15:45 Cairo",
+    "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceOffers": [
+      {
+        "merchant": "Raneen",
+        "priceEGP": 14525.0,
+        "source": "https://www.raneen.com/en/canon-mf3010-monochrome-inkjet-printer-3-in-1-energy-efficient",
+        "sourceLabel": "Raneen Public Catalogue API",
+        "checkedAt": "2026-11-09 15:45 Cairo",
+        "variant": "elkhalij"
+      }
+    ],
+    "priceProvider": "Raneen Public Catalogue API"
   },
   {
     "id": "elx-0209",
@@ -5537,7 +5548,9 @@
     "source": null,
     "checkedAt": null,
     "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
   },
   {
     "id": "elx-0428",
@@ -6593,7 +6606,9 @@
     "source": null,
     "checkedAt": null,
     "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
   },
   {
     "id": "elx-0515",

@@ -430,7 +430,9 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "طابعة صور – سعة قياسية",
@@ -444,7 +446,9 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "طابعة حرارية – مكتبية",
@@ -836,5 +840,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
 }

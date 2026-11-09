@@ -469,7 +469,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "حافظة حليب – متوسط",
@@ -490,7 +492,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "جهاز تعقيم رضاعات – صغير",
@@ -1000,5 +1004,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
 }

@@ -110,7 +110,9 @@
       "unit": "3G/4G router",
       "merchant": null,
       "source": null,
-      "checkedAt": null
+      "checkedAt": null,
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "D-Link N300 Wireless Modem Router DSL-224",
@@ -654,8 +656,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "Access Point – ثنائي النطاق",
@@ -999,5 +1001,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
 }

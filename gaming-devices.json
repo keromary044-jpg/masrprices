@@ -528,14 +528,18 @@
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "Nintendo Switch OLED – إصدار تخزين 2TB",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
       "name": "Nintendo Switch Lite Gray 32GB",
@@ -1098,5 +1102,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
 }
