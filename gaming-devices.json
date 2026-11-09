@@ -674,13 +674,17 @@
       "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
     },
     {
-      "name": "Gaming Laptop – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Lenovo Legion 5 15IAX10 Gaming Laptop Core Ultra 9 RTX 5070 1TB SSD",
+      "brand": "Lenovo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 118999,
+      "details": "Lenovo Legion 5 15IAX10 بمعالج Intel Core Ultra 9 275HX وذاكرة 32GB وقرص 1TB SSD وكارت RTX 5070 8GB؛ السعر المنشور 118,999 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo",
+      "merchant": "Ennap",
+      "source": "https://ennap.com/collections/gaming",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور والمنتج معروض في مجموعة الألعاب لدى المتجر وقت الرصد"
     },
     {
       "name": "Gaming Laptop – إصدار تخزين 2TB",
