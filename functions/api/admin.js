@@ -24,7 +24,8 @@ export async function onRequest({ request, env }) {
         COUNT(o.id) AS offers_count, MIN(CASE WHEN o.status='verified' THEN o.price_egp END) AS best_price
         FROM products p LEFT JOIN offers o ON o.product_id=p.id
         GROUP BY p.id ORDER BY p.updated_at DESC LIMIT 300`).all();
-      return json(200,{products:results});
+      const pending=await env.DB.prepare("SELECT id,product_name,category,store_name,price_egp,unit,product_url,proof_url,notes,created_at FROM community_price_submissions WHERE status='pending' ORDER BY created_at DESC LIMIT 100").all();
+      return json(200,{products:results,priceSubmissions:pending.results||[]});
     } catch { return json(500,{error:"تعذر قراءة المنتجات."}); }
   }
   if (request.method !== "POST") return json(405,{error:"طريقة الطلب غير مدعومة."});
@@ -32,6 +33,23 @@ export async function onRequest({ request, env }) {
   let data;try{data=JSON.parse(raw);if(!data||typeof data!=="object"||Array.isArray(data))throw new Error();}catch{return json(400,{error:"بيانات غير صالحة."});}
   const clean=(v,n)=>String(v??"").trim().slice(0,n);
   try {
+    if(data.action==="reviewCommunityPrice"){
+      const id=clean(data.id,80),decision=clean(data.decision,20);
+      if(!id||!["approve","reject"].includes(decision))return json(400,{error:"طلب المراجعة غير صالح."});
+      const submission=await env.DB.prepare("SELECT * FROM community_price_submissions WHERE id=? AND status='pending'").bind(id).first();
+      if(!submission)return json(404,{error:"الاقتراح غير موجود أو تمت مراجعته بالفعل."});
+      if(decision==="reject"){
+        await env.DB.prepare("UPDATE community_price_submissions SET status='rejected',reviewed_at=CURRENT_TIMESTAMP WHERE id=?").bind(id).run();
+        return json(200,{ok:true,message:"تم رفض الاقتراح."});
+      }
+      const product=await env.DB.prepare("SELECT id FROM products WHERE lower(trim(name))=lower(trim(?)) AND lower(trim(category))=lower(trim(?)) LIMIT 1").bind(submission.product_name,submission.category).first();
+      if(!product)return json(409,{error:"لا يوجد تطابق مطابق تمامًا في كتالوج المنتجات. أضف المنتج أو صحح اسمه وقسمه قبل اعتماد السعر."});
+      const checkedAt=new Date().toISOString().slice(0,10);
+      await env.DB.prepare("INSERT INTO offers(product_id,store_name,price_egp,product_url,source_name,variant,region,checked_at,status) VALUES(?,?,?,?,?,?,?,?, 'verified')")
+        .bind(product.id,submission.store_name,submission.price_egp,submission.product_url,submission.store_name,submission.unit,"مصر",checkedAt).run();
+      await env.DB.prepare("UPDATE community_price_submissions SET status='approved',reviewed_at=CURRENT_TIMESTAMP WHERE id=?").bind(id).run();
+      return json(200,{ok:true,message:"تم اعتماد السعر وربطه بالمنتج المطابق."});
+    }
     if(data.action==="saveProduct"){
       const id=clean(data.id,120),name=clean(data.name,180);
       if(!id||!name) return json(400,{error:"معرّف المنتج واسمه مطلوبان."});
