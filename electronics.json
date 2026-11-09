@@ -8530,5 +8530,57 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "verified",
     "details": "متاح وقت التحقق؛ السعر المنشور 9,980 جنيه."
+  },
+  {
+    "name": "HMD 102 Dual SIM 2G شاشة 1.7 بوصة أزرق",
+    "category": "هواتف محمولة",
+    "brand": "HMD",
+    "model": "HMD 102",
+    "price": 849,
+    "currency": "EGP",
+    "merchant": "Raneen Egypt",
+    "source": "https://priceteq.com/eg/shop/754?cat=phone",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر مدرج اليوم لدى Raneen Egypt عبر صفحة تتبع أسعار المتجر",
+    "details": "السعر المعروض 849 جنيه؛ السعر السابق 966 جنيه. صفحة PriceTeq تعرض السعر الحالي ضمن قائمة هواتف رنين."
+  },
+  {
+    "name": "Itel 2160 Dual SIM 2G شاشة 1.77 بوصة أزرق",
+    "category": "هواتف محمولة",
+    "brand": "Itel",
+    "model": "2160",
+    "price": 849,
+    "currency": "EGP",
+    "merchant": "Raneen Egypt",
+    "source": "https://priceteq.com/eg/shop/754?cat=phone",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر مدرج اليوم لدى Raneen Egypt عبر صفحة تتبع أسعار المتجر",
+    "details": "السعر المعروض 849 جنيه؛ السعر السابق 1,199 جنيه."
+  },
+  {
+    "name": "Pluzz P5160 هاتف محمول",
+    "category": "هواتف محمولة",
+    "brand": "Pluzz",
+    "model": "P5160",
+    "price": 999,
+    "currency": "EGP",
+    "merchant": "Raneen Egypt",
+    "source": "https://priceteq.com/eg/shop/754?cat=phone",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر مدرج اليوم لدى Raneen Egypt عبر صفحة تتبع أسعار المتجر",
+    "details": "السعر المعروض 999 جنيه؛ السعر السابق 1,300 جنيه. اسم المنتج مختصر في قائمة المتجر."
+  },
+  {
+    "name": "Nokia TA-1567 DS 110 هاتف بشريحتين 1.8 بوصة",
+    "category": "هواتف محمولة",
+    "brand": "Nokia",
+    "model": "TA-1567 DS 110",
+    "price": 1400,
+    "currency": "EGP",
+    "merchant": "Raneen Egypt",
+    "source": "https://priceteq.com/eg/shop/754?cat=phone",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر مدرج اليوم لدى Raneen Egypt عبر صفحة تتبع أسعار المتجر",
+    "details": "السعر المعروض 1,400 جنيه؛ السعر السابق 1,600 جنيه."
   }
 ]
