@@ -105,8 +105,8 @@ def catalog_product_has_price(product):
                     continue
     return False
 
-def build_search_candidates(source_catalogs):
-    """Interleave eligible products across catalogs so each run covers many sections."""
+def build_search_candidates(source_catalogs, rotation_key=""):
+    """Interleave products across catalogs and rotate the starting catalog each day."""
     exact_index = build_exact_index(source_catalogs)
     by_catalog = {}
     seen = set()
@@ -132,13 +132,24 @@ def build_search_candidates(source_catalogs):
         if rows:
             by_catalog[filename] = [item[4] for item in rows]
 
+    # Rotate the catalog order using the Cairo run date. This prevents a blocked
+    # first batch from permanently starving catalogs that sort later alphabetically.
+    catalog_order = sorted(by_catalog)
+    if catalog_order:
+        digits = "".join(ch for ch in str(rotation_key)[:10] if ch.isdigit())
+        try:
+            offset = int(digits) % len(catalog_order) if digits else 0
+        except ValueError:
+            offset = 0
+        catalog_order = catalog_order[offset:] + catalog_order[:offset]
+
     # Take one product from each catalog before taking a second from any catalog.
-    # This makes the daily 15-call budget work across sections, not phones alone.
+    # The daily budget therefore spans different sections, not just the first files.
     candidates = []
     depth = 0
     while True:
         added = False
-        for filename in sorted(by_catalog):
+        for filename in catalog_order:
             rows = by_catalog[filename]
             if depth < len(rows):
                 candidates.append(rows[depth])
@@ -329,7 +340,7 @@ def run_apish_jumia(source, catalogs, checked_at):
     coverage = source.get("coverage", [])
     source_catalogs = {name: catalog for name, catalog in catalogs.items() if name in coverage}
     source_index = build_exact_index(source_catalogs)
-    candidates = build_search_candidates(source_catalogs)
+    candidates = build_search_candidates(source_catalogs, checked_at)
 
     if not candidates:
         print(f"OK {source['id']}: no eligible catalog products")
