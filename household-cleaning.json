@@ -2649,6 +2649,34 @@
       "checkedAt": "2026-11-09",
       "priceStatus": "سعر ظاهر على صفحة Carrefour Egypt بتاريخ 9 نوفمبر 2026.",
       "details": "In stock"
+    },
+    {
+      "name": "مسحوق غسالات الأطباق بودر فينيكس 1000 جم",
+      "category": "منظفات أدوات المطبخ",
+      "brand": "Phoenix",
+      "model": "Dishwasher Powder 1000g",
+      "sku": "HO1116910WIT",
+      "price": 165,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/ho1116910wit",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاح وقت التحقق؛ السعر المنشور 165 جنيه."
+    },
+    {
+      "name": "طقم أقراص تنظيف الغسالة 12 قرص",
+      "category": "منظفات الغسالات",
+      "brand": "Generic",
+      "model": "Washing Machine Cleaning Tablets 12 pcs",
+      "sku": "HO1154409MC1",
+      "price": 31,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/ho1154409mc1",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاح وقت التحقق؛ السعر المنشور 31 جنيه."
     }
   ],
   "lastAutomaticUpdate": "2026-11-09 14:51 Cairo"
