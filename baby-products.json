@@ -2090,5 +2090,17 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "retailer_price_comparison",
     "details": "السعر المرصود في مقارنة عروض متاجر مصرية؛ قد يختلف حسب المتجر والعرض وتوفر المقاس."
+  },
+  {
+    "id": "baby-nice-feeding-bottle-150ml",
+    "name": "Nice Baby Feeding Bottle 150 Ml",
+    "brand": "Nice Baby",
+    "category": "الرضاعة",
+    "unit": "150 مل",
+    "price": 89,
+    "merchant": "Junior Egypt",
+    "source": "https://junior-tex.com/products/842794",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified"
   }
 ]
