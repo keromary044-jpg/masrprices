@@ -158,14 +158,14 @@
       "unit": "Ink tank multifunction printer",
       "merchant": "Raneen",
       "source": "https://www.raneen.com/en/hp-1f3y2a-smarttank-580-multifunction-wireless-printer-white-1",
-      "checkedAt": "2026-11-09 15:32 Cairo",
+      "checkedAt": "2026-11-09 19:02 Cairo",
       "priceOffers": [
         {
           "merchant": "Raneen",
           "priceEGP": 7757.0,
           "source": "https://www.raneen.com/en/hp-1f3y2a-smarttank-580-multifunction-wireless-printer-white-1",
           "sourceLabel": "Raneen Public Catalogue API",
-          "checkedAt": "2026-11-09 15:32 Cairo",
+          "checkedAt": "2026-11-09 19:02 Cairo",
           "variant": "winnerbrands"
         }
       ],
@@ -439,7 +439,9 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "طابعة حرارية – منزلية",
@@ -509,7 +511,9 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "طابعة ملصقات – USB",
@@ -528,7 +532,9 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "ماسح ضوئي – منزلية",
@@ -840,5 +846,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
 }

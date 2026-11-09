@@ -2271,7 +2271,9 @@
       "merchant": null,
       "source": "https://elghazawy.com/ar/sub-category/Household-Cleaners",
       "priceStatus": "بانتظار مطابقة المنتج والعبوة مع مصدر بيع موثوق",
-      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد."
+      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "id": "home-clean-177",
@@ -2283,7 +2285,9 @@
       "merchant": null,
       "source": "https://elghazawy.com/ar/sub-category/Household-Cleaners",
       "priceStatus": "بانتظار مطابقة المنتج والعبوة مع مصدر بيع موثوق",
-      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد."
+      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "id": "home-clean-178",
@@ -2711,5 +2715,5 @@
       "details": "متاح وقت التحقق؛ السعر المنشور 31 جنيه."
     }
   ],
-  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
 }

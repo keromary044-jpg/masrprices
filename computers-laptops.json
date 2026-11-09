@@ -1066,7 +1066,9 @@
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "Samsung 990 PRO M.2 NVMe 2TB PCIe Gen 4 SSD",
@@ -1293,14 +1295,18 @@
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "معالج كمبيوتر – Intel Core i7 / 16GB / 1TB",
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "AMD Ryzen 5 5500 Processor",
@@ -1329,5 +1335,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
 }

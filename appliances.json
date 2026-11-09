@@ -865,7 +865,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
   },
   {
     "id": "appliances-catalog-046",
@@ -1111,7 +1113,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
   },
   {
     "id": "appliances-catalog-065",
@@ -1542,7 +1546,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
   },
   {
     "id": "appliances-catalog-100",

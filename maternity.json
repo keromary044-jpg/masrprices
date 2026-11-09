@@ -478,14 +478,18 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "حافظة حليب – كبير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "حافظة حليب – طقم",
@@ -1004,5 +1008,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
 }

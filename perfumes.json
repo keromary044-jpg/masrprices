@@ -1634,21 +1634,27 @@
       "brand": "ماركات متعددة",
       "category": "عطور",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "رذاذ شعر – عبوة 50 مل",
       "brand": "ماركات متعددة",
       "category": "عطور",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "رذاذ شعر – عبوة 75 مل",
       "brand": "ماركات متعددة",
       "category": "عطور",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
       "name": "رذاذ شعر – عبوة 100 مل",
@@ -2812,5 +2818,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:45 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
 }
