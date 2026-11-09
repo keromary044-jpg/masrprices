@@ -1193,14 +1193,18 @@
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "كارت شاشة – Intel Core i5 / 16GB / 512GB",
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "كارت شاشة – Intel Core i7 / 16GB / 1TB",
@@ -1269,5 +1273,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
 }

@@ -152,13 +152,24 @@
       "name": "HP Smart Tank 580 Wireless All-in-One 1F3Y2A",
       "brand": "HP",
       "category": "مستلزمات",
-      "price": 7399,
-      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "price": 7757.0,
+      "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
       "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
       "unit": "Ink tank multifunction printer",
       "merchant": "Raneen",
-      "source": "https://kolasaar.com/eg/en/printers/",
-      "checkedAt": "2026-11-08"
+      "source": "https://www.raneen.com/en/hp-1f3y2a-smarttank-580-multifunction-wireless-printer-white-1",
+      "checkedAt": "2026-11-09 15:32 Cairo",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 7757.0,
+          "source": "https://www.raneen.com/en/hp-1f3y2a-smarttank-580-multifunction-wireless-printer-white-1",
+          "sourceLabel": "Raneen Public Catalogue API",
+          "checkedAt": "2026-11-09 15:32 Cairo",
+          "variant": "winnerbrands"
+        }
+      ],
+      "priceProvider": "Raneen Public Catalogue API"
     },
     {
       "name": "HP Smart Tank 582 All-in-One 4A8D6A",
@@ -440,14 +451,18 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "طابعة حرارية – لاسلكية",
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "Jainsha GA-E200I Thermal Receipt Printer",
@@ -821,5 +836,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
 }

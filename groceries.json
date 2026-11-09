@@ -1224,7 +1224,9 @@
     "source": "",
     "checkedAt": "",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "عبوة/وزن حسب المنتج",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
   },
   {
     "id": "groceries-catalog-086",
@@ -1872,7 +1874,9 @@
     "source": "",
     "checkedAt": "",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "عبوة/وزن حسب المنتج",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
   },
   {
     "id": "groceries-catalog-142",

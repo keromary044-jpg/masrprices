@@ -506,14 +506,18 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "جهاز تعقيم رضاعات – كبير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "جهاز تعقيم رضاعات – طقم",
@@ -996,5 +1000,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
 }

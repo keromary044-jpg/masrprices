@@ -554,14 +554,18 @@
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "Nintendo Switch Lite – حزمة مع لعبة",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "Nintendo Switch Lite – إصدار تخزين 1TB",
@@ -1086,5 +1090,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
 }

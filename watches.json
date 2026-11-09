@@ -2423,14 +2423,18 @@
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "ساعة GPS – مقاس كبير",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
       "name": "ساعة GPS – لون أسود",
@@ -3959,5 +3963,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:20 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:32 Cairo"
 }

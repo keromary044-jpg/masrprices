@@ -2957,12 +2957,23 @@
     "name": "Epson EcoTank L5290",
     "category": "طابعات وماسحات",
     "brand": "Epson",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17524.0,
+    "merchant": "Raneen",
+    "source": "https://www.raneen.com/en/epson-wireless-multifunction-printer-lcd-display-black-2",
+    "checkedAt": "2026-11-09 15:32 Cairo",
+    "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceOffers": [
+      {
+        "merchant": "Raneen",
+        "priceEGP": 17524.0,
+        "source": "https://www.raneen.com/en/epson-wireless-multifunction-printer-lcd-display-black-2",
+        "sourceLabel": "Raneen Public Catalogue API",
+        "checkedAt": "2026-11-09 15:32 Cairo",
+        "variant": "egyptlaptop"
+      }
+    ],
+    "priceProvider": "Raneen Public Catalogue API"
   },
   {
     "id": "elx-0215",
@@ -6548,7 +6559,9 @@
     "source": null,
     "checkedAt": null,
     "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
   },
   {
     "id": "elx-0513",
@@ -6560,7 +6573,9 @@
     "source": null,
     "checkedAt": null,
     "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
   },
   {
     "id": "elx-0514",
