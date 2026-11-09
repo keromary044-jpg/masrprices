@@ -106,11 +106,12 @@ def catalog_product_has_price(product):
     return False
 
 def build_search_candidates(source_catalogs):
-    """Prioritize every unpriced phone before other catalogs, fairly rotating attempts."""
+    """Interleave eligible products across catalogs so each run covers many sections."""
     exact_index = build_exact_index(source_catalogs)
-    phones, others = [], []
+    by_catalog = {}
     seen = set()
     for filename in sorted(source_catalogs):
+        rows = []
         for product in source_catalogs[filename].get("products", []):
             if not isinstance(product, dict):
                 continue
@@ -120,19 +121,32 @@ def build_search_candidates(source_catalogs):
             if not name or not brand or key_pair in seen or len(exact_index.get(key_pair, [])) != 1:
                 continue
             seen.add(key_pair)
-            row = (name, brand, product)
-            if filename == "phones.json":
-                try:
-                    attempts = int(product.get("priceSearchAttempts") or 0)
-                except (TypeError, ValueError):
-                    attempts = 0
-                phones.append((catalog_product_has_price(product), attempts,
-                               str(product.get("priceSearchLastAttempt") or ""),
-                               normalize(name), row))
-            else:
-                others.append(row)
-    phones.sort(key=lambda item: (item[0], item[1], item[2], item[3]))
-    return [item[4] for item in phones] + others
+            try:
+                attempts = int(product.get("priceSearchAttempts") or 0)
+            except (TypeError, ValueError):
+                attempts = 0
+            rows.append((catalog_product_has_price(product), attempts,
+                         str(product.get("priceSearchLastAttempt") or ""),
+                         normalize(name), (name, brand, product)))
+        rows.sort(key=lambda item: (item[0], item[1], item[2], item[3]))
+        if rows:
+            by_catalog[filename] = [item[4] for item in rows]
+
+    # Take one product from each catalog before taking a second from any catalog.
+    # This makes the daily 15-call budget work across sections, not phones alone.
+    candidates = []
+    depth = 0
+    while True:
+        added = False
+        for filename in sorted(by_catalog):
+            rows = by_catalog[filename]
+            if depth < len(rows):
+                candidates.append(rows[depth])
+                added = True
+        if not added:
+            break
+        depth += 1
+    return candidates
 
 def mark_search_attempt(product, checked_at):
     """Record a provider search attempt so failed searches do not starve later phones."""
@@ -337,7 +351,6 @@ def run_apish_jumia(source, catalogs, checked_at):
         raise ValueError("Invalid API.SH endpoint")
     headers = {"x-api-key": key}
     for name, brand, catalog_product in selected:
-        mark_search_attempt(catalog_product, checked_at)
         params = urllib.parse.urlencode({
             "q": name, "country": "eg", "sort": "lowest-price", "page": 1
         })
@@ -346,8 +359,10 @@ def run_apish_jumia(source, catalogs, checked_at):
             payload = get_json(endpoint + "?" + params, headers, timeout=120)
         except Exception as exc:
             request_errors += 1
-            print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__}); continuing")
+            status = getattr(exc, "code", "")
+            print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__} status={status}); continuing")
             continue
+        mark_search_attempt(catalog_product, checked_at)
         if not isinstance(payload, dict) or payload.get("success") is False:
             raise ValueError("API.SH returned an unsuccessful Jumia response")
         if payload.get("country") not in (None, "eg", "EG"):
@@ -419,8 +434,10 @@ def run_apish_noon(source, catalogs, checked_at):
             payload = get_json(endpoint + "?" + params, headers, timeout=120)
         except Exception as exc:
             request_errors += 1
-            print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__}); continuing")
+            status = getattr(exc, "code", "")
+            print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__} status={status}); continuing")
             continue
+        mark_search_attempt(catalog_product, checked_at)
         if not isinstance(payload, dict) or payload.get("success") is False:
             raise ValueError("API.SH returned an unsuccessful noon response")
         if payload.get("country") not in (None, "eg", "EG"):
