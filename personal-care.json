@@ -2442,5 +2442,38 @@
     "priceStatus": "سعر منشور في صفحة المتجر وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
     "details": "السعر الظاهر في قائمة المتجر: 94.99 جنيه مصري.",
     "id": "pc-johnsons-no-more-tangles-shampoo-200"
+  },
+  {
+    "id": "pc-dove-nourishing-oil-shampoo-180ml",
+    "name": "Dove Shampoo Nourishing Oil Care 180ml",
+    "category": "شامبو",
+    "brand": "Dove",
+    "price": 129,
+    "merchant": "Noon",
+    "source": "https://www.lowqta.com/en/store/noon",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى Noon قبل الشراء"
+  },
+  {
+    "id": "pc-dove-original-rollon-50ml",
+    "name": "Dove Deodorant Roll-On For Women Original 50ml",
+    "category": "مزيلات العرق",
+    "brand": "Dove",
+    "price": 141,
+    "merchant": "Noon",
+    "source": "https://www.lowqta.com/en/store/noon",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى Noon قبل الشراء"
+  },
+  {
+    "id": "pc-vatika-almond-honey-conditioner-360ml",
+    "name": "Vatika Naturals Conditioner Almond & Honey 360ml",
+    "category": "بلسم الشعر",
+    "brand": "Vatika",
+    "price": 158.65,
+    "merchant": "Noon",
+    "source": "https://www.lowqta.com/en/store/noon",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى Noon قبل الشراء"
   }
 ]
