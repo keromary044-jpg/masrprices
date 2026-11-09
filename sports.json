@@ -337,15 +337,16 @@
   },
   {
     "id": "sports-دمبل-يد-متعدد-أوزان-متعددة",
-    "name": "دمبل يد",
+    "name": "DOMYOS 1 kg Fitness Dumbbells Twin-Pack",
     "category": "أوزان وتمارين",
-    "brand": "متعدد",
+    "brand": "DOMYOS",
     "unit": "أوزان متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 479,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/p/130386-159904-1-kg-fitness-dumbbells-twin-pack-partially-recycled-cast-iron-green.html",
+    "checkedAt": "2026-11-09",
+    "details": "زوج دمبل DOMYOS بوزن 1 كجم لكل قطعة؛ السعر الحالي الظاهر على صفحة المنتج.",
+    "priceStatus": "سعر منشور على صفحة المنتج بتاريخ 9 نوفمبر 2026."
   },
   {
     "id": "sports-بار-تمارين-منزلي-متعدد-قطعة",
