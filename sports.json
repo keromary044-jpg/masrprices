@@ -124,15 +124,16 @@
   },
   {
     "id": "sports-كرة-قدم-تدريب-مقاس-5-puma-مقاس-5",
-    "name": "كرة قدم تدريب مقاس 5",
+    "name": "Nike Pitch Football Soccer Ball",
     "category": "كرات قدم",
-    "brand": "Puma",
-    "unit": "مقاس 5",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "brand": "Nike",
+    "unit": "كرة",
+    "price": 1150,
+    "merchant": "WayUp Sports",
+    "source": "https://www.lowqta.com/ar/deal/wayup-8725274099950/pitch-football-soccer-ball",
+    "checkedAt": "2026-11-05",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "sports-كرة-سلة-مقاس-7-spalding-مقاس-7",

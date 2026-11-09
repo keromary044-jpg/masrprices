@@ -353,13 +353,16 @@
   },
   {
     "id": "appliances-catalog-009",
-    "name": "فرن كهربائي – مقاس صغير",
+    "name": "Fresh Microwave with Grill 25L FMW-25KC",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 7999,
+    "merchant": "B.TECH",
+    "source": "https://www.lowqta.com/ar/deal/btech-593A9C5EFFFD9962EC9B/fresh-microwave-with-grill-25-liter-900-watt-black-fmw-25kc",
+    "checkedAt": "2026-11-05",
+    "brand": "Fresh",
+    "model": "FMW-25KC",
+    "unit": "جهاز",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "appliances-catalog-010",
@@ -876,13 +879,16 @@
   },
   {
     "id": "appliances-catalog-061",
-    "name": "ميكروويف – مقاس متوسط",
+    "name": "ATA Solo Microwave 20 Liter 1200W MW20LN002",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 3891,
+    "merchant": "Raya Shop",
+    "source": "https://www.lowqta.com/ar/deal/raya-271203/ata-solo-microwave-20-liter-1200-watt-grey-mw20ln002",
+    "checkedAt": "2026-11-06",
+    "brand": "ATA",
+    "model": "MW20LN002",
+    "unit": "جهاز",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "appliances-catalog-062",

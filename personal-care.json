@@ -603,13 +603,15 @@
   },
   {
     "id": "personal-care-catalog-040",
-    "name": "شامبو أطفال – مقاس صغير",
+    "name": "Sulphate Free Shampoo",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 155.24,
+    "merchant": "Amazon Egypt",
+    "source": "https://www.lowqta.com/ar/deal/amz-B0DXQ6Y8K8/sulphate-free-shampoo",
+    "checkedAt": "2026-11-08",
+    "brand": "غير محدد",
+    "unit": "عبوة",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "personal-care-catalog-041",

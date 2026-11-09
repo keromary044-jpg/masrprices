@@ -343,15 +343,16 @@
   },
   {
     "id": "furniture-كرسي-مكتب-متعدد-قطعة",
-    "name": "كرسي مكتب",
+    "name": "IKEA BALTSAR Swivel Chair",
     "category": "كراسي",
-    "brand": "متعدد",
-    "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "brand": "IKEA",
+    "unit": "كرسي",
+    "price": 8995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.lowqta.com/ar/deal/ikea-10511538/baltsar-swivel-chair",
+    "checkedAt": "2026-11-06",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "furniture-مكتب-كمبيوتر-متعدد-قطعة",
