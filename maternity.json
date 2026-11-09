@@ -923,6 +923,18 @@
       "category": "مستلزمات الأمومة",
       "price": null,
       "details": "عنصر تعريفي بالكتالوج."
+    },
+    {
+      "id": "maternity-u-shaped-pillow-hedeya",
+      "name": "U Shaped Maternity Pillow",
+      "brand": "Hedeya",
+      "category": "مخدات الحمل",
+      "unit": "U-shaped",
+      "price": 3150,
+      "merchant": "Hedeya",
+      "source": "https://hedeya.com/products/u-shaped-maternity-pillow",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified"
     }
   ]
 }
