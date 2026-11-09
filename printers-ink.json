@@ -513,22 +513,30 @@
       "priceStatus": "سعر منشور في مقارنة متاجر مصر؛ قابل للتغيير ويجب تأكيده عند الشراء."
     },
     {
-      "name": "طابعة حرارية – سعة قياسية",
-      "brand": "ماركات متعددة",
+      "name": "Xprinter XP-58IIH 58mm Thermal Receipt Printer",
+      "brand": "Xprinter",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 1299,
+      "details": "طابعة إيصالات حرارية Xprinter XP-58IIH بعرض 58mm؛ السعر المنشور 1,299 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo",
+      "merchant": "Xprinter Egypt",
+      "source": "https://xprinteregypt.com/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "طابعة ملصقات – منزلية",
-      "brand": "ماركات متعددة",
+      "name": "Zebra ZD220T Desktop Thermal Transfer Label Printer",
+      "brand": "Zebra",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 12750,
+      "details": "طابعة ملصقات وباركود Zebra ZD220T بدقة 203dpi واتصال USB؛ السعر المنشور 12,750 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Kimo Store",
+      "source": "https://kimostore.net/ar/collections/barcode-printer/products/طابعة-باركود-زيبرا-zd220t",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Bixolon XD3-40TK Thermal Transfer Label Barcode Printer",
@@ -569,13 +577,17 @@
       "priceStatus": "سعر منشور في قائمة طابعات الملصقات على جوميا مصر؛ المنتج منخفض المخزون والسعر قابل للتغيير."
     },
     {
-      "name": "طابعة ملصقات – سعة قياسية",
-      "brand": "ماركات متعددة",
+      "name": "Xprinter XP-P328B Portable Thermal Label Printer",
+      "brand": "Xprinter",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 2400,
+      "details": "طابعة حرارية محمولة Xprinter XP-P328B؛ السعر المنشور 2,400 جنيه.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+      "merchant": "Xprinter Egypt",
+      "source": "https://xprinteregypt.com/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Canon CanoScan LiDE 300 USB Scanner",
@@ -665,13 +677,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "خرطوشة حبر أسود – لاسلكية",
-      "brand": "ماركات متعددة",
+      "name": "Brother High Capacity Black Ink Bottle",
+      "brand": "Brother",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 975,
+      "details": "زجاجة حبر أسود عالية السعة من Brother؛ السعر المنشور 975 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/office-supplies/office-electronics/printer-accessories-18895/inks-refill-kits/all-products-eg/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Canon PG-445 Pixma Fine Black Ink Cartridge",
@@ -726,13 +742,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "خرطوشة حبر ألوان – لاسلكية",
-      "brand": "ماركات متعددة",
+      "name": "Epson EcoTank 103 Cyan Ink Bottle",
+      "brand": "Epson",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 697,
+      "details": "زجاجة حبر Epson EcoTank 103 باللون السماوي؛ السعر المنشور 697 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/office-supplies/office-electronics/printer-accessories-18895/inks-refill-kits/all-products-eg/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "HP 305 Black & Tri-Colour Ink Cartridge Multipack",
