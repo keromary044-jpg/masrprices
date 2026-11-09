@@ -954,25 +954,37 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "عجلة سباق ألعاب – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "Logitech G29 Driving Force Racing Wheel for PS4/PS5/PC",
+      "brand": "Logitech",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 14200,
+      "details": "عجلة قيادة Logitech G29 مع دواسات وForce Feedback؛ السعر المنشور 14,200 جنيهًا والمتجر يعرضها متاحة.",
+      "merchant": "Shift Store",
+      "source": "https://shiftstore-eg.com/shop/gaming/controller/logitech-g29-driving-racing-wheel-for-ps4ps3pc-copy/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "عجلة سباق ألعاب – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "Thrustmaster T128 P Racing Wheel for PS4/PS5/PC",
+      "brand": "Thrustmaster",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 12599,
+      "details": "عجلة قيادة Thrustmaster T128 P متوافقة مع PS4 وPS5 والكمبيوتر؛ السعر المنشور 12,599 جنيهًا.",
+      "merchant": "Games2Egypt",
+      "source": "https://www.games2egypt.com/Category/3360/racing-wheels",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "عجلة سباق ألعاب – حزمة مع لعبة",
-      "brand": "ماركات متعددة",
+      "name": "Logitech G29 Driving Racing Wheel and Shifter",
+      "brand": "Logitech",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 16950,
+      "details": "حزمة Logitech G29 مع ناقل حركة؛ السعر المنشور 16,950 جنيهًا.",
+      "merchant": "Games2Egypt",
+      "source": "https://www.games2egypt.com/Product/25955/logitech-g29-driving-racing-wheel-and-shifter",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "عجلة سباق ألعاب – إصدار تخزين 1TB",
@@ -1042,13 +1054,17 @@
       "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
-      "name": "بطاقة التقاط ألعاب – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "Elgato HD60 X External Capture Card",
+      "brand": "Elgato",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 14824,
+      "details": "بطاقة التقاط خارجية Elgato HD60 X؛ السعر المنشور 14,824 جنيهًا، والصفحة تعرضها غير متاحة حاليًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Games World Egypt",
+      "source": "https://www.gamesworldegypt.com/devices-accessories/streaming/capture-cards",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "بطاقة التقاط ألعاب – نسخة رقمية",
