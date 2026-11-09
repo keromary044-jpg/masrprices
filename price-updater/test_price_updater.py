@@ -1,7 +1,7 @@
 import os
 import unittest
 from unittest.mock import patch
-from github_actions_updater import normalize, apply_offer, run_pricelens, run_open_prices, run_apish_jumia, run_apish_noon, expire_stale_offers
+from github_actions_updater import normalize, apply_offer, run_pricelens, run_open_prices, run_apish_jumia, run_apish_noon, run_raneen, expire_stale_offers
 from coverage_report import freshness_status
 
 class PriceUpdaterTests(unittest.TestCase):
@@ -32,6 +32,45 @@ class PriceUpdaterTests(unittest.TestCase):
         apply_offer(self.index, "سامسونج جالاكسي A56", "Samsung", 1400, "Store A", "https://a.example/item", "day 2", "Provider A")
         self.assertEqual(len(self.product["priceOffers"]), 1)
         self.assertEqual(self.product["priceEGP"], 1400)
+
+
+    def test_raneen_imports_live_price_only_after_unique_exact_model_match(self):
+        product = {"name":"محضر طعام بوش MCM3421M","brand":"Bosch"}
+        catalogs = {"appliances.json":{"products":[product]}}
+        search = {"products":[{"sku":"MCM3421M-Conf"}]}
+        detail = {
+            "sku":"MCM3421M-Conf", "name":"Bosch MCM3421M Food Processor",
+            "name_en":"Bosch MCM3421M Food Processor", "brand":"Bosch",
+            "price":3464, "currency":"EGP", "in_stock":True,
+            "url":"https://www.raneen.com/en/mcm3421m-conf", "seller":"Thehomemart"
+        }
+        with patch("github_actions_updater.get_json", side_effect=[search, detail]) as mocked:
+            accepted = run_raneen({
+                "id":"raneen-test", "coverage":["appliances.json"],
+                "max_searches_per_run":1, "max_details_per_search":5
+            }, catalogs, "2026-11-09 05:00 Cairo")
+        self.assertEqual(accepted, 1)
+        self.assertEqual(product["price"], 3464)
+        self.assertEqual(product["merchant"], "Raneen")
+        self.assertEqual(product["priceOffers"][0]["variant"], "Thehomemart")
+        self.assertEqual(mocked.call_count, 2)
+
+    def test_raneen_rejects_out_of_stock_and_wrong_currency(self):
+        product = {"name":"Bosch MCM3421M Food Processor","brand":"Bosch"}
+        catalogs = {"appliances.json":{"products":[product]}}
+        search = {"products":[{"sku":"MCM3421M-Conf"}]}
+        detail = {
+            "sku":"MCM3421M-Conf", "name":"Bosch MCM3421M Food Processor",
+            "brand":"Bosch", "price":3464, "currency":"EGP",
+            "in_stock":False, "url":"https://www.raneen.com/en/mcm3421m-conf"
+        }
+        with patch("github_actions_updater.get_json", side_effect=[search, detail]):
+            accepted = run_raneen({
+                "id":"raneen-test", "coverage":["appliances.json"],
+                "max_searches_per_run":1, "max_details_per_search":5
+            }, catalogs, "2026-11-09")
+        self.assertEqual(accepted, 0)
+        self.assertNotIn("priceOffers", product)
 
     def test_partial_name_is_rejected(self):
         self.assertFalse(apply_offer(self.index, "سامسونج A56", "Samsung", 1234, "Store", "https://store.example/item", "now", "Test"))
