@@ -664,7 +664,11 @@ def run_raneen(source, catalogs, checked_at):
             payload = get_json(base + "/search?" + query, timeout=30)
         except Exception as exc:
             errors += 1
-            print(f"WARNING {source['id']}: search failed ({type(exc).__name__}); continuing")
+            # Persist failed attempts too, so one unavailable query cannot
+            # monopolize the next daily/push rotation.
+            mark_search_attempt(catalog_product, checked_at)
+            status = getattr(exc, "code", "")
+            print(f"WARNING {source['id']}: search failed ({type(exc).__name__} status={status}); continuing")
             continue
         searched += 1
         mark_search_attempt(catalog_product, checked_at)
