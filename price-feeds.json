@@ -177,9 +177,9 @@
         "kitchen-tools-utensils.json",
         "maternity.json"
       ],
-      "max_searches_per_run": 10,
+      "max_searches_per_run": 30,
       "max_details_per_search": 5,
-      "activation_note": "Public read-only API, no key or payment required. Search results are treated only as SKU candidates: each SKU is fetched from the product-detail endpoint and must have a positive EGP price, in_stock=true, a Raneen HTTPS product URL, and a unique exact product-name/brand or exact model-code match. Search budget 10/day; at most 50 product-detail calls/day, below the published 60/min product limit. The API's product page/checkout remains authoritative."
+      "activation_note": "Public read-only API, no key or payment required. Search results are SKU candidates only; each SKU is fetched from the product-detail endpoint and must have a positive EGP price, in_stock=true, a Raneen HTTPS product URL, and a unique exact product-name/brand or exact model-code match. Daily budget increased to 30 searches and at most 150 product-detail calls, below the published 600-search/day and 60-detail/min limits."
     }
   ],
   "reference_sources": [
