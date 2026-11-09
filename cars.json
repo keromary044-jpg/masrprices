@@ -2492,11 +2492,12 @@
       "name": "Proton X70",
       "brand": "Proton",
       "category": "SUV",
-      "price": null,
-      "modelYear": null,
-      "source": "",
-      "checkedAt": null,
-      "spec": "موديل ضمن دليل السيارات المتداولة أو المعروفة في السوق المصري. السعر وسنة الموديل والتوافر تحتاج تحققًا من الوكيل أو البائع."
+      "price": 1275000,
+      "modelYear": 2026,
+      "source": "https://www.ccarprice.com/eg/proton-car-prices-in-egypt-152",
+      "checkedAt": "2026-11-09",
+      "spec": "Proton X70 موديل 2026؛ السعر المنشور في دليل أسعار السيارات لمصر، وليس عرضًا مؤكدًا من الوكيل.",
+      "priceStatus": "سعر مرجعي منشور لموديل 2026؛ يلزم تأكيد الوكيل المصري قبل اعتباره سعر بيع نهائي"
     },
     {
       "id": "car-205",
