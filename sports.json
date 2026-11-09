@@ -2179,5 +2179,38 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "verified",
     "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 359 جنيه مصري."
+  },
+  {
+    "id": "sport-decathlon-kids-flipflops-500-neon-green",
+    "name": "Kids’ Flip-flops 500 neon green",
+    "category": "أحذية أطفال",
+    "brand": "Decathlon",
+    "price": 129,
+    "merchant": "Decathlon",
+    "source": "https://www.lowqta.com/en/c/shoes",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والمقاس والتوفر لدى Decathlon"
+  },
+  {
+    "id": "sport-decathlon-womens-jogging-bottoms-500-black",
+    "name": "Women's Slim-Fit Fitness Jogging Bottoms 500 - Black",
+    "category": "ملابس رياضية",
+    "brand": "Decathlon",
+    "price": 499,
+    "merchant": "Decathlon",
+    "source": "https://www.lowqta.com/en/c/sports",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والمقاس والتوفر لدى Decathlon"
+  },
+  {
+    "id": "sport-decathlon-womens-jogging-bottoms-500-grey",
+    "name": "Women's Slim-Fit Fitness Jogging Bottoms 500 - Grey",
+    "category": "ملابس رياضية",
+    "brand": "Decathlon",
+    "price": 499,
+    "merchant": "Decathlon",
+    "source": "https://www.lowqta.com/en/c/sports",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والمقاس والتوفر لدى Decathlon"
   }
 ]
