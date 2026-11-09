@@ -701,8 +701,8 @@ def run_raneen(source, catalogs, checked_at):
             accepted += apply_offer(
                 {(normalize(matched_product.get("name") or matched_product.get("title")),
                   normalize(matched_product.get("brand"))): [(filename, matched_product)]},
-                detail.get("name") or detail.get("name_en") or detail.get("name_ar"),
-                detail.get("brand"), detail.get("price"), "Raneen",
+                matched_product.get("name") or matched_product.get("title"),
+                matched_product.get("brand"), detail.get("price"), "Raneen",
                 product_url, checked_at, "Raneen Public Catalogue API",
                 str(detail.get("seller") or "")
             )
