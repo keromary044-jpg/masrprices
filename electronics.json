@@ -1360,18 +1360,18 @@
     "name": "Dell P2722H 27",
     "category": "شاشات الكمبيوتر",
     "brand": "Dell",
-    "price": 10405,
+    "price": 9800,
     "merchant": "Noon Egypt",
     "source": "https://www.noon.com/egypt-en/electronics-and-mobiles/computers-and-accessories/computer-accessories/monitor-accessories/monitors-17248/dell/?isCarouselView=false&limit=50&sort%5Bby%5D=popularity&sort%5Bdir%5D=desc",
     "checkedAt": "2026-11-09",
-    "priceStatus": "السعر ظاهر في قائمة Noon مع شحن مجاني؛ المخزون غير موضح صراحة",
+    "priceStatus": "السعر المعروض في نتيجة Noon المحدثة اليوم مع موعد توصيل 13 نوفمبر؛ صفحة التفاصيل قد تتأخر في تحديثها",
     "note": "السعر المرصود لنسخة P2722H مقاس 27 بوصة؛ صفحة القائمة قد تعرض أسعارًا متغيرة.",
     "priceOffers": [
       {
         "merchant": "Noon Egypt",
-        "priceEGP": 10405,
+        "priceEGP": 9800,
         "source": "https://www.noon.com/egypt-en/electronics-and-mobiles/computers-and-accessories/computer-accessories/monitor-accessories/monitors-17248/dell/?isCarouselView=false&limit=50&sort%5Bby%5D=popularity&sort%5Bdir%5D=desc",
-        "sourceLabel": "Noon Egypt — DELL monitor listing",
+        "sourceLabel": "Noon Egypt — listing retrieved 9 Nov 2026",
         "checkedAt": "2026-11-09",
         "variant": "P2722H 27-inch FHD IPS, 60Hz"
       }
