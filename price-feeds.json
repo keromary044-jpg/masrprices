@@ -148,6 +148,38 @@
       ],
       "max_calls_per_run": 1,
       "activation_note": "One product search per scheduled daily run, rotating across all 15 priority catalogs. Estimated maximum: about 30 calls per month for this provider; combined Jumia and Noon budget about 60 calls per month. Only exact-matched, buyable/in-stock Egypt EGP offers are imported; failed 402 calls stop without retries."
+    },
+    {
+      "id": "raneen-eg-public-catalogue",
+      "name": "Raneen Egypt public read-only product catalogue API",
+      "adapter": "raneen",
+      "active": true,
+      "status": "active_public_read_only_api",
+      "endpoint": "https://mcp.raneen.com/v1",
+      "country": "eg",
+      "currency": "EGP",
+      "refresh_policy": "Daily bounded search rotation across all 15 priority catalogs; only live in-stock EGP listings with a Raneen product URL are eligible; offers expire after 14 days without refresh.",
+      "attribution": "Display Raneen as the store and Raneen Public Catalogue API as the source; link to the returned Raneen product page.",
+      "coverage": [
+        "phones.json",
+        "electronics.json",
+        "appliances.json",
+        "computers-laptops.json",
+        "gaming-devices.json",
+        "printers-ink.json",
+        "networking-internet.json",
+        "watches.json",
+        "groceries.json",
+        "personal-care.json",
+        "perfumes.json",
+        "baby-products.json",
+        "household-cleaning.json",
+        "kitchen-tools-utensils.json",
+        "maternity.json"
+      ],
+      "max_searches_per_run": 10,
+      "max_details_per_search": 5,
+      "activation_note": "Public read-only API, no key or payment required. Search results are treated only as SKU candidates: each SKU is fetched from the product-detail endpoint and must have a positive EGP price, in_stock=true, a Raneen HTTPS product URL, and a unique exact product-name/brand or exact model-code match. Search budget 10/day; at most 50 product-detail calls/day, below the published 60/min product limit. The API's product page/checkout remains authoritative."
     }
   ],
   "reference_sources": [
