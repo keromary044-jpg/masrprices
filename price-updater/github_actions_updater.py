@@ -101,6 +101,25 @@ def load_catalogs():
             continue
     return catalogs
 
+# Price discovery must never search, refresh, or match restricted product types.
+_UNSAFE_PRODUCT_TERMS = (
+    "دواء", "أدوية", "علاج", "مسكن", "مضاد حيوي", "كبسول", "حقن", "شراب دوائي",
+    "مرهم طبي", "كريم طبي", "مكمل غذائي", "مكملات", "فيتامين", "هرمون", "ستيرويد",
+    "مخدر", "كحول", "خمور", "بيرة", "نبيذ", "سجائر", "تبغ", "نيكوتين", "فيب",
+    "مبيد", "سم", "مادة سامة", "مادة كيميائية خطرة", "سلاح", "مسدس", "بندقية",
+    "سكين", "مطواة", "صاعق", "بخاخ فلفل", "قمار", "مراهنات", "رهان",
+    "medicine", "medication", "prescription", "antibiotic", "painkiller",
+    "supplement", "steroid", "hormone", "drug", "alcohol", "beer", "wine",
+    "whisky", "vodka", "tobacco", "nicotine", "vape", "cigarette", "pesticide",
+    "poison", "toxin", "hazardous chemical", "firearm", "weapon", "knife",
+    "pepper spray", "gambling", "betting", "casino", "lottery"
+)
+
+def is_safe_catalog_product(product):
+    fields = ("name", "title", "brand", "category", "subcategory", "description", "details", "note", "unit")
+    value = normalize(" ".join(str(product.get(key) or "") for key in fields))
+    return not any(normalize(term) in value for term in _UNSAFE_PRODUCT_TERMS)
+
 def build_exact_index(catalogs, allowed_files=None):
     index = {}
     allowed = set(allowed_files or catalogs.keys())
@@ -108,7 +127,7 @@ def build_exact_index(catalogs, allowed_files=None):
         if filename not in allowed:
             continue
         for product in catalog.get("products", []):
-            if not isinstance(product, dict):
+            if not isinstance(product, dict) or not is_safe_catalog_product(product):
                 continue
             name = normalize(product.get("name") or product.get("title"))
             brand = normalize(product.get("brand"))
@@ -145,7 +164,7 @@ def build_search_candidates(source_catalogs, rotation_key="", rotation_offset=0)
     for filename in sorted(source_catalogs):
         rows = []
         for product in source_catalogs[filename].get("products", []):
-            if not isinstance(product, dict):
+            if not isinstance(product, dict) or not is_safe_catalog_product(product):
                 continue
             name = str(product.get("name") or product.get("title") or "").strip()
             brand = str(product.get("brand") or "").strip()
@@ -273,7 +292,7 @@ def expire_stale_offers(catalogs, now=None, max_age_days=14):
     provider_labels = {"Prices by PriceLens", "Sama Link API", "API.SH — Jumia Egypt", "API.SH — Noon Egypt", "Raneen Public Catalogue API"}
     for filename, catalog in catalogs.items():
         for product in catalog.get("products", []):
-            if not isinstance(product, dict) or not isinstance(product.get("priceOffers"), list):
+            if not isinstance(product, dict) or not is_safe_catalog_product(product) or not isinstance(product.get("priceOffers"), list):
                 continue
             offers = product["priceOffers"]
             fresh = []
