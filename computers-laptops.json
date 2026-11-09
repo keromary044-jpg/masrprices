@@ -1069,25 +1069,37 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "وحدة تخزين SSD – Intel Core i5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Samsung 990 PRO M.2 NVMe 2TB PCIe Gen 4 SSD",
+      "brand": "Samsung",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 23000,
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "merchant": "Compu Data Center",
+      "source": "https://priceteq.com/eg/pc-parts?type=ssd",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "وحدة تخزين SSD – Intel Core i7 / 16GB / 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Samsung 990 PRO 1TB NVMe PCIe Gen 4.0 M.2 SSD",
+      "brand": "Samsung",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 14000,
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "merchant": "Quantum Technology",
+      "source": "https://priceteq.com/eg/pc-parts?type=ssd",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "وحدة تخزين SSD – AMD Ryzen 5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Samsung 990 EVO Plus 2TB SSD",
+      "brand": "Samsung",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 24300,
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "merchant": "AHW Store",
+      "source": "https://priceteq.com/eg/pc-parts?type=ssd",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
       "name": "قرص صلب خارجي – Intel Core i3 / 8GB / 256GB",
@@ -1099,40 +1111,56 @@
       "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
     },
     {
-      "name": "قرص صلب خارجي – Intel Core i5 / 8GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Seagate Expansion Portable External Hard Drive 1TB",
+      "brand": "Seagate",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
+      "price": 4400,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo",
+      "merchant": "Sigma Computer",
+      "source": "https://nileshopper.com/products/55006-seagate-expansion-portable-external-hard-drive-1tb",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "قرص صلب خارجي – Intel Core i5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "WD My Passport 1TB Portable External Hard Drive",
+      "brand": "Western Digital",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
+      "price": 5299,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+      "merchant": "2B",
+      "source": "https://connect4techs.com/category/hardware/storage-devices/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "قرص صلب خارجي – Intel Core i7 / 16GB / 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Toshiba Canvio Basics 1TB Portable Hard Drive",
+      "brand": "Toshiba",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
+      "price": 5200,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo",
+      "merchant": "Amazon Egypt",
+      "source": "https://connect4techs.com/category/hardware/storage-devices/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "قرص صلب خارجي – AMD Ryzen 5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Seagate One Touch 1TB Portable Hard Drive",
+      "brand": "Seagate",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
+      "price": 4999,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+      "merchant": "Amazon Egypt",
+      "source": "https://connect4techs.com/category/hardware/storage-devices/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
       "name": "ذاكرة RAM – Intel Core i3 / 8GB / 256GB",
@@ -1144,40 +1172,56 @@
       "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
-      "name": "ذاكرة RAM – Intel Core i5 / 8GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Patriot Viper Steel DDR4 8GB 3200MHz CL16 Desktop RAM",
+      "brand": "Patriot",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
+      "price": 3599,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo",
+      "merchant": "El Nour Tech",
+      "source": "https://elnour-tech.com/en/product-category/pc-parts/ram/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "ذاكرة RAM – Intel Core i5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Patriot Viper Steel 16GB DDR4 3200MHz CL16 Desktop RAM",
+      "brand": "Patriot",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
+      "price": 6599,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo",
+      "merchant": "El Nour Tech",
+      "source": "https://elnour-tech.com/en/product-category/pc-parts/ram/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "ذاكرة RAM – Intel Core i7 / 16GB / 1TB",
-      "brand": "ماركات متعددة",
+      "name": "TeamGroup T-Force Delta RGB DDR4 16GB 3200MHz CL16 Desktop RAM",
+      "brand": "TeamGroup",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
+      "price": 6899,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+      "merchant": "El Nour Tech",
+      "source": "https://elnour-tech.com/en/product-category/pc-parts/ram/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "ذاكرة RAM – AMD Ryzen 5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Lexar THOR 16GB DDR4 3200MHz CL16 Desktop RAM",
+      "brand": "Lexar",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
+      "price": 6599,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo",
+      "merchant": "El Nour Tech",
+      "source": "https://elnour-tech.com/en/product-category/pc-parts/ram/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
       "name": "كارت شاشة – Intel Core i3 / 8GB / 256GB",
@@ -1230,11 +1274,15 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "معالج كمبيوتر – Intel Core i5 / 8GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "Intel Core i5-12400F Processor",
+      "brand": "Intel",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 6699,
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "merchant": "Solid Hardware",
+      "source": "https://priceteq.com/eg/product/c34eddca-a5ea-434d-917b-5e627594e520",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
       "name": "معالج كمبيوتر – Intel Core i5 / 16GB / 512GB",
@@ -1251,11 +1299,15 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "معالج كمبيوتر – AMD Ryzen 5 / 16GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "AMD Ryzen 5 5500 Processor",
+      "brand": "AMD",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 3900,
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "merchant": "Z Stations",
+      "source": "https://priceteq.com/eg/product/87f58400-5995-4a69-b3bc-6d204e3baae8",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
       "name": "لابتوب Lenovo IdeaPad Slim 3 15IRH10 Core i7-13620H 16GB RAM 512GB SSD",
