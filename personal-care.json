@@ -2475,5 +2475,38 @@
     "source": "https://www.lowqta.com/en/store/noon",
     "checkedAt": "2026-11-09",
     "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى Noon قبل الشراء"
+  },
+  {
+    "id": "pc-signal-toothbrush-triple-clean-medium",
+    "name": "Signal Toothbrush Triple Clean Medium Multi Colour",
+    "category": "فرش أسنان",
+    "brand": "Signal",
+    "price": 109,
+    "merchant": "Noon",
+    "source": "https://www.lowqta.com/en/store/noon/beauty",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى Noon"
+  },
+  {
+    "id": "pc-dear-moisturizing-gel-200gm",
+    "name": "Dear Moisturizing Gel 200 GM",
+    "category": "مرطبات البشرة",
+    "brand": "Dear",
+    "price": 125,
+    "merchant": "Noon",
+    "source": "https://www.lowqta.com/en/store/noon/beauty",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى Noon"
+  },
+  {
+    "id": "pc-leave-in-conditioner-argan-oil-240ml",
+    "name": "Leave-in Conditioner Argan Oil 240ml",
+    "category": "بلسم الشعر",
+    "brand": "Unspecified",
+    "price": 113,
+    "merchant": "Noon",
+    "source": "https://www.lowqta.com/en/store/noon/beauty",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى Noon"
   }
 ]
