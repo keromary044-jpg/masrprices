@@ -34,55 +34,55 @@
       "name": "معبد الكرنك – الأقصر",
       "category": "مواقع أثرية",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة التذاكر الرسمية",
-      "details": "تحقق من رسوم الدخول وساعات الزيارة.",
-      "source": "https://egymonuments.gov.eg/en",
-      "checkedAt": "2026-11-02"
+      "price": 40,
+      "merchant": "وزارة السياحة والآثار – الأسعار الرسمية للمصريين",
+      "details": "تذكرة دخول المصري البالغ؛ الطالب 20 جنيه. الأسعار للأجانب مختلفة.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/karnak/",
+      "checkedAt": "2026-11-09"
     },
     {
       "id": "travel-valley-kings",
       "name": "وادي الملوك – الأقصر",
       "category": "مواقع أثرية",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة التذاكر الرسمية",
-      "details": "قد تختلف رسوم المقابر الإضافية عن تذكرة الموقع.",
-      "source": "https://egymonuments.gov.eg/en",
-      "checkedAt": "2026-11-02"
+      "price": 60,
+      "merchant": "وزارة السياحة والآثار – الأسعار الرسمية للمصريين",
+      "details": "تذكرة دخول المصري البالغ؛ الطالب 30 جنيه. لا تشمل المقابر الإضافية.",
+      "source": "https://egymonuments.com/en/locations/details/ValleyOfKings",
+      "checkedAt": "2026-11-09"
     },
     {
       "id": "travel-philae",
       "name": "معبد فيلة – أسوان",
       "category": "مواقع أثرية",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة التذاكر الرسمية",
-      "details": "راجع تفاصيل النقل والتذكرة في المصدر الرسمي.",
-      "source": "https://egymonuments.gov.eg/en",
-      "checkedAt": "2026-11-02"
+      "price": 40,
+      "merchant": "وزارة السياحة والآثار – الأسعار الرسمية للمصريين",
+      "details": "تذكرة دخول المصري البالغ؛ الطالب 20 جنيه. تذكرة بانوراما المعبد منفصلة.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/philae/",
+      "checkedAt": "2026-11-09"
     },
     {
       "id": "travel-abu-simbel",
       "name": "معبدا أبو سمبل – أسوان",
       "category": "مواقع أثرية",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة التذاكر الرسمية",
-      "details": "تحقق من مواعيد الزيارة ووسيلة الانتقال.",
-      "source": "https://egymonuments.gov.eg/en",
-      "checkedAt": "2026-11-02"
+      "price": 30,
+      "merchant": "وزارة السياحة والآثار – الأسعار الرسمية للمصريين",
+      "details": "تذكرة دخول المصري البالغ؛ الطالب 10 جنيه. توجد رسوم خاصة ليومي تعامد الشمس.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/abu-simbel/",
+      "checkedAt": "2026-11-09"
     },
     {
       "id": "travel-citadel",
       "name": "قلعة صلاح الدين – القاهرة",
       "category": "مواقع أثرية",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة التذاكر الرسمية",
-      "details": "تأكد من سعر التذكرة للمصريين والزوار.",
-      "source": "https://egymonuments.gov.eg/en",
-      "checkedAt": "2026-11-02"
+      "price": 60,
+      "merchant": "وزارة السياحة والآثار – الأسعار الرسمية للمصريين",
+      "details": "تذكرة دخول المصري البالغ؛ الطالب 30 جنيه. رسوم العربة ومواقف السيارات منفصلة.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/cairo-citadel/",
+      "checkedAt": "2026-11-09"
     },
     {
       "id": "travel-coptic",
@@ -155,11 +155,11 @@
       "name": "المتحف اليوناني الروماني",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة الآثار الرسمية",
-      "details": "الموقع: الإسكندرية. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
-      "source": "https://egymonuments.gov.eg/museums/",
-      "checkedAt": "2026-11-02"
+      "price": 40,
+      "merchant": "وزارة السياحة والآثار – الأسعار الرسمية للمصريين",
+      "details": "تذكرة دخول المصري البالغ؛ الطالب 20 جنيه.",
+      "source": "https://egymonuments.gov.eg/museums/graeco-roman-museum/",
+      "checkedAt": "2026-11-09"
     },
     {
       "id": "travel-suez-museum",
