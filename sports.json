@@ -350,16 +350,16 @@
   },
   {
     "id": "sports-بار-تمارين-منزلي-متعدد-قطعة",
-    "name": "DOMYOS 5 kg Fitness Dumbbells Twin-Pack",
+    "name": "بار تمارين منزلي",
     "category": "أوزان وتمارين",
-    "brand": "DOMYOS",
+    "brand": "ماركات متعددة",
     "unit": "قطعة",
-    "price": 1999,
-    "merchant": "Decathlon Egypt",
-    "source": "https://www.decathlon.eg/en/13369-dumbells",
-    "checkedAt": "2026-11-09",
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
-    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
+    "priceStatus": "غير متحقق"
   },
   {
     "id": "sports-عجلة-تمارين-بطن-متعدد-قطعة",
@@ -375,16 +375,16 @@
   },
   {
     "id": "sports-كرة-طبية-للتمارين-domyos-أوزان-متعددة",
-    "name": "DOMYOS Hex Dumbbell Cross Training 5kg",
+    "name": "كرة طبية للتمارين",
     "category": "لياقة بدنية",
-    "brand": "DOMYOS",
+    "brand": "ماركات متعددة",
     "unit": "أوزان متعددة",
-    "price": 1599,
-    "merchant": "Decathlon Egypt",
-    "source": "https://www.decathlon.eg/en/13369-dumbells",
-    "checkedAt": "2026-11-09",
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
-    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
+    "priceStatus": "غير متحقق"
   },
   {
     "id": "sports-قفازات-جيم-domyos-مقاسات-متعددة",
