@@ -994,6 +994,30 @@
       "category": "أجهزة الألعاب",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+    },
+    {
+      "id": "gaming-elogail-nintendoswitchlitegray",
+      "name": "Nintendo Switch Lite Gray",
+      "brand": "Nintendo",
+      "category": "أجهزة الألعاب",
+      "price": 10999,
+      "merchant": "Elogail Stores",
+      "source": "https://elogailstores.com/collections/nintendo/products/nintendo-switch-lite-gray",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر ظاهر في صفحة المنتج لدى Elogail Stores بتاريخ 9 نوفمبر 2026.",
+      "details": "Only 1 unit left"
+    },
+    {
+      "id": "gaming-elogail-nintendoswitchliteturquoise",
+      "name": "Nintendo Switch Lite Turquoise",
+      "brand": "Nintendo",
+      "category": "أجهزة الألعاب",
+      "price": 10999,
+      "merchant": "Elogail Stores",
+      "source": "https://elogailstores.com/collections/nintendo/products/nintendo-switch-lite",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر ظاهر في صفحة المنتج لدى Elogail Stores بتاريخ 9 نوفمبر 2026.",
+      "details": "Only 1 unit left"
     }
   ],
   "updatedAt": "2026-11-09",
