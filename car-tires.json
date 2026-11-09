@@ -5,15 +5,15 @@
   "pricePolicy": "لا تعرض أسعارًا تقديرية؛ السعر null حتى التحقق من مصدر مطابق.",
   "products": [
     {
-      "name": "Laufenn 205/55 R16 Tire",
-      "brand": "Laufenn",
+      "name": "إطار صيفي – 205/55 R16",
+      "brand": "ماركات متعددة",
       "category": "إطارات ملاكي",
-      "price": 3085,
-      "priceStatus": "سعر منشور بصفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء",
-      "details": "السعر بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
-      "merchant": "Shaheen",
-      "source": "https://www.shaheentire.com/en/categories/tires",
-      "checkedAt": "2026-11-08"
+      "price": null,
+      "priceStatus": "غير متحقق",
+      "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null
     },
     {
       "name": "BOTO 215/60 R17 Tire",
@@ -457,15 +457,15 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "Laufenn 205/55 R16 Tire",
-      "brand": "Laufenn",
+      "name": "إطار رياضي – 215/60 R16",
+      "brand": "ماركات متعددة",
       "category": "إطارات السيارات",
-      "price": 3085,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة.",
-      "merchant": "Shaheen Tire",
-      "source": "https://www.shaheentire.com/",
-      "checkedAt": "2026-11-09",
-      "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
+      "price": null,
+      "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
+      "merchant": null,
+      "source": null,
+      "checkedAt": null,
+      "priceStatus": "غير متحقق"
     },
     {
       "name": "إطار رياضي – 225/45 R17",
