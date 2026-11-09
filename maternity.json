@@ -383,14 +383,18 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "حزام دعم الحمل – طقم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "زجاجة رضاعة – صغير",
@@ -661,7 +665,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "حقيبة مستشفى الولادة – متوسط",
@@ -682,7 +688,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "فوط أمومة – صغير",
@@ -822,14 +830,18 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "حقيبة حفظ الحليب",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "مضخة رضاعة يدوية مزدوجة",
@@ -885,7 +897,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "وسادة دعم الظهر",
@@ -964,7 +978,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "id": "maternity-u-shaped-pillow-hedeya",
@@ -1008,5 +1024,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
 }

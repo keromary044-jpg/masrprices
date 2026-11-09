@@ -937,21 +937,27 @@
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "VR Headset – نسخة رقمية",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "VR Headset – حزمة مع لعبة",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "VR Headset – إصدار تخزين 1TB",
@@ -976,35 +982,45 @@
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "بطاقة التقاط ألعاب – نسخة رقمية",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "بطاقة التقاط ألعاب – حزمة مع لعبة",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "بطاقة التقاط ألعاب – إصدار تخزين 1TB",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "بطاقة التقاط ألعاب – إصدار تخزين 2TB",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "قاعدة شحن يد التحكم – نسخة أساسية",
@@ -1106,5 +1122,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
 }

@@ -1416,7 +1416,9 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "علبة توابل – طقم 3 قطع",
@@ -1541,7 +1543,9 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "Elite Diamond Plastic Cup Set 2 Pieces",
@@ -1570,14 +1574,18 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "طقم أطباق – قطعة واحدة",
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "طقم أطباق – طقم 2 قطعة",
@@ -1613,28 +1621,36 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "طقم مجات – طقم 2 قطعة",
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "طقم مجات – طقم 3 قطع",
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "طقم مجات – طقم 5 قطع",
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "زجاجة زيت – قطعة واحدة",
@@ -2124,5 +2140,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
 }

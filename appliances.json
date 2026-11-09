@@ -589,7 +589,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
   },
   {
     "id": "appliances-catalog-025",
@@ -804,7 +806,9 @@
     "checkedAt": null,
     "brand": "ماركات متعددة",
     "priceStatus": "غير متحقق",
-    "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج."
+    "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
   },
   {
     "id": "appliances-catalog-041",
@@ -877,7 +881,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
   },
   {
     "id": "appliances-catalog-047",
@@ -1177,7 +1183,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
   },
   {
     "id": "appliances-catalog-070",
@@ -1212,7 +1220,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
   },
   {
     "id": "appliances-catalog-073",
@@ -1238,7 +1248,9 @@
     "checkedAt": null,
     "brand": "ماركات متعددة",
     "priceStatus": "غير متحقق",
-    "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج."
+    "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
   },
   {
     "id": "appliances-catalog-075",
@@ -1500,7 +1512,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
   },
   {
     "id": "appliances-catalog-096",
@@ -1510,7 +1524,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
   },
   {
     "id": "appliances-catalog-097",

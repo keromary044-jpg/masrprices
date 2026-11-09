@@ -497,14 +497,18 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "طابعة ملصقات – مكتبية",
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "طابعة ملصقات – لاسلكية",
@@ -541,35 +545,45 @@
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ماسح ضوئي – مكتبية",
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ماسح ضوئي – لاسلكية",
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ماسح ضوئي – USB",
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ماسح ضوئي – سعة قياسية",
       "brand": "ماركات متعددة",
       "category": "الطابعات والأحبار",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "خرطوشة حبر أسود – منزلية",
@@ -604,8 +618,8 @@
       "category": "الطابعات والأحبار",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "خرطوشة حبر أسود – سعة قياسية",
@@ -846,5 +860,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
 }

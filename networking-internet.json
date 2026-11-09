@@ -554,8 +554,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo",
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
       "merchant": null,
       "source": null,
       "checkedAt": null,
@@ -567,8 +567,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo",
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
       "merchant": null,
       "source": null,
       "checkedAt": null,
@@ -580,8 +580,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo",
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
       "merchant": null,
       "source": null,
       "checkedAt": null,
@@ -617,8 +617,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
       "merchant": null,
       "source": null,
       "checkedAt": null,
@@ -678,8 +678,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "سويتش شبكة – 4 منافذ",
@@ -687,8 +687,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
       "merchant": null,
       "source": null,
       "checkedAt": null,
@@ -700,8 +700,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
       "merchant": null,
       "source": null,
       "checkedAt": null,
@@ -713,8 +713,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "سويتش شبكة – ثنائي النطاق",
@@ -722,8 +722,8 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
-      "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
+      "priceSearchAttempts": 2,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "راوتر TP-Link TL-MR6400 واي فاي 300 ميجابت 4G",
@@ -1001,5 +1001,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
 }

@@ -1318,14 +1318,18 @@
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ساعة تناظرية – سوار قماش",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ساعة تناظرية – هيكل أسود",
@@ -1353,21 +1357,27 @@
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ساعة تناظرية – شاشة 1.5 بوصة",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ساعة تناظرية – مقاس صغير",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ساعة تناظرية – مقاس متوسط",
@@ -1388,21 +1398,27 @@
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ساعة تناظرية – لون أبيض",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ساعة تناظرية – لون أزرق",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
       "name": "ساعة كرونوغراف – سوار ستانلس ستيل",
@@ -3984,5 +4000,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 19:02 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
 }
