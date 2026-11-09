@@ -555,13 +555,14 @@
   },
   {
     "id": "appliances-catalog-022",
-    "name": "مروحة مكتب – مقاس صغير",
+    "name": "ATA YX49A-RCL Vacuum Cleaner 2200W",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 2230,
+    "merchant": "Dream 2000",
+    "source": "https://kolasaar.com/eg/en/",
+    "checkedAt": "2026-11-09",
+    "brand": "ATA",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-023",
@@ -673,13 +674,14 @@
   },
   {
     "id": "appliances-catalog-031",
-    "name": "مطحنة قهوة – مقاس صغير",
+    "name": "Sokany SK-3024 Coffee Grinder",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 750,
+    "merchant": "Dream 2000",
+    "source": "https://kolasaar.com/eg/en/kitchen/",
+    "checkedAt": "2026-11-09",
+    "brand": "Sokany",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-032",
@@ -711,15 +713,16 @@
   },
   {
     "id": "appliances-catalog-034",
-    "name": "توستر – مقاس صغير",
+    "name": "Sokany SK-145 3-in-1 Breakfast Maker 1250W",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
+    "price": 1799,
+    "merchant": "Dream 2000",
+    "source": "https://kolasaar.com/eg/en/kitchen/",
+    "checkedAt": "2026-11-09",
+    "brand": "Sokany",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 10:49 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 10:49 Cairo",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-035",
@@ -763,13 +766,14 @@
   },
   {
     "id": "appliances-catalog-038",
-    "name": "ميزان مطبخ – مقاس صغير",
+    "name": "Fresh EGK17000 Glass Kettle 1.7L",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 790,
+    "merchant": "Raneen",
+    "source": "https://kolasaar.com/eg/en/kitchen/",
+    "checkedAt": "2026-11-09",
+    "brand": "Fresh",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-039",
@@ -787,13 +791,14 @@
   },
   {
     "id": "appliances-catalog-040",
-    "name": "مكواة جافة – مقاس صغير",
+    "name": "Panasonic NI-GHD015WTV Portable Steam Iron 1570W",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 1890,
+    "merchant": "Dream 2000",
+    "source": "https://kolasaar.com/eg/en/",
+    "checkedAt": "2026-11-09",
+    "brand": "Panasonic",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-041",
@@ -1210,13 +1215,14 @@
   },
   {
     "id": "appliances-catalog-074",
-    "name": "مكنسة روبوت – مقاس متوسط",
+    "name": "Mienta VC19604B Vacuum Cleaner 2000W",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 5499,
+    "merchant": "2B",
+    "source": "https://kolasaar.com/eg/en/",
+    "checkedAt": "2026-11-09",
+    "brand": "Mienta",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-075",
@@ -1234,13 +1240,14 @@
   },
   {
     "id": "appliances-catalog-076",
-    "name": "كبة كهربائية – مقاس متوسط",
+    "name": "Mienta CH-643 Chopper 1000W",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 999,
+    "merchant": "2B",
+    "source": "https://kolasaar.com/eg/en/kitchen/",
+    "checkedAt": "2026-11-09",
+    "brand": "Mienta",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-077",
@@ -1296,13 +1303,14 @@
   },
   {
     "id": "appliances-catalog-081",
-    "name": "مطحنة قهوة – مقاس متوسط",
+    "name": "Sokany SK-3020 Coffee Grinder",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 1050,
+    "merchant": "Dream 2000",
+    "source": "https://kolasaar.com/eg/en/kitchen/",
+    "checkedAt": "2026-11-09",
+    "brand": "Sokany",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-082",
@@ -1434,13 +1442,14 @@
   },
   {
     "id": "appliances-catalog-092",
-    "name": "مصفف شعر – مقاس متوسط",
+    "name": "Mienta HM13729A Hand Mixer 5 Speeds 500W",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 1269,
+    "merchant": "2B",
+    "source": "https://kolasaar.com/eg/en/kitchen/",
+    "checkedAt": "2026-11-09",
+    "brand": "Mienta",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-093",
@@ -1486,15 +1495,16 @@
   },
   {
     "id": "appliances-catalog-097",
-    "name": "دفاية كهربائية – مقاس متوسط",
+    "name": "Toshiba AF-74CP1VREG Air Fryer 7.4L 1800W",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
+    "price": 6999,
+    "merchant": "2B",
+    "source": "https://kolasaar.com/eg/en/",
+    "checkedAt": "2026-11-09",
+    "brand": "Toshiba",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+    "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "appliances-catalog-098",
