@@ -179,7 +179,8 @@
       ],
       "max_searches_per_run": 200,
       "max_details_per_search": 2,
-      "activation_note": "Public read-only API, no key or payment required. Search results are SKU candidates only; each candidate must pass exact unique product-name/brand or exact model-code matching before a detail request is made. The matching SKU detail must confirm a positive EGP price, in_stock=true, and a Raneen HTTPS product URL. Per run: up to 200 searches and 400 product-detail calls, paced at 2.1 seconds per search and 1.1 seconds per detail request, within the published 600-search/day and 60-detail/min limits. Search candidates are interleaved across all 15 priority catalogs; non-matching products do not consume detail requests."
+      "activation_note": "Public read-only API, no key or payment required. Search results are SKU candidates only; each candidate must pass exact unique product-name/brand or exact model-code matching before a detail request is made. The matching SKU detail must confirm a positive EGP price, in_stock=true, and a Raneen HTTPS product URL. Per run: up to 200 searches and 400 product-detail calls, paced at 2.1 seconds per search and 1.1 seconds per detail request, with a 17-minute runtime budget and 10-second network timeouts. This stays within the published 600-search/day and 60-detail/min limits. Search candidates are interleaved across all 15 priority catalogs; non-matching products do not consume detail requests.",
+      "max_runtime_seconds": 1020
     }
   ],
   "reference_sources": [
