@@ -185,15 +185,16 @@
     },
     {
       "id": "stationery-قلم-سنون-0-5-مم-pilot-قطعة",
-      "name": "قلم سنون 0.5 مم",
+      "name": "Pilot Versatil H325 Mechanical Pencil 0.5mm",
       "category": "أقلام",
       "brand": "Pilot",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 179,
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/pilot/",
+      "checkedAt": "2026-11-09",
+      "details": "تم استبدال الوصف العام بموديل Pilot Versatil H325 مقاس 0.5 مم، والسعر المعروض 179 جنيهًا في صفحة منتجات Pilot على جوميا.",
+      "priceStatus": "سعر منشور لمنتج محدد في صفحة منتجات Pilot؛ يلزم تأكيد التوفر والسعر عند الشراء"
     },
     {
       "id": "stationery-سنون-قلم-0-5-مم-pilot-علبة",
