@@ -916,6 +916,79 @@
       "category": "بطاريات السيارات",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+    },
+    {
+      "name": "ACDelco",
+      "brand": "TD70 62Ah",
+      "category": "بطاريات جافة",
+      "price": 3654,
+      "currency": "EGP",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/automotive/replacement-parts-16014/batteries-and-accessories/batteries-17215/all-products-eg/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في صفحة المتجر وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر الظاهر في قائمة المتجر: 3654.00 جنيه مصري."
+    },
+    {
+      "name": "Bosch",
+      "brand": "N70 70Ah",
+      "category": "بطاريات جافة",
+      "price": 5242,
+      "currency": "EGP",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/automotive/replacement-parts-16014/batteries-and-accessories/batteries-17215/all-products-eg/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في صفحة المتجر وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر الظاهر في قائمة المتجر: 5242.00 جنيه مصري."
+    },
+    {
+      "name": "Varta",
+      "brand": "D24 60Ah",
+      "category": "بطاريات جافة",
+      "price": 3770,
+      "currency": "EGP",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/automotive/replacement-parts-16014/batteries-and-accessories/batteries-17215/all-products-eg/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في صفحة المتجر وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر الظاهر في قائمة المتجر: 3770.00 جنيه مصري."
+    },
+    {
+      "name": "Chloride",
+      "brand": "Turbo NS40 36Ah",
+      "category": "بطاريات جافة",
+      "price": 1923,
+      "currency": "EGP",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/automotive/replacement-parts-16014/batteries-and-accessories/batteries-17215/all-products-eg/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في صفحة المتجر وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر الظاهر في قائمة المتجر: 1923.00 جنيه مصري."
+    },
+    {
+      "name": "Winner",
+      "brand": "TD70 60Ah",
+      "category": "بطاريات جافة",
+      "price": 3090,
+      "currency": "EGP",
+      "merchant": "Battireo",
+      "source": "https://www.battireo.com/products",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في صفحة المتجر وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر الظاهر في قائمة المتجر: 3090.00 جنيه مصري."
+    },
+    {
+      "name": "Mutlu",
+      "brand": "NS60SL 45Ah",
+      "category": "بطاريات جافة",
+      "price": 2649,
+      "currency": "EGP",
+      "merchant": "Battireo",
+      "source": "https://www.battireo.com/products",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في صفحة المتجر وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
+      "details": "السعر الظاهر في قائمة المتجر: 2649.00 جنيه مصري."
     }
-  ]
+  ],
+  "updatedAt": "2026-11-09"
 }
