@@ -797,15 +797,15 @@
     "id": "appliances-catalog-041",
     "name": "Philips BHD302 مجفف شعر 1600 وات",
     "category": "أجهزة منزلية",
-    "price": 1999,
-    "merchant": "Raya Shop Egypt",
-    "source": "https://www.rayashop.com/en/hair-dryers",
+    "price": 1699,
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/hair-care-hair-dryer-d/?oos=1",
     "checkedAt": "2026-11-09",
     "brand": "Philips",
     "currency": "EGP",
     "unit": "جهاز",
-    "priceStatus": "retailer_listing",
-    "details": "السعر المعروض لدى راية شوب وقت الرصد؛ قد يختلف حسب البائع والتوفر والعروض."
+    "priceStatus": "سعر منشور ضمن قائمة مجففات الشعر على جوميا مصر؛ منخفض المخزون والسعر قابل للتغيير.",
+    "details": "السعر المعروض لدى راية شوب وقت الرصد؛ قد يختلف حسب البائع والتوفر والعروض. السعر المرصود لطراز Philips BHD302/10 بقدرة 1600 وات بتاريخ 9 نوفمبر 2026."
   },
   {
     "id": "appliances-catalog-042",
@@ -2421,7 +2421,7 @@
     "name": "Kenwood Fruit Juicer JEM02.A0BK 800 Watt",
     "brand": "Kenwood",
     "category": "أجهزة منزلية",
-    "price": 4079.0,
+    "price": 4079,
     "merchant": "Raneen",
     "source": "https://www.raneen.com/en/el1102828bns-2",
     "checkedAt": "2026-11-09 15:20 Cairo",
@@ -2430,7 +2430,7 @@
     "priceOffers": [
       {
         "merchant": "Raneen",
-        "priceEGP": 4079.0,
+        "priceEGP": 4079,
         "source": "https://www.raneen.com/en/el1102828bns-2",
         "sourceLabel": "Raneen Public Catalogue API",
         "checkedAt": "2026-11-09 15:20 Cairo",
