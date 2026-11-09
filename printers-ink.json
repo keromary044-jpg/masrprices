@@ -483,13 +483,17 @@
       "checkedAt": "2026-11-09"
     },
     {
-      "name": "طابعة حرارية – لاسلكية",
-      "brand": "ماركات متعددة",
+      "name": "Honeywell MPD31D Mobile Bluetooth Thermal Barcode Printer",
+      "brand": "Honeywell",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 10950,
+      "details": "طابعة باركود حرارية محمولة من Honeywell باتصال Bluetooth؛ السعر المنشور 10,950 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo",
+      "merchant": "Elghazawy",
+      "source": "https://elghazawy.com/public/en/sub-category/printers-and-scanners?ordered=price&sort=asc",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Jainsha GA-E200I Thermal Receipt Printer",
@@ -523,13 +527,17 @@
       "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
-      "name": "طابعة ملصقات – مكتبية",
-      "brand": "ماركات متعددة",
+      "name": "Bixolon XD3-40TK Thermal Transfer Label Barcode Printer",
+      "brand": "Bixolon",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 8999,
+      "details": "طابعة ملصقات وباركود Bixolon XD3-40TK بدقة 203 DPI؛ السعر المنشور 8,999 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Elghazawy",
+      "source": "https://elghazawy.com/public/en/sub-category/printers-and-scanners?ordered=price&sort=asc",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Yesido SP10 Portable Thermal Wireless Label Printer",
@@ -575,13 +583,17 @@
       "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
-      "name": "ماسح ضوئي – مكتبية",
-      "brand": "ماركات متعددة",
+      "name": "Epson DS-1630 Color Document Scanner",
+      "brand": "Epson",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 10750,
+      "details": "ماسح مستندات Epson DS-1630 ملون؛ السعر المنشور 10,750 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Elghazawy",
+      "source": "https://elghazawy.com/public/en/sub-category/printers-and-scanners?ordered=price&sort=asc",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "ماسح ضوئي – لاسلكية",
