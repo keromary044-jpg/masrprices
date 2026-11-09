@@ -360,6 +360,9 @@ def run_apish_jumia(source, catalogs, checked_at):
         except Exception as exc:
             request_errors += 1
             status = getattr(exc, "code", "")
+            if status == 402:
+                print(f"BLOCKED {source['id']}: API.SH returned 402; stopping this source until its credit cap/balance is restored")
+                break
             print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__} status={status}); continuing")
             continue
         mark_search_attempt(catalog_product, checked_at)
@@ -435,6 +438,9 @@ def run_apish_noon(source, catalogs, checked_at):
         except Exception as exc:
             request_errors += 1
             status = getattr(exc, "code", "")
+            if status == 402:
+                print(f"BLOCKED {source['id']}: API.SH returned 402; stopping this source until its credit cap/balance is restored")
+                break
             print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__} status={status}); continuing")
             continue
         mark_search_attempt(catalog_product, checked_at)
