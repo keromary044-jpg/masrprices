@@ -2771,5 +2771,57 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
     "details": "سعر القائمة 4,999 جنيه."
+  },
+  {
+    "name": "ميكروويف فريش 25 لتر 800 وات FMW-25MC-BW أسود",
+    "category": "ميكروويف",
+    "brand": "Fresh",
+    "model": "FMW-25MC-BW",
+    "price": 4499,
+    "currency": "EGP",
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY4040600",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في صفحة قسم الميكروويف لدى كارفور وقت التحقق",
+    "details": "السعر المعروض 4,499 جنيه؛ السعر السابق 5,365 جنيه؛ الصفحة تعرض توافر وحدتين."
+  },
+  {
+    "name": "ميكروويف توشيبا 36 لتر ML3-EM36PFI(MB) فضي",
+    "category": "ميكروويف",
+    "brand": "Toshiba",
+    "model": "ML3-EM36PFI(MB)",
+    "price": 8799,
+    "currency": "EGP",
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY4040600",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في صفحة قسم الميكروويف لدى كارفور وقت التحقق",
+    "details": "السعر المعروض 8,799 جنيه؛ الصفحة تعرض توافر وحدتين."
+  },
+  {
+    "name": "ميكروويف توشيبا 45 لتر ML3-EM45PFI(MB) أسود",
+    "category": "ميكروويف",
+    "brand": "Toshiba",
+    "model": "ML3-EM45PFI(MB)",
+    "price": 9499,
+    "currency": "EGP",
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY4040600",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في صفحة قسم الميكروويف لدى كارفور وقت التحقق",
+    "details": "السعر المعروض 9,499 جنيه؛ الصفحة تعرض توافر وحدتين."
+  },
+  {
+    "name": "ميكروويف جاك 20 لتر 1200 وات MW20-JA11A أسود",
+    "category": "ميكروويف",
+    "brand": "Jack",
+    "model": "MW20-JA11A",
+    "price": 3449,
+    "currency": "EGP",
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY4040600",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في صفحة قسم الميكروويف لدى كارفور وقت التحقق",
+    "details": "السعر المعروض 3,449 جنيه؛ السعر السابق 4,449 جنيه؛ تقييم الصفحة 4.8 من 18 مراجعة."
   }
 ]
