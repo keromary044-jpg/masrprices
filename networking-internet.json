@@ -8,13 +8,23 @@
       "name": "D-Link DIR-612 راوتر لاسلكي N300",
       "brand": "D-Link",
       "category": "راوترات",
-      "price": 699,
-      "priceStatus": "سعر مرصود من صفحة متجر/مقارنة منشورة؛ يلزم إعادة التحقق عند التحديث",
+      "price": 599,
+      "priceStatus": "سعر المنتج ظاهر على صفحة المتجر، والتوفر مؤكد في رصد PriceTeq بتاريخ 9 نوفمبر",
       "details": "السعر المعروض بالجنيه المصري كما ظهر في المصدر وقت الرصد.",
       "unit": "N300",
-      "merchant": "2B",
-      "source": "https://kolasaar.com/eg/ar/",
-      "checkedAt": "2026-10-23"
+      "merchant": "Elghazawy",
+      "source": "https://elghazawy.com/ar/product/38074270233533/D-Link-Access-Point%2C-150MB%2C-DIR-612%2C-Black2434592.html",
+      "checkedAt": "2026-11-09",
+      "priceOffers": [
+        {
+          "merchant": "Elghazawy",
+          "priceEGP": 599,
+          "source": "https://elghazawy.com/ar/product/38074270233533/D-Link-Access-Point%2C-150MB%2C-DIR-612%2C-Black2434592.html",
+          "sourceLabel": "Elghazawy — price and stock cross-checked via PriceTeq",
+          "checkedAt": "2026-11-09",
+          "variant": "D-Link DIR-612 N300, black, 4 LAN ports"
+        }
+      ]
     },
     {
       "name": "D-Link DIR-650IN راوتر لاسلكي N300",
