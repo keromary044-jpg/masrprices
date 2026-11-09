@@ -3897,15 +3897,17 @@
   },
   {
     "id": "elx-0294",
-    "name": "Sony DualSense Controller",
+    "name": "PlayStation DualSense Wireless Controller – Midnight Black",
     "category": "أجهزة الألعاب",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4199,
+    "merchant": "The Game Cave Egypt",
+    "source": "https://thegamecaveegypt.com/products/playstation-dualsense-wireless-controller-midnight-black",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "model": "DualSense Wireless Controller",
+    "unit": "Midnight Black"
   },
   {
     "id": "elx-0295",
@@ -8134,5 +8136,19 @@
     "checkedAt": "2026-10-23",
     "priceStatus": "retailer_price_comparison",
     "details": "السعر الأدنى المرصود بين متاجر مصرية في صفحة مقارنة الأسعار بتاريخ 23 أكتوبر 2026؛ راجع المتجر للتأكد من التوفر والسعر الحالي."
+  },
+  {
+    "id": "elc-samsung-qa65q6f-65",
+    "name": "Samsung 65 Inch 4K UHD Smart QLED TV QA65Q6F",
+    "brand": "Samsung",
+    "category": "الشاشات والتلفزيونات",
+    "model": "QA65Q6F",
+    "unit": "65 بوصة / 4K QLED",
+    "price": 31500,
+    "merchant": "Dream 2000",
+    "source": "https://dream2000.com/products/samsung-65-inch-4k-uhd-smart-qled-tv-with-built-in-receiver-qa65q6f-black",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified",
+    "details": "السعر ظاهر بصفحة المنتج؛ المتجر أشار إلى التوفر."
   }
 ]
