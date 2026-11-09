@@ -903,6 +903,91 @@
       "category": "إطارات السيارات",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+    },
+    {
+      "id": "POTU 205/55 R16 91W Tire",
+      "name": "POTU",
+      "category": "إطارات ملاكي",
+      "brand": "205/55 R16 91W",
+      "price": 2355,
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/205-55-r16",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 2,355 جنيه مصري."
+    },
+    {
+      "id": "Austone 205/55 R16 94V Tire",
+      "name": "Austone",
+      "category": "إطارات ملاكي",
+      "brand": "205/55 R16 94V",
+      "price": 2875,
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/205-55-r16",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 2,875 جنيه مصري."
+    },
+    {
+      "id": "Goodride 205/55 R16 Tire",
+      "name": "Goodride",
+      "category": "إطارات ملاكي",
+      "brand": "205/55 R16",
+      "price": 2935,
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/205-55-r16",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 2,935 جنيه مصري."
+    },
+    {
+      "id": "Laufenn 205/55 R16 91V Tire",
+      "name": "Laufenn",
+      "category": "إطارات ملاكي",
+      "brand": "205/55 R16 91V",
+      "price": 3085,
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/205-55-r16",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 3,085 جنيه مصري."
+    },
+    {
+      "id": "Primus 175/70 R13 Tire",
+      "name": "Primus",
+      "category": "إطارات ملاكي",
+      "brand": "175/70 R13",
+      "price": 1685,
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/175-70-r13",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 1,685 جنيه مصري."
+    },
+    {
+      "id": "Lassa 175/70 R13 82T Tire",
+      "name": "Lassa",
+      "category": "إطارات ملاكي",
+      "brand": "175/70 R13 82T",
+      "price": 1995,
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/175-70-r13",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 1,995 جنيه مصري."
+    },
+    {
+      "id": "GT Radial Classiro 175/70 R13 85H Tire",
+      "name": "GT Radial",
+      "category": "إطارات ملاكي",
+      "brand": "Classiro 175/70 R13 85H",
+      "price": 2533,
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/175-70-r13",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 2,533 جنيه مصري."
     }
-  ]
+  ],
+  "updatedAt": "2026-11-09"
 }
