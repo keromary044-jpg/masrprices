@@ -1240,13 +1240,15 @@
   },
   {
     "id": "appliances-catalog-077",
-    "name": "محضر طعام – مقاس متوسط",
+    "name": "Mienta Food Processor FP141535A 1000W 28 Functions",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 3199,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/mienta-food-processor-1000w-28-functions-mille-full-set-fp141535a/ZCB80EE342A36C38B815CZ/p/",
+    "checkedAt": "2026-11-09",
+    "brand": "Mienta",
+    "details": "Mienta FP141535A، قدرة 1000W و28 وظيفة؛ السعر الظاهر على Noon Egypt وقت الرصد.",
+    "priceStatus": "سعر منشور على صفحة المنتج؛ قابل للتغيير ويجب تأكيده عند الشراء."
   },
   {
     "id": "appliances-catalog-078",
