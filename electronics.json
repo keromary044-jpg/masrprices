@@ -2891,7 +2891,7 @@
     "name": "Canon i-SENSYS MF3010",
     "category": "طابعات وماسحات",
     "brand": "Canon",
-    "price": 14025.0,
+    "price": 14025,
     "merchant": "Raneen",
     "source": "https://www.raneen.com/en/canon-mf3010-laser-printer-3-in-1-black-19-ppm-led-display-official-warranty",
     "checkedAt": "2026-11-09 19:02 Cairo",
@@ -2900,7 +2900,7 @@
     "priceOffers": [
       {
         "merchant": "Raneen",
-        "priceEGP": 14025.0,
+        "priceEGP": 14025,
         "source": "https://www.raneen.com/en/canon-mf3010-laser-printer-3-in-1-black-19-ppm-led-display-official-warranty",
         "sourceLabel": "Raneen Public Catalogue API",
         "checkedAt": "2026-11-09 19:02 Cairo",
@@ -2908,7 +2908,7 @@
       },
       {
         "merchant": "Raneen",
-        "priceEGP": 14525.0,
+        "priceEGP": 14525,
         "source": "https://www.raneen.com/en/canon-mf3010-monochrome-inkjet-printer-3-in-1-energy-efficient",
         "sourceLabel": "Raneen Public Catalogue API",
         "checkedAt": "2026-11-09 15:45 Cairo",
@@ -2982,7 +2982,7 @@
     "name": "Epson EcoTank L5290",
     "category": "طابعات وماسحات",
     "brand": "Epson",
-    "price": 17524.0,
+    "price": 17524,
     "merchant": "Raneen",
     "source": "https://www.raneen.com/en/epson-wireless-multifunction-printer-lcd-display-black-2",
     "checkedAt": "2026-11-09 19:02 Cairo",
@@ -2991,7 +2991,7 @@
     "priceOffers": [
       {
         "merchant": "Raneen",
-        "priceEGP": 17524.0,
+        "priceEGP": 17524,
         "source": "https://www.raneen.com/en/epson-wireless-multifunction-printer-lcd-display-black-2",
         "sourceLabel": "Raneen Public Catalogue API",
         "checkedAt": "2026-11-09 19:02 Cairo",
@@ -4447,12 +4447,23 @@
     "name": "Sony WH-1000XM5",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 19617,
+    "merchant": "Raya Shop",
+    "source": "https://www.rayashop.com/ar/sony-wireless-over-ear-headphone-midnight-blue-wh-1000xm5-sou-x2546054-blu-fielgarage",
+    "checkedAt": "2026-11-06 09:32 Cairo",
+    "priceStatus": "سعر متجر مصري مرصود مع توفر معلن؛ تحقق من السعر النهائي عند الدفع",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceOffers": [
+      {
+        "merchant": "Raya Shop",
+        "priceEGP": 19617,
+        "source": "https://www.rayashop.com/ar/sony-wireless-over-ear-headphone-midnight-blue-wh-1000xm5-sou-x2546054-blu-fielgarage",
+        "sourceLabel": "Qarenly price monitor — Raya Shop",
+        "checkedAt": "2026-11-06 09:32 Cairo",
+        "variant": "Midnight Blue; model WH-1000XM5"
+      }
+    ],
+    "priceProvider": "Qarenly price monitor — Raya Shop"
   },
   {
     "id": "elx-0336",
