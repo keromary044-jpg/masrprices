@@ -4,6 +4,7 @@ import json
 import os
 import re
 import sys
+import time
 import unicodedata
 import urllib.parse
 import urllib.error
@@ -653,11 +654,19 @@ def run_raneen(source, catalogs, checked_at):
         raise ValueError("Raneen max_details_per_search must be between 1 and 5")
 
     accepted = searched = detail_calls = errors = 0
+    last_search_request = 0.0
+    last_detail_request = 0.0
     base = source.get("endpoint", "https://mcp.raneen.com/v1").rstrip("/")
     if not valid_https(base):
         raise ValueError("Invalid Raneen API endpoint")
 
     for name, brand, catalog_product in candidates[:max_searches]:
+        # Respect the public API's published per-minute limits: 30 searches
+        # and 60 product-detail requests. Space requests rather than bursting.
+        wait = 2.1 - (time.monotonic() - last_search_request)
+        if last_search_request and wait > 0:
+            time.sleep(wait)
+        last_search_request = time.monotonic()
         query = urllib.parse.urlencode({"query": f"{name} {brand}", "language": "en",
                                         "page": 1, "page_size": details_per_search})
         try:
@@ -685,6 +694,10 @@ def run_raneen(source, catalogs, checked_at):
                 continue
             seen_skus.add(sku)
             detail_url = base + "/products/" + urllib.parse.quote(sku, safe="") + "?language=en"
+            wait = 1.1 - (time.monotonic() - last_detail_request)
+            if last_detail_request and wait > 0:
+                time.sleep(wait)
+            last_detail_request = time.monotonic()
             try:
                 detail = get_json(detail_url, timeout=30)
             except Exception:
