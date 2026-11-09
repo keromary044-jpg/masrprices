@@ -651,6 +651,20 @@
       "category": "الشبكات والإنترنت",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+    },
+    {
+      "name": "راوتر TP-Link TL-MR6400 واي فاي 300 ميجابت 4G",
+      "category": "راوترات",
+      "brand": "TP-Link",
+      "model": "TL-MR6400",
+      "sku": "EL1115839BLK-conf",
+      "price": 3049,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/el1115839blk-2",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاح وقت التحقق؛ السعر المنشور 3,049 جنيه."
     }
   ],
   "updatedAt": "2026-11-09",
