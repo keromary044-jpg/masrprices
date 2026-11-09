@@ -6,6 +6,7 @@ import re
 import sys
 import unicodedata
 import urllib.parse
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -48,6 +49,36 @@ def get_json(url, headers=None, timeout=30):
     if len(raw) > MAX_BYTES:
         raise ValueError("Provider response exceeds 5 MB")
     return json.loads(raw.decode("utf-8"))
+
+def apish_error_diagnostic(exc):
+    """Return safe, provider-supplied billing diagnostics without exposing credentials."""
+    details = {}
+    headers = getattr(exc, "headers", None)
+    if headers:
+        request_id = headers.get("x-request-id")
+        if request_id:
+            details["request_id"] = str(request_id)[:160]
+    try:
+        raw = exc.read(12000)
+        body = json.loads(raw.decode("utf-8", errors="replace")) if raw else {}
+    except Exception:
+        body = {}
+    if isinstance(body, dict):
+        for key in (
+            "error", "message", "credits_required", "credits_remaining",
+            "key_cap", "key_spent", "spend_limit", "limit", "spent", "resets_at"
+        ):
+            value = body.get(key)
+            if isinstance(value, (str, int, float)) and not isinstance(value, bool):
+                details[key] = str(value)[:500] if isinstance(value, str) else value
+        nested = body.get("details")
+        if isinstance(nested, dict):
+            for key in ("error", "credits_required", "credits_remaining", "key_cap",
+                        "key_spent", "spend_limit", "limit", "spent", "resets_at"):
+                value = nested.get(key)
+                if isinstance(value, (str, int, float)) and not isinstance(value, bool):
+                    details[key] = str(value)[:500] if isinstance(value, str) else value
+    return details
 
 def load_catalogs():
     catalogs = {}
@@ -372,7 +403,8 @@ def run_apish_jumia(source, catalogs, checked_at):
             request_errors += 1
             status = getattr(exc, "code", "")
             if status == 402:
-                print(f"BLOCKED {source['id']}: API.SH returned 402; stopping this source until its credit cap/balance is restored")
+                diagnostic = apish_error_diagnostic(exc)
+                print(f"BLOCKED {source['id']}: API.SH 402 billing restriction; diagnostics={json.dumps(diagnostic, ensure_ascii=False, sort_keys=True)}; stopping this source without spending more calls")
                 break
             print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__} status={status}); continuing")
             continue
@@ -420,7 +452,7 @@ def run_apish_noon(source, catalogs, checked_at):
     coverage = source.get("coverage", [])
     source_catalogs = {name: catalog for name, catalog in catalogs.items() if name in coverage}
     source_index = build_exact_index(source_catalogs)
-    candidates = build_search_candidates(source_catalogs)
+    candidates = build_search_candidates(source_catalogs, checked_at)
 
     if not candidates:
         print(f"OK {source['id']}: no eligible catalog products")
@@ -448,7 +480,8 @@ def run_apish_noon(source, catalogs, checked_at):
             request_errors += 1
             status = getattr(exc, "code", "")
             if status == 402:
-                print(f"BLOCKED {source['id']}: API.SH returned 402; stopping this source until its credit cap/balance is restored")
+                diagnostic = apish_error_diagnostic(exc)
+                print(f"BLOCKED {source['id']}: API.SH 402 billing restriction; diagnostics={json.dumps(diagnostic, ensure_ascii=False, sort_keys=True)}; stopping this source without spending more calls")
                 break
             print(f"WARNING {source['id']}: one product search failed ({type(exc).__name__} status={status}); continuing")
             continue
