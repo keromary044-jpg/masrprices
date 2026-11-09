@@ -76,20 +76,7 @@ jobs:
           if [ "${{ github.event_name }}" = "schedule" ]; then
             python price-updater/github_actions_updater.py
           else
-            python - <<'PY'
-            import sys
-            sys.path.insert(0, "price-updater")
-            import github_actions_updater as updater
-            def skipped(*args, **kwargs):
-                print("SKIPPED: paid/keyed provider is schedule-only")
-                return 0
-            updater.run_pricelens = skipped
-            updater.run_sama_link = skipped
-            updater.run_apish_jumia = skipped
-            updater.run_apish_noon = skipped
-            updater.run_open_prices = skipped
-            raise SystemExit(updater.main())
-            PY
+            python -c 'import sys; sys.path.insert(0, "price-updater"); import github_actions_updater as u; skip=lambda *a, **k: 0; u.run_pricelens=skip; u.run_sama_link=skip; u.run_apish_jumia=skip; u.run_apish_noon=skip; u.run_open_prices=skip; raise SystemExit(u.main())'
           fi
       - name: Build complete product price coverage report
         run: python price-updater/coverage_report.py
