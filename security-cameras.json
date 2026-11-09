@@ -426,11 +426,14 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "كاميرا PoE – 4MP",
-      "brand": "ماركات متعددة",
+      "name": "Skyworth SKH-154D8S-4CPT 4MP PoE IP Camera",
+      "brand": "Skyworth",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2150,
+      "details": "موديل Skyworth محدد بدقة 4MP؛ السعر المنشور 2,150 جنيهًا.",
+      "merchant": "GO SMART",
+      "source": "https://gosmart-eg.com/en/products/",
+      "checkedAt": "2026-11-09"
     },
     {
       "name": "كاميرا PoE – 5MP",
