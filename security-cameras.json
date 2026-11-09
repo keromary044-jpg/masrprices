@@ -457,11 +457,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا PoE – عدسة 2.8 مم",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD2186G2-I 8MP PoE Dome Camera 2.8mm",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 7280,
+      "details": "كاميرا IP داخلية 8MP بعدسة 2.8mm وتغذية PoE؛ السعر المنشور 7,280 جنيهًا.",
+      "merchant": "FastEgy",
+      "source": "https://www.fastegy.net/ar/shop/ds-2cd2186g2-i-2-8mm-5376",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كاميرا Bullet – 2MP",
@@ -471,18 +475,26 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "كاميرا Bullet – 4MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD1043G2-LIU 4MP PoE Bullet Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2890,
+      "details": "كاميرا Bullet خارجية 4MP بعدسة 4mm وتغذية PoE؛ السعر المنشور 2,890 جنيهًا.",
+      "merchant": "FastEgy",
+      "source": "https://www.fastegy.net/shop/ds-2cd1043g2-liu-4mm-2029",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا Bullet – 5MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD1053G0-I 5MP PoE Bullet Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2975,
+      "details": "كاميرا Bullet ثابتة 5MP؛ السعر المنشور 2,975 جنيهًا.",
+      "merchant": "FastEgy",
+      "source": "https://www.fastegy.net/shop/category/cctv-ip-surveillance-products-ip-camera-5-mega-819",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كاميرا Bullet – 8MP",
@@ -513,18 +525,26 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "كاميرا Dome – 5MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD1153G0-I 5MP PoE Dome Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3250,
+      "details": "كاميرا Dome ثابتة 5MP بعدسة 2.8mm وتغذية PoE؛ السعر المنشور 3,250 جنيهًا.",
+      "merchant": "FastEgy",
+      "source": "https://www.fastegy.net/shop/ds-2cd1153g0-i-2-8mm-2048",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا Dome – 8MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD1183G2-LIU 8MP PoE Dome Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 5980,
+      "details": "كاميرا Dome ثابتة 8MP؛ السعر المنشور 5,980 جنيهًا.",
+      "merchant": "FastEgy",
+      "source": "https://www.fastegy.net/ar/shop/category/kmyrt-lmrqb-mntjt-lmrqb-ip-kmyrt-ip-706/page/2",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كاميرا Dome – عدسة 2.8 مم",
