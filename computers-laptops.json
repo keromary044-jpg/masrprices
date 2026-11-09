@@ -1240,6 +1240,20 @@
       "category": "الكمبيوتر واللاب توب",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+    },
+    {
+      "name": "لابتوب Lenovo IdeaPad Slim 3 15IRH10 Core i7-13620H 16GB RAM 512GB SSD",
+      "category": "لابتوبات",
+      "brand": "Lenovo",
+      "model": "83K100E8AX",
+      "sku": "83K100E8AX-conf",
+      "price": 43524,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/lenovo-ideapad-slim-3-15irh10-laptop-intel-core-i7-13620h-processor-15-3-inch-wuxga-display-512-gb-ssd-16-gb-ram-ddr5-intel-uhd-graphics-dos-luna-grey-83k100e8ax-2",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاح وقت التحقق؛ السعر المنشور 43,524 جنيه."
     }
   ],
   "updatedAt": "2026-11-09",
