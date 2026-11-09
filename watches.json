@@ -2442,14 +2442,18 @@
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "ساعة GPS – لون أزرق",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "Casio AQ-230EM-7ADF Vintage Unisex Watch",
@@ -3951,5 +3955,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:04 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
 }

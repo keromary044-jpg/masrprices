@@ -578,14 +578,18 @@
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "Gaming PC – نسخة رقمية",
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "Gaming PC – حزمة مع لعبة",
@@ -1063,5 +1067,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:04 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
 }

@@ -526,14 +526,25 @@
       "name": "TP-Link Deco E4 (3-Pack) Whole Home Mesh Wi-Fi System AC1200",
       "brand": "TP-Link",
       "category": "الشبكات والإنترنت",
-      "price": 5200,
+      "price": 1399.0,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "model": "Deco E4",
       "unit": "3-Pack AC1200",
-      "merchant": "Dream 2000",
-      "source": "https://dream2000.com/products/tp-link-deco-e4-3-packs-whole-home-mesh-wi-fi-system-ac1200",
-      "checkedAt": "2026-11-09",
-      "priceStatus": "verified"
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/en/tp-link-c54-ac1200-internet-router-dual-band-wireless-mu-mimo-technology-4-external-antennas-multiple-modes-3-in-1-wide-range-parental-control-black-2",
+      "checkedAt": "2026-11-09 15:11 Cairo",
+      "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 1399.0,
+          "source": "https://www.raneen.com/en/tp-link-c54-ac1200-internet-router-dual-band-wireless-mu-mimo-technology-4-external-antennas-multiple-modes-3-in-1-wide-range-parental-control-black-2",
+          "sourceLabel": "Raneen Public Catalogue API",
+          "checkedAt": "2026-11-09 15:11 Cairo",
+          "variant": "egyptlaptop"
+        }
+      ],
+      "priceProvider": "Raneen Public Catalogue API"
     },
     {
       "name": "مقوي إشارة Wi-Fi – منفذ واحد",
@@ -620,7 +631,9 @@
       "brand": "ماركات متعددة",
       "category": "الشبكات والإنترنت",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "سويتش شبكة – 4 منافذ",
@@ -654,7 +667,9 @@
       "brand": "ماركات متعددة",
       "category": "الشبكات والإنترنت",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "راوتر TP-Link TL-MR6400 واي فاي 300 ميجابت 4G",
@@ -932,5 +947,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:04 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
 }

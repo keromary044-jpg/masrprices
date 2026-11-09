@@ -610,14 +610,18 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "بيجامة رضاعة – كبير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "بيجامة رضاعة – طقم",
@@ -980,5 +984,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:04 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
 }

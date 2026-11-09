@@ -1540,7 +1540,9 @@
       "brand": "ماركات متعددة",
       "category": "عطور",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "رذاذ جسم – عبوة 100 مل",
@@ -1583,7 +1585,9 @@
       "brand": "ماركات متعددة",
       "category": "عطور",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
       "name": "رذاذ جسم – عبوة زجاجية",
@@ -2763,5 +2767,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 15:04 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:11 Cairo"
 }

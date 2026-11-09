@@ -194,7 +194,9 @@
     "merchant": null,
     "source": null,
     "checkedAt": null,
-    "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
   },
   {
     "id": "baby-nailcare",
@@ -654,7 +656,9 @@
     "merchant": null,
     "source": null,
     "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
   },
   {
     "id": "baby-products-كريم-مرطب-للأطفال-sebamed-baby-أحجام-مختلفة",
