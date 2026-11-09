@@ -488,13 +488,24 @@
     "category": "حفاضات سراويل",
     "brand": "Molfix",
     "unit": "أنواع ومقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب.",
+    "price": 278,
+    "merchant": "Lotus Pharmacies",
+    "source": "https://www.lotusonline.com/products/molfix-pants-midi-no-3-4-9-kg-31-piece",
+    "checkedAt": "2026-11-09",
+    "details": "تم التحقق من السعر لنسخة مقاس 3 (4–9 كجم)، عبوة 31 قطعة؛ قد تختلف الأسعار حسب المقاس.",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+    "priceOffers": [
+      {
+        "merchant": "Lotus Pharmacies",
+        "priceEGP": 278,
+        "source": "https://www.lotusonline.com/products/molfix-pants-midi-no-3-4-9-kg-31-piece",
+        "sourceLabel": "Lotus Pharmacies",
+        "checkedAt": "2026-11-09",
+        "variant": "Size 3 (4–9 kg), 31 pieces"
+      }
+    ],
+    "priceStatus": "سعر ظاهر على صفحة المنتج مع إمكانية الإضافة للسلة"
   },
   {
     "id": "baby-products-حفاضات-سباحة-للأطفال-متعدد-مقاسات-متعددة",
