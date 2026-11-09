@@ -186,15 +186,16 @@
   },
   {
     "id": "sports-شبكة-مرمى-كرة-قدم-متعدد-مقاسات-متعددة",
-    "name": "شبكة مرمى كرة قدم",
+    "name": "Nike Pitch Football Soccer Ball",
     "category": "معدات ملاعب",
-    "brand": "متعدد",
-    "unit": "مقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "brand": "Nike",
+    "unit": "كرة مقاس 3/4/5",
+    "price": 1150,
+    "merchant": "WayUp Sports",
+    "source": "https://www.lowqta.com/ar/deal/wayup-8725274099950/pitch-football-soccer-ball",
+    "checkedAt": "2026-11-05",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "sports-قفازات-حارس-مرمى-adidas-مقاسات-متعددة",

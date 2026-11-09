@@ -848,11 +848,16 @@
   },
   {
     "id": "catalog-furniture-0029",
-    "name": "كرسي مكتب – خشب MDF",
+    "name": "IKEA BALTSAR Swivel Chair",
     "category": "أثاث",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "IKEA",
+    "price": 8995,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "unit": "كرسي",
+    "merchant": "IKEA Egypt",
+    "source": "https://www.lowqta.com/ar/deal/ikea-10511538/baltsar-swivel-chair",
+    "checkedAt": "2026-11-06",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "catalog-furniture-0030",

@@ -171,14 +171,16 @@
   },
   {
     "id": "baby-diaper-cream",
-    "name": "كريم تغيير الحفاض",
+    "name": "Moist-1 Baby Nappy Cream 150ml",
     "category": "العناية اليومية",
-    "brand": "متعدد",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    "brand": "Moist-1",
+    "price": 131,
+    "merchant": "Amazon Egypt",
+    "source": "https://www.lowqta.com/ar/deal/amz-B0CWP59S2K/moist-1-baby-nappy-cream-150-ml-skin-protectant",
+    "checkedAt": "2026-11-08",
+    "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء.",
+    "unit": "عبوة 150 مل",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "baby-thermometer",

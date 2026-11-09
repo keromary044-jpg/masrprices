@@ -405,15 +405,17 @@
   },
   {
     "id": "elx-0004",
-    "name": "Samsung QLED Q60 55",
+    "name": "Samsung Q85F Neo QLED 4K 55 Inch",
     "category": "الشاشات والتلفزيونات",
     "brand": "Samsung",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 42989,
+    "merchant": "Ehab Center",
+    "source": "https://www.lowqta.com/ar/store/ehab-center/electronics",
+    "checkedAt": "2026-11-08",
+    "priceStatus": "observed_store_price",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "model": "Q85F 55",
+    "unit": "جهاز"
   },
   {
     "id": "elx-0005",
