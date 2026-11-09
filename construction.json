@@ -267,14 +267,18 @@
     "details": "QSM market observation 21 Oct 2026؛ السعر بحسب مواصفة ووحدة المصدر، وقد لا يشمل النقل أو هامش التاجر أو الضريبة في بعض البنود."
   },
   {
-    "name": "طوب أسمنتي مفرغ – مقاس صغير",
+    "name": "بلوك أسمنتي مفرغ 40×20×20 سم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 19649,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/bricks",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "1000 بلوكة",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 16 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "بلوك خرساني مفرغ 20×20×40 سم",
@@ -291,34 +295,46 @@
     "details": "QSM market observation 16 Oct 2026؛ السعر بحسب مواصفة ووحدة المصدر، وقد لا يشمل النقل أو هامش التاجر أو الضريبة في بعض البنود."
   },
   {
-    "name": "رمل ناعم – مقاس صغير",
+    "name": "رمل ناعم (رمل مونة) – سعر المتر المكعب",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 200,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/ar/egypt/aggregates",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م³",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 16 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
-    "name": "رمل خشن – مقاس صغير",
+    "name": "زلط عادي للخرسانة مقاس 5–25 مم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 440,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/ar/egypt/aggregates",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م³",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 21 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
-    "name": "زلط فينو – مقاس صغير",
+    "name": "زلط فينو طبيعي 5–10 مم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 550,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/ar/egypt/aggregates",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م³",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 30 سبتمبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "زلط سن – مقاس صغير",
@@ -331,24 +347,32 @@
     "unit": "غير محدد"
   },
   {
-    "name": "سن دولوميت – مقاس صغير",
+    "name": "سن دولوميت – سن 2",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 430,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/ar/egypt/aggregates",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م³",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 30 سبتمبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
-    "name": "جبس بناء – مقاس صغير",
+    "name": "جبس فاخر للفرم والحليات والمصيص",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 2100,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/gypsum",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "طن",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 16 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "جبس باريس – مقاس صغير",
@@ -471,24 +495,32 @@
     "unit": "غير محدد"
   },
   {
-    "name": "مواد عزل مائي – مقاس صغير",
+    "name": "عزل إسمنتي مرن SikaTop Seal-107 Elastic",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 140,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/insulation",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "كجم",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 21 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
-    "name": "لفائف بيتومين – مقاس صغير",
+    "name": "لفائف عزل بيتومين مسلح بوليستر سمك 3 مم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 175,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/insulation",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م²",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 30 سبتمبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "سعر دهان بلاستيك، عبوة 9 لتر",
@@ -501,24 +533,32 @@
     "unit": "جردل 9 لتر"
   },
   {
-    "name": "دهان زيتي – مقاس صغير",
+    "name": "دهان زيتي مطفي Sipes High Matt 101 – جالون",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 356,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/paints",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "جالون 3–3.25 كجم",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 25 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
-    "name": "برايمر حوائط – مقاس صغير",
+    "name": "سيلر مائي أكريليك للحوائط – جردل 9 لتر",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 445,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/paints",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "جردل 9 لتر",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 21 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "معجون حوائط – مقاس صغير",
@@ -581,24 +621,32 @@
     "unit": "غير محدد"
   },
   {
-    "name": "ألواح جبس بورد – مقاس صغير",
+    "name": "لوح جبس بورد مقاوم للحريق أحمر 12.5 مم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 452,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/gypsum",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "لوح",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 25 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
-    "name": "قطاعات جبس بورد – مقاس صغير",
+    "name": "قطاع أوميجا مجلفن لسقف جبس بورد طول 3 متر",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 119,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/gypsum",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "قطعة",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 25 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "ألواح أسمنتية – مقاس صغير",
@@ -651,14 +699,18 @@
     "unit": "غير محدد"
   },
   {
-    "name": "شبابيك ألومنيوم – مقاس صغير",
+    "name": "شباك ألومنيوم جرار قطاع اقتصادي بزجاج 4–6 مم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 2500,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/aluminium",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م² شامل التركيب",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 27 فبراير 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "قطاعات ألومنيوم – مقاس صغير",
@@ -671,24 +723,32 @@
     "unit": "غير محدد"
   },
   {
-    "name": "زجاج شفاف – مقاس صغير",
+    "name": "زجاج شفاف Float سمك 4 مم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 320,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/aluminium",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م²",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 29 أبريل 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
-    "name": "زجاج سيكوريت – مقاس صغير",
+    "name": "زجاج سيكوريت شفاف سمك 6 مم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 616,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/aluminium",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م²",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 6 مايو 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "مواسير PVC – مقاس صغير",
@@ -701,14 +761,18 @@
     "unit": "غير محدد"
   },
   {
-    "name": "مواسير UPVC – مقاس صغير",
+    "name": "شباك UPVC جرار أبيض قطاع 88 مم بزجاج مفرد",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 3750,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/aluminium",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "م² شامل التركيب",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 30 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "أسمنت السويس بورتلاندي CEM I 42.5N",
@@ -1027,14 +1091,18 @@
     "unit": "غير محدد"
   },
   {
-    "name": "دهان بلاستيك – مقاس متوسط",
+    "name": "دهان بلاستيك داخلي نصف لامع قابل للغسيل – جردل 9 لتر",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 1612,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt/paints",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "جردل 9 لتر",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 25 أكتوبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "دهان زيتي – مقاس متوسط",
@@ -1067,14 +1135,18 @@
     "unit": "غير محدد"
   },
   {
-    "name": "لاصق سيراميك – مقاس متوسط",
+    "name": "لاصق بلاط سيراميك – كيس 25 كجم",
     "category": "مواد بناء",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 175,
+    "merchant": "QS Mind Market Database",
+    "source": "https://prices.qsmind.app/en/egypt",
+    "checkedAt": "2026-11-09",
     "spec": "بيانات تعريفية؛ السعر والوحدة يحتاجان تحققًا من المورد",
-    "unit": "غير محدد"
+    "unit": "كيس 25 كجم",
+    "brand": "QS Mind – أسعار سوق القاهرة",
+    "currency": "EGP",
+    "priceStatus": "market_observation",
+    "details": "مرصود 9 نوفمبر 2026؛ السعر بوحدة المصدر وبشروط التوريد/التركيب المذكورة، وقد لا يشمل النقل أو التركيب في البنود غير المحددة."
   },
   {
     "name": "روبة فواصل – مقاس متوسط",
