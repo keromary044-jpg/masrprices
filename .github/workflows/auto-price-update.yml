@@ -65,6 +65,9 @@ jobs:
       - name: Test price source matching and safety rules
         run: python -m unittest discover -s price-updater -p 'test_*.py'
       - name: Fetch and validate authorized price feeds
+        # Avoid spending API.SH credits on ordinary code/catalog pushes.
+        # Provider calls run only on the daily schedule or manual dispatch.
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
           PRICELENS_API_KEY: ${{ secrets.PRICELENS_API_KEY }}
           SAMA_LINK_API_KEY: ${{ secrets.SAMA_LINK_API_KEY }}
