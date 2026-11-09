@@ -436,11 +436,14 @@
       "checkedAt": "2026-11-09"
     },
     {
-      "name": "كاميرا PoE – 5MP",
-      "brand": "ماركات متعددة",
+      "name": "Skyworth SKH-I45D2H-2AP 5MP PoE IP Camera",
+      "brand": "Skyworth",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2000,
+      "details": "موديل Skyworth محدد بدقة 5MP؛ السعر المنشور 2,000 جنيه.",
+      "merchant": "GO SMART",
+      "source": "https://gosmart-eg.com/en/products/",
+      "checkedAt": "2026-11-09"
     },
     {
       "name": "كاميرا PoE – 8MP",
