@@ -116,13 +116,13 @@
       "name": "HP LaserJet M111w Wireless Printer 7MD68A",
       "brand": "HP",
       "category": "مستلزمات",
-      "price": 6999,
-      "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
+      "price": 7299,
+      "priceStatus": "السعر الظاهر حاليًا في قائمة طابعات 2B بتاريخ 9 نوفمبر 2026.",
       "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
       "unit": "Wireless laser printer",
       "merchant": "2B",
-      "source": "https://kolasaar.com/eg/en/printers/",
-      "checkedAt": "2026-11-08"
+      "source": "https://2b.com.eg/en/computers/printers.html",
+      "checkedAt": "2026-11-09"
     },
     {
       "name": "Canon i-SENSYS LBP6030B Laser Printer",
@@ -602,6 +602,18 @@
       "category": "الطابعات والأحبار",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+    },
+    {
+      "id": "printer-canon-pixma-mg2541s-2b",
+      "name": "Canon PIXMA MG2541S Printer All-In-One - Grey",
+      "brand": "Canon",
+      "category": "طابعات",
+      "unit": "طابعة متعددة الوظائف",
+      "price": 2199,
+      "merchant": "2B",
+      "source": "https://2b.com.eg/en/computers/printers.html",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "السعر ظاهر في قائمة طابعات 2B بتاريخ 9 نوفمبر 2026."
     }
   ]
 }
