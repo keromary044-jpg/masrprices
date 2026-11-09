@@ -4315,12 +4315,23 @@
     "name": "JBL Charge 5",
     "category": "سماعات ومكبرات صوت",
     "brand": "JBL",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8999,
+    "merchant": "Al Tawheed",
+    "source": "https://shop.altawheedgroup.com/product/jbl-charge-5-portable-bluetooth-speaker-red/",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "السعر والتوفر معلنان في قائمة المتجر؛ تحقق من السعر النهائي عند الطلب",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceOffers": [
+      {
+        "merchant": "Al Tawheed",
+        "priceEGP": 8999,
+        "source": "https://shop.altawheedgroup.com/product/jbl-charge-5-portable-bluetooth-speaker-red/",
+        "sourceLabel": "Al Tawheed online catalogue",
+        "checkedAt": "2026-11-09",
+        "variant": "Red; JBL Charge 5"
+      }
+    ],
+    "priceProvider": "Al Tawheed online catalogue"
   },
   {
     "id": "elx-0325",
