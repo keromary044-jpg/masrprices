@@ -419,8 +419,7 @@ def run_apish_noon(source, catalogs, checked_at):
     if not isinstance(max_calls, int) or max_calls < 1:
         raise ValueError("API.SH noon max_calls_per_run must be a positive integer")
     max_calls = min(max_calls, 15)
-    # Search unpriced phones first. Attempts are persisted so failed searches
-    # move behind phones that have not yet been checked.
+    # Rotate across catalogs; count an attempt only after a successful API response.
     selected = candidates[:min(max_calls, len(candidates))]
 
     accepted = scanned = request_errors = 0
@@ -429,7 +428,6 @@ def run_apish_noon(source, catalogs, checked_at):
         raise ValueError("Invalid API.SH noon endpoint")
     headers = {"x-api-key": key}
     for name, brand, catalog_product in selected:
-        mark_search_attempt(catalog_product, checked_at)
         params = urllib.parse.urlencode({
             "q": name, "country": "eg", "language": "ar", "sort": "price_asc", "page": 1, "limit": 50
         })
