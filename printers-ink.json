@@ -445,13 +445,17 @@
       "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
     },
     {
-      "name": "طابعة صور – سعة قياسية",
-      "brand": "ماركات متعددة",
+      "name": "Canon PIXMA TS3640 Wireless Colour Inkjet Printer",
+      "brand": "Canon",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 2924,
+      "details": "طابعة Canon PIXMA TS3640 ملونة متعددة الوظائف مع Wi-Fi؛ أقل سعر متاح مرصود 2,924 جنيهًا بتاريخ 8 نوفمبر 2026.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+      "merchant": "Raneen Egypt",
+      "source": "https://priceteq.com/eg/product/6e4353f9-e23e-43ce-813d-99ed6d1be9b6",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Jainsha GA-E200I Thermal Receipt Printer",
