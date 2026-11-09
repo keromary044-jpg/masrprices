@@ -285,15 +285,16 @@
   },
   {
     "id": "sports-زجاجة-مياه-رياضية-متعدد-سعات-متعددة",
-    "name": "زجاجة مياه رياضية",
+    "name": "DECATHLON Sports Water Bottle 650ml",
     "category": "إكسسوارات رياضية",
-    "brand": "متعدد",
+    "brand": "DECATHLON",
     "unit": "سعات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 499,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/p/347994-123318-sports-water-bottle-650ml.html",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "سعر منشور في متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "sports-بساط-يوغا-متعدد-سُمك-ومقاسات-متعددة",
@@ -1366,19 +1367,27 @@
   },
   {
     "id": "catalog-sports-0079",
-    "name": "كرة بادل – مقاس صغير",
+    "name": "KUIKMA Padel Balls PB Club Pack of 3",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KUIKMA",
+    "price": 319,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/13275-padel-rackets-balls",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "catalog-sports-0080",
-    "name": "كرة بادل – مقاس متوسط",
+    "name": "KUIKMA Pressurised Padel Balls PB Speed Tri-Pack",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KUIKMA",
+    "price": 799,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/13275-padel-rackets-balls",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
   },
   {
     "id": "catalog-sports-0081",
