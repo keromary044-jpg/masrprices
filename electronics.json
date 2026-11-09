@@ -4518,12 +4518,23 @@
     "name": "Anker Soundcore Q20i",
     "category": "سماعات ومكبرات صوت",
     "brand": "Anker Soundcore",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2599,
+    "merchant": "Amazon Egypt",
+    "source": "https://prices.askyasser.com/en/price/soundcore-by-anker-q20i-hybrid-active-noise-cancelling-headphones-wireless-over-116582",
+    "checkedAt": "2026-11-07",
+    "priceStatus": "سعر مرصود من متتبع أسعار؛ التوفر كان معلنًا وقت آخر تحديث",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceOffers": [
+      {
+        "merchant": "Amazon Egypt",
+        "priceEGP": 2599,
+        "source": "https://prices.askyasser.com/en/price/soundcore-by-anker-q20i-hybrid-active-noise-cancelling-headphones-wireless-over-116582",
+        "sourceLabel": "Ask Yasser price tracker — Amazon Egypt",
+        "checkedAt": "2026-11-07",
+        "variant": "Blue; Soundcore Q20i"
+      }
+    ],
+    "priceProvider": "Ask Yasser price tracker — Amazon Egypt"
   },
   {
     "id": "elx-0341",
