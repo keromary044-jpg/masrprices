@@ -2602,5 +2602,83 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
     "details": "سعر القائمة 7,250 جنيه."
+  },
+  {
+    "name": "غسالة سامسونج تحميل أمامي 9 كجم WW90T4040CX1AS إنفرتر وبخار",
+    "category": "غسالات",
+    "brand": "Samsung",
+    "model": "WW90T4040CX1AS",
+    "price": 25400,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://www.elghazawy.com/public/en/sub-category/home-appliances?brand%5B0%5D=27&ct=49&ordered=price&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "سعر القائمة 25,400 جنيه."
+  },
+  {
+    "name": "غسالة سامسونج تحميل أمامي 8 كجم WW80CGC0EDABAS إنفرتر وبخار",
+    "category": "غسالات",
+    "brand": "Samsung",
+    "model": "WW80CGC0EDABAS",
+    "price": 26200,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://www.elghazawy.com/public/en/sub-category/home-appliances?brand%5B0%5D=27&ct=49&ordered=price&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "سعر القائمة 26,200 جنيه."
+  },
+  {
+    "name": "ثلاجة سامسونج 340 لتر نوفروست RB34C671ES9-MR فضي",
+    "category": "ثلاجات",
+    "brand": "Samsung",
+    "model": "RB34C671ES9-MR",
+    "price": 28900,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://www.elghazawy.com/public/en/sub-category/home-appliances?brand%5B0%5D=27&ct=49&ordered=price&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "سعر القائمة 28,900 جنيه."
+  },
+  {
+    "name": "غسالة سامسونج تحميل علوي 19 كجم WA80F19S8BAS ديجيتال إنفرتر",
+    "category": "غسالات",
+    "brand": "Samsung",
+    "model": "WA80F19S8BAS",
+    "price": 30899,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://www.elghazawy.com/public/en/sub-category/home-appliances?brand%5B0%5D=27&ct=49&ordered=price&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "السعر الحالي 30,899 جنيه؛ السعر السابق المعروض 33,900 جنيه."
+  },
+  {
+    "name": "ثلاجة سامسونج سايد باي سايد 659 لتر RS70F65QAT-MR فضي",
+    "category": "ثلاجات",
+    "brand": "Samsung",
+    "model": "RS70F65QAT-MR",
+    "price": 83999,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://www.elghazawy.com/public/en/sub-category/home-appliances?brand%5B0%5D=27&ct=49&ordered=price&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "سعر القائمة 83,999 جنيه."
+  },
+  {
+    "name": "ثلاجة سامسونج سايد باي سايد 640 لتر RS70F64KAF-MR أسود",
+    "category": "ثلاجات",
+    "brand": "Samsung",
+    "model": "RS70F64KAF-MR",
+    "price": 89990,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://www.elghazawy.com/public/en/sub-category/home-appliances?brand%5B0%5D=27&ct=49&ordered=price&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "سعر القائمة 89,990 جنيه."
   }
 ]
