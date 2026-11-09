@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-09",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -16573,8 +16573,8 @@
       "priceAvailability": "out_of_stock",
       "priceSourceUrl": "https://reekoo-mobile.com/phones/note-60-max/",
       "priceCheckedAt": "2026-11-08",
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo"
+      "priceSearchAttempts": 30,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
     },
     {
       "id": "reekoo-note-70",
@@ -17098,8 +17098,8 @@
       },
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://symphony-mobile.com/category/smart-phone",
-      "priceSearchAttempts": 28,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo"
+      "priceSearchAttempts": 30,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
     },
     {
       "id": "symphony-z47",
@@ -17132,8 +17132,8 @@
       },
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://symphony-mobile.com/category/smart-phone",
-      "priceSearchAttempts": 28,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo"
+      "priceSearchAttempts": 30,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
     },
     {
       "id": "symphony-max-70",
@@ -17166,8 +17166,8 @@
       },
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://symphony-mobile.com/category/smart-phone",
-      "priceSearchAttempts": 28,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo"
+      "priceSearchAttempts": 30,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
     },
     {
       "id": "symphony-max-60",
@@ -17200,8 +17200,8 @@
       },
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://symphony-mobile.com/category/smart-phone",
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo"
+      "priceSearchAttempts": 30,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
     },
     {
       "id": "symphony-innova-40",
@@ -17252,8 +17252,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -17279,8 +17279,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -17306,8 +17306,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -17333,8 +17333,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -17360,8 +17360,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -17387,8 +17387,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -17414,8 +17414,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -17470,8 +17470,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -17497,8 +17497,8 @@
       "priceStatus": "الموديل مدرج ضمن قوائم اعتماد الأجهزة لدى NTRA، لكن لم يُعثر على عرض بيع مصري حديث مطابق لاسم الموديل نفسه. أسعار موديلات Celphy الأخرى مثل C500 وC600 لا تُستخدم بديلًا عنه.",
       "availabilityNote": "اعتماد سابق في سجل NTRA؛ لا يثبت البيع حاليًا في مصر",
       "priceOffers": [],
-      "priceSearchAttempts": 29,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo",
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo",
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://www.tra.gov.eg/wp-content/uploads/2025/09/الأجهزة-المعتمدة.pdf"
     },
@@ -21071,8 +21071,8 @@
       "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
       "catalogStatus": "historical_model",
       "priceCheckedAt": "2026-11-08",
-      "priceSearchAttempts": 28,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo"
+      "priceSearchAttempts": 30,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
     },
     {
       "id": "xiaomi-blackshark",
@@ -21486,8 +21486,8 @@
       "availabilityStatus": "موديل مدرج في دليل تاريخي/عام؛ لا يعني أنه متاح للبيع حاليًا في مصر",
       "catalogStatus": "historical_model",
       "priceCheckedAt": "2026-11-08",
-      "priceSearchAttempts": 28,
-      "priceSearchLastAttempt": "2026-11-08 23:24 Cairo"
+      "priceSearchAttempts": 30,
+      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
     },
     {
       "id": "xiaomi-xiaomimi2a",
@@ -30067,6 +30067,6 @@
     }
   ],
   "priceUpdateNote": "استكمال مراجعة الموديلات الستة عشر التي لم يكن لها سعر: أضيفت أسعار Symphony بعملة BDT كمرجع أجنبي منفصل دون تحويلها إلى جنيه مصري أو احتسابها ضمن التغطية المصرية؛ تم توثيق نفاد مخزون Reekoo Note 60 MAX رسميًا؛ وتأكيد أن موديلات Celphy القديمة لا تطابق عروض C500/C600 الحالية، وأن Xiaomi Mi 1 تاريخي. لا توجد أسعار مصرية موثوقة لهذه السجلات حتى الآن.\nمراجعة يدوية بتاريخ 8 نوفمبر 2026: تم تحديث عروض متاجر مباشرة موثقة مع مطابقة الموديل وسعة التخزين والذاكرة؛ أسعار المتاجر لا تُعرض كسعر رسمي للشركة. تم توثيق نفاد عرض Raneen الأساسي لنسخة Galaxy A37 8GB/256GB مع وجود عرضين آخرين غير متحققين، وسعر iPhone 15 لدى Elshennawy قبل الضريبة. لم يتم تشغيل أو إثبات أي تكامل تلقائي جديد.",
-  "lastAutomaticUpdate": "2026-11-08 23:24 Cairo",
+  "lastAutomaticUpdate": "2026-11-09 10:44 Cairo",
   "lastManualPriceVerification": "2026-11-08T13:15:23+02:00"
 }
