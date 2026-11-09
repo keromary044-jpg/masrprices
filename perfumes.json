@@ -72,14 +72,17 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "بودي ميست",
-      "brand": "ماركات متعددة",
+      "name": "Victoria's Secret Love Spell Body Mist 250ml",
+      "brand": "Victoria's Secret",
       "category": "معطرات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "price": 575,
+      "priceStatus": "سعر منشور في قائمة المتجر بتاريخ 9 نوفمبر 2026؛ قد يختلف حسب البائع.",
+      "details": "بخاخ عطر الجسم Love Spell من Victoria's Secret، حجم 250 مل؛ السعر الظاهر في قائمة Noon Egypt.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/beauty/fragrance/body-mists-and-sprays/victorias_secret/youmsera/",
+      "checkedAt": "2026-11-09"
     },
     {
       "name": "معطر جسم",
