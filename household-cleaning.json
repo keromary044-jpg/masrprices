@@ -1488,17 +1488,18 @@
     },
     {
       "id": "home-clean-115",
-      "name": "إسفنج تنظيف أطباق – عبوة 10 قطع",
-      "brand": "ماركات متعددة",
+      "name": "Premiere Dishwashing Sponge 10 Pieces",
+      "brand": "Premiere",
       "category": "أدوات التنظيف",
       "unit": "عبوة 10 قطع",
-      "price": null,
-      "merchant": null,
-      "source": "https://www.jumia.com.eg/ar/household-cleaning/",
-      "priceStatus": "بانتظار مطابقة المنتج والعبوة مع مصدر بيع موثوق",
-      "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد.",
+      "price": 94.99,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY3021100",
+      "priceStatus": "سعر منشور في قائمة متجر كارفور بتاريخ 9 نوفمبر 2026.",
+      "details": "إسفنج أطباق Premiere، عبوة 10 قطع؛ السعر الظاهر في قسم الإسفنج وأدوات التنظيف لدى كارفور.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo",
+      "checkedAt": "2026-11-09"
     },
     {
       "id": "home-clean-116",
