@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-09",
   "currency": "EGP",
   "notice": "أسعار منشورة لدى كارفور مصر وقت الرصد؛ راجع المواصفات والتوافق مع فني مختص. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "products": [
@@ -1983,7 +1983,9 @@
       "merchant": "غير محدد",
       "source": "",
       "checkedAt": "",
-      "brand": "غير محدد"
+      "brand": "غير محدد",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
     },
     {
       "id": "electrical-catalog-177",
@@ -2729,5 +2731,6 @@
       "priceStatus": "market_observation",
       "details": "نحاس مجدول معزول PVC أخضر/أصفر 450/750 فولت؛ الموصل فقط، 27 أكتوبر 2026؛ توريد فقط ما لم يذكر خلاف ذلك، ولا يشمل التركيب."
     }
-  ]
+  ],
+  "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
 }

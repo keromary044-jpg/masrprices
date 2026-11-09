@@ -1157,7 +1157,9 @@
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
     },
     {
       "name": "كارت شاشة – Intel Core i3 / 8GB / 256GB",
@@ -1229,5 +1231,7 @@
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     }
-  ]
+  ],
+  "updatedAt": "2026-11-09",
+  "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
 }

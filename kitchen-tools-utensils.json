@@ -1326,7 +1326,9 @@
       "brand": "ماركات متعددة",
       "category": "أدوات وأواني المطبخ",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
     },
     {
       "name": "ترمس – طقم 3 قطع",
@@ -1636,5 +1638,7 @@
       "price": null,
       "details": "عنصر تعريفي بالكتالوج."
     }
-  ]
+  ],
+  "updatedAt": "2026-11-09",
+  "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
 }

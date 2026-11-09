@@ -575,7 +575,9 @@
       "merchant": "Raneen",
       "source": "https://www.elghazawy.com/public/en/sub-category/bags",
       "priceStatus": "سعر منشور في صفحة متجر/مقارنة مصرية بتاريخ الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء",
-      "checkedAt": "2026-11-08"
+      "checkedAt": "2026-11-08",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
     },
     {
       "name": "Nour Shopping Travel Bag Set 3 Pieces Fiber",
@@ -1224,5 +1226,7 @@
       "priceStatus": "سعر منشور في صفحة متجر إلكتروني وقت الرصد؛ يلزم إعادة التحقق عند التحديث",
       "checkedAt": "2026-11-08"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-09",
+  "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
 }

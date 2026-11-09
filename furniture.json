@@ -1083,7 +1083,9 @@
     "category": "أثاث",
     "brand": "متعدد",
     "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
   },
   {
     "id": "catalog-furniture-0047",

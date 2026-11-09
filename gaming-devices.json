@@ -629,7 +629,9 @@
       "brand": "ماركات متعددة",
       "category": "أجهزة الألعاب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
     },
     {
       "name": "Gaming Laptop – إصدار تخزين 2TB",
@@ -988,5 +990,7 @@
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     }
-  ]
+  ],
+  "updatedAt": "2026-11-09",
+  "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
 }

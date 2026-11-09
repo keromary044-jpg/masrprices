@@ -227,7 +227,9 @@
     "merchant": null,
     "source": null,
     "checkedAt": null,
-    "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء."
+    "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء.",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 10:48 Cairo"
   },
   {
     "id": "baby-schoolbag",
