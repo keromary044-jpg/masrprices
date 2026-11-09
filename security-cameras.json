@@ -622,11 +622,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا لاسلكية تعمل بالبطارية – عدسة 2.8 مم",
-      "brand": "ماركات متعددة",
+      "name": "EZVIZ CS-CB1-R100-1K2WF Battery-Powered Wi-Fi Indoor Security Camera 2MP 2.8mm",
+      "brand": "EZVIZ",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2270,
+      "details": "كاميرا EZVIZ CB1 داخلية تعمل بالبطارية بدقة 2MP وعدسة 2.8mm؛ السعر المنشور 2,270 جنيهًا، والمتجر يعرضها متاحة.",
+      "merchant": "Kimo Store",
+      "source": "https://kimostore.net/ar/collections/smart-surveillance-system/products/ezviz-cs-cb1-r100-1k2wf-battery-powered-wi-fi-indoor-security-camera-2mp-2-8mm-mic",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور والمنتج معروض للشراء لدى المتجر وقت الرصد"
     },
     {
       "name": "EZVIZ HP2 2MP Smart Door Viewer",
