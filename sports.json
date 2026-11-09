@@ -257,15 +257,16 @@
   },
   {
     "id": "sports-شنطة-رياضية-nike-أحجام-متعددة",
-    "name": "شنطة رياضية",
+    "name": "شنطة رياضية DECATHLON Club 100 سعة 75 لتر",
     "category": "حقائب رياضية",
     "brand": "Nike",
-    "unit": "أحجام متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "unit": "قطعة",
+    "price": 1799,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8628-sport-accessories",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "verified"
   },
   {
     "id": "sports-زجاجة-مياه-رياضية-متعدد-سعات-متعددة",
@@ -593,15 +594,16 @@
   },
   {
     "id": "sports-ساعة-إيقاف-رياضية-متعدد-قطعة",
-    "name": "ساعة إيقاف رياضية",
+    "name": "ساعة إيقاف DECATHLON W200",
     "category": "إكسسوارات رياضية",
     "brand": "متعدد",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 799,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8628-sport-accessories",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "verified"
   },
   {
     "id": "catalog-sports-0001",

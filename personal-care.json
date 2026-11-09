@@ -214,23 +214,27 @@
   },
   {
     "id": "personal-care-catalog-002",
-    "name": "شامبو للشعر الدهني – مقاس صغير",
+    "name": "شامبو Dove Nourishing Oil Care 350 مل",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 137.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Dove",
+    "unit": "350 مل",
+    "priceStatus": "verified"
   },
   {
     "id": "personal-care-catalog-003",
-    "name": "شامبو ضد القشرة – مقاس صغير",
+    "name": "شامبو Clear Hair Fall Defense ضد القشرة للرجال 360 مل",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 128.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Clear",
+    "unit": "360 مل",
+    "priceStatus": "verified"
   },
   {
     "id": "personal-care-catalog-004",
@@ -427,13 +431,15 @@
   },
   {
     "id": "personal-care-catalog-023",
-    "name": "معجون أسنان – مقاس صغير",
+    "name": "معجون أسنان Signal Whitening 50 مل",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 37.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "أسنان",
+    "unit": "50 مل",
+    "priceStatus": "verified"
   },
   {
     "id": "personal-care-catalog-024",
@@ -627,13 +633,15 @@
   },
   {
     "id": "personal-care-catalog-043",
-    "name": "غسول يدين – مقاس صغير",
+    "name": "غسول يدين Lifebuoy Mild Care سائل 450 مل",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 99.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "يدين",
+    "unit": "450 مل",
+    "priceStatus": "verified"
   },
   {
     "id": "personal-care-catalog-044",

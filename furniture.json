@@ -203,15 +203,16 @@
   },
   {
     "id": "furniture-مرتبة-سرير-مفرد-متعدد-مقاس-مفرد",
-    "name": "مرتبة سرير مفرد",
+    "name": "مرتبة Jan Deluxe مفرد 120×200 سم",
     "category": "مراتب",
     "brand": "متعدد",
-    "unit": "مقاس مفرد",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "unit": "قطعة",
+    "price": 6499,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "verified"
   },
   {
     "id": "furniture-مرتبة-سرير-مزدوج-متعدد-مقاس-مزدوج",
@@ -227,15 +228,16 @@
   },
   {
     "id": "furniture-كنبة-2-مقعد-متعدد-2-مقعد",
-    "name": "كنبة 2 مقعد",
+    "name": "كنبة Baden قماش 3 مقاعد",
     "category": "أرائك وانتريه",
     "brand": "متعدد",
-    "unit": "2 مقعد",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "unit": "قطعة",
+    "price": 34199,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "verified"
   },
   {
     "id": "furniture-كنبة-3-مقاعد-متعدد-3-مقاعد",
@@ -388,15 +390,16 @@
   },
   {
     "id": "furniture-كرسي-سفرة-خشب-متعدد-قطعة",
-    "name": "كرسي سفرة خشب",
+    "name": "كرسي سفرة Boston قماش",
     "category": "كراسي",
     "brand": "متعدد",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 6599,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "verified"
   },
   {
     "id": "furniture-بوفيه-سفرة-متعدد-قطعة",
@@ -449,15 +452,16 @@
   },
   {
     "id": "furniture-مكتبة-أطفال-متعدد-قطعة",
-    "name": "مكتبة أطفال",
+    "name": "مكتبة Ace",
     "category": "أثاث أطفال",
     "brand": "متعدد",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 9499,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "verified"
   },
   {
     "id": "furniture-سرير-أطفال-خشب-متعدد-مقاسات-متعددة",

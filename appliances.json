@@ -373,13 +373,16 @@
   },
   {
     "id": "appliances-catalog-011",
-    "name": "ميكروويف – مقاس صغير",
+    "name": "ميكروويف ميديا ديجيتال سولو 25 لتر 900 وات AM9P022VB",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 5799,
+    "merchant": "2B Egypt",
+    "source": "https://2b.com.eg/ar/home-appliances/kitchen-appliances/microwaves-and-electric-ovens/microwaves.html",
+    "checkedAt": "2026-11-09",
+    "brand": "Midea",
+    "model": "AM9P022VB",
+    "unit": "جهاز",
+    "priceStatus": "verified"
   },
   {
     "id": "appliances-catalog-012",
