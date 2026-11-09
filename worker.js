@@ -1,6 +1,7 @@
 import { onRequest as adminHandler } from "./functions/api/admin.js";
 import { onRequestGet as compareHandler } from "./functions/api/compare.js";
 import { onRequestPost as suggestionHandler } from "./functions/api/suggestion.js";
+import { onRequestPost as priceSubmissionHandler } from "./functions/api/price-submission.js";
 import { onRequest as realEstateHandler } from "./functions/api/real-estate.js";
 import { onRequest as realEstateAdminHandler } from "./functions/api/real-estate-admin.js";
 
@@ -191,6 +192,13 @@ export default {
       const blocked = await rateLimit(env.ADMIN_RATE_LIMITER, request, "real-estate-admin");
       if (blocked) return secure(blocked, request);
       return secure(await realEstateAdminHandler({ request, env, ctx, params: {} }), request);
+    }
+
+    if (url.pathname === "/api/price-submission") {
+      if (request.method !== "POST") return secure(json(405, { error: "طريقة الطلب غير مدعومة." }), request);
+      const blocked = await rateLimit(env.PUBLIC_WRITE_RATE_LIMITER, request, "price-submission");
+      if (blocked) return secure(blocked, request);
+      return secure(await priceSubmissionHandler({ request, env, ctx, params: {} }), request);
     }
 
     if (url.pathname === "/api/suggestion") {
