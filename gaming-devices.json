@@ -554,13 +554,17 @@
       "priceStatus": "verified"
     },
     {
-      "name": "Nintendo Switch Lite – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "Nintendo Switch Lite Console",
+      "brand": "Nintendo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 11909,
+      "details": "Nintendo Switch Lite Console؛ أقل سعر ظاهر في مقارنة المتاجر 11,909 جنيهًا. قد يختلف اللون والتوفر.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:32 Cairo",
+      "merchant": "Pricena (مقارنة متاجر)",
+      "source": "https://eg.pricena.com/en/video-games-consoles/consoles",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Nintendo Switch Lite – حزمة مع لعبة",
