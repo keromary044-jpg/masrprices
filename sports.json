@@ -1697,5 +1697,57 @@
     "checkedAt": "2026-11-09",
     "details": "سعر العبوة كما ظهر في صفحة المتجر وقت التحقق.",
     "priceStatus": "verified"
+  },
+  {
+    "id": "decathlon-kipsta-kids-football-shirt",
+    "name": "تيشيرت كرة قدم للأطفال KIPSTA Club 100 أزرق",
+    "category": "ملابس ومعدات رياضية",
+    "brand": "KIPSTA",
+    "price": 129,
+    "currency": "EGP",
+    "unit": "قطعة",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4902-team-sports",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "retailer_listing"
+  },
+  {
+    "id": "decathlon-kipsta-club100-bag",
+    "name": "حقيبة رياضية KIPSTA Club 100 سعة 35 لتر",
+    "category": "ملابس ومعدات رياضية",
+    "brand": "KIPSTA",
+    "price": 1099,
+    "currency": "EGP",
+    "unit": "قطعة",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4902-team-sports",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "retailer_listing"
+  },
+  {
+    "id": "decathlon-kipsta-adult-shirt",
+    "name": "تيشيرت كرة قدم للكبار KIPSTA Essential أبيض",
+    "category": "ملابس ومعدات رياضية",
+    "brand": "KIPSTA",
+    "price": 249,
+    "currency": "EGP",
+    "unit": "قطعة",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4902-team-sports",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "retailer_listing"
+  },
+  {
+    "id": "decathlon-kipsta-football-shorts",
+    "name": "شورت كرة قدم KIPSTA Essential أسود",
+    "category": "ملابس ومعدات رياضية",
+    "brand": "KIPSTA",
+    "price": 249,
+    "currency": "EGP",
+    "unit": "قطعة",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4902-team-sports",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "retailer_listing"
   }
 ]
