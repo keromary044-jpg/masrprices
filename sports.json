@@ -635,27 +635,39 @@
   },
   {
     "id": "catalog-sports-0001",
-    "name": "كرة قدم – مقاس صغير",
+    "name": "KIPSTA Kids Size 3 Football First Kick Blue",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KIPSTA",
+    "price": 379,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4913-balls",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيده عند الشراء."
   },
   {
     "id": "catalog-sports-0002",
-    "name": "كرة قدم – مقاس متوسط",
+    "name": "KIPSTA Kids Size 4 Football First Kick Red",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KIPSTA",
+    "price": 379,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4913-balls",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيده عند الشراء."
   },
   {
     "id": "catalog-sports-0003",
-    "name": "كرة قدم – مقاس كبير",
+    "name": "KIPSTA Size 5 Machine-Stitched Football Training Ball",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KIPSTA",
+    "price": 749,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4913-balls",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيده عند الشراء."
   },
   {
     "id": "catalog-sports-0004",
@@ -911,11 +923,15 @@
   },
   {
     "id": "catalog-sports-0031",
-    "name": "جوارب رياضية – مقاس صغير",
+    "name": "KIPRUN Essential Running Socks White",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KIPRUN",
+    "price": 299,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/12991-accessories",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيده عند الشراء."
   },
   {
     "id": "catalog-sports-0032",
@@ -1336,19 +1352,27 @@
   },
   {
     "id": "catalog-sports-0082",
-    "name": "نظارة سباحة – مقاس صغير",
+    "name": "Decathlon One Size Swimming Goggles Clear Lenses",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "DECATHLON",
+    "price": 199,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4794-swimming-goggles",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيده عند الشراء."
   },
   {
     "id": "catalog-sports-0083",
-    "name": "نظارة سباحة – مقاس متوسط",
+    "name": "Decathlon XBASE Swimming Goggles Size L",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "DECATHLON",
+    "price": 359,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4794-swimming-goggles",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيده عند الشراء."
   },
   {
     "id": "catalog-sports-0084",
