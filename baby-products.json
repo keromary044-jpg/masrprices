@@ -2400,5 +2400,19 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر ظاهر على صفحة Carrefour Egypt بتاريخ 9 نوفمبر 2026.",
     "details": "Available"
+  },
+  {
+    "name": "حفاضات بيبيم ناتشورال مقاس متوسط 3",
+    "category": "حفاضات",
+    "brand": "Bebem",
+    "model": "Natural Midi Size 3",
+    "sku": "RAN-EB3JNSY",
+    "price": 229,
+    "currency": "EGP",
+    "merchant": "Raneen",
+    "source": "https://www.raneen.com/ar/bebem-natural-baby-diapers-twin-pack-midi-size-3-32-pieces",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified",
+    "details": "متاحة وقت التحقق؛ السعر المنشور 229 جنيه. صفحة المنتج تعرض العبوة 32 قطعة رغم اسم نتيجة البحث."
   }
 ]
