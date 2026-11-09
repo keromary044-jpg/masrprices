@@ -3962,5 +3962,17 @@
     "source": "https://spinneys-egypt.com/en/deals",
     "checkedAt": "2026-11-09",
     "priceStatus": "retailer_listing"
+  },
+  {
+    "id": "grocery-nescafe-classic-190g-carrefour",
+    "name": "Nescafe Classic Instant Coffee Jar - 190 gm",
+    "brand": "NESCAFÉ",
+    "category": "قهوة سريعة التحضير",
+    "unit": "190 جم",
+    "price": 264.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/regular-instant-coffee/nescafe-classic-jar-190g/p/595990",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified"
   }
 ]
