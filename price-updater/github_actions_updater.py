@@ -725,6 +725,18 @@ def run_raneen(source, catalogs, checked_at):
             if not sku or sku in seen_skus:
                 continue
             seen_skus.add(sku)
+            # Search results already include EGP price, stock and product URL.
+            # Reject non-matches before spending a detail request; fetch details
+            # only for a unique exact-name/brand or exact-model candidate.
+            if row.get("currency") != "EGP" or row.get("in_stock") is not True:
+                continue
+            row_url = row.get("url")
+            row_host = (urllib.parse.urlparse(row_url).hostname or "").lower() if valid_https(row_url) else ""
+            if row_host not in ("www.raneen.com", "raneen.com"):
+                continue
+            row_match = match_raneen_product(row, exact_index, model_index)
+            if not row_match or row_match[1] is not catalog_product:
+                continue
             detail_url = base + "/products/" + urllib.parse.quote(sku, safe="") + "?language=en"
             wait = 1.1 - (time.monotonic() - last_detail_request)
             if last_detail_request and wait > 0:
