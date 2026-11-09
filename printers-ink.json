@@ -454,13 +454,17 @@
       "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
     },
     {
-      "name": "طابعة حرارية – منزلية",
-      "brand": "ماركات متعددة",
+      "name": "Jainsha GA-E200I Thermal Receipt Printer",
+      "brand": "Jainsha",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 1550,
+      "details": "طابعة إيصالات حرارية Jainsha GA-E200I؛ أقل سعر منشور 1,550 جنيهًا في Dream 2000.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo",
+      "merchant": "Dream 2000",
+      "source": "https://kolasaar.com/eg/en/printers/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Xprinter XP-Q838L USB Thermal Receipt Printer",
@@ -524,13 +528,17 @@
       "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
-      "name": "طابعة ملصقات – لاسلكية",
-      "brand": "ماركات متعددة",
+      "name": "Yesido SP10 Portable Thermal Wireless Label Printer",
+      "brand": "Yesido",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 1990,
+      "details": "طابعة ملصقات حرارية محمولة لاسلكية Yesido SP10؛ السعر المنشور 1,990 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+      "merchant": "iMedia Stores Egypt",
+      "source": "https://priceteq.com/eg/shop/940?cat=printer",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "طابعة ملصقات – USB",
@@ -581,13 +589,17 @@
       "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
-      "name": "ماسح ضوئي – USB",
-      "brand": "ماركات متعددة",
+      "name": "Canon CanoScan LiDE 300 USB Scanner",
+      "brand": "Canon",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 3999,
+      "details": "ماسح Canon CanoScan LiDE 300؛ السعر المنشور 3,999 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "iMedia Stores Egypt",
+      "source": "https://priceteq.com/eg/shop/940?cat=printer",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "ماسح ضوئي – سعة قياسية",
