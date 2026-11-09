@@ -1138,14 +1138,18 @@
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
     },
     {
       "name": "ذاكرة RAM – Intel Core i5 / 16GB / 512GB",
       "brand": "ماركات متعددة",
       "category": "الكمبيوتر واللاب توب",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
     },
     {
       "name": "ذاكرة RAM – Intel Core i7 / 16GB / 1TB",
@@ -1235,5 +1239,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 14:48 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 14:50 Cairo"
 }

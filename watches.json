@@ -524,16 +524,27 @@
       "name": "Casio MTP-1314L-8AVDF Men's Watch",
       "brand": "Casio",
       "category": "ساعات يد رجالي",
-      "price": 3275,
+      "price": 3329.0,
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
-      "merchant": "Azzam Watches",
-      "source": "https://azzamwatches.com/products/casio-mtp-1314l-8avdf",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/en/4971850930839blk-conf",
       "currency": "EGP",
-      "priceStatus": "سعر ظاهر على صفحة المنتج لدى Azzam Watches بتاريخ 9 نوفمبر 2026.",
-      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+      "checkedAt": "2026-11-09 14:50 Cairo",
       "previousPrice": 2880,
       "previousMerchant": "ElGamel Watches Egypt",
-      "previousSource": "https://elgamelwatches.com/ar/collections/casio"
+      "previousSource": "https://elgamelwatches.com/ar/collections/casio",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 3329.0,
+          "source": "https://www.raneen.com/en/4971850930839blk-conf",
+          "sourceLabel": "Raneen Public Catalogue API",
+          "checkedAt": "2026-11-09 14:50 Cairo",
+          "variant": "cairotrading"
+        }
+      ],
+      "priceProvider": "Raneen Public Catalogue API"
     },
     {
       "name": "Casio MTP-1314D-1AVDF Men's Watch",
@@ -2328,14 +2339,18 @@
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
     },
     {
       "name": "ساعة GPS – سوار جلد",
       "brand": "ماركات متعددة",
       "category": "الساعات",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
     },
     {
       "name": "ساعة GPS – سوار سيليكون",
@@ -3680,5 +3695,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 14:48 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 14:50 Cairo"
 }
