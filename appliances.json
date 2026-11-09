@@ -521,13 +521,14 @@
   },
   {
     "id": "appliances-catalog-019",
-    "name": "مروحة سقف – مقاس صغير",
-    "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "name": "ATA CF236 Ceiling Fan 56-inch",
+    "category": "مراوح سقف",
+    "price": 1059,
+    "merchant": "Dream 2000",
+    "source": "https://kolasaar.com/eg/en/home/",
+    "checkedAt": "2026-11-09",
+    "brand": "ATA",
+    "priceStatus": "سعر منشور في قائمة مقارنة/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "appliances-catalog-020",
@@ -545,24 +546,25 @@
   },
   {
     "id": "appliances-catalog-021",
-    "name": "مروحة حائط – مقاس صغير",
-    "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "name": "ATA B1605P5 Wall Fan 16-inch 5 Blades",
+    "category": "مراوح حائط",
+    "price": 699,
+    "merchant": "Raneen",
+    "source": "https://kolasaar.com/eg/en/home/",
+    "checkedAt": "2026-11-09",
+    "brand": "ATA",
+    "priceStatus": "سعر منشور في قائمة مقارنة/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "appliances-catalog-022",
-    "name": "مروحة مكتب – مقاس صغير",
-    "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "brand": "ماركات متعددة",
-    "priceStatus": "غير متحقق",
+    "name": "Tornado TDF16D Desk Fan 16-inch",
+    "category": "مراوح مكتب",
+    "price": 1969,
+    "merchant": "2B",
+    "source": "https://kolasaar.com/eg/en/home/",
+    "checkedAt": "2026-11-09",
+    "brand": "Tornado",
+    "priceStatus": "سعر منشور في قائمة مقارنة/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء.",
     "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج."
   },
   {
@@ -834,13 +836,14 @@
   },
   {
     "id": "appliances-catalog-043",
-    "name": "ماكينة حلاقة – مقاس صغير",
-    "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "name": "Sokany SK-16048 Professional Hair Clipper",
+    "category": "ماكينات حلاقة",
+    "price": 619,
+    "merchant": "2B",
+    "source": "https://kolasaar.com/eg/en/home/",
+    "checkedAt": "2026-11-09",
+    "brand": "Sokany",
+    "priceStatus": "سعر منشور في قائمة مقارنة/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "appliances-catalog-044",
@@ -876,15 +879,16 @@
   },
   {
     "id": "appliances-catalog-047",
-    "name": "دفاية كهربائية – مقاس صغير",
-    "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
+    "name": "Mienta FH36336B Fan Heater 2000W",
+    "category": "دفايات كهربائية",
+    "price": 949,
+    "merchant": "Raneen",
+    "source": "https://kolasaar.com/eg/en/home/",
+    "checkedAt": "2026-11-09",
+    "brand": "Mienta",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+    "priceStatus": "سعر منشور في قائمة مقارنة/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "appliances-catalog-048",
@@ -1185,13 +1189,14 @@
   },
   {
     "id": "appliances-catalog-071",
-    "name": "مروحة حائط – مقاس متوسط",
-    "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "name": "ATA 18B01P5 Wall Fan 18-inch 5 Blades",
+    "category": "مراوح حائط",
+    "price": 855,
+    "merchant": "Raneen",
+    "source": "https://kolasaar.com/eg/en/home/",
+    "checkedAt": "2026-11-09",
+    "brand": "ATA",
+    "priceStatus": "سعر منشور في قائمة مقارنة/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "appliances-catalog-072",
@@ -1447,14 +1452,14 @@
   },
   {
     "id": "appliances-catalog-092",
-    "name": "مصفف شعر – مقاس متوسط",
-    "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "brand": "ماركات متعددة",
-    "priceStatus": "غير متحقق",
+    "name": "Sokany SK-15065 Rotating Hair Curler 32mm",
+    "category": "تصفيف الشعر",
+    "price": 999,
+    "merchant": "2B",
+    "source": "https://kolasaar.com/eg/en/home/",
+    "checkedAt": "2026-11-09",
+    "brand": "Sokany",
+    "priceStatus": "سعر منشور في قائمة مقارنة/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء.",
     "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج."
   },
   {
