@@ -716,27 +716,39 @@
   },
   {
     "id": "catalog-sports-0007",
-    "name": "كرة طائرة – مقاس صغير",
+    "name": "KIPSTA Beach Volleyball Size 3 BV100 Classic",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KIPSTA",
+    "price": 479,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4904-volleyball-balls",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور على متجر Decathlon Egypt بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "catalog-sports-0008",
-    "name": "كرة طائرة – مقاس متوسط",
+    "name": "KIPSTA Beach Volleyball Size 5 BV100 Classic",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KIPSTA",
+    "price": 599,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4904-volleyball-balls",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور على متجر Decathlon Egypt بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "catalog-sports-0009",
-    "name": "كرة طائرة – مقاس كبير",
+    "name": "KIPSTA Volleyball V500 Size 5",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KIPSTA",
+    "price": 2299,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/p/9122-163050-volleyball-v500-grey-blue-red.html",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور على متجر Decathlon Egypt بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "catalog-sports-0010",
@@ -1015,11 +1027,15 @@
   },
   {
     "id": "catalog-sports-0041",
-    "name": "شنطة رياضية – مقاس متوسط",
+    "name": "KIPSTA 35L Sports Bag",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "KIPSTA",
+    "price": 1099,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4902-sports-bags",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور على متجر Decathlon Egypt بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "catalog-sports-0042",
@@ -1031,27 +1047,39 @@
   },
   {
     "id": "catalog-sports-0043",
-    "name": "زجاجة رياضية – مقاس صغير",
+    "name": "QUECHUA 0.8L Ecozen Water Flask 100",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "QUECHUA",
+    "price": 239,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8651-water-bottles",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور على متجر Decathlon Egypt بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "catalog-sports-0044",
-    "name": "زجاجة رياضية – مقاس متوسط",
+    "name": "DECATHLON Sports Water Bottle 650ml",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "DECATHLON",
+    "price": 499,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/p/347994-123318-sports-water-bottle-650ml.html",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور على متجر Decathlon Egypt بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "catalog-sports-0045",
-    "name": "زجاجة رياضية – مقاس كبير",
+    "name": "DECATHLON Fitness Gallon Bottle 2.2L Grey",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "DECATHLON",
+    "price": 1199,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8651-water-bottles",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر منشور على متجر Decathlon Egypt بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "catalog-sports-0046",
