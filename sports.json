@@ -2212,5 +2212,71 @@
     "source": "https://www.lowqta.com/en/c/sports",
     "checkedAt": "2026-11-09",
     "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والمقاس والتوفر لدى Decathlon"
+  },
+  {
+    "id": "sport-kipsta-club100-foldable-bag-35l",
+    "name": "KIPSTA Club 100 35L Foldable Sports Bag with Shoulder Strap",
+    "category": "حقائب رياضية",
+    "brand": "KIPSTA",
+    "price": 1099,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8628-sport-accessories",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "السعر الحالي المنشور على موقع Decathlon Egypt وقت التحقق"
+  },
+  {
+    "id": "sport-quechua-arpenaz50-backpack-10l-black",
+    "name": "QUECHUA Hiking Backpack 10 L Arpenaz 50 - Black",
+    "category": "حقائب ظهر",
+    "brand": "QUECHUA",
+    "price": 349,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8628-sport-accessories",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "السعر الحالي المنشور على موقع Decathlon Egypt وقت التحقق"
+  },
+  {
+    "id": "sport-nabaiji-microfibre-towel-l-80x130-blue",
+    "name": "NABAIJI Ultra-compact Microfibre Towel Size L 80 x 130 cm - Blue",
+    "category": "مناشف رياضية",
+    "brand": "NABAIJI",
+    "price": 499,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8628-sport-accessories",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "السعر الحالي المنشور على موقع Decathlon Egypt وقت التحقق"
+  },
+  {
+    "id": "sport-decathlon-w100-running-stopwatch-black",
+    "name": "DECATHLON W100 Running Stopwatch - Black",
+    "category": "إلكترونيات رياضية",
+    "brand": "DECATHLON",
+    "price": 499,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/12991-accessories",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "السعر الحالي المنشور على موقع Decathlon Egypt وقت التحقق"
+  },
+  {
+    "id": "sport-kiprun-essential-running-socks-white",
+    "name": "KIPRUN Essential Running Socks - White",
+    "category": "جوارب رياضية",
+    "brand": "KIPRUN",
+    "price": 299,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/12991-accessories",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "السعر الحالي المنشور على موقع Decathlon Egypt وقت التحقق"
+  },
+  {
+    "id": "sport-kiprun-running-gloves-warm500-black",
+    "name": "KIPRUN Warm+ 500 v2 Adult Tactile Running Gloves - Black",
+    "category": "إكسسوارات رياضية",
+    "brand": "KIPRUN",
+    "price": 799,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/12991-accessories",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "السعر الحالي المنشور على موقع Decathlon Egypt وقت التحقق"
   }
 ]
