@@ -2329,5 +2329,19 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر ظاهر في صفحة المنتج لدى Elogail Stores بتاريخ 9 نوفمبر 2026.",
     "details": "Only 1 unit left"
+  },
+  {
+    "name": "Celimax Retinal Shot Tightening Booster 15ml",
+    "category": "العناية بالبشرة",
+    "brand": "Celimax",
+    "model": "Retinal Shot 15ml",
+    "sku": "RAN-PRCG96T",
+    "price": 819,
+    "currency": "EGP",
+    "merchant": "Raneen",
+    "source": "https://www.raneen.com/ar/celimax-retinal-shot-tightening-booster-cream-for-firm-skin-15ml",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified",
+    "details": "متاح وقت التحقق؛ السعر المنشور 819 جنيه."
   }
 ]
