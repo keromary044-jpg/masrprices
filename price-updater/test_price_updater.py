@@ -12,6 +12,16 @@ class PriceUpdaterTests(unittest.TestCase):
     def test_arabic_normalization(self):
         self.assertEqual(normalize("أَبْجَدِيَّة"), normalize("ابجديه"))
 
+    def test_price_discovery_skips_restricted_catalog_items(self):
+        from github_actions_updater import build_exact_index, build_search_candidates
+        safe = {"name":"Wireless router AX55", "brand":"TP-Link"}
+        restricted = {"name":"Medicine item", "brand":"Generic"}
+        catalogs = {"electronics.json":{"products":[safe, restricted]}}
+        index = build_exact_index(catalogs)
+        self.assertIn((normalize("Wireless router AX55"), normalize("TP-Link")), index)
+        self.assertNotIn((normalize("Medicine item"), normalize("Generic")), index)
+        self.assertEqual(build_search_candidates(catalogs), [("Wireless router AX55", "TP-Link", safe)])
+
     def test_exact_unique_match_updates_price(self):
         ok = apply_offer(self.index, "سامسونج جالاكسي A56", "Samsung", 1234, "Store", "https://store.example/item", "2026-11-04 05:00 Cairo", "Test")
         self.assertTrue(ok)
