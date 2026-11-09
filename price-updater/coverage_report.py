@@ -88,7 +88,12 @@ def build_report():
             data = json.loads(path.read_text(encoding="utf-8"))
         except (OSError, ValueError):
             continue
-        products = data.get("products") if isinstance(data, dict) else None
+        if isinstance(data, list):
+            products = data
+        elif isinstance(data, dict):
+            products = data.get("products")
+        else:
+            products = None
         if not isinstance(products, list):
             continue
         priced = 0
