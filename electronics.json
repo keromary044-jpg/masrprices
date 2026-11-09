@@ -8496,5 +8496,35 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر ظاهر في صفحة المنتج لدى Elogail Stores بتاريخ 9 نوفمبر 2026.",
     "details": "In stock, 3 units"
+  },
+  {
+    "id": "raneen-haier-tv-h55k85gux",
+    "name": "تلفزيون هاير سمارت جوجل 55 بوصة 4K H55K85GUX",
+    "category": "تلفزيونات",
+    "brand": "Haier",
+    "model": "H55K85GUX",
+    "sku": "EL1152356BLK-CONF",
+    "price": 17775,
+    "currency": "EGP",
+    "merchant": "Raneen",
+    "source": "https://www.raneen.com/ar/el1152356blk-conf",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified",
+    "details": "متاح وقت التحقق؛ السعر المنشور 17,775 جنيه."
+  },
+  {
+    "id": "raneen-realme-c100i-128-4",
+    "name": "موبايل ريلمي C100i سعة 128 جيجابايت رام 4 جيجابايت رمادي",
+    "category": "هواتف",
+    "brand": "realme",
+    "model": "C100i 128GB/4GB",
+    "sku": "realME-C100i-128-4-GRY-CONF",
+    "price": 9980,
+    "currency": "EGP",
+    "merchant": "Raneen",
+    "source": "https://www.raneen.com/ar/realme-c100i-128-4-gry-conf",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified",
+    "details": "متاح وقت التحقق؛ السعر المنشور 9,980 جنيه."
   }
 ]
