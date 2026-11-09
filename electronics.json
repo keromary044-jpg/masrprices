@@ -2035,12 +2035,22 @@
     "name": "Lenovo ThinkPad E14 Gen 5",
     "category": "لابتوبات",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 39999,
+    "merchant": "ABC Shop",
+    "source": "https://www.abcshop-eg.com/en/shop/21jk000ngp-lenovo-thinkpad-e14-gen-5-5655",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "السعر ظاهر في صفحة المتجر مع أزرار شراء وشحن 2–3 أيام؛ المخزون غير معلن صراحة",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "priceOffers": [
+      {
+        "merchant": "ABC Shop",
+        "priceEGP": 39999,
+        "source": "https://www.abcshop-eg.com/en/shop/21jk000ngp-lenovo-thinkpad-e14-gen-5-5655",
+        "sourceLabel": "ABC Shop",
+        "checkedAt": "2026-11-09",
+        "variant": "SKU 21JK000NGP; Core i5-1335U; 8GB RAM; 512GB SSD; GeForce MX550 2GB"
+      }
+    ]
   },
   {
     "id": "elx-0139",
