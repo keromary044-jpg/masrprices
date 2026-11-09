@@ -267,7 +267,7 @@ def expire_stale_offers(catalogs, now=None, max_age_days=14):
     cutoff = now - timedelta(days=max_age_days)
     expired_count = 0
     changed_count = 0
-    provider_labels = {"Prices by PriceLens", "Sama Link API", "API.SH — Jumia Egypt", "API.SH — Noon Egypt"}
+    provider_labels = {"Prices by PriceLens", "Sama Link API", "API.SH — Jumia Egypt", "API.SH — Noon Egypt", "Raneen Public Catalogue API"}
     for filename, catalog in catalogs.items():
         for product in catalog.get("products", []):
             if not isinstance(product, dict) or not isinstance(product.get("priceOffers"), list):
@@ -586,6 +586,129 @@ def run_sama_link(source, catalogs, checked_at):
     return accepted
 
 
+
+def extract_model_tokens(value):
+    """Extract exact alphanumeric model identifiers; ignore generic capacity/network tokens."""
+    text = str(value or "").upper()
+    tokens = re.findall(r"(?<![A-Z0-9])[A-Z0-9][A-Z0-9-]{4,}(?![A-Z0-9])", text)
+    ignored = {"128GB", "256GB", "512GB", "1TB", "2TB", "4KTV", "1080P"}
+    return {
+        token for token in tokens
+        if any(ch.isalpha() for ch in token)
+        and any(ch.isdigit() for ch in token)
+        and token not in ignored
+    }
+
+def build_raneen_match_indexes(catalogs, allowed_files):
+    exact = build_exact_index(catalogs, allowed_files)
+    models = {}
+    for filename, catalog in catalogs.items():
+        if filename not in set(allowed_files):
+            continue
+        for product in catalog.get("products", []):
+            if not isinstance(product, dict):
+                continue
+            for token in extract_model_tokens(" ".join(str(product.get(k) or "") for k in ("name", "title", "model", "sku"))):
+                models.setdefault(token, []).append((filename, product))
+    return exact, models
+
+def match_raneen_product(detail, exact_index, model_index):
+    if not isinstance(detail, dict):
+        return None
+    names = [detail.get(k) for k in ("name", "name_ar", "name_en")]
+    brand = normalize(detail.get("brand"))
+    for name in names:
+        if name and brand:
+            matches = exact_index.get((normalize(name), brand), [])
+            if len(matches) == 1:
+                return matches[0]
+
+    tokens = set()
+    for name in names + [detail.get("model"), detail.get("sku")]:
+        tokens.update(extract_model_tokens(name))
+    candidates = {}
+    for token in tokens:
+        for filename, product in model_index.get(token, []):
+            product_brand = normalize(product.get("brand"))
+            if brand and product_brand and brand != product_brand:
+                continue
+            candidates[(filename, id(product))] = (filename, product)
+    return next(iter(candidates.values())) if len(candidates) == 1 else None
+
+def run_raneen(source, catalogs, checked_at):
+    """Use Raneen's public read-only Egypt API; verify each SKU via its product detail."""
+    coverage = source.get("coverage", [])
+    source_catalogs = {name: catalog for name, catalog in catalogs.items() if name in coverage}
+    exact_index, model_index = build_raneen_match_indexes(source_catalogs, coverage)
+    candidates = build_search_candidates(source_catalogs, checked_at)
+    if not candidates:
+        print(f"OK {source['id']}: no eligible catalog products")
+        return 0
+
+    max_searches = source.get("max_searches_per_run", 10)
+    details_per_search = source.get("max_details_per_search", 5)
+    if not isinstance(max_searches, int) or max_searches < 1:
+        raise ValueError("Raneen max_searches_per_run must be a positive integer")
+    if not isinstance(details_per_search, int) or not 1 <= details_per_search <= 5:
+        raise ValueError("Raneen max_details_per_search must be between 1 and 5")
+
+    accepted = searched = detail_calls = errors = 0
+    base = source.get("endpoint", "https://mcp.raneen.com/v1").rstrip("/")
+    if not valid_https(base):
+        raise ValueError("Invalid Raneen API endpoint")
+
+    for name, brand, catalog_product in candidates[:max_searches]:
+        query = urllib.parse.urlencode({"query": f"{name} {brand}", "language": "en",
+                                        "page": 1, "page_size": details_per_search})
+        try:
+            payload = get_json(base + "/search?" + query, timeout=30)
+        except Exception as exc:
+            errors += 1
+            print(f"WARNING {source['id']}: search failed ({type(exc).__name__}); continuing")
+            continue
+        searched += 1
+        mark_search_attempt(catalog_product, checked_at)
+        rows = payload.get("products") if isinstance(payload, dict) else None
+        if not isinstance(rows, list):
+            errors += 1
+            continue
+        seen_skus = set()
+        for row in rows[:details_per_search]:
+            if not isinstance(row, dict):
+                continue
+            sku = str(row.get("sku") or "").strip()
+            if not sku or sku in seen_skus:
+                continue
+            seen_skus.add(sku)
+            detail_url = base + "/products/" + urllib.parse.quote(sku, safe="") + "?language=en"
+            try:
+                detail = get_json(detail_url, timeout=30)
+            except Exception:
+                errors += 1
+                continue
+            detail_calls += 1
+            if not isinstance(detail, dict) or detail.get("currency") != "EGP" or detail.get("in_stock") is not True:
+                continue
+            product_url = detail.get("url")
+            host = (urllib.parse.urlparse(product_url).hostname or "").lower() if valid_https(product_url) else ""
+            if host not in ("www.raneen.com", "raneen.com"):
+                continue
+            match = match_raneen_product(detail, exact_index, model_index)
+            if not match:
+                continue
+            filename, matched_product = match
+            # Import only the actual product's own catalog record; no query-text assumptions.
+            accepted += apply_offer(
+                {(normalize(matched_product.get("name") or matched_product.get("title")),
+                  normalize(matched_product.get("brand"))): [(filename, matched_product)]},
+                detail.get("name") or detail.get("name_en") or detail.get("name_ar"),
+                detail.get("brand"), detail.get("price"), "Raneen",
+                product_url, checked_at, "Raneen Public Catalogue API",
+                str(detail.get("seller") or "")
+            )
+    print(f"OK {source['id']}: matched {accepted} exact-name/model Raneen offers; searches={searched}, product_details={detail_calls}, errors={errors}")
+    return accepted
+
 def run_open_prices(source, catalogs, checked_at):
     """Import Egypt/EGP community observations separately from retail offers."""
     endpoint = source.get("endpoint", "https://prices.openfoodfacts.org/api/v1").rstrip("/")
@@ -698,6 +821,8 @@ def main():
                 accepted = run_apish_noon(source, catalogs, checked_at)
             elif adapter == "open_prices":
                 accepted = run_open_prices(source, catalogs, checked_at)
+            elif adapter == "raneen":
+                accepted = run_raneen(source, catalogs, checked_at)
             else:
                 raise ValueError("Unsupported or unapproved adapter")
             accepted_total += accepted
