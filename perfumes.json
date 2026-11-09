@@ -672,10 +672,11 @@
       "brand": "Afnan",
       "category": "عطور رجالية",
       "price": 2200,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
-      "merchant": "Faces Egypt",
-      "source": "https://www.faces.eg/en/brands/afnan",
-      "checkedAt": "2026-11-08"
+      "details": "السعر ظاهر على متجر Afnan Egypt الرسمي والمنتج معروض كمخزون متاح.",
+      "merchant": "Afnan Perfumes Egypt",
+      "source": "https://egypt.afnan.com/products/9-pm-elixir",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified"
     },
     {
       "name": "Lancome La Nuit Tresor EDP 75ml",
