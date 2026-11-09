@@ -686,6 +686,10 @@ def run_raneen(source, catalogs, checked_at):
         raise ValueError("Raneen max_details_per_search must be between 1 and 5")
 
     accepted = searched = detail_calls = errors = 0
+    runtime_started = time.monotonic()
+    max_runtime_seconds = source.get("max_runtime_seconds", 1020)
+    if not isinstance(max_runtime_seconds, int) or not 60 <= max_runtime_seconds <= 1080:
+        raise ValueError("Raneen max_runtime_seconds must be between 60 and 1080")
     last_search_request = 0.0
     last_detail_request = 0.0
     base = source.get("endpoint", "https://mcp.raneen.com/v1").rstrip("/")
@@ -693,6 +697,9 @@ def run_raneen(source, catalogs, checked_at):
         raise ValueError("Invalid Raneen API endpoint")
 
     for name, brand, catalog_product in candidates[:max_searches]:
+        if time.monotonic() - runtime_started >= max_runtime_seconds:
+            print(f"INFO {source['id']}: stopping at configured runtime budget after {searched} searches")
+            break
         # Respect the public API's published per-minute limits: 30 searches
         # and 60 product-detail requests. Space requests rather than bursting.
         wait = 2.1 - (time.monotonic() - last_search_request)
@@ -702,7 +709,7 @@ def run_raneen(source, catalogs, checked_at):
         query = urllib.parse.urlencode({"query": f"{name} {brand}", "language": "en",
                                         "page": 1, "page_size": details_per_search})
         try:
-            payload = get_json(base + "/search?" + query, timeout=30)
+            payload = get_json(base + "/search?" + query, timeout=10)
         except Exception as exc:
             errors += 1
             # Persist failed attempts too, so one unavailable query cannot
@@ -719,6 +726,8 @@ def run_raneen(source, catalogs, checked_at):
             continue
         seen_skus = set()
         for row in rows[:details_per_search]:
+            if time.monotonic() - runtime_started >= max_runtime_seconds:
+                break
             if not isinstance(row, dict):
                 continue
             sku = str(row.get("sku") or "").strip()
@@ -743,7 +752,7 @@ def run_raneen(source, catalogs, checked_at):
                 time.sleep(wait)
             last_detail_request = time.monotonic()
             try:
-                detail = get_json(detail_url, timeout=30)
+                detail = get_json(detail_url, timeout=10)
             except Exception:
                 errors += 1
                 continue
