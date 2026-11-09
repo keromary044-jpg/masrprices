@@ -468,11 +468,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا Bullet – 2MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD1021-I Outdoor IP Security Camera 2MP",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 1240,
+      "details": "كاميرا IP خارجية Bullet بدقة 2MP موديل DS-2CD1021-I؛ السعر المنشور 1,240 جنيهًا.",
+      "merchant": "Al Fath Technology",
+      "source": "https://alfathtechnology.com/product-category/security-system/surveillance-cameras/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Hikvision DS-2CD1043G2-LIU 4MP PoE Bullet Camera",
@@ -497,11 +501,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا Bullet – 8MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD1083G0-I 8MP PoE Outdoor IP Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4595,
+      "details": "كاميرا IP خارجية Bullet بدقة 8MP بعدسة 4mm وتغذية PoE؛ السعر المنشور 4,595 جنيهًا.",
+      "merchant": "FastEgy",
+      "source": "https://www.fastegy.net/ar/shop/ds-2cd1083g0-i-4mm-2034",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كاميرا Bullet – عدسة 2.8 مم",
@@ -511,18 +519,26 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "كاميرا Dome – 2MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CE70DF0T-PF 2MP Dome Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 1310,
+      "details": "كاميرا Dome بدقة 2MP وعدسة 2.8mm؛ السعر المنشور 1,310 جنيهًا.",
+      "merchant": "Elghazawy",
+      "source": "https://elghazawy.com/en/sub-category/surveillance-systems",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا Dome – 4MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD1143G2-LIU 4MP Dome IP Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2799,
+      "details": "كاميرا Dome شبكية بدقة 4MP مع ميكروفون وإضاءة هجينة؛ السعر المنشور 2,799 جنيهًا.",
+      "merchant": "El Nour Tech",
+      "source": "https://elnour-tech.com/en/product-category/security-systems/surveillance-cameras/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Hikvision DS-2CD1153G0-I 5MP PoE Dome Camera",
