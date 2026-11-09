@@ -1981,5 +1981,17 @@
     "source": "https://elghazawy.com/en/sub-category/bath-body-care",
     "checkedAt": "2026-11-09",
     "priceStatus": "retailer_listing"
+  },
+  {
+    "id": "pc-nivea-quick-dry-men-150ml",
+    "name": "Nivea Deodorant Spray Quick Dry 48h For Men 150ml",
+    "brand": "Nivea",
+    "category": "مزيلات العرق",
+    "unit": "150 مل",
+    "price": 299,
+    "merchant": "Feel22 Egypt",
+    "source": "https://eg.feel22.com/products/nivea-deodorant-spray-quick-dry-48h-for-men",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified"
   }
 ]
