@@ -1028,6 +1028,34 @@
       "checkedAt": "2026-11-09",
       "priceStatus": "سعر ظاهر في صفحة المنتج لدى Elogail Stores بتاريخ 9 نوفمبر 2026.",
       "details": "Only 1 unit left"
+    },
+    {
+      "name": "Sony PlayStation 5 Slim Standard Edition",
+      "category": "منصات ألعاب",
+      "brand": "Sony",
+      "model": "PS5 Slim Standard Edition",
+      "sku": "GM-65-5-conf",
+      "price": 44514,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/gm-65-5-conf",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاح وقت التحقق؛ السعر المنشور 44,514 جنيه."
+    },
+    {
+      "name": "Sony PlayStation Portal Remote Player أبيض",
+      "category": "أجهزة ألعاب محمولة",
+      "brand": "Sony",
+      "model": "PlayStation Portal",
+      "sku": "CFI-Y1016-Conf",
+      "price": 16314,
+      "currency": "EGP",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/ar/cfi-y1016-conf",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified",
+      "details": "متاح وقت التحقق؛ السعر المنشور 16,314 جنيه."
     }
   ],
   "updatedAt": "2026-11-09",
