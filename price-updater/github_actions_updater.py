@@ -692,11 +692,19 @@ def run_raneen(source, catalogs, checked_at):
         raise ValueError("Raneen max_runtime_seconds must be between 60 and 1080")
     last_search_request = 0.0
     last_detail_request = 0.0
+    attempt_snapshots = {}
     base = source.get("endpoint", "https://mcp.raneen.com/v1").rstrip("/")
     if not valid_https(base):
         raise ValueError("Invalid Raneen API endpoint")
 
     for name, brand, catalog_product in candidates[:max_searches]:
+        product_key = id(catalog_product)
+        if product_key not in attempt_snapshots:
+            attempt_snapshots[product_key] = (
+                catalog_product,
+                catalog_product.get("priceSearchAttempts"),
+                catalog_product.get("priceSearchLastAttempt")
+            )
         if time.monotonic() - runtime_started >= max_runtime_seconds:
             print(f"INFO {source['id']}: stopping at configured runtime budget after {searched} searches")
             break
@@ -706,7 +714,8 @@ def run_raneen(source, catalogs, checked_at):
         if last_search_request and wait > 0:
             time.sleep(wait)
         last_search_request = time.monotonic()
-        query = urllib.parse.urlencode({"query": f"{name} {brand}", "language": "en",
+        language = "ar" if re.search(r"[\\u0600-\\u06FF]", name) else "en"
+        query = urllib.parse.urlencode({"query": f"{name} {brand}", "language": language,
                                         "page": 1, "page_size": details_per_search})
         try:
             payload = get_json(base + "/search?" + query, timeout=10)
@@ -779,6 +788,18 @@ def run_raneen(source, catalogs, checked_at):
                 product_url, checked_at, "Raneen Public Catalogue API",
                 str(detail.get("seller") or "")
             )
+    if accepted == 0:
+        # Do not dirty all catalog files with failed-search metadata. This keeps
+        # no-result runs conflict-free and avoids committing non-price changes.
+        for product, old_attempts, old_last_attempt in attempt_snapshots.values():
+            if old_attempts is None:
+                product.pop("priceSearchAttempts", None)
+            else:
+                product["priceSearchAttempts"] = old_attempts
+            if old_last_attempt is None:
+                product.pop("priceSearchLastAttempt", None)
+            else:
+                product["priceSearchLastAttempt"] = old_last_attempt
     print(f"OK {source['id']}: matched {accepted} exact-name/model Raneen offers; searches={searched}, product_details={detail_calls}, errors={errors}")
     return accepted
 
