@@ -77,7 +77,9 @@
       "category": "معطرات",
       "price": null,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
       "name": "معطر جسم",
@@ -1562,7 +1564,9 @@
       "brand": "ماركات متعددة",
       "category": "عطور",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق."
+      "details": "عنصر تعريفي بالكتالوج؛ السعر سيضاف بعد التحقق.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
       "name": "رذاذ جسم – عبوة بخاخ",
@@ -2622,5 +2626,6 @@
       "details": "Only 1 unit left"
     }
   ],
-  "updatedAt": "2026-11-08"
+  "updatedAt": "2026-11-09",
+  "lastAutomaticUpdate": "2026-11-09 14:48 Cairo"
 }

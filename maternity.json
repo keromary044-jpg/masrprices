@@ -425,7 +425,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
       "name": "أكياس تخزين الحليب – متوسط",
@@ -936,5 +938,7 @@
       "checkedAt": "2026-11-09",
       "priceStatus": "verified"
     }
-  ]
+  ],
+  "updatedAt": "2026-11-09",
+  "lastAutomaticUpdate": "2026-11-09 14:48 Cairo"
 }

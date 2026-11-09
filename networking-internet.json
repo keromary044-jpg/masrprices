@@ -582,7 +582,9 @@
       "brand": "ماركات متعددة",
       "category": "الشبكات والإنترنت",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
       "name": "Access Point – 8 منافذ",
@@ -596,7 +598,9 @@
       "brand": "ماركات متعددة",
       "category": "الشبكات والإنترنت",
       "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
       "name": "Access Point – ثنائي النطاق",
@@ -640,5 +644,7 @@
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     }
-  ]
+  ],
+  "updatedAt": "2026-11-09",
+  "lastAutomaticUpdate": "2026-11-09 14:48 Cairo"
 }

@@ -70,7 +70,9 @@
       "category": "إكسسوارات",
       "price": null,
       "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
       "name": "شاحن ساعة ذكية",
@@ -789,13 +791,24 @@
       "name": "Casio LTP-VT01L-1BUDF Women's Watch",
       "brand": "Casio",
       "category": "ساعات يد حريمي",
-      "price": 2390,
+      "price": 2909.0,
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
-      "merchant": "ElGamel Watches Egypt",
-      "source": "https://elgamelwatches.com/collections/casio?page=5",
+      "merchant": "Raneen",
+      "source": "https://www.raneen.com/en/4549526214523blg-conf",
       "currency": "EGP",
-      "priceStatus": "سعر منشور على المتجر",
-      "checkedAt": "2026-11-08"
+      "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+      "checkedAt": "2026-11-09 14:48 Cairo",
+      "priceOffers": [
+        {
+          "merchant": "Raneen",
+          "priceEGP": 2909.0,
+          "source": "https://www.raneen.com/en/4549526214523blg-conf",
+          "sourceLabel": "Raneen Public Catalogue API",
+          "checkedAt": "2026-11-09 14:48 Cairo",
+          "variant": "cairotrading"
+        }
+      ],
+      "priceProvider": "Raneen Public Catalogue API"
     },
     {
       "name": "Casio LTP-VT02D-2AUDF Women's Watch",
@@ -3666,5 +3679,6 @@
       "details": "In stock only"
     }
   ],
-  "updatedAt": "2026-11-08"
+  "updatedAt": "2026-11-09",
+  "lastAutomaticUpdate": "2026-11-09 14:48 Cairo"
 }

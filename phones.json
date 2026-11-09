@@ -16442,8 +16442,8 @@
       "priceAvailability": "out_of_stock",
       "priceSourceUrl": "https://reekoo-mobile.com/phones/note-60-max/",
       "priceCheckedAt": "2026-11-08",
-      "priceSearchAttempts": 30,
-      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
       "id": "reekoo-note-70",
@@ -17069,8 +17069,8 @@
       },
       "priceCheckedAt": "2026-11-08",
       "priceSourceUrl": "https://symphony-mobile.com/category/smart-phone",
-      "priceSearchAttempts": 30,
-      "priceSearchLastAttempt": "2026-11-09 10:44 Cairo"
+      "priceSearchAttempts": 31,
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
     },
     {
       "id": "symphony-innova-40",
@@ -30044,6 +30044,6 @@
     }
   ],
   "priceUpdateNote": "استكمال مراجعة الموديلات الستة عشر التي لم يكن لها سعر: أضيفت أسعار Symphony بعملة BDT كمرجع أجنبي منفصل دون تحويلها إلى جنيه مصري أو احتسابها ضمن التغطية المصرية؛ تم توثيق نفاد مخزون Reekoo Note 60 MAX رسميًا؛ وتأكيد أن موديلات Celphy القديمة لا تطابق عروض C500/C600 الحالية، وأن Xiaomi Mi 1 تاريخي. لا توجد أسعار مصرية موثوقة لهذه السجلات حتى الآن.\nمراجعة يدوية بتاريخ 8 نوفمبر 2026: تم تحديث عروض متاجر مباشرة موثقة مع مطابقة الموديل وسعة التخزين والذاكرة؛ أسعار المتاجر لا تُعرض كسعر رسمي للشركة. تم توثيق نفاد عرض Raneen الأساسي لنسخة Galaxy A37 8GB/256GB مع وجود عرضين آخرين غير متحققين، وسعر iPhone 15 لدى Elshennawy قبل الضريبة. لم يتم تشغيل أو إثبات أي تكامل تلقائي جديد.\nمراجعة يدوية 9 نوفمبر 2026: تم تحديث سجلات الأسعار التي تطابقت مع صفحات PriceTeq المصرية بحسب اسم الموديل وRAM وسعة التخزين والجيل؛ أُدرجت عروض المتاجر الجديدة فقط مع روابط صفحات المقارنة وتاريخ التحقق وحالة التوفر المعلنة. أسعار المتاجر ليست أسعارًا رسمية من الشركات. أسعار iPhone 15 128GB وiPhone 17 256GB ظلت موسومة كسعر معلن قبل الضريبة/ضريبة غير محسومة بسبب تعارض شارات صفحة المصدر. لم يُحدّث Galaxy S26 Ultra 12/256 بسبب تعارض بين صفحة المنتج ودليل الأسعار بتاريخ 9 نوفمبر، كما لم تُحدّث نسخ S25 التي لم يُسمِّ الدليل متجرها الأرخص.",
-  "lastAutomaticUpdate": "2026-11-09 10:44 Cairo",
+  "lastAutomaticUpdate": "2026-11-09 14:48 Cairo",
   "lastManualPriceVerification": "2026-11-09T13:10:43+02:00"
 }
