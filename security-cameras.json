@@ -600,18 +600,26 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا لاسلكية تعمل بالبطارية – 5MP",
-      "brand": "ماركات متعددة",
+      "name": "IMOU Cell PT 2C 5MP Solar Battery Wi-Fi Camera",
+      "brand": "IMOU",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 5750,
+      "details": "كاميرا IMOU Cell PT 2C لاسلكية 5MP تعمل بالطاقة الشمسية والبطارية؛ السعر المنشور 5,750 جنيهًا.",
+      "merchant": "Do Link Egypt",
+      "source": "https://dolinkegypt.com/en/shop/imou-3k-solar-outdoor-security-camera-5mp-wireless-wifi-home-camera-with-solar-panel-cell-pt-2c-surveillance-camera-imou-cell-pt-2c-2208",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا لاسلكية تعمل بالبطارية – 8MP",
-      "brand": "ماركات متعددة",
+      "name": "EZVIZ EB5 4K 8MP Rechargeable Battery Wi-Fi Camera",
+      "brand": "EZVIZ",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 7600,
+      "details": "كاميرا EZVIZ EB5 بدقة 8MP/4K وبطارية قابلة لإعادة الشحن وعدسة 2.8mm؛ السعر المنشور 7,600 جنيه.",
+      "merchant": "FastEgy",
+      "source": "https://www.fastegy.net/shop/ezviz-eb5-4k-5386?category=703",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كاميرا لاسلكية تعمل بالبطارية – عدسة 2.8 مم",
@@ -665,11 +673,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا باب ذكية – عدسة 2.8 مم",
-      "brand": "ماركات متعددة",
+      "name": "EZVIZ HP7 3MP Smart Video Doorbell 2.8mm",
+      "brand": "EZVIZ",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 12995,
+      "details": "جرس باب فيديو EZVIZ HP7 بدقة 3MP وعدسة 2.8mm؛ السعر المنشور 12,995 جنيهًا.",
+      "merchant": "FastEgy",
+      "source": "https://www.fastegy.net/shop/ezviz-hp7-3m-5751",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     }
   ]
 }
