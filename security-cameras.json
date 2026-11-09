@@ -512,11 +512,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا Bullet – عدسة 2.8 مم",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CE16D0T-EXIPE 2MP Outdoor Bullet Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 550,
+      "details": "كاميرا Bullet خارجية 2MP؛ السعر المنشور 550 جنيهًا.",
+      "merchant": "El Nour Tech",
+      "source": "https://elnour-tech.com/en/product-category/security-systems/surveillance-cameras/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Hikvision DS-2CE70DF0T-PF 2MP Dome Camera",
@@ -563,11 +567,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كاميرا Dome – عدسة 2.8 مم",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CE70DF0T-PF 2MP 2.8mm Dome Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 1310,
+      "details": "كاميرا Dome داخلية 2MP بعدسة 2.8mm؛ السعر المنشور 1,310 جنيهًا.",
+      "merchant": "Elghazawy",
+      "source": "https://elghazawy.com/en/sub-category/surveillance-systems",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كاميرا لاسلكية تعمل بالبطارية – 2MP",
