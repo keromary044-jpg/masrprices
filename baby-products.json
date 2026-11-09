@@ -883,11 +883,22 @@
     "category": "أجهزة الرضاعة",
     "brand": "Chicco",
     "unit": "جهاز",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    "price": 4199,
+    "merchant": "Ourkids",
+    "source": "https://shop-ourkids.com/ar/products/%D8%B3%D8%AE%D8%A7%D9%86-%D8%A8%D8%A8%D8%B1%D9%88%D9%86%D9%87?_fid=1fe5f1d16&_pos=15&_ss=c",
+    "checkedAt": "2026-11-09",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب.",
+    "priceOffers": [
+      {
+        "merchant": "Ourkids",
+        "priceEGP": 4199,
+        "source": "https://shop-ourkids.com/ar/products/%D8%B3%D8%AE%D8%A7%D9%86-%D8%A8%D8%A8%D8%B1%D9%88%D9%86%D9%87?_fid=1fe5f1d16&_pos=15&_ss=c",
+        "sourceLabel": "Ourkids",
+        "checkedAt": "2026-11-09",
+        "variant": "Chicco Home bottle warmer"
+      }
+    ],
+    "priceStatus": "السعر ظاهر مع إمكانية الإضافة للسلة وقت التحقق"
   },
   {
     "id": "baby-products-شفاط-حليب-يدوي-philips-avent-قطعة",
