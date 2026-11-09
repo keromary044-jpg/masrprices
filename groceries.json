@@ -327,25 +327,27 @@
   },
   {
     "id": "groceries-catalog-009",
-    "name": "ملح طعام – مقاس صغير",
+    "name": "ملح طعام – مؤشر أسعار القاهرة 250 جم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 6.75,
+    "merchant": "ElBasket – مؤشر أسعار القاهرة",
+    "source": "https://elbasket.com/",
+    "checkedAt": "2026-11-09",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "250 جم",
+    "priceStatus": "verified"
   },
   {
     "id": "groceries-catalog-010",
-    "name": "عدس أصفر – مقاس صغير",
+    "name": "عدس أصفر زعيم 500 جم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 52.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/",
+    "checkedAt": "2026-11-09",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "500 جم",
+    "priceStatus": "verified"
   },
   {
     "id": "groceries-catalog-011",
@@ -382,14 +384,15 @@
   },
   {
     "id": "groceries-catalog-014",
-    "name": "فاصوليا بيضاء – مقاس صغير",
+    "name": "بيض أبيض مصري جروورز 30 قطعة",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 164.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/",
+    "checkedAt": "2026-11-09",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "30 قطعة",
+    "priceStatus": "verified"
   },
   {
     "id": "groceries-catalog-015",
@@ -415,14 +418,15 @@
   },
   {
     "id": "groceries-catalog-017",
-    "name": "زيت عباد الشمس – مقاس صغير",
+    "name": "زيت عباد الشمس الأصِيل 1.5 لتر",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 149.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/",
+    "checkedAt": "2026-11-09",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "1.5 لتر",
+    "priceStatus": "verified"
   },
   {
     "id": "groceries-catalog-018",
@@ -470,14 +474,15 @@
   },
   {
     "id": "groceries-catalog-022",
-    "name": "صلصة طماطم – مقاس صغير",
+    "name": "معجون طماطم دراهم 300 جم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 19.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/",
+    "checkedAt": "2026-11-09",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "300 جم",
+    "priceStatus": "verified"
   },
   {
     "id": "groceries-catalog-023",
@@ -503,14 +508,15 @@
   },
   {
     "id": "groceries-catalog-025",
-    "name": "تونة قطع – مقاس صغير",
+    "name": "تونة صن شاين قطع 185 جم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 71.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/",
+    "checkedAt": "2026-11-09",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "185 جم",
+    "priceStatus": "verified"
   },
   {
     "id": "groceries-catalog-026",
@@ -569,14 +575,15 @@
   },
   {
     "id": "groceries-catalog-031",
-    "name": "لبن كامل الدسم – مقاس صغير",
+    "name": "لبن كامل الدسم عبور لاند 1 لتر",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 43.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/",
+    "checkedAt": "2026-11-09",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "1 لتر",
+    "priceStatus": "verified"
   },
   {
     "id": "groceries-catalog-032",
@@ -1339,14 +1346,15 @@
   },
   {
     "id": "groceries-catalog-101",
-    "name": "سكر أبيض – مقاس متوسط",
+    "name": "سكر أبيض المزاج 1 كجم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 29.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/",
+    "checkedAt": "2026-11-09",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "1 كجم",
+    "priceStatus": "verified"
   },
   {
     "id": "groceries-catalog-102",
