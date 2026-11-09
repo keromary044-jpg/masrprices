@@ -642,13 +642,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "ماسح ضوئي – سعة قياسية",
-      "brand": "ماركات متعددة",
+      "name": "Epson Perfection V39 II Flatbed Photo & Document Scanner",
+      "brand": "Epson",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 4950,
+      "details": "ماسح Epson Perfection V39 II بدقة 4800dpi واتصال USB؛ السعر المنشور 4,950 جنيهًا وحالته متاح بالمخزون.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Egypt Technology",
+      "source": "https://www.egypttechnology.net/product?product=1277",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لمنتج محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "HP 305 Black Original Ink Cartridge 3YM61AE",
