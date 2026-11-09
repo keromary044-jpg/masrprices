@@ -1961,24 +1961,26 @@
       "title": "أماريتا",
       "author": "عمرو عبد الحميد",
       "category": "خيال وفانتازيا",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 300,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product/اماريتا/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور والمنتج معروض للشراء لدى المتجر وقت الرصد"
     },
     {
       "id": "catalog-037-قواعد-جارتين",
       "title": "قواعد جارتين",
       "author": "عمرو عبد الحميد",
       "category": "خيال وفانتازيا",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 300,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product/قواعد-جارتين/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور والمنتج معروض للشراء لدى المتجر وقت الرصد"
     },
     {
       "id": "catalog-038-يوتوبيا",
@@ -1998,12 +2000,13 @@
       "title": "في ممر الفئران",
       "author": "أحمد خالد توفيق",
       "category": "خيال علمي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 250,
+      "merchant": "Diwan",
+      "source": "https://diwanegypt.com/product/فى-ممر-الفئران/",
+      "checkedAt": "2026-11-09",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور والمنتج معروض للشراء لدى المتجر وقت الرصد"
     },
     {
       "id": "catalog-040-ما-وراء-الطبيعة-أسطورة-مصاص-الدماء",
