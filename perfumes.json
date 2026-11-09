@@ -2764,6 +2764,17 @@
       "merchant": "Jumia Egypt",
       "source": "https://www.jumia.com.eg/health-beauty/",
       "checkedAt": "2026-11-09"
+    },
+    {
+      "name": "YARA EDP For Her 25ml",
+      "brand": "Lattafa",
+      "category": "عطور حريمي",
+      "price": 113.75,
+      "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى Noon",
+      "details": "حجم 25 مل؛ السعر المرصود بالجنيه المصري.",
+      "merchant": "Noon",
+      "source": "https://www.lowqta.com/en/store/noon/beauty",
+      "checkedAt": "2026-11-09"
     }
   ],
   "updatedAt": "2026-11-09",
