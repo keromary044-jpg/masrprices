@@ -631,22 +631,30 @@
       "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
     },
     {
-      "name": "Gaming Laptop – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "MSI Cyborg 15 A13UC Gaming Laptop Core i5-13420H 8GB DDR5 512GB SSD RTX 3050",
+      "brand": "MSI",
       "category": "أجهزة الألعاب",
-      "price": null,
+      "price": 46999,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:50 Cairo",
+      "merchant": "Ennap Egypt",
+      "source": "https://priceteq.com/eg/product/9ee8670e-9346-4549-ae25-359e27d0a3c8",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
     },
     {
-      "name": "Gaming Laptop – نسخة رقمية",
-      "brand": "ماركات متعددة",
+      "name": "MSI Cyborg 15 A13UC Gaming Laptop Core i7-13620H 16GB DDR5 512GB SSD RTX 3050",
+      "brand": "MSI",
       "category": "أجهزة الألعاب",
-      "price": null,
+      "price": 53999,
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+      "merchant": "Elhamd Store Egypt",
+      "source": "https://priceteq.com/eg/product/23453062-2c6f-4117-bc23-645c58e181b5",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور في متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
     },
     {
       "name": "Gaming Laptop – حزمة مع لعبة",
