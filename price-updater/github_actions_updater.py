@@ -636,6 +636,36 @@ def match_raneen_product(detail, exact_index, model_index):
             candidates[(filename, id(product))] = (filename, product)
     return next(iter(candidates.values())) if len(candidates) == 1 else None
 
+def catalog_product_has_fresh_price(product, now=None, max_age_days=14):
+    """Check freshness using the same lowest-offer rule as coverage_report.py."""
+    now = now or datetime.now(timezone.utc)
+    offers = product.get("priceOffers")
+    if isinstance(offers, list):
+        candidates = []
+        for offer in offers:
+            if not isinstance(offer, dict):
+                continue
+            value = offer.get("priceEGP") or offer.get("price_egp") or offer.get("price")
+            try:
+                amount = float(str(value or "").replace(",", "").strip())
+            except (TypeError, ValueError):
+                continue
+            if amount > 0:
+                observed = parse_observed_time(offer.get("checkedAt") or offer.get("observedAt") or offer.get("last_seen"))
+                candidates.append((amount, observed))
+        if candidates:
+            lowest = min(amount for amount, _ in candidates)
+            dates = [observed for amount, observed in candidates if amount == lowest and observed]
+            return bool(dates and max(dates) >= now - timedelta(days=max_age_days))
+    if not catalog_product_has_price(product):
+        return False
+    for key in ("priceCheckedAt", "checkedAt", "price_updated_at"):
+        observed = parse_observed_time(product.get(key))
+        if observed:
+            return observed >= now - timedelta(days=max_age_days)
+    return False
+
+
 def run_raneen(source, catalogs, checked_at):
     """Use Raneen's public read-only Egypt API; verify each SKU via its product detail."""
     coverage = source.get("coverage", [])
@@ -714,7 +744,10 @@ def run_raneen(source, catalogs, checked_at):
             if not match:
                 continue
             filename, matched_product = match
-            # Import only the actual product's own catalog record; no query-text assumptions.
+            # Count coverage only for the exact candidate searched, and only
+            # when its current lowest price is missing, stale, or undated.
+            if matched_product is not catalog_product or catalog_product_has_fresh_price(matched_product):
+                continue
             accepted += apply_offer(
                 {(normalize(matched_product.get("name") or matched_product.get("title")),
                   normalize(matched_product.get("brand"))): [(filename, matched_product)]},
