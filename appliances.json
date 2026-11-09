@@ -2043,5 +2043,19 @@
     "source": "https://elghazawy.com/en/sub-category/home-appliances",
     "checkedAt": "2026-11-09",
     "priceStatus": "retailer_listing"
+  },
+  {
+    "id": "beko-rdsg550m20seg-fridge",
+    "name": "Beko Refrigerator 438 L Defrost RDSG550M20SEG",
+    "brand": "Beko",
+    "category": "ثلاجات",
+    "model": "RDSG550M20SEG",
+    "unit": "438 لتر",
+    "price": 20499,
+    "merchant": "Dream 2000",
+    "source": "https://dream2000.com/products/beko-refrigerator-438l-defrost-rdsg550m20seg-silver",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "verified",
+    "details": "المتجر يعرض مخزونًا منخفضًا وقت التحقق."
   }
 ]
