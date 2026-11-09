@@ -534,11 +534,16 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "Nintendo Switch Lite – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "Nintendo Switch Lite Gray 32GB",
+      "brand": "Nintendo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 10999,
+      "details": "المتجر عرض وحدة واحدة متبقية وقت التحقق.",
+      "unit": "32GB / Gray",
+      "merchant": "Elogail Stores",
+      "source": "https://elogailstores.com/collections/nintendo/products/nintendo-switch-lite-gray",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified"
     },
     {
       "name": "Nintendo Switch Lite – نسخة رقمية",
