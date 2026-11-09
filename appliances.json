@@ -159,14 +159,14 @@
     "category": "ديب فريزر",
     "brand": "Fresh",
     "model": "FNU-MT271B",
-    "price": 23199.0,
+    "price": 23199,
     "merchant": "Raneen",
     "source": "https://www.raneen.com/en/el1120822blk",
     "checkedAt": "2026-11-09 15:04 Cairo",
     "priceOffers": [
       {
         "merchant": "Raneen",
-        "priceEGP": 23199.0,
+        "priceEGP": 23199,
         "source": "https://www.raneen.com/en/el1120822blk",
         "sourceLabel": "Raneen Public Catalogue API",
         "checkedAt": "2026-11-09 15:04 Cairo",
@@ -2563,5 +2563,44 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "verified",
     "details": "متاحة وقت التحقق؛ السعر المنشور 2,888 جنيه."
+  },
+  {
+    "name": "غسالة فريش فوق أوتوماتيك 6 كجم FTM-6S ديجيتال تاتش بطلمبة فضي",
+    "category": "غسالات",
+    "brand": "Fresh",
+    "model": "FTM-6S",
+    "price": 6700,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://elghazawy.com/en/sub-category/home-appliances?brand%5B0%5D=48&ct=49&ordered=price&price_max=&price_min=&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "سعر القائمة 6,700 جنيه."
+  },
+  {
+    "name": "قلاية هوائية فريش ديجيتال 5.5 لتر 1800 وات AFF-1800B أسود",
+    "category": "قلايات هوائية",
+    "brand": "Fresh",
+    "model": "AFF-1800B",
+    "price": 6475,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://elghazawy.com/en/sub-category/home-appliances?brand%5B0%5D=48&ct=49&ordered=price&price_max=&price_min=&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "سعر القائمة 6,475 جنيه."
+  },
+  {
+    "name": "غسالة فريش نصف أوتوماتيك 10 كجم حوضين موديل 1910 أبيض",
+    "category": "غسالات",
+    "brand": "Fresh",
+    "model": "1910 10kg",
+    "price": 7250,
+    "currency": "EGP",
+    "merchant": "Elghazawy",
+    "source": "https://elghazawy.com/en/sub-category/home-appliances?brand%5B0%5D=48&ct=49&ordered=price&price_max=&price_min=&sort=asc",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "سعر ظاهر في قائمة متجر الغزاوي وقت التحقق",
+    "details": "سعر القائمة 7,250 جنيه."
   }
 ]
