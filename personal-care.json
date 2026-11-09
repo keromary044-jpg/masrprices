@@ -505,13 +505,14 @@
   },
   {
     "id": "personal-care-catalog-024",
-    "name": "فرشاة أسنان ناعمة – مقاس صغير",
+    "name": "Fuchs View Soft Toothbrush",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 39.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Fuchs",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-025",
@@ -525,13 +526,14 @@
   },
   {
     "id": "personal-care-catalog-026",
-    "name": "غسول فم – مقاس صغير",
+    "name": "Listerine Advanced White Mouthwash 250ml",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 99.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Listerine",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-027",
@@ -579,13 +581,14 @@
   },
   {
     "id": "personal-care-catalog-031",
-    "name": "ماكينة حلاقة يدوية – مقاس صغير",
+    "name": "Gillette Simply Venus 2 Disposable Razors for Women 4 Razors",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 74.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Gillette",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-032",
@@ -815,13 +818,14 @@
   },
   {
     "id": "personal-care-catalog-052",
-    "name": "شامبو للشعر الدهني – مقاس متوسط",
+    "name": "Clear Deep Cleanse Anti-Dandruff Shampoo for Men 600ml",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 192.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Clear",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-053",
@@ -1028,13 +1032,14 @@
   },
   {
     "id": "personal-care-catalog-072",
-    "name": "مزيل عرق بخاخ – مقاس متوسط",
+    "name": "Axe Dark Temptation Deodorant Spray 150ml",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 168.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Axe",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-073",
@@ -1101,15 +1106,16 @@
   },
   {
     "id": "personal-care-catalog-079",
-    "name": "جل حلاقة – مقاس متوسط",
+    "name": "Nivea Men Shaving Gel Sensitive 200ml",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
+    "price": 330.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Nivea",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 15:11 Cairo",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-080",
@@ -1176,25 +1182,27 @@
   },
   {
     "id": "personal-care-catalog-086",
-    "name": "فوط صحية – مقاس متوسط",
+    "name": "Sofy Lump Free Musk Maxi Thick Long 48 Pads",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 124.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Sofy",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-087",
-    "name": "بطانات يومية – مقاس متوسط",
+    "name": "Carefree Cotton Panty Liners 100 Pieces",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
+    "price": 249.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Carefree",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 14:50 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 14:50 Cairo",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-088",
@@ -1252,13 +1260,14 @@
   },
   {
     "id": "personal-care-catalog-093",
-    "name": "غسول يدين – مقاس متوسط",
+    "name": "Dove Care & Protect Moisturizing Hand Wash 500ml",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 84.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "checkedAt": "2026-11-09",
+    "brand": "Dove",
+    "priceStatus": "سعر منشور في صفحة/قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
   },
   {
     "id": "personal-care-catalog-094",
