@@ -1637,6 +1637,18 @@
       "category": "أدوات المطبخ",
       "price": null,
       "details": "عنصر تعريفي بالكتالوج."
+    },
+    {
+      "id": "kitchen-tefal-xl-intense-frypan-20-26",
+      "name": "Tefal XL Intense Frypan - 2 Pieces - Size 20-26 cm",
+      "brand": "Tefal",
+      "category": "مقالي",
+      "unit": "قطعتان 20 و26 سم",
+      "price": 1999,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/frypan/tefal-xl-int-fry-pan-2pcs-20-26/p/596569",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified"
     }
   ],
   "updatedAt": "2026-11-09",
