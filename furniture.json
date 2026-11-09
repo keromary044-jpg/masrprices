@@ -1,1523 +1,1596 @@
-{
-  "updatedAt": "2026-11-08",
-  "currency": "EGP",
-  "notice": "أسعار معلنة على مواقع المتاجر وقت الرصد؛ قد تختلف حسب المقاس والخامة واللون والتوصيل والتركيب. تم توسيع الكتالوج بسجلات تعريفية إضافية؛ الأسعار غير المحددة غير متحققة وليست أسعار بيع حالية.",
-  "products": [
-    {
-      "id": "furn-homecentre-chair",
-      "name": "كرسي سفرة قماش Trixia",
-      "category": "كراسي",
-      "brand": "Home Centre",
-      "price": 3999,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-homecentre-wardrobe",
-      "name": "دولاب Mabel ستة أبواب مع أدراج",
-      "category": "دواليب وتخزين",
-      "brand": "Home Centre",
-      "price": 61799,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-homecentre-sofa",
-      "name": "كنبة Kipper مقعدين قماش",
-      "category": "كنب",
-      "brand": "Home Centre",
-      "price": 26000,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-homecentre-mattress",
-      "name": "مرتبة Jan Deluxe مفردة 120×200 سم",
-      "category": "مراتب",
-      "brand": "Home Centre",
-      "price": 6499,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-ileera-table",
-      "name": "ترابيزة طعام ومذاكرة خشبية Talqa",
-      "category": "ترابيزات",
-      "brand": "ILEERA",
-      "price": 3999,
-      "merchant": "ILEERA Furniture",
-      "source": "https://ileerafurniture.com/",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-ileera-side",
-      "name": "ترابيزة جانبية Estekana",
-      "category": "ترابيزات",
-      "brand": "ILEERA",
-      "price": 1099,
-      "merchant": "ILEERA Furniture",
-      "source": "https://ileerafurniture.com/",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-woodco-sofabed",
-      "name": "كنبة سرير WOODCO مودرن",
-      "category": "كنب وسراير",
-      "brand": "WOODCO",
-      "price": 6850,
-      "merchant": "WOODCO Furniture",
-      "source": "https://woodcoegypt.com/ar/collections/sofa-bed",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-cataloug-bed",
-      "name": "سرير MDF مقاس 160×195 سم",
-      "category": "سراير",
-      "brand": "Cataloug",
-      "price": 10499,
-      "merchant": "Cataloug",
-      "source": "https://cataloug.com/en/",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-cataloug-wardrobe",
-      "name": "دولاب MDF مقاس 160×50×185 سم",
-      "category": "دواليب وتخزين",
-      "brand": "Cataloug",
-      "price": 19699,
-      "merchant": "Cataloug",
-      "source": "https://cataloug.com/en/",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-cataloug-tv",
-      "name": "وحدة تلفزيون MDF مقاس 200×40×35 سم",
-      "category": "وحدات تلفزيون",
-      "brand": "Cataloug",
-      "price": 11499,
-      "merchant": "Cataloug",
-      "source": "https://cataloug.com/en/",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-hub-bed",
-      "name": "سرير METROPOL-EM عرض 180 سم",
-      "category": "سراير",
-      "brand": "Hub Furniture",
-      "price": 18580,
-      "merchant": "Hub Furniture",
-      "source": "https://hubfurniture.com.eg/en/bedroom-furniture/shop-by-item",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-hub-bed120",
-      "name": "سرير CITY-EM عرض 120 سم",
-      "category": "سراير",
-      "brand": "Hub Furniture",
-      "price": 12038,
-      "merchant": "Hub Furniture",
-      "source": "https://hubfurniture.com.eg/en/bedroom-furniture/shop-by-item",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furn-bath-trolley",
-      "name": "عربة حمام بثلاثة أرفف",
-      "category": "تخزين وتنظيم",
-      "brand": "Jumia",
-      "price": 350,
-      "merchant": "Jumia",
-      "source": "https://www.jumia.com.eg/",
-      "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "furniture-سرير-غرفة-نوم-مفرد-متعدد-مقاس-100-سم",
-      "name": "سرير غرفة نوم مفرد",
-      "category": "غرف نوم",
-      "brand": "متعدد",
-      "unit": "مقاس 100 سم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-سرير-غرفة-نوم-مزدوج-متعدد-مقاس-160-سم",
-      "name": "سرير غرفة نوم مزدوج",
-      "category": "غرف نوم",
-      "brand": "متعدد",
-      "unit": "مقاس 160 سم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-دولاب-ملابس-3-أبواب-متعدد-3-أبواب",
-      "name": "دولاب ملابس 3 أبواب",
-      "category": "دواليب وتخزين",
-      "brand": "متعدد",
-      "unit": "3 أبواب",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-دولاب-ملابس-4-أبواب-متعدد-4-أبواب",
-      "name": "دولاب ملابس 4 أبواب",
-      "category": "دواليب وتخزين",
-      "brand": "متعدد",
-      "unit": "4 أبواب",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كومودينو-غرفة-نوم-متعدد-قطعة",
-      "name": "كومودينو غرفة نوم",
-      "category": "غرف نوم",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-تسريحة-غرفة-نوم-متعدد-قطعة",
-      "name": "تسريحة غرفة نوم",
-      "category": "غرف نوم",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-مرتبة-سرير-مفرد-متعدد-مقاس-مفرد",
-      "name": "مرتبة سرير مفرد",
-      "category": "مراتب",
-      "brand": "متعدد",
-      "unit": "مقاس مفرد",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-مرتبة-سرير-مزدوج-متعدد-مقاس-مزدوج",
-      "name": "مرتبة سرير مزدوج",
-      "category": "مراتب",
-      "brand": "متعدد",
-      "unit": "مقاس مزدوج",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كنبة-2-مقعد-متعدد-2-مقعد",
-      "name": "كنبة 2 مقعد",
-      "category": "أرائك وانتريه",
-      "brand": "متعدد",
-      "unit": "2 مقعد",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كنبة-3-مقاعد-متعدد-3-مقاعد",
-      "name": "Kipper 3-Seater Fabric Sofa",
-      "category": "كنب",
-      "brand": "Home Centre",
-      "unit": "قطعة",
-      "price": 31000,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08",
-      "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
-      "priceStatus": "verified"
-    },
-    {
-      "id": "furniture-ركنة-حرف-l-متعدد-مقاسات-متعددة",
-      "name": "ركنة حرف L",
-      "category": "أرائك وانتريه",
-      "brand": "متعدد",
-      "unit": "مقاسات متعددة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كرسي-فوتيه-متعدد-قطعة",
-      "name": "Kipper Fabric Armchair",
-      "category": "كراسي",
-      "brand": "Home Centre",
-      "unit": "قطعة",
-      "price": 18250,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08",
-      "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
-      "priceStatus": "verified"
-    },
-    {
-      "id": "furniture-ترابيزة-قهوة-متعدد-قطعة",
-      "name": "ترابيزة قهوة",
-      "category": "ترابيزات",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-ترابيزة-تلفزيون-متعدد-قطعة",
-      "name": "ترابيزة تلفزيون",
-      "category": "وحدات تلفزيون",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-وحدة-تلفزيون-معلقة-متعدد-قطعة",
-      "name": "Lupi Wall Unit",
-      "category": "وحدات تلفزيون",
-      "brand": "Home Centre",
-      "unit": "قطعة",
-      "price": 23999,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08",
-      "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
-      "priceStatus": "verified"
-    },
-    {
-      "id": "furniture-مكتبة-منزلية-متعدد-وحدات-متعددة",
-      "name": "Ace Bookcase",
-      "category": "مكتبات",
-      "brand": "Home Centre",
-      "unit": "قطعة",
-      "price": 9499,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08",
-      "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
-      "priceStatus": "verified"
-    },
-    {
-      "id": "furniture-مكتب-دراسة-متعدد-قطعة",
-      "name": "مكتب دراسة",
-      "category": "مكاتب",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كرسي-مكتب-متعدد-قطعة",
-      "name": "كرسي مكتب",
-      "category": "كراسي",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-مكتب-كمبيوتر-متعدد-قطعة",
-      "name": "مكتب كمبيوتر",
-      "category": "مكاتب",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-ترابيزة-سفرة-4-كراسي-متعدد-5-قطع",
-      "name": "Octon 4-Seater Dining Set",
-      "category": "غرف سفرة",
-      "brand": "Home Centre",
-      "unit": "طقم 4 مقاعد",
-      "price": 19199,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08",
-      "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
-      "priceStatus": "verified"
-    },
-    {
-      "id": "furniture-ترابيزة-سفرة-6-كراسي-متعدد-7-قطع",
-      "name": "ترابيزة سفرة 6 كراسي",
-      "category": "غرف سفرة",
-      "brand": "متعدد",
-      "unit": "7 قطع",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كرسي-سفرة-خشب-متعدد-قطعة",
-      "name": "كرسي سفرة خشب",
-      "category": "كراسي",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-بوفيه-سفرة-متعدد-قطعة",
-      "name": "Heaven Buffet",
-      "category": "بوفيهات",
-      "brand": "Home Centre",
-      "unit": "قطعة",
-      "price": 23799,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08",
-      "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
-      "priceStatus": "verified"
-    },
-    {
-      "id": "furniture-جزامة-أحذية-متعدد-قطعة",
-      "name": "جزامة أحذية",
-      "category": "تخزين وتنظيم",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-وحدة-أدراج-بلاستيك-متعدد-وحدات-متعددة",
-      "name": "وحدة أدراج بلاستيك",
-      "category": "تخزين وتنظيم",
-      "brand": "متعدد",
-      "unit": "وحدات متعددة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-رف-حائط-متعدد-قطعة",
-      "name": "رف حائط",
-      "category": "تخزين وتنظيم",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-مكتبة-أطفال-متعدد-قطعة",
-      "name": "مكتبة أطفال",
-      "category": "أثاث أطفال",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-سرير-أطفال-خشب-متعدد-مقاسات-متعددة",
-      "name": "سرير أطفال خشب",
-      "category": "أثاث أطفال",
-      "brand": "متعدد",
-      "unit": "مقاسات متعددة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-مكتب-أطفال-متعدد-قطعة",
-      "name": "مكتب أطفال",
-      "category": "أثاث أطفال",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كرسي-أطفال-متعدد-قطعة",
-      "name": "كرسي أطفال",
-      "category": "أثاث أطفال",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-وحدة-مطبخ-سفلية-متعدد-وحدات-متعددة",
-      "name": "وحدة مطبخ سفلية",
-      "category": "أثاث مطبخ",
-      "brand": "متعدد",
-      "unit": "وحدات متعددة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-وحدة-مطبخ-علوية-متعدد-وحدات-متعددة",
-      "name": "وحدة مطبخ علوية",
-      "category": "أثاث مطبخ",
-      "brand": "متعدد",
-      "unit": "وحدات متعددة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-ترابيزة-مطبخ-متعدد-قطعة",
-      "name": "ترابيزة مطبخ",
-      "category": "أثاث مطبخ",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كرسي-بار-متعدد-قطعة",
-      "name": "كرسي بار",
-      "category": "كراسي",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-سرير-تخزين-متعدد-مقاسات-متعددة",
-      "name": "سرير تخزين",
-      "category": "غرف نوم",
-      "brand": "متعدد",
-      "unit": "مقاسات متعددة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-مرآة-حائط-متعدد-قطعة",
-      "name": "مرآة حائط",
-      "category": "ديكور وأثاث",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-وحدة-مدخل-متعدد-قطعة",
-      "name": "وحدة مدخل",
-      "category": "تخزين وتنظيم",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-طقم-بلكونة-متعدد-طقم",
-      "name": "طقم بلكونة",
-      "category": "أثاث خارجي",
-      "brand": "متعدد",
-      "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-كرسي-حديقة-متعدد-قطعة",
-      "name": "كرسي حديقة",
-      "category": "أثاث خارجي",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "furniture-ترابيزة-حديقة-متعدد-قطعة",
-      "name": "ترابيزة حديقة",
-      "category": "أثاث خارجي",
-      "brand": "متعدد",
-      "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
-    },
-    {
-      "id": "catalog-furniture-0001",
-      "name": "سرير مفرد – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0002",
-      "name": "سرير مفرد – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0003",
-      "name": "سرير مفرد – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0004",
-      "name": "سرير مفرد – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0005",
-      "name": "سرير مزدوج – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0006",
-      "name": "سرير مزدوج – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0007",
-      "name": "سرير مزدوج – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0008",
-      "name": "سرير مزدوج – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0009",
-      "name": "دولاب ملابس – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0010",
-      "name": "دولاب ملابس – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0011",
-      "name": "دولاب ملابس – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0012",
-      "name": "دولاب ملابس – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0013",
-      "name": "كومودينو – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0014",
-      "name": "كومودينو – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0015",
-      "name": "كومودينو – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0016",
-      "name": "كومودينو – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0017",
-      "name": "تسريحة – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0018",
-      "name": "تسريحة – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0019",
-      "name": "تسريحة – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0020",
-      "name": "تسريحة – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0021",
-      "name": "مكتب دراسة – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0022",
-      "name": "مكتب دراسة – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0023",
-      "name": "مكتب دراسة – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0024",
-      "name": "مكتب دراسة – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0025",
-      "name": "مكتب كمبيوتر – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0026",
-      "name": "مكتب كمبيوتر – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0027",
-      "name": "مكتب كمبيوتر – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0028",
-      "name": "مكتب كمبيوتر – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0029",
-      "name": "كرسي مكتب – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0030",
-      "name": "كرسي مكتب – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0031",
-      "name": "كرسي مكتب – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0032",
-      "name": "كرسي مكتب – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0033",
-      "name": "كرسي سفرة – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0034",
-      "name": "كرسي سفرة – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0035",
-      "name": "كرسي سفرة – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0036",
-      "name": "كرسي سفرة – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0037",
-      "name": "ترابيزة سفرة – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0038",
-      "name": "ترابيزة سفرة – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0039",
-      "name": "ترابيزة سفرة – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0040",
-      "name": "ترابيزة سفرة – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0041",
-      "name": "ترابيزة قهوة – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0042",
-      "name": "ترابيزة قهوة – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0043",
-      "name": "ترابيزة قهوة – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0044",
-      "name": "ترابيزة قهوة – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0045",
-      "name": "ترابيزة جانبية – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0046",
-      "name": "ترابيزة جانبية – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0047",
-      "name": "ترابيزة جانبية – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0048",
-      "name": "ترابيزة جانبية – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0049",
-      "name": "كنبة مقعدين – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0050",
-      "name": "كنبة مقعدين – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0051",
-      "name": "كنبة مقعدين – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0052",
-      "name": "كنبة مقعدين – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0053",
-      "name": "كنبة ثلاثة مقاعد – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0054",
-      "name": "كنبة ثلاثة مقاعد – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0055",
-      "name": "كنبة ثلاثة مقاعد – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0056",
-      "name": "كنبة ثلاثة مقاعد – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0057",
-      "name": "ركنة – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0058",
-      "name": "ركنة – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0059",
-      "name": "ركنة – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0060",
-      "name": "ركنة – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0061",
-      "name": "وحدة تلفزيون – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0062",
-      "name": "وحدة تلفزيون – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0063",
-      "name": "وحدة تلفزيون – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0064",
-      "name": "وحدة تلفزيون – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0065",
-      "name": "مكتبة – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0066",
-      "name": "مكتبة – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0067",
-      "name": "مكتبة – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0068",
-      "name": "مكتبة – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0069",
-      "name": "وحدة أحذية – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0070",
-      "name": "وحدة أحذية – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0071",
-      "name": "وحدة أحذية – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0072",
-      "name": "وحدة أحذية – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0073",
-      "name": "جزامة – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0074",
-      "name": "جزامة – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0075",
-      "name": "جزامة – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0076",
-      "name": "جزامة – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0077",
-      "name": "وحدة تخزين – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0078",
-      "name": "وحدة تخزين – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0079",
-      "name": "وحدة تخزين – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0080",
-      "name": "وحدة تخزين – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0081",
-      "name": "وحدة مطبخ – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0082",
-      "name": "وحدة مطبخ – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0083",
-      "name": "وحدة مطبخ – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0084",
-      "name": "وحدة مطبخ – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0085",
-      "name": "دولاب مطبخ – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0086",
-      "name": "دولاب مطبخ – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0087",
-      "name": "دولاب مطبخ – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0088",
-      "name": "دولاب مطبخ – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0089",
-      "name": "ترابيزة مطبخ – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0090",
-      "name": "ترابيزة مطبخ – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0091",
-      "name": "ترابيزة مطبخ – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0092",
-      "name": "ترابيزة مطبخ – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0093",
-      "name": "مقعد بار – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0094",
-      "name": "مقعد بار – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0095",
-      "name": "مقعد بار – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0096",
-      "name": "مقعد بار – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0097",
-      "name": "مقعد أطفال – خشب MDF",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0098",
-      "name": "مقعد أطفال – خشب زان",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0099",
-      "name": "مقعد أطفال – خشب موسكي",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "catalog-furniture-0100",
-      "name": "مقعد أطفال – معدن وخشب",
-      "category": "أثاث",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
-    },
-    {
-      "id": "furn-rubik-fabric-dining-chair-20261108",
-      "name": "Rubik Fabric Dining Chair",
-      "brand": "Home Centre",
-      "category": "كراسي سفرة",
-      "price": 5819,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-boston-fabric-dining-chair-20261108",
-      "name": "Boston Fabric Dining Chair",
-      "brand": "Home Centre",
-      "category": "كراسي سفرة",
-      "price": 6599,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-jan-deluxe-single-mattress-20261108",
-      "name": "Jan Deluxe Single Mattress 120x200 cm",
-      "brand": "Home Centre",
-      "category": "مراتب",
-      "price": 6499,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-baden-fabric-armchair-20261108",
-      "name": "Baden Fabric Armchair",
-      "brand": "Home Centre",
-      "category": "كراسي",
-      "price": 17999,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-octon-4-seater-dining-set-20261108",
-      "name": "Octon 4-Seater Dining Set",
-      "brand": "Home Centre",
-      "category": "سفرات",
-      "price": 34199,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-baden-3-seater-sofa-20261108",
-      "name": "Baden 3-Seater Fabric Sofa",
-      "brand": "Home Centre",
-      "category": "أرائك",
-      "price": 9499,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-ace-bookcase-20261108",
-      "name": "Ace Bookcase",
-      "brand": "Home Centre",
-      "category": "مكتبات",
-      "price": 23999,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-lupi-wall-unit-20261108",
-      "name": "Lupi Wall Unit",
-      "brand": "Home Centre",
-      "category": "وحدات تلفزيون",
-      "price": 61799,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-rubik-6-seater-dining-table-20261108",
-      "name": "Rubik 6-Seater Dining Table",
-      "brand": "Home Centre",
-      "category": "ترابيزات سفرة",
-      "price": 60899,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    },
-    {
-      "id": "furn-dublin-king-bedroom-set-20261108",
-      "name": "Dublin 4-Piece King Bedroom Set 180x200 cm",
-      "brand": "Home Centre",
-      "category": "غرف نوم",
-      "price": 60899,
-      "merchant": "Home Centre Egypt",
-      "source": "https://www.homecentre.com/eg/en/c/furniture",
-      "checkedAt": "2026-11-08"
-    }
-  ]
-}
+[
+  {
+    "id": "furn-homecentre-chair",
+    "name": "كرسي سفرة قماش Trixia",
+    "category": "كراسي",
+    "brand": "Home Centre",
+    "price": 3999,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-homecentre-wardrobe",
+    "name": "دولاب Mabel ستة أبواب مع أدراج",
+    "category": "دواليب وتخزين",
+    "brand": "Home Centre",
+    "price": 61799,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-homecentre-sofa",
+    "name": "كنبة Kipper مقعدين قماش",
+    "category": "كنب",
+    "brand": "Home Centre",
+    "price": 26000,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-homecentre-mattress",
+    "name": "مرتبة Jan Deluxe مفردة 120×200 سم",
+    "category": "مراتب",
+    "brand": "Home Centre",
+    "price": 6499,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-ileera-table",
+    "name": "ترابيزة طعام ومذاكرة خشبية Talqa",
+    "category": "ترابيزات",
+    "brand": "ILEERA",
+    "price": 3999,
+    "merchant": "ILEERA Furniture",
+    "source": "https://ileerafurniture.com/",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-ileera-side",
+    "name": "ترابيزة جانبية Estekana",
+    "category": "ترابيزات",
+    "brand": "ILEERA",
+    "price": 1099,
+    "merchant": "ILEERA Furniture",
+    "source": "https://ileerafurniture.com/",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-woodco-sofabed",
+    "name": "كنبة سرير WOODCO مودرن",
+    "category": "كنب وسراير",
+    "brand": "WOODCO",
+    "price": 6850,
+    "merchant": "WOODCO Furniture",
+    "source": "https://woodcoegypt.com/ar/collections/sofa-bed",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-cataloug-bed",
+    "name": "سرير MDF مقاس 160×195 سم",
+    "category": "سراير",
+    "brand": "Cataloug",
+    "price": 10499,
+    "merchant": "Cataloug",
+    "source": "https://cataloug.com/en/",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-cataloug-wardrobe",
+    "name": "دولاب MDF مقاس 160×50×185 سم",
+    "category": "دواليب وتخزين",
+    "brand": "Cataloug",
+    "price": 19699,
+    "merchant": "Cataloug",
+    "source": "https://cataloug.com/en/",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-cataloug-tv",
+    "name": "وحدة تلفزيون MDF مقاس 200×40×35 سم",
+    "category": "وحدات تلفزيون",
+    "brand": "Cataloug",
+    "price": 11499,
+    "merchant": "Cataloug",
+    "source": "https://cataloug.com/en/",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-hub-bed",
+    "name": "سرير METROPOL-EM عرض 180 سم",
+    "category": "سراير",
+    "brand": "Hub Furniture",
+    "price": 18580,
+    "merchant": "Hub Furniture",
+    "source": "https://hubfurniture.com.eg/en/bedroom-furniture/shop-by-item",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-hub-bed120",
+    "name": "سرير CITY-EM عرض 120 سم",
+    "category": "سراير",
+    "brand": "Hub Furniture",
+    "price": 12038,
+    "merchant": "Hub Furniture",
+    "source": "https://hubfurniture.com.eg/en/bedroom-furniture/shop-by-item",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furn-bath-trolley",
+    "name": "عربة حمام بثلاثة أرفف",
+    "category": "تخزين وتنظيم",
+    "brand": "Jumia",
+    "price": 350,
+    "merchant": "Jumia",
+    "source": "https://www.jumia.com.eg/",
+    "checkedAt": "2026-11-02"
+  },
+  {
+    "id": "furniture-سرير-غرفة-نوم-مفرد-متعدد-مقاس-100-سم",
+    "name": "سرير غرفة نوم مفرد",
+    "category": "غرف نوم",
+    "brand": "متعدد",
+    "unit": "مقاس 100 سم",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-سرير-غرفة-نوم-مزدوج-متعدد-مقاس-160-سم",
+    "name": "سرير غرفة نوم مزدوج",
+    "category": "غرف نوم",
+    "brand": "متعدد",
+    "unit": "مقاس 160 سم",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-دولاب-ملابس-3-أبواب-متعدد-3-أبواب",
+    "name": "دولاب ملابس 3 أبواب",
+    "category": "دواليب وتخزين",
+    "brand": "متعدد",
+    "unit": "3 أبواب",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-دولاب-ملابس-4-أبواب-متعدد-4-أبواب",
+    "name": "دولاب ملابس 4 أبواب",
+    "category": "دواليب وتخزين",
+    "brand": "متعدد",
+    "unit": "4 أبواب",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كومودينو-غرفة-نوم-متعدد-قطعة",
+    "name": "كومودينو غرفة نوم",
+    "category": "غرف نوم",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-تسريحة-غرفة-نوم-متعدد-قطعة",
+    "name": "تسريحة غرفة نوم",
+    "category": "غرف نوم",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-مرتبة-سرير-مفرد-متعدد-مقاس-مفرد",
+    "name": "مرتبة سرير مفرد",
+    "category": "مراتب",
+    "brand": "متعدد",
+    "unit": "مقاس مفرد",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-مرتبة-سرير-مزدوج-متعدد-مقاس-مزدوج",
+    "name": "مرتبة سرير مزدوج",
+    "category": "مراتب",
+    "brand": "متعدد",
+    "unit": "مقاس مزدوج",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كنبة-2-مقعد-متعدد-2-مقعد",
+    "name": "كنبة 2 مقعد",
+    "category": "أرائك وانتريه",
+    "brand": "متعدد",
+    "unit": "2 مقعد",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كنبة-3-مقاعد-متعدد-3-مقاعد",
+    "name": "Kipper 3-Seater Fabric Sofa",
+    "category": "كنب",
+    "brand": "Home Centre",
+    "unit": "قطعة",
+    "price": 31000,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08",
+    "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-ركنة-حرف-l-متعدد-مقاسات-متعددة",
+    "name": "ركنة حرف L",
+    "category": "أرائك وانتريه",
+    "brand": "متعدد",
+    "unit": "مقاسات متعددة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كرسي-فوتيه-متعدد-قطعة",
+    "name": "Kipper Fabric Armchair",
+    "category": "كراسي",
+    "brand": "Home Centre",
+    "unit": "قطعة",
+    "price": 18250,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08",
+    "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-ترابيزة-قهوة-متعدد-قطعة",
+    "name": "ترابيزة قهوة",
+    "category": "ترابيزات",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-ترابيزة-تلفزيون-متعدد-قطعة",
+    "name": "ترابيزة تلفزيون",
+    "category": "وحدات تلفزيون",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-وحدة-تلفزيون-معلقة-متعدد-قطعة",
+    "name": "Lupi Wall Unit",
+    "category": "وحدات تلفزيون",
+    "brand": "Home Centre",
+    "unit": "قطعة",
+    "price": 23999,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08",
+    "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-مكتبة-منزلية-متعدد-وحدات-متعددة",
+    "name": "Ace Bookcase",
+    "category": "مكتبات",
+    "brand": "Home Centre",
+    "unit": "قطعة",
+    "price": 9499,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08",
+    "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-مكتب-دراسة-متعدد-قطعة",
+    "name": "مكتب دراسة",
+    "category": "مكاتب",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كرسي-مكتب-متعدد-قطعة",
+    "name": "كرسي مكتب",
+    "category": "كراسي",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-مكتب-كمبيوتر-متعدد-قطعة",
+    "name": "مكتب كمبيوتر",
+    "category": "مكاتب",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-ترابيزة-سفرة-4-كراسي-متعدد-5-قطع",
+    "name": "Octon 4-Seater Dining Set",
+    "category": "غرف سفرة",
+    "brand": "Home Centre",
+    "unit": "طقم 4 مقاعد",
+    "price": 19199,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08",
+    "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-ترابيزة-سفرة-6-كراسي-متعدد-7-قطع",
+    "name": "ترابيزة سفرة 6 كراسي",
+    "category": "غرف سفرة",
+    "brand": "متعدد",
+    "unit": "7 قطع",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كرسي-سفرة-خشب-متعدد-قطعة",
+    "name": "كرسي سفرة خشب",
+    "category": "كراسي",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-بوفيه-سفرة-متعدد-قطعة",
+    "name": "Heaven Buffet",
+    "category": "بوفيهات",
+    "brand": "Home Centre",
+    "unit": "قطعة",
+    "price": 23799,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08",
+    "details": "السعر المعروض في قائمة الأثاث؛ يتغير حسب التوفر والعرض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-جزامة-أحذية-متعدد-قطعة",
+    "name": "جزامة أحذية",
+    "category": "تخزين وتنظيم",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-وحدة-أدراج-بلاستيك-متعدد-وحدات-متعددة",
+    "name": "وحدة أدراج بلاستيك",
+    "category": "تخزين وتنظيم",
+    "brand": "متعدد",
+    "unit": "وحدات متعددة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-رف-حائط-متعدد-قطعة",
+    "name": "رف حائط",
+    "category": "تخزين وتنظيم",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-مكتبة-أطفال-متعدد-قطعة",
+    "name": "مكتبة أطفال",
+    "category": "أثاث أطفال",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-سرير-أطفال-خشب-متعدد-مقاسات-متعددة",
+    "name": "سرير أطفال خشب",
+    "category": "أثاث أطفال",
+    "brand": "متعدد",
+    "unit": "مقاسات متعددة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-مكتب-أطفال-متعدد-قطعة",
+    "name": "مكتب أطفال",
+    "category": "أثاث أطفال",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كرسي-أطفال-متعدد-قطعة",
+    "name": "كرسي أطفال",
+    "category": "أثاث أطفال",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-وحدة-مطبخ-سفلية-متعدد-وحدات-متعددة",
+    "name": "وحدة مطبخ سفلية",
+    "category": "أثاث مطبخ",
+    "brand": "متعدد",
+    "unit": "وحدات متعددة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-وحدة-مطبخ-علوية-متعدد-وحدات-متعددة",
+    "name": "وحدة مطبخ علوية",
+    "category": "أثاث مطبخ",
+    "brand": "متعدد",
+    "unit": "وحدات متعددة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-ترابيزة-مطبخ-متعدد-قطعة",
+    "name": "ترابيزة مطبخ",
+    "category": "أثاث مطبخ",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كرسي-بار-متعدد-قطعة",
+    "name": "كرسي بار",
+    "category": "كراسي",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-سرير-تخزين-متعدد-مقاسات-متعددة",
+    "name": "سرير تخزين",
+    "category": "غرف نوم",
+    "brand": "متعدد",
+    "unit": "مقاسات متعددة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-مرآة-حائط-متعدد-قطعة",
+    "name": "مرآة حائط",
+    "category": "ديكور وأثاث",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-وحدة-مدخل-متعدد-قطعة",
+    "name": "وحدة مدخل",
+    "category": "تخزين وتنظيم",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-طقم-بلكونة-متعدد-طقم",
+    "name": "طقم بلكونة",
+    "category": "أثاث خارجي",
+    "brand": "متعدد",
+    "unit": "طقم",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-كرسي-حديقة-متعدد-قطعة",
+    "name": "كرسي حديقة",
+    "category": "أثاث خارجي",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "furniture-ترابيزة-حديقة-متعدد-قطعة",
+    "name": "ترابيزة حديقة",
+    "category": "أثاث خارجي",
+    "brand": "متعدد",
+    "unit": "قطعة",
+    "price": null,
+    "merchant": null,
+    "source": null,
+    "checkedAt": null,
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+  },
+  {
+    "id": "catalog-furniture-0001",
+    "name": "سرير مفرد – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0002",
+    "name": "سرير مفرد – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0003",
+    "name": "سرير مفرد – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0004",
+    "name": "سرير مفرد – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0005",
+    "name": "سرير مزدوج – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0006",
+    "name": "سرير مزدوج – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0007",
+    "name": "سرير مزدوج – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0008",
+    "name": "سرير مزدوج – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0009",
+    "name": "دولاب ملابس – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0010",
+    "name": "دولاب ملابس – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0011",
+    "name": "دولاب ملابس – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0012",
+    "name": "دولاب ملابس – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0013",
+    "name": "كومودينو – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0014",
+    "name": "كومودينو – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0015",
+    "name": "كومودينو – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0016",
+    "name": "كومودينو – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0017",
+    "name": "تسريحة – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0018",
+    "name": "تسريحة – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0019",
+    "name": "تسريحة – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0020",
+    "name": "تسريحة – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0021",
+    "name": "مكتب دراسة – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0022",
+    "name": "مكتب دراسة – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0023",
+    "name": "مكتب دراسة – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0024",
+    "name": "مكتب دراسة – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0025",
+    "name": "مكتب كمبيوتر – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0026",
+    "name": "مكتب كمبيوتر – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0027",
+    "name": "مكتب كمبيوتر – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0028",
+    "name": "مكتب كمبيوتر – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0029",
+    "name": "كرسي مكتب – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0030",
+    "name": "كرسي مكتب – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0031",
+    "name": "كرسي مكتب – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0032",
+    "name": "كرسي مكتب – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0033",
+    "name": "كرسي سفرة – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0034",
+    "name": "كرسي سفرة – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0035",
+    "name": "كرسي سفرة – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0036",
+    "name": "كرسي سفرة – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0037",
+    "name": "ترابيزة سفرة – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0038",
+    "name": "ترابيزة سفرة – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0039",
+    "name": "ترابيزة سفرة – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0040",
+    "name": "ترابيزة سفرة – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0041",
+    "name": "ترابيزة قهوة – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0042",
+    "name": "ترابيزة قهوة – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0043",
+    "name": "ترابيزة قهوة – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0044",
+    "name": "ترابيزة قهوة – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0045",
+    "name": "ترابيزة جانبية – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0046",
+    "name": "ترابيزة جانبية – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0047",
+    "name": "ترابيزة جانبية – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0048",
+    "name": "ترابيزة جانبية – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0049",
+    "name": "كنبة مقعدين – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0050",
+    "name": "كنبة مقعدين – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0051",
+    "name": "كنبة مقعدين – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0052",
+    "name": "كنبة مقعدين – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0053",
+    "name": "كنبة ثلاثة مقاعد – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0054",
+    "name": "كنبة ثلاثة مقاعد – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0055",
+    "name": "كنبة ثلاثة مقاعد – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0056",
+    "name": "كنبة ثلاثة مقاعد – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0057",
+    "name": "ركنة – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0058",
+    "name": "ركنة – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0059",
+    "name": "ركنة – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0060",
+    "name": "ركنة – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0061",
+    "name": "وحدة تلفزيون – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0062",
+    "name": "وحدة تلفزيون – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0063",
+    "name": "وحدة تلفزيون – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0064",
+    "name": "وحدة تلفزيون – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0065",
+    "name": "مكتبة – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0066",
+    "name": "مكتبة – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0067",
+    "name": "مكتبة – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0068",
+    "name": "مكتبة – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0069",
+    "name": "وحدة أحذية – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0070",
+    "name": "وحدة أحذية – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0071",
+    "name": "وحدة أحذية – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0072",
+    "name": "وحدة أحذية – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0073",
+    "name": "جزامة – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0074",
+    "name": "جزامة – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0075",
+    "name": "جزامة – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0076",
+    "name": "جزامة – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0077",
+    "name": "وحدة تخزين – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0078",
+    "name": "وحدة تخزين – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0079",
+    "name": "وحدة تخزين – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0080",
+    "name": "وحدة تخزين – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0081",
+    "name": "وحدة مطبخ – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0082",
+    "name": "وحدة مطبخ – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0083",
+    "name": "وحدة مطبخ – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0084",
+    "name": "وحدة مطبخ – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0085",
+    "name": "دولاب مطبخ – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0086",
+    "name": "دولاب مطبخ – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0087",
+    "name": "دولاب مطبخ – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0088",
+    "name": "دولاب مطبخ – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0089",
+    "name": "ترابيزة مطبخ – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0090",
+    "name": "ترابيزة مطبخ – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0091",
+    "name": "ترابيزة مطبخ – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0092",
+    "name": "ترابيزة مطبخ – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0093",
+    "name": "مقعد بار – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0094",
+    "name": "مقعد بار – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0095",
+    "name": "مقعد بار – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0096",
+    "name": "مقعد بار – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0097",
+    "name": "مقعد أطفال – خشب MDF",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0098",
+    "name": "مقعد أطفال – خشب زان",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0099",
+    "name": "مقعد أطفال – خشب موسكي",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "catalog-furniture-0100",
+    "name": "مقعد أطفال – معدن وخشب",
+    "category": "أثاث",
+    "brand": "متعدد",
+    "price": null,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+  },
+  {
+    "id": "furn-rubik-fabric-dining-chair-20261108",
+    "name": "Rubik Fabric Dining Chair",
+    "brand": "Home Centre",
+    "category": "كراسي سفرة",
+    "price": 5819,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-boston-fabric-dining-chair-20261108",
+    "name": "Boston Fabric Dining Chair",
+    "brand": "Home Centre",
+    "category": "كراسي سفرة",
+    "price": 6599,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-jan-deluxe-single-mattress-20261108",
+    "name": "Jan Deluxe Single Mattress 120x200 cm",
+    "brand": "Home Centre",
+    "category": "مراتب",
+    "price": 6499,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-baden-fabric-armchair-20261108",
+    "name": "Baden Fabric Armchair",
+    "brand": "Home Centre",
+    "category": "كراسي",
+    "price": 17999,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-octon-4-seater-dining-set-20261108",
+    "name": "Octon 4-Seater Dining Set",
+    "brand": "Home Centre",
+    "category": "سفرات",
+    "price": 34199,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-baden-3-seater-sofa-20261108",
+    "name": "Baden 3-Seater Fabric Sofa",
+    "brand": "Home Centre",
+    "category": "أرائك",
+    "price": 9499,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-ace-bookcase-20261108",
+    "name": "Ace Bookcase",
+    "brand": "Home Centre",
+    "category": "مكتبات",
+    "price": 23999,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-lupi-wall-unit-20261108",
+    "name": "Lupi Wall Unit",
+    "brand": "Home Centre",
+    "category": "وحدات تلفزيون",
+    "price": 61799,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-rubik-6-seater-dining-table-20261108",
+    "name": "Rubik 6-Seater Dining Table",
+    "brand": "Home Centre",
+    "category": "ترابيزات سفرة",
+    "price": 60899,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furn-dublin-king-bedroom-set-20261108",
+    "name": "Dublin 4-Piece King Bedroom Set 180x200 cm",
+    "brand": "Home Centre",
+    "category": "غرف نوم",
+    "price": 60899,
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-08"
+  },
+  {
+    "id": "furniture-rubik-dining-chair-20261109",
+    "name": "كرسي سفرة قماش Rubik",
+    "category": "أثاث منزلي",
+    "brand": "Home Centre",
+    "price": 5819,
+    "unit": "قطعة",
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "السعر المعروض على صفحة الأثاث؛ بعض الأسعار عروض تخفيض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-boston-dining-chair-20261109",
+    "name": "كرسي سفرة قماش Boston",
+    "category": "أثاث منزلي",
+    "brand": "Home Centre",
+    "price": 6599,
+    "unit": "قطعة",
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "السعر المعروض على صفحة الأثاث؛ بعض الأسعار عروض تخفيض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-jan-deluxe-mattress-120-20261109",
+    "name": "مرتبة Jan Deluxe مفرد 120×200 سم",
+    "category": "أثاث منزلي",
+    "brand": "Home Centre",
+    "price": 6499,
+    "unit": "قطعة",
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "السعر المعروض على صفحة الأثاث؛ بعض الأسعار عروض تخفيض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-baden-armchair-20261109",
+    "name": "كرسي استرخاء Baden قماش",
+    "category": "أثاث منزلي",
+    "brand": "Home Centre",
+    "price": 17999,
+    "unit": "قطعة",
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "السعر المعروض على صفحة الأثاث؛ بعض الأسعار عروض تخفيض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-octon-dining-set-4-20261109",
+    "name": "طقم سفرة Octon لأربعة أشخاص",
+    "category": "أثاث منزلي",
+    "brand": "Home Centre",
+    "price": 19199,
+    "unit": "طقم",
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "السعر المعروض على صفحة الأثاث؛ بعض الأسعار عروض تخفيض.",
+    "priceStatus": "verified"
+  },
+  {
+    "id": "furniture-baden-sofa-3-20261109",
+    "name": "كنبة Baden قماش 3 مقاعد",
+    "category": "أثاث منزلي",
+    "brand": "Home Centre",
+    "price": 34199,
+    "unit": "قطعة",
+    "merchant": "Home Centre Egypt",
+    "source": "https://www.homecentre.com/eg/en/c/furniture",
+    "checkedAt": "2026-11-09",
+    "details": "السعر المعروض على صفحة الأثاث؛ بعض الأسعار عروض تخفيض.",
+    "priceStatus": "verified"
+  }
+]
