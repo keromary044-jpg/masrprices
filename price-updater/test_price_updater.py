@@ -58,6 +58,7 @@ class PriceUpdaterTests(unittest.TestCase):
         self.assertEqual(product["merchant"], "Raneen")
         self.assertEqual(product["priceOffers"][0]["variant"], "Thehomemart")
         self.assertEqual(mocked.call_count, 2)
+        self.assertIn("language=ar", mocked.call_args_list[0].args[0])
 
     def test_raneen_rejects_out_of_stock_and_wrong_currency(self):
         product = {"name":"Bosch MCM3421M Food Processor","brand":"Bosch"}
@@ -74,6 +75,8 @@ class PriceUpdaterTests(unittest.TestCase):
             }, catalogs, "2026-11-09")
         self.assertEqual(accepted, 0)
         self.assertNotIn("priceOffers", product)
+        self.assertNotIn("priceSearchAttempts", product)
+        self.assertNotIn("priceSearchLastAttempt", product)
         mocked.assert_called_once()
 
     def test_partial_name_is_rejected(self):
