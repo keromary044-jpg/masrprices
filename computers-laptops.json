@@ -1242,13 +1242,17 @@
       "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
-      "name": "كارت شاشة – Intel Core i5 / 8GB / 512GB",
-      "brand": "ماركات متعددة",
+      "name": "ZOTAC GeForce RTX 3050 Twin Edge OC 6GB GDDR6",
+      "brand": "ZOTAC",
       "category": "الكمبيوتر واللاب توب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 12999,
+      "details": "كارت شاشة منفصل NVIDIA GeForce RTX 3050 بسعة 6GB GDDR6؛ السعر المرصود 12,999 جنيهًا في Maximum Hardware.",
       "priceSearchAttempts": 2,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Maximum Hardware",
+      "source": "https://connect4techs.com/hardware-prices/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كارت شاشة – Intel Core i5 / 16GB / 512GB",
