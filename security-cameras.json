@@ -446,11 +446,15 @@
       "checkedAt": "2026-11-09"
     },
     {
-      "name": "كاميرا PoE – 8MP",
-      "brand": "ماركات متعددة",
+      "name": "Hikvision DS-2CD1083G0-I 8MP PoE Outdoor IP Camera",
+      "brand": "Hikvision",
       "category": "كاميرات المراقبة والأمان",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4595,
+      "details": "كاميرا IP خارجية 8MP بعدسة 4mm وتغذية PoE؛ السعر المنشور 4,595 جنيهًا.",
+      "merchant": "Fast Egy",
+      "source": "https://www.fastegy.net/ar/shop/ds-2cd1083g0-i-4mm-2034",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "كاميرا PoE – عدسة 2.8 مم",
