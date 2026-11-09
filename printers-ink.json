@@ -436,13 +436,17 @@
       "checkedAt": "2026-11-08"
     },
     {
-      "name": "طابعة صور – USB",
-      "brand": "ماركات متعددة",
+      "name": "Canon SELPHY CP1300 Compact Photo Printer",
+      "brand": "Canon",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 8471,
+      "details": "طابعة صور مدمجة Canon SELPHY CP1300؛ السعر المنشور بعد الخصم 8,471 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo",
+      "merchant": "Camera Shop Egypt",
+      "source": "https://camerashop.com.eg/product-category/printers/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Canon PIXMA TS3640 Wireless Colour Inkjet Printer",
@@ -600,13 +604,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يجب تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "ماسح ضوئي – لاسلكية",
-      "brand": "ماركات متعددة",
+      "name": "Canon CanoScan LiDE 300 USB Scanner",
+      "brand": "Canon",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 3999,
+      "details": "ماسح مستندات Canon CanoScan LiDE 300 بوصلة USB؛ السعر المنشور 3,999 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "iMedia Stores Egypt",
+      "source": "https://priceteq.com/eg/shop/940?cat=printer",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "Canon CanoScan LiDE 300 USB Scanner",
@@ -679,13 +687,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "خرطوشة حبر أسود – سعة قياسية",
-      "brand": "ماركات متعددة",
+      "name": "Epson EcoTank 103 Black Ink Bottle 65ml",
+      "brand": "Epson",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 599,
+      "details": "زجاجة حبر Epson EcoTank 103 سوداء سعة 65ml؛ أقل سعر مرصود 599 جنيهًا بتاريخ 8 سبتمبر 2026.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:48 Cairo",
+      "merchant": "Noon Egypt (سعر مرصود عبر SookPrice)",
+      "source": "https://www.sookprice.com/product/epson-103-ink-bottle-set?country=EG",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "name": "HP 653 Color Original Ink Cartridge 3YM74AE",
@@ -736,13 +748,17 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "خرطوشة حبر ألوان – سعة قياسية",
-      "brand": "ماركات متعددة",
+      "name": "Canon GI-490 Original CMYK Ink Bottle Set",
+      "brand": "Canon",
       "category": "الطابعات والأحبار",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 2189,
+      "details": "مجموعة زجاجات حبر Canon GI-490 الأصلية بأربعة ألوان؛ السعر المنشور 2,189 جنيهًا.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/office-supplies/office-electronics/printer-accessories-18895/inks-refill-kits/all-products-eg/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
       "id": "printer-canon-pixma-mg2541s-2b",
