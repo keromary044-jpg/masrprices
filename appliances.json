@@ -871,13 +871,17 @@
   },
   {
     "id": "appliances-catalog-049",
-    "name": "مبرد هواء – مقاس صغير",
+    "name": "Fresh F-AH-2000W مبرد هواء وسخان 2 في 1 سعة 15 لتر",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 3575,
+    "merchant": "Raya Shop Egypt",
+    "source": "https://www.rayashop.com/en/fresh",
+    "checkedAt": "2026-11-09",
+    "brand": "Fresh",
+    "currency": "EGP",
+    "unit": "جهاز",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المنشور لدى راية شوب وقت الرصد؛ قد يختلف حسب البائع والتوفر والعروض."
   },
   {
     "id": "appliances-catalog-050",
@@ -933,13 +937,17 @@
   },
   {
     "id": "appliances-catalog-054",
-    "name": "ثلاجة باب واحد – مقاس متوسط",
+    "name": "Fresh FMB140 ثلاجة ميني بار ديفروست 91 لتر",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 8989,
+    "merchant": "Raya Shop Egypt",
+    "source": "https://www.rayashop.com/en/fresh",
+    "checkedAt": "2026-11-09",
+    "brand": "Fresh",
+    "currency": "EGP",
+    "unit": "جهاز",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المنشور لدى راية شوب وقت الرصد؛ قد يختلف حسب البائع والتوفر والعروض."
   },
   {
     "id": "appliances-catalog-055",
