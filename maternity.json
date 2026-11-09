@@ -434,13 +434,17 @@
       "priceStatus": "سعر منشور في قائمة المتجر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير."
     },
     {
-      "name": "أكياس تخزين الحليب – متوسط",
-      "brand": "ماركات متعددة",
+      "name": "True Baby Breast Milk Storage Bags",
+      "brand": "True Baby",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 555,
+      "details": "أكياس تخزين حليب الأم من True Baby؛ السعر الظاهر على Noon Egypt وقت الرصد.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/breast-milk-storage-bags/Z0E4EFCB995C6F4876117Z/p/",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "سعر منشور على صفحة المنتج بتاريخ 9 نوفمبر 2026؛ الكمية والتوافر محدودان ويجب التأكيد."
     },
     {
       "name": "أكياس تخزين الحليب – كبير",
