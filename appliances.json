@@ -159,10 +159,22 @@
     "category": "ديب فريزر",
     "brand": "Fresh",
     "model": "FNU-MT271B",
-    "price": 23499,
-    "merchant": "2B",
-    "source": "https://2b.com.eg/ar/home-appliances.html",
-    "checkedAt": "2026-11-02"
+    "price": 23199.0,
+    "merchant": "Raneen",
+    "source": "https://www.raneen.com/en/el1120822blk",
+    "checkedAt": "2026-11-09 15:04 Cairo",
+    "priceOffers": [
+      {
+        "merchant": "Raneen",
+        "priceEGP": 23199.0,
+        "source": "https://www.raneen.com/en/el1120822blk",
+        "sourceLabel": "Raneen Public Catalogue API",
+        "checkedAt": "2026-11-09 15:04 Cairo",
+        "variant": "raneen"
+      }
+    ],
+    "priceProvider": "Raneen Public Catalogue API",
+    "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء"
   },
   {
     "id": "app-washer-lg-8",
@@ -963,7 +975,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
   },
   {
     "id": "appliances-catalog-056",
@@ -1464,7 +1478,9 @@
     "merchant": "غير محدد",
     "source": "",
     "checkedAt": "",
-    "brand": "غير محدد"
+    "brand": "غير محدد",
+    "priceSearchAttempts": 1,
+    "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
   },
   {
     "id": "appliances-catalog-098",

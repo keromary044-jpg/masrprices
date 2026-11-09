@@ -601,7 +601,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
     },
     {
       "name": "بيجامة رضاعة – متوسط",
@@ -622,7 +624,9 @@
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
       "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "details": "عنصر تعريفي بالكتالوج.",
+      "priceSearchAttempts": 1,
+      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
     },
     {
       "name": "حقيبة مستشفى الولادة – صغير",
@@ -976,5 +980,5 @@
     }
   ],
   "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 14:51 Cairo"
+  "lastAutomaticUpdate": "2026-11-09 15:04 Cairo"
 }
