@@ -714,7 +714,7 @@ def run_raneen(source, catalogs, checked_at):
         if last_search_request and wait > 0:
             time.sleep(wait)
         last_search_request = time.monotonic()
-        language = "ar" if re.search(r"[\\u0600-\\u06FF]", name) else "en"
+        language = "ar" if any(0x0600 <= ord(ch) <= 0x06FF for ch in name) else "en"
         query = urllib.parse.urlencode({"query": f"{name} {brand}", "language": language,
                                         "page": 1, "page_size": details_per_search})
         try:
