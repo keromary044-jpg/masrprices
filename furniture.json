@@ -155,15 +155,16 @@
   },
   {
     "id": "furniture-دولاب-ملابس-3-أبواب-متعدد-3-أبواب",
-    "name": "دولاب ملابس 3 أبواب",
+    "name": "PLATSA Open clothes hanging unit",
     "category": "دواليب وتخزين",
-    "brand": "متعدد",
-    "unit": "3 أبواب",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "brand": "IKEA",
+    "unit": "وحدة",
+    "price": 3295,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.lowqta.com/en/c/furniture",
+    "checkedAt": "2026-09-04",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "furniture-دولاب-ملابس-4-أبواب-متعدد-4-أبواب",
@@ -279,15 +280,16 @@
   },
   {
     "id": "furniture-ترابيزة-قهوة-متعدد-قطعة",
-    "name": "ترابيزة قهوة",
+    "name": "Mango wood side table",
     "category": "ترابيزات",
-    "brand": "متعدد",
+    "brand": "H&M Home",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 8550,
+    "merchant": "H&M",
+    "source": "https://www.lowqta.com/en/c/furniture",
+    "checkedAt": "2026-09-14",
+    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء.",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "furniture-ترابيزة-تلفزيون-متعدد-قطعة",

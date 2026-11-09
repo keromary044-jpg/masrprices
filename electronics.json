@@ -361,15 +361,17 @@
   },
   {
     "id": "elx-0001",
-    "name": "Samsung Crystal UHD 4K 43",
+    "name": "Samsung 43 Inch Smart TV FHD LED 43F6000F",
     "category": "الشاشات والتلفزيونات",
     "brand": "Samsung",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14699,
+    "merchant": "B.TECH",
+    "source": "https://www.lowqta.com/ar/deal/btech-1TSATVSM43F6000FL007/samsung-43-inch-smart-tv-fhd-led-built-in-receiver-43f6000f",
+    "checkedAt": "2026-11-07",
+    "priceStatus": "observed_store_price",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "model": "43F6000F",
+    "unit": "جهاز"
   },
   {
     "id": "elx-0002",
@@ -487,15 +489,17 @@
   },
   {
     "id": "elx-0011",
-    "name": "LG UHD UR78 43",
+    "name": "LG 43 Inch FHD HDR LED Smart TV 43LM6370PVA",
     "category": "الشاشات والتلفزيونات",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17500,
+    "merchant": "Dream 2000",
+    "source": "https://www.lowqta.com/ar/deal/dream2000-8254806229131/43-fhd-hdr-led-43lm6370pva-brands-tvs",
+    "checkedAt": "2026-11-06",
+    "priceStatus": "observed_store_price",
+    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "model": "43LM6370PVA",
+    "unit": "جهاز"
   },
   {
     "id": "elx-0012",

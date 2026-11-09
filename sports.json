@@ -919,11 +919,16 @@
   },
   {
     "id": "catalog-sports-0040",
-    "name": "شنطة رياضية – مقاس صغير",
+    "name": "Adicolor Backpack",
     "category": "رياضة",
-    "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "brand": "Adidas",
+    "price": 1364,
+    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة.",
+    "unit": "قطعة",
+    "merchant": "WayUp Sports",
+    "source": "https://www.lowqta.com/ar/store/wayup-sports/accessories",
+    "checkedAt": "2026-11-08",
+    "priceStatus": "observed_store_price"
   },
   {
     "id": "catalog-sports-0041",
