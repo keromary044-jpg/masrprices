@@ -2519,6 +2519,18 @@
       "source": "https://elghazawy.com/ar/sub-category/Household-Cleaners",
       "priceStatus": "بانتظار مطابقة المنتج والعبوة مع مصدر بيع موثوق",
       "details": "عنصر كتالوج استرشادي. لا يُعرض له سعر حتى يتم التحقق من الاسم التجاري والعبوة والسعر لدى متجر محدد."
+    },
+    {
+      "id": "clean-persil-black-gel-25l",
+      "name": "Persil Gel For Black & Dark Clothes Care 2.5 Liter",
+      "brand": "Persil",
+      "category": "منظفات الملابس",
+      "unit": "2.5 لتر",
+      "price": 183.99,
+      "merchant": "Carrefour",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/root-maf-category/nonfood-navigation-category/cleaning-household/laundry-detergents/detergents/detergent-specific/persil-gel-black-2-5lr/p/518656",
+      "checkedAt": "2026-11-09",
+      "priceStatus": "verified"
     }
   ],
   "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
