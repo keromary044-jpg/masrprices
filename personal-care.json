@@ -717,13 +717,17 @@
   },
   {
     "id": "personal-care-catalog-051",
-    "name": "شامبو للشعر الجاف – مقاس متوسط",
+    "name": "Dove Cool Moisture Shampoo 355 ml",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 210,
+    "merchant": "Elghazawy Shop",
+    "source": "https://elghazawy.com/en/sub-category/shampoo",
+    "checkedAt": "2026-11-09",
+    "brand": "Dove",
+    "currency": "EGP",
+    "unit": "عبوة",
+    "priceStatus": "retailer_listing",
+    "details": "سعر منشور لدى متجر الغزاوي وقت الرصد؛ قد يتغير حسب التوفر والعروض."
   },
   {
     "id": "personal-care-catalog-052",
@@ -737,13 +741,17 @@
   },
   {
     "id": "personal-care-catalog-053",
-    "name": "شامبو ضد القشرة – مقاس متوسط",
+    "name": "Head & Shoulders Charcoal Detox Shampoo 400 ml",
     "category": "عناية شخصية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد"
+    "price": 185,
+    "merchant": "Elghazawy Shop",
+    "source": "https://elghazawy.com/en/sub-category/shampoo",
+    "checkedAt": "2026-11-09",
+    "brand": "Head",
+    "currency": "EGP",
+    "unit": "عبوة",
+    "priceStatus": "retailer_listing",
+    "details": "سعر منشور لدى متجر الغزاوي وقت الرصد؛ قد يتغير حسب التوفر والعروض."
   },
   {
     "id": "personal-care-catalog-054",
