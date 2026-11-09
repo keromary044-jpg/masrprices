@@ -351,25 +351,27 @@
   },
   {
     "id": "groceries-catalog-011",
-    "name": "عدس بجبة – مقاس صغير",
+    "name": "عدس معبأ – متوسط السوق، للكيلو",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 29.17,
+    "merchant": "متوسط السوق المصري – بوابة الأسعار المحلية والعالمية",
+    "source": "https://www.masrawy.com/news/news_economy/details/2026/11/4/3073564/",
+    "checkedAt": "2026-11-04",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "كيلو",
+    "priceStatus": "official_market_average"
   },
   {
     "id": "groceries-catalog-012",
-    "name": "فول تدميس – مقاس صغير",
+    "name": "فول معبأ – متوسط السوق، للكيلو",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 62.03,
+    "merchant": "متوسط السوق المصري – بوابة الأسعار المحلية والعالمية",
+    "source": "https://www.masrawy.com/news/news_economy/details/2026/11/4/3073564/",
+    "checkedAt": "2026-11-04",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "كيلو",
+    "priceStatus": "official_market_average"
   },
   {
     "id": "groceries-catalog-013",
@@ -430,25 +432,27 @@
   },
   {
     "id": "groceries-catalog-018",
-    "name": "زيت ذرة – مقاس صغير",
+    "name": "زيت ذرة – متوسط السوق، للتر",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 128.37,
+    "merchant": "متوسط السوق المصري – بوابة الأسعار المحلية والعالمية",
+    "source": "https://www.masrawy.com/news/news_economy/details/2026/11/4/3073564/",
+    "checkedAt": "2026-11-04",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "لتر",
+    "priceStatus": "official_market_average"
   },
   {
     "id": "groceries-catalog-019",
-    "name": "زيت خليط – مقاس صغير",
+    "name": "زيت خليط – متوسط السوق، للتر",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 106.41,
+    "merchant": "متوسط السوق المصري – بوابة الأسعار المحلية والعالمية",
+    "source": "https://www.masrawy.com/news/news_economy/details/2026/11/4/3073564/",
+    "checkedAt": "2026-11-04",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "لتر",
+    "priceStatus": "official_market_average"
   },
   {
     "id": "groceries-catalog-020",
@@ -542,14 +546,15 @@
   },
   {
     "id": "groceries-catalog-028",
-    "name": "جبنة بيضاء – مقاس صغير",
+    "name": "جبن أبيض – متوسط السوق، للكيلو",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 149.42,
+    "merchant": "متوسط السوق المصري – بوابة الأسعار المحلية والعالمية",
+    "source": "https://www.masrawy.com/news/news_economy/details/2026/11/4/3073564/",
+    "checkedAt": "2026-11-04",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "كيلو",
+    "priceStatus": "official_market_average"
   },
   {
     "id": "groceries-catalog-029",
@@ -631,14 +636,15 @@
   },
   {
     "id": "groceries-catalog-036",
-    "name": "بيض – مقاس صغير",
+    "name": "بيض بلدي – متوسط سعر البيضة",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 5.27,
+    "merchant": "متوسط السوق المصري – بوابة الأسعار المحلية والعالمية",
+    "source": "https://www.masrawy.com/news/news_economy/details/2026/11/4/3073564/",
+    "checkedAt": "2026-11-04",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "بيضة",
+    "priceStatus": "official_market_average"
   },
   {
     "id": "groceries-catalog-037",
@@ -1280,14 +1286,15 @@
   },
   {
     "id": "groceries-catalog-095",
-    "name": "أرز أبيض – مقاس متوسط",
+    "name": "أرز أبيض سائب – متوسط السوق، للكيلو",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
+    "price": 27.68,
+    "merchant": "متوسط السوق المصري – بوابة الأسعار المحلية والعالمية",
+    "source": "https://www.masrawy.com/news/news_economy/details/2026/11/4/3073564/",
+    "checkedAt": "2026-11-04",
     "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "unit": "كيلو",
+    "priceStatus": "official_market_average"
   },
   {
     "id": "groceries-catalog-096",
