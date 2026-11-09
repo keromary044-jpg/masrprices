@@ -136,7 +136,7 @@ def catalog_product_has_price(product):
                     continue
     return False
 
-def build_search_candidates(source_catalogs, rotation_key=""):
+def build_search_candidates(source_catalogs, rotation_key="", rotation_offset=0):
     """Interleave products across catalogs and rotate the starting catalog each day."""
     exact_index = build_exact_index(source_catalogs)
     by_catalog = {}
@@ -169,7 +169,7 @@ def build_search_candidates(source_catalogs, rotation_key=""):
     if catalog_order:
         digits = "".join(ch for ch in str(rotation_key)[:10] if ch.isdigit())
         try:
-            offset = int(digits) % len(catalog_order) if digits else 0
+            offset = ((int(digits) if digits else 0) + int(rotation_offset)) % len(catalog_order)
         except ValueError:
             offset = 0
         catalog_order = catalog_order[offset:] + catalog_order[:offset]
@@ -452,7 +452,7 @@ def run_apish_noon(source, catalogs, checked_at):
     coverage = source.get("coverage", [])
     source_catalogs = {name: catalog for name, catalog in catalogs.items() if name in coverage}
     source_index = build_exact_index(source_catalogs)
-    candidates = build_search_candidates(source_catalogs, checked_at)
+    candidates = build_search_candidates(source_catalogs, checked_at, rotation_offset=1)
 
     if not candidates:
         print(f"OK {source['id']}: no eligible catalog products")
