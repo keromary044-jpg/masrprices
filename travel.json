@@ -1304,6 +1304,78 @@
       "checkedAt": "",
       "brand": "خدمة/وجهة سياحية",
       "details": "السعر والتوافر يعتمدان على التاريخ ومقدم الخدمة؛ يلزم التحقق قبل الحجز."
+    },
+    {
+      "id": "travel-egyptian-museum-adult",
+      "name": "المتحف المصري بالتحرير – تذكرة مصري بالغ",
+      "category": "تذاكر متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 30,
+      "unit": "تذكرة للفرد",
+      "merchant": "وزارة السياحة والآثار",
+      "source": "https://egymonuments.gov.eg/museums/egyptian-museum",
+      "checkedAt": "2026-11-09",
+      "details": "سعر التذكرة الرسمي للمصريين كما هو منشور على بوابة وزارة السياحة والآثار. قد تتغير الأسعار؛ تحقق قبل الزيارة."
+    },
+    {
+      "id": "travel-egyptian-museum-student",
+      "name": "المتحف المصري بالتحرير – تذكرة طالب مصري",
+      "category": "تذاكر متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 10,
+      "unit": "تذكرة للفرد",
+      "merchant": "وزارة السياحة والآثار",
+      "source": "https://egymonuments.gov.eg/museums/egyptian-museum",
+      "checkedAt": "2026-11-09",
+      "details": "سعر التذكرة الرسمي للمصريين كما هو منشور على بوابة وزارة السياحة والآثار. قد تتغير الأسعار؛ تحقق قبل الزيارة."
+    },
+    {
+      "id": "travel-nubia-museum-adult",
+      "name": "متحف النوبة – تذكرة مصري بالغ",
+      "category": "تذاكر متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 30,
+      "unit": "تذكرة للفرد",
+      "merchant": "وزارة السياحة والآثار",
+      "source": "https://egymonuments.gov.eg/museums/nubia-museum/",
+      "checkedAt": "2026-11-09",
+      "details": "سعر التذكرة الرسمي للمصريين كما هو منشور على بوابة وزارة السياحة والآثار. قد تتغير الأسعار؛ تحقق قبل الزيارة."
+    },
+    {
+      "id": "travel-nubia-museum-student",
+      "name": "متحف النوبة – تذكرة طالب مصري",
+      "category": "تذاكر متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 10,
+      "unit": "تذكرة للفرد",
+      "merchant": "وزارة السياحة والآثار",
+      "source": "https://egymonuments.gov.eg/museums/nubia-museum/",
+      "checkedAt": "2026-11-09",
+      "details": "سعر التذكرة الرسمي للمصريين كما هو منشور على بوابة وزارة السياحة والآثار. قد تتغير الأسعار؛ تحقق قبل الزيارة."
+    },
+    {
+      "id": "travel-military-museum-adult",
+      "name": "المتحف الحربي القومي – تذكرة مصري بالغ",
+      "category": "تذاكر متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 60,
+      "unit": "تذكرة للفرد",
+      "merchant": "وزارة السياحة والآثار",
+      "source": "https://egymonuments.gov.eg/museums/national-military-museum",
+      "checkedAt": "2026-11-09",
+      "details": "سعر التذكرة الرسمي للمصريين كما هو منشور على بوابة وزارة السياحة والآثار. قد تتغير الأسعار؛ تحقق قبل الزيارة."
+    },
+    {
+      "id": "travel-military-museum-student",
+      "name": "المتحف الحربي القومي – تذكرة طالب مصري",
+      "category": "تذاكر متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 30,
+      "unit": "تذكرة للفرد",
+      "merchant": "وزارة السياحة والآثار",
+      "source": "https://egymonuments.gov.eg/museums/national-military-museum",
+      "checkedAt": "2026-11-09",
+      "details": "سعر التذكرة الرسمي للمصريين كما هو منشور على بوابة وزارة السياحة والآثار. قد تتغير الأسعار؛ تحقق قبل الزيارة."
     }
   ]
 }
