@@ -37,7 +37,11 @@ class PriceUpdaterTests(unittest.TestCase):
     def test_raneen_imports_live_price_only_after_unique_exact_model_match(self):
         product = {"name":"محضر طعام بوش MCM3421M","brand":"Bosch"}
         catalogs = {"appliances.json":{"products":[product]}}
-        search = {"products":[{"sku":"MCM3421M-Conf"}]}
+        search = {"products":[{
+            "sku":"MCM3421M-Conf", "name":"Bosch MCM3421M Food Processor",
+            "brand":"Bosch", "price":3464, "currency":"EGP", "in_stock":True,
+            "url":"https://www.raneen.com/en/mcm3421m-conf"
+        }]}
         detail = {
             "sku":"MCM3421M-Conf", "name":"Bosch MCM3421M Food Processor",
             "name_en":"Bosch MCM3421M Food Processor", "brand":"Bosch",
@@ -58,19 +62,19 @@ class PriceUpdaterTests(unittest.TestCase):
     def test_raneen_rejects_out_of_stock_and_wrong_currency(self):
         product = {"name":"Bosch MCM3421M Food Processor","brand":"Bosch"}
         catalogs = {"appliances.json":{"products":[product]}}
-        search = {"products":[{"sku":"MCM3421M-Conf"}]}
-        detail = {
+        search = {"products":[{
             "sku":"MCM3421M-Conf", "name":"Bosch MCM3421M Food Processor",
-            "brand":"Bosch", "price":3464, "currency":"EGP",
-            "in_stock":False, "url":"https://www.raneen.com/en/mcm3421m-conf"
-        }
-        with patch("github_actions_updater.get_json", side_effect=[search, detail]):
+            "brand":"Bosch", "price":3464, "currency":"EGP", "in_stock":False,
+            "url":"https://www.raneen.com/en/mcm3421m-conf"
+        }]}
+        with patch("github_actions_updater.get_json", return_value=search) as mocked:
             accepted = run_raneen({
                 "id":"raneen-test", "coverage":["appliances.json"],
                 "max_searches_per_run":1, "max_details_per_search":5
             }, catalogs, "2026-11-09")
         self.assertEqual(accepted, 0)
         self.assertNotIn("priceOffers", product)
+        mocked.assert_called_once()
 
     def test_partial_name_is_rejected(self):
         self.assertFalse(apply_offer(self.index, "سامسونج A56", "Samsung", 1234, "Store", "https://store.example/item", "now", "Test"))
