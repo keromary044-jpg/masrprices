@@ -106,13 +106,17 @@ _UNSAFE_PRODUCT_TERMS = (
     "دواء", "أدوية", "علاج", "مسكن", "مضاد حيوي", "كبسول", "حقن", "شراب دوائي",
     "مرهم طبي", "كريم طبي", "مكمل غذائي", "مكملات", "فيتامين", "هرمون", "ستيرويد",
     "مخدر", "كحول", "خمور", "بيرة", "نبيذ", "سجائر", "تبغ", "نيكوتين", "فيب",
-    "مبيد", "سم", "مادة سامة", "مادة كيميائية خطرة", "سلاح", "مسدس", "بندقية",
+    "مبيد", "سم", "مادة سامة", "مادة كيميائية خطرة", "كلور", "مبيض", "أمونيا",
+    "حمض", "مذيب", "وقود", "بنزين", "كيروسين", "ماء نار", "سلاح", "مسدس", "بندقية",
     "سكين", "مطواة", "صاعق", "بخاخ فلفل", "قمار", "مراهنات", "رهان",
     "medicine", "medication", "prescription", "antibiotic", "painkiller",
     "supplement", "steroid", "hormone", "drug", "alcohol", "beer", "wine",
     "whisky", "vodka", "tobacco", "nicotine", "vape", "cigarette", "pesticide",
-    "poison", "toxin", "hazardous chemical", "firearm", "weapon", "knife",
-    "pepper spray", "gambling", "betting", "casino", "lottery"
+    "poison", "toxin", "hazardous chemical", "bleach", "chlorine", "ammonia",
+    "acid", "solvent", "fuel", "gasoline", "kerosene", "lighter fluid",
+    "ethanol", "isopropyl alcohol", "rubbing alcohol", "hydrogen peroxide",
+    "sodium hydroxide", "firearm", "weapon", "knife", "pepper spray",
+    "gambling", "betting", "casino", "lottery"
 )
 
 def is_safe_catalog_product(product):
