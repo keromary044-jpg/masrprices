@@ -9054,5 +9054,38 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر عرض كارفور المنشور للفترة 30 أكتوبر–10 نوفمبر 2026",
     "details": "سعر العرض 12,777 جنيه؛ السعر السابق 17,999 جنيه."
+  },
+  {
+    "id": "elc-voltme-powerlink-rugg-usbc-18m-60w",
+    "name": "Voltme PowerLink Rugg Double Nylon USB-C to USB-C Cable 1.8m 60W Blue",
+    "category": "كابلات وشواحن",
+    "brand": "Voltme",
+    "price": 303,
+    "merchant": "Raya Shop",
+    "source": "https://www.lowqta.com/en/c/electronics",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى المتجر"
+  },
+  {
+    "id": "elc-rapoo-wired-optical-mouse-n100",
+    "name": "Rapoo Wired Optical Mouse N100 Black",
+    "category": "ماوس",
+    "brand": "Rapoo",
+    "price": 110,
+    "merchant": "Raya Shop",
+    "source": "https://www.lowqta.com/en/c/electronics",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى المتجر"
+  },
+  {
+    "id": "elc-anker-552-usbc-hub-a8373h11",
+    "name": "Anker 552 USB-C Hub 9-in-1 A8373H11",
+    "category": "موزعات USB",
+    "brand": "Anker",
+    "price": 2699,
+    "merchant": "Amazon Egypt",
+    "source": "https://www.lowqta.com/en/c/electronics",
+    "checkedAt": "2026-11-09",
+    "priceStatus": "آخر سعر مرصود لدى Lowqta؛ يجب تأكيد السعر والتوفر لدى المتجر"
   }
 ]
