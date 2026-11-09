@@ -25430,11 +25430,11 @@
       "release": "2026",
       "memory": "12GB RAM / 256GB",
       "connectivity": "5G",
-      "priceEGP": null,
-      "priceSource": "مصادر مقارنة ومتجر متعارضة",
-      "priceCheckedAt": "2026-11-07",
+      "priceEGP": 59999,
+      "priceSource": "Vodafone Egypt",
+      "priceCheckedAt": "2026-11-09",
       "priceObservedAt": "2026-11-07",
-      "priceStatus": "السجل متعارض: 53,333 جنيه من عرض مقارنة مؤرخ 7 نوفمبر، و59,999 جنيه من عرض Etisal المسجل في 8 نوفمبر، بينما صفحة Etisal المفهرسة سابقًا تعرض 58,999 جنيهًا. لم يتوفر تحقق مباشر حديث يحسم السعر؛ أزيل الرقم الرئيسي مؤقتًا بدل عرض سعر غير محسوم. العروض السابقة محفوظة مع مصادرها وتواريخها.",
+      "priceStatus": "سعر صفحة فودافون المصرية للنسخة 12GB/256GB - Black بتاريخ 9 نوفمبر 2026.",
       "priceOffers": [
         {
           "merchant": "Etisalat Egypt",
@@ -25481,7 +25481,8 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceAvailability": "uncertain",
       "priceVerifiedAt": null,
-      "priceLastVerifiedAt": null
+      "priceLastVerifiedAt": null,
+      "priceSourceUrl": "https://eshop.vodafone.com.eg/en/prod/samsung-galaxy-s26-plus-256gb"
     },
     {
       "id": "samsung-galaxy-s26-ultra-12-512",
