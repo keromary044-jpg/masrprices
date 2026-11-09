@@ -64,16 +64,17 @@
   },
   {
     "id": "baby-sterilizer",
-    "name": "جهاز تعقيم الرضاعات",
+    "name": "Omega Baby Bottle Sterilizer",
     "category": "أجهزة الرضع",
-    "brand": "متعدد",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "سجل تعريفي. قارن العمر والمقاس والخامة والسعة واعتمادات السلامة قبل الشراء.",
+    "brand": "Omega",
+    "price": 2400,
+    "merchant": "Exir Medical",
+    "source": "https://store.exirmedical.com/product-category/مستلزمات-طبية-للأم-و-الطفل/?product-page=4",
+    "checkedAt": "2026-11-09",
+    "details": "جهاز تعقيم ببرونات من ماركة Omega؛ السعر الظاهر في كتالوج Exir Medical.",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 15:20 Cairo",
+    "priceStatus": "سعر منشور في صفحة متجر مصري؛ قابل للتغيير ويجب تأكيده عند الشراء."
   },
   {
     "id": "baby-pump",
