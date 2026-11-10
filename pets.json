@@ -2415,12 +2415,12 @@
     "name": "وسادة تدفئة آمنة للحيوانات",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 2449,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Fruugo Egypt",
+    "source": "https://www.fruugo.eg/electric-pet-heating-pad-with-auto-shut-off-for-dogs-and-cats-45-x-45cm/p-450794985-1013047408",
+    "checkedAt": "2026-11-10",
+    "note": "Electric Pet Heating Pad 45×45cm مع فصل تلقائي؛ الشحن المعروض 648.99 جنيه إضافية."
   },
   {
     "id": "pet-guide-180",
@@ -2681,12 +2681,12 @@
     "name": "سلة تخزين مستلزمات الحيوانات",
     "category": "مستلزمات عامة",
     "recordType": "supply",
-    "price": null,
+    "price": 528,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-cat-basket/",
+    "checkedAt": "2026-11-10",
+    "note": "سلة تخزين منسوجة لألعاب القطط والكلاب؛ السعر يبدأ من 528 جنيه."
   },
   {
     "id": "pet-wondercat-litter-10kg-20261108",
