@@ -1,4 +1,4 @@
-const CACHE_NAME = "masrprices-v1";
+const CACHE_NAME = "masrprices-v2";
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
