@@ -383,12 +383,12 @@
     "category": "لياقة بدنية",
     "brand": "ماركات متعددة",
     "unit": "أوزان متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
-    "priceStatus": "غير متحقق"
+    "price": 500,
+    "merchant": "اليسر للأجهزة الرياضية",
+    "source": "https://www.elyosr-sports.com/products/medicalball",
+    "checkedAt": "2026-11-10",
+    "details": "سعر كرة طبية مع خيارات أوزان متعددة؛ السعر المعروض يبدأ من 500 جنيه. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-قفازات-جيم-domyos-مقاسات-متعددة",
@@ -422,11 +422,12 @@
     "category": "دراجات",
     "brand": "متعدد",
     "unit": "مقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 39999,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/content/46-cycling",
+    "checkedAt": "2026-11-10",
+    "details": "سعر دراجة ROCKRIDER جبلية بهيكل ألومنيوم مقاس 29 بوصة. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-دراجة-هوائية-للأطفال-متعدد-مقاسات-متعددة",
@@ -434,11 +435,12 @@
     "category": "دراجات",
     "brand": "متعدد",
     "unit": "مقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 20999,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/content/46-cycling",
+    "checkedAt": "2026-11-10",
+    "details": "سعر دراجة ROCKRIDER جبلية للأطفال مقاس 20 بوصة، عمر 6 إلى 9 سنوات. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-خوذة-دراجة-متعدد-مقاسات-متعددة",
@@ -446,11 +448,12 @@
     "category": "معدات حماية رياضية",
     "brand": "متعدد",
     "unit": "مقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 949,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/5237-helmets",
+    "checkedAt": "2026-11-10",
+    "details": "سعر خوذة BTWIN للأطفال؛ موديل أزرق. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-قفل-دراجة-متعدد-قطعة",
@@ -458,11 +461,12 @@
     "category": "إكسسوارات دراجات",
     "brand": "متعدد",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 799,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/p/119937-167300-%D9%82%D9%81%D9%84-%D9%84%D9%84%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D8%B9%D9%84%D9%89-%D8%B4%D9%83%D9%84-%D8%AD%D8%B1%D9%81-u-500-%D8%B1%D9%85%D8%A7%D8%AF%D9%8A.html",
+    "checkedAt": "2026-11-10",
+    "details": "سعر قفل دراجة BTWIN U-Lock 500. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-مضخة-دراجة-متعدد-قطعة",
@@ -470,11 +474,12 @@
     "category": "إكسسوارات دراجات",
     "brand": "متعدد",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 259,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/4877-pump",
+    "checkedAt": "2026-11-10",
+    "details": "سعر منفاخ دراجة يدوي DECATHLON Hand Pump 100. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-مضرب-تنس-wilson-مقاسات-متعددة",
@@ -496,11 +501,12 @@
     "category": "رياضات المضرب",
     "brand": "Wilson",
     "unit": "عبوة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 390,
+    "merchant": "Sportline Egypt",
+    "source": "https://www.sportlineegypt.com/collections/wilson-products",
+    "checkedAt": "2026-11-10",
+    "details": "سعر عبوة Wilson US Open Extra Duty Tennis Ball (3 كرات). السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-مضرب-بادل-متعدد-مقاسات-متعددة",
@@ -508,11 +514,12 @@
     "category": "رياضات المضرب",
     "brand": "متعدد",
     "unit": "مقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 6500,
+    "merchant": "Sportline Egypt",
+    "source": "https://www.sportlineegypt.com/collections/wilson-padel-racket",
+    "checkedAt": "2026-11-10",
+    "details": "سعر مضرب Wilson Carbon Force Padel Racket؛ موديل محدد. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-كرات-بادل-متعدد-عبوة",
@@ -587,11 +594,12 @@
     "category": "سباحة",
     "brand": "متعدد",
     "unit": "مقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 330,
+    "merchant": "Baba Saleh Sports Egypt",
+    "source": "https://babasaleh.com/ar/product/swim-ring-float/",
+    "checkedAt": "2026-11-10",
+    "details": "سعر عوامة سباحة حلقية؛ موديل معروض. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-لوح-سباحة-تدريبي-speedo-قطعة",
@@ -625,11 +633,12 @@
     "category": "لياقة بدنية",
     "brand": "Domyos",
     "unit": "مقاسات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 1299,
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/5070-fitness-accessories",
+    "checkedAt": "2026-11-10",
+    "details": "سعر سجادة تمارين DOMYOS بمقاس 160×58 سم وسمك 7 مم. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-ساعة-إيقاف-رياضية-متعدد-قطعة",
@@ -763,24 +772,36 @@
     "name": "كرة يد – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 95,
+    "details": "سعر كرة يد من فئة الكرات متعددة الألوان؛ مقاس المنتج يحدد عند البائع. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Baba Saleh Sports Egypt",
+    "source": "https://babasaleh.com/ar/collections/handball-equipment",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0011",
     "name": "كرة يد – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 200,
+    "details": "سعر كرة يد بلون واحد؛ مقاس المنتج يحدد عند البائع. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Baba Saleh Sports Egypt",
+    "source": "https://babasaleh.com/ar/collections/handball-equipment",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0012",
     "name": "كرة يد – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 545,
+    "details": "سعر كرة يد Mikasa؛ السعر لموديل معروض وليس تسعيرًا موحدًا لكل المقاسات. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Baba Saleh Sports Egypt",
+    "source": "https://babasaleh.com/ar/collections/handball-equipment",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0013",
@@ -865,24 +886,36 @@
     "name": "حذاء تدريب – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 1799,
+    "details": "سعر حذاء كرة قدم KIPSTA Agility 100 Turf TF؛ موديل محدد. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/8492-football-shoes",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0020",
     "name": "حذاء تدريب – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 2499,
+    "details": "سعر حذاء كرة قدم KIPSTA برقبة؛ موديل محدد. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/8492-football-shoes",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0021",
     "name": "حذاء تدريب – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 2999,
+    "details": "سعر حذاء كرة قدم KIPSTA Viralto I Turf TF؛ موديل محدد. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/8492-football-shoes",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0022",
@@ -1081,16 +1114,24 @@
     "name": "واقي قصبة – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 399,
+    "details": "سعر واقي قصبة KIPSTA F100 للكبار. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/p/343435-135197-adult-football-shin-pads-f100-black.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0039",
     "name": "واقي قصبة – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 419,
+    "details": "سعر واقي قصبة KIPSTA Essential 100 للكبار مقاس XL. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/p/340201-32294-adult-football-shin-pads-essential-100-black.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0040",
@@ -1242,24 +1283,36 @@
     "name": "بار حديد – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 899,
+    "details": "سعر بار تمارين رفع أثقال DOMYOS بطول 35 سم وقطر 28 مم. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/13372-bars",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0053",
     "name": "بار حديد – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 2399,
+    "details": "سعر بار رفع أثقال DOMYOS بطول 155 سم وقطر 28 مم. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/p/9286-168495-%D8%A8%D8%A7%D8%B1-%D9%84%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D8%A3%D8%AB%D9%82%D8%A7%D9%84-%D8%A8%D8%B7%D9%88%D9%84-155-%D8%B3%D9%85-%D9%88%D8%B3%D9%85%D8%A7%D9%83%D8%A9-28-%D9%85%D9%84%D9%85.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0054",
     "name": "بار حديد – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 2999,
+    "details": "سعر بار تراي DOMYOS لرفع الأثقال بطول 86 سم. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/13372-bars",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0055",
@@ -1386,16 +1439,24 @@
     "name": "عجلة ثابتة – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 11999,
+    "details": "سعر دراجة تمارين DOMYOS؛ موديل معروض ضمن فئة أجهزة التمارين. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/13374-exercise-machines",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0066",
     "name": "عجلة ثابتة – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 17499,
+    "details": "سعر دراجة تمارين DOMYOS EB 120؛ موديل محدد. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/13374-exercise-machines",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0067",
@@ -1414,16 +1475,24 @@
     "name": "مشاية كهربائية – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 39999,
+    "details": "سعر مشاية DOMYOS قابلة للطي بسرعة تصل إلى 14 كم/س. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/13374-exercise-machines",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0069",
     "name": "مشاية كهربائية – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 44999,
+    "details": "سعر مشاية DOMYOS T520B؛ موديل محدد. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/13374-exercise-machines",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0070",
@@ -1562,8 +1631,12 @@
     "name": "كرة بادل – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 390,
+    "details": "سعر عبوة Wilson Premier Padel المكونة من 3 كرات. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Sportline Egypt",
+    "source": "https://www.sportlineegypt.com/collections/wilson-padel-racket",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0082",
@@ -1678,24 +1751,36 @@
     "name": "خوذة دراجة – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 899,
+    "details": "سعر خوذة دراجة BTWIN للأطفال موديل 100. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/5237-helmets",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0092",
     "name": "خوذة دراجة – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 949,
+    "details": "سعر خوذة دراجة BTWIN للأطفال؛ موديل أزرق. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/5237-helmets",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0093",
     "name": "خوذة دراجة – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 3399,
+    "details": "سعر خوذة دراجة VAN RYSEL للكبار. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/5237-helmets",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0094",
@@ -1738,24 +1823,36 @@
     "name": "قفازات دراجة – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 949,
+    "details": "سعر قفازات ركوب الدراجات VAN RYSEL 500. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/4854-cycling",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0098",
     "name": "قفازات دراجة – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 949,
+    "details": "سعر قفازات ركوب الدراجات VAN RYSEL 500. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/4854-cycling",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0099",
     "name": "قفازات دراجة – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 949,
+    "details": "سعر قفازات ركوب الدراجات VAN RYSEL 500. السعر مرجعي لموديل موضح في المصدر، وقد يختلف باختلاف المقاس والموديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/4854-cycling",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0100",
