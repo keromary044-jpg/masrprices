@@ -1044,15 +1044,17 @@
   },
   {
     "id": "pet-guide-072",
-    "name": "حبيبات غذاء أسماك",
+    "name": "Tropical Upervit Fish Food 50g",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 400,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Club Egypt",
+    "source": "https://peetsclub.shop/",
+    "checkedAt": "2026-11-10",
+    "brand": "Tropical",
+    "unit": "50 جم",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-073",
@@ -1152,15 +1154,17 @@
   },
   {
     "id": "pet-guide-081",
-    "name": "حوض أسماك صغير",
+    "name": "Zolux Aquarium Boule Kit Complet 7L",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 467.5,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://petshome.com.eg/",
+    "checkedAt": "2026-11-10",
+    "brand": "Zolux",
+    "unit": "7 لتر",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-082",
@@ -1188,15 +1192,17 @@
   },
   {
     "id": "pet-guide-084",
-    "name": "فلتر داخلي لحوض السمك",
+    "name": "RS Electrical Liquid Filter RS-4003 AQ-61",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 220,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://petshome.com.eg/",
+    "checkedAt": "2026-11-10",
+    "brand": "RS Electrical",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-085",
@@ -1284,15 +1290,17 @@
   },
   {
     "id": "pet-guide-092",
-    "name": "مقياس حموضة الماء",
+    "name": "5 in 1 Aquarium Water Quality Tester ORP-100",
     "category": "تنظيف ومعالجة الأحواض",
     "recordType": "supply",
-    "price": null,
+    "price": 1045,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://petshome.com.eg/",
+    "checkedAt": "2026-11-10",
+    "brand": "Best Tech Machines",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-093",
@@ -1344,15 +1352,17 @@
   },
   {
     "id": "pet-guide-097",
-    "name": "مغناطيس تنظيف الزجاج",
+    "name": "Sobo SB-8 Floating Magnetic Glass Cleaner",
     "category": "تنظيف ومعالجة الأحواض",
     "recordType": "supply",
-    "price": null,
+    "price": 379.5,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://petshome.com.eg/",
+    "checkedAt": "2026-11-10",
+    "brand": "Sobo",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-098",
@@ -1368,27 +1378,31 @@
   },
   {
     "id": "pet-guide-099",
-    "name": "شبكة صيد أسماك",
+    "name": "Fish Net Cleaner for Aquarium LB-8",
     "category": "تنظيف ومعالجة الأحواض",
     "recordType": "supply",
-    "price": null,
+    "price": 66,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://petshome.com.eg/",
+    "checkedAt": "2026-11-10",
+    "brand": "Pets Home Egypt",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-100",
-    "name": "كاشط طحالب للأحواض",
+    "name": "Zolux Nanolife Scraper and Planter",
     "category": "تنظيف ومعالجة الأحواض",
     "recordType": "supply",
-    "price": null,
+    "price": 159.5,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://petshome.com.eg/",
+    "checkedAt": "2026-11-10",
+    "brand": "Zolux",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-101",
@@ -2030,15 +2044,17 @@
   },
   {
     "id": "pet-guide-153",
-    "name": "نفق لعب للقطط",
+    "name": "S-Shape Foldable Cat Tunnel Toy",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 345,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/category/small-pet",
+    "checkedAt": "2026-11-10",
+    "brand": "PetsEgypt",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-154",
@@ -2126,15 +2142,17 @@
   },
   {
     "id": "pet-guide-161",
-    "name": "حقيبة حمل قطط",
+    "name": "Pettom Pet Carrier Shoulder Bag for Cats and Small Dogs",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 875,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/",
+    "checkedAt": "2026-11-10",
+    "brand": "Pettom",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-162",
@@ -2380,15 +2398,17 @@
   },
   {
     "id": "pet-guide-182",
-    "name": "وعاء مياه ستانلس",
+    "name": "2 Stainless Steel Pet Bowls with Non-Slip Base",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 285,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/",
+    "checkedAt": "2026-11-10",
+    "brand": "PetsEgypt",
+    "unit": "طقم من وعائين",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-183",
@@ -2416,15 +2436,17 @@
   },
   {
     "id": "pet-guide-185",
-    "name": "نافورة مياه للقطط",
+    "name": "2-in-1 Automatic Pet Feeder with Water Fountain 1.5L",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 1250,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/",
+    "checkedAt": "2026-11-10",
+    "brand": "PetsEgypt",
+    "unit": "1.5 لتر",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-186",
