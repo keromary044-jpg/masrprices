@@ -1218,15 +1218,17 @@
   },
   {
     "id": "pet-guide-086",
-    "name": "مضخة هواء للحوض",
+    "name": "Nubios CO-502 Silent Air Pump",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 203.5,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://www.petshome.com.eg/ar/categories/accessories",
+    "checkedAt": "2026-11-10",
+    "brand": "Nubios",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-087",
@@ -1254,15 +1256,17 @@
   },
   {
     "id": "pet-guide-089",
-    "name": "مقياس حرارة للحوض",
+    "name": "Digital Aquarium Thermometer CX-216",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 341,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://www.petshome.com.eg/ar/categories/accessories",
+    "checkedAt": "2026-11-10",
+    "brand": "CX",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-090",
@@ -1366,15 +1370,17 @@
   },
   {
     "id": "pet-guide-098",
-    "name": "سيفون تنظيف الحصى",
+    "name": "SuperFish AquaVac Vacuum Cleaner Siphon",
     "category": "تنظيف ومعالجة الأحواض",
     "recordType": "supply",
-    "price": null,
+    "price": 495,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://www.petshome.com.eg/ar/categories/accessories",
+    "checkedAt": "2026-11-10",
+    "brand": "SuperFish",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-099",
@@ -1670,15 +1676,17 @@
   },
   {
     "id": "pet-guide-123",
-    "name": "عجلة تمرين للهامستر",
+    "name": "Savic Rolly Medium Small Animal Exercise Wheel",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 315,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/category/small-pet",
+    "checkedAt": "2026-11-10",
+    "brand": "Savic",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-124",
@@ -1730,15 +1738,17 @@
   },
   {
     "id": "pet-guide-128",
-    "name": "حامل نقل هامستر",
+    "name": "Stylish PS Hamster Carrier Bag with Adjustable Shoulder Strap",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 295,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/category/small-pet",
+    "checkedAt": "2026-11-10",
+    "brand": "PetsEgypt",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-129",
@@ -2032,15 +2042,17 @@
   },
   {
     "id": "pet-guide-152",
-    "name": "عصا ريش للقطط",
+    "name": "Trixie Playing Rod with Leather Straps and Feathers",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 166.67,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/product-category/cat-toys-accessories/",
+    "checkedAt": "2026-11-10",
+    "brand": "Trixie",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-153",
@@ -2058,27 +2070,31 @@
   },
   {
     "id": "pet-guide-154",
-    "name": "لعبة تفاعلية للقطط",
+    "name": "Interactive Turntable Cat Toy with Spring Treat Dispenser Ball",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 295,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/",
+    "checkedAt": "2026-11-10",
+    "brand": "PetsEgypt",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-155",
-    "name": "كرة مطاطية للكلاب",
+    "name": "Trixie Tennis Ball on Rope",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 241.23,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/product-category/dog-toys-accesosories/",
+    "checkedAt": "2026-11-10",
+    "brand": "Trixie",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-156",
@@ -2168,15 +2184,17 @@
   },
   {
     "id": "pet-guide-163",
-    "name": "حزام أمان سيارة للكلاب",
+    "name": "Naomi Car Safety Harness for Pets",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 175.44,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/ar/color/pink-ar/",
+    "checkedAt": "2026-11-10",
+    "brand": "Naomi",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-164",
@@ -2252,15 +2270,17 @@
   },
   {
     "id": "pet-guide-170",
-    "name": "وعاء سفر قابل للطي",
+    "name": "2-in-1 Portable Pet Outdoor Bottle with Collapsible Folding Silicone Cup",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 395,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/",
+    "checkedAt": "2026-11-10",
+    "brand": "PetsEgypt",
+    "unit": "طقم",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-171",
