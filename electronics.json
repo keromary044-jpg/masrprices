@@ -1743,12 +1743,12 @@
     "name": "BenQ EX2510S 25",
     "category": "شاشات الكمبيوتر",
     "brand": "BenQ",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7130,
+    "merchant": "ABC Shop Egypt",
+    "source": "https://www.abcshop-eg.com/shop/ex2510s-benq-24-5-ex2510s-646",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "local_listed_price",
+    "note": "سعر منشور لدى متجر مصري لشاشة BenQ EX2510S؛ السعر والتوفر قابلان للتغيير."
   },
   {
     "id": "elx-0114",
@@ -1791,12 +1791,12 @@
     "name": "Lenovo ThinkVision T24i 24",
     "category": "شاشات الكمبيوتر",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3500,
+    "merchant": "المتحدة جروب",
+    "source": "https://elmotaheda-group.com/product/%D8%B4%D8%A7%D8%B4%D9%87-%D9%84%D9%8A%D9%86%D9%88%D9%81%D9%88-lenovo-thinkvision-t24i-monitor/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_local_price",
+    "note": "آخر سعر منشور لشاشة ThinkVision T24i-10؛ غير متوفرة وقت الرصد، والسجل لا يحدد إصدار T24i بدقة."
   },
   {
     "id": "elx-0118",
