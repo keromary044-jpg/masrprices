@@ -901,19 +901,18 @@
     const targetIds={"أسعار الذهب":"goldRates","أسعار الفضة":"silverRates","أسعار العملات مقابل الجنيه":"currencyRates"};
     groups.forEach(group=>{
       const root=document.getElementById(targetIds[group.title]);if(!root)return;
+      const isCurrency=group.title==="أسعار العملات مقابل الجنيه";
+      const searchInput=isCurrency?document.getElementById("currencySearch"):null;
+      const countLabel=isCurrency?document.getElementById("currencyCount"):null;
       root.replaceChildren();
       if(!Array.isArray(group.items)||!group.items.length){
         root.append(element("p","market-unavailable","الأسعار غير متاحة حاليًا."));
         if(group.source){const link=element("a","market-source-link","تحقق من المصدر");link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";root.append(link);}return;
       }
-      const isCurrency=group.title==="أسعار العملات مقابل الجنيه";
       const grid=element("div","market-quote-grid");
-      let searchInput=null,countLabel=null;
       if(isCurrency){
-        searchInput=document.getElementById("currencySearch");
-        countLabel=document.getElementById("currencyCount");
-        if(searchInput&&searchInput.parentElement!==root)root.append(searchInput);
-        if(countLabel&&countLabel.parentElement!==root)root.append(countLabel);
+        if(searchInput)root.append(searchInput);
+        if(countLabel)root.append(countLabel);
         if(searchInput)searchInput.value="";
         if(countLabel)countLabel.textContent="عدد العملات المتاحة: "+group.items.length;
         root.append(grid);
