@@ -5129,12 +5129,12 @@
     "name": "Huawei 5G CPE Pro 2",
     "category": "راوترات وشبكات",
     "brand": "Huawei",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 28920,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/productuk/FAX0ZJ7CO-huawei-5g-cpe-pro2-router-h122-373-no-simlock-white",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد من المملكة المتحدة لموديل Huawei 5G CPE Pro 2 H122-373؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0388",
