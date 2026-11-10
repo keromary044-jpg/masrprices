@@ -1415,15 +1415,17 @@
   },
   {
     "id": "elx-0084",
-    "name": "Dell G2724D 27 Gaming",
+    "name": "Dell G2724D 27-inch QHD 165Hz Gaming Monitor",
     "category": "شاشات الكمبيوتر",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 15908,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/IKV31IHB0-new-listing-dell-g2724d-gaming-monitor-27-inch-qhd-2560x1440-165hz-1ms-fast-ips-display",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر معروض 15,908 جنيه؛ المنتج غير متاح حاليًا، والشحن والجمارك غير مشمولين.",
+    "note": "السعر يطابق الموديل Dell G2724D؛ استيراد من الولايات المتحدة عبر Ubuy، وتُحسب رسوم الشحن والجمارك عند الدفع.",
+    "model": "G2724D (210-BHXC)",
+    "availability": "غير متاح وقت الرصد"
   },
   {
     "id": "elx-0085",
