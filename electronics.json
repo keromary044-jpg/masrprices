@@ -4909,12 +4909,12 @@
     "name": "Beats Studio Pro",
     "category": "سماعات ومكبرات صوت",
     "brand": "Beats",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 24000,
+    "merchant": "iSupport Egypt",
+    "source": "https://isupport.eg/brand/beats/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In stock",
+    "note": "Beats Studio Pro Wireless Noise Cancelling Headphone؛ السعر 24,000 جنيه."
   },
   {
     "id": "elx-0370",
@@ -5185,12 +5185,12 @@
     "name": "D-Link DIR-X1860",
     "category": "راوترات وشبكات",
     "brand": "D-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11500,
+    "merchant": "Laptop Store",
+    "source": "https://laptop.store-eg.com/en/product/d-link-dir-x1860",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In Stock",
+    "note": "D-Link DIR-X1860 AX1800 WiFi 6 Router؛ السعر 11,500 جنيه."
   },
   {
     "id": "elx-0393",
@@ -5901,12 +5901,12 @@
     "name": "Samsung 870 EVO 1TB SSD",
     "category": "مكونات الكمبيوتر",
     "brand": "Samsung",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14000,
+    "merchant": "Computrade Egypt",
+    "source": "https://computrade-eg.com/Samsung",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In Stock",
+    "note": "Samsung 870 EVO 1TB 2.5-inch SATA III Internal SSD؛ السعر 14,000 جنيه."
   },
   {
     "id": "elx-0451",
