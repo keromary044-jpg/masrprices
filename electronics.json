@@ -4801,12 +4801,12 @@
     "name": "Harman Kardon Aura Studio 4",
     "category": "سماعات ومكبرات صوت",
     "brand": "Harman Kardon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23000,
+    "merchant": "Jumia",
+    "source": "https://www.jumia.com.eg/ar/harmon-kardon-aura-studio-4-gray-134314442.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ وحدتان ظاهرتان بالمخزون",
+    "note": "Harman Kardon Aura Studio 4 Gray؛ السعر 23,000 جنيه."
   },
   {
     "id": "elx-0361",
@@ -5041,48 +5041,48 @@
     "name": "TP-Link Deco X20 2-Pack",
     "category": "راوترات وشبكات",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8299,
+    "merchant": "Shift Store",
+    "source": "https://shiftstore-eg.com/shop/devices/network/tp-link-deco-x20-ax1800-whole-home-mesh-wi-fi-6-system-2pack/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In stock",
+    "note": "TP-Link Deco X20 AX1800 Whole Home Mesh Wi-Fi 6 System (2-Pack)؛ السعر 8,299 جنيه."
   },
   {
     "id": "elx-0381",
     "name": "TP-Link Deco X50 3-Pack",
     "category": "راوترات وشبكات",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12000,
+    "merchant": "Laptop Store",
+    "source": "https://laptop.store-eg.com/en/product/tp-link-deco-x50-3pack",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In Stock",
+    "note": "TP-Link Deco X50 AX3000 Mesh WiFi 6 System (3-Pack)؛ السعر 12,000 جنيه."
   },
   {
     "id": "elx-0382",
     "name": "TP-Link TL-SG1008D Switch",
     "category": "راوترات وشبكات",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1540,
+    "merchant": "Noon",
+    "source": "https://eg.pricena.com/en/product/tp-link-tl-sg1008d-8-port-gigabit-desktop-switch-price-in-egypt",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "عرض مرصود اليوم؛ توفر العرض على Noon",
+    "note": "TP-Link TL-SG1008D 8-Port Gigabit Desktop Switch؛ 1,540 جنيه؛ Priceena أظهر تحديثًا قبل 8 ساعات."
   },
   {
     "id": "elx-0383",
     "name": "TP-Link RE305 Extender",
     "category": "راوترات وشبكات",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1399,
+    "merchant": "Noon",
+    "source": "https://eg.pricena.com/en/computers/networking-wireless/range-extenders",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ مدرج لدى Noon",
+    "note": "TP-Link RE305 Wi-Fi Range Extender؛ السعر 1,399 جنيه."
   },
   {
     "id": "elx-0384",
@@ -5425,12 +5425,12 @@
     "name": "Intel Core i3-12100F",
     "category": "مكونات الكمبيوتر",
     "brand": "Intel",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3699,
+    "merchant": "Build Technology",
+    "source": "https://buildtechnology.net/product-category/processors-in-egypt/intel/?per_page=12&shop_view=list&stock_status=instock%2Consale",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ In stock",
+    "note": "Intel Core i3-12100F 3.3 GHz Quad-Core LGA 1700؛ السعر 3,699 جنيه."
   },
   {
     "id": "elx-0413",
@@ -6567,12 +6567,12 @@
     "name": "Anker Nebula Capsule 3",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "Anker Nebula",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 49949,
+    "merchant": "Miami Centers",
+    "source": "https://miamicenters.com/product/anker-projector-nebula-capsule-3-smart-black/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ وحدة واحدة بالمخزون",
+    "note": "Anker Nebula Capsule 3 Smart Projector؛ السعر النقدي 49,949 جنيه."
   },
   {
     "id": "elx-0506",
@@ -6997,12 +6997,12 @@
     "name": "Anker Nano II 65W Charger",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Anker",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6000,
+    "merchant": "Mobile Store",
+    "source": "https://mobile.store-eg.com/en/category/mobile-chargers",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ In Stock",
+    "note": "Anker Nano II 65W USB-C Charger؛ السعر 6,000 جنيه."
   },
   {
     "id": "elx-0541",
