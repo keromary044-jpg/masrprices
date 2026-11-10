@@ -948,15 +948,16 @@
   },
   {
     "id": "elx-0047",
-    "name": "Sony Bravia 3 65",
+    "name": "Sony BRAVIA 3 65-inch 4K Google TV K-65S30B",
     "category": "الشاشات والتلفزيونات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 250110,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/643137296-sony-bravia-3-series-164-cm-65-inches-4k-ultra",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر معروض 250,110 جنيه شامل الرسوم والضرائب؛ متوفر وقت الرصد.",
+    "note": "السعر يطابق BRAVIA 3 مقاس 65 بوصة موديل K-65S30B، استيراد عبر Desertcart.",
+    "model": "K-65S30B"
   },
   {
     "id": "elx-0048",
