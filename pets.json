@@ -1206,15 +1206,17 @@
   },
   {
     "id": "pet-guide-085",
-    "name": "فلتر خارجي لحوض السمك",
+    "name": "SunSun External Aquarium Filter HW-303B",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 5600,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://petshome.com.eg/?p=28027",
+    "checkedAt": "2026-11-10",
+    "brand": "SunSun",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-086",
@@ -1270,15 +1272,17 @@
   },
   {
     "id": "pet-guide-090",
-    "name": "إضاءة حوض أسماك",
+    "name": "LED Aquarium Light AQ-3 21W TULED 120",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 429,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://www.petshome.com.eg/ar/categories/accessories",
+    "checkedAt": "2026-11-10",
+    "brand": "Pets Home Egypt",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-091",
@@ -1532,15 +1536,17 @@
   },
   {
     "id": "pet-guide-111",
-    "name": "غذاء حبيبي للسلاحف",
+    "name": "Tetra ReptoDelica Gammarus Food for Aquatic Turtles",
     "category": "طعام الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 341,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://petshome.com.eg/?p=13325",
+    "checkedAt": "2026-11-10",
+    "brand": "Tetra",
+    "unit": "عبوة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-112",
@@ -1814,15 +1820,17 @@
   },
   {
     "id": "pet-guide-134",
-    "name": "غذاء خنازير غينيا",
+    "name": "Pablo Super Premium Hamster Food Blend 400g",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 125,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Souq Nile",
+    "source": "https://souqnile.com/category.php?lang=en&slug=pet_supplies&subcategory=small_animals",
+    "checkedAt": "2026-11-10",
+    "brand": "Pablo",
+    "unit": "400 جم",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-135",
@@ -2100,39 +2108,45 @@
   },
   {
     "id": "pet-guide-156",
-    "name": "لعبة شد للكلاب",
+    "name": "Trixie Play Rope with Woven-in Ball",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 429.82,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/product-category/dog-toys-accesosories/",
+    "checkedAt": "2026-11-10",
+    "brand": "Trixie",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-157",
-    "name": "لعبة مضغ للكلاب",
+    "name": "Trixie Denta Fun Dog Toy",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 236.84,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/ar/brands-ar/trixie-ar/",
+    "checkedAt": "2026-11-10",
+    "brand": "Trixie",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-158",
-    "name": "مكافآت تدريب صغيرة",
+    "name": "Trixie Premio Sushi Bites Dog Treats",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 135.96,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/ar/brands-ar/trixie-ar/",
+    "checkedAt": "2026-11-10",
+    "brand": "Trixie",
+    "unit": "عبوة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-159",
@@ -2364,15 +2378,17 @@
   },
   {
     "id": "pet-guide-177",
-    "name": "حظيرة لعب للأرانب",
+    "name": "Foldable Pet Playpen Oxford Cloth 80×80×58cm",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 875,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/category/small-pet",
+    "checkedAt": "2026-11-10",
+    "brand": "PetsEgypt",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-178",
