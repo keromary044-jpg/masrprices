@@ -2263,11 +2263,16 @@
     },
     {
       "id": "part-catalog-0105",
-      "name": "حساس أكسجين – أمامي",
+      "name": "حساس شكمان سفلي CAESER نيسان صني N17 فيس ليفت",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "CAESER",
+      "price": 855,
+      "details": "سعر معلن لحساس شكمان سفلي؛ تم تحديده كحساس أكسجين سفلي وليس حساسًا علويًا.",
+      "model": "Nissan Sunny N17 Facelift",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny/n17",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0106",
@@ -2295,11 +2300,16 @@
     },
     {
       "id": "part-catalog-0109",
-      "name": "حساس كرنك – أمامي",
+      "name": "حساس كرنك CAESER نيسان صني N17 فيس ليفت",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "CAESER",
+      "price": 400,
+      "details": "سعر معلن لحساس كرنك لصني N17 فيس ليفت.",
+      "model": "Nissan Sunny N17 Facelift",
+      "unit": "قطعة",
+      "merchant": "Auto Spare",
+      "source": "https://autospare.com.eg/parts/نيسان/حساسات-وبلوف-المحرك",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0110",
@@ -2327,11 +2337,16 @@
     },
     {
       "id": "part-catalog-0113",
-      "name": "حساس حرارة – أمامي",
+      "name": "حساس حرارة CIT نيسان صني N17 فيس ليفت",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "CIT",
+      "price": 210,
+      "details": "سعر معلن لحساس حرارة لصني N17 فيس ليفت.",
+      "model": "Nissan Sunny N17 Facelift",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny/n17",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0114",
@@ -2439,19 +2454,29 @@
     },
     {
       "id": "part-catalog-0127",
-      "name": "فانوس أمامي – يمين",
+      "name": "كشاف أمامي يمين تويوتا كورولا E210 2019–2026",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 4805,
+      "details": "سعر معلن للكشاف الأمامي العادي جهة اليمين.",
+      "model": "Toyota Corolla E210 2019–2026",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/e210",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0128",
-      "name": "فانوس أمامي – يسار",
+      "name": "كشاف أمامي يسار تويوتا كورولا E210 2019–2026",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 4805,
+      "details": "سعر معلن للكشاف الأمامي العادي؛ يجب تأكيد الجهة قبل الطلب.",
+      "model": "Toyota Corolla E210 2019–2026",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/e210",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0129",
@@ -2471,19 +2496,29 @@
     },
     {
       "id": "part-catalog-0131",
-      "name": "فانوس خلفي – يمين",
+      "name": "فانوس خلفي خارجي يمين تويوتا كورولا E210 2019–2026",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 2803,
+      "details": "سعر معلن للفانوس الخلفي الخارجي جهة اليمين.",
+      "model": "Toyota Corolla E210 2019–2026",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/e210",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0132",
-      "name": "فانوس خلفي – يسار",
+      "name": "فانوس خلفي خارجي يسار تويوتا كورولا E210 2019–2026",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 2803,
+      "details": "سعر معلن للفانوس الخلفي الخارجي؛ يجب تأكيد الجهة قبل الطلب.",
+      "model": "Toyota Corolla E210 2019–2026",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/e210",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0133",
