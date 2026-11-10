@@ -2354,12 +2354,12 @@
     "name": "MSI Prestige 14 Evo",
     "category": "لابتوبات",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 120791,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/8W73G14VA-msi-prestige-14-evo-14-full-hd-plus-intel-core-i7-13700h-intel-iris-xe-graphics-32gb-ram-1tb-ssd-urban-silver-windows-11-pro-prestige-14-evo",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لتكوين Prestige 14 Evo B13M-269US بمعالج i7-13700H وذاكرة 32GB وSSD 1TB؛ لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0163",
@@ -2570,12 +2570,12 @@
     "name": "HP Z2 Tower G9",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 188772,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/7V8F7XOXC-hp-z2-g9-workstation-intel-core-i7-dodeca-core-12-core-i7-12700-12th-gen-2-10-ghz-32-gb-ddr5-sdram-ram-512-gb-ssd-tower-windows-11-pro",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لتكوين Z2 G9 بمعالج i7-12700 وذاكرة 32GB وSSD 512GB؛ لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0181",
@@ -2594,12 +2594,12 @@
     "name": "Lenovo ThinkCentre M70s",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 94356,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/N2TUC9K5O-lenovo-thinkcentre-m70s-gen-5-sff-intel-core-i7-14700-2-1ghz-10-core-ddr5-16gb-ram-512gb-ssd-dvdrw-intel-uhd-graphics-wifi-6",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لتكوين ThinkCentre M70s Gen 5 بمعالج i7-14700 وذاكرة 16GB وSSD 512GB؛ لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0183",
@@ -2726,12 +2726,12 @@
     "name": "ASUS ROG G22CH",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 94491,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/NHJ9PUPE8-rog-g22ch-gaming-sff-desktop-computer-14th-gen-intel-core-i7-14700f-up-to-5-4-ghz-16gb-ddr5-ram-512gb-nvme-ssd-nvidia-geforce-rtx-3050-8gb-dolby",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لتكوين ROG G22CH بمعالج i7-14700F وRTX 3050 وذاكرة 16GB؛ لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0194",
