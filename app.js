@@ -900,30 +900,45 @@
   function renderMarketGroups(groups,live,generatedAt){
     const targetIds={"أسعار الذهب":"goldRates","أسعار الفضة":"silverRates","أسعار العملات مقابل الجنيه":"currencyRates"};
     groups.forEach(group=>{
-      const root=document.getElementById(targetIds[group.title]);
-      if(!root)return;
+      const root=document.getElementById(targetIds[group.title]);if(!root)return;
       root.replaceChildren();
       if(!Array.isArray(group.items)||!group.items.length){
-        root.append(element("p","market-unavailable","تعذر الحصول على أسعار موثوقة في هذه اللحظة. لن نعرض أرقامًا قديمة على أنها أسعار اليوم."));
-        if(group.note)root.append(element("small","catalog-footnote",group.note));
-        if(group.source){const link=element("a","market-source-link","افتح صفحة المصدر للتحقق من السعر");link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";root.append(link);}
-        return;
+        root.append(element("p","market-unavailable","الأسعار غير متاحة حاليًا."));
+        if(group.source){const link=element("a","market-source-link","تحقق من المصدر");link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";root.append(link);}return;
       }
-      const table=element("div","market-rate-list");
-      group.items.forEach(x=>{
-        const row=element("div","market-rate-row");
-        row.append(element("strong","",x.name),element("span","",x.value));
-        table.append(row);
+      const isCurrency=group.title==="أسعار العملات مقابل الجنيه";
+      const grid=element("div","market-quote-grid");
+      group.items.forEach((item,index)=>{
+        const card=element("article","market-quote-card"+(index===0&&!isCurrency?" market-quote-featured":""));
+        const head=element("div","market-quote-head");
+        head.append(element("strong","market-quote-name",item.name));
+        if(item.unit)head.append(element("span","market-quote-unit","لكل "+item.unit));
+        card.append(head);
+        if(isCurrency){
+          const price=item.rate??item.value;
+          card.append(element("span","market-quote-label","السعر المرجعي"));
+          card.append(element("strong","market-quote-price",typeof price==="number"?price.toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه":String(price||"غير متاح")));
+        }else if(item.buy!=null||item.sell!=null){
+          const prices=element("div","market-buy-sell");
+          const buy=element("div","market-price-side");
+          buy.append(element("span","market-quote-label","سعر شراء المحل منك"),element("strong","market-quote-price",Number(item.buy).toLocaleString("en-US",{maximumFractionDigits:4})+" ج"));
+          const sell=element("div","market-price-side");
+          sell.append(element("span","market-quote-label","سعر بيع المحل لك"),element("strong","market-quote-price",Number(item.sell).toLocaleString("en-US",{maximumFractionDigits:4})+" ج"));
+          prices.append(buy,sell);card.append(prices);
+        }else{
+          card.append(element("strong","market-quote-price market-quote-fallback",item.value||"غير متاح"));
+        }
+        grid.append(card);
       });
-      root.append(table);
-      const note=element("small","catalog-footnote",group.note);
-      const link=element("a","","فتح المصدر");
-      link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";
-      note.append(link);root.append(note);
+      root.append(grid);
+      const foot=element("div","market-quote-foot");
+      foot.append(element("span","market-quote-note",group.note||"الأسعار استرشادية وقد تختلف حسب التاجر والمصنعية."));
+      if(group.source){const link=element("a","market-source-link","المصدر");link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";foot.append(link);}
+      root.append(foot);
       const groupIsLive=group.live===undefined?live:group.live;
-      root.append(element("p","catalog-footnote",groupIsLive
-        ?"تحديث من المصدر المباشر · آخر استجابة: "+new Date(generatedAt||Date.now()).toLocaleString("ar-EG")
-        :"بيانات محفوظة احتياطيًا · تاريخ الرصد موضح أعلاه وقد لا تمثل السعر الحالي."));
+      root.append(element("p","market-data-stamp",groupIsLive
+        ?"آخر تحديث من المصدر: "+new Date(generatedAt||Date.now()).toLocaleString("ar-EG")
+        :"بيانات احتياطية مؤرخة وليست سعرًا لحظيًا."));
     });
   }
   function groupsFromLiveFeed(feed){
@@ -936,17 +951,17 @@
       const isCurrency=asset.category==="currencies"||asset.kind==="currency";
       const buy=asset.directions?.buy?.best?.value;
       const sell=asset.directions?.sell?.best?.value;
-      const fmt=n=>Number.isFinite(Number(n))?Number(n).toLocaleString("en-US",{maximumFractionDigits:4}):"غير متاح";
+      const rate=sell??asset.benchmark?.sell??asset.global?.value;
+      const valid=n=>n!==null&&n!==undefined&&Number.isFinite(Number(n))?Number(n):null;
       if(isGold||isSilver){
-        const row={name:marketAssetName(asset),value:"الجهة تشتري منك: "+fmt(buy)+" · الجهة تبيع لك: "+fmt(sell)+" جنيه"};
+        const row={name:marketAssetName(asset),buy:valid(buy),sell:valid(sell),unit:"جرام"};
         (isSilver?silver:gold).push(row);
-      }else if(isCurrency){
-        const value=sell??asset.benchmark?.sell??asset.global?.value;
-        if(value!=null)currencies.push({name:marketAssetName(asset),value:fmt(value)+" جنيه"});
+      }else if(isCurrency&&valid(rate)!==null){
+        currencies.push({name:marketAssetName(asset),rate:valid(rate),code:asset.code||""});
       }
     });
     const stamp=feed.generatedAt||new Date().toISOString();
-    const make=(title,items)=>({title,items,live:true,note:"آخر رصد من المصدر: "+stamp+" · الأسعار استرشادية وليست عرض بيع ملزم. ",source:"https://getdaleelak.com/ar/api"});
+    const make=(title,items)=>({title,items,live:true,note:"أسعار استرشادية من المصدر المباشر؛ قد تختلف المصنعية والرسوم وسعر التاجر.",source:"https://getdaleelak.com/ar/api"});
     return [make("أسعار الذهب",gold),make("أسعار الفضة",silver),make("أسعار العملات مقابل الجنيه",currencies)];
   }
   async function loadMarketRates(){
@@ -954,12 +969,12 @@
     if(!targets.some(id=>document.getElementById(id)))return;
     const fallbackGroups=[
       {title:"أسعار الذهب",items:[
-        {name:"ذهب عيار 24 – جرام",value:"شراء 7,171.85 · بيع 7,081.58 جنيه"},
-        {name:"ذهب عيار 21 – جرام",value:"شراء 6,276.00 · بيع 6,197.00 جنيه"},
-        {name:"ذهب عيار 18 – جرام",value:"شراء 5,379.43 · بيع 5,311.71 جنيه"}
+        {name:"ذهب عيار 24",unit:"جرام",buy:7171.85,sell:7081.58},
+        {name:"ذهب عيار 21",unit:"جرام",buy:6276,sell:6197},
+        {name:"ذهب عيار 18",unit:"جرام",buy:5379.43,sell:5311.71}
       ],source:"https://react.arabfinance.com/ar/prices-hub",note:"آخر بيانات منشورة بالمصدر: 5 نوفمبر 2026، 01:29 صباحًا. لقطة احتياطية مؤرخة وليست سعرًا لحظيًا؛ تحقق من المصدر قبل التعامل."},
       {title:"أسعار الفضة",items:[
-        {name:"فضة – جرام",value:"شراء 95.66 · بيع 92.77 جنيه"}
+        {name:"فضة – جرام",unit:"جرام",buy:95.66,sell:92.77}
       ],source:"https://react.arabfinance.com/ar/prices-hub",note:"آخر بيانات منشورة بالمصدر: 5 نوفمبر 2026، 01:29 صباحًا. لقطة احتياطية مؤرخة وليست سعرًا لحظيًا؛ تحقق من المصدر قبل التعامل."},
       {title:"أسعار العملات مقابل الجنيه",items:[
         {name:"الدولار الأمريكي USD",value:"55.4209 جنيه"},
