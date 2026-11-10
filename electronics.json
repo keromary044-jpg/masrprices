@@ -2943,12 +2943,12 @@
     "name": "Canon i-SENSYS MF655Cdw",
     "category": "طابعات وماسحات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 30249,
+    "merchant": "Trademark Egypt",
+    "source": "https://trademark-eg.com/product/canon-i-sensys-mf655cdw-wireless-color-laser-multifunction-printer/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "يتطلب تأكيد السعر",
+    "note": "السعر المنشور 30,249 جنيه؛ المتجر يذكر تأكيد السعر والتوفر هاتفيًا."
   },
   {
     "id": "elx-0210",
@@ -3122,12 +3122,12 @@
     "name": "Brother MFC-L8690CDW",
     "category": "طابعات وماسحات",
     "brand": "Brother",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 213333.05,
+    "merchant": "Aetronix Egypt",
+    "source": "https://eg.aetronix.com/product/brother/mfcl8690cdwg1/mfc-l8690cdw-laser-4in1-3?pid=c15cd818-825d-4c69-b715-ff79fadeeb83",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "التوفر غير موضح",
+    "note": "السعر شامل ضريبة القيمة المضافة؛ السعر قبل الضريبة 185,507 جنيه."
   },
   {
     "id": "elx-0224",
@@ -3182,12 +3182,12 @@
     "name": "Pantum P2500W",
     "category": "طابعات وماسحات",
     "brand": "Pantum",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 15207,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/259695106-dw-pantum-p2500w-monochrome-single-function-laser-printer-with-mobile",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر شامل الرسوم والضرائب حسب صفحة Desertcart؛ المنتج مستورد."
   },
   {
     "id": "elx-0229",
@@ -3206,12 +3206,12 @@
     "name": "Pantum M6550NW",
     "category": "طابعات وماسحات",
     "brand": "Pantum",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10500,
+    "merchant": "RayaShop",
+    "source": "https://www.rayashop.com/en/pantum-multifunctional-mono-laser-printer-black-m6550nw-4",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور 10,500 جنيه؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0231",
@@ -3458,12 +3458,12 @@
     "name": "Nikon NIKKOR Z 24-70mm",
     "category": "كاميرات وعدسات",
     "brand": "Nikon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 33000,
+    "merchant": "Amazon Egypt (via Pricena)",
+    "source": "https://eg.pricena.com/en/brands/nikon",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Amazon Egypt",
+    "note": "السعر لعدسة Nikon NIKKOR Z 24-70mm f/4 S؛ تحقق من نسخة العدسة قبل الشراء."
   },
   {
     "id": "elx-0252",
