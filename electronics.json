@@ -5117,12 +5117,12 @@
     "name": "Huawei AX3 Quad-Core",
     "category": "راوترات وشبكات",
     "brand": "Huawei",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11900,
+    "merchant": "Laptop Store Egypt",
+    "source": "https://store-eg.com/s/laptop/en/product/huawei-wifi-ax3",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "غير متاح حاليًا",
+    "note": "السعر المنشور لنسخة Huawei AX3 Quad-Core؛ الصفحة تعرض Notify Me When Available."
   },
   {
     "id": "elx-0387",
@@ -5177,12 +5177,12 @@
     "name": "D-Link DIR-X1560",
     "category": "راوترات وشبكات",
     "brand": "D-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3200,
+    "merchant": "Sokrat Pro Tech",
+    "source": "https://sokratprotech.com/index.php/product-category/networking/?product-page=9",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج للبيع",
+    "note": "السعر المنشور لراوتر D-Link DIR-X1560 Wi-Fi 6."
   },
   {
     "id": "elx-0392",
@@ -5237,12 +5237,12 @@
     "name": "ZTE MC888 5G Router",
     "category": "راوترات وشبكات",
     "brand": "ZTE",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14999,
+    "merchant": "Noon Egypt (via Pricena)",
+    "source": "https://eg.pricena.com/en/computers/brand/zte",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Noon",
+    "note": "السعر لراوتر ZTE MC888 Gigabit Wi-Fi 6."
   },
   {
     "id": "elx-0397",
@@ -5345,12 +5345,12 @@
     "name": "MikroTik hAP ax2",
     "category": "راوترات وشبكات",
     "brand": "MikroTik",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8500,
+    "merchant": "Amazon Egypt (via Pricena)",
+    "source": "https://eg.pricena.com/ar/product/mikrotik-mikrotik-hap-ax2-us-version-c52ig-5haxd2haxd-tc-us-price-in-Egypt-36397247",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Amazon Egypt",
+    "note": "السعر لنسخة hAP ax2 الأمريكية C52iG-5HaxD2HaxD-TC-US."
   },
   {
     "id": "elx-0406",
@@ -5393,12 +5393,12 @@
     "name": "Ubiquiti UniFi U6+",
     "category": "راوترات وشبكات",
     "brand": "Ubiquiti",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12000,
+    "merchant": "Noon Egypt (via Pricena)",
+    "source": "https://eg.pricena.com/en/brands/ubiquiti",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Noon",
+    "note": "السعر المنشور لنقطة الوصول Ubiquiti UniFi U6+."
   },
   {
     "id": "elx-0410",
