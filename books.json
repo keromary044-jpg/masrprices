@@ -2120,12 +2120,13 @@
       "title": "واحة الغروب",
       "author": "بهاء طاهر",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 216,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=979e885a-762c-4fd0-961e-c3610c14a401",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر بعد الخصم منشور على صفحة الطبعة؛ قد يتغير"
     },
     {
       "id": "catalog-049-الحب-في-المنفى",
