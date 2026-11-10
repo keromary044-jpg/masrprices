@@ -7195,15 +7195,16 @@
   },
   {
     "id": "elx-0555",
-    "name": "Bluetti AC70",
+    "name": "BLUETTI AC70 768Wh Portable Power Station + 200W Solar Panel",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Bluetti",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 232573,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/653481892-bluetti-portable-power-station-ac70-768wh-and-200w-solar-panel",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر المعروض 232,573 جنيه شامل الرسوم والضرائب؛ المنتج متاح وقت الرصد.",
+    "note": "السعر للحزمة التي تضم محطة AC70 ولوحًا شمسيًا 200W، وليس الجهاز منفردًا.",
+    "model": "AC70 768Wh, 1000W output, bundle with 200W solar panel"
   },
   {
     "id": "elx-0556",
