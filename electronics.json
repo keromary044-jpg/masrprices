@@ -7207,12 +7207,12 @@
     "name": "Bluetti AC200L",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Bluetti",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 200146,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/580610991-bluetti-ac200l-portable-power-station-2048wh-2400w-lifepo4-battery",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_in_stock_price_duties_included",
+    "note": "سعر استيراد منشور لدى Desertcart Egypt شامل الرسوم والضرائب والتوصيل؛ السعر مرتفع وقد يتغير، تحقق من المواصفات والضمان."
   },
   {
     "id": "elx-0558",
