@@ -2510,24 +2510,24 @@
     "name": "Dell Vostro Tower 3020",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 19500,
+    "merchant": "Innovoshop Egypt",
+    "source": "https://electronics.zabasket.com/products/dell-vostro-3020-tower",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متوفر بالمخزون؛ 25 قطعة ظاهرة بالمخزون",
+    "note": "Dell Vostro 3020 Tower؛ Core i5-12400؛ السعر 19,500 جنيه."
   },
   {
     "id": "elx-0176",
     "name": "Dell Precision 3660 Tower",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 85000,
+    "merchant": "Bendary Stores",
+    "source": "https://www.egprices.com/en/product/dell-precision-3660-i9-14900k-8gb-256gb-ssd-intel-integrated-graphics-w11-tower-server",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ صفحة المقارنة تعرض شراء أونلاين",
+    "note": "Dell Precision 3660 Tower؛ التكوين Core i9-14900K / 8GB DDR5 / 256GB NVMe / Intel UHD / Windows 11 Pro؛ السعر 85,000 جنيه."
   },
   {
     "id": "elx-0177",
@@ -2558,12 +2558,12 @@
     "name": "HP EliteDesk 800 G9",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 34000,
+    "merchant": "Innovoshop Egypt",
+    "source": "https://electronics.zabasket.com/products/hp-elitedesk-800-g9",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متوفر بالمخزون؛ 15 قطعة ظاهرة بالمخزون",
+    "note": "HP EliteDesk 800 G9؛ Core i7-12700 / NVMe SSD / Windows 11 Pro؛ السعر 34,000 جنيه."
   },
   {
     "id": "elx-0180",
