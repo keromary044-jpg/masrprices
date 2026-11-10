@@ -232,15 +232,17 @@
     },
     {
       "id": "spare-parts-فلتر-هواء-لنيسان-صني-nissan-قطعة",
-      "name": "فلتر هواء لنيسان صني",
+      "name": "فلتر هواء FERRA FILTER نيسان صني N17",
       "category": "فلاتر",
-      "brand": "Nissan",
+      "brand": "FERRA FILTER",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 290,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/products/fltr-hwaa-nysan-sny-n17",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لفلتر هواء صني N17؛ يلزم مطابقة سنة الصنع قبل الطلب.",
+      "model": "Nissan Sunny N17 (2011–2024)",
+      "partNumber": "AP-20191"
     },
     {
       "id": "spare-parts-فلتر-زيت-لهيونداي-إلنترا-hyundai-قطعة",
@@ -654,15 +656,16 @@
     },
     {
       "id": "spare-parts-ردياتير-نيسان-صني-nissan-قطعة",
-      "name": "ردياتير نيسان صني",
+      "name": "ردياتير مياه نيسان صني N17 2012 أوتوماتيك",
       "category": "تبريد ومحرك",
-      "brand": "Nissan",
+      "brand": "Aftermarket",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 2441,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لردياتير مياه صني N17 موديل 2012 أوتوماتيك؛ لا يعمم على الفئات الأخرى.",
+      "model": "Nissan Sunny N17 2012 Automatic"
     },
     {
       "id": "spare-parts-ثرموستات-تبريد-هيونداي-hyundai-قطعة",
