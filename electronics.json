@@ -1299,15 +1299,17 @@
   },
   {
     "id": "elx-0077",
-    "name": "Nikai Smart TV 43",
+    "name": "Nikai NE43SLED 43-inch Full HD Smart LED TV",
     "category": "الشاشات والتلفزيونات",
     "brand": "Nikai",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4950,
+    "merchant": "Elghazawy",
+    "source": "https://www.elghazawy.com/en/product/271954/Nikai-Smart-TV%2C-43-Inch%2C-LED%2C-Full-HD%2C-NE43SLED",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "آخر سعر منشور 4,950 جنيه؛ الصفحة تعرض المنتج غير متاح حاليًا.",
+    "note": "تم تحديد السجل العام Nikai Smart TV 43 بالموديل المطابق NE43SLED؛ السعر المنشور مرجعي وليس تأكيدًا للتوفر.",
+    "model": "NE43SLED",
+    "availability": "غير متاح وقت الرصد"
   },
   {
     "id": "elx-0078",
