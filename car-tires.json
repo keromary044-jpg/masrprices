@@ -1071,6 +1071,50 @@
       "merchant": "Shaheen Tire",
       "source": "https://www.shaheentire.com/tires/size/185-65-r15",
       "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "Dynamo 185/65 R15 88H – سعر 10 نوفمبر",
+      "brand": "Dynamo",
+      "category": "إطارات ملاكي",
+      "price": 1980,
+      "priceStatus": "سعر معلن لمنتج متوفر بالمخزون، شامل الضريبة، رصد 10 نوفمبر 2026",
+      "details": "سعر الفردة الواحدة حسب صفحة المقاس والموديل.",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/185-65-r15",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "Primus 185/65 R15 88H – سعر 10 نوفمبر",
+      "brand": "Primus",
+      "category": "إطارات ملاكي",
+      "price": 2000,
+      "priceStatus": "سعر معلن لمنتج متوفر بالمخزون، شامل الضريبة، رصد 10 نوفمبر 2026",
+      "details": "سعر الفردة الواحدة حسب صفحة المقاس والموديل.",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/185-65-r15",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "BOTO G228 185/65 R15 88H – سعر 10 نوفمبر",
+      "brand": "BOTO",
+      "category": "إطارات ملاكي",
+      "price": 2030,
+      "priceStatus": "سعر معلن لمنتج متوفر بالمخزون، شامل الضريبة، رصد 10 نوفمبر 2026",
+      "details": "سعر الفردة الواحدة حسب صفحة المقاس والموديل.",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/185-65-r15",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "Chaoyang 185/65 R15 88H – سعر 10 نوفمبر",
+      "brand": "Chaoyang",
+      "category": "إطارات ملاكي",
+      "price": 2290,
+      "priceStatus": "سعر معلن لمنتج متوفر بالمخزون، شامل الضريبة، رصد 10 نوفمبر 2026",
+      "details": "سعر الفردة الواحدة حسب صفحة المقاس والموديل.",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/tires/size/185-65-r15",
+      "checkedAt": "2026-11-10"
     }
   ],
   "updatedAt": "2026-11-10"
