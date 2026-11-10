@@ -942,7 +942,10 @@
           if(!query)return true;
           return normalize([item.name,item.englishName,item.code,item.symbol,item.country].filter(Boolean).join(" ")).includes(query);
         });
-        if(isCurrency&&countLabel)countLabel.textContent="عرض "+matches.length+" من "+group.items.length+" عملة";
+        if(isCurrency&&countLabel){
+          const pricedCount=group.items.filter(item=>!item.directoryOnly&&Number.isFinite(Number(item.rate))).length;
+          countLabel.textContent="عرض "+matches.length+" من "+group.items.length+" عملة · لها سعر: "+pricedCount;
+        }
         matches.forEach((item,index)=>{
           const card=element("article","market-quote-card"+(index===0&&!isCurrency?" market-quote-featured":""));
           const head=element("div","market-quote-head");
@@ -952,8 +955,10 @@
           card.append(head);
           if(isCurrency){
             const price=item.rate??item.value;
-            card.append(element("span","market-quote-label",item.directoryOnly?"ضمن دليل العملات العالمي":"السعر المرجعي مقابل الجنيه"));
+            const rateLabel=item.directoryOnly?"لا يتوفر سعر موثوق حاليًا":(item.sourceType==="global-cross-rate"?"سعر مرجعي عالمي محوّل للجنيه":"سعر مرجعي من السوق المصري");
+            card.append(element("span","market-quote-label",rateLabel));
             card.append(element("strong","market-quote-price",item.directoryOnly?"سعر الصرف غير متاح حاليًا":(typeof price==="number"?price.toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه":String(price||"غير متاح"))));
+            if(item.rateDate&&item.sourceType==="global-cross-rate")card.append(element("small","market-quote-note","تحديث المصدر العالمي: "+item.rateDate));
           }else if(item.buy!=null||item.sell!=null){
             const prices=element("div","market-buy-sell");
             const buy=element("div","market-price-side");
@@ -1000,13 +1005,36 @@
         const row={name:marketAssetName(asset),buy:valid(buy),sell:valid(sell),unit:"جرام"};
         (isSilver?silver:gold).push(row);
       }else if(isCurrency&&valid(rate)!==null){
-        currencies.push({name:marketAssetName(asset),rate:valid(rate),code:asset.code||""});
+        const code=String(asset.code||asset.id||"").split("-")[0].toUpperCase();
+        currencies.push({name:marketAssetName(asset),rate:valid(rate),code,sourceType:"egypt-market"});
       }
     });
     const stamp=feed.generatedAt||new Date().toISOString();
     const make=(title,items)=>({title,items,live:true,note:"أسعار استرشادية من المصدر المباشر؛ قد تختلف المصنعية والرسوم وسعر التاجر.",source:"https://getdaleelak.com/ar/api"});
     return [make("أسعار الذهب",gold),make("أسعار الفضة",silver),make("أسعار العملات مقابل الجنيه",currencies)];
   }
+  let usdReferencePromise=null;
+  async function loadUsdReferenceRates(){
+    if(!usdReferencePromise){
+      usdReferencePromise=(async()=>{
+        const urls=[
+          "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
+          "https://latest.currency-api.pages.dev/v1/currencies/usd.json"
+        ];
+        for(const url of urls){
+          try{
+            const response=await fetch(url,{cache:"no-store"});
+            if(!response.ok)continue;
+            const data=await response.json();
+            if(data&&data.usd&&typeof data.usd==="object")return {rates:data.usd,date:data.date||""};
+          }catch(error){console.warn("تعذر تحميل مصدر أسعار العملات العالمي:",error);}
+        }
+        throw new Error("Global currency reference unavailable");
+      })().catch(error=>{usdReferencePromise=null;throw error;});
+    }
+    return usdReferencePromise;
+  }
+
   async function loadMarketRates(){
     const targets=["goldRates","silverRates","currencyRates"];
     if(!targets.some(id=>document.getElementById(id)))return;
@@ -1037,7 +1065,26 @@
       marketETag=res.headers.get("ETag")||marketETag;
       const groups=groupsFromLiveFeed(feed),byTitle=new Map(groups.map(g=>[g.title,g]));
       const directory=await loadCurrencyDirectory();
-      renderMarketGroups(fallbackGroups.map(f=>{const live=byTitle.get(f.title);if(f.title==="أسعار العملات مقابل الجنيه"){const base=live&&live.items.length?live:f;const priced=new Set(base.items.map(x=>x.code).filter(Boolean));return {...base,items:[...base.items,...directory.filter(x=>!priced.has(x.code))],note:"الأسعار متاحة فقط للعملات التي يعرضها المصدر المباشر؛ بقية العملات ظاهرة في الدليل العالمي دون سعر صرف مؤكد."};}return live&&live.items.length?live:f;}),true,feed.generatedAt);
+      const currencyGroup=byTitle.get("أسعار العملات مقابل الجنيه");
+      const fallbackCurrencyGroup=fallbackGroups.find(x=>x.title==="أسعار العملات مقابل الجنيه");
+      const baseCurrencies=currencyGroup&&currencyGroup.items.length?currencyGroup.items:fallbackCurrencyGroup.items;
+      const pricedByCode=new Map(baseCurrencies.filter(x=>x.code&&Number.isFinite(Number(x.rate))).map(x=>[x.code,x]));
+      let globalRates=null;
+      try{globalRates=await loadUsdReferenceRates();}catch(error){console.warn("سيتم عرض العملات التي لا تتوفر لها أسعار عالمية دون سعر.",error);}
+      const usdEgp=pricedByCode.get("USD")?.rate??(globalRates?.rates?.egp?Number(globalRates.rates.egp):null);
+      const mergedCurrencies=directory.map(item=>{
+        const local=pricedByCode.get(item.code);
+        if(local)return {...item,...local,name:item.name,englishName:item.englishName,sourceType:"egypt-market"};
+        const unitsPerUsd=globalRates?.rates?.[item.code.toLowerCase()];
+        if(Number.isFinite(Number(unitsPerUsd))&&Number(unitsPerUsd)>0&&Number.isFinite(Number(usdEgp))&&Number(usdEgp)>0){
+          return {...item,rate:Number(usdEgp)/Number(unitsPerUsd),sourceType:"global-cross-rate",rateDate:globalRates.date,directoryOnly:false};
+        }
+        return {...item,directoryOnly:true};
+      });
+      const pricedCount=mergedCurrencies.filter(x=>!x.directoryOnly&&Number.isFinite(Number(x.rate))).length;
+      const coveragePct=mergedCurrencies.length?Math.round(pricedCount/mergedCurrencies.length*100):0;
+      const mergedNote="تغطية الأسعار: "+pricedCount+" من "+mergedCurrencies.length+" عملة ("+coveragePct+"%). أسعار العملات المتاحة محليًا من مصدر السوق المصري، وباقي الأسعار المرجعية محسوبة من سعر الدولار المحلي ومعدلات عالمية يومية؛ قد تختلف عن أسعار البنوك والصرافة. العملات التي لا تتوفر لها بيانات موثوقة لا يُختلق لها سعر.";
+      renderMarketGroups(fallbackGroups.map(f=>{const live=byTitle.get(f.title);if(f.title==="أسعار العملات مقابل الجنيه"){return {...(live&&live.items.length?live:f),items:mergedCurrencies,note:mergedNote,source:"https://github.com/fawazahmed0/exchange-api"};}return live&&live.items.length?live:f;}),true,feed.generatedAt);
     }catch(error){
       console.warn("Market data unavailable; showing source links.",error);
       renderMarketGroups(fallbackGroups,false, "2026-11-05T01:29:01");
