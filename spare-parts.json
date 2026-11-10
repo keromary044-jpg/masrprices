@@ -81,15 +81,17 @@
     },
     {
       "id": "part-toyota-timing-belt",
-      "name": "سير مجموعة لتويوتا",
+      "name": "سير مجموعة Bosch 6PK1230 تويوتا كورولا",
       "category": "سيور وبلي",
-      "brand": "Toyota",
+      "brand": "Bosch",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 575,
+      "merchant": "Shasih",
+      "details": "سعر معلن لسير مجموعة Bosch رقم 6PK1230 لتويوتا كورولا؛ ليس سير كاتينة.",
+      "source": "https://shasih.com/cars/toyota/corolla/mechanical",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla",
+      "partNumber": "6PK1230"
     },
     {
       "id": "part-toyota-water-pump",
@@ -204,15 +206,16 @@
     },
     {
       "id": "spare-parts-فلتر-تكييف-لتويوتا-كورولا-toyota-قطعة",
-      "name": "فلتر تكييف لتويوتا كورولا",
+      "name": "فلتر تكييف تويوتا كورولا 2020",
       "category": "فلاتر",
-      "brand": "Toyota",
+      "brand": "قطع المحرك",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 210,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لفلتر تكييف كورولا 2020؛ يجب مطابقة شكل الفلتر قبل الطلب.",
+      "model": "Toyota Corolla 2020"
     },
     {
       "id": "spare-parts-فلتر-زيت-لنيسان-صني-nissan-قطعة",
@@ -521,15 +524,17 @@
     },
     {
       "id": "spare-parts-سير-مجموعة-لتويوتا-toyota-قطعة",
-      "name": "سير مجموعة لتويوتا",
+      "name": "سير مجموعة Bosch 6PK1230 تويوتا كورولا",
       "category": "سيور",
-      "brand": "Toyota",
+      "brand": "Bosch",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 575,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لسير مجموعة Bosch رقم 6PK1230 لتويوتا كورولا؛ ليس سير كاتينة.",
+      "model": "Toyota Corolla",
+      "partNumber": "6PK1230"
     },
     {
       "id": "spare-parts-سير-مجموعة-لنيسان-nissan-قطعة",
@@ -619,15 +624,16 @@
     },
     {
       "id": "spare-parts-طرمبة-مياه-لتويوتا-toyota-قطعة",
-      "name": "طرمبة مياه لتويوتا",
+      "name": "طلمبة مياه NES تويوتا كورولا تركي",
       "category": "تبريد ومحرك",
-      "brand": "Toyota",
+      "brand": "NES",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 920,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لطلمبة مياه NES لتويوتا كورولا؛ تحقق من سنة الصنع والمحرك.",
+      "model": "Toyota Corolla"
     },
     {
       "id": "spare-parts-ردياتير-تويوتا-كورولا-denso-قطعة",
