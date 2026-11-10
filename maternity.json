@@ -752,15 +752,25 @@
       "name": "غطاء رضاعة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 495,
+      "details": "سعر Mamina Nursing Cover المنشور لدى المتجر؛ سعر غطاء رضاعة محدد.",
+      "merchant": "Mamina Egypt",
+      "source": "https://mamina-eg.com/collections/nursing-care",
+      "priceStatus": "verified_listed_model",
+      "checkedAt": "2026-11-10",
+      "currency": "EGP"
     },
     {
       "name": "وسادة جلوس بعد الولادة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 6999,
+      "details": "سعر Frida Mom Perineal Cooling Comfort Donut Cushion المنشور لدى المتجر؛ سعر موديل محدد لوسادة ما بعد الولادة.",
+      "merchant": "The Baby Garage",
+      "source": "https://thebabygarage.com/ar/nursing-and-feeding-en/",
+      "priceStatus": "verified_listed_model",
+      "checkedAt": "2026-11-10",
+      "currency": "EGP"
     },
     {
       "name": "حمالة حمل",
@@ -801,8 +811,13 @@
       "name": "ميزان حرارة للرضع",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 85,
+      "details": "سعر Granzia Thermometer KFT-03 المنشور لدى المتجر؛ سعر موديل محدد.",
+      "merchant": "Babyislandeg",
+      "source": "https://www.babyislandeg.com/shop/category/baby-care-time-3",
+      "priceStatus": "verified_listed_model",
+      "checkedAt": "2026-11-10",
+      "currency": "EGP"
     },
     {
       "name": "وسادة رضاعة على شكل U",
@@ -829,10 +844,15 @@
       "name": "حافظة رضاعات حرارية",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 255,
+      "details": "سعر True Thermal Pocket المنشور لدى المتجر؛ سعر موديل محدد لحافظة حرارية.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Babyislandeg",
+      "source": "https://www.babyislandeg.com/shop/category/baby-care-time-3",
+      "priceStatus": "verified_listed_model",
+      "checkedAt": "2026-11-10",
+      "currency": "EGP"
     },
     {
       "name": "حقيبة حفظ الحليب",
@@ -868,8 +888,13 @@
       "name": "حلمة رضاعة سيليكون",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 110,
+      "details": "سعر Bubbles Breastfeeding Natural Nipple المنشور لدى الصيدلية؛ سعر منتج محدد.",
+      "merchant": "Abdin Pharmacies",
+      "source": "https://abdinpharmacies.com/en_GB/shop/category/mom-and-baby-care-mom-care-99",
+      "priceStatus": "verified_listed_model",
+      "checkedAt": "2026-11-10",
+      "currency": "EGP"
     },
     {
       "name": "واقي حلمة رضاعة",
