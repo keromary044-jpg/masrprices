@@ -6595,12 +6595,12 @@
     "name": "Google Nest Hub 2nd Gen",
     "category": "أجهزة المنزل الذكي",
     "brand": "Google",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3667,
+    "merchant": "Ennap",
+    "source": "https://ennap.com/products/google-nest-hub-2nd-generation-with-google-assistant",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لجهاز Google Nest Hub الجيل الثاني؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0508",
@@ -6747,12 +6747,12 @@
     "name": "Xiaomi Mi 360 Camera",
     "category": "أجهزة المنزل الذكي",
     "brand": "Xiaomi",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1149,
+    "merchant": "DokkanTech",
+    "source": "https://www.dokkantech.com/collections/security-cameras/products/xiaomi-mi-security-camera-360-1080p-panoramic-view",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر لكاميرا Xiaomi Mi 360 بدقة 1080p؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0520",
@@ -6989,12 +6989,12 @@
     "name": "Anker Prime 20K Power Bank",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Anker",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5900,
+    "merchant": "CairoVolt",
+    "source": "https://cairovolt.com/en/anker/power-banks",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر لنسخة Anker Prime 20,000mAh A1336 بقدرة 200W؛ تحقق من رقم الموديل عند الشراء."
   },
   {
     "id": "elx-0540",
@@ -7363,12 +7363,12 @@
     "name": "Casio HR-8RC Calculator",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Casio",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2270,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/12-digit-mini-printing-portable-calculator-hr-8rc-bk-dc-black/N34023788A/p/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مخزون منخفض",
+    "note": "السعر لنسخة Casio HR-8RC-BK-DC؛ المتبقي المعلن قطعتان."
   },
   {
     "id": "elx-0571",
