@@ -824,7 +824,9 @@
     if(!book.grade)return "general";
     return /ع$/.test(book.grade)?"prep":"secondary";
   }
+  const novelCategories=new Set(["أدب وروايات","أدب عالمي","مغامرات","خيال علمي","شعر","خيال وفانتازيا","أدب تراثي","رعب","غموض وتحقيق","أطفال وفانتازيا","مسرح","نقد وأدب","أطفال وأدب عالمي","رعب وخيال علمي","فلسفة وأدب"]);
   function bookKindOf(book){
+    if(novelCategories.has(book.category))return "novels";
     if(book.category==="كتب الوزارة")return "ministry";
     if(book.category==="كتب مدرسين"||book.teacher)return "teacher";
     if(!book.grade)return "general";
@@ -916,8 +918,23 @@
         document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x===btn));
         renderBooks(bookData);
       }));
+      document.getElementById("bookNovelsToggle").addEventListener("click",()=>{
+        const button=document.getElementById("bookNovelsToggle");
+        const novelsMode=activeBookKind!=="novels";
+        activeBookKind=novelsMode?"novels":"all";
+        bookVisibleLimit=24;
+        if(novelsMode){
+          bookStage.value="";bookGrade.value="";bookSubject.value="";bookYear.value="";bookTerm.value="";
+          updateBookFilters();
+        }
+        button.classList.toggle("is-active",novelsMode);
+        button.setAttribute("aria-pressed",String(novelsMode));
+        document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x.dataset.bookKind==="all"&&!novelsMode));
+        renderBooks(bookData);
+      });
       document.getElementById("bookReset").addEventListener("click",()=>{
         document.getElementById("bookSearch").value="";bookStage.value="";activeBookKind="all";bookVisibleLimit=24;updateBookFilters();
+        const novelsButton=document.getElementById("bookNovelsToggle");novelsButton.classList.remove("is-active");novelsButton.setAttribute("aria-pressed","false");
         document.getElementById("bookSort").value="name";
         document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x.dataset.bookKind==="all"));
         renderBooks(bookData);
