@@ -6375,12 +6375,12 @@
     "name": "Epson EH-TW7100",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "Epson",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 129999,
+    "merchant": "TradeMark Egypt",
+    "source": "https://priceteq.com/eg/shop/740?cat=tv",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور لدى متجر مصري؛ معروض ضمن المنتجات المتاحة",
+    "note": "Epson EH-TW7100 4K PRO-UHD Home Projector."
   },
   {
     "id": "elx-0490",
@@ -6459,12 +6459,12 @@
     "name": "ViewSonic PA503W",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "ViewSonic",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17499,
+    "merchant": "TradeMark Egypt",
+    "source": "https://priceteq.com/eg/shop/740?cat=tv",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور لدى متجر مصري؛ السعر النهائي والتوفر يؤكدان مع المتجر",
+    "note": "ViewSonic PA503W 3800 Lumens WXGA Business Projector."
   },
   {
     "id": "elx-0497",
