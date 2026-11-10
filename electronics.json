@@ -6045,12 +6045,12 @@
     "name": "NZXT Kraken 240 Cooler",
     "category": "مكونات الكمبيوتر",
     "brand": "NZXT",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5999,
+    "merchant": "Bostan Mall",
+    "source": "https://bostan.bznsbutlers.com/p/nzxt-kraken-240",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض متوفر في المخزن",
+    "note": "NZXT Kraken 240mm AIO Liquid Cooler؛ السعر 5,999 جنيه."
   },
   {
     "id": "elx-0463",
@@ -6141,12 +6141,12 @@
     "name": "SanDisk Ultra Flair 128GB USB",
     "category": "وحدات تخزين خارجية",
     "brand": "SanDisk",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 625,
+    "merchant": "Applinz",
+    "source": "https://nileshopper.com/products/61900-sandisk-ultra-flair-flash-drive-128gb-silver",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ In stock وتحديث خلال آخر يومين",
+    "note": "SanDisk Ultra Flair 128GB USB 3.0 Flash Drive؛ السعر 625 جنيه."
   },
   {
     "id": "elx-0471",
@@ -6177,12 +6177,12 @@
     "name": "Kingston DataTraveler Exodia 128GB",
     "category": "وحدات تخزين خارجية",
     "brand": "Kingston",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 655,
+    "merchant": "World Trade for Computer",
+    "source": "https://worldtradecomputer.com/products/datatraveler-exodia-usb-32-flash-dtx128gb-128-gb",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ 3 وحدات متبقية",
+    "note": "Kingston DataTraveler Exodia 128GB USB 3.2 Gen 1؛ السعر 655 جنيه."
   },
   {
     "id": "elx-0474",
@@ -6201,12 +6201,12 @@
     "name": "Western Digital My Passport 2TB",
     "category": "وحدات تخزين خارجية",
     "brand": "Western Digital",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4500,
+    "merchant": "Solid Hardware Egypt",
+    "source": "https://priceteq.com/eg/product/faf748df-3f18-421b-99f1-4a0fa372e201",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ In stock وتحديث PriceTeq خلال آخر يومين",
+    "note": "Western Digital My Passport 2TB USB 3.2 External HDD؛ أقل سعر مرصود 4,500 جنيه."
   },
   {
     "id": "elx-0476",
