@@ -3254,12 +3254,12 @@
     "name": "Ricoh IM 2702",
     "category": "طابعات وماسحات",
     "brand": "Ricoh",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 60000,
+    "merchant": "Al Ansar Group Egypt",
+    "source": "https://www.alansargroup.com/allproducts?page=1&search_keyword=Mp&type=1",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "used_listed_price_stock_to_confirm",
+    "note": "سعر منشور لماكينة Ricoh IM 2702 استيراد مستعمل؛ يجب تأكيد الحالة والتكوين والتوفر مع البائع."
   },
   {
     "id": "elx-0235",
