@@ -1938,12 +1938,12 @@
     "name": "HP 15s-fq",
     "category": "لابتوبات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 22025,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/productuk/LZ8OH5C5S-15s-fq5021na-laptop-pc-intel",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد من المملكة المتحدة لنسخة HP 15s-fq5021na بمعالج i5-1235U وذاكرة 8GB وSSD 256GB؛ لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0130",
