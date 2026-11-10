@@ -894,15 +894,18 @@
   },
   {
     "id": "elx-0043",
-    "name": "Sony X80L 65",
+    "name": "Sony BRAVIA X80L 65-inch 4K HDR Google TV",
     "category": "الشاشات والتلفزيونات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 38000,
+    "merchant": "مرجع أسعار السوق المصري (GehazTech)",
+    "source": "https://gehaztech.com/مميزات-و-عيوب-شاشة-سوني-65-بوصة-سمارت/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نطاق مرجعي منشور لفئة شاشات LED الأساسية 65 بوصة في مصر: 38,000–48,000 جنيه بتاريخ سبتمبر 2026؛ خانة price تمثل الحد الأدنى وليس عرضًا محددًا لطراز KD-65X80L.",
+    "note": "النطاق للفئة والحجم وليس تسعيرًا مباشرًا للموديل؛ يلزم تأكيد سعر البائع قبل الشراء.",
+    "model": "KD-65X80L",
+    "priceMin": 38000,
+    "priceMax": 48000
   },
   {
     "id": "elx-0044",
