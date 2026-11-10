@@ -1890,12 +1890,12 @@
     "name": "Dell Vostro 3520",
     "category": "لابتوبات",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 22500,
+    "merchant": "Gammaegy",
+    "source": "https://gammaegy.com/ar/product-category/notebook/laptops/business-laptops/?product_brand=dell",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "ضمن المنتجات المتاحة؛ فئة المتجر تعرض 3 منتجات In Stock",
+    "note": "Dell Vostro 3520؛ Core i5-1235U / 8GB RAM / 512GB SSD / Intel UHD / 15.6-inch FHD؛ السعر 22,500 جنيه."
   },
   {
     "id": "elx-0126",
@@ -1926,12 +1926,12 @@
     "name": "Dell G15 5530",
     "category": "لابتوبات",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 101856,
+    "merchant": "B.TECH Egypt",
+    "source": "https://prices.askyasser.com/en/brand/dell",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "آخر سعر مرصود قبل يومين لدى 4 متاجر؛ حالة المخزون تحتاج تأكيد",
+    "note": "Dell G15 5530؛ التكوين Core i7-13650HX / 16GB / 1TB SSD / RTX 4060؛ آخر سعر مرصود 101,856 جنيه."
   },
   {
     "id": "elx-0129",
@@ -2068,24 +2068,24 @@
     "name": "Lenovo ThinkPad T14 Gen 4",
     "category": "لابتوبات",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 25000,
+    "merchant": "Smart Laptop Egypt",
+    "source": "https://smart-laptop.com/ar/products/lenovo-thinkpad-t14-gen-4-2023-intel-core-i5-1335u-13th-gen-16gb-ddr5-ram-512gb-ssd-intel-iris-xe-graphics-14-fhd-display-12-month-warranty",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "2 وحدات ظاهرة بالمخزون؛ جاهز للشحن",
+    "note": "Lenovo ThinkPad T14 Gen 4؛ Core i5-1335U / 16GB DDR5 / 512GB SSD؛ السعر 25,000 جنيه."
   },
   {
     "id": "elx-0140",
     "name": "Lenovo Yoga 7 14",
     "category": "لابتوبات",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 65999,
+    "merchant": "Egytech",
+    "source": "https://egytech.net/product-category/laptop/page/2/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر مدرج بالصفحة؛ الشراء عبر WhatsApp وحالة المخزون غير موضحة",
+    "note": "Lenovo Yoga 7 2-in-1 14IPH11-83TC0003US؛ Core Ultra 5-322 / 16GB / 512GB SSD؛ السعر 65,999 جنيه."
   },
   {
     "id": "elx-0141",
@@ -3050,12 +3050,12 @@
     "name": "Epson WorkForce Pro WF-C5790",
     "category": "طابعات وماسحات",
     "brand": "Epson",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 16450,
+    "merchant": "Smyrna Egypt",
+    "source": "https://shop.smyrna.com.eg/products/WF-C5790",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر معروض والصفحة تعرض أضف للسلة؛ آخر فهرسة قبل شهرين",
+    "note": "Epson WorkForce Pro WF-C5790؛ السعر 16,450 جنيه."
   },
   {
     "id": "elx-0218",
@@ -5377,12 +5377,12 @@
     "name": "Ubiquiti UniFi U6 Lite",
     "category": "راوترات وشبكات",
     "brand": "Ubiquiti",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6420,
+    "merchant": "SalemForNet",
+    "source": "https://www.salemfornet.art/catalog?cat=%D8%B1%D8%A7%D9%88%D8%AA%D8%B1%D8%A7%D8%AA",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ الكتالوج يضع حالة متاح",
+    "note": "Ubiquiti UniFi 6 Lite Access Point (U6-Lite)؛ السعر 6,420 جنيه."
   },
   {
     "id": "elx-0409",
