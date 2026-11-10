@@ -5845,12 +5845,12 @@
     "name": "Kingston NV2 1TB SSD",
     "category": "مكونات الكمبيوتر",
     "brand": "Kingston",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3100,
+    "merchant": "Smart Shop Egypt",
+    "source": "https://smartshop-it.com/collections/computer/ssd?page=2",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور 3,100 جنيه لنسخة Kingston NV2 1TB؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0446",
@@ -5881,12 +5881,12 @@
     "name": "Samsung 990 EVO 1TB SSD",
     "category": "مكونات الكمبيوتر",
     "brand": "Samsung",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4700,
+    "merchant": "New Vision Store",
+    "source": "https://new-vision.tech/shop/?filter_hard-drive-capacity=1-tb&per_page=12&per_row=4&shop_view=list",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور 4,700 جنيه لنسخة Samsung 990 EVO 1TB؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0449",
