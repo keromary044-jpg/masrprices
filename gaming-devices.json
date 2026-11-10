@@ -576,13 +576,18 @@
       "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
     },
     {
-      "name": "Nintendo Switch Lite – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Nintendo Switch Lite Gray 32GB",
+      "brand": "Nintendo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 10999,
+      "details": "جهاز Nintendo Switch Lite باللون الرمادي وسعة 32GB.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo",
+      "currency": "EGP",
+      "merchant": "Elogail Stores",
+      "source": "https://elogailstores.com/collections/nintendo/products/nintendo-switch-lite-gray",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور سابقًا لدى المتجر؛ يلزم تأكيد السعر والتوفر الحاليين."
     },
     {
       "name": "Nintendo Switch Lite – إصدار تخزين 2TB",
@@ -594,13 +599,18 @@
       "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
     },
     {
-      "name": "Gaming PC – نسخة أساسية",
-      "brand": "ماركات متعددة",
+      "name": "ASUS ROG G700 2025 Gaming Desktop PC RTX 5070",
+      "brand": "ASUS",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 164999,
+      "details": "كمبيوتر مكتبي للألعاب بمعالج Intel Core Ultra 7 265F وبطاقة RTX 5070 وذاكرة 32GB DDR5 وقرص 1TB SSD.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo",
+      "currency": "EGP",
+      "merchant": "Games World Egypt",
+      "source": "https://www.gamesworldegypt.com/pc-e-laptop/pc-1/gaming-pcs",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 164,999 جنيهًا، والمنتج ظاهر كغير متوفر وقت التحقق."
     },
     {
       "name": "Gaming PC – نسخة رقمية",
@@ -725,11 +735,16 @@
       "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
     },
     {
-      "name": "شاشة ألعاب – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "ViewSonic VX2779A HD PRO 27-inch 240Hz Gaming Monitor",
+      "brand": "ViewSonic",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 7899,
+      "details": "شاشة 27 بوصة FHD IPS بتردد 240Hz وزمن استجابة 1ms.",
+      "currency": "EGP",
+      "merchant": "Games World Egypt",
+      "source": "https://www.gamesworldegypt.com/devices-accessories?order=ASC&sort=p.price",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 7,899 جنيهًا وقت التحقق."
     },
     {
       "name": "شاشة ألعاب – إصدار تخزين 2TB",
@@ -772,11 +787,16 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "يد تحكم لاسلكية – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "GameSir Tegenaria Lite T3 Lite Wired Game Controller",
+      "brand": "GameSir",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 855,
+      "details": "يد تحكم سلكية للكمبيوتر مع Hall Effect Joysticks.",
+      "currency": "EGP",
+      "merchant": "Games World Egypt",
+      "source": "https://www.gamesworldegypt.com/devices-accessories?order=ASC&sort=p.price",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 855 جنيهًا وقت التحقق."
     },
     {
       "name": "يد تحكم لاسلكية – إصدار تخزين 2TB",
@@ -831,11 +851,16 @@
       "priceStatus": "سعر منشور في مقارنة متاجر؛ تحقق من التوفر والسعر النهائي قبل الشراء."
     },
     {
-      "name": "سماعة ألعاب – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "Logitech Zone Vibe 100 Bluetooth Wireless Headset",
+      "brand": "Logitech",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 4999,
+      "details": "سماعة لاسلكية Bluetooth مناسبة للمكالمات والاستخدام والألعاب.",
+      "currency": "EGP",
+      "merchant": "Games World Egypt",
+      "source": "https://www.gamesworldegypt.com/devices-accessories?order=ASC&sort=p.price",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 4,999 جنيهًا وقت التحقق."
     },
     {
       "name": "T-DAGGER Bora TGK313 Gaming Mechanical Keyboard Red Switch",
@@ -928,11 +953,16 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "ماوس ألعاب – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Logitech G102 LIGHTSYNC Gaming Mouse White",
+      "brand": "Logitech",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 749,
+      "details": "ماوس ألعاب سلكي بإضاءة RGB وستة أزرار قابلة للبرمجة.",
+      "currency": "EGP",
+      "merchant": "Games World Egypt",
+      "source": "https://www.gamesworldegypt.com/devices-accessories?order=ASC&sort=p.price",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 749 جنيهًا وقت التحقق."
     },
     {
       "name": "ماوس ألعاب – إصدار تخزين 2TB",
@@ -1022,11 +1052,16 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "عجلة سباق ألعاب – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Logitech Driving Force G29 & Shifter",
+      "brand": "Logitech",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 16499,
+      "details": "عجلة قيادة Logitech G29 مع ناقل حركة.",
+      "currency": "EGP",
+      "merchant": "Games World Egypt",
+      "source": "https://www.gamesworldegypt.com/devices-accessories?order=ASC&sort=p.price",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 16,499 جنيهًا وقت التحقق."
     },
     {
       "name": "عجلة سباق ألعاب – إصدار تخزين 2TB",
