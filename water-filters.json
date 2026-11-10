@@ -908,155 +908,221 @@
       "name": "خزان فلتر مياه – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1750,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لخزان مياه P.P.C تايواني منشور؛ السعة قد لا تطابق هذا الوصف. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://cleanwatereg.com/product-category/قطع-غيار-فلاتر-المياه-المنزلية/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "خزان فلتر مياه – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 2250,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لخزان Tank Pack منشور؛ السعة قد لا تطابق هذا الوصف. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://cleanwatereg.com/product-category/قطع-غيار-فلاتر-المياه-المنزلية/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "حنفية فلتر – منزلي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 124.99,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لحنفية فلتر ستانلس منشورة؛ ليست بالضرورة نفس المقاس أو التصميم. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://almorshedymarts.net/en/categories/kitchen-water-filters-water-filters-accessories",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "حنفية فلتر – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 124.99,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لحنفية فلتر ستانلس منشورة؛ ليست بالضرورة نفس المقاس أو التصميم. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://almorshedymarts.net/en/categories/kitchen-water-filters-water-filters-accessories",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "حنفية فلتر – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 124.99,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لحنفية فلتر ستانلس منشورة؛ ليست بالضرورة نفس المقاس أو التصميم. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://almorshedymarts.net/en/categories/kitchen-water-filters-water-filters-accessories",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "حنفية فلتر – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 124.99,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لحنفية فلتر ستانلس منشورة؛ ليست بالضرورة نفس المقاس أو التصميم. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://almorshedymarts.net/en/categories/kitchen-water-filters-water-filters-accessories",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "حنفية فلتر – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 124.99,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لحنفية فلتر ستانلس منشورة؛ ليست بالضرورة نفس المقاس أو التصميم. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://almorshedymarts.net/en/categories/kitchen-water-filters-water-filters-accessories",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "جهاز قياس TDS – منزلي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز قياس TDS منشور؛ قد تختلف الدقة والموديل. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://cleanwatereg.com/product-category/قطع-غيار-فلاتر-المياه-المنزلية/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "جهاز قياس TDS – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز قياس TDS منشور؛ قد تختلف الدقة والموديل. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://cleanwatereg.com/product-category/قطع-غيار-فلاتر-المياه-المنزلية/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "جهاز قياس TDS – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز قياس TDS منشور؛ قد تختلف الدقة والموديل. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://cleanwatereg.com/product-category/قطع-غيار-فلاتر-المياه-المنزلية/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "جهاز قياس TDS – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز قياس TDS منشور؛ قد تختلف الدقة والموديل. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://cleanwatereg.com/product-category/قطع-غيار-فلاتر-المياه-المنزلية/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "جهاز قياس TDS – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز قياس TDS منشور؛ قد تختلف الدقة والموديل. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://cleanwatereg.com/product-category/قطع-غيار-فلاتر-المياه-المنزلية/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "طقم شمعات – منزلي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 395,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لطقم شمعات Tank خمس مراحل وست قطع؛ قد يختلف التوافق. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters?ordered=price&sort=asc",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "طقم شمعات – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 395,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لطقم شمعات Tank خمس مراحل وست قطع؛ قد يختلف التوافق. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters?ordered=price&sort=asc",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "طقم شمعات – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 395,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لطقم شمعات Tank خمس مراحل وست قطع؛ قد يختلف التوافق. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters?ordered=price&sort=asc",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "طقم شمعات – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 395,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لطقم شمعات Tank خمس مراحل وست قطع؛ قد يختلف التوافق. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters?ordered=price&sort=asc",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "طقم شمعات – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 395,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لطقم شمعات Tank خمس مراحل وست قطع؛ قد يختلف التوافق. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters?ordered=price&sort=asc",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "وحدة تعقيم UV – منزلي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 6649,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز Tank Pro RO مزود بتعقيم UV؛ السعر للجهاز الكامل وليس لوحدة UV منفردة. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://ehabcenter.com/product-category/small-appliances/water-filter/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "وحدة تعقيم UV – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 6649,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز Tank Pro RO مزود بتعقيم UV؛ السعر للجهاز الكامل وليس لوحدة UV منفردة. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://ehabcenter.com/product-category/small-appliances/water-filter/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "وحدة تعقيم UV – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 6649,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز Tank Pro RO مزود بتعقيم UV؛ السعر للجهاز الكامل وليس لوحدة UV منفردة. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://ehabcenter.com/product-category/small-appliances/water-filter/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "وحدة تعقيم UV – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 6649,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز Tank Pro RO مزود بتعقيم UV؛ السعر للجهاز الكامل وليس لوحدة UV منفردة. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://ehabcenter.com/product-category/small-appliances/water-filter/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "وحدة تعقيم UV – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 6649,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري للمقارنة فقط: مرجع لجهاز Tank Pro RO مزود بتعقيم UV؛ السعر للجهاز الكامل وليس لوحدة UV منفردة. لا تعرضه كسعر مؤكد لنفس الموديل/المقاس/السعة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://ehabcenter.com/product-category/small-appliances/water-filter/",
+      "priceCheckedAt": "2026-11-10"
     }
   ],
   "updatedAt": "2026-11-10",
