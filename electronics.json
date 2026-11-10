@@ -3988,12 +3988,12 @@
     "name": "Sony Pulse 3D Headset",
     "category": "أجهزة الألعاب",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6280,
+    "merchant": "The Game Cave Egypt",
+    "source": "https://thegamecaveegypt.com/collections/playstation-5-controllers",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على صفحة المتجر؛ المنتج مدرج ضمن المجموعة",
+    "note": "Sony PlayStation 5 PULSE 3D Wireless Headset."
   },
   {
     "id": "elx-0296",
@@ -4036,12 +4036,12 @@
     "name": "Microsoft Xbox Wireless Controller",
     "category": "أجهزة الألعاب",
     "brand": "Microsoft",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3590,
+    "merchant": "Shamy Stores",
+    "source": "https://shamystores.com/collections/accessories",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون؛ 10 وحدات حسب صفحة المتجر",
+    "note": "Microsoft Xbox Series Controller - Carbon Black."
   },
   {
     "id": "elx-0300",
@@ -4288,12 +4288,12 @@
     "name": "HyperX Cloud III Headset",
     "category": "أجهزة الألعاب",
     "brand": "HyperX",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4999,
+    "merchant": "The Game Cave Egypt",
+    "source": "https://thegamecaveegypt.com/collections/playstation-5-controllers",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر منشور؛ المنتج ظاهر كغير متوفر حاليًا",
+    "note": "HyperX Cloud III Wired Gaming Headset، SKU 727A9AA."
   },
   {
     "id": "elx-0321",
