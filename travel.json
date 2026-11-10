@@ -1954,6 +1954,32 @@
       "checkedAt": "2026-11-10",
       "unit": "تذكرة طالب مصري",
       "priceStatus": "سعر منشور بمصدر حكومي؛ يفضل تأكيده قبل الزيارة"
+    },
+    {
+      "id": "travel-nmec-adult-egypt-2026",
+      "name": "تذكرة بالغ مصري – المتحف القومي للحضارة المصرية",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 90,
+      "merchant": "وزارة السياحة والآثار / المتحف القومي للحضارة",
+      "details": "سعر التذكرة للمصري البالغ كما هو منشور في موقع وزارة السياحة والآثار.",
+      "source": "https://egymonuments.gov.eg/ar/museums/national-museum-of-egyptian-civilization-nmec/",
+      "checkedAt": "2026-11-10",
+      "unit": "تذكرة بالغ مصري",
+      "priceStatus": "سعر منشور رسميًا"
+    },
+    {
+      "id": "travel-nmec-student-egypt-2026",
+      "name": "تذكرة طالب مصري – المتحف القومي للحضارة المصرية",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 45,
+      "merchant": "وزارة السياحة والآثار / المتحف القومي للحضارة",
+      "details": "سعر الطالب المصري؛ يلزم إبراز بطاقة طالب سارية.",
+      "source": "https://egymonuments.gov.eg/ar/museums/national-museum-of-egyptian-civilization-nmec/",
+      "checkedAt": "2026-11-10",
+      "unit": "تذكرة طالب مصري",
+      "priceStatus": "سعر منشور رسميًا"
     }
   ]
 }
