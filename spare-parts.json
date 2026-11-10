@@ -820,15 +820,16 @@
     },
     {
       "id": "spare-parts-مقبض-باب-خارجي-لتويوتا-toyota-قطعة",
-      "name": "مقبض باب خارجي لتويوتا",
+      "name": "غطاء مقبض باب خارجي كروم تويوتا كورولا 2001–2007",
       "category": "هيكل خارجي",
       "brand": "Toyota",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 165,
+      "merchant": "Tawfiqia",
+      "source": "https://tawfiqia.com/en/shop?category=doors",
+      "checkedAt": "2026-11-10",
+      "details": "غطاء مقبض باب خارجي كروم؛ السعر المنشور 165 جنيهًا. ليس المقبض الكامل. التوافق المذكور: تويوتا كورولا 2001–2007.",
+      "model": "Toyota Corolla 2001–2007"
     },
     {
       "id": "spare-parts-طقم-دبرياج-لهيونداي-hyundai-طقم",
