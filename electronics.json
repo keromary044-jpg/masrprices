@@ -6157,12 +6157,12 @@
     "name": "SanDisk Ultra Dual Drive 256GB",
     "category": "وحدات تخزين خارجية",
     "brand": "SanDisk",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3923,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/brand/sandisk",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر معروض في صفحة منتجات SanDisk بمصر لسعة 256GB موديل SDDDC2-256G-G46؛ سعر الاستيراد لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0472",
@@ -6217,12 +6217,12 @@
     "name": "Western Digital Elements 4TB",
     "category": "وحدات تخزين خارجية",
     "brand": "Western Digital",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11818,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/U5OCDQ8PC-wd-wdbu6y0040bbk-wesn-4tb-elements-usb-3-0-high-capacity-portable-hard-drive-for",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لقرص WD Elements Portable 4TB؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0477",
