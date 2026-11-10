@@ -4709,12 +4709,12 @@
     "name": "Sennheiser CX Plus True Wireless",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sennheiser",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10377,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/1J16LRPF2-sennheiser-cx-plus-true-wireless-black",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد من الولايات المتحدة لسماعات Sennheiser CX Plus True Wireless؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0353",
