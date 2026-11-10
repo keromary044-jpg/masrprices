@@ -2888,12 +2888,12 @@
     "name": "Canon PIXMA G4470",
     "category": "طابعات وماسحات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11700,
+    "merchant": "Laptop Store Egypt",
+    "source": "https://store-eg.com/s/laptop/product/canon-pixma-g4470",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مجدد",
+    "note": "السعر لنسخة Canon PIXMA G4470 مجددة بالكامل؛ ضمان 90 يوم حسب الصفحة."
   },
   {
     "id": "elx-0207",
@@ -3278,12 +3278,12 @@
     "name": "Fujitsu fi-8170",
     "category": "طابعات وماسحات",
     "brand": "Fujitsu",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 45500,
+    "merchant": "MEST Stores Egypt (via PriceTeq)",
+    "source": "https://priceteq.com/eg/shop/779?cat=printer&page=2",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج لدى المتجر",
+    "note": "السعر لماسح Fujitsu/Ricoh fi-8170؛ تأكد من اسم الموزع والضمان قبل الشراء."
   },
   {
     "id": "elx-0237",
@@ -3878,24 +3878,24 @@
     "name": "Tamron 28-75mm F2.8 G2",
     "category": "كاميرات وعدسات",
     "brand": "Tamron",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 43000,
+    "merchant": "iCamStore Egypt",
+    "source": "https://icamstore.net/product-category/lenses-accessories/lenses/tamron-lens/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر لعدسة Tamron 28-75mm f/2.8 Di III VXD G2 بتركيب Sony E."
   },
   {
     "id": "elx-0287",
     "name": "Tamron 70-300mm Di III",
     "category": "كاميرات وعدسات",
     "brand": "Tamron",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 27147,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/brand/tamron",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر المعروض لعدسة Tamron 70-300mm f/4.5-6.3 Di III RXD؛ لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0288",
@@ -6277,12 +6277,12 @@
     "name": "Transcend StoreJet 25M3 2TB",
     "category": "وحدات تخزين خارجية",
     "brand": "Transcend",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7149,
+    "merchant": "Elhamd Store Egypt",
+    "source": "https://priceteq.com/eg/product/c1f187f4-ddf5-4bd2-b88d-e2d7c215ea64",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "أقل سعر متاح مرصود لهارد Transcend StoreJet 25M3 سعة 2TB."
   },
   {
     "id": "elx-0482",
@@ -6963,12 +6963,12 @@
     "name": "Aqara Motion Sensor P1",
     "category": "أجهزة المنزل الذكي",
     "brand": "Aqara",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1800,
+    "merchant": "Amazon Egypt (via PriceNa)",
+    "source": "https://eg.pricena.com/en/brands/aqara",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Amazon Egypt",
+    "note": "السعر لحساس Aqara Zigbee Motion Sensor P1؛ يتطلب Hub متوافقًا."
   },
   {
     "id": "elx-0538",
