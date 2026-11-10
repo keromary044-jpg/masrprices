@@ -819,11 +819,16 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "سماعة ألعاب – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "HyperX Cloud Mini Gaming Headset",
+      "brand": "HyperX",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 1550,
+      "details": "سماعة ألعاب HyperX Cloud Mini؛ أقل سعر منشور في مقارنة Kolasaar كان 1,550 جنيهًا لدى Dream 2000.",
+      "currency": "EGP",
+      "merchant": "Dream 2000",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في مقارنة متاجر؛ تحقق من التوفر والسعر النهائي قبل الشراء."
     },
     {
       "name": "سماعة ألعاب – إصدار تخزين 2TB",
@@ -866,18 +871,28 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "كيبورد ألعاب – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "HyperX EVE1800 Wired Gaming Keyboard",
+      "brand": "HyperX",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2375,
+      "details": "لوحة مفاتيح ألعاب HyperX EVE1800؛ السعر المنشور لدى Dream 2000 ضمن مقارنة Kolasaar.",
+      "currency": "EGP",
+      "merchant": "Dream 2000",
+      "source": "https://kolasaar.com/eg/en/peripherals/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في مقارنة متاجر؛ تحقق من التوفر والسعر النهائي قبل الشراء."
     },
     {
-      "name": "كيبورد ألعاب – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "Logitech G213 Prodigy Gaming Keyboard",
+      "brand": "Logitech",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 2699,
+      "details": "لوحة مفاتيح ألعاب Logitech G213؛ السعر المعروض 2,699 جنيهًا لدى Noon.",
+      "currency": "EGP",
+      "merchant": "Noon",
+      "source": "https://eg.pricena.com/en/video-games-consoles/brand/logitech",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في مقارنة أسعار؛ تحقق من التوفر والسعر النهائي قبل الشراء."
     },
     {
       "name": "GIGAMAX X7 Wireless Gaming Mouse",
@@ -1229,6 +1244,6 @@
       "checkedAt": "2026-11-09"
     }
   ],
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
 }
