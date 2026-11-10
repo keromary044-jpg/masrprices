@@ -1260,6 +1260,53 @@
 
   const genericCatalogs={computers:{file:"computers-laptops.json",id:"computersCatalog"},printers:{file:"printers-ink.json",id:"printersCatalog"},gaming:{file:"gaming-devices.json",id:"gamingCatalog"},networking:{file:"networking-internet.json",id:"networkingCatalog"},securityCameras:{file:"security-cameras.json",id:"securityCamerasCatalog"},solar:{file:"solar-energy.json",id:"solarCatalog"},tires:{file:"car-tires.json",id:"tiresCatalog"},carBatteries:{file:"car-batteries.json",id:"carBatteriesCatalog"},motorcycles:{file:"motorcycles-scooters.json",id:"motorcyclesCatalog"},carOils:{file:"car-oils-lubricants.json",id:"carOilsCatalog"},kitchenware:{file:"kitchen-tools-utensils.json",id:"kitchenwareCatalog"},mattresses:{file:"mattresses-home-linen.json",id:"mattressesCatalog"},bathroom:{file:"bathroom-fixtures.json",id:"bathroomCatalog"},eyewear:{file:"eyewear-lenses.json",id:"eyewearCatalog"},watches:{file:"watches.json",id:"watchesCatalog"},bags:{file:"bags-luggage.json",id:"bagsCatalog"},perfumes:{file:"perfumes.json",id:"perfumesCatalog"},maternity:{file:"maternity.json",id:"maternityCatalog"},irrigation:{file:"agriculture-irrigation.json",id:"irrigationCatalog"},waterFilters:{file:"water-filters.json",id:"waterFiltersCatalog"},homeMedical:{file:"home-medical-devices.json",id:"homeMedicalCatalog"},householdCleaning:{file:"household-cleaning.json",id:"householdCleaningCatalog"},fuel:{file:"fuel.json",id:"fuelCatalog"},baby:{file:"baby-products.json",id:"babyCatalog"},medicines:{file:"medicines.json",id:"medicinesCatalog"},spareParts:{file:"spare-parts.json",id:"sparePartsCatalog"},services:{file:"services.json",id:"servicesCatalog"},personalCare:{file:"personal-care.json",id:"personalCareCatalog"},sports:{file:"sports.json",id:"sportsCatalog"},electrical:{file:"electrical.json",id:"electricalCatalog"},tools:{file:"tools.json",id:"toolsCatalog"},pets:{file:"pets.json",id:"petsCatalog"},plants:{file:"plants.json",id:"plantsCatalog"},telecom:{file:"telecom.json",id:"telecomCatalog"},travel:{file:"travel.json",id:"travelCatalog"},electronics:{file:"electronics.json",id:"electronicsCatalog"}};
   const genericData={};
+  function renderGenericCatalog(key){
+    const cfg=genericCatalogs[key],data=genericData[key];
+    const root=document.getElementById(cfg.id+"Products");
+    if(!root||!data)return;
+    const products=Array.isArray(data.products)?data.products:(Array.isArray(data)?data:[]);
+    const animals=key==="pets"&&Array.isArray(data.animals)?data.animals:[];
+    const all=[...products,...animals];
+    const query=normalize(document.getElementById(cfg.id+"Search")?.value||"");
+    const category=document.getElementById(cfg.id+"Category")?.value||"";
+    const sort=document.getElementById(cfg.id+"Sort")?.value||"name";
+    const rows=all.filter(item=>
+      (!category||item.category===category)&&
+      (!query||normalize([item.name,item.title,item.brand,item.category,item.model,item.spec,item.details,item.description].filter(Boolean).join(" ")).includes(query))
+    );
+    rows.sort((a,b)=>sort==="price"
+      ?((Number(a.price)>0?Number(a.price):Infinity)-(Number(b.price)>0?Number(b.price):Infinity))
+      :String(a.name||a.title||"").localeCompare(String(b.name||b.title||""),"ar"));
+    root.replaceChildren();
+    const count=document.getElementById(cfg.id+"Count");
+    if(count)count.textContent="عرض "+rows.length+" من "+all.length+" منتجًا";
+    if(!rows.length){
+      root.append(element("p","catalog-footnote","لا توجد منتجات مطابقة حاليًا."));
+      return;
+    }
+    rows.forEach(item=>{
+      const card=element("article","book-card generic-product-card");
+      const label=[item.brand,item.category].filter(Boolean).join(" · ");
+      if(label)card.append(element("span","book-category",label));
+      appendProductVisual(card,item);
+      card.append(element("h3","",item.name||item.title||"منتج"));
+      const price=item.price??item.priceEGP??item.priceFrom;
+      if(price!==null&&price!==undefined&&price!==""&&Number.isFinite(Number(price))&&Number(price)>0){
+        card.append(element("p","book-price",Number(price).toLocaleString("en-US")+" جنيه"));
+      }
+      if(item.unit||item.size)card.append(element("p","book-store","الوحدة / المقاس: "+(item.unit||item.size)));
+      if(item.details||item.description)card.append(element("p","catalog-footnote",item.details||item.description));
+      if(item.merchant)card.append(element("p","book-store","المتجر: "+item.merchant));
+      if(item.priceStatus)card.append(element("small","phone-price-status",item.priceStatus));
+      if(item.source&&/^https:\/\//i.test(item.source)){
+        const link=element("a","phone-source","مصدر المنتج");
+        link.href=item.source;link.target="_blank";link.rel="noopener noreferrer";
+        card.append(link);
+      }
+      addDatabaseComparison(card,item);
+      root.append(card);
+    });
+  }
   async function loadGenericCatalog(key){
     const cfg=genericCatalogs[key],root=document.getElementById(cfg.id+"Products");if(!root)return;
     if(genericData[key]){renderGenericCatalog(key);return;}
