@@ -1406,12 +1406,12 @@
     "name": "Dell U2723QE 27 4K",
     "category": "شاشات الكمبيوتر",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 26400,
+    "merchant": "Laptop Store Egypt",
+    "source": "https://laptop.store-eg.com/product/dell-ultrasharp-u2723qe-27",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "سعر منشور لدى Laptop Store Egypt؛ راجع التوفر النهائي قبل الشراء."
   },
   {
     "id": "elx-0086",
@@ -1731,12 +1731,12 @@
     "name": "BenQ GW2780 27",
     "category": "شاشات الكمبيوتر",
     "brand": "BenQ",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5999,
+    "merchant": "CompuScience",
+    "source": "https://compuscience.com.eg/en/monitors/2974-best-monitors-benq-eye-care-gw2780-60hz-27-inch-ips-fhd.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر منشور 5,999 جنيه لكن الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0113",
@@ -1827,12 +1827,12 @@
     "name": "MSI G244F 24",
     "category": "شاشات الكمبيوتر",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 9650,
+    "merchant": "Compumarts Egypt",
+    "source": "https://www.compumarts.com/products/msi-g244f-23-8inch-rapid-ips-full-hd-170hz-gaming-monitor",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور 9,650 جنيه؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0121",
