@@ -908,29 +908,54 @@
       }
       const isCurrency=group.title==="أسعار العملات مقابل الجنيه";
       const grid=element("div","market-quote-grid");
-      group.items.forEach((item,index)=>{
-        const card=element("article","market-quote-card"+(index===0&&!isCurrency?" market-quote-featured":""));
-        const head=element("div","market-quote-head");
-        head.append(element("strong","market-quote-name",item.name));
-        if(item.unit)head.append(element("span","market-quote-unit","لكل "+item.unit));
-        card.append(head);
-        if(isCurrency){
-          const price=item.rate??item.value;
-          card.append(element("span","market-quote-label","السعر المرجعي"));
-          card.append(element("strong","market-quote-price",typeof price==="number"?price.toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه":String(price||"غير متاح")));
-        }else if(item.buy!=null||item.sell!=null){
-          const prices=element("div","market-buy-sell");
-          const buy=element("div","market-price-side");
-          buy.append(element("span","market-quote-label","سعر شراء المحل منك"),element("strong","market-quote-price",Number(item.buy).toLocaleString("en-US",{maximumFractionDigits:4})+" ج"));
-          const sell=element("div","market-price-side");
-          sell.append(element("span","market-quote-label","سعر بيع المحل لك"),element("strong","market-quote-price",Number(item.sell).toLocaleString("en-US",{maximumFractionDigits:4})+" ج"));
-          prices.append(buy,sell);card.append(prices);
-        }else{
-          card.append(element("strong","market-quote-price market-quote-fallback",item.value||"غير متاح"));
-        }
-        grid.append(card);
-      });
-      root.append(grid);
+      let searchInput=null,countLabel=null;
+      if(isCurrency){
+        searchInput=document.getElementById("currencySearch");
+        countLabel=document.getElementById("currencyCount");
+        if(searchInput&&searchInput.parentElement!==root)root.append(searchInput);
+        if(countLabel&&countLabel.parentElement!==root)root.append(countLabel);
+        if(searchInput)searchInput.value="";
+        if(countLabel)countLabel.textContent="عدد العملات المتاحة: "+group.items.length;
+        root.append(grid);
+      }
+      const renderItems=()=>{
+        grid.replaceChildren();
+        const query=isCurrency?normalize(searchInput?.value||""):"";
+        const matches=group.items.filter(item=>{
+          if(!query)return true;
+          return normalize([item.name,item.code,item.symbol,item.country].filter(Boolean).join(" ")).includes(query);
+        });
+        if(isCurrency&&countLabel)countLabel.textContent="عرض "+matches.length+" من "+group.items.length+" عملة";
+        matches.forEach((item,index)=>{
+          const card=element("article","market-quote-card"+(index===0&&!isCurrency?" market-quote-featured":""));
+          const head=element("div","market-quote-head");
+          head.append(element("strong","market-quote-name",item.name));
+          if(item.code)head.append(element("span","market-quote-unit",item.code));
+          else if(item.unit)head.append(element("span","market-quote-unit","لكل "+item.unit));
+          card.append(head);
+          if(isCurrency){
+            const price=item.rate??item.value;
+            card.append(element("span","market-quote-label","السعر المرجعي"));
+            card.append(element("strong","market-quote-price",typeof price==="number"?price.toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه":String(price||"غير متاح")));
+          }else if(item.buy!=null||item.sell!=null){
+            const prices=element("div","market-buy-sell");
+            const buy=element("div","market-price-side");
+            buy.append(element("span","market-quote-label","سعر شراء المحل منك"),element("strong","market-quote-price",Number(item.buy).toLocaleString("en-US",{maximumFractionDigits:4})+" ج"));
+            const sell=element("div","market-price-side");
+            sell.append(element("span","market-quote-label","سعر بيع المحل لك"),element("strong","market-quote-price",Number(item.sell).toLocaleString("en-US",{maximumFractionDigits:4})+" ج"));
+            prices.append(buy,sell);card.append(prices);
+          }else{
+            card.append(element("strong","market-quote-price market-quote-fallback",item.value||"غير متاح"));
+          }
+          grid.append(card);
+        });
+        if(isCurrency&&!matches.length)grid.append(element("p","market-unavailable","لا توجد عملة مطابقة لبحثك."));
+      };
+      renderItems();
+      if(isCurrency&&searchInput&&!searchInput.dataset.searchBound){
+        searchInput.addEventListener("input",renderItems);
+        searchInput.dataset.searchBound="1";
+      }
       const foot=element("div","market-quote-foot");
       foot.append(element("span","market-quote-note",group.note||"الأسعار استرشادية وقد تختلف حسب التاجر والمصنعية."));
       if(group.source){const link=element("a","market-source-link","المصدر");link.href=group.source;link.target="_blank";link.rel="noopener noreferrer";foot.append(link);}
@@ -941,6 +966,7 @@
         :"بيانات احتياطية مؤرخة وليست سعرًا لحظيًا."));
     });
   }
+
   function groupsFromLiveFeed(feed){
     const assets=Array.isArray(feed.assets)?feed.assets:[];
     const gold=[],silver=[],currencies=[];
