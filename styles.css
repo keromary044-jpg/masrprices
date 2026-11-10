@@ -388,3 +388,17 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .book-novels-toggle{min-width:112px;border:1px solid #d5dfeb;border-radius:15px;background:#fff;color:#102f55;padding:10px 15px;font:inherit;font-weight:800;white-space:nowrap;cursor:pointer;box-shadow:0 5px 18px #102b500a}
 .book-novels-toggle.is-active{background:#102f55;color:#fff;border-color:#102f55}
 @media(max-width:390px){.book-search-row{grid-template-columns:minmax(0,1fr) 102px}.book-novels-toggle{min-width:0;padding:9px 8px;font-size:.88rem}}
+
+/* Ultra-simple book selection */
+.book-simple-tabs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin:14px 0}
+.book-simple-tab{min-height:48px;padding:9px 6px;border:1px solid #d5dfeb;border-radius:12px;background:#fff;color:#18395f;font:inherit;font-size:.9rem;font-weight:800;cursor:pointer}
+.book-simple-tab.is-active{background:#102f55;color:#fff;border-color:#102f55}
+.book-simple-filters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;padding:12px;margin:10px 0;background:#edf3f9;border-radius:14px}
+.book-simple-filters[hidden]{display:none!important}
+.book-simple-filters label{display:grid;gap:6px;font-size:.88rem;font-weight:800;color:#344963}
+.book-simple-filters select{width:100%;min-height:46px;border:1px solid #cbd8e7;border-radius:10px;background:#fff;padding:8px;font:inherit;color:#102b50}
+@media(max-width:380px){.book-simple-tabs{gap:5px}.book-simple-tab{font-size:.8rem}}
+/* Draggable budget button on touch and mouse screens */
+.budget-fab{position:fixed;left:auto;right:0;top:46%;z-index:1200;touch-action:none;cursor:grab;user-select:none;-webkit-user-select:none}
+.budget-fab:active{cursor:grabbing}
+.budget-panel{position:fixed;right:auto;bottom:auto;z-index:1201}
