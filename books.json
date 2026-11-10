@@ -1762,12 +1762,13 @@
       "title": "الطريق",
       "author": "نجيب محفوظ",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 207,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=a0a8a8f2-9189-4b60-9e2a-1022e73f54b3",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر بعد الخصم منشور؛ تحقق من التوفر قبل الشراء"
     },
     {
       "id": "catalog-021-قصر-الشوق",
@@ -2159,12 +2160,13 @@
       "title": "فوضى الحواس",
       "author": "أحلام مستغانمي",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 112.5,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=2b21019c-6858-4e16-8ad5-4f1d7f927390",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر بعد الخصم منشور لكن الكتاب غير متوفر حاليًا"
     },
     {
       "id": "catalog-052-الأسود-يليق-بك",
@@ -2210,12 +2212,13 @@
       "title": "مئة عام من العزلة",
       "author": "غابرييل غارسيا ماركيز",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 742.5,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=51820fad-c256-42d5-821d-dff770a8c7d9",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر بعد الخصم منشور؛ الطبعة غير متوفرة حاليًا"
     },
     {
       "id": "catalog-056-الحب-في-زمن-الكوليرا",
@@ -2431,12 +2434,13 @@
       "title": "نساء صغيرات",
       "author": "لويزا ماي ألكوت",
       "category": "أدب عالمي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 990,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=69a55a6b-970f-4f2f-8cd2-f43145d92200",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر بعد الخصم منشور؛ الطبعة غير متوفرة حاليًا"
     },
     {
       "id": "catalog-074-جين-إير",
