@@ -537,13 +537,17 @@
       "priceStatus": "سعر القائمة لنسخة OLED البيضاء؛ تحقق من التوفر قبل الشراء."
     },
     {
-      "name": "Nintendo Switch OLED – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "Nintendo Switch OLED Console White Used",
+      "brand": "Nintendo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 13499,
+      "details": "Nintendo Switch OLED Console White Used؛ السعر المنشور 13,499 جنيه مصري.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo",
+      "merchant": "Games2Egypt",
+      "source": "https://www.games2egypt.com/Category/3312/nintendo-switch-consoles",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لنسخة OLED البيضاء المستعملة؛ الحالة ليست جديدة."
     },
     {
       "name": "Nintendo Switch Lite Gray 32GB",
@@ -630,22 +634,30 @@
       "priceStatus": "سعر منشور للكمبيوتر بالمواصفات المحددة؛ التوفر يحتاج تأكيداً."
     },
     {
-      "name": "Gaming PC – حزمة مع لعبة",
-      "brand": "ماركات متعددة",
+      "name": "ASUS TUF Gaming T500 Desktop Bundle Core 5 210H RTX 5060",
+      "brand": "ASUS",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 60000,
+      "details": "ASUS TUF Gaming T500 Desktop Bundle Core 5 210H RTX 5060؛ السعر المنشور 60,000 جنيه مصري.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+      "merchant": "Compumarts",
+      "source": "https://www.compumarts.com/collections/ready-pc-bundles",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لحزمة جهاز مكتبي؛ لم يثبت أن لعبة مرفقة."
     },
     {
-      "name": "Gaming PC – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "RTX 5060 Gaming PC 270K Z890 PLUS Build",
+      "brand": "Generic Build",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 105000,
+      "details": "RTX 5060 Gaming PC 270K Z890 PLUS Build؛ السعر المنشور 105,000 جنيه مصري.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+      "merchant": "Baraka Computer",
+      "source": "https://barakacomputer.net/product-category/the-best-gaming-pc-and-builds/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لتجميعة RTX 5060؛ راجع تفاصيل المكونات قبل الشراء."
     },
     {
       "name": "Gaming PC – إصدار تخزين 2TB",
@@ -823,11 +835,15 @@
       "priceStatus": "السعر المنشور 855 جنيهًا وقت التحقق."
     },
     {
-      "name": "يد تحكم لاسلكية – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "GameSir G7 Pro WUCHANG Edition Wireless Controller",
+      "brand": "GameSir",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 4849,
+      "details": "GameSir G7 Pro WUCHANG Edition Wireless Controller؛ السعر المنشور 4,849 جنيه مصري.",
+      "merchant": "Compumarts",
+      "source": "https://www.compumarts.com/products/gamesir-g7-pro-wuchang-edition-wireless-controller-egypt",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور للنسخة اللاسلكية المحددة."
     },
     {
       "name": "JEDEL GH621 USB Gaming Headset",
@@ -1150,22 +1166,30 @@
       "priceStatus": "سعر صفحة المنتج؛ تأكد من أن المنتج متوافق مع جهازك."
     },
     {
-      "name": "VR Headset – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "Oculus Meta Quest 2 128GB VR Headset",
+      "brand": "Meta",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 15500,
+      "details": "Oculus Meta Quest 2 128GB VR Headset؛ السعر المنشور 15,500 جنيه مصري.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+      "merchant": "Shift Store",
+      "source": "https://shiftstore-eg.com/shop/vr/oculus-meta-quest-2-128gb/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 15,500 جنيه، والمنتج معروض غير متوفر حالياً."
     },
     {
-      "name": "VR Headset – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "Meta Quest 3S 256GB Batman Arkham Shadow Edition",
+      "brand": "Meta",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 32990,
+      "details": "Meta Quest 3S 256GB Batman Arkham Shadow Edition؛ السعر المنشور 32,990 جنيه مصري.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+      "merchant": "Shamy Stores",
+      "source": "https://shamystores.com/collections/vendors?q=meta",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لنسخة 256GB Batman Edition."
     },
     {
       "name": "Elgato HD60 X External Capture Card",
@@ -1194,31 +1218,43 @@
       "priceStatus": "سعر منشور لبطاقة التقاط HD60 S؛ التوفر يحتاج تأكيداً."
     },
     {
-      "name": "بطاقة التقاط ألعاب – حزمة مع لعبة",
-      "brand": "ماركات متعددة",
+      "name": "HDMI Video Capture Card 4K30 to USB 1080p",
+      "brand": "Generic",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 1097,
+      "details": "HDMI Video Capture Card 4K30 to USB 1080p؛ السعر المنشور 1,097 جنيه مصري.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "CameraShop",
+      "source": "https://camerashop.com.eg/product/hdmi-video-capture/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور بعد الخصم؛ لا توجد لعبة مرفقة."
     },
     {
-      "name": "بطاقة التقاط ألعاب – إصدار تخزين 1TB",
-      "brand": "ماركات متعددة",
+      "name": "AVerMedia Live Gamer Ultra S GC553Pro 4K60 Capture Card",
+      "brand": "AVerMedia",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 9704,
+      "details": "AVerMedia Live Gamer Ultra S GC553Pro 4K60 Capture Card؛ السعر المنشور 9,704 جنيه مصري.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Ubuy Egypt",
+      "source": "https://www.ubuy.com.eg/en/brand/avermedia",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور على Ubuy؛ قد يتغير مع الشحن والرسوم."
     },
     {
-      "name": "بطاقة التقاط ألعاب – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "Onten USB 3.0 Audio Video Capture Card OTN-US323",
+      "brand": "Onten",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 715,
+      "details": "Onten USB 3.0 Audio Video Capture Card OTN-US323؛ السعر المنشور 715 جنيه مصري.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/mlp-capture-card/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر القائمة المنشور للمنتج؛ تحقق من البائع والتوفر."
     },
     {
       "name": "Generic PS5 Charging Stand & Cooling Fan",
@@ -1243,11 +1279,15 @@
       "priceStatus": "سعر منشور لموديل محدد؛ يلزم تأكيد التوفر والسعر النهائي لدى المتجر"
     },
     {
-      "name": "قاعدة شحن يد التحكم – حزمة مع لعبة",
-      "brand": "ماركات متعددة",
+      "name": "DOBE Dual Charging Dock for PS5 Controllers White",
+      "brand": "DOBE",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 499,
+      "details": "DOBE Dual Charging Dock for PS5 Controllers White؛ السعر المنشور 499 جنيه مصري.",
+      "merchant": "Games2Egypt",
+      "source": "https://www.games2egypt.com/Product/26630/dobe-dual-charging-dock-for-ps5-controllers-white",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لقاعدة شحن مزدوجة؛ لا توجد لعبة مرفقة."
     },
     {
       "name": "Sony Charging Station for DualSense PS5 Controller",
@@ -1261,11 +1301,15 @@
       "priceStatus": "السعر المعروض للمنتج الجديد؛ يتوفر أيضاً خيار Open Sealed بسعر مختلف."
     },
     {
-      "name": "قاعدة شحن يد التحكم – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "OIVO Dual Charging Station for PS5 Controllers",
+      "brand": "OIVO",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة."
+      "price": 325,
+      "details": "OIVO Dual Charging Station for PS5 Controllers؛ السعر المنشور 325 جنيه مصري.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/mlp-ps5-charging-station/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر قائمة منشور؛ تحقق من توافق الإصدار والتوفر."
     },
     {
       "id": "gaming-elogail-nintendoswitchlitegray",
