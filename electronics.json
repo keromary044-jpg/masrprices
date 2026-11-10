@@ -793,24 +793,24 @@
     "name": "Hisense A6K 50",
     "category": "الشاشات والتلفزيونات",
     "brand": "Hisense",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12499,
+    "merchant": "Raya Shop",
+    "source": "https://www.rayashop.com/en/hisense-50-inch-4k-uhd-smart-led-tv-50a6k-18",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_local_price",
+    "note": "آخر سعر منشور لدى راية لشاشة Hisense 50A6K؛ المنتج غير متوفر وقت الرصد، والسعر قديم/قابل للتغيير."
   },
   {
     "id": "elx-0036",
     "name": "Hisense A6K 55",
     "category": "الشاشات والتلفزيونات",
     "brand": "Hisense",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17499,
+    "merchant": "Raya Shop",
+    "source": "https://www.rayashop.com/en/hisense-55-inch-4k-uhd-smart-led-tv-55a6k-19",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_local_price",
+    "note": "آخر سعر منشور لدى راية لشاشة Hisense 55A6K؛ المنتج غير متوفر وقت الرصد، والسعر قديم/قابل للتغيير."
   },
   {
     "id": "elx-0037",
