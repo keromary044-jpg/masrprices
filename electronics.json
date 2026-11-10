@@ -7431,12 +7431,12 @@
     "name": "Logitech Brio 4K Webcam",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Logitech",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 9899,
+    "merchant": "ZOKA",
+    "source": "https://zoka.co/collections/logitech/products/products-logitech-brio-4k-webcam",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض التوفر",
+    "note": "Logitech Brio 4K Webcam with Windows Hello؛ السعر 9,899 جنيه."
   },
   {
     "id": "elx-0577",
@@ -7503,36 +7503,36 @@
     "name": "Wacom One by Wacom Small",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Wacom",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2950,
+    "merchant": "Trojan Stores",
+    "source": "https://www.trojanstores.com/shop/wacom-one-ctl-472-n-small-creative-pen-tablet",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In stock",
+    "note": "Wacom One CTL-472-N Small Creative Pen Tablet؛ السعر 2,950 جنيه."
   },
   {
     "id": "elx-0583",
     "name": "Wacom Intuos Medium",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Wacom",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7000,
+    "merchant": "DGtizers",
+    "source": "https://dgtizers.eg/ar/wacom-intuos-ctl-6100-mediumblack",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ متوفر",
+    "note": "Wacom Intuos CTL-6100 Medium/Black؛ السعر 7,000 جنيه."
   },
   {
     "id": "elx-0584",
     "name": "Wacom Cintiq 16",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Wacom",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 38250,
+    "merchant": "DGtizers",
+    "source": "https://dgtizers.eg/wacom-cintiq-16",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ In Stock",
+    "note": "Wacom Cintiq 16 DTK-1660/K0-BX؛ السعر 38,250 جنيه."
   },
   {
     "id": "elx-0585",
