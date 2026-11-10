@@ -6915,12 +6915,12 @@
     "name": "Sonoff MINI R4 Switch",
     "category": "أجهزة المنزل الذكي",
     "brand": "Sonoff",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1399,
+    "merchant": "Amazon Egypt عبر Pricena",
+    "source": "https://eg.pricena.com/en/home-appliances/power-tools/brand/sonoff",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_price_stock_to_confirm",
+    "note": "سعر منشور لمفتاح SONOFF MINIR4 WiFi؛ راجع صفحة المتجر للتأكد من التوفر والسعر النهائي."
   },
   {
     "id": "elx-0534",
