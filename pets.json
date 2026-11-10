@@ -2171,12 +2171,12 @@
     "name": "بساط شم للكلاب",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 2520,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Paw n Joy",
+    "source": "https://pawnjoy.com/collections/beds",
+    "checkedAt": "2026-11-10",
+    "note": "NOBBY Snuffle Mat 56×44 cm؛ السعر المنشور."
   },
   {
     "id": "pet-guide-161",
@@ -2273,12 +2273,12 @@
     "name": "بوابة أمان منزلية",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 7875,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://www.petsegypt.com/",
+    "checkedAt": "2026-11-10",
+    "note": "Savic Dog Barrier adjustable door؛ حاجز أمان منزلي للكلاب، السعر المنشور."
   },
   {
     "id": "pet-guide-169",
@@ -2403,12 +2403,12 @@
     "name": "بساط تبريد للحيوانات",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 570.37,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Vivapets Egypt",
+    "source": "https://shop.vivapets.com/eg/dashi-pet-cooling-mat",
+    "checkedAt": "2026-11-10",
+    "note": "Dashi Pet Cooling Mat؛ السعر المنشور للمقاس المحدد بالمتجر."
   },
   {
     "id": "pet-guide-179",
@@ -2481,12 +2481,12 @@
     "name": "وعاء بطيء الأكل للكلاب",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 195,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/product/slow-feeder-plastic-bowl-9122",
+    "checkedAt": "2026-11-10",
+    "note": "Pet Slow Feeder Plastic Bowl؛ السعر المنشور."
   },
   {
     "id": "pet-guide-185",
