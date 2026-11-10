@@ -1017,19 +1017,33 @@
   async function loadUsdReferenceRates(){
     if(!usdReferencePromise){
       usdReferencePromise=(async()=>{
-        const urls=[
-          "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
-          "https://latest.currency-api.pages.dev/v1/currencies/usd.json"
+        const mergedRates={},rateDates={},sources={};
+        const requests=[
+          {urls:["https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json","https://latest.currency-api.pages.dev/v1/currencies/usd.json"],name:"currency-api"},
+          {urls:["https://open.er-api.com/v6/latest/USD"],name:"open-er-api"}
         ];
-        for(const url of urls){
-          try{
-            const response=await fetch(url,{cache:"no-store"});
-            if(!response.ok)continue;
-            const data=await response.json();
-            if(data&&data.usd&&typeof data.usd==="object")return {rates:data.usd,date:data.date||""};
-          }catch(error){console.warn("تعذر تحميل مصدر أسعار العملات العالمي:",error);}
+        for(const provider of requests){
+          for(const url of provider.urls){
+            try{
+              const response=await fetch(url,{cache:"no-store"});
+              if(!response.ok)continue;
+              const data=await response.json();
+              const rates=data.usd||data.rates;
+              if(!rates||typeof rates!=="object")continue;
+              Object.entries(rates).forEach(([code,value])=>{
+                const key=String(code).toLowerCase();
+                if(Number.isFinite(Number(value))&&Number(value)>0&&!Object.prototype.hasOwnProperty.call(mergedRates,key)){
+                  mergedRates[key]=Number(value);
+                  rateDates[key]=data.date||data.time_last_update_utc||"";
+                  sources[key]=provider.name;
+                }
+              });
+              break;
+            }catch(error){console.warn("تعذر تحميل مصدر أسعار العملات العالمي:",error);}
+          }
         }
-        throw new Error("Global currency reference unavailable");
+        if(!Object.keys(mergedRates).length)throw new Error("Global currency reference unavailable");
+        return {rates:mergedRates,dates:rateDates,sources};
       })().catch(error=>{usdReferencePromise=null;throw error;});
     }
     return usdReferencePromise;
@@ -1077,7 +1091,7 @@
         if(local)return {...item,...local,name:item.name,englishName:item.englishName,sourceType:"egypt-market"};
         const unitsPerUsd=globalRates?.rates?.[item.code.toLowerCase()];
         if(Number.isFinite(Number(unitsPerUsd))&&Number(unitsPerUsd)>0&&Number.isFinite(Number(usdEgp))&&Number(usdEgp)>0){
-          return {...item,rate:Number(usdEgp)/Number(unitsPerUsd),sourceType:"global-cross-rate",rateDate:globalRates.date,directoryOnly:false};
+          return {...item,rate:Number(usdEgp)/Number(unitsPerUsd),sourceType:"global-cross-rate",rateDate:globalRates.dates?.[item.code.toLowerCase()]||"",rateProvider:globalRates.sources?.[item.code.toLowerCase()]||"global-reference",directoryOnly:false};
         }
         return {...item,directoryOnly:true};
       });
