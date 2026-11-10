@@ -2237,12 +2237,12 @@
     "name": "بطاقة تعريف للحيوان",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 150,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "vCards Egypt",
+    "source": "https://vcards-eg.com/products/pet_tag",
+    "checkedAt": "2026-11-10",
+    "note": "Smart Pet Tag مقاومة للماء والعض مع تخصيص بيانات الحيوان؛ السعر المنشور."
   },
   {
     "id": "pet-guide-166",
@@ -2557,12 +2557,12 @@
     "name": "حافظة طعام محكمة",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 495,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/product/paw-shaped-airtight-pet-food-storage-container-4-6kg-dry-food-box-for-dogs-cats-with-scoop-8404",
+    "checkedAt": "2026-11-10",
+    "note": "Paw-Shaped Airtight Pet Food Storage Container سعة 4–6 كجم؛ آخر سعر منشور، والمنتج ظهر غير متوفر بالمخزون."
   },
   {
     "id": "pet-guide-191",
