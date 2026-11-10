@@ -1132,24 +1132,24 @@
     "name": "Fresh 4K Smart TV 55",
     "category": "الشاشات والتلفزيونات",
     "brand": "Fresh",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 19999,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/promo-55inch-tvs",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_in_stock_price",
+    "note": "سعر منشور لتلفزيون Fresh 55MU445G UHD Smart مقاس 55 بوصة؛ الصفحة تعرض وحدتين متاحتين وقت الرصد."
   },
   {
     "id": "elx-0064",
     "name": "JAC LED TV 32",
     "category": "الشاشات والتلفزيونات",
     "brand": "JAC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4999,
+    "merchant": "Amazon Egypt عبر Pricena",
+    "source": "https://eg.pricena.com/en/tv-video/brand/jac",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_price_stock_to_confirm",
+    "note": "سعر منشور لتلفزيون JAC 32AS مقاس 32 بوصة HD؛ هذا هو موديل JAC المطابق للفئة والحجم، ويجب التأكد من تطابقه مع النسخة المعروضة."
   },
   {
     "id": "elx-0065",
