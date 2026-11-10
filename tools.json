@@ -1345,6 +1345,61 @@
       "source": "",
       "checkedAt": "",
       "brand": "غير محدد"
+    },
+    {
+      "id": "tool-giza-2in1-screwdriver-nov10",
+      "name": "مفك جيزة 2 في 1",
+      "category": "عدد يدوية",
+      "brand": "Giza",
+      "price": 75,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY8051001",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-elgiza-screwdriver-set-nov10",
+      "name": "طقم مفكات Elgiza شديد التحمل – قطعتان",
+      "category": "عدد يدوية",
+      "brand": "Elgiza",
+      "price": 129,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY8051001",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-weneed-spanner-set-nov10",
+      "name": "مجموعة مفاتيح ربط Weneed – 3 أحجام",
+      "category": "عدد يدوية",
+      "brand": "Weneed",
+      "price": 177,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY8051001",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-deli-screwdriver-ph2-nov10",
+      "name": "مفك براغي Deli PH2 × 150 مم",
+      "category": "عدد يدوية",
+      "brand": "Deli",
+      "price": 85,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY8051001",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-giza-adjustable-wrench-nov10",
+      "name": "مفتاح ربط جيزة قابل للتعديل",
+      "category": "عدد يدوية",
+      "brand": "Giza",
+      "price": 80,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
     }
   ]
 }
