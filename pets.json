@@ -1241,12 +1241,12 @@
     "name": "حجر هواء للحوض",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 332.5,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/pet-supplies/fish-and-aquatic-pets/aquarium-accessories/",
+    "checkedAt": "2026-11-10",
+    "note": "عبوة 10 أحجار هواء أسطوانية للحوض مقاس 2.5 سم؛ السعر المنشور."
   },
   {
     "id": "pet-guide-088",
@@ -2159,12 +2159,12 @@
     "name": "جهاز تدريب بالنقر",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 250,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Minas Kennel",
+    "source": "https://minaskennel.com/product-category/accessories/",
+    "checkedAt": "2026-11-10",
+    "note": "Clicker Training Percel؛ السعر المنشور."
   },
   {
     "id": "pet-guide-160",
@@ -2285,12 +2285,12 @@
     "name": "غطاء مقعد سيارة للحيوانات",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 295,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Automobilek",
+    "source": "https://automobilek.com/product-category/automobilek-categories/car-mat/",
+    "checkedAt": "2026-11-10",
+    "note": "غطاء مقعد سيارة مقاوم للماء للحيوانات الأليفة؛ السعر المنشور بعد الخصم."
   },
   {
     "id": "pet-guide-170",
@@ -2569,12 +2569,12 @@
     "name": "قفازات تنظيف القفص",
     "category": "مستلزمات عامة",
     "recordType": "supply",
-    "price": null,
+    "price": 275,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "iPET",
+    "source": "https://ipeteg.com/",
+    "checkedAt": "2026-11-10",
+    "note": "قفازات تنظيف جافة للحيوانات؛ السعر المنشور."
   },
   {
     "id": "pet-guide-192",
