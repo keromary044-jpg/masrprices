@@ -3362,12 +3362,12 @@
     "name": "Canon RF 50mm F1.8",
     "category": "كاميرات وعدسات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10400,
+    "merchant": "DMT Stores",
+    "source": "https://www.dmt-stores.com/ar/products/canon-rf-50mm-f-1-8-stm-lens-canon-rf",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "قطعتان ظاهرتان بالمخزون؛ صفحة المتجر تعرض أضف إلى العربة",
+    "note": "Canon RF 50mm f/1.8 STM Lens؛ السعر 10,400 جنيه."
   },
   {
     "id": "elx-0244",
@@ -4228,12 +4228,12 @@
     "name": "Razer BlackShark V2 X",
     "category": "أجهزة الألعاب",
     "brand": "Razer",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3500,
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/razer-blackshark-v2-x-black-gaming-headset-134832849.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "4 وحدات ظاهرة بالمخزون وقت فهرسة المصدر قبل شهرين",
+    "note": "Razer BlackShark V2 X Black Gaming Headset؛ السعر 3,500 جنيه."
   },
   {
     "id": "elx-0316",
@@ -4729,36 +4729,36 @@
     "name": "Marshall Willen II",
     "category": "سماعات ومكبرات صوت",
     "brand": "Marshall",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 9999,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/marshall/all-speakers/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر مدرج في قائمة Noon؛ حالة المخزون غير محددة للون/النسخة",
+    "note": "Marshall Willen II Portable Bluetooth Speaker؛ Black؛ السعر 9,999 جنيه."
   },
   {
     "id": "elx-0355",
     "name": "Marshall Acton III",
     "category": "سماعات ومكبرات صوت",
     "brand": "Marshall",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17015,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/marshall/all-speakers/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "قطعة واحدة ظاهرة بالمخزون للون Cream وقت الفهرسة",
+    "note": "Marshall Acton III 60W Home Wireless Speaker؛ Cream؛ السعر 17,015 جنيه."
   },
   {
     "id": "elx-0356",
     "name": "Marshall Stanmore III",
     "category": "سماعات ومكبرات صوت",
     "brand": "Marshall",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 27999,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/marshall/all-speakers/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر مدرج في قائمة Noon؛ حالة المخزون غير محددة للون/النسخة",
+    "note": "Marshall Stanmore III 50W Home Wireless Speaker؛ Black؛ السعر 27,999 جنيه."
   },
   {
     "id": "elx-0357",
@@ -4777,12 +4777,12 @@
     "name": "Harman Kardon Onyx Studio 7",
     "category": "سماعات ومكبرات صوت",
     "brand": "Harman Kardon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14999,
+    "merchant": "Kixat / Radwan El Ogail Stores",
+    "source": "https://kixat.com/feit-en/product-details/harman-kardon-onyx-studio-7--multi-directional-soundscape-enhanced-audio-power-anodized-aluminum-handle-portable-dual-sound-stereo-bluetooth-speaker--8-hour-music-play-time-black",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "قطعة واحدة ظاهرة بالمخزون؛ آخر فهرسة قبل 5 أشهر",
+    "note": "Harman Kardon Onyx Studio 7 Bluetooth Speaker؛ السعر 14,999 جنيه."
   },
   {
     "id": "elx-0359",
