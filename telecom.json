@@ -376,24 +376,26 @@
     "name": "شرائح اتصال مسبقة الدفع",
     "category": "شرائح وخطوط",
     "brand": "Vodafone",
-    "unit": "خط جديد",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    "unit": "خط جديد (السعر المنشور للخط العادي)",
+    "price": 85,
+    "merchant": "Vodafone Egypt",
+    "source": "https://jawalk24.com/vodafone-sim-price/",
+    "checkedAt": "2026-11-10",
+    "details": "سعر منشور حديثًا لخط Vodafone جديد عادي؛ لا يشمل أي باقة أو إضافات، ويجب تأكيد السعر النهائي في الفرع.",
+    "priceStatus": "recent_market_price"
   },
   {
     "id": "telecom-شرائح-اتصال-مسبقة-الدفع-orange-خط-جديد",
     "name": "شرائح اتصال مسبقة الدفع",
     "category": "شرائح وخطوط",
     "brand": "Orange",
-    "unit": "خط جديد",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    "unit": "خط eSIM جديد",
+    "price": 350,
+    "merchant": "Orange Egypt",
+    "source": "https://www.orange.eg/en/services/eSIM",
+    "checkedAt": "2026-11-10",
+    "details": "رسوم إصدار خط Orange eSIM جديد وفق صفحة الشركة الرسمية؛ هذا السعر خاص بـ eSIM وليس سعر الشريحة البلاستيكية العادية.",
+    "priceStatus": "official_provider_tariff"
   },
   {
     "id": "telecom-شرائح-اتصال-مسبقة-الدفع-e-egypt-خط-جديد",
