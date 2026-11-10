@@ -3170,12 +3170,12 @@
     "name": "Xerox VersaLink C405",
     "category": "طابعات وماسحات",
     "brand": "Xerox",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10000,
+    "merchant": "Smart Ricoh",
+    "source": "https://smartricoh.com/catalog/printers/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "يتطلب تأكيد المورد",
+    "note": "السعر المعروض لطابعة Xerox VersaLink C405؛ يجب تأكيد السعر والتوفر مع المورد."
   },
   {
     "id": "elx-0228",
@@ -6229,12 +6229,12 @@
     "name": "Western Digital My Book 8TB",
     "category": "وحدات تخزين خارجية",
     "brand": "Western Digital",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17550,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/electronics-and-mobiles/computers-and-accessories/data-storage/external-hard-drives/seagate/wd/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Noon",
+    "note": "السعر لقرص WD My Book Desktop بسعة 8TB؛ تحقق من التوفر النهائي."
   },
   {
     "id": "elx-0478",
@@ -6343,12 +6343,12 @@
     "name": "Epson CO-FH02",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "Epson",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 32000,
+    "merchant": "TradeMark Egypt",
+    "source": "https://priceteq.com/eg/shop/740?cat=tv",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لبروجكتور Epson CO-FH02؛ صفحة PriceTeq تعرض نفاد المخزون."
   },
   {
     "id": "elx-0487",
@@ -6403,12 +6403,12 @@
     "name": "BenQ TH575",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "BenQ",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 44999,
+    "merchant": "Noon Egypt (via PriceNa)",
+    "source": "https://eg.pricena.com/en/tv-video/projectors-screens/brand/benq/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Noon",
+    "note": "السعر لنسخة BenQ TH575i؛ نسخة i تختلف عن TH575 القياسي، راجع المواصفات قبل الشراء."
   },
   {
     "id": "elx-0492",
@@ -6439,12 +6439,12 @@
     "name": "BenQ GV30",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "BenQ",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 20550,
+    "merchant": "Elshennawy Stores",
+    "source": "https://priceteq.com/eg/product/eb9f7c45-a937-4c9f-a942-02804e0b8e78",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "أقل سعر متاح مرصود لبروجكتور BenQ GV30 على PriceTeq."
   },
   {
     "id": "elx-0495",
@@ -6927,12 +6927,12 @@
     "name": "Sonoff ZBBridge-U Hub",
     "category": "أجهزة المنزل الذكي",
     "brand": "Sonoff",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5390,
+    "merchant": "CleverOnline Egypt",
+    "source": "https://cleveronlineegypt.com/collections/sonoff",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لوحدة SONOFF ZBBridge-U Zigbee Bridge Ultra؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0535",
@@ -7159,12 +7159,12 @@
     "name": "EcoFlow Delta 2 Max",
     "category": "أجهزة الطاقة والشحن",
     "brand": "EcoFlow",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 211330.92,
+    "merchant": "RS Egypt",
+    "source": "https://eg.rsdelivers.com/brands/ecoflow",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج لدى المتجر",
+    "note": "سعر EcoFlow DELTA 2 Max قبل الضريبة 185,378 جنيه؛ الرقم المسجل شامل 14% ضريبة قيمة مضافة."
   },
   {
     "id": "elx-0554",
