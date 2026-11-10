@@ -1409,11 +1409,17 @@
     },
     {
       "id": "catalog-services-0079",
-      "name": "فتح حساب بنكي – طلب جديد",
-      "category": "خدمات حكومية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "name": "فتح حساب توفير الممكن – بنك مصر",
+      "category": "خدمات بنكية",
+      "brand": "بنك مصر",
+      "price": 0,
+      "details": "رسوم فتح حساب الممكن صفر جنيه وفق صفحة بنك مصر الرسمية؛ الحد الأدنى لفتح الحساب 500 جنيه، وقد تطبق شروط ورسوم أخرى على خدمات الحساب.",
+      "unit": "حساب توفير",
+      "currency": "EGP",
+      "merchant": "بنك مصر",
+      "source": "https://www.banquemisr.com/Home/SMEs/Retail%20Banking/Programs%20and%20Services/El%20Momken/Elmomken%20Details?sc_lang=en",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "بنك مصر يعلن أن فتح الحساب مجاني؛ يوجد حد أدنى للرصيد 500 جنيه"
     },
     {
       "id": "catalog-services-0080",
@@ -1433,27 +1439,45 @@
     },
     {
       "id": "catalog-services-0082",
-      "name": "إصدار بطاقة بنكية – طلب جديد",
-      "category": "خدمات حكومية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "name": "إصدار بطاقة ميزة للخصم المباشر – بنك مصر",
+      "category": "خدمات البطاقات البنكية",
+      "brand": "بنك مصر",
+      "price": 150,
+      "details": "رسوم إصدار بطاقة ميزة للخصم المباشر 150 جنيهًا وفق جدول الرسوم المنشور؛ يتطلب إصدار البطاقة وجود حساب مؤهل.",
+      "unit": "بطاقة",
+      "currency": "EGP",
+      "merchant": "بنك مصر",
+      "source": "https://banquemisr.com/Home/SMEs/Retail%20Banking/Pages/Cards/Debit%20Cards%20Pages/Meeza%20Debit%20Card",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "رسوم الإصدار المنشورة على موقع بنك مصر"
     },
     {
       "id": "catalog-services-0083",
-      "name": "إصدار بطاقة بنكية – تجديد",
-      "category": "خدمات حكومية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "name": "تجديد بطاقة ميزة للخصم المباشر – بنك مصر",
+      "category": "خدمات البطاقات البنكية",
+      "brand": "بنك مصر",
+      "price": 150,
+      "details": "رسوم تجديد بطاقة ميزة 150 جنيهًا سنويًا وفق جدول الرسوم المنشور.",
+      "unit": "تجديد سنوي",
+      "currency": "EGP",
+      "merchant": "بنك مصر",
+      "source": "https://banquemisr.com/Home/SMEs/Retail%20Banking/Pages/Cards/Debit%20Cards%20Pages/Meeza%20Debit%20Card",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "رسوم التجديد السنوي المنشورة على موقع بنك مصر"
     },
     {
       "id": "catalog-services-0084",
-      "name": "إصدار بطاقة بنكية – بدل فاقد",
-      "category": "خدمات حكومية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "name": "إصدار بدل فاقد أو تالف لبطاقة ميزة – بنك مصر",
+      "category": "خدمات البطاقات البنكية",
+      "brand": "بنك مصر",
+      "price": 100,
+      "details": "رسوم إصدار بدل فاقد أو تالف لبطاقة ميزة 100 جنيه وفق جدول الرسوم المنشور.",
+      "unit": "بطاقة بدل فاقد/تالف",
+      "currency": "EGP",
+      "merchant": "بنك مصر",
+      "source": "https://banquemisr.com/Home/SMEs/Retail%20Banking/Pages/Cards/Debit%20Cards%20Pages/Meeza%20Debit%20Card",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "رسوم بدل الفاقد أو التالف المنشورة على موقع بنك مصر"
     },
     {
       "id": "catalog-services-0085",
