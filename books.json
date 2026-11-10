@@ -2295,24 +2295,26 @@
       "title": "الحرب والسلام",
       "author": "ليو تولستوي",
       "category": "أدب عالمي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 60,
+      "merchant": "كتب للحاجة",
+      "source": "https://books.ay7aaga.com/product/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D9%88%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D8%A7%D9%84%D8%A3%D8%AC%D8%B2%D8%A7%D8%A1-%D9%84%D9%84%D9%83/",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "نسخة مستعملة كاملة الأجزاء؛ السعر المرجعي 60 جنيهًا والمنتج غير متوفر حاليًا"
     },
     {
       "id": "catalog-062-آنا-كارنينا",
       "title": "آنا كارنينا",
       "author": "ليو تولستوي",
       "category": "أدب عالمي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 86.4,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=2781283b-038d-4ae5-9094-27a20b3bc9dc",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر المخفض المنشور 86.40 جنيه؛ غير متوفر حاليًا"
     },
     {
       "id": "catalog-063-البؤساء",
@@ -2396,12 +2398,13 @@
       "title": "فرانكنشتاين",
       "author": "ماري شيلي",
       "category": "رعب وخيال علمي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 70,
+      "merchant": "نقطة كتب",
+      "source": "https://www.noqtabooks.com/bookDetail/frankshtayn",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "ترجمة أميرة ربيع؛ السعر المعروض 70 جنيهًا"
     },
     {
       "id": "catalog-070-جزيرة-الكنز",
@@ -2473,12 +2476,13 @@
       "title": "مرتفعات ويذرينغ",
       "author": "إميلي برونتي",
       "category": "أدب عالمي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 190,
+      "merchant": "جوميا مصر",
+      "source": "https://www.jumia.com.eg/ar/jumia-book-wuthering-heights-book-9923588.html",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "نسخة ثنائية اللغة عربي/إنجليزي؛ السعر المنشور 190 جنيهًا"
     },
     {
       "id": "catalog-076-كبرياء-وتحامل",
@@ -2497,12 +2501,13 @@
       "title": "العقل والعاطفة",
       "author": "جين أوستن",
       "category": "أدب عالمي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 742.5,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=06769127-5f5e-47a2-a198-42085592edf3",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر المخفض المنشور 742.50 جنيه؛ غير متوفر حاليًا"
     },
     {
       "id": "catalog-078-مزرعة-الحيوان",
@@ -2651,12 +2656,13 @@
       "title": "الجمهورية",
       "author": "أفلاطون",
       "category": "فلسفة",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 121.5,
+      "merchant": "المعرض المصري للكتاب",
+      "source": "https://egbookfair.com/collections/all-of-all/products/%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A3%D9%81%D9%84%D8%A7%D8%B7%D9%88%D9%86-%D8%A3%D9%81%D9%84%D8%A7%D8%B7%D9%88%D9%86-%D8%A3%D9%82%D9%84%D8%A7%D9%85-%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D8%B4%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-egbookfair",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "ترجمة نظلة الحكيم؛ السعر المخفض 121.50 جنيه والكمية محدودة"
     },
     {
       "id": "catalog-090-فن-الحرب",
@@ -2687,12 +2693,13 @@
       "title": "هكذا تكلم زرادشت",
       "author": "فريدريك نيتشه",
       "category": "فلسفة",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 263.5,
+      "merchant": "المعرض المصري للكتاب",
+      "source": "https://egbookfair.com/products/%D9%87%D9%83%D8%B0%D8%A7-%D8%AA%D9%83%D9%84%D9%85-%D8%B2%D8%B1%D8%A7%D8%AF%D8%B4%D8%AA-%D9%81%D8%B1%D9%8A%D8%AF%D8%B1%D9%8A%D9%83-%D9%86%D9%8A%D8%AA%D8%B4%D9%87-%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-egbookfair",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "ترجمة فليكس فارس؛ السعر المعروض 263.50 جنيه والكمية محدودة"
     },
     {
       "id": "catalog-093-العالم-إرادة-وفكرة",
@@ -2711,12 +2718,13 @@
       "title": "مقال عن المنهج",
       "author": "رينيه ديكارت",
       "category": "فلسفة",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 396,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=55bef565-0017-4347-aba9-7d2837c956c2",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "ترجمة محمود الخضيري؛ السعر المخفض المنشور 396 جنيهًا وغير متوفر حاليًا"
     },
     {
       "id": "catalog-095-تهافت-الفلاسفة",
