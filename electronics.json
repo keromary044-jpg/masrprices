@@ -1228,12 +1228,12 @@
     "name": "Panasonic 4K LED 55",
     "category": "الشاشات والتلفزيونات",
     "brand": "Panasonic",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14475,
+    "merchant": "GehazTech Egypt - price guide",
+    "source": "https://gehaztech.com/%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D9%88%D8%B9%D9%8A%D9%88%D8%A8-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%A8%D8%A7%D9%86%D8%A7%D8%B3%D9%88%D9%86%D9%8A%D9%83-55-%D8%A8%D9%88%D8%B5%D8%A9-%D8%B3%D9%85%D8%A7%D8%B1/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "historical_market_range",
+    "note": "الحد الأدنى لنطاق سعري منشور في مصر لموديل Panasonic TH-55HX750E؛ النطاق 14,475–26,450 جنيه، وآخر تحديث للدليل 3 سبتمبر 2026، وليس عرض متجر مباشر."
   },
   {
     "id": "elx-0072",
@@ -3230,12 +3230,12 @@
     "name": "Ricoh SP 230DNw",
     "category": "طابعات وماسحات",
     "brand": "Ricoh",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7000,
+    "merchant": "Alagheza - historical price guide",
+    "source": "https://alagheza.com/printer-prices-in-egypt/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "historical_price_range_2025",
+    "note": "الحد الأدنى لنطاق تاريخي منشور في مصر لطابعة Ricoh SP 230DNw؛ النطاق 7,000–10,000 جنيه في دليل أسعار 2025، وليس سعرًا حاليًا مؤكدًا."
   },
   {
     "id": "elx-0233",
@@ -7315,12 +7315,12 @@
     "name": "Fellowes Lunar A4 Laminator",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Fellowes",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 945,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://www.elghazawy.com/ar/product/229865/a4-fellowes-lunar-laminator",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_out_of_stock",
+    "note": "آخر سعر منشور لماكينة التغليف Fellowes Lunar A4؛ المنتج غير متوفر بالمخزون وقت الرصد."
   },
   {
     "id": "elx-0567",
@@ -7339,12 +7339,12 @@
     "name": "GBC Fusion 1100L Laminator",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "GBC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5327,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/40R99XGRS-gbc-thermal-laminator-machine-fusion-1100l-9-inch-4-min-warm-up-3-or-5-mil-with-10-ezuse-laminating-pouches-3381650026-black",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لمكينة GBC Fusion 1100L مقاس A4؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0569",
