@@ -3290,12 +3290,12 @@
     "name": "Canon EOS 250D",
     "category": "كاميرات وعدسات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 30000,
+    "merchant": "Shams Stores",
+    "source": "https://shams-stores.com/product-category/cameras/dslr-cameras/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ صفحة المتجر تعرض Add to cart؛ فهرسة اليوم",
+    "note": "Canon EOS 250D DSLR Camera with 18-55mm Kit Lens؛ السعر 30,000 جنيه."
   },
   {
     "id": "elx-0238",
@@ -3770,12 +3770,12 @@
     "name": "Insta360 GO 3S",
     "category": "كاميرات وعدسات",
     "brand": "Insta360",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5148,
+    "merchant": "DMT Stores Egypt",
+    "source": "https://priceteq.com/eg/shop/772?cat=camera",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "ضمن قائمة 110 منتجات بالمخزون لدى المتجر؛ الأسعار محدثة يوميًا",
+    "note": "Insta360 GO 3S Combo؛ السعر 5,148 جنيه لدى DMT Stores."
   },
   {
     "id": "elx-0278",
