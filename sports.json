@@ -611,11 +611,12 @@
     "category": "لياقة بدنية",
     "brand": "متعدد",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 99,
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-exercise-bands/",
+    "checkedAt": "2026-11-10",
+    "details": "سعر حبل مقاومة بمقبضين؛ موديل معروض على جوميا.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-بساط-تمارين-أرضي-domyos-مقاسات-متعددة",
@@ -827,8 +828,12 @@
     "name": "حذاء جري – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 2578.99,
+    "details": "سعر حذاء جري Adidas Galaxy 7؛ موديل محدد.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-running-shoes/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0017",
@@ -899,48 +904,72 @@
     "name": "شورت رياضي – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 325,
+    "details": "سعر شورت رياضي نايلتون؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/slp/شورتات-رياضية",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0026",
     "name": "شورت رياضي – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 479,
+    "details": "سعر شورت رياضي رجالي من LC Waikiki؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mens-activewear-shorts/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0027",
     "name": "شورت رياضي – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 699,
+    "details": "سعر شورت لياقة بدنية من Decathlon؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/slp/شورتات-رياضية",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0028",
     "name": "بدلة رياضية – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 458,
+    "details": "سعر بدلة تدريب Caesar مكونة من سويت شيرت وبنطلون.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/slp/بدلة-رياضية-للرجال-والنساء",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0029",
     "name": "بدلة رياضية – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 518,
+    "details": "سعر بدلة رياضية صيفية من H.Brand مكونة من قطعتين.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/slp/بدلة-رياضية-للرجال-والنساء",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0030",
     "name": "بدلة رياضية – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 599,
+    "details": "سعر ترنج رياضي رجالي قطني؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/slp/بدلة-رياضية-للرجال-والنساء",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0031",
@@ -959,16 +988,24 @@
     "name": "جوارب رياضية – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 70,
+    "details": "سعر زوج جوارب رياضية Maestro؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/slp/sports-socks",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0033",
     "name": "جوارب رياضية – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 95,
+    "details": "سعر زوج جوارب رياضية Maestro؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/slp/sports-socks",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0034",
@@ -1064,8 +1101,12 @@
     "name": "شنطة رياضية – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 349,
+    "details": "سعر حقيبة رياضية كبيرة 50 سم مع حجرة للأحذية.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/gym-bags/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0043",
@@ -1120,16 +1161,24 @@
     "name": "بساط يوغا – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 1299,
+    "details": "سعر سجادة تمارين DOMYOS بمقاس 160×58 سم وسمك 7 مم.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/5070-fitness-accessories",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0048",
     "name": "بساط يوغا – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 1699,
+    "details": "سعر سجادة يوغا DOMYOS بمقاس 180×58 سم وسمك 5 مم.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/ar/5070-fitness-accessories",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0049",
@@ -1196,48 +1245,72 @@
     "name": "أقراص أوزان – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 189,
+    "details": "سعر قرص وزن مطلي بالكروم 1.25 كجم.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-weight-plates/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0056",
     "name": "أقراص أوزان – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 369,
+    "details": "سعر قرص وزن مطلي بالكروم 2.5 كجم.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-weight-plates/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0057",
     "name": "أقراص أوزان – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 1079,
+    "details": "سعر لوح أوزان من الشهاب سبورت 5 كجم.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-weight-plates/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0058",
     "name": "بنش تمرين – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 5365,
+    "details": "سعر بنش تمارين Ufit متعدد الوظائف قابل للطي؛ يتضمن أوزانًا مجانية.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/slp/weight-bench-for-home-gym",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0059",
     "name": "بنش تمرين – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 3799,
+    "details": "سعر بنش تمارين قابل للتعديل للمنزل؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/slp/weight-bench-for-home-gym",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0060",
     "name": "بنش تمرين – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 8999,
+    "details": "سعر بنش تمارين قابل للتعديل والطي؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/slp/weight-bench-for-home-gym",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0061",
@@ -1256,16 +1329,24 @@
     "name": "حبل نط – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 169,
+    "details": "سعر حبل قفز DOMYOS 100.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/5103-gym-accessories",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0063",
     "name": "حبل نط – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 459,
+    "details": "سعر حبل قفز DOMYOS بمقابض مطاطية وطول قابل للتعديل.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/5103-gym-accessories",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0064",
@@ -1544,16 +1625,24 @@
     "name": "لوح سباحة – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 799,
+    "details": "سعر لوح سباحة NABAIJI؛ موديل معروض.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8370-swimming",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0090",
     "name": "لوح سباحة – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 799,
+    "details": "سعر لوح سباحة NABAIJI؛ موديل معروض.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/8370-swimming",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0091",
@@ -1584,16 +1673,24 @@
     "name": "عجلة رياضية – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 11495,
+    "details": "سعر دراجة جبلية Giant ATX 620 موديل 2022.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-mountain-bicycle/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0095",
     "name": "عجلة رياضية – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 10692,
+    "details": "سعر دراجة أطفال Giant Animator مقاس 12 موديل 2022.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/cycling-bikes/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0096",
@@ -1632,8 +1729,12 @@
     "name": "حبل مقاومة – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 120,
+    "details": "سعر طقم أشرطة مقاومة مطاطية 5 مستويات، 5 قطع.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-k-resistance-band/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sport-shirt-kids-essential-black-20261108",
