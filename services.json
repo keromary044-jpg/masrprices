@@ -1423,19 +1423,31 @@
     },
     {
       "id": "catalog-services-0080",
-      "name": "فتح حساب بنكي – تجديد",
-      "category": "خدمات حكومية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "name": "إعادة تعيين الرقم السري لبطاقة ميزة – بنك مصر",
+      "category": "خدمات البطاقات البنكية",
+      "brand": "بنك مصر",
+      "price": 15,
+      "details": "رسوم إعداد أو إعادة تعيين الرقم السري لبطاقة ميزة 15 جنيهًا وفق جدول بنك مصر.",
+      "unit": "طلب إعادة تعيين",
+      "currency": "EGP",
+      "merchant": "بنك مصر",
+      "source": "https://banquemisr.com/Home/SMEs/Retail%20Banking/Pages/Cards/Debit%20Cards%20Pages/Meeza%20Debit%20Card",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "رسوم الخدمة المنشورة على موقع بنك مصر"
     },
     {
       "id": "catalog-services-0081",
-      "name": "فتح حساب بنكي – بدل فاقد",
-      "category": "خدمات حكومية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "name": "رسوم بطاقة ميزة المرتبطة بحساب يوم بيوم – سنويًا",
+      "category": "خدمات البطاقات البنكية",
+      "brand": "بنك مصر",
+      "price": 70,
+      "details": "رسوم بطاقة ميزة الصادرة على حساب يوم بيوم 70 جنيهًا سنويًا وفق جدول الرسوم المنشور.",
+      "unit": "رسوم سنوية",
+      "currency": "EGP",
+      "merchant": "بنك مصر",
+      "source": "https://banquemisr.com/Home/SMEs/Retail%20Banking/Pages/Cards/Debit%20Cards%20Pages/Meeza%20Debit%20Card",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "الرسوم السنوية المنشورة على موقع بنك مصر"
     },
     {
       "id": "catalog-services-0082",
