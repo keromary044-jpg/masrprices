@@ -1556,26 +1556,28 @@
       "name": "استخراج وثيقة زواج مميكنة إلكترونيًا",
       "category": "الأحوال المدنية",
       "brand": "وزارة الداخلية المصرية",
-      "unit": "وثيقة",
-      "price": 63,
+      "unit": "وثيقة إلكترونية",
+      "price": 70,
       "merchant": "وزارة الداخلية المصرية",
-      "source": "https://www.elwatannews.com/news/details/8170391",
+      "source": "https://gate.ahram.org.eg/News/5970150.aspx",
       "checkedAt": "2026-11-10",
-      "priceStatus": "رسوم منشورة؛ يلزم التأكد من قيمة الرسوم وقت تقديم الطلب",
-      "details": "رسوم إصدار وثيقة الزواج إلكترونيًا: 63 جنيهًا."
+      "priceStatus": "رسوم منشورة في سبتمبر وأكتوبر 2026",
+      "details": "استخراج وثيقة زواج مميكنة إلكترونيًا؛ الرسوم المنشورة 70 جنيهًا، وتصدر خلال 7 أيام عمل.",
+      "currency": "EGP"
     },
     {
       "id": "service-divorce-certificate-electronic",
       "name": "استخراج وثيقة طلاق مميكنة إلكترونيًا",
       "category": "الأحوال المدنية",
       "brand": "وزارة الداخلية المصرية",
-      "unit": "وثيقة",
-      "price": 63,
+      "unit": "وثيقة إلكترونية",
+      "price": 70,
       "merchant": "وزارة الداخلية المصرية",
-      "source": "https://www.elwatannews.com/news/details/8170391",
+      "source": "https://ahram.org.eg/News/5922221.aspx",
       "checkedAt": "2026-11-10",
-      "priceStatus": "رسوم منشورة؛ يلزم التأكد من قيمة الرسوم وقت تقديم الطلب",
-      "details": "رسوم إصدار وثيقة الطلاق إلكترونيًا: 63 جنيهًا."
+      "priceStatus": "رسوم منشورة في سبتمبر وأكتوبر 2026",
+      "details": "استخراج وثيقة طلاق مميكنة إلكترونيًا؛ الرسوم المنشورة 70 جنيهًا، وتصدر خلال 7 أيام عمل.",
+      "currency": "EGP"
     },
     {
       "id": "service-national-id-urgent-form",
