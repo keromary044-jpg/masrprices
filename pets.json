@@ -1085,12 +1085,12 @@
     "name": "غذاء أسماك قاعية",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 110,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Petfast.shop",
+    "source": "https://petfast.shop/collections/fish",
+    "checkedAt": "2026-11-10",
+    "note": "Sky Algae Eater Flakes 400ml؛ غذاء رقائق لأسماك آكلة الطحالب/القاع، السعر المنشور."
   },
   {
     "id": "pet-guide-076",
@@ -1145,12 +1145,12 @@
     "name": "غذاء صغار الأسماك",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 240,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Petfast.shop",
+    "source": "https://petfast.shop/collections/fish",
+    "checkedAt": "2026-11-10",
+    "note": "Sky New Born Powder 1000ml؛ غذاء مسحوق لصغار الأسماك، السعر المنشور."
   },
   {
     "id": "pet-guide-081",
@@ -1667,12 +1667,12 @@
     "name": "فرشة ورقية للهامستر",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 50,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsClub",
+    "source": "https://peetsclub.shop/",
+    "checkedAt": "2026-11-10",
+    "note": "Chubby Cheeks Fluffy Wood؛ فرشة/نشارة خشبية للقوارض، السعر المنشور."
   },
   {
     "id": "pet-guide-122",
@@ -1793,36 +1793,36 @@
     "name": "تبن تيموثي للأرانب",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 12665,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/21767155-small-pet-select-1st-cutting-timothy-hay-for-rabbits-guinea",
+    "checkedAt": "2026-11-10",
+    "note": "Small Pet Select Timothy Hay 5lb؛ سعر استيراد شامل الرسوم والضرائب."
   },
   {
     "id": "pet-guide-132",
     "name": "تبن برسيم للأرانب",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 5371,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/288370632-alfalfa-hay-food-for-rabbits-guinea-pig-hamsters-and-other",
+    "checkedAt": "2026-11-10",
+    "note": "PETZEE Alfalfa Hay عبوة 4×400g؛ سعر استيراد شامل الرسوم والضرائب."
   },
   {
     "id": "pet-guide-133",
     "name": "حبيبات غذاء للأرانب",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 10624,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/353261437-timothy-pellets-7-5-lb-100-all-natural-high-fiber",
+    "checkedAt": "2026-11-10",
+    "note": "Timothy Pellets 7.5lb للأرانب وخنازير غينيا والشنشيلا؛ سعر استيراد شامل الرسوم والضرائب."
   },
   {
     "id": "pet-guide-134",
