@@ -6367,12 +6367,12 @@
     "name": "Epson EB-X06",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "Epson",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 51092,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/FNN1FYHBM-new-listing-epson-eb-x06-business-projector-lcd-3600lm-xga-4-3-16-9-white-new",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لبروجكتور Epson EB-X06؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0489",
@@ -6535,12 +6535,12 @@
     "name": "Optoma UHD38x",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "Optoma",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 81869,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/7P40JOECQ-optoma-uhd38x-bright-true-4k-uhd-gaming-projector-4000-lumens-4-2ms-response-time-at-1080p-with-enhanced-gaming-mode-lowest-input-lag-on-4k",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لبروجكتور Optoma UHD38x؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0503",
