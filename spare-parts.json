@@ -910,15 +910,17 @@
     },
     {
       "id": "spare-parts-جوان-غطاء-التاكيهات-لتويوتا-toyota-قطعة",
-      "name": "جوان غطاء التاكيهات لتويوتا",
+      "name": "جوان غطاء التاكيهات تويوتا كورولا E140 1.6 (2007–2013)",
       "category": "جوانات ومحرك",
       "brand": "Toyota",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 799,
+      "merchant": "CarParts Storkplus",
+      "source": "https://carparts.storkplus.com/en/taxons/car-parts?limit=18",
+      "checkedAt": "2026-11-10",
+      "details": "جوان غطاء تاكيهات؛ السعر المنشور 799 جنيه. التوافق المذكور: تويوتا كورولا E140 بمحرك 1.6 1ZR-FE موديلات 2007–2013. يُرجى مطابقة رقم القطعة قبل الشراء.",
+      "model": "Toyota Corolla E140 1.6 1ZR-FE (2007–2013)",
+      "partNumber": "94721-12781"
     },
     {
       "id": "spare-parts-قاعدة-موتور-لنيسان-صني-nissan-قطعة",
