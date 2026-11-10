@@ -609,15 +609,17 @@
   },
   {
     "id": "elx-0020",
-    "name": "LG webOS Smart TV 32",
+    "name": "LG 32-inch HD Smart LED TV 32LR650B6LA (webOS)",
     "category": "الشاشات والتلفزيونات",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10669,
+    "merchant": "Efreshli",
+    "source": "https://efreshli.com/shop/lg-32-inch-hd-smart-led-tv-with-built-in-receiver-32lr650b6la-64",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر المنشور 10,669 جنيه شامل الضريبة؛ صفحة المتجر تشير إلى أن المنتج غير متاح حاليًا.",
+    "note": "تم ربط السجل بالموديل المحدد 32LR650B6LA بدل الاسم العام؛ السعر منشور لكنه ليس تأكيدًا للتوفر.",
+    "model": "32LR650B6LA",
+    "availability": "غير متاح وقت الرصد"
   },
   {
     "id": "elx-0021",
