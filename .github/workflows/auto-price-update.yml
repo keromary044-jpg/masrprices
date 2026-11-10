@@ -81,7 +81,7 @@ jobs:
       - name: Build complete product price coverage report
         run: python price-updater/coverage_report.py
       - name: Save price coverage report artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: masrprices-price-coverage
           path: price-coverage-report.json
