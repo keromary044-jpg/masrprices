@@ -2164,12 +2164,12 @@
     "name": "ASUS ExpertBook B1",
     "category": "لابتوبات",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 33999,
+    "merchant": "2B Egypt",
+    "source": "https://2b.com.eg/en/asus-expertbook-b1-p1503cva-s72825-laptop-intelr-coretm-5-210u-8gb-512gb-ssd-intelr-uhd-graphics-15-6-fhd-gentle-grey.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ التوصيل داخل القاهرة والجيزة 1–5 أيام",
+    "note": "ASUS ExpertBook B1 P1503CVA-S72825؛ Core 5 210H / 8GB / 512GB SSD؛ السعر 33,999 جنيه."
   },
   {
     "id": "elx-0148",
@@ -2582,12 +2582,12 @@
     "name": "HP Victus 15L",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 40000,
+    "merchant": "SQUADRIG Egypt",
+    "source": "https://squadrig.com/ar/collections/open-box-pc-components/products/hp-victus-15l-rtx-4060-16gb-1tb",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ Open Box Grade A؛ صفحة المتجر تعرض Add to cart",
+    "note": "HP Victus 15L Desktop TG02-2009n؛ Open Box Grade A؛ 16GB RAM / 1TB SSD / RTX 4060 / Windows 11؛ السعر 40,000 جنيه."
   },
   {
     "id": "elx-0182",
