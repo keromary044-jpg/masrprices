@@ -1815,12 +1815,12 @@
     "name": "MSI PRO MP243 24",
     "category": "شاشات الكمبيوتر",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4899,
+    "merchant": "Delta Computer Egypt",
+    "source": "https://priceteq.com/eg/product/f3695cfb-d7d5-4a25-a9c3-b04286bdf67f",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ PriceTeq checked 9 Nov 2026",
+    "note": "MSI PRO MP243L E14 23.8-inch FHD IPS 144Hz؛ السعر 4,899 جنيه لدى Delta Computer."
   },
   {
     "id": "elx-0120",
@@ -4621,12 +4621,12 @@
     "name": "Bose QuietComfort Ultra Headphones",
     "category": "سماعات ومكبرات صوت",
     "brand": "Bose",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6000,
+    "merchant": "Nora Accessories",
+    "source": "https://store-eg.com/s/nora-accessories/en/product/bose-quietcomfort-ultra-headphones",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ 4 قطع ظاهرة بالمخزون في آخر فهرسة للمصدر قبل شهرين",
+    "note": "Bose QuietComfort Ultra Headphones؛ اللون White Smoke؛ السعر 6,000 جنيه."
   },
   {
     "id": "elx-0346",
