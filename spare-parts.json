@@ -95,15 +95,16 @@
     },
     {
       "id": "part-toyota-water-pump",
-      "name": "طلمبة مياه لتويوتا",
+      "name": "طلمبة مياه NES تويوتا كورولا تركي",
       "category": "دورة تبريد",
-      "brand": "Toyota",
+      "brand": "NES",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 920,
+      "merchant": "Shasih",
+      "details": "سعر معلن لطلمبة مياه NES لتويوتا كورولا؛ تحقق من سنة الصنع والمحرك.",
+      "source": "https://shasih.com/cars/toyota/corolla/mechanical",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla"
     },
     {
       "id": "part-toyota-shock-absorber",
@@ -362,27 +363,29 @@
     },
     {
       "id": "spare-parts-طنابير-فرامل-أمامية-لتويوتا-toyota-زوج",
-      "name": "طنابير فرامل أمامية لتويوتا",
+      "name": "طقم طنابير فرامل أمامي APLUS تويوتا كورولا خليجي",
       "category": "فرامل",
-      "brand": "Toyota",
+      "brand": "APLUS",
       "unit": "زوج",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 3335,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لطقم طنابير أمامي؛ السعر للطقم وليس للطنبورة الواحدة.",
+      "model": "Toyota Corolla (GCC)"
     },
     {
       "id": "spare-parts-طنابير-فرامل-أمامية-لنيسان-nissan-زوج",
-      "name": "طنابير فرامل أمامية لنيسان",
+      "name": "طقم طنابير فرامل أمامي OTO KOR نيسان صني N17",
       "category": "فرامل",
-      "brand": "Nissan",
+      "brand": "OTO KOR",
       "unit": "زوج",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 2070,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لطقم طنابير أمامي لصني N17؛ تحقق من الفئة وناقل الحركة.",
+      "model": "Nissan Sunny N17"
     },
     {
       "id": "spare-parts-مساعد-أمامي-لتويوتا-كورولا-toyota-قطعة",
@@ -538,15 +541,17 @@
     },
     {
       "id": "spare-parts-سير-مجموعة-لنيسان-nissan-قطعة",
-      "name": "سير مجموعة لنيسان",
+      "name": "سير مجموعة Bosch 6PK1105 نيسان صني N16",
       "category": "سيور",
-      "brand": "Nissan",
+      "brand": "Bosch",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 575,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لسير مجموعة Bosch رقم 6PK1105 لصني N16.",
+      "model": "Nissan Sunny N16",
+      "partNumber": "6PK1105"
     },
     {
       "id": "spare-parts-سير-كاتينة-لهيونداي-hyundai-طقم",
@@ -821,15 +826,16 @@
     },
     {
       "id": "spare-parts-فلتر-بنزين-لتويوتا-toyota-قطعة",
-      "name": "فلتر بنزين لتويوتا",
+      "name": "فلتر بنزين AUTO PARTS تويوتا كورولا جنوب أفريقي",
       "category": "فلاتر",
-      "brand": "Toyota",
+      "brand": "AUTO PARTS",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 280,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لفلتر بنزين كورولا جنوب أفريقي؛ يلزم مطابقة رقم القطعة.",
+      "model": "Toyota Corolla (South Africa)"
     },
     {
       "id": "spare-parts-حساس-أكسجين-لتويوتا-denso-قطعة",
@@ -845,15 +851,16 @@
     },
     {
       "id": "spare-parts-حساس-abs-لنيسان-nissan-قطعة",
-      "name": "حساس ABS لنيسان",
+      "name": "حساس ABS أمامي نيسان صني N17",
       "category": "حساسات",
-      "brand": "Nissan",
+      "brand": "NES",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 575,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لحساس ABS أمامي لصني N17؛ تحقق من جهة الحساس وتوافق الفئة.",
+      "model": "Nissan Sunny N17"
     },
     {
       "id": "spare-parts-حساس-حرارة-مياه-لهيونداي-hyundai-قطعة",
