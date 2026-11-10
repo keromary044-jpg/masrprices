@@ -6511,12 +6511,12 @@
     "name": "Optoma HD146X",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "Optoma",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 225064,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/236778416-hd146x-high-performance-projector-for-movies-and-gaming-bright-3600",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر معروض في Desertcart Egypt شامل الرسوم والضرائب؛ منتج مستورد ويجب تأكيد السعر النهائي والتوفر قبل الشراء.",
+    "note": "سعر عرض استيراد وليس سعر موزع محلي؛ قد يتغير."
   },
   {
     "id": "elx-0501",
