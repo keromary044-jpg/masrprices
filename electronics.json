@@ -2955,12 +2955,12 @@
     "name": "Canon imageCLASS LBP6030",
     "category": "طابعات وماسحات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7199,
+    "merchant": "2B Egypt",
+    "source": "https://priceteq.com/eg/product/d6c78714-b350-460c-8367-ff117d9b02dc",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى 7 متاجر؛ أقل سعر منشور في 7 نوفمبر 2026",
+    "note": "Canon i-SENSYS LBP6030B؛ نسخة B موضحة في المصدر."
   },
   {
     "id": "elx-0211",
@@ -3086,24 +3086,24 @@
     "name": "Brother DCP-T720DW",
     "category": "طابعات وماسحات",
     "brand": "Brother",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4999,
+    "merchant": "Cairo Sales",
+    "source": "https://pricelens.store/en/products/brother-brother-wireless-all-in-one-ink-tank-printer-dcp-t720",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون؛ آخر تحقق قبل 8 ساعات",
+    "note": "Brother DCP-T720 Wireless All-in-One Ink Tank Printer."
   },
   {
     "id": "elx-0221",
     "name": "Brother HL-L2350DW",
     "category": "طابعات وماسحات",
     "brand": "Brother",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11800,
+    "merchant": "Laptop Store Egypt",
+    "source": "https://store-eg.com/s/laptop/en/product/brother-hl-l2350dw",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور؛ صفحة المتجر تعرض متاح/غير متاح حسب الفرع",
+    "note": "Brother HL-L2350DW Mono Laser Printer؛ السعر بالجنيه المصري."
   },
   {
     "id": "elx-0222",
@@ -3134,12 +3134,12 @@
     "name": "Xerox B230",
     "category": "طابعات وماسحات",
     "brand": "Xerox",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8199,
+    "merchant": "B.TECH",
+    "source": "https://connect4techs.com/hardware-prices/xerox-b230/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "آخر سعر موثق من صفحتين لمتاجر مصرية بتاريخ 15 أكتوبر 2026؛ يحتاج إعادة تأكيد",
+    "note": "Xerox B230 Wireless Mono Laser Printer، نسخة B230V/DNI."
   },
   {
     "id": "elx-0225",
