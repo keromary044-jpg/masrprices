@@ -4084,12 +4084,12 @@
     "name": "Nintendo Switch Standard",
     "category": "أجهزة الألعاب",
     "brand": "Nintendo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 19676,
+    "merchant": "Noon Egypt عبر Pricena",
+    "source": "https://eg.pricena.com/en/video-games-consoles/consoles",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_in_stock_price",
+    "note": "أقل سعر منشور للنسخة القياسية من Nintendo Switch عبر متاجر مصر؛ تحقق من نسخة الجهاز ومحتويات العلبة قبل الشراء."
   },
   {
     "id": "elx-0304",
@@ -4817,12 +4817,12 @@
     "name": "Harman Kardon SoundSticks 4",
     "category": "سماعات ومكبرات صوت",
     "brand": "Harman Kardon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 13250,
+    "merchant": "Tech Misr",
+    "source": "https://techmisr.com/shop/page/7/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_store_price_stock_to_confirm",
+    "note": "سعر منشور لنظام مكبرات الصوت Harman Kardon SoundSticks 4؛ التوفر الحالي يحتاج تأكيدًا من المتجر."
   },
   {
     "id": "elx-0362",
@@ -5405,12 +5405,12 @@
     "name": "Ubiquiti UniFi Dream Router",
     "category": "راوترات وشبكات",
     "brand": "Ubiquiti",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23846,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/8SL3YN35S-ubiquiti-unifi-dream-machine-all-in-one-device-with-access-point-switch-security-gateway-udr",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد من الولايات المتحدة لموديل Ubiquiti UDR؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0411",
@@ -6253,12 +6253,12 @@
     "name": "Seagate One Touch 4TB",
     "category": "وحدات تخزين خارجية",
     "brand": "Seagate",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 9199,
+    "merchant": "Amazon Egypt عبر Pricena",
+    "source": "https://eg.pricena.com/ar/brands/seagate",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_in_stock_price",
+    "note": "سعر منشور لقرص Seagate One Touch سعة 4TB موديل STKZ4000400 لدى Amazon Egypt؛ قد يتغير."
   },
   {
     "id": "elx-0480",
