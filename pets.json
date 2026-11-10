@@ -3736,5 +3736,49 @@
     "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
     "checkedAt": "2026-11-09",
     "priceStatus": "retailer_listing"
+  },
+  {
+    "id": "pet-carlito-dog-food-15kg-nov10",
+    "name": "طعام كلاب Carlito Adult جاف 1.5 كجم",
+    "category": "طعام كلاب",
+    "brand": "Carlito",
+    "price": 198.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-drill-puppy-food-1kg-nov10",
+    "name": "طعام كلاب Drill Puppy جاف 1 كجم",
+    "category": "طعام كلاب",
+    "brand": "Drill",
+    "price": 146.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-wonder-cat-litter-5kg-nov10",
+    "name": "رمل قطط Wonder Cat متكتل برائحة اللافندر 5 كجم",
+    "category": "رمل قطط",
+    "brand": "Wonder Cat",
+    "price": 284.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-friskies-cat-food-300g-nov10",
+    "name": "طعام قطط Friskies بالدجاج والخضار 300 جم",
+    "category": "طعام قطط",
+    "brand": "Purina Friskies",
+    "price": 99.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
   }
 ]
