@@ -395,10 +395,14 @@
       "name": "حزام دعم الحمل – طقم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 299,
+      "details": "حزام دعم للبطن بمقاس موحد؛ مرجع لفئة أحزمة الدعم. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: Medical Belly Support Belt.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Aman Medical",
+      "source": "https://amanmedic.com/products/belly-belt",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "زجاجة رضاعة – صغير",
@@ -648,22 +652,34 @@
       "name": "فرشاة تنظيف رضاعات – صغير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 65,
+      "details": "طقم فرشاة يحتوي فرشاة كبيرة وأخرى صغيرة للحلمات. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: Canpol Babies Brush for Bottles and Teats with Sponge.",
+      "merchant": "Egyptian Drug Store",
+      "source": "https://egyptiandrugstore.com/index.php?path=407&product_id=369&route=product/product",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "فرشاة تنظيف رضاعات – متوسط",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 85,
+      "details": "طقم فرش تنظيف رضاعات من قطعتين. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: La Frutta Set of 2 Cleaning Brush for Feeding Bottle.",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/baby-products/feeding-16153/bottle-feeding/feeding-cleaning-accessories/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "فرشاة تنظيف رضاعات – كبير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 109,
+      "details": "فرشاة تنظيف زجاجات أطفال بمقبض طويل. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: Baby Bottle Brush with Long Handle and Sponge Head.",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/slp/baby-bottle-cleaning-brush",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "فرشاة تنظيف رضاعات – طقم",
@@ -1014,15 +1030,23 @@
       "name": "غطاء وسادة حمل",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 500,
+      "details": "غطاء وسادة رضاعة منفصل. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: LEN Cover for Nursing Pillow 60x50x18 cm.",
+      "merchant": "IKEA Egypt",
+      "source": "https://www.ikea.com/eg/en/p/len-nursing-pillow-grey-20400243/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "منظم مستلزمات الرضاعة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 600,
+      "details": "منظم مستلزمات أطفال؛ مرجع لفئة المنظمات. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: PandaEar Grey Baby Diaper Caddy Organizer.",
+      "merchant": "Baby Hub Egypt",
+      "source": "https://www.babyhubeg.com/category/storage-organiztion",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "حافظة رضاعات حرارية",
@@ -1055,8 +1079,12 @@
       "name": "مضخة رضاعة يدوية مزدوجة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 889,
+      "details": "مضخة يدوية بنظامين (تدليك وشفط)؛ وصف الموديل لا يعني شفط الثديين معًا. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: Granzia EasyFeed Manual Breast Pump.",
+      "merchant": "Granzia Egypt",
+      "source": "https://granzia.com/en/mother-child/breastpump/easyfeed/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "مضخة رضاعة كهربائية محمولة",
@@ -1175,8 +1203,12 @@
       "name": "منشفة أمومة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 210,
+      "details": "فوطة قطنية 100% للاستخدام اليومي؛ مرجع لفئة المناشف. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: Mum & Me Cotton Towel 60x110 cm.",
+      "merchant": "Mum & Me",
+      "source": "https://mum-me.com/products/brown-towel",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "روب رضاعة",
@@ -1206,8 +1238,12 @@
       "name": "فستان رضاعة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 620,
+      "details": "فستان رضاعة قطني. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: Nursing Basic Dress.",
+      "merchant": "JasminTale",
+      "source": "https://jasmintale.com/nursing-basic-dress/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "غطاء عربة أطفال",
@@ -1246,10 +1282,14 @@
       "name": "حافظة مستلزمات الرضيع",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 700,
+      "details": "منظم مستلزمات الرضيع. السعر مرجع منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس. الموديل المرجعي: Pink/Salmon Baby Diaper Caddy Organizer.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Baby Hub Egypt",
+      "source": "https://www.babyhubeg.com/category/storage-organiztion",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "id": "maternity-u-shaped-pillow-hedeya",
