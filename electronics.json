@@ -1647,12 +1647,12 @@
     "name": "ASUS TUF VG27AQ",
     "category": "شاشات الكمبيوتر",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11500,
+    "merchant": "Compumarts Egypt",
+    "source": "https://nileshopper.com/products/62798-asus-tuf-gaming-vg27aq1a-27-ips-monitor",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ السعر شوهد خلال آخر يومين",
+    "note": "ASUS TUF Gaming VG27AQ1A 27-inch QHD IPS 170Hz؛ نسخة من سلسلة VG27AQ؛ السعر 11,500 جنيه."
   },
   {
     "id": "elx-0106",
@@ -2190,12 +2190,12 @@
     "name": "Acer Swift Go 14",
     "category": "لابتوبات",
     "brand": "Acer",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "price": 59500,
+    "merchant": "Laptop Store",
+    "source": "https://laptop.store-eg.com/product/acer-swift-go-14-2025",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر مدرج؛ صفحة المتجر تشير لإمكانية الاستلام من الفرع لكن حالة المخزون غير واضحة",
+    "note": "Acer Swift Go 14 (2025)؛ Core Ultra 7 258V / 32GB LPDDR5X / 1TB SSD / Intel Arc 140V؛ السعر 59,500 جنيه.",
     "priceSearchAttempts": 1,
     "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
   },
@@ -2618,12 +2618,12 @@
     "name": "Lenovo ThinkStation P3",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 68040,
+    "merchant": "CompuWorld Systems",
+    "source": "https://cwsegypt.com/product-category/pc/?filter_brand=lenovo&per_page=24&shop_view=list",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر مدرج؛ المتجر يطلب عرض سعر ولا يوضح المخزون",
+    "note": "Lenovo ThinkStation P3 Tower؛ التكوين المعروض Core i7-13700K / 16GB DDR5 / 512GB SSD؛ السعر المدرج 68,040 جنيه، يلزم تأكيد عرض السعر."
   },
   {
     "id": "elx-0185",
@@ -4383,12 +4383,12 @@
     "name": "JBL PartyBox 110",
     "category": "سماعات ومكبرات صوت",
     "brand": "JBL",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 39549,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-ar/partybox-110-portable-bluetooth-speaker-black/N49698412A/p/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "وحدة واحدة ظاهرة بالمخزون وقت التحقق",
+    "note": "JBL PartyBox 110 Portable Bluetooth Speaker؛ السعر 39,549 جنيه."
   },
   {
     "id": "elx-0328",
@@ -4514,12 +4514,12 @@
     "name": "Sony SRS-XB100",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2999,
+    "merchant": "Shift Store",
+    "source": "https://shiftstore-eg.com/shop/sound-output/speakers/sony-xb100-wireless-speaker-srs-xb100-black/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ صفحة المتجر تعرض Add to cart",
+    "note": "Sony SRS-XB100 Compact Bluetooth Speaker؛ Black؛ السعر 2,999 جنيه."
   },
   {
     "id": "elx-0338",
@@ -4597,12 +4597,12 @@
     "name": "Anker Soundcore Motion Boom Plus",
     "category": "سماعات ومكبرات صوت",
     "brand": "Anker Soundcore",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8900,
+    "merchant": "iMedia Stores",
+    "source": "https://www.imediastores.com/product/anker-a3129-soundcore-motion-boom-plus-portable-bluetooth-speaker/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "قطعة واحدة ظاهرة بالمخزون؛ آخر فهرسة قبل 4 أشهر",
+    "note": "Anker Soundcore Motion Boom Plus A3129؛ السعر 8,900 جنيه."
   },
   {
     "id": "elx-0344",
@@ -4693,12 +4693,12 @@
     "name": "Sennheiser Momentum 4 Wireless",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sennheiser",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6000,
+    "merchant": "Mobile Store",
+    "source": "https://mobile.store-eg.com/en/product/sennheiser-momentum-4",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "صفحة المتجر تعرض Added to cart والاستلام من فرع القاهرة؛ آخر فهرسة قبل شهرين",
+    "note": "Sennheiser Momentum 4 Wireless؛ مستورد بضمان البائع 6 أشهر؛ السعر 6,000 جنيه."
   },
   {
     "id": "elx-0352",
@@ -6851,12 +6851,12 @@
     "name": "Ezviz DB2 Doorbell",
     "category": "أجهزة المنزل الذكي",
     "brand": "Ezviz",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6104,
+    "merchant": "EDS Company",
+    "source": "https://www.eds-company.com/ar/shop?category=74&order=name+asc",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر مدرج في كتالوج الشركة؛ حالة المخزون غير موضحة",
+    "note": "EZVIZ DB2 5MP Smart Video Doorbell؛ السعر 6,104 جنيه."
   },
   {
     "id": "elx-0529",
@@ -7167,12 +7167,12 @@
     "name": "Bluetti EB3A",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Bluetti",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 49957,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/479866761-bluetti-portable-power-station-eb3a-268wh-lifepo4-battery-backup-w",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ قطعة واحدة؛ السعر شامل الرسوم والضرائب المعروضة على Desertcart",
+    "note": "Bluetti EB3A Portable Power Station 268Wh؛ السعر 49,957 جنيه عبر Desertcart/Amazon Egypt."
   },
   {
     "id": "elx-0555",
@@ -7227,12 +7227,12 @@
     "name": "Jackery Explorer 500",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Jackery",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12641,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/productuk/1COJ36STA-jackery-portable-power-station-explorer-500-518wh-outdoor-solar-generator-mobile-lithium-battery-pack-with-230v-500w-ac-outlet-for-holiday-rv",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ مستورد من المملكة المتحدة؛ الشحن والجمارك غير مشمولين",
+    "note": "Jackery Explorer 500 Portable Power Station 518Wh؛ السعر 12,641 جنيه قبل الشحن والجمارك."
   },
   {
     "id": "elx-0560",
