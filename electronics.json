@@ -5793,12 +5793,12 @@
     "name": "Corsair Vengeance DDR4 16GB Kit",
     "category": "مكونات الكمبيوتر",
     "brand": "Corsair",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6800,
+    "merchant": "Solid Hardware Egypt",
+    "source": "https://priceteq.com/eg/pc-parts?brand=Corsair",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في مقارنة أسعار مصرية يتم تحديثها يوميًا",
+    "note": "Corsair Vengeance RGB DDR4 16GB (2x8GB) 3600MHz؛ مواصفات النسخة موضحة."
   },
   {
     "id": "elx-0442",
@@ -5817,12 +5817,12 @@
     "name": "Corsair RM750e PSU",
     "category": "مكونات الكمبيوتر",
     "brand": "Corsair",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4499,
+    "merchant": "Delta Computer Egypt",
+    "source": "https://priceteq.com/eg/pc-parts?brand=Corsair",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى متاجر مصرية؛ سعر منشور ومحدّث يوميًا",
+    "note": "Corsair RM750e 750W Cybenetics Gold Fully Modular ATX Power Supply."
   },
   {
     "id": "elx-0444",
@@ -5865,12 +5865,12 @@
     "name": "Kingston Fury Beast DDR5 32GB",
     "category": "مكونات الكمبيوتر",
     "brand": "Kingston",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 29999,
+    "merchant": "Elnekhely",
+    "source": "https://qarenly.com/en/elnekhely/kingston-fury-beast-ddr5-ram-32gb-6000mhz-cl36-udimm-3675",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون؛ آخر تحديث 8 نوفمبر 2026",
+    "note": "Kingston FURY Beast DDR5 32GB 6000MHz CL36 UDIMM."
   },
   {
     "id": "elx-0448",
@@ -5937,12 +5937,12 @@
     "name": "Western Digital Blue 4TB HDD",
     "category": "مكونات الكمبيوتر",
     "brand": "Western Digital",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12400,
+    "merchant": "NileShopper",
+    "source": "https://nileshopper.com/category/storage/hdd",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود خلال آخر يومين؛ المنتج ضمن العروض المتاحة",
+    "note": "Western Digital Blue 4TB 3.5-inch SATA HDD."
   },
   {
     "id": "elx-0454",
@@ -5985,12 +5985,12 @@
     "name": "Cooler Master Hyper 212 Cooler",
     "category": "مكونات الكمبيوتر",
     "brand": "Cooler Master",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1150,
+    "merchant": "Sigma Computer Egypt",
+    "source": "https://priceteq.com/eg/pc-parts?brand=Cooler+Master",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "أقل سعر منشور بين 9 متاجر مصرية؛ متابعة يومية",
+    "note": "Cooler Master Hyper 212 Spectrum V3 RGB CPU Air Cooler."
   },
   {
     "id": "elx-0458",
@@ -6009,12 +6009,12 @@
     "name": "Cooler Master TD500 Mesh Case",
     "category": "مكونات الكمبيوتر",
     "brand": "Cooler Master",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4200,
+    "merchant": "Compumarts Egypt",
+    "source": "https://priceteq.com/eg/pc-parts?brand=Cooler+Master",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور لدى 3 متاجر مصرية؛ متابعة يومية",
+    "note": "Cooler Master MasterBox TD500 Mesh V2 PC Case."
   },
   {
     "id": "elx-0460",
