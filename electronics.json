@@ -1240,12 +1240,12 @@
     "name": "Panasonic Smart LED 43",
     "category": "الشاشات والتلفزيونات",
     "brand": "Panasonic",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14199,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/43-fhd-led-tv-th-43ls670mf-th-43ls670e-black/N70265667V/p/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_in_stock_price",
+    "note": "سعر منشور لموديل Panasonic TH-43LS670E مقاس 43 بوصة Full HD Smart؛ المتجر يعرض وحدتين متاحتين وقت الرصد."
   },
   {
     "id": "elx-0073",
@@ -1264,12 +1264,12 @@
     "name": "Skyworth Smart TV 43",
     "category": "الشاشات والتلفزيونات",
     "brand": "Skyworth",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8880,
+    "merchant": "GehazTech Egypt - price guide",
+    "source": "https://gehaztech.com/%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D9%88-%D8%B9%D9%8A%D9%88%D8%A8-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%B3%D9%83%D8%A7%D9%8A-%D9%88%D8%B1%D8%AB-43-%D8%A8%D9%88%D8%B5%D8%A9-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "indicative_market_range",
+    "note": "الحد الأدنى لنطاق سعري منشور في مصر لموديل Skyworth 43STE6600؛ النطاق 8,880–10,500 جنيه وفق دليل الأسعار بتاريخ 22 سبتمبر 2026، وليس عرض متجر محددًا."
   },
   {
     "id": "elx-0075",
