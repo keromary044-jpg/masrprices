@@ -1303,11 +1303,9 @@
     if(!card||card.nodeType!==Node.ELEMENT_NODE)return;
     card.querySelectorAll("time,[data-updated-at],[data-checked-at],[class*='date'],[class*='Date'],[class*='updated'],[class*='Updated'],[class*='checked'],[class*='Checked']").forEach(node=>{
       const value=(node.textContent||"").trim();
-      if(!value||dateTokenPattern.test(value)||dateLabelPattern.test(value)){
-        dateTokenPattern.lastIndex=0;dateLabelPattern.lastIndex=0;
-        if(!value||dateTokenPattern.test(value)||dateLabelPattern.test(value))node.remove();
-      }
-      dateTokenPattern.lastIndex=0;dateLabelPattern.lastIndex=0;
+      const hasDate=/\\d{4}[-/.]\\d{1,2}[-/.]\\d{1,2}|\\d{1,2}[-/.]\\d{1,2}[-/.]\\d{4}|[٠-٩]{1,4}[-/.][٠-٩]{1,2}[-/.][٠-٩]{1,4}|(?:يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|اغسطس|سبتمبر|أكتوبر|اكتوبر|نوفمبر|ديسمبر)\\s+\\d{1,2}\\s+\\d{4}/i.test(value);
+      const hasLabel=/(?:آخر\\s*(?:تحديث|رصد)|تاريخ\\s*(?:التحديث|التسعير|الرصد|التحقق)|تم\\s*(?:التحديث|الرصد))/i.test(value);
+      if(!value||hasDate||hasLabel)node.remove();
     });
     const walker=document.createTreeWalker(card,NodeFilter.SHOW_TEXT);
     const nodes=[];
