@@ -1885,15 +1885,17 @@
   },
   {
     "id": "pet-guide-142",
-    "name": "مشط إزالة الشعر",
+    "name": "Naomi Pet Brush - Red",
     "category": "العناية والنظافة",
     "recordType": "supply",
-    "price": null,
+    "price": 221.99,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما.",
+    "brand": "Naomi",
+    "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
   },
   {
     "id": "pet-guide-143",
@@ -1962,15 +1964,17 @@
   },
   {
     "id": "pet-guide-148",
-    "name": "مقص أظافر للحيوانات",
+    "name": "Max Cat Pet Nail Clipper",
     "category": "العناية والنظافة",
     "recordType": "supply",
-    "price": null,
+    "price": 139.5,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما.",
+    "brand": "Max Cat",
+    "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
   },
   {
     "id": "pet-guide-149",
@@ -1986,27 +1990,31 @@
   },
   {
     "id": "pet-guide-150",
-    "name": "قفاز إزالة الشعر",
+    "name": "White Wet Wipes Pet Glove",
     "category": "العناية والنظافة",
     "recordType": "supply",
-    "price": null,
+    "price": 26.99,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما.",
+    "brand": "White",
+    "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
   },
   {
     "id": "pet-guide-151",
-    "name": "كرة لعب للقطط",
+    "name": "Max Cat Chew Toy Teether",
     "category": "اللعب والتدريب",
     "recordType": "supply",
-    "price": null,
+    "price": 48.99,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما.",
+    "brand": "Max Cat",
+    "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
   },
   {
     "id": "pet-guide-152",
@@ -2358,15 +2366,17 @@
   },
   {
     "id": "pet-guide-181",
-    "name": "وعاء طعام ستانلس",
+    "name": "Max Cat Stainless-Steel Pet Bowl",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 223.5,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما.",
+    "brand": "Max Cat",
+    "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
   },
   {
     "id": "pet-guide-182",
