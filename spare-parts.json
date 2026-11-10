@@ -127,15 +127,16 @@
     },
     {
       "id": "part-toyota-headlamp",
-      "name": "كشاف أمامي لتويوتا",
+      "name": "كشاف أمامي تويوتا كورولا E210 2019–2026 (عادي، بديل)",
       "category": "كهرباء وإضاءة",
       "brand": "Toyota",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 5526,
+      "merchant": "Shasih",
+      "details": "سعر منشور لكشاف أمامي بديل جديد لفئة العادي، متوافق حسب البائع مع تويوتا كورولا E210 موديلات 2019–2026؛ رقم المتجر AP-2059.",
+      "source": "https://shasih.com/products/headlight-toyota-corolla-e210-2019-2026-standard-to-do",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla E210 2019–2026"
     },
     {
       "id": "part-toyota-alternator",
@@ -163,27 +164,29 @@
     },
     {
       "id": "part-toyota-mirror",
-      "name": "مراية جانبية لتويوتا",
+      "name": "مراية جانبية كهرباء يسار تويوتا كورولا E120 2001–2007 (بديل صيني)",
       "category": "هيكل خارجي",
       "brand": "Toyota",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 1139,
+      "merchant": "Shasih",
+      "details": "سعر منشور لقطعة واحدة جهة اليسار، مراية كهرباء بديلة جديدة صناعة صينية، متوافقة حسب البائع مع تويوتا كورولا E120 موديلات 2001–2007؛ رقم المتجر AP-1447.",
+      "source": "https://shasih.com/products/side-mirror-toyota-corolla-2001-electric-left-cn",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla E120 2001–2007, electric left"
     },
     {
       "id": "part-toyota-bumper",
-      "name": "إكصدام لتويوتا",
+      "name": "إكصدام أمامي تويوتا كورولا E210 2020 (بديل صيني)",
       "category": "هيكل خارجي",
       "brand": "Toyota",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 2251,
+      "merchant": "Shasih",
+      "details": "سعر منشور لإكصدام أمامي بديل جديد صناعة صينية، متوافق حسب البائع مع تويوتا كورولا E210 موديلات 2019–2026؛ رقم المتجر AP-1431.",
+      "source": "https://shasih.com/products/front-bumper-toyota-corolla-2020-cn",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla E210 2019–2026"
     },
     {
       "id": "spare-parts-فلتر-هواء-أصلي-لتويوتا-كورولا-toyota-قطعة",
