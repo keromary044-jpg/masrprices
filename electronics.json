@@ -2390,24 +2390,24 @@
     "name": "Huawei MateBook 14",
     "category": "لابتوبات",
     "brand": "Huawei",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23999,
+    "merchant": "Montag Store Egypt",
+    "source": "https://montagstore.com/collections/huawei-matebook-laptops-egypt",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_price_range",
+    "note": "السعر يبدأ من 23,999 جنيه ويصل إلى 25,999 جنيه لنسخة MateBook 14 بشاشة 2K لمس ومعالج i7-1165G7 وذاكرة 16GB وSSD 512GB."
   },
   {
     "id": "elx-0166",
     "name": "Huawei MateBook X Pro",
     "category": "لابتوبات",
     "brand": "Huawei",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 64900,
+    "merchant": "Mazaya Tech عبر Dubizzle",
+    "source": "https://www.dubizzle.com.eg/en/electronics-home-appliances/computers-accessories/laptop-computers/q-huawei-matebook/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "marketplace_listed_price_stock_to_confirm",
+    "note": "سعر إعلان حديث لنسخة MateBook X Pro بمعالج Core Ultra 7 155H؛ السعر من إعلان بائع ويحتاج تأكيد الحالة والمواصفات والضمان."
   },
   {
     "id": "elx-0167",
