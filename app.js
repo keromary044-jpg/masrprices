@@ -890,6 +890,24 @@
   loadConstruction();
 
 
+  let currencyDirectoryPromise=null;
+  async function loadCurrencyDirectory(){
+    if(!currencyDirectoryPromise){
+      currencyDirectoryPromise=(async()=>{
+        const response=await fetch("https://raw.githubusercontent.com/datasets/currency-codes/main/data/codes-all.csv",{cache:"force-cache"});
+        if(!response.ok)throw new Error("Currency directory unavailable");
+        const lines=(await response.text()).split(/\r?\n/);
+        const parseLine=line=>{const out=[];let value="",quoted=false;for(let i=0;i<line.length;i++){const c=line[i];if(c==='"'){if(quoted&&line[i+1]==='"'){value+='"';i++;}else quoted=!quoted;}else if(c===","&&!quoted){out.push(value);value="";}else value+=c;}out.push(value);return out;};
+        const headers=parseLine(lines.shift()||"");
+        const index=Object.fromEntries(headers.map((h,i)=>[h,i]));
+        const unique=new Map();
+        for(const line of lines){if(!line.trim())continue;const row=parseLine(line);const code=row[index.AlphabeticCode]||"";const withdrawn=row[index.WithdrawalDate]||"";const minor=row[index.MinorUnit]||"";if(!/^[A-Z]{3}$/.test(code)||withdrawn||!/^\d+$/.test(minor)||code.startsWith("X"))continue;if(!unique.has(code))unique.set(code,row[index.Currency]||code);}
+        let names;try{names=new Intl.DisplayNames(["ar"],{type:"currency"});}catch(e){names=null;}
+        return Array.from(unique,([code,english])=>({name:names?.of(code)||english,code,directoryOnly:true})).sort((x,y)=>x.name.localeCompare(y.name,"ar"));
+      })().catch(error=>{currencyDirectoryPromise=null;console.warn("تعذر تحميل دليل العملات العالمي:",error);return [];});
+    }
+    return currencyDirectoryPromise;
+  }
   let marketStaticData=null;
   let marketETag=null;
   let marketTimer=null;
@@ -934,8 +952,8 @@
           card.append(head);
           if(isCurrency){
             const price=item.rate??item.value;
-            card.append(element("span","market-quote-label","السعر المرجعي"));
-            card.append(element("strong","market-quote-price",typeof price==="number"?price.toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه":String(price||"غير متاح")));
+            card.append(element("span","market-quote-label",item.directoryOnly?"ضمن دليل العملات العالمي":"السعر المرجعي مقابل الجنيه"));
+            card.append(element("strong","market-quote-price",item.directoryOnly?"سعر الصرف غير متاح حاليًا":(typeof price==="number"?price.toLocaleString("en-US",{maximumFractionDigits:4})+" جنيه":String(price||"غير متاح"))));
           }else if(item.buy!=null||item.sell!=null){
             const prices=element("div","market-buy-sell");
             const buy=element("div","market-price-side");
@@ -1018,7 +1036,8 @@
       const feed=await res.json();if(!Array.isArray(feed.assets))throw new Error("Invalid market feed");
       marketETag=res.headers.get("ETag")||marketETag;
       const groups=groupsFromLiveFeed(feed),byTitle=new Map(groups.map(g=>[g.title,g]));
-      renderMarketGroups(fallbackGroups.map(f=>{const live=byTitle.get(f.title);return live&&live.items.length?live:f;}),true,feed.generatedAt);
+      const directory=await loadCurrencyDirectory();
+      renderMarketGroups(fallbackGroups.map(f=>{const live=byTitle.get(f.title);if(f.title==="أسعار العملات مقابل الجنيه"){const base=live&&live.items.length?live:f;const priced=new Set(base.items.map(x=>x.code).filter(Boolean));return {...base,items:[...base.items,...directory.filter(x=>!priced.has(x.code))],note:"الأسعار متاحة فقط للعملات التي يعرضها المصدر المباشر؛ بقية العملات ظاهرة في الدليل العالمي دون سعر صرف مؤكد."};}return live&&live.items.length?live:f;}),true,feed.generatedAt);
     }catch(error){
       console.warn("Market data unavailable; showing source links.",error);
       renderMarketGroups(fallbackGroups,false, "2026-11-05T01:29:01");
