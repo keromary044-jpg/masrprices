@@ -2246,12 +2246,12 @@
     "name": "Apple MacBook Air 13 M2",
     "category": "لابتوبات",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 53499,
+    "merchant": "B.TECH Egypt",
+    "source": "https://priceteq.com/eg/product/fb02454d-aabf-4e7e-8f23-516f8d3e59da",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ PriceTeq checked 6 Nov 2026",
+    "note": "Apple MacBook Air 13-inch M2؛ التكوين المعروض 16GB RAM / 256GB SSD؛ السعر 53,499 جنيه."
   },
   {
     "id": "elx-0154",
@@ -2270,12 +2270,12 @@
     "name": "Apple MacBook Air 13 M3",
     "category": "لابتوبات",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 46999,
+    "merchant": "Innovoshop Egypt",
+    "source": "https://electronics.zabasket.com/products/apple-macbook-air-13-m3?lang=en",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ 60 قطعة ظاهرة بالمخزون؛ صفحة المنتج تعرض Add to Cart",
+    "note": "Apple MacBook Air 13-inch M3؛ السعر يبدأ من 46,999 جنيه لتكوين 8GB/256GB؛ اختر التكوين قبل الشراء."
   },
   {
     "id": "elx-0156",
