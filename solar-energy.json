@@ -32,12 +32,15 @@
       "checkedAt": "2026-11-10"
     },
     {
-      "name": "بطارية تخزين للطاقة الشمسية",
-      "brand": "ماركات متعددة",
+      "name": "بطارية جل Newmax SG1000H سعة 12V 100Ah",
+      "brand": "Newmax",
       "category": "بطاريات",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 16900,
+      "priceStatus": "سعر منشور من صفحة متجر؛ قابل للتغير",
+      "details": "السعر المنشور 16,900 جنيه؛ آخر تحديث للمصدر 9 نوفمبر 2026.",
+      "merchant": "UGE عبر Electronics Egypt",
+      "source": "https://electronicsegypt.com/p/newmax-sg1000h-12v-100ah-gel-battery",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "منظم شحن شمسي PWM Golden Falcon FL-C1220 بقدرة 20A 12/24V",
@@ -62,12 +65,15 @@
       "checkedAt": "2026-11-10"
     },
     {
-      "name": "نظام شمسي منزلي",
-      "brand": "ماركات متعددة",
+      "name": "باكدج طاقة شمسية ETA 1.2K مع بطارية ليثيوم 12V 100Ah",
+      "brand": "ETA",
       "category": "أنظمة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 29500,
+      "priceStatus": "سعر منشور من صفحة متجر؛ قابل للتغير",
+      "details": "باكدج يتضمن إنفرتر 1200W وبطارية ليثيوم 12V 100Ah؛ متوفر وفق صفحة المتجر.",
+      "merchant": "MYE Technology",
+      "source": "https://store.mye-tech.com/ar/products/eta-1-2k-12v-100ah",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "كابل شمسي",
@@ -105,12 +111,15 @@
       "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
     },
     {
-      "name": "كشاف شمسي",
-      "brand": "ماركات متعددة",
+      "name": "كشاف شارع شمسي LED بقدرة 100W مع بطارية LiFePO4",
+      "brand": "Desun",
       "category": "إنارة",
-      "price": null,
-      "priceStatus": "لم يتم رصد سعر موثوق بعد",
-      "details": "عنصر ضمن دليل الفئة. يلزم تحديد الماركة والموديل والمقاس ومصدر السعر قبل عرض سعر للمقارنة."
+      "price": 12500,
+      "priceStatus": "سعر منشور من صفحة متجر؛ قابل للتغير",
+      "details": "السعر المنشور 12,500 جنيه؛ موديل بإضاءة LED ولوح أحادي وبطارية LiFePO4.",
+      "merchant": "Desun Egypt Shop",
+      "source": "https://shop.desuneg.org/product/100w-solar-led-street-light-with-monocrystalline-panel-lifepo%E2%82%84-battery-ip65-mppt-controller/",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "لوح طاقة شمسية 18V بقدرة 100W وأبعاد 1200×550×30 مم",
@@ -145,11 +154,15 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "لوح شمسي أحادي البلورة – قدرة 550W",
-      "brand": "ماركات متعددة",
+      "name": "لوح شمسي ELITE Solar VANTA Pro N-type أحادي/ثنائي الوجه 630W موديل ET-NR66TBH630GL",
+      "brand": "ELITE Solar",
       "category": "الطاقة الشمسية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 6500,
+      "details": "السعر المنشور 6,500 جنيه؛ قدرة 630W ومتاح وفق صفحة المتجر.",
+      "merchant": "MYE Technology",
+      "source": "https://store.mye-tech.com/en/products/elite-vanta-pro-630w",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور من صفحة متجر؛ قابل للتغير"
     },
     {
       "name": "لوح شمسي ثنائي الوجه – قدرة 100W",
@@ -222,11 +235,15 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "انفرتر شمسي On-Grid – قدرة 100W",
-      "brand": "ماركات متعددة",
+      "name": "إنفرتر طاقة شمسية ETA 3.6K PRO بقدرة 3600W",
+      "brand": "ETA",
       "category": "الطاقة الشمسية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 17000,
+      "details": "السعر المنشور 17,000 جنيه ضمن قائمة منتجات الطاقة الشمسية لدى المتجر.",
+      "merchant": "MYE Technology",
+      "source": "https://store.mye-tech.com/ar/products?category=solar",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور من صفحة متجر؛ قابل للتغير"
     },
     {
       "name": "انفرتر شمسي On-Grid – قدرة 200W",
@@ -257,11 +274,15 @@
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
     },
     {
-      "name": "انفرتر شمسي Off-Grid – قدرة 100W",
-      "brand": "ماركات متعددة",
+      "name": "إنفرتر طاقة شمسية ETA 6.5K PRO بقدرة 6500W",
+      "brand": "ETA",
       "category": "الطاقة الشمسية",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 24000,
+      "details": "السعر المنشور 24,000 جنيه ضمن قائمة منتجات الطاقة الشمسية لدى المتجر.",
+      "merchant": "MYE Technology",
+      "source": "https://store.mye-tech.com/ar/products?category=solar",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور من صفحة متجر؛ قابل للتغير"
     },
     {
       "name": "انفرتر شمسي Off-Grid – قدرة 200W",
@@ -597,6 +618,39 @@
       "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
       "source": "https://electronicsegypt.com/ar/c/solar",
       "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "لوح شمسي قابل للطي 100W",
+      "brand": "Desun",
+      "category": "ألواح محمولة",
+      "price": 12500,
+      "merchant": "Desun Egypt Shop",
+      "source": "https://shop.desuneg.org/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور من صفحة المتجر؛ قابل للتغير",
+      "details": "السعر المنشور 12,500 جنيه."
+    },
+    {
+      "name": "لوح شمسي قابل للطي 200W",
+      "brand": "Desun",
+      "category": "ألواح محمولة",
+      "price": 20000,
+      "merchant": "Desun Egypt Shop",
+      "source": "https://shop.desuneg.org/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور من صفحة المتجر؛ قابل للتغير",
+      "details": "السعر المنشور 20,000 جنيه."
+    },
+    {
+      "name": "باكدج شحن شمسي محمول EPS 100W",
+      "brand": "EPS",
+      "category": "أنظمة محمولة",
+      "price": 12500,
+      "merchant": "MYE Technology",
+      "source": "https://store.mye-tech.com/en/products?category=solar",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور من صفحة المتجر؛ قابل للتغير",
+      "details": "السعر المنشور 12,500 جنيه ضمن فئة أنظمة الطاقة الشمسية المحمولة."
     }
   ]
 }
