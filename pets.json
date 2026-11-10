@@ -1679,12 +1679,12 @@
     "name": "فرشة خشبية آمنة للقوارض",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 185.99,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "SouqNile",
+    "source": "https://souqnile.com/category.php?lang=en&slug=pet_supplies&subcategory=small_animals",
+    "checkedAt": "2026-11-10",
+    "note": "نشارة خشب طبيعية مغربلة وخالية من الغبار، عبوة 1 كجم؛ السعر المنشور."
   },
   {
     "id": "pet-guide-123",
@@ -1769,12 +1769,12 @@
     "name": "نفق لعب للأرانب",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 260,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "SouqNile",
+    "source": "https://souqnile.com/category.php?lang=en&slug=pet_supplies&subcategory=small_animals",
+    "checkedAt": "2026-11-10",
+    "note": "نفق لعب قابل للطي للأرانب وخنازير غينيا؛ السعر المنشور."
   },
   {
     "id": "pet-guide-130",
@@ -1843,12 +1843,12 @@
     "name": "غذاء هامستر متوازن",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 129,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "SouqNile",
+    "source": "https://souqnile.com/category.php?lang=en&slug=pet_supplies&subcategory=small_animals",
+    "checkedAt": "2026-11-10",
+    "note": "Sky Hamster Mix 450g؛ خليط بذور وحبوب للهامستر."
   },
   {
     "id": "pet-guide-136",
@@ -2261,12 +2261,12 @@
     "name": "سياج لعب متنقل",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 1795,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/category/small-pet",
+    "checkedAt": "2026-11-10",
+    "note": "خيمة لعب متنقلة قابلة للطي للحيوانات 160×80×75 سم؛ السعر المنشور."
   },
   {
     "id": "pet-guide-168",
@@ -2325,12 +2325,12 @@
     "name": "شجرة تسلق قطط كبيرة",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 4500,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Land",
+    "source": "https://petsland-egy.com/collections/cat-tree",
+    "checkedAt": "2026-11-10",
+    "note": "شجرة قطط Paradise متعددة المستويات مقاس 60×60×160 سم؛ السعر المنشور."
   },
   {
     "id": "pet-guide-173",
@@ -2349,12 +2349,12 @@
     "name": "سرير نافذة للقطط",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 1100,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Zima Pets",
+    "source": "https://zimapets.com/collections/cat-accessories",
+    "checkedAt": "2026-11-10",
+    "note": "سرير/منصة نافذة للقطط مقاس 35×50 سم؛ آخر سعر منشور، والمنتج ظهر غير متوفر وقت التحقق."
   },
   {
     "id": "pet-guide-175",
