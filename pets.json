@@ -1690,15 +1690,17 @@
   },
   {
     "id": "pet-guide-124",
-    "name": "بيت اختباء للهامستر",
+    "name": "Portable Hamster Cage Habitat with Wheel and Water Bottle",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 690,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/product/portable-hamster-cage-habitat-with-wheel-and-water-bottle-travel-metal-small-animal-cage-231730-cm-white-yellow-8667",
+    "checkedAt": "2026-11-10",
+    "brand": "PetsEgypt",
+    "unit": "قطعة",
+    "priceStatus": "آخر سعر منشور؛ المنتج ظاهر غير متوفر حاليًا"
   },
   {
     "id": "pet-guide-125",
@@ -2172,15 +2174,17 @@
   },
   {
     "id": "pet-guide-162",
-    "name": "صندوق نقل قطط",
+    "name": "Naomi Pet Crate Without Tray and Bowl",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 964.91,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/product-category/cat-toys-accessories/",
+    "checkedAt": "2026-11-10",
+    "brand": "Naomi",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-163",
@@ -2284,15 +2288,17 @@
   },
   {
     "id": "pet-guide-171",
-    "name": "شجرة تسلق قطط صغيرة",
+    "name": "Trixie Scratching Post for Cats",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 833.33,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/product-category/cat-toys-accessories/",
+    "checkedAt": "2026-11-10",
+    "brand": "Trixie",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-172",
@@ -2344,15 +2350,17 @@
   },
   {
     "id": "pet-guide-176",
-    "name": "بيت أرنب داخلي",
+    "name": "Savic Ambiente Small Animal Cage for Rabbits and Guinea Pigs",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 3580,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/category/small-pet",
+    "checkedAt": "2026-11-10",
+    "brand": "Savic",
+    "unit": "80 سم",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-177",
@@ -2432,15 +2440,17 @@
   },
   {
     "id": "pet-guide-183",
-    "name": "وعاء طعام مرتفع",
+    "name": "Stainless Steel Pet Bowl",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 175,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/product-category/cat-toys-accessories/",
+    "checkedAt": "2026-11-10",
+    "brand": "EgyPuppy",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-184",
@@ -2494,15 +2504,17 @@
   },
   {
     "id": "pet-guide-188",
-    "name": "موزع مياه تلقائي",
+    "name": "Naomi Pet Water Feeder",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 2950,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/product-category/cat-toys-accessories/",
+    "checkedAt": "2026-11-10",
+    "brand": "Naomi",
+    "unit": "قطعة",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-189",
@@ -2542,27 +2554,31 @@
   },
   {
     "id": "pet-guide-192",
-    "name": "فرشاة تنظيف زجاج الحوض",
+    "name": "Nubios Professional 5-in-1 Aquarium Cleaning Set",
     "category": "مستلزمات عامة",
     "recordType": "supply",
-    "price": null,
+    "price": 176,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://www.petshome.com.eg/ar/categories/accessories",
+    "checkedAt": "2026-11-10",
+    "brand": "Nubios",
+    "unit": "طقم",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-193",
-    "name": "خرطوم تغيير مياه الحوض",
+    "name": "Flexible Water Connection 40cm AQ-85",
     "category": "مستلزمات عامة",
     "recordType": "supply",
-    "price": null,
+    "price": 110,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://www.petshome.com.eg/ar/categories/accessories",
+    "checkedAt": "2026-11-10",
+    "brand": "Pets Home Egypt",
+    "unit": "40 سم",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-194",
