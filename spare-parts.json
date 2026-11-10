@@ -2690,27 +2690,42 @@
     },
     {
       "id": "part-catalog-0135",
-      "name": "إكصدام أمامي – يمين",
+      "name": "إكصدام أمامي نيسان صني N17 موديل 2020",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1080,
+      "details": "جديد، سعر منشور.",
+      "model": "Nissan Sunny N17 2020",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0136",
-      "name": "إكصدام أمامي – يسار",
+      "name": "إكصدام خلفي نيسان صني N17 موديل 2020",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1080,
+      "details": "جديد، سعر منشور.",
+      "model": "Nissan Sunny N17 2020",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0137",
-      "name": "إكصدام خلفي – أمامي",
+      "name": "إكصدام أمامي نيسان صني 2015 سعودي",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1262,
+      "details": "سعودي، جديد.",
+      "model": "Nissan Sunny 2015",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0138",
@@ -2727,19 +2742,29 @@
     },
     {
       "id": "part-catalog-0139",
-      "name": "إكصدام خلفي – يمين",
+      "name": "إكصدام أمامي نيسان صني N16 موديل 2001 ماليزي",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1475,
+      "details": "ماليزي، جديد.",
+      "model": "Nissan Sunny N16 2001",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0140",
-      "name": "إكصدام خلفي – يسار",
+      "name": "إكصدام خلفي نيسان صني N16 موديل 2001 بدون باكتة نيكل",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1615,
+      "details": "ماليزي، بدون باكتة نيكل.",
+      "model": "Nissan Sunny N16 2001",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0141",
@@ -2756,43 +2781,68 @@
     },
     {
       "id": "part-catalog-0142",
-      "name": "شبكة أمامية – خلفي",
+      "name": "شبكة أمامية نيسان صني N17 موديل 2013 بالعلامة",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1140,
+      "details": "شبكة أمامية بالعلامة.",
+      "model": "Nissan Sunny N17 2013",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0143",
-      "name": "شبكة أمامية – يمين",
+      "name": "شبكة أمامية نيسان صني N17 موديل 2015 بالعلامة",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1170,
+      "details": "شبكة أمامية بالعلامة.",
+      "model": "Nissan Sunny N17 2015",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0144",
-      "name": "شبكة أمامية – يسار",
+      "name": "شبكة أمامية نيسان صني 2015 صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1544,
+      "details": "صيني.",
+      "model": "Nissan Sunny 2015",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0145",
-      "name": "مراية جانبية – أمامي",
+      "name": "مراية جنب نيسان صني N17 بالغماز يمين أبيض",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1560,
+      "details": "صيني، لون أبيض، يمين.",
+      "model": "Nissan Sunny N17",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0146",
-      "name": "مراية جانبية – خلفي",
+      "name": "مراية جنب نيسان صني N17 بالغماز يسار أبيض",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1560,
+      "details": "صيني، لون أبيض، يسار.",
+      "model": "Nissan Sunny N17",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0147",
@@ -2822,67 +2872,107 @@
     },
     {
       "id": "part-catalog-0149",
-      "name": "زجاج أمامي – أمامي",
+      "name": "كبوت نيسان صني N17 موديل 2015 بالفلتو تايواني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 4080,
+      "details": "تايواني، بالفلتو.",
+      "model": "Nissan Sunny N17 2015",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0150",
-      "name": "زجاج أمامي – خلفي",
+      "name": "كبوت نيسان صني N17 موديل 2015 حديث تايواني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 3720,
+      "details": "تايواني، الشكل الحديث.",
+      "model": "Nissan Sunny N17 2015",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0151",
-      "name": "زجاج أمامي – يمين",
+      "name": "كبوت نيسان صني N17 الشكل القديم تايواني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 3780,
+      "details": "تايواني، الشكل القديم.",
+      "model": "Nissan Sunny N17",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0152",
-      "name": "زجاج أمامي – يسار",
+      "name": "باب أمامي يسار نيسان صني N17 صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 6000,
+      "details": "صيني، باب أمامي يسار.",
+      "model": "Nissan Sunny N17",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0153",
-      "name": "ذراع مساحات – أمامي",
+      "name": "باب أمامي يمين نيسان صني N17 صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 6000,
+      "details": "صيني، باب أمامي يمين.",
+      "model": "Nissan Sunny N17",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0154",
-      "name": "ذراع مساحات – خلفي",
+      "name": "باب خلفي يسار نيسان صني N17 صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 6000,
+      "details": "صيني، باب خلفي يسار.",
+      "model": "Nissan Sunny N17",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0155",
-      "name": "ذراع مساحات – يمين",
+      "name": "باب خلفي يمين نيسان صني N17 صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 6000,
+      "details": "صيني، باب خلفي يمين.",
+      "model": "Nissan Sunny N17",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0156",
-      "name": "ذراع مساحات – يسار",
+      "name": "شنطة نيسان صني N17 موديل 2015 ماليزي",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 4774,
+      "details": "ماليزي، جديدة.",
+      "model": "Nissan Sunny N17 2015",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0157",
@@ -2913,19 +3003,29 @@
     },
     {
       "id": "part-catalog-0159",
-      "name": "مساحات زجاج – يمين",
+      "name": "طقم رفارف نيسان صني N17 موديل 2016 بدون غماز",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 2280,
+      "details": "السعر للطقم.",
+      "model": "Nissan Sunny N17 2016",
+      "unit": "طقم",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0160",
-      "name": "مساحات زجاج – يسار",
+      "name": "طقم رفارف نيسان صني N17 موديل 2013 بالغماز",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 2280,
+      "details": "السعر للطقم.",
+      "model": "Nissan Sunny N17 2013",
+      "unit": "طقم",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0161",
@@ -2957,19 +3057,29 @@
     },
     {
       "id": "part-catalog-0163",
-      "name": "خرطوم ردياتير – يمين",
+      "name": "رفرف أمامي يسار نيسان صني 2012 بفتحة غماز تايواني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1224,
+      "details": "تايواني، يسار.",
+      "model": "Nissan Sunny 2012",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0164",
-      "name": "خرطوم ردياتير – يسار",
+      "name": "رفرف أمامي يمين نيسان صني 2012 بفتحة غماز تايواني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1224,
+      "details": "تايواني، يمين.",
+      "model": "Nissan Sunny 2012",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0165",
@@ -2999,19 +3109,29 @@
     },
     {
       "id": "part-catalog-0167",
-      "name": "جوان وش سلندر – يمين",
+      "name": "طقم دلايات نيسان صني موديل 2005",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 180,
+      "details": "السعر للطقم.",
+      "model": "Nissan Sunny 2005",
+      "unit": "طقم",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0168",
-      "name": "جوان وش سلندر – يسار",
+      "name": "طقم دلايات نيسان صني موديل 2015",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 156,
+      "details": "السعر للطقم.",
+      "model": "Nissan Sunny 2015",
+      "unit": "طقم",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0169",
@@ -3111,11 +3231,16 @@
     },
     {
       "id": "part-catalog-0177",
-      "name": "صباب محرك – أمامي",
+      "name": "مجموعة فانوس شبورة نيسان صني 2015 بالضفيرة والزرار صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 1334,
+      "details": "السعر للمجموعة بالضفيرة والزرار.",
+      "model": "Nissan Sunny 2015",
+      "unit": "طقم",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0178",
