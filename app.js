@@ -810,66 +810,120 @@
   let bookData = null;
   const bookGrade=document.getElementById("bookGrade");
   const bookSubject=document.getElementById("bookSubject");
-  const bookTeacher=document.getElementById("bookTeacher");
-  function fillBookOptions(select,values,placeholder){
+  const bookStage=document.getElementById("bookStage");
+  const bookYear=document.getElementById("bookYear");
+  const bookTerm=document.getElementById("bookTerm");
+  let activeBookKind="all";
+  let bookVisibleLimit=24;
+  function fillBookOptions(select,values,placeholder,labels={}){
+    if(!select)return;
     select.replaceChildren(element("option","",placeholder));
-    values.forEach(value=>{const o=element("option","",value);o.value=value;select.append(o);});
+    values.forEach(value=>{const o=element("option","",labels[value]||value);o.value=value;select.append(o);});
   }
-  function bookSelectionChanged(){
+  function bookStageOf(book){
+    if(!book.grade)return "general";
+    return /ع$/.test(book.grade)?"prep":"secondary";
+  }
+  function bookKindOf(book){
+    if(book.category==="كتب الوزارة")return "ministry";
+    if(book.category==="كتب مدرسين"||book.teacher)return "teacher";
+    if(!book.grade)return "general";
+    return "school";
+  }
+  function bookGradeLabel(grade){
+    const labels={"1ع":"الأول الإعدادي","2ع":"الثاني الإعدادي","3ع":"الثالث الإعدادي","1ث":"الأول الثانوي","2ث":"الثاني الثانوي","3ث":"الثالث الثانوي"};
+    return labels[grade]||grade;
+  }
+  function updateBookFilters(){
+    if(!bookData)return;
+    const stage=bookStage.value;
+    const stageRows=bookData.products.filter(x=>!stage||bookStageOf(x)===stage);
+    const grades=[...new Set(stageRows.map(x=>x.grade).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"ar"));
+    const oldGrade=bookGrade.value;
+    fillBookOptions(bookGrade,grades,"كل الصفوف",Object.fromEntries(grades.map(g=>[g,bookGradeLabel(g)])));
+    if(grades.includes(oldGrade))bookGrade.value=oldGrade;
     const grade=bookGrade.value;
-    const gradeRows=bookData.products.filter(x=>x.grade===grade);
-    const subjects=[...new Set(gradeRows.map(x=>x.subject).filter(x=>x&&x!=="جميع المواد"))].sort((a,b)=>a.localeCompare(b,"ar"));
-    fillBookOptions(bookSubject,subjects,"اختر المادة");
-    document.getElementById("bookSubjectStep").hidden=!grade;
-    document.getElementById("bookTeacherStep").hidden=true;
-    document.getElementById("bookProducts").replaceChildren(element("p","catalog-footnote",grade?"اختر المادة لعرض المدرسين والسلاسل المتاحة.":"اختر السنة الدراسية لعرض المواد."));
-    document.getElementById("bookCount").textContent="";
+    const gradeRows=stageRows.filter(x=>!grade||x.grade===grade);
+    const subjects=[...new Set(gradeRows.map(x=>x.subject).filter(x=>x&&x!=="جميع المواد"&&x!=="مادة غير محددة في عنوان المنتج"))].sort((a,b)=>a.localeCompare(b,"ar"));
+    const oldSubject=bookSubject.value;
+    fillBookOptions(bookSubject,subjects,"كل المواد");
+    if(subjects.includes(oldSubject))bookSubject.value=oldSubject;
+    const years=[...new Set(gradeRows.map(x=>x.academicYear).filter(Boolean))].sort((a,b)=>b.localeCompare(a));
+    const oldYear=bookYear.value;
+    fillBookOptions(bookYear,years,"كل السنوات");
+    if(years.includes(oldYear))bookYear.value=oldYear;
+    const terms=[...new Set(gradeRows.map(x=>x.term).filter(x=>x&&!/حسب وصف/.test(x)))].sort((a,b)=>a.localeCompare(b,"ar"));
+    const oldTerm=bookTerm.value;
+    fillBookOptions(bookTerm,terms,"كل الفصول");
+    if(terms.includes(oldTerm))bookTerm.value=oldTerm;
   }
-  function bookSubjectChanged(){
-    const rows=bookData.products.filter(x=>x.grade===bookGrade.value&&x.subject===bookSubject.value);
-    const teachers=[...new Set(rows.map(x=>x.teacher||x.series).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"ar"));
-    fillBookOptions(bookTeacher,teachers,"اختر المدرس أو السلسلة");
-    document.getElementById("bookTeacherStep").hidden=!bookSubject.value;
-    document.getElementById("bookProducts").replaceChildren(element("p","catalog-footnote","اختر المدرس أو سلسلة الكتاب لعرض الكتب."));
-  }
-  function renderBooks(data) {
-    const container=document.getElementById("bookProducts");if(!container)return;
-    const grade=bookGrade.value,subject=bookSubject.value,teacher=bookTeacher.value;
-    if(!grade||!subject||!teacher){container.replaceChildren(element("p","catalog-footnote","أكمل اختيار السنة ثم المادة ثم المدرس أو السلسلة."));return;}
+  function renderBooks(data){
+    const container=document.getElementById("bookProducts");if(!container||!data)return;
     const query=normalize(document.getElementById("bookSearch").value||"");
+    const stage=bookStage.value,grade=bookGrade.value,subject=bookSubject.value,year=bookYear.value,term=bookTerm.value;
     const sort=document.getElementById("bookSort").value||"name";
-    const items=data.products.filter(book=>book.grade===grade&&book.subject===subject&&(book.teacher||book.series)===teacher&&(!query||normalize([book.title,book.author,book.merchant,book.series].join(" ")).includes(query)));
-    items.sort((a,b)=>sort==="price"?(a.price??0)-(b.price??0):a.title.localeCompare(b.title,"ar"));
+    let items=data.products.filter(book=>{
+      const haystack=normalize([book.title,book.author,book.merchant,book.series,book.teacher,book.subject,book.grade,book.category,book.academicYear,book.term].filter(Boolean).join(" "));
+      return (!query||haystack.includes(query))&&(!stage||bookStageOf(book)===stage)&&(!grade||book.grade===grade)&&(!subject||book.subject===subject)&&(!year||book.academicYear===year)&&(!term||book.term===term)&&
+        (activeBookKind==="all"||bookKindOf(book)===activeBookKind);
+    });
+    items.sort((a,b)=>sort==="price"?(Number(a.price||0)-Number(b.price||0)):sort==="price-desc"?(Number(b.price||0)-Number(a.price||0)):String(a.title||"").localeCompare(String(b.title||""),"ar"));
+    const shown=items.slice(0,bookVisibleLimit);
     container.replaceChildren();
-    items.forEach(book=>{
+    shown.forEach(book=>{
       const card=element("article","book-card generic-product-card");
-      card.append(element("span","book-category",book.teacher||book.series||"كتاب خارجي"));
-      appendProductVisual(card,{...book,name:book.title,category:book.subject});
-      card.append(element("h3","",book.title));
-      if(book.author)card.append(element("p","book-author","المؤلف: "+book.author));
-      if(book.category==="كتب الوزارة")card.append(element("p","book-price","مجاني – من موقع الوزارة"));else if(Number.isFinite(book.price))card.append(element("p","book-price",book.price.toLocaleString("en-US")+" جنيه"));if(book.priceStatus)card.append(element("small","phone-price-status",book.priceStatus));
-      card.append(element("p","book-store","المصدر: "+book.merchant));
-
-      const link=element("a","book-source","عرض الكتاب لدى المصدر");link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
-      if(book.legalPdfUrl){const pdf=element("a","book-pdf","فتح نسخة إلكترونية مرخّصة");pdf.href=book.legalPdfUrl;pdf.target="_blank";pdf.rel="noopener noreferrer";card.append(pdf);}
-      else card.append(element("small","book-pdf-unavailable",book.pdfStatus||"لا يتوفر PDF مجاني مرخّص تم التحقق منه"));
+      const kindLabels={ministry:"كتاب الوزارة",teacher:"كتاب مدرس",school:"كتاب خارجي",general:"كتاب عام"};
+      const tags=[kindLabels[bookKindOf(book)],book.grade?bookGradeLabel(book.grade):"",book.subject,book.term].filter(Boolean);
+      card.append(element("span","book-category",tags.join(" · ")));
+      try{appendProductVisual(card,{...book,name:book.title,category:book.subject||book.category});}catch(_){}
+      card.append(element("h3","",book.title||"كتاب"));
+      if(book.teacher)card.append(element("p","book-author","المدرس: "+book.teacher));
+      else if(book.author)card.append(element("p","book-author","المؤلف: "+book.author));
+      if(book.series)card.append(element("p","book-store","السلسلة: "+book.series));
+      if(book.academicYear)card.append(element("p","book-store","السنة الدراسية: "+book.academicYear));
+      if(book.category==="كتب الوزارة")card.append(element("p","book-price","مجاني – من موقع الوزارة"));
+      else if(Number.isFinite(Number(book.price))&&Number(book.price)>0)card.append(element("p","book-price",Number(book.price).toLocaleString("en-US")+" جنيه"));
+      if(book.priceStatus)card.append(element("small","phone-price-status",book.priceStatus));
+      if(book.merchant)card.append(element("p","book-store","المكتبة: "+book.merchant));
+      if(book.source&&/^https?:\/\//i.test(book.source)){
+        const link=element("a","book-source","عرض الكتاب لدى المصدر");link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
+      }
+      if(book.legalPdfUrl&&/^https?:\/\//i.test(book.legalPdfUrl)){
+        const pdf=element("a","book-pdf","فتح النسخة الإلكترونية الرسمية");pdf.href=book.legalPdfUrl;pdf.target="_blank";pdf.rel="noopener noreferrer";card.append(pdf);
+      }else card.append(element("small","book-pdf-unavailable",book.pdfStatus||"لا تتوفر نسخة إلكترونية مرخّصة مؤكدة"));
       container.append(card);
     });
-    updateCatalogMetrics(document.getElementById("bookCount"),items,items.length);
-    if(!items.length)container.append(element("p","catalog-footnote","لا توجد كتب مسجلة لهذا الاختيار حاليًا."));
+    document.getElementById("bookCount").textContent="عرض "+shown.length+" من "+items.length+" كتاب";
+    const more=document.getElementById("bookMore");
+    more.hidden=items.length<=shown.length;
+    more.textContent="عرض "+Math.min(24,items.length-shown.length)+" كتاب إضافي";
+    if(!items.length)container.append(element("p","catalog-footnote","لا توجد كتب مطابقة. جرّب تغيير المرحلة أو المادة أو كلمة البحث."));
   }
-  async function loadBooks(){
+  function loadBooks(){
     const container=document.getElementById("bookProducts");if(!container)return;
-    try{
-      const response=await fetch("./books.json",{cache:"no-cache"});if(!response.ok)throw new Error();
-      bookData=await response.json();
-      const grades=[...new Set(bookData.products.map(x=>x.grade).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"ar"));
-      fillBookOptions(bookGrade,grades,"اختر السنة الدراسية");
-      bookGrade.addEventListener("change",bookSelectionChanged);
-      bookSubject.addEventListener("change",bookSubjectChanged);
-      bookTeacher.addEventListener("change",()=>renderBooks(bookData));
-      ["bookSearch","bookSort"].forEach(id=>document.getElementById(id).addEventListener(id==="bookSearch"?"input":"change",()=>renderBooks(bookData)));
-    }catch(error){container.textContent="تعذر تحميل قائمة الكتب حاليًا.";}
+    fetch("./books.json",{cache:"no-cache"}).then(response=>{if(!response.ok)throw new Error("books fetch failed");return response.json();}).then(data=>{
+      bookData=data;
+      updateBookFilters();
+      renderBooks(bookData);
+      ["bookStage","bookGrade","bookSubject","bookYear","bookTerm"].forEach(id=>document.getElementById(id).addEventListener("change",()=>{
+        if(id==="bookStage")updateBookFilters();
+        else if(id==="bookGrade"){const prev=bookSubject.value;updateBookFilters();if(prev&&Array.from(bookSubject.options).some(o=>o.value===prev))bookSubject.value=prev;}
+        bookVisibleLimit=24;renderBooks(bookData);
+      }));
+      ["bookSearch","bookSort"].forEach(id=>document.getElementById(id).addEventListener(id==="bookSearch"?"input":"change",()=>{bookVisibleLimit=24;renderBooks(bookData);}));
+      document.querySelectorAll("[data-book-kind]").forEach(btn=>btn.addEventListener("click",()=>{
+        activeBookKind=btn.dataset.bookKind;bookVisibleLimit=24;
+        document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x===btn));
+        renderBooks(bookData);
+      }));
+      document.getElementById("bookReset").addEventListener("click",()=>{
+        document.getElementById("bookSearch").value="";bookStage.value="";activeBookKind="all";bookVisibleLimit=24;updateBookFilters();
+        document.getElementById("bookSort").value="name";
+        document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x.dataset.bookKind==="all"));
+        renderBooks(bookData);
+      });
+      document.getElementById("bookMore").addEventListener("click",()=>{bookVisibleLimit+=24;renderBooks(bookData);});
+    }).catch(()=>{container.textContent="تعذر تحميل قائمة الكتب حاليًا.";});
   }
   loadBooks();
 
