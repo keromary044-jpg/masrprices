@@ -1285,26 +1285,35 @@
       return;
     }
     rows.forEach(item=>{
-      const card=element("article","book-card generic-product-card");
-      const label=[item.brand,item.category].filter(Boolean).join(" · ");
-      if(label)card.append(element("span","book-category",label));
-      appendProductVisual(card,item);
-      card.append(element("h3","",item.name||item.title||"منتج"));
-      const price=item.price??item.priceEGP??item.priceFrom;
-      if(price!==null&&price!==undefined&&price!==""&&Number.isFinite(Number(price))&&Number(price)>0){
-        card.append(element("p","book-price",Number(price).toLocaleString("en-US")+" جنيه"));
+      try{
+        const card=element("article","book-card generic-product-card");
+        const label=[item.brand,item.category].filter(Boolean).join(" · ");
+        if(label)card.append(element("span","book-category",label));
+        try{appendProductVisual(card,item);}catch(_visualError){
+          card.append(element("div","catalog-image-label","صورة المنتج غير متاحة"));
+        }
+        card.append(element("h3","",item.name||item.title||"منتج"));
+        const price=item.price??item.priceEGP??item.priceFrom;
+        if(price!==null&&price!==undefined&&price!==""&&Number.isFinite(Number(price))&&Number(price)>0){
+          card.append(element("p","book-price",Number(price).toLocaleString("en-US")+" جنيه"));
+        }
+        if(item.unit||item.size)card.append(element("p","book-store","الوحدة / المقاس: "+(item.unit||item.size)));
+        if(item.details||item.description)card.append(element("p","catalog-footnote",item.details||item.description));
+        if(item.merchant)card.append(element("p","book-store","المتجر: "+item.merchant));
+        if(item.priceStatus)card.append(element("small","phone-price-status",item.priceStatus));
+        if(item.source&&/^https:\/\//i.test(item.source)){
+          const link=element("a","phone-source","مصدر المنتج");
+          link.href=item.source;link.target="_blank";link.rel="noopener noreferrer";
+          card.append(link);
+        }
+        try{addDatabaseComparison(card,item);}catch(_comparisonError){}
+        root.append(card);
+      }catch(_itemError){
+        const fallback=element("article","book-card generic-product-card");
+        fallback.append(element("h3","",item?.name||item?.title||"منتج"));
+        if(Number(item?.price)>0)fallback.append(element("p","book-price",Number(item.price).toLocaleString("en-US")+" جنيه"));
+        root.append(fallback);
       }
-      if(item.unit||item.size)card.append(element("p","book-store","الوحدة / المقاس: "+(item.unit||item.size)));
-      if(item.details||item.description)card.append(element("p","catalog-footnote",item.details||item.description));
-      if(item.merchant)card.append(element("p","book-store","المتجر: "+item.merchant));
-      if(item.priceStatus)card.append(element("small","phone-price-status",item.priceStatus));
-      if(item.source&&/^https:\/\//i.test(item.source)){
-        const link=element("a","phone-source","مصدر المنتج");
-        link.href=item.source;link.target="_blank";link.rel="noopener noreferrer";
-        card.append(link);
-      }
-      addDatabaseComparison(card,item);
-      root.append(card);
     });
   }
   async function loadGenericCatalog(key){
