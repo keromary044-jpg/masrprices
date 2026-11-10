@@ -732,15 +732,18 @@
   },
   {
     "id": "elx-0030",
-    "name": "TCL C645 QLED 55",
+    "name": "TCL C645 55-inch QLED 4K Smart TV",
     "category": "الشاشات والتلفزيونات",
     "brand": "TCL",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 21000,
+    "merchant": "مرجع أسعار السوق المصري (GehazTech)",
+    "source": "https://gehaztech.com/مميزات-و-عيوب-شاشة-شاومي-55-بوصة-سمارت/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نطاق سعري منشور للسوق المصري 21,000–23,500 جنيه بتاريخ 21 سبتمبر 2026؛ السعر المعروض في خانة price هو الحد الأدنى للنطاق وليس عرض متجر محدد.",
+    "note": "مرجع نطاق سعري، وليس سعر بيع مؤكدًا من تاجر بعينه؛ يُرجى تحديثه بعرض متجر قبل الشراء.",
+    "model": "55C645",
+    "priceMin": 21000,
+    "priceMax": 23500
   },
   {
     "id": "elx-0031",
@@ -912,15 +915,18 @@
   },
   {
     "id": "elx-0045",
-    "name": "Sony X90L 65",
+    "name": "Sony BRAVIA XR X90L 65-inch 4K Full Array LED Google TV",
     "category": "الشاشات والتلفزيونات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 55000,
+    "merchant": "مرجع أسعار السوق المصري (GehazTech)",
+    "source": "https://gehaztech.com/مميزات-و-عيوب-شاشة-سوني-65-بوصة-سمارت/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نطاق سعري منشور لفئة Sony X90L 65 في مصر 55,000–72,000 جنيه؛ السعر في خانة price هو الحد الأدنى وليس عرض متجر محددًا.",
+    "note": "مرجع نطاق سعري بتاريخ سبتمبر 2026، وليس سعرًا مؤكدًا لدى بائع بعينه؛ يلزم التحقق من عرض حالي.",
+    "model": "XR-65X90L",
+    "priceMin": 55000,
+    "priceMax": 72000
   },
   {
     "id": "elx-0046",
