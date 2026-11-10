@@ -2791,6 +2791,83 @@
       "source": "https://www.carrefouregypt.com/mafegy/en/c/30513",
       "checkedAt": "2026-11-10",
       "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-philips-14w-e27-white-nov10",
+      "name": "لمبة Philips Essential LED 14 وات E27 أبيض",
+      "category": "إضاءة",
+      "brand": "Philips",
+      "price": 139,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-philips-14w-yellow-2pack-nov10",
+      "name": "لمبتان Philips Essential LED 14 وات أصفر",
+      "category": "إضاءة",
+      "brand": "Philips",
+      "price": 269,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-philips-9w-4pack-nov10",
+      "name": "عبوة 4 لمبات Philips LED 9 وات دافئ",
+      "category": "إضاءة",
+      "brand": "Philips",
+      "price": 210,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-ilock-extension-3m-nov10",
+      "name": "وصلة كهرباء iLock بطول 3 متر",
+      "category": "وصلات ومقابس",
+      "brand": "iLock",
+      "price": 289,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-powerlock-extension-10m-nov10",
+      "name": "وصلة كهرباء Power Lock بطول 10 أمتار",
+      "category": "وصلات ومقابس",
+      "brand": "Power Lock",
+      "price": 649,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-giza-power-cable-computer-nov10",
+      "name": "كابل كهرباء Giza للكمبيوتر",
+      "category": "كابلات",
+      "brand": "Giza",
+      "price": 70,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010201",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-giza-tv-wire-30yards-nov10",
+      "name": "سلك تلفزيون Giza بطول 30 ياردة",
+      "category": "كابلات",
+      "brand": "Giza",
+      "price": 269,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010201",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
     }
   ],
   "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
