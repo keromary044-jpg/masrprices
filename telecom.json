@@ -400,12 +400,13 @@
     "name": "شرائح اتصال مسبقة الدفع",
     "category": "شرائح وخطوط",
     "brand": "e& Egypt",
-    "unit": "خط جديد",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    "unit": "خط eSIM جديد شامل الضريبة",
+    "price": 350,
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/pages/services/eSIM_en.html",
+    "checkedAt": "2026-11-10",
+    "details": "رسوم خط eSIM جديد لدى e&: 350 جنيهًا شاملة ضريبة القيمة المضافة ورسوم التنمية؛ السعر يخص eSIM وليس كل أنواع الشرائح.",
+    "priceStatus": "official_provider_tariff"
   },
   {
     "id": "telecom-راوتر-منزلي-4g-we-جهاز",
@@ -503,12 +504,13 @@
     "name": "خدمات الشركات والإنترنت المخصص",
     "category": "اتصالات الشركات",
     "brand": "شركات الاتصالات",
-    "unit": "حسب التعاقد",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    "unit": "شهريًا (بداية باقة شركات)",
+    "price": 80,
+    "merchant": "e& Business",
+    "source": "https://www.etisalatbusiness.eg/web/EBU-Portal/en/solutions/mobile/mobile-internet-plans/",
+    "checkedAt": "2026-11-10",
+    "details": "بداية باقات Business Pro للشركات من 80 جنيهًا شهريًا؛ خدمات الإنترنت المخصص تختلف حسب التعاقد.",
+    "priceStatus": "official_starting_price"
   },
   {
     "id": "catalog-telecom-0001",
@@ -1477,8 +1479,13 @@
     "name": "خدمة تحويل رصيد – خدمة عامة",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0.2,
+    "details": "رسوم تحويل الرصيد في WE تساوي 2% من المبلغ بحد أدنى 20 قرشًا؛ السعر مرجع منشور وليس تعريفة موحدة لكل الشركات.",
+    "unit": "حد أدنى للرسوم أو 2% من المبلغ",
+    "merchant": "WE",
+    "source": "https://www.te.eg/en/web/guest/w/balance-transfer-1",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0076",
@@ -1498,48 +1505,78 @@
     "name": "خدمة دفع فاتورة – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0,
+    "details": "خدمة سداد الفواتير متاحة عبر القنوات الرقمية؛ لا توجد رسوم موحدة منشورة للخدمة ذاتها، وقد يفرض مقدم الدفع رسومًا.",
+    "unit": "رسوم عبر التطبيق/القنوات الرقمية (تختلف حسب وسيلة الدفع)",
+    "merchant": "Vodafone Egypt",
+    "source": "https://web.vodafone.com.eg/en/services",
+    "priceStatus": "digital_payment_service",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0078",
     "name": "خدمة دفع فاتورة – Orange",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0,
+    "details": "سداد الفواتير متاح عبر قنوات Orange الرقمية؛ رسوم وسيلة الدفع الخارجية قد تختلف.",
+    "unit": "رسوم عبر التطبيق/القنوات الرقمية (تختلف حسب وسيلة الدفع)",
+    "merchant": "Orange Egypt",
+    "source": "https://www.orange.eg/en/services",
+    "priceStatus": "digital_payment_service",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0079",
     "name": "خدمة دفع فاتورة – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0,
+    "details": "سداد الفواتير متاح عبر القنوات الرقمية؛ رسوم وسيلة الدفع الخارجية قد تختلف.",
+    "unit": "رسوم عبر التطبيق/القنوات الرقمية (تختلف حسب وسيلة الدفع)",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/pages/services.html",
+    "priceStatus": "digital_payment_service",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0080",
     "name": "خدمة دفع فاتورة – خدمة عامة",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0,
+    "details": "يمكن سداد الفواتير من القنوات الرسمية دون رسوم خدمة إضافية من شركة الاتصالات؛ قد تفرض جهة الدفع رسومًا.",
+    "unit": "رسوم خدمة الشركة قبل رسوم مقدم الدفع",
+    "merchant": "شركات الاتصالات",
+    "source": "https://www.te.eg/en/web/guest/pay-bill",
+    "priceStatus": "official_service_fee",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0081",
     "name": "خدمة تجوال دولي – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 6,
+    "details": "تعريفة استقبال المكالمات أثناء التجوال 6 جنيهات للدقيقة وفق التغييرات المنشورة لبعض أنظمة RED؛ تختلف حسب النظام والدولة.",
+    "unit": "للدقيقة المستقبلة ضمن خطط RED المحددة",
+    "merchant": "Vodafone Egypt",
+    "source": "https://web.vodafone.com.eg/en/international-roaming-rates",
+    "priceStatus": "official_roaming_rate",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0082",
     "name": "خدمة تجوال دولي – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 6,
+    "details": "تعريفة استقبال المكالمات أثناء التجوال 6 جنيهات للدقيقة وفق التغييرات المنشورة لبعض أنظمة RED؛ تختلف حسب النظام والدولة.",
+    "unit": "للدقيقة المستقبلة ضمن خطط RED المحددة",
+    "merchant": "Vodafone Egypt",
+    "source": "https://web.vodafone.com.eg/en/international-roaming-rates",
+    "priceStatus": "official_roaming_rate",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0083",
@@ -1559,32 +1596,52 @@
     "name": "خدمة تجوال دولي – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 800,
+    "details": "سعر باقة Mega Voice and Data الأسبوعية 800 جنيه في الدول المحددة بالمصدر؛ تحقق من الدولة والضرائب قبل الاشتراك.",
+    "unit": "باقة تجوال أسبوعية",
+    "merchant": "e& Egypt",
+    "source": "https://yapsim.com/en/roaming-prices",
+    "priceStatus": "published_roaming_bundle",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0085",
     "name": "خدمة تجوال دولي – خدمة عامة",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 60,
+    "details": "باقة تجوال يومية منشورة بسعر 60 جنيهًا لبعض الوجهات؛ الأسعار تختلف حسب الدولة والباقة والضريبة.",
+    "unit": "باقة تجوال يومية",
+    "merchant": "WE",
+    "source": "https://www.te.eg/en/web/guest/w/roaming-1",
+    "priceStatus": "official_roaming_bundle",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0086",
     "name": "خدمة رقم مميز – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 1,
+    "details": "رسوم الرقم المفضل في نظام الو: جنيه واحد شهريًا لكل رقم مفضل، بحد أقصى 3 أرقام.",
+    "unit": "شهريًا لكل رقم مفضل",
+    "merchant": "Orange Egypt",
+    "source": "https://shop.orange.eg/ar/tariff-plans/alo",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0087",
     "name": "خدمة رقم مميز – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 1,
+    "details": "خدمة إرسال طلب إشحنلي من فضلك إلى السعودية والكويت وفرنسا تكلف 50 قرشًا؛ تمثل سعر الخدمة المحددة وليس كل الأرقام المميزة.",
+    "unit": "رسالة دولية لطلب إشحنلي من فضلك",
+    "merchant": "Vodafone Egypt",
+    "source": "https://web.vodafone.com.eg/ar/international-balance-transfer",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0088",
@@ -1628,64 +1685,104 @@
     "name": "خدمة رسائل نصية – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0.25,
+    "details": "أقل تكلفة منشورة للرسالة في باقات E-SMS للشركات 25 قرشًا للرسالة ضمن باقة 75 جنيهًا مقابل 300 رسالة؛ ليست تعريفة SMS شخصية.",
+    "unit": "للرسالة ضمن باقة E-SMS للشركات",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/StaticFiles/portal/etisalat/pages/corporate/Esms.html",
+    "priceStatus": "official_business_sms_rate",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0093",
     "name": "خدمة رسائل نصية – Orange",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0.25,
+    "details": "سعر مرجعي لخدمة رسائل الشركات E-SMS لدى e&: 25 قرشًا للرسالة في باقة البداية؛ ليس سعر رسالة Orange الشخصية.",
+    "unit": "للرسالة ضمن باقة E-SMS للشركات",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/StaticFiles/portal/etisalat/pages/corporate/Esms.html",
+    "priceStatus": "reference_business_sms_rate",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0094",
     "name": "خدمة رسائل نصية – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0.25,
+    "details": "أقل تكلفة منشورة للرسالة في باقات E-SMS للشركات 25 قرشًا للرسالة ضمن باقة 75 جنيهًا مقابل 300 رسالة.",
+    "unit": "للرسالة ضمن باقة E-SMS للشركات",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/StaticFiles/portal/etisalat/pages/corporate/Esms.html",
+    "priceStatus": "official_business_sms_rate",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0095",
     "name": "خدمة رسائل نصية – خدمة عامة",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0.25,
+    "details": "سعر مرجعي منشور لخدمة رسائل الشركات E-SMS لدى e&: 25 قرشًا للرسالة ضمن باقة البداية؛ الأسعار الشخصية تختلف.",
+    "unit": "للرسالة ضمن باقة E-SMS للشركات",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/StaticFiles/portal/etisalat/pages/corporate/Esms.html",
+    "priceStatus": "reference_business_sms_rate",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0096",
     "name": "خدمة بريد صوتي – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0,
+    "details": "خدمة البريد الصوتي من Vodafone مجانية، والاستماع للرسائل داخل مصر مجاني وفق صفحة الشركة.",
+    "unit": "اشتراك شهري",
+    "merchant": "Vodafone Egypt",
+    "source": "https://web.vodafone.com.eg/en/voice-mail",
+    "priceStatus": "official_free_service",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0097",
     "name": "خدمة بريد صوتي – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0,
+    "details": "خدمة البريد الصوتي من Vodafone مجانية، والاستماع للرسائل داخل مصر مجاني وفق صفحة الشركة.",
+    "unit": "اشتراك شهري",
+    "merchant": "Vodafone Egypt",
+    "source": "https://web.vodafone.com.eg/en/voice-mail",
+    "priceStatus": "official_free_service",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0098",
     "name": "خدمة بريد صوتي – Orange",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0,
+    "details": "لا يوجد اشتراك شهري للبريد الصوتي لدى e&؛ الاستماع إلى الرسائل عبر 4448 يكلف 19 قرشًا للدقيقة.",
+    "unit": "اشتراك شهري",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/StaticFiles/portal/etisalat/pages/services/voice_mail.html",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0099",
     "name": "خدمة بريد صوتي – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 0,
+    "details": "لا يوجد اشتراك شهري للبريد الصوتي لدى e&؛ الاستماع إلى الرسائل عبر 4448 يكلف 19 قرشًا للدقيقة.",
+    "unit": "اشتراك شهري",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/StaticFiles/portal/etisalat/pages/services/voice_mail.html",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0100",
