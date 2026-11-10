@@ -3386,12 +3386,12 @@
     "name": "Nikon D7500",
     "category": "كاميرات وعدسات",
     "brand": "Nikon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 79899,
+    "merchant": "iMedia Stores / PriceTeq",
+    "source": "https://priceteq.com/eg/shop/940?cat=camera",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج لدى المتجر",
+    "note": "السعر لكاميرا Nikon D7500 مع عدسة 18-140 VR Kit."
   },
   {
     "id": "elx-0246",
@@ -3566,12 +3566,12 @@
     "name": "Sony FE 24-105mm",
     "category": "كاميرات وعدسات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 39999,
+    "merchant": "CameraShop Egypt",
+    "source": "https://camerashop.com.eg/product/sony-fe-24-105mm-f-4-g-oss-lens/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر لعدسة Sony FE 24-105mm f/4 G OSS بضمان محلي 12 شهرًا."
   },
   {
     "id": "elx-0261",
@@ -3590,12 +3590,12 @@
     "name": "Fujifilm X-T30 II",
     "category": "كاميرات وعدسات",
     "brand": "Fujifilm",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 44999,
+    "merchant": "Mogitech",
+    "source": "https://mogi-tech.com/product/fujifilm-x-t30-ii-mirrorless-camera-silver/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر منشور",
+    "note": "السعر لنسخة Fujifilm X-T30 II Silver Body Only."
   },
   {
     "id": "elx-0263",
@@ -3614,12 +3614,12 @@
     "name": "Fujifilm X100VI",
     "category": "كاميرات وعدسات",
     "brand": "Fujifilm",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 84999,
+    "merchant": "General Group",
+    "source": "https://general.eg/product/fujifilm-x100vi-digital-camera/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور 84,999 جنيه؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0265",
@@ -3650,12 +3650,12 @@
     "name": "GoPro HERO12 Black",
     "category": "كاميرات وعدسات",
     "brand": "GoPro",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 18999,
+    "merchant": "Masrawy Store",
+    "source": "https://masrawystore.com/shop/gopro-hero12-black-waterproof-action-camera/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر المنشور 18,999 جنيه مع ضمان سنة حسب المتجر."
   },
   {
     "id": "elx-0268",
@@ -3782,12 +3782,12 @@
     "name": "Insta360 Ace Pro",
     "category": "كاميرات وعدسات",
     "brand": "Insta360",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 26520,
+    "merchant": "Amazon Egypt (via Pricena)",
+    "source": "https://eg.pricena.com/en/brands/insta360",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Amazon Egypt",
+    "note": "السعر لكاميرا Insta360 Ace Pro؛ تحقق من الباقة والمرفقات قبل الشراء."
   },
   {
     "id": "elx-0279",
