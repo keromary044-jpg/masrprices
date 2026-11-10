@@ -147,17 +147,27 @@
     </section>
 
     <section class="container section book-catalog" id="bookCatalog" hidden>
-      <h2>الكتب والروايات</h2>
-      <p>عناوين وأسعار رصدناها من متاجر مصرية. السعر مرتبط بالطبعة والمتجر وقد يتغير؛ افتح المصدر قبل الشراء.</p>
-      <div class="book-stepper">
-        <label>١. السنة الدراسية<select id="bookGrade" aria-label="اختر السنة الدراسية"><option value="">اختر السنة الدراسية</option></select></label>
-        <label id="bookSubjectStep" hidden>٢. المادة الدراسية<select id="bookSubject" aria-label="اختر المادة"><option value="">اختر المادة</option></select></label>
-        <label id="bookTeacherStep" hidden>٣. المدرس أو سلسلة الكتاب<select id="bookTeacher" aria-label="اختر المدرس أو سلسلة الكتاب"><option value="">اختر المدرس أو السلسلة</option></select></label>
+      <div class="book-catalog-head"><div><span class="catalog-eyebrow">مكتبة MasrPrices التعليمية</span><h2>اختار كتابك بسهولة</h2><p>ابحث باسم الكتاب أو المادة أو المدرس، ثم صفِّ النتائج حسب المرحلة والصف ونوع الكتاب.</p></div><span class="catalog-section-icon" aria-hidden="true">📚</span></div>
+      <div class="book-search-main"><input id="bookSearch" type="search" placeholder="اكتب اسم الكتاب أو المادة أو المدرس أو السلسلة..." aria-label="ابحث في كل الكتب"><span>مثال: المعاصر إنجليزي، علوم متكاملة، مستر خالد صقر</span></div>
+      <div class="book-filter-tabs" role="group" aria-label="نوع الكتب">
+        <button type="button" class="book-filter-tab is-active" data-book-kind="all">كل الكتب</button>
+        <button type="button" class="book-filter-tab" data-book-kind="school">كتب دراسية</button>
+        <button type="button" class="book-filter-tab" data-book-kind="teacher">كتب المدرسين</button>
+        <button type="button" class="book-filter-tab" data-book-kind="ministry">كتب الوزارة</button>
+        <button type="button" class="book-filter-tab" data-book-kind="general">كتب وروايات عامة</button>
       </div>
-      <div class="book-tools"><input id="bookSearch" type="search" placeholder="ابحث داخل الكتب..." aria-label="البحث في الكتب"><select id="bookSort" aria-label="ترتيب الكتب"><option value="name">الاسم أبجديًا</option><option value="price">السعر من الأقل</option></select></div>
-      <p id="bookCount" class="catalog-footnote" aria-live="polite"></p>
-      <div id="bookProducts" class="book-grid" aria-live="polite">اختر السنة الدراسية لعرض المواد.</div>
-      <p class="catalog-footnote">الأسعار المعروضة أسعار رصد وقت إعداد البيانات وليست تحديثًا لحظيًا. اختلاف الطبعة أو الشحن قد يغيّر السعر النهائي.</p>
+      <div class="book-filter-panel">
+        <label>المرحلة التعليمية<select id="bookStage"><option value="">كل المراحل</option><option value="prep">المرحلة الإعدادية</option><option value="secondary">المرحلة الثانوية</option><option value="general">كتب عامة</option></select></label>
+        <label>الصف الدراسي<select id="bookGrade" aria-label="الصف الدراسي"><option value="">كل الصفوف</option></select></label>
+        <label>المادة<select id="bookSubject" aria-label="المادة الدراسية"><option value="">كل المواد</option></select></label>
+        <label>السنة الدراسية<select id="bookYear" aria-label="السنة الدراسية"><option value="">كل السنوات</option></select></label>
+        <label>الفصل الدراسي<select id="bookTerm" aria-label="الفصل الدراسي"><option value="">كل الفصول</option></select></label>
+        <label>ترتيب النتائج<select id="bookSort" aria-label="ترتيب الكتب"><option value="name">الاسم أبجديًا</option><option value="price">السعر من الأقل</option><option value="price-desc">السعر من الأعلى</option></select></label>
+      </div>
+      <div class="book-results-bar"><p id="bookCount" class="catalog-footnote" aria-live="polite"></p><button type="button" id="bookReset" class="book-reset">مسح كل الاختيارات</button></div>
+      <div id="bookProducts" class="book-grid" aria-live="polite">جارٍ تحميل الكتب...</div>
+      <button type="button" id="bookMore" class="book-more" hidden>عرض كتب أكثر</button>
+      <p class="catalog-footnote">الأسعار مرتبطة بالطبعة والمتجر وتاريخ الرصد وليست تحديثًا لحظيًا. كتب الوزارة قد تكون مجانية عبر موقع الوزارة الرسمي.</p>
     </section>
 
 
