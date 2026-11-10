@@ -1418,12 +1418,12 @@
     "name": "Dell E2423H 24",
     "category": "شاشات الكمبيوتر",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5499,
+    "merchant": "Ennap Egypt",
+    "source": "https://priceteq.com/eg/shop/717?cat=monitor&page=1",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور ومتاح وقت التحقق عبر PriceTeq",
+    "note": "Dell E2423H 24-inch؛ السعر بالجنيه المصري، وقد يتغير."
   },
   {
     "id": "elx-0087",
@@ -1490,12 +1490,13 @@
     "name": "Samsung Essential S3 24",
     "category": "شاشات الكمبيوتر",
     "brand": "Samsung",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4249,
+    "merchant": "Arab Business Egypt",
+    "source": "https://priceteq.com/eg/product/789877d2-7436-4236-accf-88792d783aa2",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "أقل سعر منشور بين 9 متاجر مصرية وقت التحقق",
+    "note": "Samsung Essential S3 S32GF مقاس 24 بوصة؛ السعر بالجنيه المصري.",
+    "model": "Samsung S32GF / LS24F320GAUXEN"
   },
   {
     "id": "elx-0093",
@@ -2803,12 +2804,12 @@
     "name": "HP LaserJet Pro M404dn",
     "category": "طابعات وماسحات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6250,
+    "merchant": "Kcsstore",
+    "source": "https://ijmali.app/o/3510106/printer-hp-laserjet-pro-m404dn",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر متجر منشور؛ مذكور أنه متاح بالمخزون وقت التحقق",
+    "note": "HP LaserJet Pro M404dn؛ السعر شامل الضرائب والشحن حسب صفحة المقارنة."
   },
   {
     "id": "elx-0200",
@@ -2863,12 +2864,12 @@
     "name": "HP ScanJet Pro 2600 f1",
     "category": "طابعات وماسحات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12999,
+    "merchant": "Elhamd Store",
+    "source": "https://elhamdstore.com/product-category/printers-scanners/?orderby=price-desc&product_brand=hp",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في قائمة المتجر؛ التوفر يحتاج تأكيدًا",
+    "note": "HP ScanJet Pro 2600 f1 (20G05A)."
   },
   {
     "id": "elx-0205",
@@ -3949,12 +3950,12 @@
     "name": "Sony PlayStation 5 Pro",
     "category": "أجهزة الألعاب",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 64000,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/device?order=ASC&page=3&sort=p.model",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور لنسخة جديدة بضمان سنة",
+    "note": "Sony PlayStation 5 Pro 2TB TRA Digital Edition."
   },
   {
     "id": "elx-0293",
@@ -4011,12 +4012,12 @@
     "name": "Microsoft Xbox Series S 1TB",
     "category": "أجهزة الألعاب",
     "brand": "Microsoft",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23860,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/device?order=ASC&page=3&sort=p.model",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور لنسخة جديدة",
+    "note": "Xbox Series S 1TB Carbon Black."
   },
   {
     "id": "elx-0298",
@@ -4071,12 +4072,12 @@
     "name": "Nintendo Switch Lite",
     "category": "أجهزة الألعاب",
     "brand": "Nintendo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10378,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/device?order=ASC&page=3&sort=p.model",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور لنسخة جديدة؛ السعر المعروض للون Coral Pink",
+    "note": "Nintendo Switch Lite 32GB؛ السعر يختلف حسب اللون والإصدار."
   },
   {
     "id": "elx-0303",
