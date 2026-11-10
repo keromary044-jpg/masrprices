@@ -421,3 +421,9 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .market-source-link{font-size:.85rem;font-weight:800;color:#1d5d91;white-space:nowrap}
 .market-data-stamp{font-size:.78rem;color:#8491a2;margin:10px 2px 0}
 @media(max-width:390px){.market-quote-grid{grid-template-columns:1fr}.market-quote-card{padding:14px}.market-quote-price{font-size:1rem}}
+
+/* Foreign currency search */
+.currency-search-label{display:block;margin:16px 0 7px;font-weight:800;color:#18395f}
+.currency-search-input{display:block;width:100%;min-height:52px;padding:12px 16px;border:1px solid #cbd8e7;border-radius:14px;background:#fff;color:#12385e;font:inherit;box-sizing:border-box;outline-offset:2px}
+.currency-search-input:focus{border-color:#27649a;box-shadow:0 0 0 3px rgba(39,100,154,.12)}
+.currency-count{margin:10px 2px;color:#64748b;font-size:.9rem;font-weight:700}
