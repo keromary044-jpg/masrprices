@@ -2734,6 +2734,63 @@
       "checkedAt": "2026-11-09",
       "priceStatus": "market_observation",
       "details": "نحاس مجدول معزول PVC أخضر/أصفر 450/750 فولت؛ الموصل فقط، 27 أكتوبر 2026؛ توريد فقط ما لم يذكر خلاف ذلك، ولا يشمل التركيب."
+    },
+    {
+      "id": "elec-elsewedy-9w-3pack-nov10",
+      "name": "لمبة ليد السويدي 9 وات – 3 قطع",
+      "category": "إضاءة",
+      "brand": "Elsewedy",
+      "price": 185,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير",
+      "details": "السعر لعبوة 3 لمبات."
+    },
+    {
+      "id": "elec-elsewedy-12w-3pack-nov10",
+      "name": "لمبة ليد السويدي 12 وات – 3 قطع",
+      "category": "إضاءة",
+      "brand": "Elsewedy",
+      "price": 189,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير",
+      "details": "السعر لعبوة 3 لمبات."
+    },
+    {
+      "id": "elec-tape-10m-nov10",
+      "name": "شريط عزل كهربائي 10 متر × 19 مم",
+      "category": "مستلزمات كهربائية",
+      "brand": "غير محدد",
+      "price": 20,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050900",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-powerlock-tape-20m-nov10",
+      "name": "شريط عزل كهربائي Power Lock – 20 متر",
+      "category": "مستلزمات كهربائية",
+      "brand": "Power Lock",
+      "price": 50,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050900",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-giza-triple-extension-nov10",
+      "name": "وصلة كهرباء جيزة ثلاثية",
+      "category": "وصلات ومقابس",
+      "brand": "Giza",
+      "price": 70,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/30513",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
     }
   ],
   "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
