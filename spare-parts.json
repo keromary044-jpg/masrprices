@@ -250,15 +250,17 @@
     },
     {
       "id": "spare-parts-فلتر-هواء-لهيونداي-إلنترا-hyundai-قطعة",
-      "name": "فلتر هواء لهيونداي إلنترا",
+      "name": "فلتر هواء هيونداي إلنترا (0986AF0255)",
       "category": "فلاتر",
-      "brand": "Hyundai",
+      "brand": "Aftermarket",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 220,
+      "merchant": "Alwarsha",
+      "source": "https://alwarsha.heliopoliscore.com/en/parts",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور لفلتر هواء إلنترا؛ راجع سنة الصنع ورقم القطعة للتوافق.",
+      "model": "Hyundai Elantra",
+      "partNumber": "0986AF0255"
     },
     {
       "id": "spare-parts-فلتر-زيت-لكيا-سيراتو-kia-قطعة",
@@ -300,15 +302,17 @@
     },
     {
       "id": "spare-parts-تيل-فرامل-خلفي-لتويوتا-كورولا-toyota-طقم",
-      "name": "تيل فرامل خلفي لتويوتا كورولا",
+      "name": "تيل فرامل أمامي أصلي تويوتا كورولا (04465-02220)",
       "category": "فرامل",
       "brand": "Toyota",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 950,
+      "merchant": "Alwarsha",
+      "source": "https://alwarsha.heliopoliscore.com/en/parts",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور لتيل فرامل أمامي كورولا؛ تم تصحيح الاسم من خلفي إلى أمامي ليتطابق مع المنتج المنشور.",
+      "model": "Toyota Corolla",
+      "partNumber": "04465-02220"
     },
     {
       "id": "spare-parts-تيل-فرامل-أمامي-لنيسان-صني-nissan-طقم",
@@ -398,15 +402,17 @@
     },
     {
       "id": "spare-parts-مساعد-أمامي-لنيسان-صني-nissan-قطعة",
-      "name": "مساعد أمامي لنيسان صني",
+      "name": "مساعد أمامي يمين نيسان صني (334402)",
       "category": "تعليق وعفشة",
-      "brand": "Nissan",
+      "brand": "Aftermarket",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 1450,
+      "merchant": "Alwarsha",
+      "source": "https://alwarsha.heliopoliscore.com/en/parts",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور لمساعد أمامي يمين؛ يلزم التأكد من سنة وموديل السيارة.",
+      "model": "Nissan Sunny",
+      "partNumber": "334402"
     },
     {
       "id": "spare-parts-مساعد-أمامي-لهيونداي-إلنترا-hyundai-قطعة",
