@@ -436,25 +436,27 @@
     "id": "telecom-خدمة-نقل-ملكية-خط-محمول-شركات-المحمول-حسب-الشروط",
     "name": "خدمة نقل ملكية خط محمول",
     "category": "خدمات الاتصالات",
-    "brand": "شركات المحمول",
-    "unit": "حسب الشروط",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    "brand": "WE",
+    "unit": "رسوم خدمة",
+    "price": 25,
+    "merchant": "WE",
+    "source": "https://te.eg/en/about-te/faq",
+    "checkedAt": "2026-11-10",
+    "details": "رسوم نقل ملكية خط WE وفق صفحة الأسئلة الشائعة الرسمية؛ تختلف الرسوم بين الشركات.",
+    "priceStatus": "official_provider_tariff"
   },
   {
     "id": "telecom-خدمة-استبدال-شريحة-sim-شركات-المحمول-حسب-الشروط",
     "name": "خدمة استبدال شريحة SIM",
     "category": "خدمات الاتصالات",
-    "brand": "شركات المحمول",
-    "unit": "حسب الشروط",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+    "brand": "WE",
+    "unit": "رسوم خدمة",
+    "price": 5,
+    "merchant": "WE",
+    "source": "https://te.eg/en/about-te/faq",
+    "checkedAt": "2026-11-10",
+    "details": "رسوم استبدال شريحة WE وفق صفحة الأسئلة الشائعة الرسمية؛ لا تمثل تعريفة باقي الشركات.",
+    "priceStatus": "official_provider_tariff"
   },
   {
     "id": "telecom-خدمة-esim-شركات-المحمول-حسب-دعم-الجهاز",
@@ -822,8 +824,13 @@
     "name": "خط موبايل جديد – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 81.23,
+    "details": "السعر الرسمي لخط WE جديد شامل الضرائب وفق صفحة الأسئلة الشائعة.",
+    "unit": "خط جديد شامل الضرائب",
+    "merchant": "WE",
+    "source": "https://te.eg/en/about-te/faq",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0032",
@@ -862,32 +869,52 @@
     "name": "شريحة eSIM – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 270,
+    "details": "رسوم تحويل شريحة WE التقليدية إلى eSIM نحو 270 جنيهًا؛ الشريحة الجديدة نحو 330 جنيهًا.",
+    "unit": "بدءًا من",
+    "merchant": "WE",
+    "source": "https://www.egypttelegraph.com/article/97837/قيم-متقاربة-أسعار-الشريحة-الإلكترونية-لدى-شركات",
+    "priceStatus": "provider_fee_reported",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0037",
     "name": "شريحة eSIM – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 300,
+    "details": "رسوم تحويل الشريحة إلى eSIM نحو 300 جنيه؛ الشريحة الجديدة نحو 350 جنيهًا.",
+    "unit": "بدءًا من",
+    "merchant": "Vodafone Egypt",
+    "source": "https://www.egypttelegraph.com/article/97837/قيم-متقاربة-أسعار-الشريحة-الإلكترونية-لدى-شركات",
+    "priceStatus": "provider_fee_reported",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0038",
     "name": "شريحة eSIM – Orange",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 300,
+    "details": "رسوم تحويل الشريحة الفعلية إلى eSIM نحو 300 جنيه؛ الشريحة الجديدة 350 جنيهًا وفق صفحة Orange.",
+    "unit": "بدءًا من",
+    "merchant": "Orange Egypt",
+    "source": "https://www.orange.eg/en/services/esim",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0039",
     "name": "شريحة eSIM – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 300,
+    "details": "رسوم تحويل الشريحة إلى eSIM نحو 300 جنيه؛ الشريحة الجديدة نحو 365 جنيهًا.",
+    "unit": "بدءًا من",
+    "merchant": "e& Egypt",
+    "source": "https://www.egypttelegraph.com/article/97837/قيم-متقاربة-أسعار-الشريحة-الإلكترونية-لدى-شركات",
+    "priceStatus": "provider_fee_reported",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0040",
