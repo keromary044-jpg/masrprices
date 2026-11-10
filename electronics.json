@@ -1950,12 +1950,12 @@
     "name": "HP Pavilion 15-eg",
     "category": "لابتوبات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 31975,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://elghazawy.com/ar/product/38074270274793/HP-laptop-Pavilion-15-EG0100NE%2C-11th-Gen%2C-Intel-Core-i5-1135G7-%2C-8GB-RAM%2C-512GB-SSD-Hard-Disk%2C-NVIDIA-GeForce-MX350-2GB-Graphics-%2C-15-Inch-HD-Touch-Display%2C-DOS%2C-Silver",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_out_of_stock",
+    "note": "آخر سعر منشور للنسخة HP Pavilion 15-EG0100NE بمعالج i5-1135G7 وذاكرة 8GB وSSD 512GB؛ غير متوفرة وقت الرصد."
   },
   {
     "id": "elx-0131",
