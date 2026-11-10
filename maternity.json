@@ -500,37 +500,53 @@
       "name": "حافظة حليب – صغير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 320,
+      "details": "طقم 4 زجاجات حفظ حليب. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Bubbles 4 Breast Milk Storage Bottles 150ml.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo",
+      "merchant": "Alraya Store",
+      "source": "https://alraya-store.com/زجاجات-تخزين-حليب-الام-لحفظ-اللبن-4زجا/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "حافظة حليب – متوسط",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 850,
+      "details": "طقم 4 حاويات تخزين حليب. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Mamajoo 4x Breastmilk Storage Containers 150ml.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+      "merchant": "Cecil Egypt",
+      "source": "https://cecilegypt.com/products/4x-breastmilk-baby-food-storage-containers-set-150-ml",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "حافظة حليب – كبير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 1600,
+      "details": "طقم زجاجات حفظ الحليب. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Lansinoh Breastmilk Storage Bottles 4 x 160ml.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+      "merchant": "Baby Care Egypt",
+      "source": "https://babycare-eg.com/product-category/milk-storage-bags-and-bottles/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "حافظة حليب – طقم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 850,
+      "details": "طقم تخزين حليب. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Mamajoo 4x Breastmilk Storage Containers 150ml.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo",
+      "merchant": "Cecil Egypt",
+      "source": "https://cecilegypt.com/products/4x-breastmilk-baby-food-storage-containers-set-150-ml",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "جهاز تعقيم رضاعات – صغير",
@@ -852,29 +868,45 @@
       "name": "ميزان أطفال – صغير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 700,
+      "details": "ميزان أطفال رقمي Medizana. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Medizana Digital Baby Scale.",
+      "merchant": "Abdin Pharmacies",
+      "source": "https://abdinpharmacies.com/shop/90710-medizana-digital-baby-scale-35693",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "ميزان أطفال – متوسط",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1350,
+      "details": "ميزان أطفال رقمي Omega. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Omega Baby Digital Scale.",
+      "merchant": "Exir Medical",
+      "source": "https://store.exirmedical.com/product/omega-baby-digital-weighing-scale/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "ميزان أطفال – كبير",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1560,
+      "details": "ميزان أطفال رقمي Granzia. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Granzia Delicato Digital Baby Scale.",
+      "merchant": "Ali Ben Ali Medical",
+      "source": "https://alibenalimedical.com/product/delicato-digital-baby-scale/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "ميزان أطفال – طقم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 2599,
+      "details": "ميزان أطفال رقمي Granzia Genio. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Granzia Genio Digital Baby Scale.",
+      "merchant": "Granzia Egypt",
+      "source": "https://granzia.com/en/scales/genio/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "غطاء رضاعة",
@@ -915,8 +947,12 @@
       "name": "منظم حقيبة الأم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 780,
+      "details": "منظم عربة أطفال يمكن استخدامه لتنظيم مستلزمات الأم والطفل. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Mamas Gift Stroller Organizer.",
+      "merchant": "Hedeya",
+      "source": "https://hedeya.com/collections/stroller-car-seat-accessories/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "علبة حفظ الحليب",
@@ -1006,10 +1042,14 @@
       "name": "حقيبة حفظ الحليب",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 270,
+      "details": "أكياس تخزين حليب 30 قطعة. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Granzia Casalatte Milk Storage Bags 30pcs.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Babyislandeg",
+      "source": "https://www.babyislandeg.com/shop/category/baby-care-time-3",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "مضخة رضاعة يدوية مزدوجة",
@@ -1022,15 +1062,23 @@
       "name": "مضخة رضاعة كهربائية محمولة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1750,
+      "details": "شفاط حليب كهربائي محمول. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: La Frutta Chargeable Portable Easy Flow Breast Pump.",
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/baby-products/feeding-16153/breastfeeding/breast-pumps/la_frutta/medela/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "طقم تخزين حليب",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 850,
+      "details": "طقم حاويات تخزين حليب. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Mamajoo 4x Breastmilk Storage Containers 150ml.",
+      "merchant": "Cecil Egypt",
+      "source": "https://cecilegypt.com/products/4x-breastmilk-baby-food-storage-containers-set-150-ml",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "حلمة رضاعة سيليكون",
@@ -1048,52 +1096,80 @@
       "name": "واقي حلمة رضاعة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 399,
+      "details": "طقم واقيات حلمة رضاعة. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: mamajoo Nipple Protectors Set with Sterilization & Storage Box.",
+      "merchant": "Cecil Egypt",
+      "source": "https://cecilegypt.com/collections/mamajoo",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "وسادات رضاعة قابلة للغسل",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 500,
+      "details": "وسادات ثدي قابلة للغسل 6 قطع. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: True Gold Washable Breast Pads 6 pcs.",
+      "merchant": "Otlobha",
+      "source": "https://otlobha.co/c/c-maternity-care",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "وسادات رضاعة للاستخدام الواحد",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 230,
+      "details": "فوط صدر/رضاعة 30 قطعة. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Granzia Vesto Breast Pads 30pcs.",
+      "merchant": "Babyislandeg",
+      "source": "https://www.babyislandeg.com/shop/category/baby-care-time-3",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "حزام دعم البطن",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 160,
+      "details": "حزام دعم البطن بعد الولادة. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: HEALTHY Postpartum Abdominal Belt.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "merchant": "Tay Pharmacies",
+      "source": "https://taypharmacies.com/product/828200/healthy-%D8%AD%D8%B2%D8%A7%D9%85-%D8%A8%D8%B7%D9%86-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D9%87-m",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "وسادة دعم الظهر",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 330,
+      "details": "وسادة دعم الذراع والظهر أثناء الرضاعة. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Arm Pillow.",
+      "merchant": "Hedeya",
+      "source": "https://hedeya.com/collections/breast-feeding/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "مشد دعم ما بعد الولادة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1400,
+      "details": "مشد دعم ما بعد الولادة. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Post-partum Belt (Corset).",
+      "merchant": "Bumpzy",
+      "source": "https://bumpzy1.com/collections/postpartum-essentials",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "حقيبة مستلزمات الأم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 2700,
+      "details": "بوكس مستلزمات الأم والطفل للمستشفى. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Pink Mother & Baby Hospital Bag Box.",
+      "merchant": "Tobay",
+      "source": "https://tobay.co/collections/hospital-sets",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "منشفة أمومة",
@@ -1106,17 +1182,25 @@
       "name": "روب رضاعة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1200,
+      "details": "طقم روب للأم والطفل. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Mommy & Baby Robe Set.",
+      "merchant": "MOMĒRA",
+      "source": "https://momera-egypt.com/collections/all",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "بلوزة رضاعة",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج.",
+      "price": 550,
+      "details": "بلوزة رضاعة بدون أكمام. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Mamina Sleeveless Nursing Top.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 14:51 Cairo",
+      "merchant": "Mamina",
+      "source": "https://mamina-eg.com/collections/nursing-care",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "فستان رضاعة",
@@ -1129,22 +1213,34 @@
       "name": "غطاء عربة أطفال",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 770,
+      "details": "غطاء مقعد سيارة وعربة أطفال 2 في 1. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: 2-in-1 Car Seat & Stroller Cover.",
+      "merchant": "My Little World",
+      "source": "https://mylittleworld.shop/products/carseat-cover",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "غطاء مقعد سيارة للرضع",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 540,
+      "details": "غطاء مقعد سيارة للرضع. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Car Seat Cover Prince.",
+      "merchant": "Hedeya",
+      "source": "https://hedeya.com/collections/stroller-car-seat-accessories/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "منظم عربة أطفال",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الأمومة",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 780,
+      "details": "منظم عربة أطفال. سعر منشور لمنتج محدد مماثل في الفئة، وليس ضمانًا لتطابق الموديل أو المقاس المدرج في اسم الكتالوج. الموديل المرجعي: Mamas Gift Stroller Organizer.",
+      "merchant": "Hedeya",
+      "source": "https://hedeya.com/collections/stroller-car-seat-accessories/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "market_reference_price"
     },
     {
       "name": "حافظة مستلزمات الرضيع",
