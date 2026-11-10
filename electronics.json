@@ -3494,24 +3494,24 @@
     "name": "Sony A6400",
     "category": "كاميرات وعدسات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 63250,
+    "merchant": "Shams Stores",
+    "source": "https://shams-stores.com/brands/sony/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون حسب صفحة المتجر",
+    "note": "Sony Alpha A6400 Mirrorless Camera Kit مع عدسة 16-50mm."
   },
   {
     "id": "elx-0255",
     "name": "Sony A6700",
     "category": "كاميرات وعدسات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 70200,
+    "merchant": "DMT Stores Egypt",
+    "source": "https://www.dmt-stores.com/ar/collections/cameras",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على كتالوج المتجر؛ المنتج معروض للشراء",
+    "note": "Sony a6700 Mirrorless Camera مع ضمان سنتين حسب المتجر."
   },
   {
     "id": "elx-0256",
@@ -3578,12 +3578,12 @@
     "name": "Fujifilm X-S20",
     "category": "كاميرات وعدسات",
     "brand": "Fujifilm",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 88400,
+    "merchant": "DMT Stores Egypt",
+    "source": "https://priceteq.com/eg/shop/772?cat=camera",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كتالوج متجر مصري يتم تحديثه يوميًا",
+    "note": "Fujifilm X-S20 مع عدسة 16-50mm f/2.8-4.8."
   },
   {
     "id": "elx-0262",
@@ -3602,12 +3602,12 @@
     "name": "Fujifilm X-T5",
     "category": "كاميرات وعدسات",
     "brand": "Fujifilm",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 95000,
+    "merchant": "DMT Stores Egypt",
+    "source": "https://priceteq.com/eg/shop/772?cat=camera",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كتالوج متجر مصري يتم تحديثه يوميًا",
+    "note": "Fujifilm X-T5 مع عدسة 16-50mm."
   },
   {
     "id": "elx-0264",
@@ -3686,12 +3686,12 @@
     "name": "DJI Osmo Pocket 3",
     "category": "كاميرات وعدسات",
     "brand": "DJI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 25000,
+    "merchant": "Camera Shop Egypt",
+    "source": "https://camerashop.com.eg/product-category/cameras/?orderby=price&per_page=24&shop_view=list",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون حسب صفحة المتجر",
+    "note": "DJI Osmo Pocket 3 Standard Edition."
   },
   {
     "id": "elx-0271",
@@ -3710,12 +3710,12 @@
     "name": "DJI Osmo Action 5 Pro",
     "category": "كاميرات وعدسات",
     "brand": "DJI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 27000,
+    "merchant": "Camera Shop Egypt",
+    "source": "https://camerashop.com.eg/product-category/cameras/?orderby=price&per_page=24&shop_view=list",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون حسب صفحة المتجر",
+    "note": "DJI Osmo Action 5 Pro Adventure Combo."
   },
   {
     "id": "elx-0273",
