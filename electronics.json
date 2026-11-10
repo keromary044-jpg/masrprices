@@ -1275,15 +1275,16 @@
   },
   {
     "id": "elx-0075",
-    "name": "Skyworth 4K UHD 55",
+    "name": "Skyworth 55-inch 4K Google TV",
     "category": "الشاشات والتلفزيونات",
     "brand": "Skyworth",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 109900,
+    "merchant": "AH Market",
+    "source": "https://www.ahmarket.com/ar/electronics/tv/skyworth-tv",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مدرج في صفحة المتجر بقيمة 109,900 جنيه؛ تحقق من الموديل الدقيق والتوفر قبل الشراء.",
+    "note": "السجل الأصلي كان وصفًا عامًا Skyworth 4K UHD 55؛ تم ربطه بإدراج المتجر المطابق للحجم ودقة 4K، دون ادعاء رقم موديل غير منشور.",
+    "model": "Skyworth 55-inch 4K Google TV (retailer listing)"
   },
   {
     "id": "elx-0076",
@@ -2536,15 +2537,16 @@
   },
   {
     "id": "elx-0177",
-    "name": "Dell Alienware Aurora R16",
+    "name": "Dell Alienware Aurora R16 Gaming Desktop i9-13900K/32GB/2TB/RTX 4060 Ti",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 189446,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/JHI3JGO6C-alienware-aurora-r16-gaming-desktop-computer-intel-core-i9-13900k-24-core-up-to-5-80-ghz-32gb-ram-2tb-nvme-ssd-geforce-rtx-4060ti-8gb-gddr6",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر معروض في Ubuy Egypt؛ الشحن والجمارك غير مشمولين ويُحسبان عند الدفع؛ مستورد.",
+    "note": "تم تحديد سجل Aurora R16 بالتهيئة المطابقة المعروضة: i9-13900K و32GB و2TB وRTX 4060 Ti.",
+    "model": "Aurora R16, i9-13900K, 32GB RAM, 2TB SSD, RTX 4060 Ti"
   },
   {
     "id": "elx-0178",
@@ -2632,15 +2634,16 @@
   },
   {
     "id": "elx-0185",
-    "name": "Lenovo Legion Tower 5",
+    "name": "Lenovo Legion Tower 5 Gen 8 Ryzen 5 7600/16GB/1TB/RTX 4060 Ti (Open Box)",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 36500,
+    "merchant": "SQUADRIG",
+    "source": "https://squadrig.com/products/lenovo-legion-tower-5-ryzen-5-7600-rtx-4060ti-16gb-1tb",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر 36,500 جنيه لقطعة Open Box Grade A؛ المنتج متاح وقت الرصد.",
+    "note": "السعر لحالة Open Box وليس جديدًا مغلقًا؛ تم توضيح الحالة حتى لا يُفهم كسعر الجهاز الجديد.",
+    "model": "Legion Tower 5 Gen 8, Ryzen 5 7600, 16GB DDR5, 1TB SSD, RTX 4060 Ti"
   },
   {
     "id": "elx-0186",
