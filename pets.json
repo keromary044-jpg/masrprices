@@ -3780,5 +3780,115 @@
     "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
     "checkedAt": "2026-11-10",
     "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-drill-cat-food-1kg-nov10",
+    "name": "طعام قطط Drill جاف 1 كجم",
+    "category": "طعام قطط",
+    "brand": "Drill",
+    "price": 159.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-purina-felix-chicken-85-nov10",
+    "name": "كيس فراخ للقطط Purina Felix – 85 جم",
+    "category": "طعام قطط",
+    "brand": "Purina Felix",
+    "price": 49.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-friskies-junior-chicken-85-nov10",
+    "name": "طعام قطط Friskies Junior بالدجاج والمرق – 85 جم",
+    "category": "طعام قطط",
+    "brand": "Purina Friskies",
+    "price": 44.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-wondercat-litter-lavender-10kg-nov10",
+    "name": "رمل قطط Wonder Cat متكتل برائحة اللافندر – 10 كجم",
+    "category": "رمل قطط",
+    "brand": "Wonder Cat",
+    "price": 225.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-first1-litter-5kg-nov10",
+    "name": "رمل قطط First 1 – 5 كجم",
+    "category": "رمل قطط",
+    "brand": "First 1",
+    "price": 89.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-drill-adult-dog-1kg-nov10",
+    "name": "طعام كلاب Drill جاف 1 كجم",
+    "category": "طعام كلاب",
+    "brand": "Drill",
+    "price": 139.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-bungees-dog-treats-100g-nov10",
+    "name": "مكافآت كلاب Bungees بطعم الديك الرومي والموز – 100 جم",
+    "category": "مكافآت الحيوانات",
+    "brand": "Bungees",
+    "price": 149.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-carlito-wet-dog-400-nov10",
+    "name": "طعام كلاب Carlito رطب بنكهة اللحم – 400 جم",
+    "category": "طعام كلاب",
+    "brand": "Carlito",
+    "price": 95.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-drill-wet-cat-400-nov10",
+    "name": "طعام قطط Drill رطب بالجمبري – 400 جم",
+    "category": "طعام قطط",
+    "brand": "Drill",
+    "price": 90.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+  },
+  {
+    "id": "pet-wondercat-litter-clumping-6kg-nov10",
+    "name": "رمل قطط Wonder Cat متكتل – 6 كجم",
+    "category": "رمل قطط",
+    "brand": "Wonder Cat",
+    "price": 144.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1100000",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
   }
 ]
