@@ -1449,12 +1449,12 @@
     "name": "مصباح تدفئة للزواحف",
     "category": "مستلزمات الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 685,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Sobek Market",
+    "source": "https://sobekmarket.com/",
+    "checkedAt": "2026-11-10",
+    "note": "Luckyherp ceramic heat emitter؛ السعر يبدأ من 685 جنيه حسب الاختيار."
   },
   {
     "id": "pet-guide-104",
@@ -1473,12 +1473,12 @@
     "name": "مقياس حرارة ورطوبة",
     "category": "مستلزمات الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 200,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Nasser Pets Store",
+    "source": "https://nasserpetsstore.com/products/mkyas-hrar-ortob",
+    "checkedAt": "2026-11-10",
+    "note": "مقياس حرارة ورطوبة رقمي بشاشة LCD؛ السعر المنشور بعد الخصم."
   },
   {
     "id": "pet-guide-106",
@@ -1781,12 +1781,12 @@
     "name": "صندوق تبن للأرانب",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 2149,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Fruugo Egypt",
+    "source": "https://www.fruugo.eg/",
+    "checkedAt": "2026-11-10",
+    "note": "Rabbit Bunny Hay Feeder Cage Hay Rack؛ السعر المعروض على Fruugo شامل قائمة البيع، وقد يتغير حسب الشحن."
   },
   {
     "id": "pet-guide-131",
@@ -2545,12 +2545,12 @@
     "name": "ميزان طعام للحيوانات",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 350,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Ziggy Pupps",
+    "source": "https://ziggypupps.com/ar/products/digital-pet-food-measuring-scoop-scale-lcd-electronic-weight-scale-spoon-for-dog-and-cat-food",
+    "checkedAt": "2026-11-10",
+    "note": "Digital Pet Food Measuring Scoop Scale؛ السعر المنشور بعد الخصم."
   },
   {
     "id": "pet-guide-190",
@@ -2609,24 +2609,24 @@
     "name": "شبكة حماية للنافذة",
     "category": "مستلزمات عامة",
     "recordType": "supply",
-    "price": null,
+    "price": 1950,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Gridz Egypt",
+    "source": "https://gridzegypt.com/ar/",
+    "checkedAt": "2026-11-10",
+    "note": "شبك حماية نوافذ وبلكونات بالمتر المربع؛ السعر المنشور تقديري ويعتمد السعر النهائي على المقاس والتركيب."
   },
   {
     "id": "pet-guide-195",
     "name": "حاجز شرفة آمن للحيوانات",
     "category": "مستلزمات عامة",
     "recordType": "supply",
-    "price": null,
+    "price": 2100,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Gridz Egypt",
+    "source": "https://gridzegypt.com/ar/",
+    "checkedAt": "2026-11-10",
+    "note": "شبك حماية نافذة/بلكونة مقاس 120 سم؛ السعر المنشور، والتكلفة النهائية حسب المكان والتركيب."
   },
   {
     "id": "pet-guide-196",
