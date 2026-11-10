@@ -4999,6 +4999,48 @@
       "checkedAt": "2026-11-10",
       "priceStatus": "دليل الخدمات الضريبية الرسمي يذكر عدم وجود رسوم",
       "details": "تقديم مشكلة أو شكوى ضريبية عبر قنوات المصلحة الرسمية للحصول على الدعم الفني؛ لا توجد رسوم على استقبال الشكوى أو الرد."
+    },
+    {
+      "id": "digital-egypt-digital-identity-app-download-free-2026",
+      "name": "تحميل تطبيق الهوية الرقمية المصرية",
+      "category": "خدمات حكومية رقمية",
+      "brand": "وزارة الاتصالات وتكنولوجيا المعلومات",
+      "unit": "تطبيق",
+      "price": 0,
+      "currency": "EGP",
+      "merchant": "منظومة الهوية الرقمية المصرية",
+      "source": "https://mcit.gov.eg/Ar/Media_Center/Press_Room/Press_Releases/121620",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "وزارة الاتصالات تؤكد أن تحميل التطبيق مجاني",
+      "details": "تحميل تطبيق الهوية الرقمية المصرية مجاني من متجري Google Play وApp Store؛ لا يشمل الرسوم المستحقة على المعاملات الحكومية التي تُنفذ من خلال المنصة."
+    },
+    {
+      "id": "mol-employment-record-certificate-verification-free",
+      "name": "التحقق الإلكتروني من صحة شهادة القيد (كعب العمل)",
+      "category": "خدمات وزارة العمل الرقمية",
+      "brand": "وزارة العمل المصرية",
+      "unit": "عملية تحقق إلكتروني",
+      "price": 0,
+      "currency": "EGP",
+      "merchant": "منصة مصر الرقمية",
+      "source": "https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/100171",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "وزارة العمل تؤكد مجانية جميع خدماتها",
+      "details": "التحقق من صحة شهادة القيد الإلكترونية ضمن خدمات وزارة العمل الرقمية؛ لا توجد رسوم حكومية على الخدمة."
+    },
+    {
+      "id": "mol-employment-record-certificate-replacement-free",
+      "name": "استخراج بدل لشهادة القيد (كعب العمل)",
+      "category": "خدمات وزارة العمل الرقمية",
+      "brand": "وزارة العمل المصرية",
+      "unit": "شهادة بديلة",
+      "price": 0,
+      "currency": "EGP",
+      "merchant": "منصة مصر الرقمية",
+      "source": "https://mcit.gov.eg/en/Media_Center/Press_Room/Press_Releases/100171",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "وزارة العمل تؤكد مجانية جميع خدماتها",
+      "details": "استخراج بدل لشهادة القيد الإلكترونية ضمن الخدمات الرقمية لوزارة العمل؛ لا توجد رسوم حكومية على الخدمة."
     }
   ]
 }
