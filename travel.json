@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-10",
   "currency": "EGP",
   "notice": "دليل معلومات وروابط رسمية؛ أسعار التذاكر والفنادق والنقل تتغير حسب التاريخ والفئة، لذلك لا نعرض رقمًا غير متحقق. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "products": [
@@ -100,22 +100,26 @@
       "name": "كوم الدكة الأثري",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة الآثار الرسمية",
-      "details": "الموقع: الإسكندرية. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
-      "source": "https://egymonuments.gov.eg/archaeological-sites/",
-      "checkedAt": "2026-11-02"
+      "price": 20,
+      "merchant": "وزارة السياحة والآثار",
+      "details": "سعر التذكرة الرسمي للمصري: بالغ 20 جنيه، طالب 10 جنيه.",
+      "source": "https://egymonuments.gov.eg/archaeological-sites/kom-el-dikka/",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "official_reference",
+      "unit": "تذكرة بالغ مصري؛ الطالب 10 جنيه"
     },
     {
       "id": "travel-qubbat-al-hawa",
       "name": "مقابر قبة الهواء",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة الآثار الرسمية",
-      "details": "الموقع: أسوان. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
-      "source": "https://egymonuments.gov.eg/archaeological-sites/",
-      "checkedAt": "2026-11-02"
+      "price": 20,
+      "merchant": "وزارة السياحة والآثار",
+      "details": "مرجع قائمة الوزارة: المصري 20 جنيه، الطالب 10 جنيه؛ القائمة المنشورة مؤرخة 2024.",
+      "source": "https://www.mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "official_reference",
+      "unit": "تذكرة بالغ مصري؛ الطالب 10 جنيه"
     },
     {
       "id": "travel-elephantine",
@@ -133,22 +137,26 @@
       "name": "الكاب الأثرية",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة الآثار الرسمية",
-      "details": "الموقع: أسوان. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
-      "source": "https://egymonuments.gov.eg/archaeological-sites/",
-      "checkedAt": "2026-11-02"
+      "price": 20,
+      "merchant": "وزارة السياحة والآثار",
+      "details": "مرجع قائمة الوزارة: المصري 20 جنيه، الطالب 10 جنيه؛ القائمة المنشورة مؤرخة 2024.",
+      "source": "https://www.mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "official_reference",
+      "unit": "تذكرة بالغ مصري؛ الطالب 10 جنيه"
     },
     {
       "id": "travel-al-bahnasa",
       "name": "آثار البهنسا",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة الآثار الرسمية",
-      "details": "الموقع: المنيا. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
-      "source": "https://egymonuments.gov.eg/archaeological-sites/",
-      "checkedAt": "2026-11-02"
+      "price": 10,
+      "merchant": "وزارة السياحة والآثار",
+      "details": "مرجع قائمة الوزارة: المصري 10 جنيه، الطالب 5 جنيه؛ القائمة المنشورة مؤرخة 2024.",
+      "source": "https://www.mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "official_reference",
+      "unit": "تذكرة بالغ مصري؛ الطالب 5 جنيه"
     },
     {
       "id": "travel-graeco-roman",
@@ -166,11 +174,13 @@
       "name": "المتحف القومي بالسويس",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة الآثار الرسمية",
-      "details": "الموقع: السويس. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
-      "source": "https://egymonuments.gov.eg/museums/",
-      "checkedAt": "2026-11-02"
+      "price": 20,
+      "merchant": "وزارة السياحة والآثار",
+      "details": "مرجع قائمة الوزارة: المصري 20 جنيه، الطالب 10 جنيه؛ القائمة المنشورة مؤرخة 2024.",
+      "source": "https://www.mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "official_reference",
+      "unit": "تذكرة بالغ مصري؛ الطالب 10 جنيه"
     },
     {
       "id": "travel-military-museum",
@@ -191,11 +201,13 @@
       "name": "متحف النوبة",
       "category": "متاحف وآثار",
       "brand": "وزارة السياحة والآثار",
-      "price": null,
-      "merchant": "بوابة الآثار الرسمية",
-      "details": "الموقع: أسوان. سعر التذكرة ومواعيد الزيارة: راجع المصدر الرسمي قبل الزيارة.",
-      "source": "https://egymonuments.gov.eg/museums/",
-      "checkedAt": "2026-11-02"
+      "price": 30,
+      "merchant": "وزارة السياحة والآثار",
+      "details": "مرجع قائمة الوزارة: المصري 30 جنيه، الطالب 10 جنيه؛ القائمة المنشورة مؤرخة 2024.",
+      "source": "https://www.mota.gov.eg/media/5a2ja2iu/ticket-english-5-11-2024-1.pdf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "official_reference",
+      "unit": "تذكرة بالغ مصري؛ الطالب 10 جنيه"
     },
     {
       "id": "travel-crocodile",
