@@ -7135,24 +7135,24 @@
     "name": "EcoFlow River 2 Max",
     "category": "أجهزة الطاقة والشحن",
     "brand": "EcoFlow",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 40593,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/productuk/Q02PNL6ZY-ef-ecoflow-river-2-max-512wh",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر المعروض للاستيراد من المملكة المتحدة؛ الشحن والرسوم الإضافية قد تُحسب عند الدفع."
   },
   {
     "id": "elx-0552",
     "name": "EcoFlow Delta 2",
     "category": "أجهزة الطاقة والشحن",
     "brand": "EcoFlow",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23681,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/productuk/7HNB7S81S-ecoflow-delta-2-portable-power-station-with-1-3kwh-expandable-capacity-lfp-battery-fast-charging-use-as-a-solar-generator-for-home-backup-power",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر المعروض للاستيراد من المملكة المتحدة ولا يشمل الشحن والجمارك الإضافية."
   },
   {
     "id": "elx-0553",
@@ -7375,12 +7375,12 @@
     "name": "Casio FR-2650RC Calculator",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Casio",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 18661,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/68793053-casio-fr-2650rc-desktop-calculator-12-digit-lcd-digitron-screen",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر شامل الرسوم والضرائب حسب صفحة Desertcart؛ المنتج مستورد."
   },
   {
     "id": "elx-0572",
@@ -7411,12 +7411,12 @@
     "name": "Dymo LabelManager 160",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Dymo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6848,
+    "merchant": "RS Egypt",
+    "source": "https://eg.rsdelivers.com/product/dymo/2174450/dymo-labelmanager-160-handheld-label-printer-12-mm/7545018",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "التوفر غير مؤكد",
+    "note": "السعر بعد إضافة 14% ضريبة القيمة المضافة إلى السعر المنشور قبل الضريبة؛ التوفر مؤقتًا غير محدد."
   },
   {
     "id": "elx-0575",
