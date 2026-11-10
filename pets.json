@@ -1731,24 +1731,24 @@
     "name": "زجاجة مياه للقوارض",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 30,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Zoofood",
+    "source": "https://zoofood.online/product-category/rodants/rodents-rodants/",
+    "checkedAt": "2026-11-10",
+    "note": "زجاجة مياه هامستر مقاس S؛ السعر المنشور، والمنتج ظهر غير متوفر بالمخزون."
   },
   {
     "id": "pet-guide-127",
     "name": "معلف قوارض",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 64,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "SouqNile",
+    "source": "https://souqnile.com/category.php?lang=en&slug=pet_supplies&subcategory=small_animals",
+    "checkedAt": "2026-11-10",
+    "note": "طبق طعام ومياه معلق للقفص؛ السعر المنشور."
   },
   {
     "id": "pet-guide-128",
@@ -2337,12 +2337,12 @@
     "name": "رف حائط للقطط",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 700,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "S. Pets House",
+    "source": "https://s-petshouse.com/ar/collections/cat-collection",
+    "checkedAt": "2026-11-10",
+    "note": "رف حائط للقطط؛ السعر المنشور بعد الخصم."
   },
   {
     "id": "pet-guide-174",
@@ -2507,24 +2507,24 @@
     "name": "نافورة مياه للكلاب",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 780,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Land",
+    "source": "https://petsland-egy.com/collections/bowls-fountains",
+    "checkedAt": "2026-11-10",
+    "note": "نافورة مياه آلية مفلترة للقطط والكلاب؛ آخر سعر منشور، والمنتج ظهر غير متوفر."
   },
   {
     "id": "pet-guide-187",
     "name": "موزع طعام تلقائي",
     "category": "التغذية والشرب",
     "recordType": "supply",
-    "price": null,
+    "price": 300,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Land",
+    "source": "https://petsland-egy.com/collections/bowls-fountains",
+    "checkedAt": "2026-11-10",
+    "note": "موزع طعام جاف آلي للقطط والكلاب؛ آخر سعر منشور، والمنتج ظهر غير متوفر."
   },
   {
     "id": "pet-guide-188",
