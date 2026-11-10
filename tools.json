@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-10",
   "currency": "EGP",
   "notice": "أسعار منشورة في متاجر مصرية وقت الرصد؛ راجع المتجر لتأكيد السعر والتوافر. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "products": [
@@ -458,13 +458,14 @@
     },
     {
       "id": "tools-catalog-020",
-      "name": "ميزان مياه – مقاس صغير",
-      "category": "أدوات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "APT 40cm Spirit Level (2 Vials)",
+      "category": "أدوات قياس",
+      "price": 163.4,
+      "merchant": "Noon Egypt",
+      "source": "https://www.noon.com/egypt-en/p-303163/tools-and-home-improvement/measuring-and-layout-tools/levels/",
+      "checkedAt": "2026-11-10",
+      "brand": "APT",
+      "priceStatus": "سعر منشور على صفحة المتجر وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
     },
     {
       "id": "tools-catalog-021",
@@ -650,13 +651,14 @@
     },
     {
       "id": "tools-catalog-038",
-      "name": "حامل عدة – مقاس صغير",
-      "category": "أدوات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Port Bag Tool Box Ekono - 40 cm",
+      "category": "تخزين العدد",
+      "price": 629,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-10",
+      "brand": "Ekono",
+      "priceStatus": "سعر منشور على صفحة المتجر وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
     },
     {
       "id": "tools-catalog-039",
@@ -812,13 +814,14 @@
     },
     {
       "id": "tools-catalog-053",
-      "name": "مفك صليبة – مقاس متوسط",
-      "category": "أدوات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Giza Cross Screwdrivers",
+      "category": "عدد يدوية",
+      "price": 65,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-10",
+      "brand": "Giza",
+      "priceStatus": "سعر منشور على صفحة المتجر وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
     },
     {
       "id": "tools-catalog-054",
@@ -950,13 +953,14 @@
     },
     {
       "id": "tools-catalog-064",
-      "name": "شاكوش حدادة – مقاس متوسط",
-      "category": "أدوات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Elgiza Hammer - 500 gram",
+      "category": "عدد يدوية",
+      "price": 249,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051001",
+      "checkedAt": "2026-11-10",
+      "brand": "Elgiza",
+      "priceStatus": "سعر منشور على صفحة المتجر وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
     },
     {
       "id": "tools-catalog-065",
