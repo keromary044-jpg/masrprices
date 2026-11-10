@@ -1295,34 +1295,50 @@
   if(educationInstallments)educationInstallments.addEventListener("change",updateEducationCost);
   updateEducationCost();
 
-  // Remove standalone publication/check dates from product cards only.
-  function hideProductCardDates(root=document){
-    const cards=root.querySelectorAll?.(".phone-card,.book-card,.generic-product-card,.product-card,.catalog-product-card,.product-item,.market-product-card")||[];
-    const dateOnly=/^\\d{4}-\\d{2}-\\d{2}$/;
-    cards.forEach(card=>{
-      card.querySelectorAll("time,[class*='date'],[class*='Date'],[class*='updated'],[class*='Updated']").forEach(node=>{
-        if(dateOnly.test((node.textContent||"").trim())) node.remove();
-      });
-      const walker=document.createTreeWalker(card,NodeFilter.SHOW_TEXT);
-      const remove=[];
-      while(walker.nextNode()){
-        const node=walker.currentNode;
-        if(dateOnly.test((node.nodeValue||"").trim())) remove.push(node);
+  // Strip ISO dates such as 2026-11-07 from every rendered product card.
+  const productCardSelector='[id$="Products"] article,[id$="Catalog"] article,.book-grid article,.phone-grid article,.product-grid article,.catalog-grid article,.market-grid article,.book-card,.phone-card,.generic-product-card,.product-card,.catalog-product-card,.product-item,.market-product-card';
+  const isoDatePattern=/\b\d{4}-\d{2}-\d{2}\b/g;
+  const arabicDatePattern=/[٠-٩]{4}[-/][٠-٩]{1,2}[-/][٠-٩]{1,2}/g;
+  function stripDateText(card){
+    if(!card||card.nodeType!==Node.ELEMENT_NODE)return;
+    card.querySelectorAll("time,[class*='date'],[class*='Date'],[class*='updated'],[class*='Updated']").forEach(node=>{
+      const value=(node.textContent||"").trim();
+      if(/^\d{4}-\d{2}-\d{2}$/.test(value)||/^[٠-٩]{4}[-/][٠-٩]{1,2}[-/][٠-٩]{1,2}$/.test(value))node.remove();
+    });
+    const walker=document.createTreeWalker(card,NodeFilter.SHOW_TEXT);
+    const nodes=[];
+    while(walker.nextNode())nodes.push(walker.currentNode);
+    nodes.forEach(node=>{
+      const original=node.nodeValue||"";
+      const cleaned=original.replace(isoDatePattern,"").replace(arabicDatePattern,"").replace(/آخر\s*(?:تحديث|رصد)\s*:?/g,"").replace(/\s{2,}/g," ").trim();
+      if(cleaned!==original.trim()){
+        if(cleaned)node.nodeValue=cleaned;
+        else node.parentNode?.removeChild(node);
       }
-      remove.forEach(node=>node.remove());
     });
   }
-  hideProductCardDates();
+  function cleanProductDates(root=document){
+    if(root.nodeType===Node.ELEMENT_NODE&&root.matches?.(productCardSelector))stripDateText(root);
+    root.querySelectorAll?.(productCardSelector).forEach(stripDateText);
+    const parent=root.nodeType===Node.ELEMENT_NODE?root.closest?.(productCardSelector):null;
+    if(parent)stripDateText(parent);
+  }
+  cleanProductDates();
   const productDateObserver=new MutationObserver(records=>{
     records.forEach(record=>{
+      if(record.target.nodeType===Node.TEXT_NODE){
+        const card=record.target.parentElement?.closest(productCardSelector);
+        if(card)stripDateText(card);
+      }
       record.addedNodes.forEach(node=>{
-        if(node.nodeType===Node.ELEMENT_NODE){
-          if(node.matches?.(".phone-card,.book-card,.generic-product-card,.product-card,.catalog-product-card,.product-item,.market-product-card")) hideProductCardDates(node.parentElement||document);
-          else hideProductCardDates(node);
+        if(node.nodeType===Node.ELEMENT_NODE)cleanProductDates(node);
+        else if(node.nodeType===Node.TEXT_NODE){
+          const card=node.parentElement?.closest(productCardSelector);
+          if(card)stripDateText(card);
         }
       });
     });
   });
-  productDateObserver.observe(document.documentElement,{childList:true,subtree:true});
+  productDateObserver.observe(document.documentElement,{childList:true,subtree:true,characterData:true});
 
 })();
