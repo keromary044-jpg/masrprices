@@ -1156,12 +1156,12 @@
     "name": "JAC Smart TV 43",
     "category": "الشاشات والتلفزيونات",
     "brand": "JAC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10690,
+    "merchant": "Noon / Home.Tech",
+    "source": "https://www.noon.com/egypt-en/jac-smart-tv-43-inch-android-43jd6121f-fhd/Z9EB6D3F583970477F98EZ/p/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ وحدتان ظاهرتان بالمخزون",
+    "note": "JAC Smart TV 43-inch Android 43JD6121F FHD؛ السعر 10,690 جنيه."
   },
   {
     "id": "elx-0066",
@@ -4312,12 +4312,12 @@
     "name": "HyperX Alloy Origins Keyboard",
     "category": "أجهزة الألعاب",
     "brand": "HyperX",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4400,
+    "merchant": "Up To Date Store",
+    "source": "https://uptodate.store/brands/hyperx/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ In stock",
+    "note": "HyperX Alloy Origins PBT Mechanical Gaming Keyboard؛ نسخة PBT؛ السعر 4,400 جنيه."
   },
   {
     "id": "elx-0323",
@@ -6827,12 +6827,12 @@
     "name": "Ezviz H6c Camera",
     "category": "أجهزة المنزل الذكي",
     "brand": "Ezviz",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1600,
+    "merchant": "New Tech Egypt",
+    "source": "https://newtech-eg.com/en/collections/ezviz",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ In stock",
+    "note": "EZVIZ CS-H6C 3K Wi-Fi Camera؛ نسخة 3K؛ السعر 1,600 جنيه."
   },
   {
     "id": "elx-0527",
