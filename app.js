@@ -351,7 +351,7 @@
           panel.append(element("p","offer-savings-difference","توفير محتمل "+(highest.price-best.price).toLocaleString("en-US")+" جنيه مقارنة بأعلى عرض مسجل."));
         }
       }
-      panel.append(element("small","offer-disclaimer","الأسعار حسب آخر رصد موضح، وقد تتغير لدى المتجر."));
+      panel.append(element("small","offer-disclaimer","الأسعار إرشادية وقد تتغير لدى المتجر."));
     }
     button.addEventListener("click",async()=>{
       panel.hidden=!panel.hidden;if(panel.hidden)return;
@@ -847,7 +847,7 @@
       appendProductVisual(card,{...book,name:book.title,category:book.subject});
       card.append(element("h3","",book.title));
       if(book.author)card.append(element("p","book-author","المؤلف: "+book.author));
-      if(book.category==="كتب الوزارة")card.append(element("p","book-price","مجاني – من موقع الوزارة"));else if(Number.isFinite(book.price))card.append(element("p","book-price",book.price.toLocaleString("en-US")+" جنيه"));
+      if(book.category==="كتب الوزارة")card.append(element("p","book-price","مجاني – من موقع الوزارة"));else if(Number.isFinite(book.price))card.append(element("p","book-price",book.price.toLocaleString("en-US")+" جنيه"));if(book.priceStatus)card.append(element("small","phone-price-status",book.priceStatus));
       card.append(element("p","book-store","المصدر: "+book.merchant));
 
       const link=element("a","book-source","عرض الكتاب لدى المصدر");link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
@@ -882,7 +882,6 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.category,x.spec,x.unit].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     container.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.category));appendProductVisual(card,x);card.append(element("h3","",x.name));if(Number.isFinite(x.price))card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه / "+x.unit));card.append(element("p","",x.spec));card.append(element("small","book-date","آخر رصد: "+x.checkedAt+" · "+data.region));const link=element("a","book-source","تفاصيل المصدر");link.href=data.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);container.append(card);});
     const count=document.getElementById("constructionCount");if(count)updateCatalogMetrics(count,data.products,rows.length);
     if(!rows.length)container.append(element("p","catalog-footnote","لا توجد نتائج مطابقة."));
   }
@@ -1002,7 +1001,6 @@
     const rows=data.products.filter(x=>(!cat||x.category===cat)&&(!q||normalize([x.name,x.brand,x.category,x.spec].join(" ")).includes(q)));
     rows.sort((a,b)=>sort==="price"?((a.price??Infinity)-(b.price??Infinity)):a.name.localeCompare(b.name,"ar"));
     root.replaceChildren();
-    rows.forEach(x=>{const card=element("article","book-card");card.append(element("span","book-category",x.brand+" · "+x.category));appendProductVisual(card,x);card.append(element("h3","",x.name));if(Number.isFinite(x.price))card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه"));card.append(element("p","",x.spec));if(x.checkedAt)card.append(element("small","book-date","آخر تحديث للمصدر: "+x.checkedAt));if(x.source){const link=element("a","book-source",x.price==null?"معلومات عن السيارة":"مصدر السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}addDatabaseComparison(card,x);root.append(card);});
     const count=document.getElementById("carCount");if(count)updateCatalogMetrics(count,data.products,rows.length);
   }
   async function loadCars(){const root=document.getElementById("carProducts");if(!root)return;try{const res=await fetch("./cars.json",{cache:"no-cache"});if(!res.ok)throw new Error();carData=await res.json();const sel=document.getElementById("carCategory");[...new Set(carData.products.map(x=>x.category))].forEach(x=>{const o=element("option","",x);o.value=x;sel.append(o);});renderCars(carData);}catch(e){root.textContent="تعذر تحميل أسعار السيارات حاليًا.";}}
@@ -1042,7 +1040,6 @@
       card.append(element("h3","",x.name));
       if(Number.isFinite(Number(x.price))&&Number(x.price)>0)card.append(element("p","book-price",Number(x.price).toLocaleString("en-US")+" جنيه"));
       card.append(element("p","book-store","المتجر: "+x.merchant+" · الموديل: "+x.model));
-      card.append(element("small","book-date","آخر رصد: "+x.checkedAt));
       const link=element("a","book-source","راجع السعر لدى المتجر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
       root.append(card);
     });
@@ -1077,7 +1074,6 @@
       card.append(element("h3","",x.name));
       card.append(element("p","book-price",x.price.toLocaleString("en-US")+" جنيه"));
       card.append(element("p","book-store","العبوة: "+x.unit+" · المتجر: "+x.merchant));
-      card.append(element("small","book-date","آخر رصد: "+x.checkedAt));
       const link=element("a","book-source","فتح قائمة المتجر");link.href=data.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
       root.append(card);
     });
@@ -1112,7 +1108,6 @@
       card.append(element("h3","",x.name));
       if(Number.isFinite(x.priceFrom)&&Number.isFinite(x.priceTo))card.append(element("p","book-price",x.priceFrom===x.priceTo?x.priceFrom.toLocaleString("en-US")+" جنيه":x.priceFrom.toLocaleString("en-US")+"–"+x.priceTo.toLocaleString("en-US")+" جنيه"));
       card.append(element("p","book-store","الوحدة: "+x.unit));
-      card.append(element("small","book-date","آخر رصد: "+x.checkedAt+" · نطاق تقريبي منشور"));
       const link=element("a","book-source","مصدر نطاق السعر");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
       root.append(card);
     });
@@ -1152,7 +1147,6 @@
       if(x.size||x.unit)card.append(element("p","book-store","المقاس / الوحدة: "+(x.size||x.unit)));
       if(x.details||x.description)card.append(element("p","catalog-footnote",x.details||x.description));
       if(x.source&&/^https:\/\//i.test(x.source)){const link=element("a","phone-source","مصدر المنتج");link.href=x.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}
-      if(x.checkedAt)card.append(element("small","catalog-footnote","آخر رصد: "+x.checkedAt));
       addDatabaseComparison(card,x);root.append(card);
     });
     document.getElementById(cfg.count).textContent="عرض "+rows.length+" من "+data.products.length+" منتجًا";
