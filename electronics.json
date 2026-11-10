@@ -2696,15 +2696,16 @@
   },
   {
     "id": "elx-0190",
-    "name": "Apple Mac Pro",
+    "name": "Apple Mac Pro Intel Xeon W 8-Core/32GB/256GB SSD/Radeon Pro 580X",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 158000,
+    "merchant": "Smart Deal EG",
+    "source": "https://smartdealeg.com/product/mac-pro/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر المنشور 158,000 جنيه للتهيئة المحددة؛ يجب تأكيد التوفر والضمان مع المتجر.",
+    "note": "تم تحويل السجل العام Apple Mac Pro إلى التهيئة المحددة المنشورة لدى المتجر.",
+    "model": "Mac Pro 2019, 3.5GHz 8-core Xeon W, 32GB ECC, 256GB SSD, Radeon Pro 580X"
   },
   {
     "id": "elx-0191",
