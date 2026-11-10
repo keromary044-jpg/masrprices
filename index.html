@@ -147,24 +147,18 @@
     </section>
 
     <section class="container section book-catalog" id="bookCatalog" hidden>
-      <div class="book-catalog-head"><div><span class="catalog-eyebrow">مكتبة MasrPrices التعليمية</span><h2>اختار كتابك بسهولة</h2><p>ابحث باسم الكتاب أو المادة أو المدرس، ثم صفِّ النتائج حسب المرحلة والصف ونوع الكتاب.</p></div><span class="catalog-section-icon" aria-hidden="true">📚</span></div>
-      <div class="book-search-main"><div class="book-search-row"><input id="bookSearch" type="search" placeholder="اكتب اسم الكتاب أو المادة أو المدرس أو السلسلة..." aria-label="ابحث في كل الكتب"><button type="button" id="bookNovelsToggle" class="book-novels-toggle" aria-pressed="false">📖 الروايات</button></div><span>ابحث في الكتب التعليمية، أو اضغط «الروايات» لعرض الروايات والأدب فقط.</span></div>
-      <div class="book-filter-tabs" role="group" aria-label="نوع الكتب">
-        <button type="button" class="book-filter-tab is-active" data-book-kind="all">كل الكتب</button>
-        <button type="button" class="book-filter-tab" data-book-kind="school">كتب دراسية</button>
-        <button type="button" class="book-filter-tab" data-book-kind="teacher">كتب المدرسين</button>
-        <button type="button" class="book-filter-tab" data-book-kind="ministry">كتب الوزارة</button>
-        <button type="button" class="book-filter-tab" data-book-kind="general">كتب وروايات عامة</button>
+      <div class="book-catalog-head"><div><span class="catalog-eyebrow">مكتبة MasrPrices التعليمية</span><h2>اختار كتابك بسهولة</h2><p>ابحث مباشرة، ثم اختار نوع الكتاب. للكتب التعليمية يمكنك تحديد الصف والمادة فقط.</p></div><span class="catalog-section-icon" aria-hidden="true">📚</span></div>
+      <div class="book-search-main"><div class="book-search-row"><input id="bookSearch" type="search" placeholder="ابحث باسم الكتاب أو المادة أو المدرس..." aria-label="ابحث في كل الكتب"><button type="button" id="bookNovelsToggle" class="book-novels-toggle" aria-pressed="false">📖 الروايات</button></div><span>ابحث في الكتب التعليمية، أو اضغط «الروايات» لعرض الروايات والأدب فقط.</span></div>
+      <div class="book-simple-tabs" role="group" aria-label="اختار نوع الكتب">
+        <button type="button" class="book-simple-tab is-active" data-book-kind="all">كل الكتب</button>
+        <button type="button" class="book-simple-tab" data-book-kind="school">الكتب التعليمية</button>
+        <button type="button" class="book-simple-tab" data-book-kind="teacher">كتب المدرسين</button>
       </div>
-      <div class="book-filter-panel">
-        <label>المرحلة التعليمية<select id="bookStage"><option value="">كل المراحل</option><option value="prep">المرحلة الإعدادية</option><option value="secondary">المرحلة الثانوية</option><option value="general">كتب عامة</option></select></label>
-        <label>الصف الدراسي<select id="bookGrade" aria-label="الصف الدراسي"><option value="">كل الصفوف</option></select></label>
-        <label>المادة<select id="bookSubject" aria-label="المادة الدراسية"><option value="">كل المواد</option></select></label>
-        <label>السنة الدراسية<select id="bookYear" aria-label="السنة الدراسية"><option value="">كل السنوات</option></select></label>
-        <label>الفصل الدراسي<select id="bookTerm" aria-label="الفصل الدراسي"><option value="">كل الفصول</option></select></label>
-        <label>ترتيب النتائج<select id="bookSort" aria-label="ترتيب الكتب"><option value="name">الاسم أبجديًا</option><option value="price">السعر من الأقل</option><option value="price-desc">السعر من الأعلى</option></select></label>
+      <div class="book-simple-filters" id="bookSimpleFilters" hidden>
+        <label>الصف الدراسي<select id="bookGrade" aria-label="اختار الصف الدراسي"><option value="">كل الصفوف</option></select></label>
+        <label>المادة<select id="bookSubject" aria-label="اختار المادة"><option value="">كل المواد</option></select></label>
       </div>
-      <div class="book-results-bar"><p id="bookCount" class="catalog-footnote" aria-live="polite"></p><button type="button" id="bookReset" class="book-reset">مسح كل الاختيارات</button></div>
+      <div class="book-results-bar"><p id="bookCount" class="catalog-footnote" aria-live="polite"></p><button type="button" id="bookReset" class="book-reset">مسح البحث</button></div>
       <div id="bookProducts" class="book-grid" aria-live="polite">جارٍ تحميل الكتب...</div>
       <button type="button" id="bookMore" class="book-more" hidden>عرض كتب أكثر</button>
       <p class="catalog-footnote">الأسعار مرتبطة بالطبعة والمتجر وتاريخ الرصد وليست تحديثًا لحظيًا. كتب الوزارة قد تكون مجانية عبر موقع الوزارة الرسمي.</p>
