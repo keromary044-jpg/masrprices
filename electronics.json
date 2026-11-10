@@ -1577,15 +1577,16 @@
   },
   {
     "id": "elx-0099",
-    "name": "LG UltraGear 24GN60R",
+    "name": "LG UltraGear 24GN60R-B 24-inch FHD IPS 144Hz Gaming Monitor",
     "category": "شاشات الكمبيوتر",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 13323,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/CF8BYGY9M-lg-ultragear-24gn60r-b-24-inch-gaming-monitor-with-ips-display-1ms-gtg-144hz-hdr10-amd-freesync-premium-black",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر المعروض 13,323 جنيه؛ الشحن والجمارك غير مشمولين ويُحسبان عند الدفع؛ مستورد من الولايات المتحدة.",
+    "note": "مطابقة الموديل 24GN60R-B ومواصفات 24 بوصة FHD و144Hz؛ قد يتطلب محول جهد مناسب.",
+    "model": "24GN60R-B"
   },
   {
     "id": "elx-0100",
