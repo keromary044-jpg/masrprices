@@ -1850,15 +1850,16 @@
   },
   {
     "id": "elx-0122",
-    "name": "MSI Optix MAG342CQR",
+    "name": "MSI Optix MAG342CQR 34-inch 144Hz Curved Gaming Monitor",
     "category": "شاشات الكمبيوتر",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23105,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/ZEJKI6G-msi-optix-mag342cqr-1500r-curvature-21-9-aspect-ratio-narrow-bezel-1ms-3440-x-1440-uwqhd-144hz-refre",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر معروض في Ubuy Egypt؛ الشحن والجمارك غير مشمولين ويُحسبان عند إتمام الطلب؛ مستورد.",
+    "note": "مطابقة الموديل Optix MAG342CQR ومقاس 34 بوصة ومعدل 144Hz؛ السعر قبل الشحن والجمارك.",
+    "model": "Optix MAG342CQR"
   },
   {
     "id": "elx-0123",
@@ -4962,15 +4963,16 @@
   },
   {
     "id": "elx-0373",
-    "name": "Bowers & Wilkins Pi7 S2",
+    "name": "Bowers & Wilkins Pi7 S2 True Wireless Earbuds",
     "category": "سماعات ومكبرات صوت",
     "brand": "Bowers & Wilkins",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 121889,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/608248058-bowers-and-wilkins-pi7-s2-true-wireless-earbuds-midnight-blue",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر المعروض 121,889 جنيه شامل الرسوم والضرائب؛ المنتج متاح وقت الرصد.",
+    "note": "السعر لنسخة Pi7 S2 باللون Midnight Blue، وقد يتغير.",
+    "model": "Pi7 S2"
   },
   {
     "id": "elx-0374",
