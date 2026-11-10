@@ -2116,12 +2116,12 @@
     "name": "ASUS Vivobook 15 X1504",
     "category": "لابتوبات",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 34999,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://priceteq.com/eg/product/e294217c-4de4-4af9-b7bf-dd7d5e3c59f0",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ PriceTeq checked 7 Nov 2026",
+    "note": "ASUS VivoBook 15 X1504VA-BQNF857W؛ Core 7 150U / 8GB / 512GB SSD / 15.6-inch FHD؛ السعر 34,999 جنيه."
   },
   {
     "id": "elx-0144",
@@ -2152,12 +2152,12 @@
     "name": "ASUS ROG Strix G16",
     "category": "لابتوبات",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 84999,
+    "merchant": "2B Egypt",
+    "source": "https://priceteq.com/eg/product/a4e27342-9897-478c-9a4f-8d1fea4667b2",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ PriceTeq checked today",
+    "note": "ASUS ROG Strix G16 G614PH-RV659W؛ Ryzen 9 8940HX / 16GB / 512GB SSD / RTX 5050 8GB؛ السعر 84,999 جنيه."
   },
   {
     "id": "elx-0147",
