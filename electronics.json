@@ -4889,15 +4889,16 @@
   },
   {
     "id": "elx-0367",
-    "name": "Creative Stage Air V2",
+    "name": "Creative Stage Air V2 Compact Soundbar",
     "category": "سماعات ومكبرات صوت",
     "brand": "Creative",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3507,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/productde/IKFAK68FS-creative-stage-air-v2-compact-usb-under-monitor-soundbar-for-pc-with-bluetooth-5-3-dual-driver-and-passive-spotlight-up-to-6-hours-playtime",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر معروض في Ubuy Egypt؛ لا يشمل الشحن والجمارك وتُحسب عند إتمام الطلب؛ مستورد.",
+    "note": "السعر المنشور 3,507 جنيه للنسخة Creative Stage Air V2 موديل MF8395؛ يلزم احتساب الشحن والجمارك.",
+    "model": "MF8395"
   },
   {
     "id": "elx-0368",
