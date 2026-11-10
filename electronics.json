@@ -6671,12 +6671,12 @@
     "name": "Amazon Echo Pop",
     "category": "أجهزة المنزل الذكي",
     "brand": "Amazon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "price": 2593,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/index.php?manufacturer_id=157&route=product%2Fmanufacturer%2Finfo",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج للبيع",
+    "note": "السعر المنشور لسماعة Amazon Echo Pop؛ الصفحة تعرض ألوانًا متعددة.",
     "priceSearchAttempts": 1,
     "priceSearchLastAttempt": "2026-11-09 15:32 Cairo"
   },
@@ -6951,12 +6951,12 @@
     "name": "Aqara Door Sensor",
     "category": "أجهزة المنزل الذكي",
     "brand": "Aqara",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2910,
+    "merchant": "CleverOnline Egypt",
+    "source": "https://cleveronlineegypt.com/collections/smart-home/sensors",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر لحساس Aqara Door and Window Sensor P2؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0537",
@@ -7195,12 +7195,12 @@
     "name": "Bluetti AC180",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Bluetti",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 33881,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/deals/portable-power-station-solar-generator",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر المعروض لمحطة Bluetti AC180؛ المنتج مستورد وقد تُضاف رسوم شحن وجمارك حسب الدفع."
   },
   {
     "id": "elx-0557",
@@ -7483,12 +7483,12 @@
     "name": "Elgato Key Light Air",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Elgato",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6355,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/elgato-key-light-air-professional-1400-lumens-desk-light-for-streaming-broadcasting-home-office-and-video-conferencing-temperature-and-brightness-app-adjustable-on-mac-pc-ios-android",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لمصباح Elgato Key Light Air؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0581",
@@ -7543,12 +7543,12 @@
     "name": "Huion Inspiroy H640P",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Huion",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8750,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-ar/inspiroy-h640p-drawing-tablet-black/N45978218A/p/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مخزون منخفض",
+    "note": "السعر لتابلت الرسم Huion Inspiroy H640P؛ الصفحة تعرض قطعتين متبقيتين."
   },
   {
     "id": "elx-0586",
@@ -7567,12 +7567,12 @@
     "name": "Huion Kamvas 16",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Huion",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 35999,
+    "merchant": "Egypt Laptop (via PriceNa)",
+    "source": "https://eg.pricena.com/en/computers/brand/huion",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر لنسخة Huion Kamvas 16 Gen 3 QHD؛ صفحة المقارنة تعرض نفاد المخزون."
   },
   {
     "id": "elx-jac-32hd-32jc3110f-20261108",
