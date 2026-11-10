@@ -8,12 +8,12 @@
       "name": "إطار صيفي – 205/55 R16",
       "brand": "ماركات متعددة",
       "category": "إطارات ملاكي",
-      "price": null,
-      "priceStatus": "غير متحقق",
-      "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج.",
-      "merchant": null,
-      "source": null,
-      "checkedAt": null
+      "price": 2745,
+      "priceStatus": "market_reference_price",
+      "details": "مرجع سعري وسيط لمقاس 205/55 R16 في السوق المصري حسب مؤشر نوفمبر 2026؛ ليس سعرًا مؤكدًا لنفس الماركة أو المواصفة الموسمية.",
+      "merchant": "Shaheen Tire — مؤشر أسعار نوفمبر 2026",
+      "source": "https://www.shaheentire.com/price-index",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "BOTO 215/60 R17 Tire",
@@ -620,22 +620,34 @@
       "name": "إطار صيفي – 175/70 R13",
       "brand": "ماركات متعددة",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 1981.8,
+      "details": "مرجع سعري وسيط لمقاس 175/70 R13 في السوق المصري حسب مؤشر نوفمبر 2026؛ ليس سعرًا مؤكدًا لنفس الماركة أو المواصفة الموسمية.",
+      "priceStatus": "market_reference_price",
+      "merchant": "Shaheen Tire — مؤشر أسعار نوفمبر 2026",
+      "source": "https://www.shaheentire.com/price-index",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "إطار صيفي – 185/65 R15",
       "brand": "ماركات متعددة",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2542.9,
+      "details": "مرجع سعري وسيط لمقاس 185/65 R15 في السوق المصري حسب مؤشر نوفمبر 2026؛ ليس سعرًا مؤكدًا لنفس الماركة أو المواصفة الموسمية.",
+      "priceStatus": "market_reference_price",
+      "merchant": "Shaheen Tire — مؤشر أسعار نوفمبر 2026",
+      "source": "https://www.shaheentire.com/price-index",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "إطار صيفي – 195/65 R15",
       "brand": "ماركات متعددة",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2410,
+      "details": "مرجع سعري وسيط لمقاس 195/65 R15 في السوق المصري حسب مؤشر نوفمبر 2026؛ ليس سعرًا مؤكدًا لنفس الماركة أو المواصفة الموسمية.",
+      "priceStatus": "market_reference_price",
+      "merchant": "Shaheen Tire — مؤشر أسعار نوفمبر 2026",
+      "source": "https://www.shaheentire.com/price-index",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "Laufenn 205/55 R16 Tire",
@@ -659,8 +671,12 @@
       "name": "إطار صيفي – 225/45 R17",
       "brand": "ماركات متعددة",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3790,
+      "details": "مرجع سعري وسيط لمقاس 225/45 R17 في السوق المصري حسب مؤشر نوفمبر 2026؛ ليس سعرًا مؤكدًا لنفس الماركة أو المواصفة الموسمية.",
+      "priceStatus": "market_reference_price",
+      "merchant": "Shaheen Tire — مؤشر أسعار نوفمبر 2026",
+      "source": "https://www.shaheentire.com/price-index",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "إطار صيفي – 225/55 R17",
@@ -1013,5 +1029,5 @@
       "details": "سعر منشور في صفحة المنتج/المقاس بتاريخ 9 نوفمبر 2026: 2,533 جنيه مصري."
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-10"
 }
