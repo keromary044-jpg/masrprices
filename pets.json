@@ -1097,12 +1097,12 @@
     "name": "غذاء مجمد للأسماك",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 500,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "My Tank Scape",
+    "source": "https://mytankscape.com/shop/frozen-beef-heart-mix-discusx-nutriboast/",
+    "checkedAt": "2026-11-10",
+    "note": "DiscusX Nutriboast frozen beef-heart mix 500g؛ غذاء مجمد للديسكس، السعر المنشور."
   },
   {
     "id": "pet-guide-077",
@@ -1133,12 +1133,12 @@
     "name": "غذاء روبيان أحواض",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 125,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "My Tank Scape",
+    "source": "https://mytankscape.com/shop/royal-algea/",
+    "checkedAt": "2026-11-10",
+    "note": "Royal Algae sinking cubes 50g؛ غذاء لروبيان الزينة وأسماك القاع، السعر يبدأ من 125 جنيه."
   },
   {
     "id": "pet-guide-080",
@@ -1425,12 +1425,12 @@
     "name": "حوض زواحف زجاجي",
     "category": "مستلزمات الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 1500,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "My Tank Scape",
+    "source": "https://mytankscape.com/product-category/reptiles/",
+    "checkedAt": "2026-11-10",
+    "note": "حوض سلاحف مائية 50 سم بجزيرة وغطاء بلاستيكي؛ السعر المنشور بعد الخصم."
   },
   {
     "id": "pet-guide-102",
@@ -1461,12 +1461,12 @@
     "name": "مصباح UVB للزواحف",
     "category": "مستلزمات الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 500,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Sobek Market",
+    "source": "https://sobekmarket.com/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D8%B6%D8%A7%D8%A1%D8%A9-%D9%88-%D9%84%D9%85%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%B4%D8%B9%D8%A9/",
+    "checkedAt": "2026-11-10",
+    "note": "Nomoy Pet UVB Lamp 3%؛ السعر المنشور."
   },
   {
     "id": "pet-guide-105",
@@ -1485,12 +1485,12 @@
     "name": "طبق مياه للزواحف",
     "category": "مستلزمات الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 150,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Sobek Market",
+    "source": "https://sobekmarket.com/%D9%85%D8%B3%D8%AA%D9%84%D8%B2%D9%85%D8%A7%D8%AA-%D9%85%D8%AA%D9%86%D9%88%D8%B9%D8%A9/",
+    "checkedAt": "2026-11-10",
+    "note": "Snake Dish S؛ طبق مياه صغير للزواحف، السعر المنشور."
   },
   {
     "id": "pet-guide-107",
@@ -1509,12 +1509,12 @@
     "name": "فرشة أرضية للزواحف",
     "category": "مستلزمات الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 390,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Sobek Market",
+    "source": "https://sobekmarket.com/",
+    "checkedAt": "2026-11-10",
+    "note": "Cocopeat 2kg؛ فرشة/وسط أرضي طبيعي للتيراريوم، السعر المنشور."
   },
   {
     "id": "pet-guide-109",
@@ -2225,12 +2225,12 @@
     "name": "حاجز سيارة للحيوانات",
     "category": "السفر والأمان",
     "recordType": "supply",
-    "price": null,
+    "price": 6000,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Tuning Mania",
+    "source": "https://tuning-mania.com/accessories/interior-accessories/",
+    "checkedAt": "2026-11-10",
+    "note": "WeatherTech Pet Barrier؛ حاجز فصل للحيوانات داخل السيارة، السعر المنشور."
   },
   {
     "id": "pet-guide-165",
@@ -2427,12 +2427,12 @@
     "name": "بطانية للحيوانات",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 245,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "PetsEgypt",
+    "source": "https://petsegypt.com/product/auto-142e0357515542cdb61c8d710bc4443c",
+    "checkedAt": "2026-11-10",
+    "note": "Grey Flannel Soft Plush Paw Print Pet Blanket 60×40cm؛ السعر المنشور، متاح بالمخزون وقت التحقق."
   },
   {
     "id": "pet-guide-181",
