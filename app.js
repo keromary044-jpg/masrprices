@@ -1295,26 +1295,32 @@
   if(educationInstallments)educationInstallments.addEventListener("change",updateEducationCost);
   updateEducationCost();
 
-  // Strip ISO dates such as 2026-11-07 from every rendered product card.
+  // Remove update/check dates from every priced product card, including late-rendered cards.
   const productCardSelector='[id$="Products"] article,[id$="Catalog"] article,.book-grid article,.phone-grid article,.product-grid article,.catalog-grid article,.market-grid article,.book-card,.phone-card,.generic-product-card,.product-card,.catalog-product-card,.product-item,.market-product-card';
-  const isoDatePattern=/\b\d{4}-\d{2}-\d{2}\b/g;
-  const arabicDatePattern=/[٠-٩]{4}[-/][٠-٩]{1,2}[-/][٠-٩]{1,2}/g;
+  const dateTokenPattern=/(?:\\b\\d{4}[-/.]\\d{1,2}[-/.]\\d{1,2}\\b|\\b\\d{1,2}[-/.]\\d{1,2}[-/.]\\d{4}\\b|[٠-٩]{1,4}[-/.][٠-٩]{1,2}[-/.][٠-٩]{1,4}|\\b(?:Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:tember)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?)\\s+\\d{1,2},?\\s+\\d{4}\\b|\\d{1,2}\\s+(?:يناير|فبراير|مارس|أبريل|ابريل|مايو|يونيو|يوليو|أغسطس|اغسطس|سبتمبر|أكتوبر|اكتوبر|نوفمبر|ديسمبر)\\s+\\d{4})/gi;
+  const dateLabelPattern=/(?:آخر\\s*(?:تحديث|رصد)|تاريخ\\s*(?:التحديث|التسعير|الرصد|التحقق)|تم\\s*(?:التحديث|الرصد))\\s*[:：-]?/gi;
   function stripDateText(card){
     if(!card||card.nodeType!==Node.ELEMENT_NODE)return;
-    card.querySelectorAll("time,[class*='date'],[class*='Date'],[class*='updated'],[class*='Updated']").forEach(node=>{
+    card.querySelectorAll("time,[data-updated-at],[data-checked-at],[class*='date'],[class*='Date'],[class*='updated'],[class*='Updated'],[class*='checked'],[class*='Checked']").forEach(node=>{
       const value=(node.textContent||"").trim();
-      if(/^\d{4}-\d{2}-\d{2}$/.test(value)||/^[٠-٩]{4}[-/][٠-٩]{1,2}[-/][٠-٩]{1,2}$/.test(value))node.remove();
+      if(!value||dateTokenPattern.test(value)||dateLabelPattern.test(value)){
+        dateTokenPattern.lastIndex=0;dateLabelPattern.lastIndex=0;
+        if(!value||dateTokenPattern.test(value)||dateLabelPattern.test(value))node.remove();
+      }
+      dateTokenPattern.lastIndex=0;dateLabelPattern.lastIndex=0;
     });
     const walker=document.createTreeWalker(card,NodeFilter.SHOW_TEXT);
     const nodes=[];
     while(walker.nextNode())nodes.push(walker.currentNode);
     nodes.forEach(node=>{
       const original=node.nodeValue||"";
-      const cleaned=original.replace(isoDatePattern,"").replace(arabicDatePattern,"").replace(/آخر\s*(?:تحديث|رصد)\s*:?/g,"").replace(/\s{2,}/g," ").trim();
+      let cleaned=original.replace(dateTokenPattern,"").replace(dateLabelPattern,"");
+      cleaned=cleaned.replace(/\\s*[·•|–—-]\\s*(?=$)/g,"").replace(/\\s{2,}/g," ").trim();
       if(cleaned!==original.trim()){
         if(cleaned)node.nodeValue=cleaned;
         else node.parentNode?.removeChild(node);
       }
+      dateTokenPattern.lastIndex=0;dateLabelPattern.lastIndex=0;
     });
   }
   function cleanProductDates(root=document){
@@ -1324,17 +1330,17 @@
     if(parent)stripDateText(parent);
   }
   cleanProductDates();
+  if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",()=>cleanProductDates(),{once:true});
   const productDateObserver=new MutationObserver(records=>{
     records.forEach(record=>{
-      if(record.target.nodeType===Node.TEXT_NODE){
-        const card=record.target.parentElement?.closest(productCardSelector);
-        if(card)stripDateText(card);
-      }
+      const target=record.target.nodeType===Node.TEXT_NODE?record.target.parentElement:record.target;
+      const card=target?.closest?.(productCardSelector);
+      if(card)stripDateText(card);
       record.addedNodes.forEach(node=>{
         if(node.nodeType===Node.ELEMENT_NODE)cleanProductDates(node);
         else if(node.nodeType===Node.TEXT_NODE){
-          const card=node.parentElement?.closest(productCardSelector);
-          if(card)stripDateText(card);
+          const addedCard=node.parentElement?.closest(productCardSelector);
+          if(addedCard)stripDateText(addedCard);
         }
       });
     });
