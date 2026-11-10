@@ -2021,12 +2021,12 @@
     "name": "فوطة تجفيف للحيوانات",
     "category": "العناية والنظافة",
     "recordType": "supply",
-    "price": null,
+    "price": 350,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Whiskers Egypt",
+    "source": "https://whiskers.shop/collections/accessories/products/petmoda-towel-for-dogs-cats",
+    "checkedAt": "2026-11-10",
+    "note": "Petmoda Towel for Dogs & Cats مقاس 100×50 سم؛ السعر المنشور."
   },
   {
     "id": "pet-guide-150",
