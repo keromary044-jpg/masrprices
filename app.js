@@ -329,7 +329,7 @@
         const row=element("article","store-price-row"+(best&&offer.price===best.price?" is-best":""));
         const details=element("div","store-price-details");details.append(element("strong","",offer.merchant));
         if(offer.variant)details.append(element("small","offer-variant",offer.variant));
-        if(offer.sourceLabel||offer.checkedAt)details.append(element("small","offer-variant",[offer.sourceLabel,offer.checkedAt].filter(Boolean).join(" · ")));
+        if(offer.sourceLabel)details.append(element("small","offer-variant",offer.sourceLabel));
         row.append(details,element("strong","offer-price",offer.price===0?"مجاني":offer.price.toLocaleString("en-US")+" جنيه"));
         if(best&&offer.price===best.price)row.append(element("span","best-store-star","★ أقل سعر"));
         if(offer.source){
@@ -382,7 +382,7 @@
         const priceLine=element("p","phone-price",(isReference?"مرجع سعري: ":"السعر في مصر: ")+phone.priceEGP.toLocaleString("en-US")+" جنيه");
         priceLine.dataset.price=String(phone.priceEGP);
         article.append(priceLine);
-        article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")+" · "+(phone.priceCheckedAt || "تاريخ الرصد غير محدد")));
+        article.append(element("small","phone-price-source",(phone.priceSource || "مصدر السعر")));
         if(status) article.append(element("small","phone-price-status",status));
       } else {
         article.append(element("p","phone-price phone-price-unavailable","السعر غير متاح حاليًا"));
@@ -849,7 +849,7 @@
       if(book.author)card.append(element("p","book-author","المؤلف: "+book.author));
       if(book.category==="كتب الوزارة")card.append(element("p","book-price","مجاني – من موقع الوزارة"));else if(Number.isFinite(book.price))card.append(element("p","book-price",book.price.toLocaleString("en-US")+" جنيه"));
       card.append(element("p","book-store","المصدر: "+book.merchant));
-      card.append(element("small","book-date","آخر رصد: "+book.checkedAt));
+
       const link=element("a","book-source","عرض الكتاب لدى المصدر");link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
       if(book.legalPdfUrl){const pdf=element("a","book-pdf","فتح نسخة إلكترونية مرخّصة");pdf.href=book.legalPdfUrl;pdf.target="_blank";pdf.rel="noopener noreferrer";card.append(pdf);}
       else card.append(element("small","book-pdf-unavailable",book.pdfStatus||"لا يتوفر PDF مجاني مرخّص تم التحقق منه"));
