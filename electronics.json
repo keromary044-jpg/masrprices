@@ -6237,12 +6237,12 @@
     "name": "Seagate Expansion 2TB",
     "category": "وحدات تخزين خارجية",
     "brand": "Seagate",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6100,
+    "merchant": "Sigma Computer Egypt",
+    "source": "https://sigma-computer.com/ar/search?filters=%7B%22brand_id%22%3A%5B%229f4a0404-c20a-4ceb-bfd4-141f54b9a033%22%5D%7D",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ صفحة المتجر تعرض أضف إلى السلة",
+    "note": "Seagate Expansion Portable 2TB USB 3.0 External HDD؛ SKU STKM2000400؛ السعر 6,100 جنيه."
   },
   {
     "id": "elx-0479",
@@ -6483,12 +6483,12 @@
     "name": "ViewSonic M1 Mini Plus",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "ViewSonic",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14800,
+    "merchant": "Compumarts Egypt",
+    "source": "https://nileshopper.com/products/53620-viewsonic-m1-mini-plus",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ السعر شوهد خلال آخر يومين",
+    "note": "ViewSonic M1 Mini Plus Smart LED Pocket Cinema Projector with JBL Speaker؛ السعر 14,800 جنيه."
   },
   {
     "id": "elx-0499",
