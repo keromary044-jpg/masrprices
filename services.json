@@ -402,13 +402,13 @@
       "category": "خدمات ضريبية",
       "brand": "مصلحة الضرائب المصرية",
       "unit": "إقرارات واستعلامات",
-      "price": 0,
+      "price": null,
       "merchant": null,
       "source": "https://eta.gov.eg/sites/default/files/2025-08/guide.of_.the_.egyptian.tax_.authority.services.second_edition.pdf",
       "checkedAt": "2026-11-10",
-      "details": "سعر صفر يخص خدمة التسجيل في منظومة الفاتورة/الإيصال الإلكتروني للفئات غير المخاطبة بالتسجيل الذاتي فقط، ولا يعمم على جميع الخدمات الضريبية.",
+      "details": "مدخل عام لخدمات مصلحة الضرائب، ولا يمكن اعتباره مجانيًا لأن بعض الخدمات الضريبية لها رسوم. راجع سعر كل خدمة على حدة.",
       "currency": "EGP",
-      "priceStatus": "توجد خدمات محددة بالدليل دون رسوم؛ لا يعني ذلك أن جميع الخدمات الضريبية مجانية"
+      "priceStatus": "السعر غير محدد للخدمة العامة؛ تختلف الرسوم باختلاف المعاملة"
     },
     {
       "id": "services-الفاتورة-الإلكترونية-مصلحة-الضرائب-المصرية-خدمة-إلكترونية",
@@ -4344,6 +4344,48 @@
       "source": "https://eta.gov.eg/ar/news/altzam-almmwlyn-bastkhraj-shhadt-tsjyl-bmnzwmt-alfatwrt-alalktrwnyt-mnzwmt-alaysal-alalktrwny",
       "checkedAt": "2026-11-10",
       "priceStatus": "الشهادة تصدر مجانًا من المأمورية المختصة وفق إعلان مصلحة الضرائب المصرية"
+    },
+    {
+      "id": "eta-tax-registration-card-free",
+      "name": "إصدار بطاقة ضريبية / شهادة تسجيل ضريبي",
+      "category": "خدمات ضريبية",
+      "brand": "مصلحة الضرائب المصرية",
+      "unit": "طلب",
+      "price": 0,
+      "currency": "EGP",
+      "merchant": "مصلحة الضرائب المصرية",
+      "source": "https://www.eta.gov.eg/sites/default/files/2025-08/guide.of_.the_.egyptian.tax_.authority.services.second%20edition.pdf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "دليل الخدمات الضريبية الرسمي يذكر عدم وجود رسوم للخدمة",
+      "details": "إصدار بطاقة ضريبية أو شهادة تسجيل ضريبي؛ الرسوم الرسمية: لا توجد رسوم."
+    },
+    {
+      "id": "eta-tax-technical-support-free",
+      "name": "الدعم الفني والرد على الاستفسارات الضريبية",
+      "category": "خدمات ضريبية",
+      "brand": "مصلحة الضرائب المصرية",
+      "unit": "استفسار",
+      "price": 0,
+      "currency": "EGP",
+      "merchant": "مصلحة الضرائب المصرية",
+      "source": "https://www.eta.gov.eg/sites/default/files/2025-08/guide.of_.the_.egyptian.tax_.authority.services.second%20edition.pdf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "دليل الخدمات الضريبية الرسمي يذكر عدم وجود رسوم",
+      "details": "خدمة الدعم الفني والرد على استفسارات الممولين عبر قنوات المصلحة؛ لا توجد رسوم على الخدمة."
+    },
+    {
+      "id": "eta-download-einvoices-free",
+      "name": "تحميل الفواتير الإلكترونية من بوابة مصلحة الضرائب",
+      "category": "خدمات ضريبية إلكترونية",
+      "brand": "مصلحة الضرائب المصرية",
+      "unit": "خدمة إلكترونية",
+      "price": 0,
+      "currency": "EGP",
+      "merchant": "بوابة مصلحة الضرائب المصرية",
+      "source": "https://portal.eta.gov.eg/ar/news/thmyl-alfwatyr-alalktrwnyt-mn-bwabt-almslht-mjany-tmamana",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "إعلان رسمي من مصلحة الضرائب بأن التحميل مجاني تمامًا",
+      "details": "تحميل الفواتير الإلكترونية من بوابة المصلحة الرسمية دون رسوم؛ لا يشمل تطبيقات الجهات الخارجية."
     }
   ]
 }
