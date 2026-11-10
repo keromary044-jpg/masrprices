@@ -59,15 +59,17 @@
     },
     {
       "id": "part-toyota-brake-disc",
-      "name": "ديسك فرامل لتويوتا",
+      "name": "طنبورة فرامل (ديسك) تويوتا كورولا E140",
       "category": "فرامل",
-      "brand": "Toyota",
+      "brand": "CarParts",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 2409,
+      "merchant": "CarParts StorkPlus",
+      "details": "سعر منشور لطنبورة فرامل واحدة؛ السعر للقطعة وليس للزوج.",
+      "source": "https://carparts.storkplus.com/ar/taxons/vehicles/toyota/corolla",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla E140 (2007–2013)",
+      "partNumber": "92549-98903"
     },
     {
       "id": "part-toyota-clutch-kit",
@@ -122,15 +124,17 @@
     },
     {
       "id": "part-toyota-spark-plug",
-      "name": "بوجيه لتويوتا",
+      "name": "بوجيه DENSO K20PRL11 تويوتا كورولا 2001",
       "category": "إشعال",
-      "brand": "Toyota",
+      "brand": "DENSO",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 59,
+      "merchant": "المصرية جروب",
+      "details": "سعر منشور للبوجيه الواحد؛ لا يمثل سعر طقم البوجيهات.",
+      "source": "https://www.almasriaautoparts.com/parts-by-model/corolla/electrical",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla 2001 / Yaris",
+      "partNumber": "K20PRL11-DENSO"
     },
     {
       "id": "part-toyota-headlamp",
@@ -653,15 +657,16 @@
     },
     {
       "id": "spare-parts-ردياتير-تويوتا-كورولا-denso-قطعة",
-      "name": "ردياتير تويوتا كورولا",
+      "name": "ردياتير GL MAX مانيوال تويوتا كورولا",
       "category": "تبريد ومحرك",
-      "brand": "Denso",
+      "brand": "GL MAX",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 2150,
+      "merchant": "Auto Spare",
+      "source": "https://autospare.com.eg/parts/تويوتا/ردياتير",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لردياتير كورولا مانيوال؛ تم ضبط العلامة التجارية لتطابق المنتج المعروض.",
+      "model": "Toyota Corolla Manual"
     },
     {
       "id": "spare-parts-ردياتير-نيسان-صني-nissan-قطعة",
@@ -831,15 +836,16 @@
     },
     {
       "id": "spare-parts-أسطوانة-دبرياج-لنيسان-nissan-قطعة",
-      "name": "أسطوانة دبرياج لنيسان",
+      "name": "ماستر دبرياج سفلي AUTO PARTS نيسان صني N17",
       "category": "نقل الحركة",
-      "brand": "Nissan",
+      "brand": "AUTO PARTS",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 1095,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لماستر الدبرياج السفلي لصني N17.",
+      "model": "Nissan Sunny N17"
     },
     {
       "id": "spare-parts-فلتر-بنزين-لتويوتا-toyota-قطعة",
