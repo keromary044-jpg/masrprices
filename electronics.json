@@ -5369,12 +5369,12 @@
     "name": "MikroTik CCR2004 Router",
     "category": "راوترات وشبكات",
     "brand": "MikroTik",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 27364,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/3UZPCMS7E-mikrotik-ccr2004-16g-2s-16x-gigabit-ethernet-ports-2x10g-sfp-cages",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لنسخة CCR2004-16G-2S+؛ السجل الأصلي عام ولا يحدد النسخة، لذا يجب مطابقة رقم الموديل قبل اعتماد السعر. لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0408",
