@@ -458,27 +458,29 @@
     },
     {
       "id": "spare-parts-بطارية-سيارة-45-أمبير-varta-قطعة",
-      "name": "بطارية سيارة 45 أمبير",
+      "name": "بطارية Varta NS60S 45Ah ألماني",
       "category": "بطاريات",
       "brand": "Varta",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 2850,
+      "merchant": "O-Store / Octane",
+      "source": "https://ostore.octane-tech.io/ar/brand/varta",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور يبدأ من 2,850 جنيه شامل الضريبة لبطارية Varta NS60S سعة 45Ah؛ تحقق من أبعاد البطارية والقطبية وملاءمتها للسيارة.",
+      "model": "Varta NS60S 45Ah Standard"
     },
     {
       "id": "spare-parts-بطارية-سيارة-55-أمبير-varta-قطعة",
-      "name": "بطارية سيارة 55 أمبير",
+      "name": "بطارية Varta DIN55L 55Ah ألماني",
       "category": "بطاريات",
       "brand": "Varta",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 3584,
+      "merchant": "O-Store / Octane",
+      "source": "https://ostore.octane-tech.io/ar/brand/varta",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور 3,584 جنيه شامل الضريبة لبطارية Varta DIN55L سعة 55Ah؛ تحقق من المقاس والقطبية والتوافق قبل الشراء.",
+      "model": "Varta DIN55L 55Ah"
     },
     {
       "id": "spare-parts-بطارية-سيارة-60-أمبير-acdelco-قطعة",
@@ -494,15 +496,16 @@
     },
     {
       "id": "spare-parts-بطارية-سيارة-70-أمبير-bosch-قطعة",
-      "name": "بطارية سيارة 70 أمبير",
+      "name": "بطارية Bosch N70 70Ah ألماني",
       "category": "بطاريات",
       "brand": "Bosch",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 4250,
+      "merchant": "O-Store / Octane",
+      "source": "https://ostore.octane-tech.io/ar/brand/bosch",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور يبدأ من 4,250 جنيه شامل الضريبة لبطارية Bosch N70 سعة 70Ah؛ تحقق من أبعاد البطارية والقطبية والتوافق.",
+      "model": "Bosch N70 70Ah"
     },
     {
       "id": "spare-parts-سير-مجموعة-لتويوتا-toyota-قطعة",
@@ -699,15 +702,16 @@
     },
     {
       "id": "spare-parts-مساحات-زجاج-أمامية-22-بوصة-bosch-زوج",
-      "name": "مساحات زجاج أمامية 22 بوصة",
+      "name": "طقم مساحات أمامية Bosch Aerotwin A088S مقاس 22+22 بوصة",
       "category": "مساحات زجاج",
       "brand": "Bosch",
       "unit": "زوج",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 1278,
+      "merchant": "El Catalog",
+      "source": "https://www.el-catalog.store/products/bosch-set-of-front-wiper-blades-3397009893-22-22-in-a088s",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور لطقم مكون من مساحتين أماميتين 22+22 بوصة؛ تحقق من نوع ذراع التثبيت والتوافق مع السيارة.",
+      "model": "Bosch A088S 3397009893, 22+22 inch"
     },
     {
       "id": "spare-parts-مساحات-زجاج-أمامية-24-بوصة-bosch-زوج",
