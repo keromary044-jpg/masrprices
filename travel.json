@@ -1915,6 +1915,45 @@
       "checkedAt": "2026-11-01",
       "priceStatus": "official_published_tariff",
       "details": "سعر التذكرة الرسمي للمصريين حسب الفئة؛ يُشترط إثبات الأهلية للتذكرة المخفضة."
+    },
+    {
+      "id": "travel-gem-student-2026",
+      "name": "تذكرة طالب مصري – المتحف المصري الكبير",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 110,
+      "merchant": "المتحف المصري الكبير",
+      "details": "سعر الطالب المصري اعتبارًا من 1 نوفمبر 2026؛ يلزم إبراز إثبات الطالب.",
+      "source": "https://www.egypttoday.com/Article/4/150275/Grand-Egyptian-Museum-Announces-New-Ticket-Prices-Starting-November-1",
+      "checkedAt": "2026-11-10",
+      "unit": "تذكرة طالب مصري",
+      "priceStatus": "سعر معلن وساري من 1 نوفمبر 2026"
+    },
+    {
+      "id": "travel-nmec-egyptian-adult-2026",
+      "name": "تذكرة بالغ مصري – المتحف القومي للحضارة المصرية",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 90,
+      "merchant": "المتحف القومي للحضارة المصرية",
+      "details": "تذكرة دخول المصري البالغ حسب صفحة معلومات المتاحف الحكومية.",
+      "source": "https://sis.gov.eg/en/egyptians-abroad-portal/discover-egypt/museums/",
+      "checkedAt": "2026-11-10",
+      "unit": "تذكرة بالغ مصري",
+      "priceStatus": "سعر منشور بمصدر حكومي؛ يفضل تأكيده قبل الزيارة"
+    },
+    {
+      "id": "travel-nmec-student-2026",
+      "name": "تذكرة طالب مصري – المتحف القومي للحضارة المصرية",
+      "category": "متاحف وآثار",
+      "brand": "وزارة السياحة والآثار",
+      "price": 45,
+      "merchant": "المتحف القومي للحضارة المصرية",
+      "details": "تذكرة الطالب المصري حسب صفحة معلومات المتاحف الحكومية.",
+      "source": "https://sis.gov.eg/en/egyptians-abroad-portal/discover-egypt/museums/",
+      "checkedAt": "2026-11-10",
+      "unit": "تذكرة طالب مصري",
+      "priceStatus": "سعر منشور بمصدر حكومي؛ يفضل تأكيده قبل الزيارة"
     }
   ]
 }
