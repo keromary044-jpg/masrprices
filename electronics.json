@@ -5737,12 +5737,12 @@
     "name": "MSI MAG B650 Tomahawk",
     "category": "مكونات الكمبيوتر",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14400,
+    "merchant": "Compumarts Egypt",
+    "source": "https://www.compumarts.com/ar/collections/flash-sale/products/msi-mag-b650-tomahawk-wifi-gaming-motherboard",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور للوحة MSI MAG B650 Tomahawk WiFi AM5 DDR5؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0437",
@@ -6879,24 +6879,24 @@
     "name": "Philips Hue Lightstrip Plus",
     "category": "أجهزة المنزل الذكي",
     "brand": "Philips Hue",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 19743,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/213539450-lightstrip-plus-v4-2m-white-extendable",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لطقم Philips Hue Lightstrip Plus V4 بطول 2 متر شامل الرسوم والضرائب حسب Desertcart."
   },
   {
     "id": "elx-0531",
     "name": "Philips Hue Bridge Hub",
     "category": "أجهزة المنزل الذكي",
     "brand": "Philips Hue",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5299,
+    "merchant": "Aura Egypt",
+    "source": "https://aura.eg/en/product/philips-hue-bridge-3w-5v-2-4ghz/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مخزون محدود",
+    "note": "السعر لوحدة Philips Hue Bridge؛ الصفحة تعرض قطعة واحدة متاحة."
   },
   {
     "id": "elx-0532",
