@@ -3146,24 +3146,24 @@
     "name": "Xerox B315",
     "category": "طابعات وماسحات",
     "brand": "Xerox",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 33000,
+    "merchant": "EG-tech",
+    "source": "https://shop.itegy.com.eg/product-brand/xerox/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "السعر المنشور لطابعة Xerox B315/DNI متعددة الوظائف مع ضمان سنة."
   },
   {
     "id": "elx-0226",
     "name": "Xerox C235",
     "category": "طابعات وماسحات",
     "brand": "Xerox",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 35310,
+    "merchant": "EG-tech",
+    "source": "https://shop.itegy.com.eg/product-brand/xerox/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لطابعة Xerox C235 متعددة الوظائف؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0227",
@@ -6097,12 +6097,12 @@
     "name": "Samsung T9 2TB",
     "category": "وحدات تخزين خارجية",
     "brand": "Samsung",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 16250,
+    "merchant": "Sigma Computer",
+    "source": "https://www.sigma-computer.com/en/item?id=6577&name=Samsung_Portable_SSD_T9_2TB_____Up_to_2_000_MB_s__USB_3.2_Gen_2x2__drop-resistant__9.8_ft___AES_256-bit_encryption__Windows_macOS_Android_compatible__3-year_warranty",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لنسخة Samsung Portable SSD T9 سعة 2TB؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0467",
