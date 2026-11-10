@@ -2796,12 +2796,13 @@
       "title": "نهج البلاغة",
       "author": "الشريف الرضي",
       "category": "تراث",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 390,
+      "merchant": "Noon",
+      "source": "https://www.noon.com/egypt-ar/book-nahj-al-balagha/Z5D096FB4606EECA264D7Z/p/",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر عرض منشور 390 جنيهًا لكتاب نهج البلاغة؛ صفحة العرض تشير إلى توصيل متاح"
     },
     {
       "id": "catalog-101-الأغاني",
