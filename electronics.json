@@ -4573,24 +4573,24 @@
     "name": "Anker Soundcore Space One",
     "category": "سماعات ومكبرات صوت",
     "brand": "Anker Soundcore",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4499,
+    "merchant": "Vodafone Egypt",
+    "source": "https://priceteq.com/eg/product/fd3c05bd-b27b-4bf8-975d-7d29d3bfd7ec",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى 7 متاجر؛ أقل سعر منشور بتاريخ 7 نوفمبر 2026",
+    "note": "Anker Soundcore Space One - Black."
   },
   {
     "id": "elx-0342",
     "name": "Anker Soundcore Liberty 4 NC",
     "category": "سماعات ومكبرات صوت",
     "brand": "Anker Soundcore",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2570,
+    "merchant": "CairoVolt Egypt",
+    "source": "https://priceteq.com/eg/product/dd5cf284-8b20-401f-bf9f-ded1e45b1b7f",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى 3 متاجر؛ أقل سعر منشور بتاريخ 7 نوفمبر 2026",
+    "note": "Anker Soundcore Liberty 4 NC Wireless Earbuds."
   },
   {
     "id": "elx-0343",
@@ -4717,12 +4717,12 @@
     "name": "Marshall Emberton II",
     "category": "سماعات ومكبرات صوت",
     "brand": "Marshall",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5900,
+    "merchant": "Laptop Store Egypt",
+    "source": "https://store-eg.com/s/nora-accessories/en/product/marshall-emberton-ii",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون؛ 25 قطعة حسب صفحة المتجر",
+    "note": "Marshall Emberton II portable Bluetooth speaker."
   },
   {
     "id": "elx-0354",
@@ -4825,12 +4825,12 @@
     "name": "Edifier R1280DB",
     "category": "سماعات ومكبرات صوت",
     "brand": "Edifier",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8495,
+    "merchant": "Amazon.eg",
+    "source": "https://eg.pricena.com/en/brands/edifier",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على مقارنة أسعار مصرية تم تحديثها اليوم",
+    "note": "Edifier R1280DB bookshelf speakers."
   },
   {
     "id": "elx-0363",
@@ -4849,12 +4849,12 @@
     "name": "Edifier MR4",
     "category": "سماعات ومكبرات صوت",
     "brand": "Edifier",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5999,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/edifier-mr4-powered-studio-monitor-speakers%2C-4-active-near-field-monitor-speaker-%28black%29",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون؛ توصيل و/أو استلام من الفروع",
+    "note": "Edifier MR4 Powered Studio Monitor Speakers, Black."
   },
   {
     "id": "elx-0365",
