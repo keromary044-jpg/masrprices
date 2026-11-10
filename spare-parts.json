@@ -2522,11 +2522,16 @@
     },
     {
       "id": "part-catalog-0133",
-      "name": "إكصدام أمامي – أمامي",
+      "name": "اكصدام أمامي تويوتا كورولا E210 2020 كامل بالشبكة",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 1896,
+      "details": "سعر معلن لاكصدام أمامي كامل بالشبكة، بديل سعودي جديد.",
+      "model": "Toyota Corolla E210 2020",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/products/front-bumper-toyota-corolla-2020-complete-with-grille-najd-sa",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0134",
@@ -2562,11 +2567,16 @@
     },
     {
       "id": "part-catalog-0138",
-      "name": "إكصدام خلفي – خلفي",
+      "name": "اكصدام خلفي تويوتا كورولا 2020",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 1747,
+      "details": "سعر معلن لاكصدام خلفي كورولا 2020؛ تحقق من توافق الفئة.",
+      "model": "Toyota Corolla 2020",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/bumpers",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0139",
@@ -2586,11 +2596,16 @@
     },
     {
       "id": "part-catalog-0141",
-      "name": "شبكة أمامية – أمامي",
+      "name": "شبكة أمامية تويوتا كورولا 2020 صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 1778,
+      "details": "سعر معلن لشبكة أمامية كورولا 2020.",
+      "model": "Toyota Corolla 2020",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/e210",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0142",
@@ -2634,19 +2649,29 @@
     },
     {
       "id": "part-catalog-0147",
-      "name": "مراية جانبية – يمين",
+      "name": "مراية جانبية يمين تويوتا كورولا 2020 صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 2363,
+      "details": "سعر معلن للمراية الجانبية اليمنى.",
+      "model": "Toyota Corolla 2020",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/e210",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0148",
-      "name": "مراية جانبية – يسار",
+      "name": "مراية جانبية يسار تويوتا كورولا 2020 صيني",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Aftermarket",
+      "price": 2363,
+      "details": "سعر معلن للمراية الجانبية اليسرى.",
+      "model": "Toyota Corolla 2020",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/toyota/corolla/e210",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0149",
@@ -2757,19 +2782,31 @@
     },
     {
       "id": "part-catalog-0161",
-      "name": "خرطوم ردياتير – أمامي",
+      "name": "خرطوم ردياتير تويوتا كورولا E140 1.6",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "CarParts",
+      "price": 459,
+      "details": "سعر معلن لخرطوم ردياتير كورولا E140 بمحرك 1.6.",
+      "model": "Toyota Corolla E140 1.6 (2007–2013)",
+      "unit": "قطعة",
+      "merchant": "CarParts StorkPlus",
+      "source": "https://carparts.storkplus.com/ar/taxons/cooling-and-a-c/radiator-hose",
+      "checkedAt": "2026-11-10",
+      "partNumber": "78169-18387"
     },
     {
       "id": "part-catalog-0162",
-      "name": "خرطوم ردياتير – خلفي",
+      "name": "خرطوم ردياتير تويوتا كورولا E140 1.8",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "CarParts",
+      "price": 449,
+      "details": "سعر معلن لخرطوم ردياتير كورولا E140 بمحرك 1.8.",
+      "model": "Toyota Corolla E140 1.8 (2007–2013)",
+      "unit": "قطعة",
+      "merchant": "CarParts StorkPlus",
+      "source": "https://carparts.storkplus.com/ar/taxons/cooling-and-a-c/radiator-hose",
+      "checkedAt": "2026-11-10",
+      "partNumber": "94563-54549"
     },
     {
       "id": "part-catalog-0163",
@@ -2789,19 +2826,29 @@
     },
     {
       "id": "part-catalog-0165",
-      "name": "جوان وش سلندر – أمامي",
+      "name": "جوان وش سلندر ESSINA نيسان صني N16",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "ESSINA",
+      "price": 460,
+      "details": "سعر معلن لجوان وش سلندر لصني N16.",
+      "model": "Nissan Sunny N16",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0166",
-      "name": "جوان وش سلندر – خلفي",
+      "name": "جوان وش سلندر LUXSY نيسان صني N17",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "LUXSY",
+      "price": 555,
+      "details": "سعر معلن لجوان وش سلندر لصني N17.",
+      "model": "Nissan Sunny N17",
+      "unit": "قطعة",
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/sunny",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0167",
