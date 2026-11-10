@@ -1839,12 +1839,12 @@
     "name": "MSI G274QPF 27",
     "category": "شاشات الكمبيوتر",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 15888,
+    "merchant": "Compumarts Egypt",
+    "source": "https://www.compumarts.com/ar/collections/all/27-inches?page=2",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر لنسخة MSI G274QPF E2؛ صفحة المتجر تعرض نفاد المخزون."
   },
   {
     "id": "elx-0122",
@@ -3638,12 +3638,12 @@
     "name": "GoPro HERO11 Black",
     "category": "كاميرات وعدسات",
     "brand": "GoPro",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 16049,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/device/gopro-hero11-black-waterproof-action-camera-with-5-3k60-ultra-hd-video-27mp-photos-1-1-9-image-sensor-chdhx-111-rw?order=ASC&sort=p.model",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لكاميرا GoPro HERO11 Black؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0267",
@@ -3674,12 +3674,12 @@
     "name": "GoPro MAX 360",
     "category": "كاميرات وعدسات",
     "brand": "GoPro",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 25060,
+    "merchant": "Amazon Egypt (via Pricena)",
+    "source": "https://eg.pricena.com/en/cameras/brand/gopro",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Amazon Egypt",
+    "note": "السعر لنسخة GoPro MAX 360؛ تحقق من الملحقات والنسخة قبل الشراء."
   },
   {
     "id": "elx-0270",
@@ -4180,12 +4180,12 @@
     "name": "Logitech G G923 Racing Wheel",
     "category": "أجهزة الألعاب",
     "brand": "Logitech G",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8500,
+    "merchant": "Alfrensia",
+    "source": "https://alfrensia.com/en/product/logitech-g923-driving-force/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لعجلة Logitech G923 Driving Force؛ تأكد من نسخة Xbox أو PlayStation."
   },
   {
     "id": "elx-0312",
@@ -4252,24 +4252,24 @@
     "name": "Thrustmaster T128 Wheel",
     "category": "أجهزة الألعاب",
     "brand": "Thrustmaster",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12999,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/electronics-and-mobiles/thrustmaster/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Noon",
+    "note": "السعر لنسخة Thrustmaster T128 المتوافقة مع PS5 وPS4 والكمبيوتر."
   },
   {
     "id": "elx-0318",
     "name": "Thrustmaster T248 Wheel",
     "category": "أجهزة الألعاب",
     "brand": "Thrustmaster",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 45499,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/electronics-and-mobiles/thrustmaster/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Noon",
+    "note": "السعر لنسخة Thrustmaster T248 مع دواسات مغناطيسية؛ تحقق من توافق المنصة."
   },
   {
     "id": "elx-0319",
@@ -4877,12 +4877,12 @@
     "name": "Creative Pebble V3",
     "category": "سماعات ومكبرات صوت",
     "brand": "Creative",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2835,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/productuk/4DXSDQC2O-creative-pebble-v3",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر المعروض لا يشمل رسوم الشحن والجمارك؛ المنتج مستورد من المملكة المتحدة."
   },
   {
     "id": "elx-0367",
@@ -4949,12 +4949,12 @@
     "name": "Bowers & Wilkins PX7 S2e",
     "category": "سماعات ومكبرات صوت",
     "brand": "Bowers & Wilkins",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17604,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/productde/IDZL6HA2U-bowers-wilkins-px7-s2e-over-ear-noise-cancelling-headphones-wireless-qualcomm-aptx-adaptive-fast-charge-30-hours-playback-six-built-in",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر المعروض لا يشمل الشحن والجمارك؛ المنتج مستورد من أوروبا."
   },
   {
     "id": "elx-0373",
@@ -5141,12 +5141,12 @@
     "name": "Huawei B535 LTE Router",
     "category": "راوترات وشبكات",
     "brand": "Huawei",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10999,
+    "merchant": "Noon Egypt (via PriceNa)",
+    "source": "https://eg.pricena.com/en/computers/brand/huawei",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Noon",
+    "note": "السعر لراوتر Huawei B535-932a LTE CAT7؛ تحقق من رقم النسخة والترددات قبل الشراء."
   },
   {
     "id": "elx-0389",
@@ -5213,12 +5213,12 @@
     "name": "D-Link DWR-M960",
     "category": "راوترات وشبكات",
     "brand": "D-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1850,
+    "merchant": "Sokrat Pro Tech",
+    "source": "https://sokratprotech.com/index.php/product-category/networking/?product-page=9",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج للبيع",
+    "note": "السعر المنشور لراوتر D-Link DWR-M960 4G LTE AC1200."
   },
   {
     "id": "elx-0395",
@@ -5357,12 +5357,12 @@
     "name": "MikroTik RB4011 Router",
     "category": "راوترات وشبكات",
     "brand": "MikroTik",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 25080,
+    "merchant": "GBH Egypt",
+    "source": "https://www.gb-hub.com/shop/category/corporate-supplies-it-networking-networking-137?order=name+asc",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "السعر لنسخة MikroTik RB4011iGS+RM؛ الاسم في الكتالوج مختصر إلى RB4011 Router."
   },
   {
     "id": "elx-0407",
@@ -5465,12 +5465,12 @@
     "name": "Intel Core i7-13700K",
     "category": "مكونات الكمبيوتر",
     "brand": "Intel",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17499,
+    "merchant": "Sigma Computer",
+    "source": "https://sigma-computer.com/en/item?id=4905",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لمعالج Intel Core i7-13700K؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0416",
@@ -6583,12 +6583,12 @@
     "name": "Anker Nebula Mars 3 Air",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "Anker Nebula",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 60999,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-ar/anker-mars-3-air-1080p-mini-projector-smart-400-ansi-lumen-portable-projector-with-google-tv-wi-fi-dolby-digital-2-8w-150-inch-picture-built-in-battery-with-2-5-hour-playtime-mars-3-air-black/N70029352V/p/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مخزون منخفض",
+    "note": "السعر لجهاز Nebula Mars 3 Air؛ الصفحة تعرض قطعة واحدة متبقية وقت الرصد."
   },
   {
     "id": "elx-0507",
@@ -6631,12 +6631,12 @@
     "name": "Google Chromecast with Google TV",
     "category": "أجهزة المنزل الذكي",
     "brand": "Google",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4500,
+    "merchant": "Radio Talaat",
+    "source": "https://radiotalaat.com/en/tvs-audio-entertainment/tv-accessories/streaming-devices-tv-boxes.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر لنسخة Google Chromecast with Google TV 4K؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0511",
