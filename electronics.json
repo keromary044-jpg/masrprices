@@ -930,15 +930,18 @@
   },
   {
     "id": "elx-0046",
-    "name": "Sony A80L OLED 55",
+    "name": "Sony BRAVIA XR A80L 55-inch OLED 4K Google TV",
     "category": "الشاشات والتلفزيونات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 75000,
+    "merchant": "مرجع أسعار السوق المصري (GehazTech)",
+    "source": "https://gehaztech.com/مميزات-و-عيوب-شاشة-سوني-55-بوصة-4k/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نطاق سعري منشور في مصر 75,000–110,000 جنيه لطراز XR-55A80L بتاريخ 1 سبتمبر 2026؛ خانة price تعرض الحد الأدنى وليس عرض متجر محددًا.",
+    "note": "مرجع نطاق سعري وليس سعر بيع مؤكدًا لدى تاجر بعينه؛ يجب التحقق من عرض حالي.",
+    "model": "XR-55A80L",
+    "priceMin": 75000,
+    "priceMax": 110000
   },
   {
     "id": "elx-0047",
