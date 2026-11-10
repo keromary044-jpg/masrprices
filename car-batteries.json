@@ -659,8 +659,12 @@
       "name": "بطارية تجارية – 60 أمبير",
       "brand": "ماركات متعددة",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2650,
+      "details": "السعر الوسيط المنشور لفئة سعة 50–62 أمبير في مؤشر نوفمبر 2026؛ مرجع للسعة فقط وليس عرضًا مؤكدًا لنفس الماركة أو المواصفات.",
+      "priceStatus": "market_reference_price",
+      "merchant": "Shaheen Tire — مؤشر أسعار نوفمبر 2026",
+      "source": "https://www.shaheentire.com/price-index",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "بطارية تجارية – 65 أمبير",
@@ -702,8 +706,12 @@
       "name": "بطارية تجارية – 90 أمبير",
       "brand": "ماركات متعددة",
       "category": "بطاريات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3950,
+      "details": "السعر الوسيط المنشور لفئة سعة 80–100 أمبير في مؤشر نوفمبر 2026؛ مرجع للسعة فقط وليس عرضًا مؤكدًا لنفس الماركة أو المواصفات.",
+      "priceStatus": "market_reference_price",
+      "merchant": "Shaheen Tire — مؤشر أسعار نوفمبر 2026",
+      "source": "https://www.shaheentire.com/price-index",
+      "checkedAt": "2026-11-10"
     },
     {
       "name": "CHLORIDE 100Ah Standard Car Battery",
@@ -1018,5 +1026,5 @@
       "checkedAt": "2026-11-09"
     }
   ],
-  "updatedAt": "2026-11-09"
+  "updatedAt": "2026-11-10"
 }
