@@ -6547,12 +6547,12 @@
     "name": "Xiaomi Mi Smart Projector 2",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "Xiaomi",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 30270,
+    "merchant": "AHW Store Egypt",
+    "source": "https://ahw.store/collections/projectors",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_out_of_stock",
+    "note": "آخر سعر منشور لبروجكتور Xiaomi Mi Smart Projector 2؛ المنتج غير متوفر بالمخزون وقت الرصد."
   },
   {
     "id": "elx-0504",
