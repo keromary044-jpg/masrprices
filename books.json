@@ -2731,12 +2731,13 @@
       "title": "تهافت الفلاسفة",
       "author": "أبو حامد الغزالي",
       "category": "فلسفة",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 90,
+      "merchant": "الأهرام ستور",
+      "source": "https://store.ahram.org.eg/ar/InnerBook?bookListId=326&code=13494&contentCode=79&formId=1",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "طبعة 2024 من الدار الذهبية؛ السعر 90 جنيهًا"
     },
     {
       "id": "catalog-096-المقدمة",
@@ -2756,12 +2757,13 @@
       "title": "حي بن يقظان",
       "author": "ابن طفيل",
       "category": "فلسفة وأدب",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 103.5,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=21bd366e-7a53-4491-bf5d-c3909a894992",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر مخفض منشور 103.50 جنيه؛ غير متوفر حاليًا"
     },
     {
       "id": "catalog-098-كليلة-ودمنة",
@@ -2883,24 +2885,26 @@
       "title": "الشوقيات",
       "author": "أحمد شوقي",
       "category": "شعر",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 60,
+      "merchant": "مكتبة دار الراوي الجديد",
+      "source": "https://alrawybookstore.com/ar/%D8%A7%D9%84%D8%B4%D9%88%D9%82%D9%8A%D8%A7%D8%AA-%D8%A3%D8%AD%D9%85%D8%AF-%D8%A8%D9%83-%D8%B4%D9%88%D9%82%D9%8A/p1342277903",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر المنشور 60 جنيهًا"
     },
     {
       "id": "catalog-108-ديوان-حافظ-إبراهيم",
       "title": "ديوان حافظ إبراهيم",
       "author": "حافظ إبراهيم",
       "category": "شعر",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 200,
+      "merchant": "مزيد نوادر الكتب",
+      "source": "https://nawadermzed.com/%D8%AF%D9%8A%D9%88%D8%A7%D9%86-%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85-%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%D9%8A%D9%85/p2101131262",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "نسخة من طبعة دار الكتب المصرية 1937؛ السعر المنشور 200 جنيه"
     },
     {
       "id": "catalog-109-الأعمال-الشعرية",
