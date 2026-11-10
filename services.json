@@ -1065,24 +1065,33 @@
       "name": "استخراج بطاقة ضريبية – طلب جديد",
       "category": "خدمات حكومية",
       "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "price": 0,
+      "details": "إصدار/تجديد/بدل فاقد أو تالف للبطاقة الضريبية أو شهادة التسجيل؛ الرسوم الرسمية صفر جنيه.",
+      "currency": "EGP",
+      "price_note": "رسوم الخدمة: لا توجد رسوم وفق دليل الخدمات الضريبية لمصلحة الضرائب المصرية، الإصدار الثاني 2025",
+      "source": "https://www.incometax.gov.eg/sites/default/files/2025-08/guide.of_.the_.egyptian.tax_.authority.services.second_edition.pdf"
     },
     {
       "id": "catalog-services-0056",
       "name": "استخراج بطاقة ضريبية – تجديد",
       "category": "خدمات حكومية",
       "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "price": 0,
+      "details": "إصدار/تجديد/بدل فاقد أو تالف للبطاقة الضريبية أو شهادة التسجيل؛ الرسوم الرسمية صفر جنيه.",
+      "currency": "EGP",
+      "price_note": "رسوم الخدمة: لا توجد رسوم وفق دليل الخدمات الضريبية لمصلحة الضرائب المصرية، الإصدار الثاني 2025",
+      "source": "https://www.incometax.gov.eg/sites/default/files/2025-08/guide.of_.the_.egyptian.tax_.authority.services.second_edition.pdf"
     },
     {
       "id": "catalog-services-0057",
       "name": "استخراج بطاقة ضريبية – بدل فاقد",
       "category": "خدمات حكومية",
       "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "price": 0,
+      "details": "إصدار/تجديد/بدل فاقد أو تالف للبطاقة الضريبية أو شهادة التسجيل؛ الرسوم الرسمية صفر جنيه.",
+      "currency": "EGP",
+      "price_note": "رسوم الخدمة: لا توجد رسوم وفق دليل الخدمات الضريبية لمصلحة الضرائب المصرية، الإصدار الثاني 2025",
+      "source": "https://www.incometax.gov.eg/sites/default/files/2025-08/guide.of_.the_.egyptian.tax_.authority.services.second_edition.pdf"
     },
     {
       "id": "catalog-services-0058",
