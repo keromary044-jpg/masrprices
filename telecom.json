@@ -497,32 +497,52 @@
     "name": "خدمة إنترنت منزلي – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 150,
+    "details": "سعر باقة الإنترنت الثابت الأساسية 100 جيجابايت شهريًا وفق قرار NTRA الساري من 1 نوفمبر 2026؛ السعر الابتدائي للخدمة وليس لكل السرعات.",
+    "unit": "شهريًا",
+    "merchant": "WE",
+    "source": "https://english.ahram.org.eg/newscontent/1/2/581041/egypt/society/egypt%E2%80%99s-ntra-to-double-egp--internet-package-to--g.aspx",
+    "priceStatus": "official_regulatory_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0002",
     "name": "خدمة إنترنت منزلي – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 150,
+    "details": "سعر باقة الإنترنت الثابت الأساسية 100 جيجابايت شهريًا وفق قرار NTRA الساري من 1 نوفمبر 2026؛ السعر الابتدائي للخدمة وليس لكل السرعات.",
+    "unit": "شهريًا",
+    "merchant": "Vodafone Egypt",
+    "source": "https://english.ahram.org.eg/newscontent/1/2/581041/egypt/society/egypt%E2%80%99s-ntra-to-double-egp--internet-package-to--g.aspx",
+    "priceStatus": "official_regulatory_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0003",
     "name": "خدمة إنترنت منزلي – Orange",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 150,
+    "details": "سعر باقة الإنترنت الثابت الأساسية 100 جيجابايت شهريًا وفق قرار NTRA الساري من 1 نوفمبر 2026؛ السعر الابتدائي للخدمة وليس لكل السرعات.",
+    "unit": "شهريًا",
+    "merchant": "Orange Egypt",
+    "source": "https://english.ahram.org.eg/newscontent/1/2/581041/egypt/society/egypt%E2%80%99s-ntra-to-double-egp--internet-package-to--g.aspx",
+    "priceStatus": "official_regulatory_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0004",
     "name": "خدمة إنترنت منزلي – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 150,
+    "details": "سعر باقة الإنترنت الثابت الأساسية 100 جيجابايت شهريًا وفق قرار NTRA الساري من 1 نوفمبر 2026؛ السعر الابتدائي للخدمة وليس لكل السرعات.",
+    "unit": "شهريًا",
+    "merchant": "e& Egypt",
+    "source": "https://english.ahram.org.eg/newscontent/1/2/581041/egypt/society/egypt%E2%80%99s-ntra-to-double-egp--internet-package-to--g.aspx",
+    "priceStatus": "official_regulatory_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0005",
@@ -537,32 +557,52 @@
     "name": "خدمة إنترنت أرضي – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 150,
+    "details": "سعر بداية باقة الإنترنت الأرضي الأساسية 100 جيجابايت وفق قرار NTRA من 1 نوفمبر 2026؛ الباقات الأعلى تختلف حسب السعة والسرعة.",
+    "unit": "شهريًا",
+    "merchant": "WE",
+    "source": "https://te.eg/en/web/guest/personal/home/we-internet/we-space",
+    "priceStatus": "official_regulatory_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0007",
     "name": "خدمة إنترنت أرضي – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 150,
+    "details": "سعر بداية باقة الإنترنت الأرضي الأساسية 100 جيجابايت وفق قرار NTRA من 1 نوفمبر 2026؛ الباقات الأعلى تختلف حسب السعة والسرعة.",
+    "unit": "شهريًا",
+    "merchant": "Vodafone Egypt",
+    "source": "https://english.ahram.org.eg/newscontent/1/2/581041/egypt/society/egypt%E2%80%99s-ntra-to-double-egp--internet-package-to--g.aspx",
+    "priceStatus": "official_regulatory_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0008",
     "name": "خدمة إنترنت أرضي – Orange",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 150,
+    "details": "سعر بداية باقة الإنترنت الأرضي الأساسية 100 جيجابايت وفق قرار NTRA من 1 نوفمبر 2026؛ الباقات الأعلى تختلف حسب السعة والسرعة.",
+    "unit": "شهريًا",
+    "merchant": "Orange Egypt",
+    "source": "https://english.ahram.org.eg/newscontent/1/2/581041/egypt/society/egypt%E2%80%99s-ntra-to-double-egp--internet-package-to--g.aspx",
+    "priceStatus": "official_regulatory_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0009",
     "name": "خدمة إنترنت أرضي – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 150,
+    "details": "سعر بداية باقة الإنترنت الأرضي الأساسية 100 جيجابايت وفق قرار NTRA من 1 نوفمبر 2026؛ الباقات الأعلى تختلف حسب السعة والسرعة.",
+    "unit": "شهريًا",
+    "merchant": "e& Egypt",
+    "source": "https://english.ahram.org.eg/newscontent/1/2/581041/egypt/society/egypt%E2%80%99s-ntra-to-double-egp--internet-package-to--g.aspx",
+    "priceStatus": "official_regulatory_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0010",
@@ -577,24 +617,39 @@
     "name": "خدمة إنترنت هوائي – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 290,
+    "details": "أقل باقة WE Air للإنترنت الهوائي: 40 جيجابايت مقابل 290 جنيه شهريًا؛ الأسعار غير شاملة الضريبة.",
+    "unit": "شهريًا",
+    "merchant": "WE",
+    "source": "https://www.te.eg/en/personal/we-air-prepaid",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0012",
     "name": "خدمة إنترنت هوائي – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 250,
+    "details": "أقل باقة Vodafone Home Wireless المعروضة: 60 جيجابايت مقابل 250 جنيه؛ صلاحية الباقات 30 يومًا.",
+    "unit": "شهريًا",
+    "merchant": "Vodafone Egypt",
+    "source": "https://web.vodafone.com.eg/en/dont-remove-the-page",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0013",
     "name": "خدمة إنترنت هوائي – Orange",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 290,
+    "details": "أقل باقة Orange Home Wireless: 40 جيجابايت مقابل 290 جنيه شهريًا.",
+    "unit": "شهريًا",
+    "merchant": "Orange Egypt",
+    "source": "https://dsl.orange.eg/ar/packages/home-Wireless-packages",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0014",
@@ -617,32 +672,52 @@
     "name": "باقة إنترنت موبايل – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 58,
+    "details": "أقل باقة WE Nitro Prime المعروضة: 4,062 ميجابايت مقابل 58 جنيهًا شهريًا قبل الضرائب.",
+    "unit": "شهريًا (28 يومًا)",
+    "merchant": "WE",
+    "source": "https://te.eg/en/web/guest/personal/mobile/nitro-mobile-internet/prime",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0017",
     "name": "باقة إنترنت موبايل – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 37,
+    "details": "أقل باقة Vodafone Plus المسجلة في قائمة الأسعار الرسمية بالموقع: 1,400 ميجابايت مقابل 37 جنيهًا.",
+    "unit": "باقة",
+    "merchant": "Vodafone Egypt",
+    "source": "https://static.vodafone.com.eg/en/mobile-internet-bundles",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0018",
     "name": "باقة إنترنت موبايل – Orange",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 23,
+    "details": "أقل باقة Orange GO المعروضة: 750 ميجابايت مقابل 23 جنيهًا.",
+    "unit": "باقة",
+    "merchant": "Orange Egypt",
+    "source": "https://www.orange.eg/en/internet/go-super",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0019",
     "name": "باقة إنترنت موبايل – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 10.5,
+    "details": "أقل باقة إنترنت ميجابايت من e&: 300 ميجابايت مقابل 10.5 جنيه لمدة يومين.",
+    "unit": "باقة لمدة يومين",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/pages/plans/internet_megabyte_en.html",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0020",
@@ -665,8 +740,13 @@
     "name": "باقة مكالمات موبايل – Vodafone",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 45,
+    "details": "أقل باقة Vodafone Flex مدرجة في تعريفة الشركة: 45 جنيهًا شهريًا.",
+    "unit": "شهريًا",
+    "merchant": "Vodafone Egypt",
+    "source": "https://web.vodafone.com.eg/en/widget/vodafone-flex",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0023",
@@ -681,8 +761,13 @@
     "name": "باقة مكالمات موبايل – e& Egypt",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 46,
+    "details": "أقل باقة Hekaya Internet الرئيسية المعروضة: 1,250 ميجابايت مقابل 46 جنيهًا؛ تتضمن وحدات اتصال.",
+    "unit": "شهريًا",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/pages/plans/Hekaya_Internet_en.html",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0025",
@@ -1017,8 +1102,13 @@
     "name": "خدمة تليفون أرضي – WE",
     "category": "خدمات اتصالات",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 40,
+    "details": "أقل باقة WE Ardy للتليفون الأرضي: 40 جنيهًا شهريًا قبل الضريبة؛ السعر شامل الضريبة المعروض 45.60 جنيه.",
+    "unit": "شهريًا قبل الضريبة",
+    "merchant": "WE",
+    "source": "https://te.eg/en/personal/home/we-landline/we-ardy-prepaid",
+    "priceStatus": "official_provider_tariff",
+    "checkedAt": "2026-11-10"
   },
   {
     "id": "catalog-telecom-0067",
