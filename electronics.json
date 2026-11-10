@@ -7251,12 +7251,12 @@
     "name": "APC Back-UPS 650VA",
     "category": "أجهزة الطاقة والشحن",
     "brand": "APC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2899,
+    "merchant": "2B Egypt",
+    "source": "https://qarenly.com/en/2b/apc-easy-ups-650va-floor-wall-mount-230v-4x-cee-73-schuko-37784",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون؛ آخر تحديث منشور 4 نوفمبر 2026",
+    "note": "APC Easy UPS BV650I-GR 650VA/375W، وهو الإصدار المحدد ضمن فئة 650VA."
   },
   {
     "id": "elx-0562",
@@ -7287,12 +7287,12 @@
     "name": "Eaton 5E 850i USB",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Eaton",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3950,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://elghazawy.com/en/product/38074270288044/page/page/about-us",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على صفحة المتجر مع خيار الإضافة للسلة",
+    "note": "Eaton 5E 850i USB DIN، 850VA/480W."
   },
   {
     "id": "elx-0565",
