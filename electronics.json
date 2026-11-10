@@ -3722,12 +3722,12 @@
     "name": "DJI Ronin-SC",
     "category": "كاميرات وعدسات",
     "brand": "DJI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 121104,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/143171520-dji-ronin-sc-pro-combo-gimbal-kit-with-3-axis",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لباقة DJI Ronin-SC Pro Combo شامل الرسوم والضرائب حسب صفحة Desertcart."
   },
   {
     "id": "elx-0274",
@@ -3806,12 +3806,12 @@
     "name": "Panasonic Lumix GH6",
     "category": "كاميرات وعدسات",
     "brand": "Panasonic",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 160508,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/4XUEXQJU2-panasonic-lumix-gh6-25-2mp-mirrorless-micro-four-thirds-camera-with-unlimited-c4k-4k-4-2-2-10-bit-video-recording-7-5-stop-5-axis-dual-image",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لباقة Panasonic Lumix GH6 مع عدسة Leica 12-60mm؛ لا يشمل الشحن والجمارك الإضافية."
   },
   {
     "id": "elx-0281",
@@ -3866,12 +3866,12 @@
     "name": "Tamron 17-70mm F2.8",
     "category": "كاميرات وعدسات",
     "brand": "Tamron",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 39325,
+    "merchant": "CameraShop Egypt",
+    "source": "https://camerashop.com.eg/product-category/lenses/page/8/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لعدسة Tamron 17-70mm f/2.8 Di III-A VC RXD؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0286",
@@ -3902,24 +3902,24 @@
     "name": "Manfrotto Compact Action Tripod",
     "category": "كاميرات وعدسات",
     "brand": "Manfrotto",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5500,
+    "merchant": "Shams Stores",
+    "source": "https://shams-stores.com/product/manfrotto-compact-action-aluminum-tripod-black/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر المنشور 5,500 جنيه؛ صفحة المتجر تعرض الإضافة إلى السلة."
   },
   {
     "id": "elx-0289",
     "name": "Manfrotto Befree Advanced Tripod",
     "category": "كاميرات وعدسات",
     "brand": "Manfrotto",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 24292,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/65546109-manfrotto-befree-advanced-camera-travel-tripod-kit-with-lever-closure",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر شامل الرسوم والضرائب حسب صفحة Desertcart؛ المنتج مستورد."
   },
   {
     "id": "elx-0290",
