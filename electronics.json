@@ -1216,12 +1216,12 @@
     "name": "Panasonic 4K LED 50",
     "category": "الشاشات والتلفزيونات",
     "brand": "Panasonic",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10900,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://elghazawy.com/ar/product/38074270224101/page/about-us",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_out_of_stock",
+    "note": "آخر سعر منشور لشاشة Panasonic TH-50HX650E مقاس 50 بوصة 4K Smart LED؛ غير متوفرة وقت الرصد، والموديل المحدد موضح هنا."
   },
   {
     "id": "elx-0071",
