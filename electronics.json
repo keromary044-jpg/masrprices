@@ -3482,12 +3482,12 @@
     "name": "Sony ZV-E10",
     "category": "كاميرات وعدسات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 57250,
+    "merchant": "DMT Stores Egypt",
+    "source": "https://priceteq.com/eg/cameras?brand=Sony",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "أقل سعر منشور بين 3 متاجر مصرية؛ تحديث يومي",
+    "note": "Sony ZV-E10 مع عدسة 16-50mm."
   },
   {
     "id": "elx-0254",
@@ -3518,36 +3518,36 @@
     "name": "Sony A7 IV",
     "category": "كاميرات وعدسات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 99000,
+    "merchant": "DMT Stores Egypt",
+    "source": "https://priceteq.com/eg/shop/772?cat=camera",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كتالوج متجر مصري يتم تحديثه يوميًا",
+    "note": "Sony A7 IV Mirrorless Camera Body Only، ضمان سنتين حسب المتجر."
   },
   {
     "id": "elx-0257",
     "name": "Sony A7C II",
     "category": "كاميرات وعدسات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 96000,
+    "merchant": "DMT Stores Egypt",
+    "source": "https://priceteq.com/eg/shop/772?cat=camera",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كتالوج متجر مصري يتم تحديثه يوميًا",
+    "note": "Sony A7C II Mirrorless Camera (Silver)."
   },
   {
     "id": "elx-0258",
     "name": "Sony FX30",
     "category": "كاميرات وعدسات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 131560,
+    "merchant": "DMT Stores Egypt",
+    "source": "https://priceteq.com/eg/shop/772?cat=camera",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور في كتالوج متجر مصري يتم تحديثه يوميًا",
+    "note": "Sony FX30 مع عدسة Sigma 18-50mm F2.8."
   },
   {
     "id": "elx-0259",
