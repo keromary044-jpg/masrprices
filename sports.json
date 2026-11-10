@@ -546,11 +546,12 @@
     "category": "تنس الطاولة",
     "brand": "متعدد",
     "unit": "قطعة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+    "price": 360,
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-exercise-bands/",
+    "checkedAt": "2026-11-10",
+    "details": "سعر شبكة تنس طاولة قابلة للسحب من MD Stay Fit.",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "sports-نظارة-سباحة-speedo-مقاسات-متعددة",
@@ -840,16 +841,24 @@
     "name": "حذاء جري – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 3300,
+    "details": "سعر حذاء الجري Nike Downshifter 12؛ موديل محدد.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-running-shoes/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0018",
     "name": "حذاء جري – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 4599,
+    "details": "سعر حذاء الجري Adidas Runfalcon 5؛ موديل محدد.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-running-shoes/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0019",
@@ -880,24 +889,36 @@
     "name": "قميص رياضي – مقاس صغير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 999,
+    "details": "سعر قميص كرة قدم للأطفال من مجموعة قمصان كأس العالم؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/soccer/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0023",
     "name": "قميص رياضي – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 999,
+    "details": "سعر قميص كرة قدم للأطفال من مجموعة قمصان كأس العالم؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/soccer/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0024",
     "name": "قميص رياضي – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 999,
+    "details": "سعر قميص كرة قدم للأطفال من مجموعة قمصان كأس العالم؛ موديل معروض.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/soccer/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0025",
@@ -1597,16 +1618,24 @@
     "name": "مايوه سباحة – مقاس متوسط",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 999,
+    "details": "سعر مايوه سباحة NABAIJI قطعة واحدة للبنات؛ موديل تدريبي معروض.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/9609-swimsuits",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0087",
     "name": "مايوه سباحة – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 1699,
+    "details": "سعر مايوه سباحة NABAIJI قطعة واحدة بتنورة للبنات.",
+    "merchant": "Decathlon Egypt",
+    "source": "https://www.decathlon.eg/en/9609-swimsuits",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0088",
@@ -1697,8 +1726,12 @@
     "name": "عجلة رياضية – مقاس كبير",
     "category": "رياضة",
     "brand": "متعدد",
-    "price": null,
-    "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+    "price": 11781,
+    "details": "سعر دراجة Giant ATX 660 الجبلية موديل 2022.",
+    "merchant": "Jumia Egypt",
+    "source": "https://www.jumia.com.eg/ar/mlp-mountain-bicycle/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مرصود لموديل محدد"
   },
   {
     "id": "catalog-sports-0097",
