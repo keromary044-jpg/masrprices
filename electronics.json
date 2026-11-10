@@ -4649,12 +4649,12 @@
     "name": "Bose SoundLink Revolve II",
     "category": "سماعات ومكبرات صوت",
     "brand": "Bose",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17555,
+    "merchant": "Audio Shop Egypt",
+    "source": "https://www.audioshopeg.com/product-page/bose-soundlink-revolve-ii",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور 17,555 جنيه؛ صفحة المتجر تعرض نفاد المخزون."
   },
   {
     "id": "elx-0348",
@@ -4673,24 +4673,24 @@
     "name": "Sennheiser HD 450BT",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sennheiser",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3950,
+    "merchant": "HardwareMarket",
+    "source": "https://hardwaremarket.net/product/sennheiser-hd-450bt-bluetooth-wireless-headphone-black/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور 3,950 جنيه؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0350",
     "name": "Sennheiser HD 560S",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sennheiser",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 16749,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/electronics-and-mobiles/sennheiser/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "سعر Sennheiser HD 560S المنشور على Noon Egypt."
   },
   {
     "id": "elx-0351",
@@ -4769,12 +4769,12 @@
     "name": "Marshall Major IV",
     "category": "سماعات ومكبرات صوت",
     "brand": "Marshall",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5980,
+    "merchant": "RayaShop",
+    "source": "https://nileshopper.com/products/131272-marshall-major-iv-wireless-on-ear-headphone",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "أقل سعر حديث مرصود 5,980 جنيه لدى RayaShop؛ تم رصد السعر خلال آخر يومين."
   },
   {
     "id": "elx-0358",
@@ -4793,12 +4793,12 @@
     "name": "Harman Kardon Onyx Studio 8",
     "category": "سماعات ومكبرات صوت",
     "brand": "Harman Kardon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14900,
+    "merchant": "iSupport Egypt",
+    "source": "https://isupport.eg/product/harman-kardon-onyx-studio-8/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر المنشور 14,900 جنيه مع خيار الإضافة للسلة."
   },
   {
     "id": "elx-0360",
@@ -4925,12 +4925,12 @@
     "name": "Beats Solo 4",
     "category": "سماعات ومكبرات صوت",
     "brand": "Beats",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12900,
+    "merchant": "iSupport Egypt",
+    "source": "https://isupport.eg/brand/beats/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر المنشور لسماعة Beats Solo 4 لدى iSupport."
   },
   {
     "id": "elx-0371",
