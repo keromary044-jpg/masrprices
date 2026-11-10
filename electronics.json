@@ -1527,12 +1527,12 @@
     "name": "Samsung Odyssey G7 32",
     "category": "شاشات الكمبيوتر",
     "brand": "Samsung",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23700,
+    "merchant": "Sigma Computer",
+    "source": "https://www.sigma-computer.com/en/item?id=8561",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر لنسخة Samsung Odyssey G7 G70D مقاس 32 بوصة بدقة 4K ومعدل 144Hz؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0096",
@@ -4937,12 +4937,12 @@
     "name": "Beats Pill",
     "category": "سماعات ومكبرات صوت",
     "brand": "Beats",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 9000,
+    "merchant": "Amazon Egypt (via PriceNa)",
+    "source": "https://eg.pricena.com/en/audio/headphones-speakers/brand/beats",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Amazon Egypt",
+    "note": "السعر لنسخة Beats Pill Plus؛ ليست بالضرورة نفس إصدار Beats Pill الأحدث."
   },
   {
     "id": "elx-0372",
@@ -5833,12 +5833,12 @@
     "name": "Corsair iCUE H150i Cooler",
     "category": "مكونات الكمبيوتر",
     "brand": "Corsair",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3400,
+    "merchant": "Sigma Computer",
+    "source": "https://sigma-computer.com/en/item?id=9f4a176c-0b5f-4dfb-8986-b513e51b0c56",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر لنسخة Corsair iCUE H150i RGB Pro XT 360mm؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0445",
@@ -6037,12 +6037,12 @@
     "name": "NZXT H7 Flow Case",
     "category": "مكونات الكمبيوتر",
     "brand": "NZXT",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8250,
+    "merchant": "Compumarts Egypt",
+    "source": "https://www.compumarts.com/ar/collections/nzxt",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج لدى المتجر",
+    "note": "السعر يبدأ من 8,250 جنيه لنسخة NZXT H7 Flow ATX؛ قد يختلف حسب اللون أو المراوح المرفقة."
   },
   {
     "id": "elx-0462",
