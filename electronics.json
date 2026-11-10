@@ -552,12 +552,12 @@
     "name": "LG OLED C3 55",
     "category": "الشاشات والتلفزيونات",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 39400,
+    "merchant": "متجر مصر - إعلان مستعمل",
+    "source": "https://www.matgarmasr.com/ad/1001",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "used_last_listed",
+    "note": "آخر سعر منشور لإعلان شاشة LG OLED C3 55 مستعملة بحالة كالجديدة؛ الإعلان مؤرخ 30 أغسطس 2026 وآخر ظهور للبائع 6 سبتمبر، لذلك ليس سعرًا مؤكدًا للتوفر الحالي."
   },
   {
     "id": "elx-0016",
@@ -5369,12 +5369,12 @@
     "name": "MikroTik CCR2004 Router",
     "category": "راوترات وشبكات",
     "brand": "MikroTik",
-    "price": 27364,
-    "merchant": "Ubuy Egypt",
-    "source": "https://www.ubuy.com.eg/ar/product/3UZPCMS7E-mikrotik-ccr2004-16g-2s-16x-gigabit-ethernet-ports-2x10g-sfp-cages",
+    "price": 39500,
+    "merchant": "Technopedia Egypt",
+    "source": "https://technopedia.io/products/mikrotik-technopedia-egypt/",
     "checkedAt": "2026-11-10",
-    "priceStatus": "imported_listed_price",
-    "note": "سعر استيراد منشور لنسخة CCR2004-16G-2S+؛ السجل الأصلي عام ولا يحدد النسخة، لذا يجب مطابقة رقم الموديل قبل اعتماد السعر. لا يشمل الشحن والجمارك."
+    "priceStatus": "local_listed_price",
+    "note": "سعر محلي منشور لدى Technopedia، الموزع الرسمي لـ MikroTik في مصر، للموديل CCR2004-16G-2S+PC؛ السعر قد يتغير."
   },
   {
     "id": "elx-0408",
