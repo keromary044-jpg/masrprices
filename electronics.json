@@ -1382,12 +1382,12 @@
     "name": "Dell S2721QS 27 4K",
     "category": "شاشات الكمبيوتر",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23359,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/1IKV0XZYU-dell-s2721qs-27-inch-4k-uhd-3840-x-2160-60hz-hdmi-dp-freesync-ips-led-monitor",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور في Ubuy مصر؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0084",
@@ -1466,12 +1466,12 @@
     "name": "HP Omen 27q 27",
     "category": "شاشات الكمبيوتر",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 17921,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/C8RYCYLIA-hp-omen-27q",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور في Ubuy مصر؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0091",
@@ -1563,12 +1563,12 @@
     "name": "LG 27MP400 27",
     "category": "شاشات الكمبيوتر",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11724,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/1B4JEGVCE-lg-27mp400-b-27-full-hd-1920-x-1080-ips-display-with-3-side-virtually-borderless-design-amd-freesync-and-onscreen-control-black",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور في Ubuy مصر لموديل 27MP400-B؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0099",
@@ -2010,12 +2010,12 @@
     "name": "HP Omen 16",
     "category": "لابتوبات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 94491,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/IQ1KMHGO2-hp-omen-16-gaming-laptop-16-1-wqhd-nvidia-geforce-rtx-3060-intel-core-i9-12900h-14-cores-16gb-ddr5-1tb-ssd-four-zone-rgb-backlit-kb-wi-fi",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لتكوين OMEN 16 بمعالج i9-12900H وRTX 3060 وذاكرة 16GB وSSD 1TB؛ لا يشمل الشحن والجمارك، ويجب مطابقة التكوين."
   },
   {
     "id": "elx-0136",
@@ -2414,12 +2414,12 @@
     "name": "Microsoft Surface Laptop 5 13.5",
     "category": "لابتوبات",
     "brand": "Microsoft",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 172393,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/87DX86KZO-microsoft-surface-laptop-5-13-5-intel-i5-8-512gb-sandstone-w-ms-365-personal",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لتكوين Core i5 وذاكرة 8GB وSSD 512GB؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0168",
@@ -3626,12 +3626,12 @@
     "name": "Fujifilm GFX 50S II",
     "category": "كاميرات وعدسات",
     "brand": "Fujifilm",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 241983,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/7HJSD7FWI-fujifilm-gfx-50s-ii-medium-format-mirrorless-camera-with-35-70mm-lens-kit",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_last_listed_price",
+    "note": "آخر سعر منشور لباقة الكاميرا مع عدسة 35-70mm؛ المنتج غير متوفر وقت الرصد والسعر لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0266",
@@ -3842,12 +3842,12 @@
     "name": "Sigma 30mm F1.4 DC DN",
     "category": "كاميرات وعدسات",
     "brand": "Sigma",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 19709,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/productjp/3O0L3DPAO-sigma-30mm-f1-4-dc-dn-c",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لعدسة Sigma 30mm F1.4 DC DN؛ يجب التأكد من توافق قاعدة العدسة مع الكاميرا قبل الشراء."
   },
   {
     "id": "elx-0284",
@@ -4841,12 +4841,12 @@
     "name": "Edifier R1700BT",
     "category": "سماعات ومكبرات صوت",
     "brand": "Edifier",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10340,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/productde/ICVLMIUWO-edifier-r1700bt-20-bluetooth-shelf-speaker-pair-black",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لزوج سماعات R1700BT؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0364",
@@ -4865,12 +4865,12 @@
     "name": "Edifier W820NB Plus",
     "category": "سماعات ومكبرات صوت",
     "brand": "Edifier",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5707,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/FSJY0FYMC-edifier-w820nb-plus-wireless-active-noise-cancelling-headphones-grey",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لسماعة W820NB Plus؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0366",
@@ -6415,24 +6415,24 @@
     "name": "BenQ TH685P",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "BenQ",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 66206,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/4WQIKVZ1E-benq-th685p-1080p-gaming-projector-4k-hdr-support-120hz-refresh-rate-3500-ansi-lumens-8-3ms-low-latency-enhanced-game-mode-3-year-industry",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لبروجكتور BenQ TH685P؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0493",
     "name": "BenQ TK700",
     "category": "أجهزة العرض والبروجكتور",
     "brand": "BenQ",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 108633,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/1OJSZACW6-4k-hdr-gaming-projector-for-fps-game-60hz-16ms-tk700",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد منشور لبروجكتور BenQ TK700؛ لا يشمل الشحن والجمارك وقد يتغير."
   },
   {
     "id": "elx-0494",
