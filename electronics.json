@@ -5857,12 +5857,12 @@
     "name": "Kingston KC3000 2TB SSD",
     "category": "مكونات الكمبيوتر",
     "brand": "Kingston",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 15800,
+    "merchant": "SoftLink Egypt",
+    "source": "https://softlink-eg.com/page/10/?filter_product_brand=278%2C371%2C374%2C397%2C399%2C407%2C412&post_type=product",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_out_of_stock",
+    "note": "آخر سعر منشور في متجر SoftLink لنسخة Kingston KC3000 سعة 2TB؛ المنتج غير متوفر وقت الرصد."
   },
   {
     "id": "elx-0447",
@@ -6109,12 +6109,12 @@
     "name": "Samsung Bar Plus 256GB USB",
     "category": "وحدات تخزين خارجية",
     "brand": "Samsung",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4229.93,
+    "merchant": "Enrgtech Egypt",
+    "source": "https://eg.enrgtechglobal.com/manufacturer/samsung/products/page/5",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "preorder_listed_price",
+    "note": "سعر منشور لفلاش Samsung BAR Plus 256GB MUF-256BE4/APC؛ الحالة طلب مسبق وليست مخزونًا جاهزًا."
   },
   {
     "id": "elx-0468",
@@ -6193,12 +6193,12 @@
     "name": "Kingston Canvas Go Plus 256GB",
     "category": "وحدات تخزين خارجية",
     "brand": "Kingston",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7502,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/producttr/QKA0GK598-kingston-256gb-canvas-go-plus",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد من تركيا لبطاقة SD Kingston Canvas Go Plus SDG4/256GB؛ لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0475",
