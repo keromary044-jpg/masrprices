@@ -7275,12 +7275,12 @@
     "name": "APC Easy UPS 1600VA",
     "category": "أجهزة الطاقة والشحن",
     "brand": "APC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 9100,
+    "merchant": "UGE Electronics Egypt",
+    "source": "https://uge-one.com/product/apc-easy-ups-bvx-1600va-230v-avr-schuko-sockets-bvx1600li-gr/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In Stock",
+    "note": "APC Easy UPS BVX 1600VA 900W AVR BVX1600LI-GR؛ السعر 9,100 جنيه."
   },
   {
     "id": "elx-0564",
@@ -7299,12 +7299,12 @@
     "name": "Eaton 5E 1100i USB",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Eaton",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7900,
+    "merchant": "UPS Egypt",
+    "source": "https://priceteq.com/eg/shop/790?cat=power",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج ضمن المنتجات المتاحة بالمخزون لدى المتجر؛ تحديث PriceTeq قبل 6 أيام",
+    "note": "Eaton 5E 1100i USB/660W Line Interactive UPS؛ السعر 7,900 جنيه."
   },
   {
     "id": "elx-0566",
@@ -7467,12 +7467,12 @@
     "name": "Elgato Stream Deck MK.2",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Elgato",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 15999,
+    "merchant": "Noon",
+    "source": "https://www.noon.com/egypt-en/elgato-stream-deck-mk-2/N53393217A/p/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ وحدة واحدة ظاهرة بالمخزون",
+    "note": "Elgato Stream Deck MK.2؛ 15 مفتاح LCD؛ السعر 15,999 جنيه."
   },
   {
     "id": "elx-0580",
@@ -7551,12 +7551,12 @@
     "name": "Huion Kamvas 13",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Huion",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 16999,
+    "merchant": "Circuits Egypt",
+    "source": "https://www.circuits.com.eg/product/huion-kamvas-13-stand/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ وحدة واحدة بالمخزون",
+    "note": "Huion Kamvas 13 GS1331 مع حامل؛ السعر 16,999 جنيه."
   },
   {
     "id": "elx-0587",
