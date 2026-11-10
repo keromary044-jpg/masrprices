@@ -1168,27 +1168,31 @@
   },
   {
     "id": "pet-guide-082",
-    "name": "حوض أسماك متوسط",
+    "name": "Pets Club Fish Tank 40cm",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 2900,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Club",
+    "source": "https://peetsclub.shop/",
+    "checkedAt": "2026-11-10",
+    "brand": "Pets Club",
+    "unit": "40 سم",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-083",
-    "name": "حوض أسماك كبير",
+    "name": "Pets Club Fish Tank 50cm",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 4500,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Club",
+    "source": "https://peetsclub.shop/",
+    "checkedAt": "2026-11-10",
+    "brand": "Pets Club",
+    "unit": "50 سم",
+    "priceStatus": "سعر منشور بصفحة المتجر وقت الرصد؛ قابل للتغيير"
   },
   {
     "id": "pet-guide-084",
@@ -1246,15 +1250,17 @@
   },
   {
     "id": "pet-guide-088",
-    "name": "سخان حوض أسماك",
+    "name": "Tetra HT10 50W Submersible Aquarium Heater",
     "category": "أحواض ومعدات الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 1320,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Pets Home Egypt",
+    "source": "https://www.petshome.com.eg/ar",
+    "checkedAt": "2026-11-10",
+    "brand": "Tetra",
+    "unit": "قطعة",
+    "priceStatus": "آخر سعر منشور؛ المنتج ظاهر غير متوفر حاليًا"
   },
   {
     "id": "pet-guide-089",
@@ -2352,15 +2358,17 @@
   },
   {
     "id": "pet-guide-175",
-    "name": "بيت قطط خارجي",
+    "name": "Dogmoda Bed for Cats – Cat House",
     "category": "الأثاث والإيواء",
     "recordType": "supply",
-    "price": null,
+    "price": 990,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "EgyPuppy",
+    "source": "https://egypuppy.com/product/dogmoda-bed-for-cats/",
+    "checkedAt": "2026-11-10",
+    "brand": "Dogmoda",
+    "unit": "قطعة",
+    "priceStatus": "السعر يبدأ من 990 جنيه حسب الاختيار"
   },
   {
     "id": "pet-guide-176",
