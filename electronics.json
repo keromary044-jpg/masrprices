@@ -5473,12 +5473,12 @@
     "name": "Intel Core i9-14900K",
     "category": "مكونات الكمبيوتر",
     "brand": "Intel",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 25500,
+    "merchant": "Compumarts Egypt",
+    "source": "https://priceteq.com/eg/product/79e05c27-3647-4781-9e2d-16722eb76cd4",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "Intel Core i9-14900K 14th Gen؛ أقل سعر مرصود 25,500 جنيه."
   },
   {
     "id": "elx-0417",
@@ -5685,12 +5685,12 @@
     "name": "ASUS Prime B760M-A Motherboard",
     "category": "مكونات الكمبيوتر",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6950,
+    "merchant": "Sigma Computer Egypt",
+    "source": "https://priceteq.com/eg/product/99f23a19-2cc9-4809-b276-63005c95dc75",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "ASUS PRIME B760M-A WIFI D4 Socket LGA 1700 Motherboard؛ السعر 6,950 جنيه."
   },
   {
     "id": "elx-0433",
@@ -6021,12 +6021,12 @@
     "name": "NZXT H5 Flow Case",
     "category": "مكونات الكمبيوتر",
     "brand": "NZXT",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4999,
+    "merchant": "Compumarts Egypt",
+    "source": "https://priceteq.com/eg/product/eedc76b8-3a87-44e4-b187-e92481617fee",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "NZXT H5 Flow RGB ATX Mid-Tower Gaming Case؛ السعر 4,999 جنيه."
   },
   {
     "id": "elx-0461",
