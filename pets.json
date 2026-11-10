@@ -1109,12 +1109,12 @@
     "name": "غذاء مجفف بالتجميد للأسماك",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 60,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/49186673-freeze-dried-tubifex-worm-cubes-for-use-as-fish-food",
+    "checkedAt": "2026-11-10",
+    "note": "Zewool Freeze Dried Tubifex Worm Cubes 50g؛ سعر الاستيراد شامل الرسوم والضرائب."
   },
   {
     "id": "pet-guide-078",
@@ -1497,12 +1497,12 @@
     "name": "مخبأ للزواحف",
     "category": "مستلزمات الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 915.33,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Vivapets Egypt",
+    "source": "https://shop.vivapets.com/eg/trixie-reptile-cave",
+    "checkedAt": "2026-11-10",
+    "note": "Trixie Reptile Cave؛ مخبأ للزواحف، السعر المنشور والمقاس يختلف حسب الاختيار."
   },
   {
     "id": "pet-guide-108",
@@ -1521,12 +1521,12 @@
     "name": "فرع تسلق للزواحف",
     "category": "مستلزمات الزواحف",
     "recordType": "supply",
-    "price": null,
+    "price": 1170,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/2J3GEF0-aquarium-driftwood-natural-wood-reptile-branch-fish-tank-tree-plant-stump-ornament-decor-4-pcs",
+    "checkedAt": "2026-11-10",
+    "note": "Tfwadmx Aquarium Driftwood Natural Wood 4 قطع؛ السعر لا يشمل الشحن والجمارك."
   },
   {
     "id": "pet-guide-110",
@@ -2645,12 +2645,12 @@
     "name": "دفتر متابعة التطعيمات",
     "category": "مستلزمات عامة",
     "recordType": "supply",
-    "price": null,
+    "price": 734,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/ar/product/8EAPGFOYW-dog-vaccination-record-book-wonderful-pet-health-vaccine-track-journal-notebook-for-every-dog-owner-canine-complete-health-log-book",
+    "checkedAt": "2026-11-10",
+    "note": "Dog Vaccination Record Book؛ السعر المعروض لا يشمل الشحن والجمارك."
   },
   {
     "id": "pet-guide-198",
