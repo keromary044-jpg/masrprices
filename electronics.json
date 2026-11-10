@@ -2642,12 +2642,12 @@
     "name": "Apple Mac mini M2",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 30000,
+    "merchant": "Innovoshop Egypt",
+    "source": "https://shop.innovocreation.com/products/apple-mac-mini-m2?lang=ar",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "local_listed_price",
+    "note": "سعر منشور في متجر مصري لجهاز Mac mini M2؛ تفاصيل الذاكرة والتخزين غير ظاهرة بالكامل في صفحة المنتج."
   },
   {
     "id": "elx-0187",
@@ -2666,12 +2666,12 @@
     "name": "Apple Mac Studio M2 Max",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 72500,
+    "merchant": "iApple Egypt",
+    "source": "https://iapple-eg.com/product/apple-mac-studio-m2-max/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "local_listed_price",
+    "note": "سعر منشور لتكوين Mac Studio M2 Max بمعالج 12-core وذاكرة 32GB وSSD 512GB."
   },
   {
     "id": "elx-0189",
