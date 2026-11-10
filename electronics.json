@@ -4204,12 +4204,12 @@
     "name": "Logitech G G733 Headset",
     "category": "أجهزة الألعاب",
     "brand": "Logitech G",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7999,
+    "merchant": "Delta Computer Egypt",
+    "source": "https://delta-computer.net/products/logitech-g733-981-000864-lightspeed-gaming-headset",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "قطعة واحدة ظاهرة بالمخزون؛ آخر زحف أمس",
+    "note": "Logitech G733 LIGHTSPEED Wireless RGB Gaming Headset 981-000864؛ السعر 7,999 جنيه."
   },
   {
     "id": "elx-0314",
@@ -4526,24 +4526,24 @@
     "name": "Sony SRS-XG300",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 21580,
+    "merchant": "AudioTech Egypt",
+    "source": "https://audioteceg.com/products/sony-srs-xg300",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر ظاهر والصفحة تعرض Add to cart؛ آخر زحف قبل 3 أسابيع",
+    "note": "Sony SRS-XG300 Portable Bluetooth Speaker؛ السعر 21,580 جنيه."
   },
   {
     "id": "elx-0339",
     "name": "Sony HT-S400 Soundbar",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14999,
+    "merchant": "MoreShopping Egypt",
+    "source": "https://qarenly.com/en/product/peripheral%3Aspeakers%3Asony%3Aht-s400",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ تحديث مقارنة الأسعار 26 أكتوبر 2026",
+    "note": "Sony HT-S400 2.1ch Soundbar with Wireless Subwoofer؛ أقل سعر مرصود 14,999 جنيه."
   },
   {
     "id": "elx-0340",
