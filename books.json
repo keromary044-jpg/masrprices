@@ -1840,12 +1840,13 @@
       "title": "اللجنة",
       "author": "صنع الله إبراهيم",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 200,
+      "merchant": "ديوان",
+      "source": "https://diwanegypt.com/product/%D8%A7%D9%84%D9%84%D8%AC%D9%86%D8%A9/",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر المنشور 200 جنيه والصفحة تشير إلى توفر المنتج"
     },
     {
       "id": "catalog-027-ذات",
@@ -1878,12 +1879,13 @@
       "title": "شيكاجو",
       "author": "علاء الأسواني",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 150,
+      "merchant": "متجر كتب مصر",
+      "source": "https://egybookstore.com/products/copy-copy-copy-%D9%89-15",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "نسخة مستعملة؛ السعر 150 جنيه والصفحة تعرض المنتج نافدًا من المخزون"
     },
     {
       "id": "catalog-030-عزازيل",
@@ -2225,12 +2227,13 @@
       "title": "الحب في زمن الكوليرا",
       "author": "غابرييل غارسيا ماركيز",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 742.5,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=4840abee-a167-4c1b-ae14-b312353500b5",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر بعد الخصم لطبعة دار التنوير؛ غير متوفرة حاليًا"
     },
     {
       "id": "catalog-057-الجريمة-والعقاب",
@@ -2434,13 +2437,13 @@
       "title": "نساء صغيرات",
       "author": "لويزا ماي ألكوت",
       "category": "أدب عالمي",
-      "price": 990,
-      "merchant": "مكتبات الشروق",
-      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=69a55a6b-970f-4f2f-8cd2-f43145d92200",
-      "checkedAt": "2026-11-10",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
       "legalPdfUrl": null,
       "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
-      "priceStatus": "السعر بعد الخصم منشور؛ الطبعة غير متوفرة حاليًا"
+      "priceStatus": "صفحة المصدر تعرض السعر بالدولار الأمريكي لا بالجنيه المصري؛ لم يُسجل كسعر محلي"
     },
     {
       "id": "catalog-074-جين-إير",
@@ -2784,12 +2787,13 @@
       "title": "البخلاء",
       "author": "الجاحظ",
       "category": "أدب تراثي",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 360,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=24336b9d-da24-4636-bbd9-39c62270c281",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر بعد الخصم؛ غير متوفر حاليًا"
     },
     {
       "id": "catalog-103-الحيوان",
