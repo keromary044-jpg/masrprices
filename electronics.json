@@ -1288,12 +1288,12 @@
     "name": "Nikai LED TV 32",
     "category": "الشاشات والتلفزيونات",
     "brand": "Nikai",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3100,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://elghazawy.com/en/product/271955/Nikai-TV-32-inch",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_out_of_stock",
+    "note": "آخر سعر منشور لتلفزيون Nikai NE32SLED مقاس 32 بوصة HD Smart LED؛ غير متوفر وقت الرصد."
   },
   {
     "id": "elx-0077",
