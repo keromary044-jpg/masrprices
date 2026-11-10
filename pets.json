@@ -1061,24 +1061,24 @@
     "name": "غذاء جولد فيش",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 95,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Sheikh Al-Attarin",
+    "source": "https://eg.sheikhalattarin.com/en/shop/category/animal-feed-supplies-animal-feed-1249",
+    "checkedAt": "2026-11-10",
+    "note": "سعر منشور لمنتج Goldfish Feed؛ قد يختلف حسب العبوة والتوفر."
   },
   {
     "id": "pet-guide-074",
     "name": "غذاء بيتا",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 363,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "My Tank Scape",
+    "source": "https://mytankscape.com/brand/hikari/",
+    "checkedAt": "2026-11-10",
+    "note": "سعر منشور لطعام Hikari Betta Bio-Gold 20g؛ ظهر غير متوفر بالمخزون وقت التحقق."
   },
   {
     "id": "pet-guide-075",
@@ -1121,12 +1121,12 @@
     "name": "أقراص طحالب للأسماك",
     "category": "طعام الأسماك",
     "recordType": "supply",
-    "price": null,
+    "price": 363,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "My Tank Scape",
+    "source": "https://mytankscape.com/brand/hikari/",
+    "checkedAt": "2026-11-10",
+    "note": "سعر منشور لأقراص Hikari Algae Wafers 82g؛ ظهر غير متوفر بالمخزون وقت التحقق."
   },
   {
     "id": "pet-guide-079",
