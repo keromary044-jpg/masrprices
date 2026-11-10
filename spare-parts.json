@@ -676,27 +676,29 @@
     },
     {
       "id": "spare-parts-ثرموستات-تبريد-هيونداي-hyundai-قطعة",
-      "name": "ثرموستات تبريد هيونداي",
+      "name": "ثرموستات AUTO TOP هيونداي إلنترا HD",
       "category": "تبريد ومحرك",
-      "brand": "Hyundai",
+      "brand": "AUTO TOP",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 250,
+      "merchant": "Auto Spare",
+      "source": "https://autospare.com.eg/parts/هيونداي/ثرموستات-مياه",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لثرموستات نحلة هيونداي إلنترا HD.",
+      "model": "Hyundai Elantra HD"
     },
     {
       "id": "spare-parts-مروحة-تبريد-رادياتير-متعدد-قطعة",
-      "name": "مروحة تبريد رادياتير",
+      "name": "مروحة ردياتير وتكييف هيونداي إلنترا HD",
       "category": "تبريد ومحرك",
-      "brand": "متعدد",
+      "brand": "Aftermarket",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 1700,
+      "merchant": "Auto Spare",
+      "source": "https://autospare.com.eg/parts/هيونداي/النترا-hd/دورة-تبريد-المحرك",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لمروحة ردياتير وتكييف إلنترا HD؛ تحقق من الفيشة والموديل.",
+      "model": "Hyundai Elantra HD"
     },
     {
       "id": "spare-parts-كشاف-أمامي-لتويوتا-كورولا-toyota-قطعة",
@@ -725,15 +727,15 @@
     },
     {
       "id": "spare-parts-مصباح-أمامي-h4-osram-قطعة",
-      "name": "مصباح أمامي H4",
+      "name": "لمبة أمامية OSRAM H4 60/55W",
       "category": "إضاءة وكهرباء",
-      "brand": "Osram",
+      "brand": "OSRAM",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 250,
+      "merchant": "Auto Spare",
+      "source": "https://autospare.com.eg/manufacturer/osram",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن للمبة هالوجين OSRAM H4 بقدرة 60/55 وات؛ تحقق من مقاس اللمبة المطلوب."
     },
     {
       "id": "spare-parts-مساحات-زجاج-أمامية-22-بوصة-bosch-زوج",
@@ -812,15 +814,16 @@
     },
     {
       "id": "spare-parts-طقم-دبرياج-لهيونداي-hyundai-طقم",
-      "name": "طقم دبرياج لهيونداي",
+      "name": "طقم دبرياج كامل VALVO هيونداي إلنترا HD",
       "category": "نقل الحركة",
-      "brand": "Hyundai",
+      "brand": "VALVO",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 3900,
+      "merchant": "Auto Spare",
+      "source": "https://autospare.com.eg/parts/هيونداي/طقم-الدبرياج",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لطقم دبرياج كامل للنترا HD الجمل.",
+      "model": "Hyundai Elantra HD"
     },
     {
       "id": "spare-parts-أسطوانة-دبرياج-لنيسان-nissan-قطعة",
@@ -874,15 +877,16 @@
     },
     {
       "id": "spare-parts-حساس-حرارة-مياه-لهيونداي-hyundai-قطعة",
-      "name": "حساس حرارة مياه لهيونداي",
+      "name": "حساس حرارة CIT هيونداي إلنترا HD",
       "category": "حساسات",
-      "brand": "Hyundai",
+      "brand": "CIT",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 160,
+      "merchant": "Auto Spare",
+      "source": "https://autospare.com.eg/parts/هيونداي/حساسات-التبريد",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لحساس حرارة هيونداي إلنترا HD.",
+      "model": "Hyundai Elantra HD"
     },
     {
       "id": "spare-parts-جوان-غطاء-التاكيهات-لتويوتا-toyota-قطعة",
