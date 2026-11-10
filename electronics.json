@@ -781,12 +781,12 @@
     "name": "TCL S5400 32",
     "category": "الشاشات والتلفزيونات",
     "brand": "TCL",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 16984,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/U6ALCSZAC-tv-tcl-32s5400af-32-full-hd-con-smart-tv-y-wifi",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_listed_price",
+    "note": "سعر استيراد لموديل TCL 32S5400AF، وهو إصدار قريب من 32S5400؛ لا يشمل الشحن والجمارك، راجع لاحقة الموديل قبل اعتماد المطابقة."
   },
   {
     "id": "elx-0035",
@@ -1803,12 +1803,12 @@
     "name": "Lenovo Legion R27q 27",
     "category": "شاشات الكمبيوتر",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 16000,
+    "merchant": "Smart Koshk Egypt",
+    "source": "https://smartkoshk.com/collections/monitors",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_out_of_stock",
+    "note": "آخر سعر منشور لشاشة Lenovo Legion R27q-30 مقاس 27 بوصة QHD بتردد 180Hz؛ المتجر يعرضها غير متوفرة حاليًا."
   },
   {
     "id": "elx-0119",
