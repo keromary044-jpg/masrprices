@@ -3038,12 +3038,12 @@
     "name": "Epson WorkForce WF-2930",
     "category": "طابعات وماسحات",
     "brand": "Epson",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 48738,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/474830584-workforce-wf-2930-wireless-all-in-one-printer-with-scan",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر شامل الرسوم والضرائب حسب صفحة Desertcart؛ المنتج مستورد."
   },
   {
     "id": "elx-0217",
@@ -3470,12 +3470,12 @@
     "name": "Nikon AF-S 50mm F1.8",
     "category": "كاميرات وعدسات",
     "brand": "Nikon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6000,
+    "merchant": "Dubizzle Egypt",
+    "source": "https://www.dubizzle.com.eg/en/electronics-home-appliances/cameras-imaging/q-nikon-50mm1.8/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر مستعمل",
+    "note": "السعر لإعلان مستعمل لعدسة Nikon AF-S 50mm f/1.8G؛ ليس سعر منتج جديد."
   },
   {
     "id": "elx-0253",
@@ -3818,24 +3818,24 @@
     "name": "Panasonic Lumix S5 II",
     "category": "كاميرات وعدسات",
     "brand": "Panasonic",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 297511,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/507333921-panasoniclumix-dc-s5-ii-full-frame-mirrorless-camera-body-4k-60p-and-6k-30p-flip-screen-wi-fi-phase-hybrid-af-with-779-points-active-is-body-only-with-dmw-blk22-spare-battery-black",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لنسخة Panasonic Lumix S5 II مع بطارية إضافية؛ السعر شامل الرسوم والضرائب حسب Desertcart."
   },
   {
     "id": "elx-0282",
     "name": "Sigma 18-50mm F2.8 DC DN",
     "category": "كاميرات وعدسات",
     "brand": "Sigma",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 30500,
+    "merchant": "CameraTK",
+    "source": "https://cameratk.com/product-category/lens/sigma-lens/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر منشور",
+    "note": "السعر لعدسة Sigma 18-50mm f/2.8 DC DN Contemporary لسوني E."
   },
   {
     "id": "elx-0283",
@@ -3854,12 +3854,12 @@
     "name": "Sigma 16mm F1.4 DC DN",
     "category": "كاميرات وعدسات",
     "brand": "Sigma",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 21000,
+    "merchant": "Kareem Stores / PriceTeq",
+    "source": "https://priceteq.com/eg/cameras?type=lens",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج لدى المتجر",
+    "note": "السعر لعدسة Sigma 16mm f/1.4 DC DN Contemporary لسوني E."
   },
   {
     "id": "elx-0285",
