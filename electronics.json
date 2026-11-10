@@ -2426,12 +2426,12 @@
     "name": "Microsoft Surface Laptop 6 15",
     "category": "لابتوبات",
     "brand": "Microsoft",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 37999,
+    "merchant": "Laapak Egypt",
+    "source": "https://www.laapak.com/eg/collections/microsoft",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مستعمل بحالة ممتازة",
+    "note": "السعر لنسخة Surface Laptop 6 بمعالج Core Ultra 7 وذاكرة 16GB؛ مستورد بحالة ممتازة وليس جديدًا."
   },
   {
     "id": "elx-0169",
@@ -2462,12 +2462,12 @@
     "name": "Gigabyte G5 KF",
     "category": "لابتوبات",
     "brand": "Gigabyte",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 47999,
+    "merchant": "ABC Shop Egypt",
+    "source": "https://www.abcshop-eg.com/shop/gigabyte-g5-kf5-2024-1928",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "السعر لنسخة Gigabyte G5 KF5 2024 بمعالج i7-13620H وRTX 4060 وذاكرة 16GB."
   },
   {
     "id": "elx-0172",
@@ -3794,12 +3794,12 @@
     "name": "Panasonic Lumix G100",
     "category": "كاميرات وعدسات",
     "brand": "Panasonic",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 53006.54,
+    "merchant": "Glazer's Camera (via Ijmali)",
+    "source": "https://ijmali.app/prices/mirrorless-cameras",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لنسخة Panasonic Lumix G100D مع عدسة 12-32mm؛ تكلفة الشحن النهائية تقديرية."
   },
   {
     "id": "elx-0280",
@@ -4300,12 +4300,12 @@
     "name": "HyperX Cloud Alpha",
     "category": "أجهزة الألعاب",
     "brand": "HyperX",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4500,
+    "merchant": "Compumarts Egypt (via Ijmali)",
+    "source": "https://ijmali.app/prices/gaming-headsets-hyperx",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج لدى المتجر",
+    "note": "السعر لسماعة HyperX Cloud Alpha S لدى Compumarts؛ الرصد قبل 13 يومًا."
   },
   {
     "id": "elx-0322",
