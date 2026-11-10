@@ -7423,12 +7423,12 @@
     "name": "Dymo LabelWriter 550",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Dymo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 20310,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/405355148-dymo-labelwriter-550-label-printer-label-maker-with-direct-thermal",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "imported_in_stock_price_duties_included",
+    "note": "سعر استيراد منشور لدى Desertcart Egypt شامل الرسوم والضرائب والتوصيل؛ نسخة القابس البريطاني، تحقق من توافق القابس قبل الشراء."
   },
   {
     "id": "elx-0576",
