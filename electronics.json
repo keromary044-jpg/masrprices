@@ -2498,12 +2498,12 @@
     "name": "Dell OptiPlex 7010 SFF",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11900,
+    "merchant": "Laptop Store",
+    "source": "https://laptop.store-eg.com/en/category/dell-desktops",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ صفحة المتجر تعرض متوفر وأضف إلى السلة؛ آخر زحف أمس",
+    "note": "Dell OptiPlex 7010 SFF Desktop؛ السعر المعروض 11,900 جنيه؛ تكوين المعالج والذاكرة غير محدد في صفحة القائمة."
   },
   {
     "id": "elx-0175",
@@ -2546,12 +2546,12 @@
     "name": "HP Pro Tower 290 G9",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 38100,
+    "merchant": "MEST Stores Egypt",
+    "source": "https://priceteq.com/eg/product/d3991bf1-0784-497c-b7bf-b470deb06dc5",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ PriceTeq checked 8 Nov 2026",
+    "note": "HP Pro Tower 290 G9؛ Core i5-13500 / 8GB DDR4 / 512GB SSD / DOS؛ السعر 38,100 جنيه."
   },
   {
     "id": "elx-0179",
@@ -5697,12 +5697,12 @@
     "name": "ASUS TUF B650-Plus Motherboard",
     "category": "مكونات الكمبيوتر",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8450,
+    "merchant": "New Vision Egypt",
+    "source": "https://www.egprices.com/en/product/asus-tuf-gaming-b650-plus-amd-motherboard",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ متجر New Vision يعرض شراء أونلاين",
+    "note": "ASUS TUF GAMING B650-PLUS AM5 DDR5 Motherboard؛ السعر 8,450 جنيه."
   },
   {
     "id": "elx-0434",
@@ -5757,12 +5757,12 @@
     "name": "Gigabyte B760M DS3H Motherboard",
     "category": "مكونات الكمبيوتر",
     "brand": "Gigabyte",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5999,
+    "merchant": "NileShopper / Egyptian retailers",
+    "source": "https://nileshopper.com/category/motherboard/intel-b760",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر مرصود خلال آخر 3 أيام؛ فئة المقارنة تعرض مخزونًا متاحًا",
+    "note": "Gigabyte B760M DS3H Micro ATX DDR4 Motherboard؛ السعر 5,999 جنيه."
   },
   {
     "id": "elx-0439",
