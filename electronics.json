@@ -696,12 +696,12 @@
     "name": "TCL P635 43",
     "category": "الشاشات والتلفزيونات",
     "brand": "ماركات متعددة",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
+    "price": 13900,
+    "merchant": "GehazTech Egypt - price guide",
+    "source": "https://gehaztech.com/%D9%85%D9%85%D9%8A%D8%B2%D8%A7%D8%AA-%D9%88-%D8%B9%D9%8A%D9%88%D8%A8-%D8%B4%D8%A7%D8%B4%D8%A9-%D8%AA%D9%8A-%D8%B3%D9%8A-%D8%A7%D9%84-43-%D8%A8%D9%88%D8%B5%D8%A9-%D8%B3%D9%85%D8%A7%D8%B1%D8%AA/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "indicative_market_range",
+    "note": "الحد الأدنى من نطاق سعري منشور في مصر لموديل TCL 43P635؛ النطاق المذكور 13,900–15,200 جنيه، وليس عرض متجر محددًا.",
     "details": "عنصر كتالوج تعريفي؛ لم يتم رصد سعر موثوق مطابق لهذا المنتج."
   },
   {
@@ -1045,12 +1045,12 @@
     "name": "Unionaire Smart TV 32",
     "category": "الشاشات والتلفزيونات",
     "brand": "Unionaire",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5460,
+    "merchant": "EStores Egypt",
+    "source": "https://estoreseg.com/collections/unionaire",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "listed_in_stock_price",
+    "note": "سعر منشور لتلفزيون Unionaire L32UT610 سمارت مقاس 32 بوصة؛ هذا هو الموديل المحدد المطابق للفئة والحجم."
   },
   {
     "id": "elx-0057",
@@ -1069,12 +1069,12 @@
     "name": "Unionaire 4K UHD 50",
     "category": "الشاشات والتلفزيونات",
     "brand": "Unionaire",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7099,
+    "merchant": "Raya Shop Egypt",
+    "source": "https://www.rayashop.com/ar/unionaire-50-inch-4k-uhd-smart-led-tv-m50uv790-14483",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_store_price_stock_to_confirm",
+    "note": "سعر منشور لتلفزيون Unionaire M50UV790 مقاس 50 بوصة 4K UHD Smart؛ تأكد من التوفر والسعر النهائي لدى المتجر."
   },
   {
     "id": "elx-0059",
