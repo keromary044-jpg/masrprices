@@ -2258,12 +2258,12 @@
     "name": "Apple MacBook Air 15 M2",
     "category": "لابتوبات",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 55600,
+    "merchant": "Trojan Stores Egypt",
+    "source": "https://www.trojanstores.com/c/mac/macbook-air",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_local_price",
+    "note": "آخر سعر منشور لتكوين MacBook Air 15 M2 بذاكرة 8GB وSSD 256GB؛ غير متوفر وقت الرصد."
   },
   {
     "id": "elx-0155",
@@ -2330,12 +2330,12 @@
     "name": "MSI Katana 15 B13V",
     "category": "لابتوبات",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 60899,
+    "merchant": "Kaza Egypt",
+    "source": "https://kaza.com.eg/en/msi-katana-intelr-core-i9-13900h-32gb-1tb-ssd-nvidiar-geforce-rtx-4060-8gb-15-6-qhd-black-15-b13vfk.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_local_price",
+    "note": "آخر سعر منشور لتكوين Katana 15 B13VFK بمعالج i9-13900H وذاكرة 32GB وSSD 1TB وRTX 4060؛ غير متوفر وقت الرصد."
   },
   {
     "id": "elx-0161",
@@ -2366,24 +2366,24 @@
     "name": "Huawei MateBook D14",
     "category": "لابتوبات",
     "brand": "Huawei",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 13999,
+    "merchant": "Sigma Computer",
+    "source": "https://sigma-computer.com/ar/search?filters=%7B%22brand_id%22%3A%5B%229f4a0463-5009-49b6-a4d6-e16681489a45%22%5D%7D",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_local_price",
+    "note": "آخر سعر منشور لتكوين Huawei MateBook D14 بمعالج i5-10210U وذاكرة 8GB وSSD 512GB؛ غير متوفر وقت الرصد."
   },
   {
     "id": "elx-0164",
     "name": "Huawei MateBook D15",
     "category": "لابتوبات",
     "brand": "Huawei",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 22450,
+    "merchant": "Trojan Stores Egypt",
+    "source": "https://priceteq.com/eg/product/793bc523-8f60-4555-838e-6f3b1ee916be",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_local_price",
+    "note": "آخر سعر محلي منشور لتكوين MateBook D15 Ryzen 7 وذاكرة 8GB وSSD 512GB؛ غير متوفر وقت الرصد."
   },
   {
     "id": "elx-0165",
@@ -2438,12 +2438,12 @@
     "name": "Microsoft Surface Pro 9",
     "category": "لابتوبات",
     "brand": "Microsoft",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 37250,
+    "merchant": "Trojan Stores Egypt",
+    "source": "https://www.trojanstores.com/c/surface-drawing/surface-pro",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "local_listed_price",
+    "note": "سعر منشور لتكوين Surface Pro 9 بمعالج i5 وذاكرة 8GB وSSD 256GB؛ يلزم تأكيد اختيار السعة قبل الشراء."
   },
   {
     "id": "elx-0170",
