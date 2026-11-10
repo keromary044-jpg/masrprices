@@ -1400,6 +1400,72 @@
       "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY8050000",
       "checkedAt": "2026-11-10",
       "priceStatus": "سعر منشور بصفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-elgiza-test-screwdriver-4-nov10",
+      "name": "طقم مفكات اختبار Elgiza – 4 قطع",
+      "category": "عدد يدوية",
+      "brand": "Elgiza",
+      "price": 139,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في صفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-weneed-home-repair-set-5-nov10",
+      "name": "طقم أدوات إصلاح منزلي Weneed – 5 قطع",
+      "category": "عدد يدوية",
+      "brand": "Weneed",
+      "price": 260,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في صفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-apt-slotted-screwdriver-nov10",
+      "name": "مفك مسطح APT مقاس 6×150 مم",
+      "category": "عدد يدوية",
+      "brand": "APT",
+      "price": 45,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في صفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-deli-6in1-screwdriver-nov10",
+      "name": "مفك Deli متعدد الاستخدام 6 في 1",
+      "category": "عدد يدوية",
+      "brand": "Deli",
+      "price": 210,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/tools-sets-/screwdriver-6x1-rubber-hand/p/691459",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في صفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-deli-screwdriver-set-2-nov10",
+      "name": "طقم مفكات Deli بمقبض مطاطي – قطعتان",
+      "category": "عدد يدوية",
+      "brand": "Deli",
+      "price": 140,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في صفحة كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "tool-deli-pipe-wrench-10-nov10",
+      "name": "مفتاح مواسير Deli – 10 بوصة",
+      "category": "عدد يدوية",
+      "brand": "Deli",
+      "price": 475,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور في صفحة كارفور وقت الرصد؛ قابل للتغيير"
     }
   ]
 }
