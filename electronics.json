@@ -909,15 +909,18 @@
   },
   {
     "id": "elx-0044",
-    "name": "Sony X85L 55",
+    "name": "Sony BRAVIA X85L 55-inch 4K HDR Full Array LED Google TV",
     "category": "الشاشات والتلفزيونات",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 45000,
+    "merchant": "مرجع أسعار السوق المصري (GehazTech)",
+    "source": "https://gehaztech.com/مميزات-و-عيوب-شاشة-سوني-55-بوصة-4k/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نطاق سعري منشور في مصر 45,000–65,000 جنيه لفئة X85L 55 بوصة بتاريخ سبتمبر 2026؛ خانة price تعرض الحد الأدنى وليس عرض متجر محددًا.",
+    "note": "مرجع نطاق سعري وليس سعر بيع مؤكدًا لدى تاجر بعينه؛ يلزم التحقق من عرض حالي.",
+    "model": "KD-55X85L",
+    "priceMin": 45000,
+    "priceMax": 65000
   },
   {
     "id": "elx-0045",
