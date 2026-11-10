@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "currency": "EGP",
   "notice": "أسعار منشورة لدى كارفور مصر وقت الرصد؛ راجع المواصفات والتوافق مع فني مختص. الإضافات الجديدة بيانات تعريفية، وأسعارها غير متحققة ولم تُعرض كقيمة سوقية.",
   "products": [
@@ -537,13 +537,14 @@
     },
     {
       "id": "electrical-catalog-034",
-      "name": "شريط عزل كهربائي – مقاس صغير",
-      "category": "أدوات كهربائية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Electrical Insulation Tape - 10 Meter x 19 mm",
+      "category": "مستلزمات كهرباء",
+      "price": 20,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050900",
+      "checkedAt": "2026-11-10",
+      "brand": "غير محدد",
+      "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
     },
     {
       "id": "electrical-catalog-035",
@@ -1049,13 +1050,14 @@
     },
     {
       "id": "electrical-catalog-084",
-      "name": "شريط عزل كهربائي – مقاس متوسط",
-      "category": "أدوات كهربائية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Power Lock Electrical Tape - 10 Meters",
+      "category": "مستلزمات كهرباء",
+      "price": 35,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050900",
+      "checkedAt": "2026-11-10",
+      "brand": "Power Lock",
+      "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
     },
     {
       "id": "electrical-catalog-085",
@@ -1213,13 +1215,14 @@
     },
     {
       "id": "electrical-catalog-100",
-      "name": "لمبة ليد E27 – مقاس متوسط",
-      "category": "أدوات كهربائية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Philips Essentials LED Bulb 9W - White - 3Pcs",
+      "category": "إضاءة",
+      "price": 229.95,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "brand": "Philips",
+      "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
     },
     {
       "id": "electrical-catalog-101",
@@ -2219,13 +2222,14 @@
     },
     {
       "id": "electrical-catalog-200",
-      "name": "لمبة ليد E27 – مقاس XL",
-      "category": "أدوات كهربائية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
-      "brand": "غير محدد"
+      "name": "Elsewedy LED Lamp - 12 Watt - Cool Day Light - 3 Pieces",
+      "category": "إضاءة",
+      "price": 189,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8050000",
+      "checkedAt": "2026-11-10",
+      "brand": "Elsewedy",
+      "priceStatus": "سعر منشور على صفحة كارفور وقت الرصد؛ قابل للتغيير ويجب تأكيد التوفر قبل الشراء"
     },
     {
       "id": "qsm-copper-wire-2mm",
