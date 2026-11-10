@@ -2868,6 +2868,146 @@
       "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010201",
       "checkedAt": "2026-11-10",
       "priceStatus": "سعر منشور في كارفور وقت الرصد؛ قابل للتغيير"
+    },
+    {
+      "id": "elec-ilock-strip-5",
+      "name": "مشترك كهرباء iLock بخمسة مخارج عالمية",
+      "category": "مستلزمات كهرباء",
+      "brand": "I.lock",
+      "price": 389,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-hero-extension-3",
+      "name": "مشترك تمديد Hero 303 بثلاثة مخارج",
+      "category": "مستلزمات كهرباء",
+      "brand": "Hero",
+      "price": 369,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-ilock-male-plug-10a",
+      "name": "قابس كهرباء iLock ذكر 10 أمبير",
+      "category": "مستلزمات كهرباء",
+      "brand": "iLock",
+      "price": 25,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-giza-extension-3m-16a",
+      "name": "مشترك جيزة بسلك 3 متر 16 أمبير",
+      "category": "مستلزمات كهرباء",
+      "brand": "Giza",
+      "price": 489,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-powerlock-strip-15m-3",
+      "name": "مشترك Power Lock بطول 1.5 متر وثلاثة مخارج",
+      "category": "مستلزمات كهرباء",
+      "brand": "Power Lock",
+      "price": 169,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-best-mk-plug",
+      "name": "فيشة Best MK",
+      "category": "مستلزمات كهرباء",
+      "brand": "Best",
+      "price": 85,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-extension-connector-4",
+      "name": "وصلة كهرباء متعددة بأربعة منافذ",
+      "category": "مستلزمات كهرباء",
+      "brand": "غير محدد",
+      "price": 640,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-milla-tape-20yd",
+      "name": "شريط عزل كهربائي Milla PVC بطول 20 ياردة",
+      "category": "مستلزمات كهرباء",
+      "brand": "Milla",
+      "price": 60,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-extension-connector-3",
+      "name": "وصلة كهرباء متعددة بثلاثة منافذ",
+      "category": "مستلزمات كهرباء",
+      "brand": "غير محدد",
+      "price": 640,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-giza-adapter-fg",
+      "name": "محول فيشة جيزة من نوع F إلى G",
+      "category": "مستلزمات كهرباء",
+      "brand": "Giza",
+      "price": 60,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-hero-adapter-fg-16a",
+      "name": "محول فيشة Hero من نوع F إلى G بقدرة 16 أمبير",
+      "category": "مستلزمات كهرباء",
+      "brand": "Hero",
+      "price": 65,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-single-socket-strip-16a",
+      "name": "مشترك كهرباء بمخرج واحد 16 أمبير",
+      "category": "مستلزمات كهرباء",
+      "brand": "غير محدد",
+      "price": 85,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-best-triple-connector",
+      "name": "وصلة كهرباء ثلاثية Best",
+      "category": "مستلزمات كهرباء",
+      "brand": "Best",
+      "price": 80,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "id": "elec-giza-triple-extension",
+      "name": "وصلة تمديد ثلاثية جيزة",
+      "category": "مستلزمات كهرباء",
+      "brand": "Giza",
+      "price": 119,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4010301",
+      "checkedAt": "2026-11-10"
     }
   ],
   "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
