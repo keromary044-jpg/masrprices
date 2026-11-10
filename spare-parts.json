@@ -43,15 +43,17 @@
     },
     {
       "id": "part-toyota-brake-pads",
-      "name": "تيل فرامل أصلي لتويوتا",
+      "name": "تيل فرامل أمامي أصلي تويوتا كورولا",
       "category": "فرامل",
       "brand": "Toyota",
       "unit": "طقم",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 950,
+      "merchant": "الورشة",
+      "details": "سعر منشور لتيل فرامل أمامي كورولا؛ تم تحديد الموديل حتى لا يُعمم السعر على كل سيارات تويوتا.",
+      "source": "https://alwarsha.heliopoliscore.com/ar/parts?category=brakes",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla",
+      "partNumber": "04465-02220"
     },
     {
       "id": "part-toyota-brake-disc",
@@ -238,15 +240,16 @@
     },
     {
       "id": "spare-parts-فلتر-زيت-لهيونداي-إلنترا-hyundai-قطعة",
-      "name": "فلتر زيت لهيونداي إلنترا",
+      "name": "فلتر زيت MANDO هيونداي إلنترا HD",
       "category": "فلاتر",
-      "brand": "Hyundai",
+      "brand": "MANDO",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 230,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/hyundai/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لفلتر زيت MANDO لهيونداي إلنترا HD.",
+      "model": "Hyundai Elantra HD"
     },
     {
       "id": "spare-parts-فلتر-هواء-لهيونداي-إلنترا-hyundai-قطعة",
@@ -276,15 +279,16 @@
     },
     {
       "id": "spare-parts-فلتر-تكييف-لكيا-سيراتو-kia-قطعة",
-      "name": "فلتر تكييف لكيا سيراتو",
+      "name": "فلتر تكييف MANDO كيا سيراتو 2010 1.6",
       "category": "فلاتر",
-      "brand": "Kia",
+      "brand": "MANDO",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 395,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/kia/cerato/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لفلتر تكييف MANDO لسيراتو 2010 بمحرك 1.6.",
+      "model": "Kia Cerato 2010 1.6"
     },
     {
       "id": "spare-parts-تيل-فرامل-أمامي-لتويوتا-كورولا-toyota-طقم",
@@ -342,15 +346,16 @@
     },
     {
       "id": "spare-parts-تيل-فرامل-أمامي-لكيا-سيراتو-kia-طقم",
-      "name": "تيل فرامل أمامي لكيا سيراتو",
+      "name": "تيل فرامل أمامي كيا سيراتو",
       "category": "فرامل",
-      "brand": "Kia",
+      "brand": "Hi-Q",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 1100,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/products/brake-pads-kia-cerato",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لمنتج تيل فرامل كيا سيراتو؛ يُراجع موديل وسنة السيارة مع البائع.",
+      "model": "Kia Cerato (2004–2024)"
     },
     {
       "id": "spare-parts-طنابير-فرامل-أمامية-لتويوتا-toyota-زوج",
@@ -440,15 +445,16 @@
     },
     {
       "id": "spare-parts-مقص-أمامي-لنيسان-صني-nissan-قطعة",
-      "name": "مقص أمامي لنيسان صني",
+      "name": "مقصات أمامية نيسان صني N17 (استيراد)",
       "category": "تعليق وعفشة",
       "brand": "Nissan",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 960,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "السعر المنشور لمقص أمامي استيراد لصني N17؛ تحقق من الجهة يمين/يسار قبل الطلب.",
+      "model": "Nissan Sunny N17"
     },
     {
       "id": "spare-parts-جلبة-مقص-لهيونداي-hyundai-قطعة",
@@ -563,15 +569,16 @@
     },
     {
       "id": "spare-parts-بوجيهات-نيسان-ngk-طقم",
-      "name": "بوجيهات نيسان",
+      "name": "طقم بوجيهات NGK نيسان صني N16",
       "category": "إشعال ومحرك",
       "brand": "NGK",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 690,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/cars/nissan/mechanical",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لطقم بوجيهات NGK لصني N16؛ يلزم التأكد من كود المحرك.",
+      "model": "Nissan Sunny N16"
     },
     {
       "id": "spare-parts-بوجيهات-هيونداي-ngk-طقم",
