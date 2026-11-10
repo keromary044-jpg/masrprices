@@ -3374,12 +3374,12 @@
     "name": "Canon EF-S 18-55mm",
     "category": "كاميرات وعدسات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8299,
+    "merchant": "CompuMe Egypt",
+    "source": "https://compume.com.eg/en/cameras/digital-camera",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "سعر منشور لعدسة Canon EF-S 18-55mm لدى CompuMe."
   },
   {
     "id": "elx-0245",
@@ -4120,12 +4120,12 @@
     "name": "Valve Steam Deck OLED",
     "category": "أجهزة الألعاب",
     "brand": "Valve",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 39428,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/device?order=ASC&page=3&sort=p.model",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "غير متاح حاليًا",
+    "note": "السعر المنشور لنسخة Steam Deck OLED بسعة 512GB؛ الصفحة تعرض Notify Me."
   },
   {
     "id": "elx-0307",
