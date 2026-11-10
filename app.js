@@ -901,9 +901,9 @@
         const headers=parseLine(lines.shift()||"");
         const index=Object.fromEntries(headers.map((h,i)=>[h,i]));
         const unique=new Map();
-        for(const line of lines){if(!line.trim())continue;const row=parseLine(line);const code=row[index.AlphabeticCode]||"";const withdrawn=row[index.WithdrawalDate]||"";const minor=row[index.MinorUnit]||"";if(!/^[A-Z]{3}$/.test(code)||withdrawn||!/^\d+$/.test(minor)||code.startsWith("X"))continue;if(!unique.has(code))unique.set(code,row[index.Currency]||code);}
+        for(const line of lines){if(!line.trim())continue;const row=parseLine(line);const code=row[index.AlphabeticCode]||"";const withdrawn=row[index.WithdrawalDate]||"";const minor=row[index.MinorUnit]||"";if(!/^[A-Z]{3}$/.test(code)||withdrawn||!/^\d+$/.test(minor))continue;if(!unique.has(code))unique.set(code,row[index.Currency]||code);}
         let names;try{names=new Intl.DisplayNames(["ar"],{type:"currency"});}catch(e){names=null;}
-        return Array.from(unique,([code,english])=>({name:names?.of(code)||english,code,directoryOnly:true})).sort((x,y)=>x.name.localeCompare(y.name,"ar"));
+        return Array.from(unique,([code,english])=>{const localized=names?.of(code);return {name:localized&&localized!==code?localized:english,englishName:english,code,directoryOnly:true};}).sort((x,y)=>x.name.localeCompare(y.name,"ar"));
       })().catch(error=>{currencyDirectoryPromise=null;console.warn("تعذر تحميل دليل العملات العالمي:",error);return [];});
     }
     return currencyDirectoryPromise;
@@ -940,7 +940,7 @@
         const query=isCurrency?normalize(searchInput?.value||""):"";
         const matches=group.items.filter(item=>{
           if(!query)return true;
-          return normalize([item.name,item.code,item.symbol,item.country].filter(Boolean).join(" ")).includes(query);
+          return normalize([item.name,item.englishName,item.code,item.symbol,item.country].filter(Boolean).join(" ")).includes(query);
         });
         if(isCurrency&&countLabel)countLabel.textContent="عرض "+matches.length+" من "+group.items.length+" عملة";
         matches.forEach((item,index)=>{
