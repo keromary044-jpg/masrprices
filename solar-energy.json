@@ -449,6 +449,138 @@
       "category": "الطاقة الشمسية",
       "price": null,
       "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+    },
+    {
+      "name": "وحدة شاحن شمسي صغيرة CN3065 لبطاريات Li-ion وLiPo",
+      "brand": "CN3065",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 100,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "وحدة شحن MPPT للطاقة الشمسية CN3791 بجهد 12 فولت",
+      "brand": "CN3791",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 175,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "لوح شمسي صغير مؤطر 18 فولت 5 واط 320×175 مم",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 325,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "متحكم شحن شمسي 10 أمبير 12V/24V",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 395,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "لوح شمسي مؤطر 18 فولت 10 واط 355×240 مم",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 441,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "لوح شمسي مؤطر 18 فولت 30 واط 665×360 مم",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 1009,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "لوح شمسي مؤطر 18 فولت 20 واط 450×350 مم",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 897,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "لوح طاقة شمسية 6 فولت 5 واط 165×165 مم",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 280,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "لوح شمسي أحادي 9 فولت 5 واط 330×175 مم",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 390,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "وحدة شحن MPPT CN3791 بدخل 6 فولت HW-032A",
+      "brand": "HW-032A",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 175,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "وحدة شحن USB للألواح الشمسية 5 فولت 2 أمبير",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 65,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "لوح طاقة شمسية 18 فولت 50 واط 505×600 مم",
+      "brand": "متعدد",
+      "category": "منتجات الطاقة الشمسية",
+      "price": 1345,
+      "merchant": "Electronics Egypt (مقارنة متاجر)",
+      "priceStatus": "أقل سعر منشور بين المتاجر وقت الرصد؛ يبدأ من السعر المذكور",
+      "details": "تمت مطابقة الاسم والمواصفات المنشورة في صفحة الفئة.",
+      "source": "https://electronicsegypt.com/ar/c/solar",
+      "checkedAt": "2026-11-10"
     }
   ]
 }
