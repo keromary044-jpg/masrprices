@@ -1093,12 +1093,12 @@
     "name": "Fresh LED TV 32",
     "category": "الشاشات والتلفزيونات",
     "brand": "Fresh",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 14000,
+    "merchant": "Homzmart",
+    "source": "https://homzmart.com/en/c/appliances/tvs/others",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ 4 وحدات ظاهرة بالمخزون",
+    "note": "Fresh TV 32-inch 768p HD 32LH324RD؛ السعر 14,000 جنيه."
   },
   {
     "id": "elx-0061",
@@ -1168,12 +1168,12 @@
     "name": "JAC Smart TV 50",
     "category": "الشاشات والتلفزيونات",
     "brand": "JAC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 15177,
+    "merchant": "JAC Egypt",
+    "source": "https://jac-eg.com/product-category/tv/google-tv/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة الشركة تعرض Add to cart",
+    "note": "JAC Smart LED Google TV 50-inch frameless؛ السعر 15,177 جنيه."
   },
   {
     "id": "elx-0067",
