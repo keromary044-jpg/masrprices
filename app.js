@@ -1295,4 +1295,34 @@
   if(educationInstallments)educationInstallments.addEventListener("change",updateEducationCost);
   updateEducationCost();
 
+  // Remove standalone publication/check dates from product cards only.
+  function hideProductCardDates(root=document){
+    const cards=root.querySelectorAll?.(".phone-card,.book-card,.generic-product-card,.product-card,.catalog-product-card,.product-item,.market-product-card")||[];
+    const dateOnly=/^\\d{4}-\\d{2}-\\d{2}$/;
+    cards.forEach(card=>{
+      card.querySelectorAll("time,[class*='date'],[class*='Date'],[class*='updated'],[class*='Updated']").forEach(node=>{
+        if(dateOnly.test((node.textContent||"").trim())) node.remove();
+      });
+      const walker=document.createTreeWalker(card,NodeFilter.SHOW_TEXT);
+      const remove=[];
+      while(walker.nextNode()){
+        const node=walker.currentNode;
+        if(dateOnly.test((node.nodeValue||"").trim())) remove.push(node);
+      }
+      remove.forEach(node=>node.remove());
+    });
+  }
+  hideProductCardDates();
+  const productDateObserver=new MutationObserver(records=>{
+    records.forEach(record=>{
+      record.addedNodes.forEach(node=>{
+        if(node.nodeType===Node.ELEMENT_NODE){
+          if(node.matches?.(".phone-card,.book-card,.generic-product-card,.product-card,.catalog-product-card,.product-item,.market-product-card")) hideProductCardDates(node.parentElement||document);
+          else hideProductCardDates(node);
+        }
+      });
+    });
+  });
+  productDateObserver.observe(document.documentElement,{childList:true,subtree:true});
+
 })();
