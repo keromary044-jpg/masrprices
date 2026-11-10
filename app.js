@@ -45,97 +45,69 @@
     }
     activeBudgetSection=section;
     if(section.querySelector(".budget-fab"))return;
-
     const fab=element("button","budget-fab","ميزانيتي");
     fab.type="button";
-    fab.setAttribute("aria-label","ابحث عن المنتجات حسب ميزانيتك");
+    fab.setAttribute("aria-label","افتح الميزانية، ويمكنك سحب الزر لأي مكان على الشاشة");
     fab.setAttribute("aria-expanded","false");
-
     const panel=element("form","budget-panel");
     panel.hidden=true;
-    panel.append(
-      element("strong","","ابحث حسب ميزانيتك"),
-      element("p","budget-hint","اكتب أقصى مبلغ بالجنيه، وسنعرض المنتجات التي لها سعر رقمي مسجل داخل القسم الحالي فقط.")
-    );
-    const input=element("input","budget-input");
-    input.type="number";
-    input.min="1";
-    input.step="1";
-    input.inputMode="numeric";
-    input.placeholder="مثال: 10000";
-    input.required=true;
-    input.setAttribute("aria-label","الحد الأقصى للميزانية بالجنيه");
-    const actions=element("div","budget-actions");
-    const apply=element("button","budget-apply","اعرض النتائج");
-    const clear=element("button","budget-clear","إلغاء التصفية");
-    apply.type="submit";
-    clear.type="button";
-    actions.append(apply,clear);
-    const status=element("p","budget-status","أدخل الميزانية ثم اضغط اعرض النتائج.");
-    status.setAttribute("aria-live","polite");
-    panel.append(input,actions,status);
-
-    function productCards(){
-      return Array.from(section.querySelectorAll("article"));
-    }
+    panel.append(element("strong","","ابحث حسب ميزانيتك"),element("p","budget-hint","اكتب أقصى مبلغ بالجنيه لعرض المنتجات التي تناسب ميزانيتك."));
+    const input=element("input","budget-input");input.type="number";input.min="1";input.step="1";input.inputMode="numeric";input.placeholder="مثال: 10000";input.required=true;input.setAttribute("aria-label","الحد الأقصى للميزانية بالجنيه");
+    const actions=element("div","budget-actions"),apply=element("button","budget-apply","اعرض النتائج"),clear=element("button","budget-clear","إلغاء التصفية");
+    apply.type="submit";clear.type="button";actions.append(apply,clear);
+    const status=element("p","budget-status","اكتب المبلغ ثم اضغط اعرض النتائج.");status.setAttribute("aria-live","polite");panel.append(input,actions,status);
+    function productCards(){return Array.from(section.querySelectorAll("article"));}
     function priceOf(card){
-      const node=card.querySelector(".phone-price,.book-price,.generic-price-available,.property-price,.appliance-price,[data-price]");
-      if(!node)return null;
+      const node=card.querySelector(".phone-price,.book-price,.generic-price-available,.property-price,.appliance-price,[data-price]");if(!node)return null;
       const raw=node.getAttribute("data-price")||node.textContent||"";
-      const digits=String(raw)
-        .replace(/[٠-٩]/g,d=>String("٠١٢٣٤٥٦٧٨٩".indexOf(d)))
-        .replace(/[۰-۹]/g,d=>String("۰۱۲۳۴۵۶۷۸۹".indexOf(d)))
-        .replace(/[٬،]/g,",")
-        .replace(/٫/g,".");
-      const match=digits.match(/\d[\d,]*(?:\.\d+)?/);
-      if(!match)return null;
-      const amount=Number(match[0].replace(/,/g,""));
-      return Number.isFinite(amount)&&amount>0?amount:null;
+      const digits=String(raw).replace(/[٠-٩]/g,d=>String("٠١٢٣٤٥٦٧٨٩".indexOf(d))).replace(/[۰-۹]/g,d=>String("۰۱۲۳۴۵۶۷۸۹".indexOf(d))).replace(/[٬،]/g,",").replace(/٫/g,".");
+      const match=digits.match(/\d[\d,]*(?:\.\d+)?/);if(!match)return null;
+      const amount=Number(match[0].replace(/,/g,""));return Number.isFinite(amount)&&amount>0?amount:null;
     }
     function applyBudget(){
-      const raw=input.value.trim();
-      const max=raw===""?NaN:Number(raw);
-      if(!Number.isFinite(max)||max<=0){
-        status.textContent="من فضلك اكتب مبلغًا صحيحًا أكبر من صفر.";
-        input.focus();
-        return;
-      }
-      const cards=productCards();
-      let shown=0,priced=0,unpriced=0;
-      cards.forEach(card=>{
-        const price=priceOf(card);
-        if(price===null){unpriced++;card.classList.add("budget-hidden");return;}
-        priced++;
-        const match=price<=max;
-        card.classList.toggle("budget-hidden",!match);
-        if(match)shown++;
-      });
-      status.textContent=shown
-        ? "وجدنا "+shown+" منتج ضمن ميزانيتك من "+priced+" منتج له سعر مسجل"+(unpriced?"، وهناك "+unpriced+" بدون سعر رقمي.":"." )
-        : "لا توجد منتجات بسعر مسجل ضمن هذا المبلغ. جرّب ميزانية أعلى."+(unpriced?" يوجد أيضًا "+unpriced+" منتج بدون سعر رقمي.":"");
+      const max=Number(input.value.trim());if(!Number.isFinite(max)||max<=0){status.textContent="اكتب مبلغًا صحيحًا أكبر من صفر.";input.focus();return;}
+      const cards=productCards();let shown=0,priced=0,unpriced=0;
+      cards.forEach(card=>{const price=priceOf(card);if(price===null){unpriced++;card.classList.add("budget-hidden");return;}priced++;const match=price<=max;card.classList.toggle("budget-hidden",!match);if(match)shown++;});
+      status.textContent=shown?"وجدنا "+shown+" منتج مناسب لميزانيتك.":"لا توجد منتجات بسعر مسجل ضمن هذا المبلغ. جرّب مبلغًا أعلى.";
+      if(unpriced)status.textContent+=" ("+unpriced+" بدون سعر مسجل)";
+    }
+    function placePanel(){
+      const r=fab.getBoundingClientRect(),w=Math.min(340,innerWidth-24),h=Math.min(300,innerHeight*.65);
+      let left=Math.max(12,Math.min(innerWidth-w-12,r.left+(r.left>innerWidth/2?-w-12:r.width+12)));
+      let top=Math.max(12,Math.min(innerHeight-h-12,r.top-h/2));
+      panel.style.left=left+"px";panel.style.top=top+"px";panel.style.right="auto";panel.style.bottom="auto";
     }
     fab.addEventListener("click",()=>{
-      panel.hidden=!panel.hidden;
-      fab.setAttribute("aria-expanded",String(!panel.hidden));
-      if(!panel.hidden)input.focus();
+      if(fab.dataset.justDragged==="1"){fab.dataset.justDragged="0";return;}
+      panel.hidden=!panel.hidden;fab.setAttribute("aria-expanded",String(!panel.hidden));
+      if(!panel.hidden){placePanel();input.focus();}
     });
-    panel.addEventListener("submit",event=>{
-      event.preventDefault();
-      applyBudget();
-    });
-    clear.addEventListener("click",()=>{
-      productCards().forEach(card=>card.classList.remove("budget-hidden"));
-      input.value="";
-      status.textContent="تم إلغاء تصفية الميزانية وعرض المنتجات مرة أخرى.";
-    });
+    panel.addEventListener("submit",event=>{event.preventDefault();applyBudget();});
+    clear.addEventListener("click",()=>{productCards().forEach(card=>card.classList.remove("budget-hidden"));input.value="";status.textContent="تم إلغاء التصفية.";});
     section.append(fab,panel);
-
-    if(typeof MutationObserver!=="undefined"){
-      const observer=new MutationObserver(()=>{
-        if(!panel.hidden&&input.value.trim()&&Number(input.value)>0)applyBudget();
-      });
-      observer.observe(section,{childList:true,subtree:true});
+    const saved=(()=>{try{return JSON.parse(localStorage.getItem("mp-budget-position")||"null");}catch(_){return null;}})();
+    if(saved&&Number.isFinite(saved.x)&&Number.isFinite(saved.y)){fab.style.left=Math.max(0,Math.min(innerWidth-64,saved.x))+"px";fab.style.top=Math.max(0,Math.min(innerHeight-90,saved.y))+"px";fab.style.right="auto";}
+    let drag=null;
+    fab.addEventListener("pointerdown",event=>{
+      if(event.button!==undefined&&event.button!==0)return;
+      const r=fab.getBoundingClientRect();drag={id:event.pointerId,startX:event.clientX,startY:event.clientY,left:r.left,top:r.top,moved:false};
+      fab.setPointerCapture?.(event.pointerId);
+    });
+    fab.addEventListener("pointermove",event=>{
+      if(!drag||drag.id!==event.pointerId)return;
+      const dx=event.clientX-drag.startX,dy=event.clientY-drag.startY;
+      if(!drag.moved&&Math.hypot(dx,dy)<7)return;
+      drag.moved=true;fab.style.left=Math.max(0,Math.min(innerWidth-fab.offsetWidth,drag.left+dx))+"px";
+      fab.style.top=Math.max(0,Math.min(innerHeight-fab.offsetHeight,drag.top+dy))+"px";fab.style.right="auto";
+      if(!panel.hidden)placePanel();
+    });
+    function finishDrag(event){
+      if(!drag||drag.id!==event.pointerId)return;
+      if(drag.moved){fab.dataset.justDragged="1";const r=fab.getBoundingClientRect();try{localStorage.setItem("mp-budget-position",JSON.stringify({x:r.left,y:r.top}));}catch(_){}}
+      drag=null;
     }
+    fab.addEventListener("pointerup",finishDrag);fab.addEventListener("pointercancel",finishDrag);
+    if(typeof MutationObserver!=="undefined"){const observer=new MutationObserver(()=>{if(!panel.hidden&&input.value.trim()&&Number(input.value)>0)applyBudget();});observer.observe(section,{childList:true,subtree:true});}
   }
 
   function xmlText(value){
@@ -810,134 +782,87 @@
   let bookData = null;
   const bookGrade=document.getElementById("bookGrade");
   const bookSubject=document.getElementById("bookSubject");
-  const bookStage=document.getElementById("bookStage");
-  const bookYear=document.getElementById("bookYear");
-  const bookTerm=document.getElementById("bookTerm");
-  let activeBookKind="all";
-  let bookVisibleLimit=24;
+  let activeBookKind="all",bookVisibleLimit=24;
   function fillBookOptions(select,values,placeholder,labels={}){
-    if(!select)return;
-    select.replaceChildren(element("option","",placeholder));
+    if(!select)return;select.replaceChildren(element("option","",placeholder));
     values.forEach(value=>{const o=element("option","",labels[value]||value);o.value=value;select.append(o);});
   }
-  function bookStageOf(book){
-    if(!book.grade)return "general";
-    return /ع$/.test(book.grade)?"prep":"secondary";
-  }
+  function bookStageOf(book){if(!book.grade)return "general";return /ع$/.test(book.grade)?"prep":"secondary";}
   const novelCategories=new Set(["أدب وروايات","أدب عالمي","مغامرات","خيال علمي","شعر","خيال وفانتازيا","أدب تراثي","رعب","غموض وتحقيق","أطفال وفانتازيا","مسرح","نقد وأدب","أطفال وأدب عالمي","رعب وخيال علمي","فلسفة وأدب"]);
   function bookKindOf(book){
     if(novelCategories.has(book.category))return "novels";
     if(book.category==="كتب الوزارة")return "ministry";
     if(book.category==="كتب مدرسين"||book.teacher)return "teacher";
-    if(!book.grade)return "general";
-    return "school";
+    if(!book.grade)return "general";return "school";
   }
-  function bookGradeLabel(grade){
-    const labels={"1ع":"الأول الإعدادي","2ع":"الثاني الإعدادي","3ع":"الثالث الإعدادي","1ث":"الأول الثانوي","2ث":"الثاني الثانوي","3ث":"الثالث الثانوي"};
-    return labels[grade]||grade;
-  }
+  function bookGradeLabel(grade){const labels={"1ع":"الأول الإعدادي","2ع":"الثاني الإعدادي","3ع":"الثالث الإعدادي","1ث":"الأول الثانوي","2ث":"الثاني الثانوي","3ث":"الثالث الثانوي"};return labels[grade]||grade;}
   function updateBookFilters(){
     if(!bookData)return;
-    const stage=bookStage.value;
-    const stageRows=bookData.products.filter(x=>!stage||bookStageOf(x)===stage);
-    const grades=[...new Set(stageRows.map(x=>x.grade).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"ar"));
-    const oldGrade=bookGrade.value;
-    fillBookOptions(bookGrade,grades,"كل الصفوف",Object.fromEntries(grades.map(g=>[g,bookGradeLabel(g)])));
+    const eligible=bookData.products.filter(x=>bookKindOf(x)==="school");
+    const grades=[...new Set(eligible.map(x=>x.grade).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"ar"));
+    const oldGrade=bookGrade.value;fillBookOptions(bookGrade,grades,"كل الصفوف",Object.fromEntries(grades.map(g=>[g,bookGradeLabel(g)])));
     if(grades.includes(oldGrade))bookGrade.value=oldGrade;
-    const grade=bookGrade.value;
-    const gradeRows=stageRows.filter(x=>!grade||x.grade===grade);
-    const subjects=[...new Set(gradeRows.map(x=>x.subject).filter(x=>x&&x!=="جميع المواد"&&x!=="مادة غير محددة في عنوان المنتج"))].sort((a,b)=>a.localeCompare(b,"ar"));
-    const oldSubject=bookSubject.value;
-    fillBookOptions(bookSubject,subjects,"كل المواد");
-    if(subjects.includes(oldSubject))bookSubject.value=oldSubject;
-    const years=[...new Set(gradeRows.map(x=>x.academicYear).filter(Boolean))].sort((a,b)=>b.localeCompare(a));
-    const oldYear=bookYear.value;
-    fillBookOptions(bookYear,years,"كل السنوات");
-    if(years.includes(oldYear))bookYear.value=oldYear;
-    const terms=[...new Set(gradeRows.map(x=>x.term).filter(x=>x&&!/حسب وصف/.test(x)))].sort((a,b)=>a.localeCompare(b,"ar"));
-    const oldTerm=bookTerm.value;
-    fillBookOptions(bookTerm,terms,"كل الفصول");
-    if(terms.includes(oldTerm))bookTerm.value=oldTerm;
+    const rows=eligible.filter(x=>!bookGrade.value||x.grade===bookGrade.value);
+    const subjects=[...new Set(rows.map(x=>x.subject).filter(x=>x&&x!=="جميع المواد"&&x!=="مادة غير محددة في عنوان المنتج"))].sort((a,b)=>a.localeCompare(b,"ar"));
+    const oldSubject=bookSubject.value;fillBookOptions(bookSubject,subjects,"كل المواد");if(subjects.includes(oldSubject))bookSubject.value=oldSubject;
   }
   function renderBooks(data){
     const container=document.getElementById("bookProducts");if(!container||!data)return;
-    const query=normalize(document.getElementById("bookSearch").value||"");
-    const stage=bookStage.value,grade=bookGrade.value,subject=bookSubject.value,year=bookYear.value,term=bookTerm.value;
-    const sort=document.getElementById("bookSort").value||"name";
+    const query=normalize(document.getElementById("bookSearch").value||""),grade=bookGrade.value,subject=bookSubject.value;
+    const sort="name";
     let items=data.products.filter(book=>{
-      const haystack=normalize([book.title,book.author,book.merchant,book.series,book.teacher,book.subject,book.grade,book.category,book.academicYear,book.term].filter(Boolean).join(" "));
-      return (!query||haystack.includes(query))&&(!stage||bookStageOf(book)===stage)&&(!grade||book.grade===grade)&&(!subject||book.subject===subject)&&(!year||book.academicYear===year)&&(!term||book.term===term)&&
-        (activeBookKind==="all"||bookKindOf(book)===activeBookKind);
+      const haystack=normalize([book.title,book.author,book.merchant,book.series,book.teacher,book.subject,book.grade,book.category].filter(Boolean).join(" "));
+      const kind=bookKindOf(book);
+      const kindMatch=activeBookKind==="all"||(activeBookKind==="school"&&(kind==="school"||kind==="ministry"))||(activeBookKind==="teacher"&&kind==="teacher")||(activeBookKind==="novels"&&kind==="novels");
+      return (!query||haystack.includes(query))&&kindMatch&&(activeBookKind!=="school"||(!grade||book.grade===grade)&&(!subject||book.subject===subject));
     });
-    items.sort((a,b)=>sort==="price"?(Number(a.price||0)-Number(b.price||0)):sort==="price-desc"?(Number(b.price||0)-Number(a.price||0)):String(a.title||"").localeCompare(String(b.title||""),"ar"));
-    const shown=items.slice(0,bookVisibleLimit);
-    container.replaceChildren();
+    items.sort((a,b)=>String(a.title||"").localeCompare(String(b.title||""),"ar"));
+    const shown=items.slice(0,bookVisibleLimit);container.replaceChildren();
     shown.forEach(book=>{
       const card=element("article","book-card generic-product-card");
-      const kindLabels={ministry:"كتاب الوزارة",teacher:"كتاب مدرس",school:"كتاب خارجي",general:"كتاب عام"};
-      const tags=[kindLabels[bookKindOf(book)],book.grade?bookGradeLabel(book.grade):"",book.subject,book.term].filter(Boolean);
+      const labels={ministry:"كتاب الوزارة",teacher:"كتاب مدرس",school:"كتاب تعليمي",general:"كتاب عام",novels:"رواية / أدب"};
+      const tags=[labels[bookKindOf(book)],book.grade?bookGradeLabel(book.grade):"",book.subject].filter(Boolean);
       card.append(element("span","book-category",tags.join(" · ")));
       try{appendProductVisual(card,{...book,name:book.title,category:book.subject||book.category});}catch(_){}
       card.append(element("h3","",book.title||"كتاب"));
-      if(book.teacher)card.append(element("p","book-author","المدرس: "+book.teacher));
-      else if(book.author)card.append(element("p","book-author","المؤلف: "+book.author));
+      if(book.teacher)card.append(element("p","book-author","المدرس: "+book.teacher));else if(book.author)card.append(element("p","book-author","المؤلف: "+book.author));
       if(book.series)card.append(element("p","book-store","السلسلة: "+book.series));
-      if(book.academicYear)card.append(element("p","book-store","السنة الدراسية: "+book.academicYear));
-      if(book.category==="كتب الوزارة")card.append(element("p","book-price","مجاني – من موقع الوزارة"));
-      else if(Number.isFinite(Number(book.price))&&Number(book.price)>0)card.append(element("p","book-price",Number(book.price).toLocaleString("en-US")+" جنيه"));
+      if(Number.isFinite(Number(book.price))&&Number(book.price)>0)card.append(element("p","book-price",Number(book.price).toLocaleString("en-US")+" جنيه"));
       if(book.priceStatus)card.append(element("small","phone-price-status",book.priceStatus));
       if(book.merchant)card.append(element("p","book-store","المكتبة: "+book.merchant));
-      if(book.source&&/^https?:\/\//i.test(book.source)){
-        const link=element("a","book-source","عرض الكتاب لدى المصدر");link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);
-      }
-      if(book.legalPdfUrl&&/^https?:\/\//i.test(book.legalPdfUrl)){
-        const pdf=element("a","book-pdf","فتح النسخة الإلكترونية الرسمية");pdf.href=book.legalPdfUrl;pdf.target="_blank";pdf.rel="noopener noreferrer";card.append(pdf);
-      }else card.append(element("small","book-pdf-unavailable",book.pdfStatus||"لا تتوفر نسخة إلكترونية مرخّصة مؤكدة"));
+      if(book.source&&/^https?:\/\//i.test(book.source)){const link=element("a","book-source","عرض الكتاب لدى المصدر");link.href=book.source;link.target="_blank";link.rel="noopener noreferrer";card.append(link);}
+      if(book.legalPdfUrl&&/^https?:\/\//i.test(book.legalPdfUrl)){const pdf=element("a","book-pdf","فتح النسخة الإلكترونية الرسمية");pdf.href=book.legalPdfUrl;pdf.target="_blank";pdf.rel="noopener noreferrer";card.append(pdf);}
       container.append(card);
     });
     document.getElementById("bookCount").textContent="عرض "+shown.length+" من "+items.length+" كتاب";
-    const more=document.getElementById("bookMore");
-    more.hidden=items.length<=shown.length;
-    more.textContent="عرض "+Math.min(24,items.length-shown.length)+" كتاب إضافي";
-    if(!items.length)container.append(element("p","catalog-footnote","لا توجد كتب مطابقة. جرّب تغيير المرحلة أو المادة أو كلمة البحث."));
+    const more=document.getElementById("bookMore");more.hidden=items.length<=shown.length;more.textContent="عرض المزيد";
+    if(!items.length)container.append(element("p","catalog-footnote","لا توجد كتب مطابقة. جرّب تغيير كلمة البحث أو الصف أو المادة."));
   }
   function loadBooks(){
     const container=document.getElementById("bookProducts");if(!container)return;
     fetch("./books.json",{cache:"no-cache"}).then(response=>{if(!response.ok)throw new Error("books fetch failed");return response.json();}).then(data=>{
-      bookData=data;
-      updateBookFilters();
-      renderBooks(bookData);
-      ["bookStage","bookGrade","bookSubject","bookYear","bookTerm"].forEach(id=>document.getElementById(id).addEventListener("change",()=>{
-        if(id==="bookStage")updateBookFilters();
-        else if(id==="bookGrade"){const prev=bookSubject.value;updateBookFilters();if(prev&&Array.from(bookSubject.options).some(o=>o.value===prev))bookSubject.value=prev;}
-        bookVisibleLimit=24;renderBooks(bookData);
-      }));
-      ["bookSearch","bookSort"].forEach(id=>document.getElementById(id).addEventListener(id==="bookSearch"?"input":"change",()=>{bookVisibleLimit=24;renderBooks(bookData);}));
+      bookData=data;updateBookFilters();renderBooks(bookData);
+      ["bookGrade","bookSubject"].forEach(id=>document.getElementById(id).addEventListener("change",()=>{if(id==="bookGrade"){const previous=bookSubject.value;updateBookFilters();if(Array.from(bookSubject.options).some(o=>o.value===previous))bookSubject.value=previous;}bookVisibleLimit=24;renderBooks(bookData);}));
+      document.getElementById("bookSearch").addEventListener("input",()=>{bookVisibleLimit=24;renderBooks(bookData);});
       document.querySelectorAll("[data-book-kind]").forEach(btn=>btn.addEventListener("click",()=>{
         activeBookKind=btn.dataset.bookKind;bookVisibleLimit=24;
         document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x===btn));
+        document.getElementById("bookSimpleFilters").hidden=activeBookKind!=="school";
+        if(activeBookKind!=="school"){bookGrade.value="";bookSubject.value="";}
         renderBooks(bookData);
       }));
       document.getElementById("bookNovelsToggle").addEventListener("click",()=>{
-        const button=document.getElementById("bookNovelsToggle");
-        const novelsMode=activeBookKind!=="novels";
-        activeBookKind=novelsMode?"novels":"all";
-        bookVisibleLimit=24;
-        if(novelsMode){
-          bookStage.value="";bookGrade.value="";bookSubject.value="";bookYear.value="";bookTerm.value="";
-          updateBookFilters();
-        }
-        button.classList.toggle("is-active",novelsMode);
-        button.setAttribute("aria-pressed",String(novelsMode));
+        const button=document.getElementById("bookNovelsToggle"),novelsMode=activeBookKind!=="novels";
+        activeBookKind=novelsMode?"novels":"all";bookVisibleLimit=24;
+        button.classList.toggle("is-active",novelsMode);button.setAttribute("aria-pressed",String(novelsMode));
         document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x.dataset.bookKind==="all"&&!novelsMode));
-        renderBooks(bookData);
+        document.getElementById("bookSimpleFilters").hidden=true;renderBooks(bookData);
       });
       document.getElementById("bookReset").addEventListener("click",()=>{
-        document.getElementById("bookSearch").value="";bookStage.value="";activeBookKind="all";bookVisibleLimit=24;updateBookFilters();
+        document.getElementById("bookSearch").value="";activeBookKind="all";bookVisibleLimit=24;bookGrade.value="";bookSubject.value="";
+        document.getElementById("bookSimpleFilters").hidden=true;
         const novelsButton=document.getElementById("bookNovelsToggle");novelsButton.classList.remove("is-active");novelsButton.setAttribute("aria-pressed","false");
-        document.getElementById("bookSort").value="name";
-        document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x.dataset.bookKind==="all"));
-        renderBooks(bookData);
+        document.querySelectorAll("[data-book-kind]").forEach(x=>x.classList.toggle("is-active",x.dataset.bookKind==="all"));renderBooks(bookData);
       });
       document.getElementById("bookMore").addEventListener("click",()=>{bookVisibleLimit+=24;renderBooks(bookData);});
     }).catch(()=>{container.textContent="تعذر تحميل قائمة الكتب حاليًا.";});
