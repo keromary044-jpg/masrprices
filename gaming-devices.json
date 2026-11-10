@@ -598,13 +598,17 @@
       "priceStatus": "سعر منشور سابقًا لدى المتجر؛ يلزم تأكيد السعر والتوفر الحاليين."
     },
     {
-      "name": "Nintendo Switch Lite – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "Nintendo Switch Lite Yellow",
+      "brand": "Nintendo",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 10999,
+      "details": "نسخة Nintendo Switch Lite الصفراء؛ السعر المنشور 10,999 جنيه.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo",
+      "merchant": "Games2Egypt",
+      "source": "https://www.games2egypt.com/Category/3312/nintendo-switch-consoles",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 10,999 جنيه؛ الصفحة تشير إلى أن النسخة غير متوفرة حالياً."
     },
     {
       "name": "ASUS ROG G700 2025 Gaming Desktop PC RTX 5070",
@@ -660,13 +664,17 @@
       "priceStatus": "سعر منشور لتجميعة RTX 5060؛ راجع تفاصيل المكونات قبل الشراء."
     },
     {
-      "name": "Gaming PC – إصدار تخزين 2TB",
-      "brand": "ماركات متعددة",
+      "name": "Intel Core i5-12400F RTX 3060 12GB Gaming Desktop Bundle",
+      "brand": "Intel / MSI",
       "category": "أجهزة الألعاب",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ لم تتم إضافة سعر في هذه المرحلة.",
+      "price": 31149,
+      "details": "تجميعة i5-12400F وRTX 3060 12GB وذاكرة 16GB وSSD 256GB؛ السعر المنشور 31,149 جنيه.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+      "merchant": "Egypt Laptop",
+      "source": "https://egyptlaptop.com/computers/computer-components/gaming-desktop/intel-core-i5-12400f-256gb-ssd-16gb-ram-msi-pro-h610m-e-motherboard-rtx-3060-12gb-xander-hulk-gaming-case-with-psu-600w",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "السعر المنشور 31,149 جنيه؛ صفحة المتجر أظهرت نفاد الكمية."
     },
     {
       "name": "MSI Cyborg 15 A13UC Gaming Laptop Core i5-13420H 8GB DDR5 512GB SSD RTX 3050",
