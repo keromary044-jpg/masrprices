@@ -5965,24 +5965,24 @@
     "name": "Seagate IronWolf 4TB NAS HDD",
     "category": "مكونات الكمبيوتر",
     "brand": "Seagate",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 13850,
+    "merchant": "EG-tech",
+    "source": "https://shop.itegy.com.eg/product/seagate-iron-wolf-4tb-sata-3-5-nas-internal-hard-drive-hdd-st4000vn006/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر لقرص Seagate IronWolf ST4000VN006 سعة 4TB؛ السعر شامل ضريبة القيمة المضافة."
   },
   {
     "id": "elx-0456",
     "name": "Seagate FireCuda 530 1TB",
     "category": "مكونات الكمبيوتر",
     "brand": "Seagate",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 30439,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/1BF4HQL2C-seagate-firecuda-530-1tb-internal-solid-state-drive-m-2-pcie-gen4-4-nvme-1-4-transfer-speeds-up-to-7300mb-s-3d-tlc-nand-1275-tbw-1-8m-mtbf",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لقرص Seagate FireCuda 530 سعة 1TB مع مشتت حراري؛ لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0457",
@@ -6061,24 +6061,24 @@
     "name": "Thermaltake Smart BX1 650W PSU",
     "category": "مكونات الكمبيوتر",
     "brand": "Thermaltake",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4799,
+    "merchant": "Computer Server Solutions",
+    "source": "https://computerserversolutions.com/product/details/thermaltake-smart-bx1-650w-80-plus-bronze-smps",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر لمزود طاقة Thermaltake Smart BX1 650W 80+ Bronze."
   },
   {
     "id": "elx-0464",
     "name": "Thermaltake View 270 Case",
     "category": "مكونات الكمبيوتر",
     "brand": "Thermaltake",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 3550,
+    "merchant": "Alfrensia Egypt",
+    "source": "https://alfrensia.com/en/product/thermaltake-view-270-tg-argb-mid-tower-case/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مخزون محدود",
+    "note": "السعر لكيسة Thermaltake View 270 TG ARGB؛ الصفحة تعرض قطعة واحدة متبقية."
   },
   {
     "id": "elx-0465",
@@ -6265,12 +6265,12 @@
     "name": "Seagate Backup Plus 5TB",
     "category": "وحدات تخزين خارجية",
     "brand": "Seagate",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2300,
+    "merchant": "MolatMasr",
+    "source": "https://molatmasr.com/index.php?manufacturer_id=91&route=product%2Fmanufacturer%2Finfo",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "يتطلب تأكيد السعر",
+    "note": "السعر المعروض لهارد Seagate Backup Plus Portable 5TB؛ منخفض بشكل غير معتاد ويجب تأكيده مع المتجر قبل الاعتماد."
   },
   {
     "id": "elx-0481",
@@ -6607,12 +6607,12 @@
     "name": "Google Nest Audio",
     "category": "أجهزة المنزل الذكي",
     "brand": "Google",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6726,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/41F7UX1EQ-google-nest-audio-smart-speaker-with-google-assistant-sand",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لسماعة Google Nest Audio؛ لا يشمل الشحن والجمارك وقد تحتاج نسخة القابس إلى محول."
   },
   {
     "id": "elx-0509",
@@ -6867,12 +6867,12 @@
     "name": "Philips Hue White Ambiance Bulb",
     "category": "أجهزة المنزل الذكي",
     "brand": "Philips Hue",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10567,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/361531432-philips-hue-new-white-ambiance-smart-light-bulb-75w-1100",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لمصباح Philips Hue White Ambiance E27 بسطوع 1100 لومن شامل الرسوم والضرائب حسب Desertcart."
   },
   {
     "id": "elx-0530",
@@ -7123,12 +7123,12 @@
     "name": "EcoFlow River 2",
     "category": "أجهزة الطاقة والشحن",
     "brand": "EcoFlow",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 18392,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/FBH1RMXD4-ef-ecoflow-solar-generator-river-2-256wh-lifepo4-battery-with-110w-solar-panel-portable-power-station-for-home-backup-outdoors-camping-rv-emergency",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لباقة EcoFlow River 2 مع لوح شمسي 110W؛ لا يشمل الشحن والجمارك، ويجب التأكد من توافق الجهد."
   },
   {
     "id": "elx-0551",
@@ -7327,12 +7327,12 @@
     "name": "Fellowes Powershred 12C Shredder",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Fellowes",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 41404,
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/162611364-fellowes-paper-shredder-for-home-office-use-12-sheet-cross",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للاستيراد",
+    "note": "السعر لآلة Fellowes Powershred 12C شامل الرسوم والضرائب حسب Desertcart."
   },
   {
     "id": "elx-0568",
@@ -7459,12 +7459,12 @@
     "name": "Logitech StreamCam",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Logitech",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8880,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/device/logitech-for-creators-streamcam-premium-webcam-streaming-and-video-content-creation-full-hd-1080p-60-fps-glass-lens-smart-autofocus-usb-connection-pc-mac-graphite",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور لكاميرا Logitech StreamCam؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0579",
@@ -7495,12 +7495,12 @@
     "name": "Elgato Cam Link 4K",
     "category": "أجهزة مكتبية وماكينات",
     "brand": "Elgato",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4900,
+    "merchant": "El Badr Group",
+    "source": "https://elbadrgroupeg.store/elgato-cam-link-4k-usb-3.0",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "قادم قريبًا",
+    "note": "السعر المنشور لكارت Elgato Cam Link 4K؛ الصفحة تعرض Coming Soon."
   },
   {
     "id": "elx-0582",
