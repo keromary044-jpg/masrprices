@@ -1478,12 +1478,12 @@
     "name": "HP Series 5 524sf 24",
     "category": "شاشات الكمبيوتر",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7095,
+    "merchant": "Raneen / Winner Brands",
+    "source": "https://www.raneen.com/en/hp-524sf-series-5-fhd-monitor-23-8-inch-lcd-grey",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر المنشور 7,095 جنيه لموديل HP 524sf؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0092",
@@ -1878,12 +1878,12 @@
     "name": "Dell Inspiron 14 5430",
     "category": "لابتوبات",
     "brand": "Dell",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 52999,
+    "merchant": "Elsahwa Computer",
+    "source": "https://elsahwacomputer.com/product/dell-inspiron-14-5430-i7-1360p-512gb-16gb/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "سعر تكوين Core i7-1360P / 16GB / 512GB؛ قد يختلف السعر باختلاف التكوين."
   },
   {
     "id": "elx-0125",
@@ -1986,12 +1986,12 @@
     "name": "HP Envy x360 15",
     "category": "لابتوبات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 52999,
+    "merchant": "Elsahwa Computer",
+    "source": "https://elsahwacomputer.com/product/hp-envy-x360-15-15-ew1058wm-i5-1335u-16gb-512gb/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مخزون منخفض",
+    "note": "السعر لتكوين 15-ew1058wm Core i5 / 16GB / 512GB؛ تحقق من التكوين قبل الشراء."
   },
   {
     "id": "elx-0134",
@@ -2104,12 +2104,12 @@
     "name": "Lenovo Legion 5",
     "category": "لابتوبات",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 121886,
+    "merchant": "Noon Egypt (via PriceNa)",
+    "source": "https://eg.pricena.com/en/product/lenovo-legion-5-gaming-laptop-price-in-egypt-34763315",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر لتكوين Legion 5 15IAX10 Ultra 7 / 32GB / 512GB / RTX 5060؛ الأسعار تختلف حسب التكوين."
   },
   {
     "id": "elx-0143",
