@@ -600,12 +600,12 @@
     "name": "LG StanbyME 27",
     "category": "الشاشات والتلفزيونات",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 81699,
+    "merchant": "Noon Egypt",
+    "source": "https://www.noon.com/egypt-en/tv-buying-guide/lg/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج على Noon",
+    "note": "السعر لتلفزيون LG StanbyME 27LX5QKNA إصدار 2023 بشاشة 27 بوصة."
   },
   {
     "id": "elx-0020",
@@ -709,12 +709,12 @@
     "name": "TCL P635 55",
     "category": "الشاشات والتلفزيونات",
     "brand": "TCL",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 92000,
+    "merchant": "Laptop Store Egypt",
+    "source": "https://laptop.store-eg.com/en/brand/tcl",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "السعر المنشور لتلفزيون TCL P635 مقاس 55 بوصة 4K Google TV؛ السعر مرتفع ويستحسن تأكيده من المتجر."
   },
   {
     "id": "elx-0029",
@@ -2034,12 +2034,12 @@
     "name": "Lenovo IdeaPad 5 14",
     "category": "لابتوبات",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 22000,
+    "merchant": "ProMax Tech",
+    "source": "https://promax-tech.store-eg.com/category/laptops",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "السعر لنسخة Lenovo IdeaPad 5 المعروضة بكود LEN-IDEA5؛ مواصفات المعالج والذاكرة تحتاج تأكيدًا."
   },
   {
     "id": "elx-0138",
@@ -2282,24 +2282,24 @@
     "name": "Apple MacBook Pro 14 M3",
     "category": "لابتوبات",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 45000,
+    "merchant": "ProMax Tech",
+    "source": "https://promax-tech.store-eg.com/category/laptops",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "السعر لنسخة MacBook Pro 14 بوصة M3؛ تحقق من الذاكرة وسعة التخزين قبل الشراء."
   },
   {
     "id": "elx-0157",
     "name": "Apple MacBook Pro 16 M3",
     "category": "لابتوبات",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 95000,
+    "merchant": "ProMax Tech",
+    "source": "https://promax-tech.store-eg.com/category/laptops",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر",
+    "note": "السعر لنسخة MacBook Pro 16 بوصة M3 Pro؛ تحقق من الذاكرة وسعة التخزين قبل الشراء."
   },
   {
     "id": "elx-0158",
@@ -2318,12 +2318,12 @@
     "name": "MSI Thin GF63",
     "category": "لابتوبات",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 28999,
+    "merchant": "Wakteey (Egypt retailer listing)",
+    "source": "https://wakteey.com/en/laptops?page=3",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر لنسخة MSI Thin GF63 12UCX بمعالج i5-12450H وRTX 2050؛ الصفحة تعرض نفاد المخزون."
   },
   {
     "id": "elx-0160",
@@ -2342,12 +2342,12 @@
     "name": "MSI Cyborg 15",
     "category": "لابتوبات",
     "brand": "MSI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 61649,
+    "merchant": "East Asia Egypt",
+    "source": "https://www.eastasiaeg.com/en/laptops/msi.html",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مدرج لدى المتجر",
+    "note": "السعر لنسخة MSI Cyborg 15 A13VE بمعالج i7-13620H وRTX 4050."
   },
   {
     "id": "elx-0162",
@@ -3266,12 +3266,12 @@
     "name": "Fujitsu ScanSnap iX1600",
     "category": "طابعات وماسحات",
     "brand": "Fujitsu",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 33000,
+    "merchant": "AlhazemTech",
+    "source": "https://www.alhazemtech.com/shop/category/scanners-164",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر منشور",
+    "note": "السعر لماسح ScanSnap iX1600؛ صفحة المتجر تعرض الاسم التجاري Ricoh ScanSnap بعد انتقال العلامة."
   },
   {
     "id": "elx-0236",
