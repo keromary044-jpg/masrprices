@@ -576,12 +576,12 @@
     "name": "LG OLED G3 65",
     "category": "الشاشات والتلفزيونات",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 135864,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/8SA0AAHDU-lg-65-class-4k-uhd-oled-web-os-smart-tv-with-dolby-vision-g3-series-oled65g3pua",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "last_listed_imported_out_of_stock",
+    "note": "آخر سعر استيراد منشور لموديل LG OLED65G3PUA مقاس 65 بوصة؛ المنتج غير متوفر حاليًا، والسعر لا يشمل الشحن والجمارك."
   },
   {
     "id": "elx-0018",
