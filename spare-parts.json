@@ -19,15 +19,16 @@
     },
     {
       "id": "part-toyota-air-filter",
-      "name": "فلتر هواء أصلي لتويوتا",
+      "name": "فلتر هواء FERRA FILTER تويوتا كورولا",
       "category": "فلاتر",
-      "brand": "Toyota",
+      "brand": "FERRA FILTER",
       "unit": "قطعة",
-      "price": null,
-      "merchant": "المصرية جروب – موزع قطع غيار تويوتا",
-      "details": "السعر غير منشور في صفحة الفئة؛ يلزم تحديد موديل السيارة وسنة الصنع ورقم الشاسيه للتوافق.",
-      "source": "https://www.almasriaautoparts.com/products/toyota-genuine",
-      "checkedAt": "2026-11-02"
+      "price": 340,
+      "merchant": "Auto Spare",
+      "details": "سعر معلن لفلتر هواء تويوتا كورولا؛ يجب تحديد سنة السيارة قبل الطلب.",
+      "source": "https://autospare.com.eg/parts/توتويا/فلاتر-هواء",
+      "checkedAt": "2026-11-10",
+      "model": "Toyota Corolla"
     },
     {
       "id": "part-toyota-cabin-filter",
@@ -195,15 +196,17 @@
     },
     {
       "id": "spare-parts-فلتر-هواء-أصلي-لتويوتا-كورولا-toyota-قطعة",
-      "name": "فلتر هواء أصلي لتويوتا كورولا",
+      "name": "فلتر هواء أصلي تويوتا كورولا 2001–2007",
       "category": "فلاتر",
-      "brand": "Toyota",
+      "brand": "Toyota Genuine Parts",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 325,
+      "merchant": "Tawfiqia",
+      "source": "https://tawfiqia.com/ar/product-detail/فلتر-هواء-تويوتا-كورولا-اصلى-2001-2007/391",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور شامل ضريبة القيمة المضافة لفلتر أصلي متوافق مع كورولا 2001–2007.",
+      "model": "Toyota Corolla 2001–2007 (Camel)",
+      "partNumber": "17801-0D030"
     },
     {
       "id": "spare-parts-فلتر-تكييف-لتويوتا-كورولا-toyota-قطعة",
@@ -391,15 +394,16 @@
     },
     {
       "id": "spare-parts-مساعد-أمامي-لتويوتا-كورولا-toyota-قطعة",
-      "name": "مساعد أمامي لتويوتا كورولا",
+      "name": "مساعد كامل بالسوستة تويوتا كورولا E210",
       "category": "تعليق وعفشة",
-      "brand": "Toyota",
+      "brand": "Aftermarket",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 369,
+      "merchant": "CarParts StorkPlus",
+      "source": "https://carparts.storkplus.com/ar/taxons/vehicles/toyota/corolla?limit=18",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور لمساعد كامل بالسوستة؛ تحقق من جهة التركيب ورقم القطعة قبل الطلب.",
+      "model": "Toyota Corolla E210 (2019–2025)"
     },
     {
       "id": "spare-parts-مساعد-خلفي-لتويوتا-كورولا-toyota-قطعة",
