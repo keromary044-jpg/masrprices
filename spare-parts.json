@@ -509,15 +509,17 @@
     },
     {
       "id": "spare-parts-بطارية-سيارة-60-أمبير-acdelco-قطعة",
-      "name": "بطارية سيارة 60 أمبير",
+      "name": "بطارية ACDelco 60Ah DIN60L",
       "category": "بطاريات",
       "brand": "ACDelco",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 4150,
+      "merchant": "Fit & Fix",
+      "source": "https://be.fitandfix.com/batteries/acdelco.html",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لبطارية 12 فولت 60 أمبير؛ تحقق من أبعاد البطارية واتجاه الأقطاب والتوافق.",
+      "model": "DIN60L 12V 60Ah",
+      "partNumber": "DIN60L"
     },
     {
       "id": "spare-parts-بطارية-سيارة-70-أمبير-bosch-قطعة",
@@ -702,15 +704,16 @@
     },
     {
       "id": "spare-parts-كشاف-أمامي-لتويوتا-كورولا-toyota-قطعة",
-      "name": "كشاف أمامي لتويوتا كورولا",
+      "name": "فانوس أمامي DEPO تويوتا كورولا 2020–2023",
       "category": "إضاءة وكهرباء",
-      "brand": "Toyota",
+      "brand": "DEPO",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 6006,
+      "merchant": "الإبياري",
+      "source": "https://el-ebiary.com/فانوس-امامي-تويوتا-كورولا-2020-2023/",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لفانوس أمامي DEPO؛ يلزم تحديد جهة اليمين أو اليسار قبل الطلب.",
+      "model": "Toyota Corolla 2020–2023"
     },
     {
       "id": "spare-parts-فانوس-خلفي-لنيسان-صني-nissan-قطعة",
@@ -764,15 +767,16 @@
     },
     {
       "id": "spare-parts-مراية-جانبية-لتويوتا-toyota-قطعة",
-      "name": "مراية جانبية لتويوتا",
+      "name": "مراية تويوتا كورولا ضم غماز (مستعملة)",
       "category": "هيكل خارجي",
       "brand": "Toyota",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 1600,
+      "merchant": "Dubizzle مصر",
+      "source": "https://www.dubizzle.com.eg/vehicles/car-spare-parts/cairo/q-تويوتا-كورولا./",
+      "checkedAt": "2026-11-10",
+      "details": "سعر إعلان لمراية كورولا ضم غماز مستعملة؛ الحالة مستعملة ويجب التحقق من جهة المراية والتوافق.",
+      "model": "Toyota Corolla"
     },
     {
       "id": "spare-parts-إكصدام-أمامي-لنيسان-صني-nissan-قطعة",
