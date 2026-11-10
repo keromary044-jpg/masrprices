@@ -688,155 +688,221 @@
       "name": "شمعة UF – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 140,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من شمعة كربون بلوك للمرحلة الثالثة؛ ليس شمعة UF مطابقة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شمعة UF – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 140,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من شمعة كربون بلوك منشورة؛ ليس موديل UF محدد. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شمعة UF – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 140,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من شمعة كربون بلوك منشورة؛ ليس موديل UF محدد. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شمعة UF – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 140,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من شمعة كربون بلوك منشورة؛ ليس موديل UF محدد. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://elghazawy.com/en/sub-category/water-filters",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شمعة RO – منزلي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 499,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: سعر مرجعي لغشاء Tank Power RO؛ لا يحدد سعة/توافق هذا العنصر. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/ar/membrane-tank-power-cartridge-tank-mpg936149.html",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شمعة RO – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 499,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: سعر مرجعي لغشاء Tank Power RO؛ لا يحدد سعة/توافق هذا العنصر. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/ar/membrane-tank-power-cartridge-tank-mpg936149.html",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شمعة RO – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 499,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: سعر مرجعي لغشاء Tank Power RO؛ لا يحدد سعة/توافق هذا العنصر. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/ar/membrane-tank-power-cartridge-tank-mpg936149.html",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شمعة RO – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 499,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: سعر مرجعي لغشاء Tank Power RO؛ لا يحدد سعة/توافق هذا العنصر. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/ar/membrane-tank-power-cartridge-tank-mpg936149.html",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شمعة RO – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 499,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: سعر مرجعي لغشاء Tank Power RO؛ لا يحدد سعة/توافق هذا العنصر. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/ar/membrane-tank-power-cartridge-tank-mpg936149.html",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "غشاء تناضح عكسي – منزلي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 950,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع سعري منشور لغشاء RO ضمن نطاق 600–1500 جنيه؛ ليس سعراً مؤكداً لهذا الموديل. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://flatermasr.com/7-stage-water-filter-spare-parts-prices/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "غشاء تناضح عكسي – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 950,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع سعري منشور لغشاء RO ضمن نطاق 600–1500 جنيه؛ ليس سعراً مؤكداً لهذا الموديل. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://flatermasr.com/7-stage-water-filter-spare-parts-prices/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "غشاء تناضح عكسي – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 950,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع سعري منشور لغشاء RO ضمن نطاق 600–1500 جنيه؛ ليس سعراً مؤكداً لهذا الموديل. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://flatermasr.com/7-stage-water-filter-spare-parts-prices/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "غشاء تناضح عكسي – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 950,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع سعري منشور لغشاء RO ضمن نطاق 600–1500 جنيه؛ ليس سعراً مؤكداً لهذا الموديل. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://flatermasr.com/7-stage-water-filter-spare-parts-prices/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "غشاء تناضح عكسي – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 950,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع سعري منشور لغشاء RO ضمن نطاق 600–1500 جنيه؛ ليس سعراً مؤكداً لهذا الموديل. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://flatermasr.com/7-stage-water-filter-spare-parts-prices/",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة فلتر مياه – منزلي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من مضخة فلتر مياه 24V منشورة؛ لا يؤكد نفس الموديل أو السعة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/slp/ro-water-filter-with-uv",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة فلتر مياه – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من مضخة فلتر مياه 24V منشورة؛ لا يؤكد نفس الموديل أو السعة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/slp/ro-water-filter-with-uv",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة فلتر مياه – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من مضخة فلتر مياه 24V منشورة؛ لا يؤكد نفس الموديل أو السعة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/slp/ro-water-filter-with-uv",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة فلتر مياه – سعة متوسطة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من مضخة فلتر مياه 24V منشورة؛ لا يؤكد نفس الموديل أو السعة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/slp/ro-water-filter-with-uv",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة فلتر مياه – سعة كبيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 599,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من مضخة فلتر مياه 24V منشورة؛ لا يؤكد نفس الموديل أو السعة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/slp/ro-water-filter-with-uv",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "خزان فلتر مياه – منزلي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1425,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من خزان RO سعة 5 جالون منشور؛ ليس سعة/مقاساً مطابقاً بالضرورة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/slp/ro-water-filter-with-uv",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "خزان فلتر مياه – مكتبي",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1425,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من خزان RO سعة 5 جالون منشور؛ ليس سعة/مقاساً مطابقاً بالضرورة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/slp/ro-water-filter-with-uv",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "خزان فلتر مياه – سعة صغيرة",
       "brand": "ماركات متعددة",
       "category": "فلاتر المياه",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 1425,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سوقي للمقارنة فقط: مرجع من خزان RO سعة 5 جالون منشور؛ ليس سعة/مقاساً مطابقاً بالضرورة. لا تعرضه كسعر مؤكد لنفس المنتج/السعة/المقاس.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://www.jumia.com.eg/slp/ro-water-filter-with-uv",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "خزان فلتر مياه – سعة متوسطة",
