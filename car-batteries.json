@@ -1024,6 +1024,50 @@
       "merchant": "Shaheen Tire",
       "source": "https://www.shaheentire.com/categories/batteries",
       "checkedAt": "2026-11-09"
+    },
+    {
+      "name": "Bosch TD70 70Ah – قطب يمين",
+      "brand": "Bosch",
+      "category": "بطاريات جافة",
+      "price": 3388,
+      "priceStatus": "سعر كتالوج موزع منشور بتاريخ 9 نوفمبر 2026؛ يلزم تأكيد السعر والمخزون",
+      "details": "السعر قبل احتساب قيمة استبدال البطارية القديمة.",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "Blizzaro TD70 70Ah – قطب شمال",
+      "brand": "Blizzaro",
+      "category": "بطاريات جافة",
+      "price": 3427,
+      "priceStatus": "سعر كتالوج موزع منشور بتاريخ 9 نوفمبر 2026؛ يلزم تأكيد السعر والمخزون",
+      "details": "السعر قبل احتساب قيمة استبدال البطارية القديمة.",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "Delco TD70 70Ah – قطب يمين",
+      "brand": "Delco",
+      "category": "بطاريات جافة",
+      "price": 3497,
+      "priceStatus": "سعر كتالوج موزع منشور بتاريخ 9 نوفمبر 2026؛ يلزم تأكيد السعر والمخزون",
+      "details": "السعر قبل احتساب قيمة استبدال البطارية القديمة.",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-10"
+    },
+    {
+      "name": "Gold Spark 90Ah",
+      "brand": "Gold Spark",
+      "category": "بطاريات جافة",
+      "price": 3616,
+      "priceStatus": "سعر كتالوج موزع منشور بتاريخ 9 نوفمبر 2026؛ يلزم تأكيد السعر والمخزون",
+      "details": "السعر قبل احتساب قيمة استبدال البطارية القديمة؛ تحقق من توافق السعة والقطبية مع السيارة.",
+      "merchant": "Saad Aman",
+      "source": "https://www.saadaman.com/en/car-battery-prices-egypt-2026",
+      "checkedAt": "2026-11-10"
     }
   ],
   "updatedAt": "2026-11-10"
