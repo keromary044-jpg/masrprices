@@ -2499,15 +2499,16 @@
   },
   {
     "id": "elx-0172",
-    "name": "Gigabyte Aorus 15",
+    "name": "Gigabyte AORUS 15 BKG-13US754SH Gaming Laptop",
     "category": "لابتوبات",
     "brand": "Gigabyte",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 114694,
+    "merchant": "Ubuy Egypt",
+    "source": "https://www.ubuy.com.eg/en/product/JBLOKUR7I-gigabyte-aorus-16-16-0-16-10-qhd-2560x1600-240hz-nvidia-geforce-rtx-4070-laptop-gpu-8gb-gddr6-intel-core-i7-13700h-16gb-ddr5-ram-1tb-ssd-win11",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر معروض 114,694 جنيه؛ مستورد من الولايات المتحدة، والشحن والجمارك غير مشمولين.",
+    "note": "تم تخصيص السجل لإصدار AORUS 15 BKG-13US754SH المطابق لعنوان صفحة Ubuy؛ رسوم الشحن والجمارك تُحسب عند الدفع.",
+    "model": "AORUS 15 BKG-13US754SH"
   },
   {
     "id": "elx-0173",
