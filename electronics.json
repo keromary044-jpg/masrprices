@@ -1442,12 +1442,12 @@
     "name": "HP M27f 27",
     "category": "شاشات الكمبيوتر",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6000,
+    "merchant": "SQUADRIG Egypt",
+    "source": "https://squadrig.com/collections/hp",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ صفحة المتجر تعرض توفر المنتج",
+    "note": "HP M27f 27-inch FHD IPS 75Hz Monitor؛ السعر 6,000 جنيه."
   },
   {
     "id": "elx-0089",
@@ -1551,12 +1551,12 @@
     "name": "LG 24MP400 24",
     "category": "شاشات الكمبيوتر",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23600,
+    "merchant": "Laptop Store",
+    "source": "https://laptop.store-eg.com/en/product/lg-24mp400-b-24-ips",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ آخر فهرسة للمصدر قبل شهرين",
+    "note": "LG 24MP400-B 23.8-inch FHD IPS 75Hz Monitor؛ السعر 23,600 جنيه."
   },
   {
     "id": "elx-0098",
@@ -1587,12 +1587,12 @@
     "name": "LG UltraGear 27GP850",
     "category": "شاشات الكمبيوتر",
     "brand": "LG",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23600,
+    "merchant": "Laptop Store",
+    "source": "https://laptop.store-eg.com/en/brand/lg",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ آخر فهرسة للمصدر قبل شهرين",
+    "note": "LG UltraGear 27GP850-B 27-inch Gaming Monitor؛ السعر 23,600 جنيه."
   },
   {
     "id": "elx-0101",
@@ -1611,12 +1611,12 @@
     "name": "ASUS VA24EHE 24",
     "category": "شاشات الكمبيوتر",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4950,
+    "merchant": "Compumarts Egypt",
+    "source": "https://ijmali.app/prices/monitors-asus?lang=ar",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "آخر تحقق للمصدر قبل 13 يومًا؛ صفحة ASUS تؤكد وجود موزع مصري يعرضه In Stock",
+    "note": "ASUS VA24EHE / VZ24EHE 23.8-inch FHD IPS Monitor؛ السعر المدرج 4,950 جنيه."
   },
   {
     "id": "elx-0103",
@@ -1671,12 +1671,12 @@
     "name": "AOC 24B2XH 24",
     "category": "شاشات الكمبيوتر",
     "brand": "AOC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23800,
+    "merchant": "Laptop Store",
+    "source": "https://store-eg.com/s/laptop/en/brand/aoc",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In Stock؛ آخر فهرسة للمصدر قبل شهرين",
+    "note": "AOC 24B2XH 24-inch IPS Frameless Monitor؛ السعر 23,800 جنيه."
   },
   {
     "id": "elx-0108",
@@ -1707,12 +1707,12 @@
     "name": "AOC CQ32G3SE 32",
     "category": "شاشات الكمبيوتر",
     "brand": "AOC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 13999,
+    "merchant": "Compumarts Egypt",
+    "source": "https://nileshopper.com/products/79371-aoc-cq32g3se-31-5-va-curved-monitor",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock at 2 stores؛ السعر شوهد خلال آخر يومين",
+    "note": "AOC CQ32G3SE 31.5-inch QHD VA Curved 165Hz Gaming Monitor؛ السعر 13,999 جنيه."
   },
   {
     "id": "elx-0111",
@@ -1974,12 +1974,12 @@
     "name": "HP EliteBook 840 G10",
     "category": "لابتوبات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 21300,
+    "merchant": "Al Sahaba Laptop",
+    "source": "https://alsahaba.com.eg/product/hp-elitebook-840-g10-intel-core-i7-1365u-14-inch-fhd/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "In stock؛ صفحة المتجر تعرض Add to cart",
+    "note": "HP EliteBook 840 G10؛ التكوين Core i7-1365U؛ السعر 21,300 جنيه."
   },
   {
     "id": "elx-0133",
