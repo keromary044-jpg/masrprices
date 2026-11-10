@@ -5017,24 +5017,24 @@
     "name": "TP-Link Archer AX73",
     "category": "راوترات وشبكات",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10525,
+    "merchant": "Noon Egypt",
+    "source": "https://eg.pricena.com/ar/product/ax5400-wifi-6-dual-band-gigabit-wireless-internet-router-high-speed-ax-router-for-streaming-long-range-coverage-archer-ax73-black-price-in-Egypt-37011705",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور؛ آخر تحديث قبل 8 ساعات",
+    "note": "TP-Link Archer AX73 AX5400 Wi-Fi 6 Router."
   },
   {
     "id": "elx-0379",
     "name": "TP-Link Deco M4 2-Pack",
     "category": "راوترات وشبكات",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4900,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://elghazawy.com/en/sub-category/routers-devices",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على صفحة المتجر",
+    "note": "TP-Link Deco M4 Pack of 2 Mesh Network."
   },
   {
     "id": "elx-0380",
@@ -5161,12 +5161,12 @@
     "name": "D-Link DIR-825",
     "category": "راوترات وشبكات",
     "brand": "D-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1250,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://priceteq.com/eg/product/78ef3d03-ec64-41cf-8c51-3637a3a1c294",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى 4 متاجر؛ آخر تحديث 9 نوفمبر 2026",
+    "note": "D-Link DIR-825M AC1200؛ رقم الموديل التفصيلي موضح."
   },
   {
     "id": "elx-0391",
