@@ -748,15 +748,16 @@
     },
     {
       "id": "spare-parts-إكصدام-خلفي-لهيونداي-إلنترا-hyundai-قطعة",
-      "name": "إكصدام خلفي لهيونداي إلنترا",
+      "name": "إكصدام خلفي هيونداي إلنترا MD 2011–2013 (بديل سعودي)",
       "category": "هيكل خارجي",
       "brand": "Hyundai",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 1391,
+      "merchant": "Shasih",
+      "source": "https://shasih.com/products/rear-bumper-hyundai-elantra-md-2011-2013-sa",
+      "checkedAt": "2026-11-10",
+      "details": "سعر منشور لإكصدام خلفي بديل جديد صناعة سعودية، متوافق حسب البائع مع هيونداي إلنترا MD موديلات 2011–2013؛ رقم المتجر AP-0805.",
+      "model": "Hyundai Elantra MD 2011–2013"
     },
     {
       "id": "spare-parts-مقبض-باب-خارجي-لتويوتا-toyota-قطعة",
