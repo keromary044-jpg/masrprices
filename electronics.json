@@ -3950,12 +3950,12 @@
     "name": "Sony PlayStation 5 Pro",
     "category": "أجهزة الألعاب",
     "brand": "Sony",
-    "price": 64000,
-    "merchant": "Games World Egypt",
-    "source": "https://www.gamesworldegypt.com/device?order=ASC&page=3&sort=p.model",
+    "price": 85000,
+    "merchant": "Sigma Store",
+    "source": "https://sigmastores.net/en-eg/products/console",
     "checkedAt": "2026-11-10",
-    "priceStatus": "سعر منشور لنسخة جديدة بضمان سنة",
-    "note": "Sony PlayStation 5 Pro 2TB TRA Digital Edition."
+    "priceStatus": "متاح بالمخزون حسب كتالوج المتجر اليوم",
+    "note": "Sony PlayStation 5 Pro New؛ ضمان Sigma لمدة 5 سنوات حسب المتجر."
   },
   {
     "id": "elx-0293",
@@ -4000,12 +4000,12 @@
     "name": "Microsoft Xbox Series S 512GB",
     "category": "أجهزة الألعاب",
     "brand": "Microsoft",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 28000,
+    "merchant": "Taha Game Egypt",
+    "source": "https://priceteq.com/eg/product/0468f0d8-4d2b-4e9d-a867-00b7040e195f",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "أقل سعر منشور ومتاح في مقارنة المتاجر بتاريخ 6 نوفمبر 2026",
+    "note": "Microsoft Xbox Series S 512GB؛ السعر بالجنيه المصري."
   },
   {
     "id": "elx-0297",
@@ -6117,24 +6117,24 @@
     "name": "SanDisk Extreme Portable SSD 1TB",
     "category": "وحدات تخزين خارجية",
     "brand": "SanDisk",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 8499,
+    "merchant": "TradeMark Egypt",
+    "source": "https://priceteq.com/eg/product/7e007600-dcef-4932-9ded-a2dea93bd2d5",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون حسب مقارنة المتاجر؛ آخر تحقق 4 نوفمبر 2026",
+    "note": "SanDisk Extreme Portable SSD 1TB؛ السعر شامل الضريبة حسب المصدر."
   },
   {
     "id": "elx-0469",
     "name": "SanDisk Extreme Pro Portable SSD 2TB",
     "category": "وحدات تخزين خارجية",
     "brand": "SanDisk",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 9800,
+    "merchant": "New Vision Store",
+    "source": "https://nvegypt.com/product-category/hard-drive/portable-ssd/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على صفحة قسم التخزين الخارجي",
+    "note": "SanDisk Extreme Pro Portable SSD 2TB؛ السعر بالجنيه المصري."
   },
   {
     "id": "elx-0470",
@@ -6165,12 +6165,12 @@
     "name": "Kingston XS1000 1TB SSD",
     "category": "وحدات تخزين خارجية",
     "brand": "Kingston",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7500,
+    "merchant": "New Vision Store",
+    "source": "https://newvision.com.eg/shop/category/pc-components-storages-external-ssd-33",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على صفحة المتجر",
+    "note": "Kingston XS1000 1TB External SSD."
   },
   {
     "id": "elx-0473",
