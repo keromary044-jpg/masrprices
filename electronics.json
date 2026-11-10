@@ -1635,12 +1635,12 @@
     "name": "ASUS TUF VG249Q1A",
     "category": "شاشات الكمبيوتر",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5500,
+    "merchant": "Albadr Laptop Egypt",
+    "source": "https://priceteq.com/eg/product/51886772-f4e4-4588-a480-08933b130fd9",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "ASUS TUF VG249Q1A 23.8-inch FHD IPS 165Hz؛ أقل سعر مرصود 5,500 جنيه."
   },
   {
     "id": "elx-0105",
@@ -1695,12 +1695,12 @@
     "name": "AOC 27G2SP 27",
     "category": "شاشات الكمبيوتر",
     "brand": "AOC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 24000,
+    "merchant": "Laptop Store",
+    "source": "https://store-eg.com/s/laptop/en/brand/aoc",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In Stock",
+    "note": "AOC 27G2SP 27-inch 165Hz FHD Gaming Monitor؛ السعر 24,000 جنيه."
   },
   {
     "id": "elx-0110",
@@ -1962,12 +1962,12 @@
     "name": "HP ProBook 450 G10",
     "category": "لابتوبات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 43300,
+    "merchant": "Albetar Store Egypt",
+    "source": "https://priceteq.com/eg/product/647b12d9-ca79-4de7-be6b-dc609983117f",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "HP ProBook 450 G10؛ التكوين المعروض Core i7-1355U / 8GB / 512GB SSD؛ السعر 43,300 جنيه."
   },
   {
     "id": "elx-0132",
