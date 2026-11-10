@@ -1719,12 +1719,12 @@
     "name": "أنبوب لعب للهامستر",
     "category": "مستلزمات القوارض",
     "recordType": "supply",
-    "price": null,
+    "price": 910,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Petsoffice Egypt",
+    "source": "https://www.petsoffice.com/collections/other-pets",
+    "checkedAt": "2026-11-10",
+    "note": "NOBBY Play Tunnel large 28×17×22cm؛ نفق لعب للهامستر والفئران، السعر المنشور."
   },
   {
     "id": "pet-guide-126",
@@ -1855,36 +1855,36 @@
     "name": "غذاء شنشيلا",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 10624,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/353261437-timothy-pellets-7-5-lb-100-all-natural-high-fiber",
+    "checkedAt": "2026-11-10",
+    "note": "Timothy Pellets 7.5lb؛ المنتج يذكر الشنشيلا ضمن الحيوانات المستهدفة، سعر الاستيراد شامل الرسوم والضرائب."
   },
   {
     "id": "pet-guide-137",
     "name": "مكافآت أرانب مناسبة",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 1986,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/410720557-katumo-rabbit-chew-toys-bunny-treats-natural-timothy-hay-sticks",
+    "checkedAt": "2026-11-10",
+    "note": "KATUMO Rabbit Treats، 24 قطعة من أعواد التيموثي والجزر؛ السعر شامل الرسوم والضرائب."
   },
   {
     "id": "pet-guide-138",
     "name": "مكافآت قوارض مناسبة",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 2804,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/734979819-bunny-treats-treat-box-with-15-kind-of-snacks-rabbit",
+    "checkedAt": "2026-11-10",
+    "note": "MinrzPet Treat Box؛ صندوق 15 نوعًا من المكافآت للهامستر والشنشيلا وخنازير غينيا والحيوانات الصغيرة، السعر شامل الرسوم والضرائب."
   },
   {
     "id": "pet-guide-139",
@@ -1903,12 +1903,12 @@
     "name": "أعواد قضم آمنة للقوارض",
     "category": "طعام القوارض والأرانب",
     "recordType": "supply",
-    "price": null,
+    "price": 1986,
     "currency": "EGP",
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "note": "عنصر في دليل المستلزمات؛ السعر والمتجر غير متاحين بعد ولم يتم اختلاقهما."
+    "merchant": "Desertcart Egypt",
+    "source": "https://www.desertcart.com.eg/products/410720557-katumo-rabbit-chew-toys-bunny-treats-natural-timothy-hay-sticks",
+    "checkedAt": "2026-11-10",
+    "note": "KATUMO Timothy Hay Chew Sticks؛ أعواد قضم طبيعية للأرانب والقوارض، السعر شامل الرسوم والضرائب."
   },
   {
     "id": "pet-guide-141",
