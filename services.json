@@ -111,11 +111,12 @@
       "category": "الأحوال المدنية",
       "brand": "وزارة الداخلية",
       "unit": "طلب إلكتروني",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 65,
+      "merchant": "بوابة محافظة القاهرة",
+      "source": "https://cairo.gov.eg/en/news/2026/october/4/f1b0a5fdd5a842e28ea18c1395fa653a",
+      "checkedAt": "2026-11-10",
+      "details": "رسوم استخراج قيد عائلي مميكن إلكترونيًا: 65 جنيهًا؛ مدة الإصدار المذكورة حتى 7 أيام عمل.",
+      "priceStatus": "رسوم منشورة بجهة حكومية رسمية"
     },
     {
       "id": "services-استخراج-قيد-فردي-وزارة-الداخلية-طلب-إلكتروني",
@@ -720,8 +721,12 @@
       "name": "استخراج جواز سفر – بدل فاقد",
       "category": "خدمات حكومية",
       "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "price": 1155,
+      "details": "رسوم جواز السفر بدل فاقد أو تالف: 1,155 جنيهًا وفق صفحة وزارة الداخلية.",
+      "source": "https://www.moi.gov.eg/passports/home/GetPassport",
+      "merchant": "وزارة الداخلية المصرية",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "رسوم منشورة بجهة حكومية رسمية"
     },
     {
       "id": "catalog-services-0025",
@@ -756,8 +761,12 @@
       "name": "تجديد جواز سفر – بدل فاقد",
       "category": "خدمات حكومية",
       "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "price": 1155,
+      "details": "رسوم إصدار جواز سفر بدل فاقد أو تالف: 1,155 جنيهًا وفق صفحة وزارة الداخلية.",
+      "source": "https://www.moi.gov.eg/passports/home/GetPassport",
+      "merchant": "وزارة الداخلية المصرية",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "رسوم منشورة بجهة حكومية رسمية"
     },
     {
       "id": "catalog-services-0028",
@@ -1394,6 +1403,32 @@
       "details": "الرسم المنشور على بوابة وزارة الداخلية المصرية.",
       "priceStatus": "verified",
       "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "service-mfa-certification-ordinary",
+      "name": "تصديق مستند – التصديق العادي",
+      "category": "خدمات التوثيق والتصديقات",
+      "brand": "وزارة الخارجية المصرية",
+      "unit": "مستند",
+      "price": 115,
+      "merchant": "مكاتب التصديقات التابعة لوزارة الخارجية",
+      "source": "https://www.mfa.gov.eg/ar/ratificationoffices/AuthenticationProcedure",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "رسوم منشورة على الموقع الرسمي لوزارة الخارجية",
+      "details": "رسوم التصديق العادي للمستند: 115 جنيهًا."
+    },
+    {
+      "id": "service-mfa-certification-commercial",
+      "name": "تصديق مستند تجاري – التصديق التجاري",
+      "category": "خدمات التوثيق والتصديقات",
+      "brand": "وزارة الخارجية المصرية",
+      "unit": "مستند تجاري",
+      "price": 410,
+      "merchant": "مكاتب التصديقات التابعة لوزارة الخارجية",
+      "source": "https://www.mfa.gov.eg/ar/ratificationoffices/AuthenticationProcedure",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "رسوم منشورة على الموقع الرسمي لوزارة الخارجية",
+      "details": "رسوم التصديق التجاري للمستند: 410 جنيهات."
     }
   ]
 }
