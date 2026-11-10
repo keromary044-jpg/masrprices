@@ -2967,12 +2967,12 @@
     "name": "Canon CanoScan LiDE 400",
     "category": "طابعات وماسحات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4675,
+    "merchant": "Elghazawy Egypt",
+    "source": "https://priceteq.com/eg/product/38ec2de1-d4db-4c97-af8d-934af51b61e6",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "Canon CanoScan LiDE 400؛ أقل سعر مرصود 4,675 جنيه."
   },
   {
     "id": "elx-0212",
@@ -3110,12 +3110,12 @@
     "name": "Brother MFC-L2710DW",
     "category": "طابعات وماسحات",
     "brand": "Brother",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 11800,
+    "merchant": "Laptop Store",
+    "source": "https://laptop.store-eg.com/en/brand/brother",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ مدرج In Stock",
+    "note": "Brother MFC-L2710DW Mono Laser All-in-One Printer؛ السعر 11,800 جنيه."
   },
   {
     "id": "elx-0223",
@@ -3350,12 +3350,12 @@
     "name": "Canon PowerShot SX740 HS",
     "category": "كاميرات وعدسات",
     "brand": "Canon",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 35000,
+    "merchant": "Kareem Stores Egypt",
+    "source": "https://priceteq.com/eg/product/719ab8ee-f688-4b0b-b71a-6c6493780e2c",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "Canon PowerShot SX740 HS؛ أقل سعر مرصود 35,000 جنيه."
   },
   {
     "id": "elx-0243",
@@ -3662,12 +3662,12 @@
     "name": "GoPro HERO13 Black",
     "category": "كاميرات وعدسات",
     "brand": "GoPro",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 20200,
+    "merchant": "Masrawy Store",
+    "source": "https://masrawystore.com/shop/gopro-hero13-black-waterproof-action-camera/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح حسب صفحة المتجر؛ يوجد مصدر آخر يعرض نفاد المخزون",
+    "note": "GoPro HERO13 Black؛ 20,200 جنيه؛ يلزم تأكيد المخزون قبل الشراء بسبب تعارض حالة التوفر بين المتاجر."
   },
   {
     "id": "elx-0269",
@@ -3698,12 +3698,12 @@
     "name": "DJI Osmo Action 4",
     "category": "كاميرات وعدسات",
     "brand": "DJI",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 21599,
+    "merchant": "2B Egypt",
+    "source": "https://priceteq.com/eg/product/69165edc-5ef8-4b10-ac56-93fc25691efd",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "DJI Osmo Action 4 Adventure Combo؛ السعر 21,599 جنيه."
   },
   {
     "id": "elx-0272",
@@ -3758,12 +3758,12 @@
     "name": "Insta360 X4",
     "category": "كاميرات وعدسات",
     "brand": "Insta360",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 23500,
+    "merchant": "Smart Koshk Egypt",
+    "source": "https://priceteq.com/eg/product/c8712584-38d7-4133-aacb-911873fc260e",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "Insta360 X4 8K 360 Action Camera؛ أقل سعر مرصود 23,500 جنيه."
   },
   {
     "id": "elx-0277",
@@ -4144,12 +4144,12 @@
     "name": "Meta Quest 3",
     "category": "أجهزة الألعاب",
     "brand": "Meta",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 35999,
+    "merchant": "Ennap Egypt",
+    "source": "https://priceteq.com/eg/product/6e21be15-20ab-4e6c-8854-2ab468b57e55",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "Meta Quest 3 Mixed Reality VR Headset؛ سعة 512GB؛ أقل سعر مرصود 35,999 جنيه."
   },
   {
     "id": "elx-0309",
@@ -4168,12 +4168,12 @@
     "name": "Logitech G G29 Driving Force",
     "category": "أجهزة الألعاب",
     "brand": "Logitech G",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12999,
+    "merchant": "Noon",
+    "source": "https://www.noon.com/egypt-en/g29-driving-force-racing-wheel-ps5-ps4-ps3-pc/N11825679A/p/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ 3 وحدات ظاهرة وقت التحقق",
+    "note": "Logitech G29 Driving Force Racing Wheel؛ السعر الظاهر 12,999 جنيه."
   },
   {
     "id": "elx-0311",
@@ -4359,24 +4359,24 @@
     "name": "JBL Xtreme 3",
     "category": "سماعات ومكبرات صوت",
     "brand": "JBL",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12100,
+    "merchant": "Trojan Stores",
+    "source": "https://www.trojanstores.com/shop/jbl-xtreme-3",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In Stock",
+    "note": "JBL Xtreme 3؛ السعر 12,100 جنيه شامل الضريبة."
   },
   {
     "id": "elx-0326",
     "name": "JBL Boombox 3",
     "category": "سماعات ومكبرات صوت",
     "brand": "JBL",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 22183,
+    "merchant": "Raya Shop Egypt",
+    "source": "https://priceteq.com/eg/product/5bf00a33-a217-4704-afe5-df320022d10d",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ تحقق PriceTeq اليوم",
+    "note": "JBL Boombox 3؛ أقل سعر مرصود 22,183 جنيه."
   },
   {
     "id": "elx-0327",
@@ -4502,12 +4502,12 @@
     "name": "Sony WF-1000XM5",
     "category": "سماعات ومكبرات صوت",
     "brand": "Sony",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 5750,
+    "merchant": "Mobile Store",
+    "source": "https://mobile.store-eg.com/en/product/sony-wf-1000xm5",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ صفحة المتجر تعرض In Stock",
+    "note": "Sony WF-1000XM5؛ السعر 5,750 جنيه."
   },
   {
     "id": "elx-0337",
@@ -4633,12 +4633,12 @@
     "name": "Bose SoundLink Flex",
     "category": "سماعات ومكبرات صوت",
     "brand": "Bose",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6000,
+    "merchant": "Mobile Store",
+    "source": "https://mobile.store-eg.com/en/product/bose-soundlink-flex",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح؛ 25 وحدة ظاهرة بالمخزون وقت التحقق",
+    "note": "Bose SoundLink Flex؛ السعر 6,000 جنيه."
   },
   {
     "id": "elx-0347",
