@@ -2911,12 +2911,13 @@
       "title": "الأعمال الشعرية",
       "author": "محمود درويش",
       "category": "شعر",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 2970,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=32294072-9bf9-4c66-8e38-94861039a415",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "الأعمال الشعرية الكاملة في 3 مجلدات؛ السعر المخفض 2970 جنيهًا؛ غير متوفرة حاليًا"
     },
     {
       "id": "catalog-110-لماذا-ننام",
@@ -3254,12 +3255,13 @@
       "title": "مبادئ الاقتصاد",
       "author": "نيكولاس غريغوري مانكيو",
       "category": "اقتصاد",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 1694,
+      "merchant": "جوميا مصر",
+      "source": "https://www.jumia.com.eg/ar/cengage-learning-principles-of-economics-arab-world-ed.-3-52075945.html",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "الطبعة الثالثة العربية في العالم العربي؛ السعر المنشور 1694 جنيهًا"
     },
     {
       "id": "catalog-137-مدخل-إلى-علم-الاجتماع",
@@ -3428,12 +3430,13 @@
       "title": "الباقي من الزمن ساعة",
       "author": "نجيب محفوظ",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 180,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=fc239e8d-4948-4dac-9aaf-de5b9268f613",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر المخفض المنشور 180 جنيهًا؛ غير متوفر حاليًا"
     },
     {
       "id": "diwan-ليالي-ألف-ليلة",
