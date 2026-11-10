@@ -901,9 +901,9 @@
         const headers=parseLine(lines.shift()||"");
         const index=Object.fromEntries(headers.map((h,i)=>[h,i]));
         const unique=new Map();
-        for(const line of lines){if(!line.trim())continue;const row=parseLine(line);const code=row[index.AlphabeticCode]||"";const withdrawn=row[index.WithdrawalDate]||"";const minor=row[index.MinorUnit]||"";if(!/^[A-Z]{3}$/.test(code)||withdrawn||!/^\d+$/.test(minor))continue;if(!unique.has(code))unique.set(code,row[index.Currency]||code);}
+        for(const line of lines){if(!line.trim())continue;const row=parseLine(line);const code=row[index.AlphabeticCode]||"";const withdrawn=row[index.WithdrawalDate]||"";const minor=row[index.MinorUnit]||"";if(!/^[A-Z]{3}$/.test(code)||withdrawn)continue;if(!unique.has(code))unique.set(code,{english:row[index.Currency]||code,minorUnit:minor});}
         let names;try{names=new Intl.DisplayNames(["ar"],{type:"currency"});}catch(e){names=null;}
-        return Array.from(unique,([code,english])=>{const localized=names?.of(code);return {name:localized&&localized!==code?localized:english,englishName:english,code,directoryOnly:true};}).sort((x,y)=>x.name.localeCompare(y.name,"ar"));
+        return Array.from(unique,([code,info])=>{const localized=names?.of(code);return {name:localized&&localized!==code?localized:info.english,englishName:info.english,code,minorUnit:info.minorUnit||"غير محدد",directoryOnly:true};}).sort((x,y)=>x.name.localeCompare(y.name,"ar"));
       })().catch(error=>{currencyDirectoryPromise=null;console.warn("تعذر تحميل دليل العملات العالمي:",error);return [];});
     }
     return currencyDirectoryPromise;
@@ -1097,7 +1097,7 @@
       });
       const pricedCount=mergedCurrencies.filter(x=>!x.directoryOnly&&Number.isFinite(Number(x.rate))).length;
       const coveragePct=mergedCurrencies.length?Math.round(pricedCount/mergedCurrencies.length*100):0;
-      const mergedNote="تغطية الأسعار: "+pricedCount+" من "+mergedCurrencies.length+" عملة ("+coveragePct+"%). أسعار العملات المتاحة محليًا من مصدر السوق المصري، وباقي الأسعار المرجعية محسوبة من سعر الدولار المحلي ومعدلات عالمية يومية؛ قد تختلف عن أسعار البنوك والصرافة. العملات التي لا تتوفر لها بيانات موثوقة لا يُختلق لها سعر.";
+      const mergedNote="دليل العملات يضم جميع رموز العملات النشطة المنشورة في قائمة ISO 4217، بما فيها الوحدات التي لا تتوفر لها أسعار صرف. عدد الرموز في الدليل: "+mergedCurrencies.length+". لها أسعار مرجعية: "+pricedCount+" ("+coveragePct+"%). الأسعار المرجعية العالمية محسوبة من معدلات يومية وقد تختلف عن أسعار البنوك والصرافة؛ ولا يُختلق سعر للعملات التي لا تتوفر لها بيانات موثوقة.";
       renderMarketGroups(fallbackGroups.map(f=>{const live=byTitle.get(f.title);if(f.title==="أسعار العملات مقابل الجنيه"){return {...(live&&live.items.length?live:f),items:mergedCurrencies,note:mergedNote,source:"https://github.com/fawazahmed0/exchange-api"};}return live&&live.items.length?live:f;}),true,feed.generatedAt);
     }catch(error){
       console.warn("Market data unavailable; showing source links.",error);
