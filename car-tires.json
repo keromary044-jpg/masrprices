@@ -576,18 +576,28 @@
       "priceStatus": "سعر منشور لمنتج بالمخزون؛ شامل ضريبة القيمة المضافة وقابل للتغيير"
     },
     {
-      "name": "إطار رياضي – 225/55 R17",
-      "brand": "ماركات متعددة",
+      "name": "BLACKHAWK STREET-HH01 225/55 R17",
+      "brand": "BLACKHAWK",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4425,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/55 R17 W (97)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/ar/tires/tyres-225-55-17--",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار رياضي – 235/60 R18",
-      "brand": "ماركات متعددة",
+      "name": "TRANSMATE Sport D1 225/55 R17",
+      "brand": "TRANSMATE",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4476,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/55 R17 W (101)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/ar/tires/tyres-225-55-17--",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
       "name": "LASSA 175/70 R13 Tire",
@@ -634,88 +644,149 @@
       "priceStatus": "سعر منشور في صفحة المقاس لدى Shaheen Tire بتاريخ 8 نوفمبر 2026؛ يلزم التأكد من التوفر."
     },
     {
-      "name": "إطار اقتصادي – 215/60 R16",
-      "brand": "ماركات متعددة",
+      "name": "ROADSTONE NFERA AU5 225/55 R17",
+      "brand": "ROADSTONE",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 12437,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/55 R17 W (101)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/ar/tires/tyres-225-55-17--",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار اقتصادي – 225/45 R17",
-      "brand": "ماركات متعددة",
+      "name": "AUSTONE 225/45 R17 94W",
+      "brand": "AUSTONE",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3680,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/45 R17 94W",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/225-45-r17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار اقتصادي – 225/55 R17",
-      "brand": "ماركات متعددة",
+      "name": "LEAO 225/45 R17",
+      "brand": "LEAO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3790,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/45 R17",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/225-45-r17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار اقتصادي – 235/60 R18",
-      "brand": "ماركات متعددة",
+      "name": "LASSA 225/45 R17 94Y",
+      "brand": "LASSA",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4200,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/45 R17 94Y",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/225-45-r17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار All Season – 175/70 R13",
-      "brand": "ماركات متعددة",
+      "name": "Hankook Ventus S1 evo3 K127B 225/45 R17 Runflat",
+      "brand": "Hankook",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 8965,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/45 R17 Y (94) Runflat",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-225-45-17--rf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار All Season – 185/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "Continental 225/45 R17 Runflat",
+      "brand": "Continental",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 9028,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/45 R17 Runflat",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-225-45-17--rf",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار All Season – 195/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "LEAO 235/60 R18 107V",
+      "brand": "LEAO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 5300,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "235/60 R18 107V",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/235-60-r18",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار All Season – 205/55 R16",
-      "brand": "ماركات متعددة",
+      "name": "Landsail RapidDragon RD-3 AS 215/60 R16",
+      "brand": "Landsail",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3243,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "215/60 R16 H (95)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/ar/tires/tyres-215-60-16--",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار All Season – 215/60 R16",
-      "brand": "ماركات متعددة",
+      "name": "OTANI KC2000 215/60 R16",
+      "brand": "OTANI",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4041,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "215/60 R16 V (99)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/ar/tires/tyres-215-60-16--",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار All Season – 225/45 R17",
-      "brand": "ماركات متعددة",
+      "name": "KUMHO ECSTA HS52 215/60 R16",
+      "brand": "KUMHO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4706,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "215/60 R16 V (95)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-215-60-16-87-v",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار All Season – 225/55 R17",
-      "brand": "ماركات متعددة",
+      "name": "Michelin Primacy 5 215/60 R16",
+      "brand": "Michelin",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 6618,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "215/60 R16 V (99)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-215-60-16-87-v",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار All Season – 235/60 R18",
-      "brand": "ماركات متعددة",
+      "name": "AUSTONE 185/65 R15 88H",
+      "brand": "AUSTONE",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2620.8,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "185/65 R15 88H",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/185-65-r15",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "yesterday"
     },
     {
       "name": "إطار صيفي – 175/70 R13",
@@ -762,11 +833,17 @@
       "priceStatus": "سعر منشور في قائمة متجر/مقارنة أسعار مصر بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات قبل الشراء."
     },
     {
-      "name": "إطار صيفي – 215/60 R16",
-      "brand": "ماركات متعددة",
+      "name": "Laufenn 185/65 R15 88H",
+      "brand": "Laufenn",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3057.6,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "185/65 R15 88H",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/185-65-r15",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "yesterday"
     },
     {
       "name": "إطار صيفي – 225/45 R17",
@@ -780,95 +857,167 @@
       "checkedAt": "2026-11-10"
     },
     {
-      "name": "إطار صيفي – 225/55 R17",
-      "brand": "ماركات متعددة",
+      "name": "HANKOOK 185/65 R15",
+      "brand": "HANKOOK",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3395,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "185/65 R15",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/185-65-r15",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "yesterday"
     },
     {
-      "name": "إطار صيفي – 235/60 R18",
-      "brand": "ماركات متعددة",
+      "name": "BRIDGESTONE 185/65 R15",
+      "brand": "BRIDGESTONE",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3865,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "185/65 R15",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/185-65-r15",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "yesterday"
     },
     {
-      "name": "إطار شتوي – 175/70 R13",
-      "brand": "ماركات متعددة",
+      "name": "BOTO 205/55 R16 91V",
+      "brand": "BOTO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 2450,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "205/55 R16 91V",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/205-55-r16",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار شتوي – 185/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "BOTO 225/60 R17 G228 99H",
+      "brand": "BOTO",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 3470,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 99H",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/225-60-r17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار شتوي – 195/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "AUSTONE 225/60 R17 99V",
+      "brand": "AUSTONE",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4200,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 99V",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/225-60-r17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار شتوي – 205/55 R16",
-      "brand": "ماركات متعددة",
+      "name": "HANKOOK 225/60 R17 99H",
+      "brand": "HANKOOK",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 6180,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 99H",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/225-60-r17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار شتوي – 215/60 R16",
-      "brand": "ماركات متعددة",
+      "name": "HANKOOK Ventus Prime 2 K115 225/60 R17",
+      "brand": "HANKOOK",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 7405.6,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 99H",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/225-60-r17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار شتوي – 225/45 R17",
-      "brand": "ماركات متعددة",
+      "name": "Michelin Primacy 225/60 R17",
+      "brand": "Michelin",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 7110,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17",
+      "merchant": "Shaheen Tire",
+      "source": "https://www.shaheentire.com/en/tires/size/225-60-r17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور لمنتج مدرج بالمخزون وقت الرصد؛ شامل الضريبة حسب المصدر وقابل للتغيير"
     },
     {
-      "name": "إطار شتوي – 225/55 R17",
-      "brand": "ماركات متعددة",
+      "name": "GoodYear EFFICIENTGRIP 2 225/60 R17",
+      "brand": "GoodYear",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4100,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 V (99)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-225-60-17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "indexed about 2 months ago"
     },
     {
-      "name": "إطار شتوي – 235/60 R18",
-      "brand": "ماركات متعددة",
+      "name": "GoodRide RIDEMAX G-127 225/60 R17",
+      "brand": "GoodRide",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4811,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 H (99)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-225-60-17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "indexed about 2 months ago"
     },
     {
-      "name": "إطار Run Flat – 175/70 R13",
-      "brand": "ماركات متعددة",
+      "name": "Landsail CLV2 225/60 R17",
+      "brand": "Landsail",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 4812,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 H (99)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-225-60-17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "indexed about 2 months ago"
     },
     {
-      "name": "إطار Run Flat – 185/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "Laufenn S FIT EQ+ LK01 225/60 R17",
+      "brand": "Laufenn",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 5133,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 H (88)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-225-60-17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "indexed about 2 months ago"
     },
     {
-      "name": "إطار Run Flat – 195/65 R15",
-      "brand": "ماركات متعددة",
+      "name": "Dunlop PT5 225/60 R17",
+      "brand": "Dunlop",
       "category": "إطارات السيارات",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر مؤجل لمرحلة لاحقة."
+      "price": 5716.62,
+      "details": "السعر للفردة الواحدة دون تركيب؛ تُراجع مواصفات الحمولة والسرعة والتوافق مع السيارة قبل الشراء.",
+      "size": "225/60 R17 V (99)",
+      "merchant": "blackcircles.eg",
+      "source": "https://www.blackcircles.com.eg/en/tires/tyres-225-60-17",
+      "checkedAt": "2026-11-10",
+      "priceStatus": "سعر منشور بالمصدر؛ آخر فهرسة ظاهرة منذ نحو شهرين، ويحتاج تأكيدًا جديدًا قبل الشراء",
+      "sourceLastIndexed": "indexed about 2 months ago"
     },
     {
       "name": "إطار Run Flat – 205/55 R16",
