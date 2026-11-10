@@ -402,3 +402,22 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .budget-fab{position:fixed;left:auto;right:0;top:46%;z-index:1200;touch-action:none;cursor:grab;user-select:none;-webkit-user-select:none}
 .budget-fab:active{cursor:grabbing}
 .budget-panel{position:fixed;right:auto;bottom:auto;z-index:1201}
+
+/* Clear, mobile-first precious-metal and currency quote cards */
+.market-rates{display:block;margin-top:18px}
+.market-quote-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}
+.market-quote-card{min-width:0;background:#fff;border:1px solid #dce5ef;border-radius:18px;padding:16px;box-shadow:0 7px 22px rgba(18,48,82,.06)}
+.market-quote-card.market-quote-featured{border:2px solid #c99b3b;background:linear-gradient(145deg,#fffdf7,#fff)}
+.market-quote-head{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:15px}
+.market-quote-name{font-size:1.05rem;color:#102f55}
+.market-quote-unit{font-size:.78rem;color:#718096;background:#f0f4f8;border-radius:20px;padding:5px 9px;white-space:nowrap}
+.market-buy-sell{display:grid;grid-template-columns:1fr 1fr;gap:9px}
+.market-price-side{min-width:0;background:#f4f7fb;border-radius:12px;padding:11px 9px;display:flex;flex-direction:column;gap:8px}
+.market-quote-label{font-size:.78rem;color:#64748b;line-height:1.5}
+.market-quote-price{font-size:1.08rem;font-weight:900;color:#12385e;direction:ltr;text-align:right;overflow-wrap:anywhere}
+.market-quote-fallback{display:block;margin-top:8px}
+.market-quote-foot{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;margin-top:13px}
+.market-quote-note{font-size:.8rem;color:#718096;line-height:1.7}
+.market-source-link{font-size:.85rem;font-weight:800;color:#1d5d91;white-space:nowrap}
+.market-data-stamp{font-size:.78rem;color:#8491a2;margin:10px 2px 0}
+@media(max-width:390px){.market-quote-grid{grid-template-columns:1fr}.market-quote-card{padding:14px}.market-quote-price{font-size:1rem}}
