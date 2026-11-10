@@ -4048,12 +4048,12 @@
     "name": "Microsoft Xbox Elite Series 2",
     "category": "أجهزة الألعاب",
     "brand": "Microsoft",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 10499,
+    "merchant": "Games 2 Egypt",
+    "source": "https://www.games2egypt.com/ar/Product/40651/%D9%88%D8%AD%D8%AF%D8%A9-%D8%A7%D9%84%D8%AA%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9-xbox-elite-series-2",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "نفد المخزون",
+    "note": "السعر للنسخة الجديدة؛ الصفحة تعرض نفاد المخزون، والنسخة المستعملة معروضة بسعر مختلف."
   },
   {
     "id": "elx-0301",
@@ -4108,12 +4108,12 @@
     "name": "Valve Steam Deck LCD",
     "category": "أجهزة الألعاب",
     "brand": "Valve",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 25893,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/index.php?path=80_164_178&route=product%2Fcategory",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "غير متاح حاليًا",
+    "note": "السعر لنسخة Steam Deck LCD 64GB؛ الصفحة تعرض Notify Me."
   },
   {
     "id": "elx-0306",
@@ -4132,12 +4132,12 @@
     "name": "Meta Quest 2",
     "category": "أجهزة الألعاب",
     "brand": "Meta",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 15300,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/devices-accessories/virtual-reality-vr/devices-virtual-reality-vr",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "غير متاح حاليًا",
+    "note": "السعر لنسخة Meta Quest 2 بسعة 128GB؛ الصفحة تعرض Notify Me."
   },
   {
     "id": "elx-0308",
@@ -4216,12 +4216,12 @@
     "name": "Razer Kishi V2 Controller",
     "category": "أجهزة الألعاب",
     "brand": "Razer",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 6900,
+    "merchant": "The Game Cave Egypt",
+    "source": "https://thegamecaveegypt.com/collections/mobile-accessories",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر منشور",
+    "note": "السعر المنشور لنسخة Razer Kishi V2 المتوافقة مع Android."
   },
   {
     "id": "elx-0315",
@@ -4240,12 +4240,12 @@
     "name": "Razer Wolverine V2",
     "category": "أجهزة الألعاب",
     "brand": "Razer",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4814,
+    "merchant": "Games World Egypt (via Qarenly)",
+    "source": "https://qarenly.com/en/venus/razer-wolverine-v2-8211-wired-gaming-controller-for-xbox-18750",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح",
+    "note": "أقل سعر مرصود 4,814 جنيه لنسخة Razer Wolverine V2 البيضاء؛ المتجر يعرضها متاحة."
   },
   {
     "id": "elx-0317",
@@ -4276,12 +4276,12 @@
     "name": "Thrustmaster T300 RS GT",
     "category": "أجهزة الألعاب",
     "brand": "Thrustmaster",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 34999,
+    "merchant": "Gamers Colony",
+    "source": "https://gamerscolony.net/product/thrustmaster-t300-rs-gt-edition-racing-wheel-pc-ps4-ps5/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "مخزون محدود",
+    "note": "السعر لنسخة Thrustmaster T300 RS GT؛ الصفحة كانت تعرض قطعتين بالمخزون."
   },
   {
     "id": "elx-0320",
