@@ -5089,12 +5089,12 @@
     "name": "Huawei AX2 Router",
     "category": "راوترات وشبكات",
     "brand": "Huawei",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1249,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4070700",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور ومتاح وقت التحقق",
+    "note": "Huawei Wi-Fi 6 AX2 WS7001 V2؛ السعر بالجنيه المصري."
   },
   {
     "id": "elx-0385",
@@ -5269,12 +5269,12 @@
     "name": "Tenda AC10U",
     "category": "راوترات وشبكات",
     "brand": "Tenda",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2230,
+    "merchant": "Technology Valley",
+    "source": "https://www.egprices.com/ar/brand/tenda",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور؛ فحص المصدر خلال آخر 4 ساعات",
+    "note": "Tenda AC10U V4.0 AC1200 Dual-Band Gigabit Router."
   },
   {
     "id": "elx-0400",
@@ -6755,36 +6755,36 @@
     "name": "TP-Link Tapo C200 Camera",
     "category": "أجهزة المنزل الذكي",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 999,
+    "merchant": "2B Egypt",
+    "source": "https://connect4techs.com/hardware-prices/tapo-c200/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور من مقارنة متاجر؛ آخر تحديث للمصدر 15 أكتوبر 2026",
+    "note": "TP-Link Tapo C200 1080p؛ السعر قد يتغير."
   },
   {
     "id": "elx-0521",
     "name": "TP-Link Tapo C210 Camera",
     "category": "أجهزة المنزل الذكي",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1290,
+    "merchant": "El Shennawy Stores",
+    "source": "https://www.elshennawy.com/index.php?path=351_358&route=product%2Fcategory",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على صفحة المتجر",
+    "note": "TP-Link Tapo C210 كاميرا مراقبة داخلية."
   },
   {
     "id": "elx-0522",
     "name": "TP-Link Tapo C320WS Camera",
     "category": "أجهزة المنزل الذكي",
     "brand": "TP-Link",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2250,
+    "merchant": "El Shennawy Stores",
+    "source": "https://www.elshennawy.com/index.php?path=351_358&route=product%2Fcategory",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على صفحة المتجر",
+    "note": "TP-Link Tapo C320WS كاميرا مراقبة خارجية."
   },
   {
     "id": "elx-0523",
@@ -6815,12 +6815,12 @@
     "name": "Ezviz C6N Camera",
     "category": "أجهزة المنزل الذكي",
     "brand": "Ezviz",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1440,
+    "merchant": "El Shennawy Stores",
+    "source": "https://www.elshennawy.com/index.php?path=351_358&route=product%2Fcategory",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور على صفحة المتجر",
+    "note": "EZVIZ C6N كاميرا مراقبة داخلية."
   },
   {
     "id": "elx-0526",
