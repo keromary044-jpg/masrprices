@@ -1430,12 +1430,12 @@
     "name": "HP M24f 24",
     "category": "شاشات الكمبيوتر",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7600,
+    "merchant": "HW Egypt",
+    "source": "https://hw-egypt.com/product/hp-m24f-24-inch-full-hd-led-monitor-silver/",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور؛ التوفر يحتاج تأكيدًا من المتجر",
+    "note": "HP M24f 24-inch Full HD IPS Monitor، فضي."
   },
   {
     "id": "elx-0088",
@@ -1683,12 +1683,12 @@
     "name": "AOC 24G2SP 24",
     "category": "شاشات الكمبيوتر",
     "brand": "AOC",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 7150,
+    "merchant": "Sigma Computer Egypt",
+    "source": "https://www.sigma-computer.com/en/item?id=5165&name=AOC_24G2SP_23.8inch_IPS_165Hz_1ms_FHD_IPS_1920_x_1080_Gaming_Monitor",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر منشور لكن المنتج غير متوفر حاليًا",
+    "note": "AOC 24G2SP 23.8-inch IPS 165Hz FHD Gaming Monitor؛ سعر مرجعي لحين عودة المخزون."
   },
   {
     "id": "elx-0109",
@@ -1719,12 +1719,12 @@
     "name": "BenQ GW2480 24",
     "category": "شاشات الكمبيوتر",
     "brand": "BenQ",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 4199,
+    "merchant": "ABC Shop Egypt",
+    "source": "https://www.abcshop-eg.com/en/shop/gw2480-benq-24-gw2480-648",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح للشراء؛ الصفحة تعرض أضف إلى السلة والشراء الآن",
+    "note": "BenQ GW2480 23.8-inch FHD IPS 60Hz Monitor."
   },
   {
     "id": "elx-0112",
