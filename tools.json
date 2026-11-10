@@ -124,16 +124,6 @@
       "checkedAt": "2026-11-02"
     },
     {
-      "id": "tool-hacksaw-apt",
-      "name": "منشار حديد يدوي APT مقاس 12 بوصة",
-      "category": "عدد يدوية",
-      "brand": "APT",
-      "price": 215,
-      "merchant": "Shabana Stores",
-      "source": "https://www.shabanastores.com/en/product-category/tools/hand-tools/",
-      "checkedAt": "2026-11-02"
-    },
-    {
       "id": "tool-bosch-brick-bits",
       "name": "طقم بنط حائط Bosch عدد 7",
       "category": "ملحقات العدد",
@@ -455,20 +445,6 @@
       "currency": "EGP",
       "priceStatus": "listed",
       "details": "سعر منشور لدى المتجر وقت الرصد؛ قد يتغير حسب التوافر والعروض."
-    },
-    {
-      "id": "tools-catalog-025",
-      "name": "EMTOP مقص صاج 10 بوصة EASPT1011",
-      "category": "أدوات",
-      "price": 195,
-      "merchant": "Elghazawy Shop",
-      "source": "https://elghazawy.com/en/sub-category/hand-maintenance-tools?ordered=price&sort=asc",
-      "checkedAt": "2026-11-09",
-      "brand": "EMTOP",
-      "currency": "EGP",
-      "unit": "قطعة",
-      "priceStatus": "retailer_listing",
-      "details": "سعر منشور لدى متجر الغزاوي وقت الرصد؛ يختلف حسب المخزون والعروض."
     },
     {
       "id": "tools-catalog-027",
