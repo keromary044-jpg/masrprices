@@ -1645,12 +1645,13 @@
       "title": "الأرض",
       "author": "عبد الرحمن الشرقاوي",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 270,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=f9402a94-cace-4df5-bf57-6b2cd4d707e9",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور على صفحة المنتج؛ قد يختلف حسب الطبعة والتوفر."
     },
     {
       "id": "catalog-012-الشوارع-الخلفية",
@@ -1850,24 +1851,26 @@
       "title": "ذات",
       "author": "صنع الله إبراهيم",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 221,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=7e266c6f-e3d4-4233-8b0c-368816c8640c",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور على صفحة المنتج؛ قد يختلف حسب الطبعة والتوفر."
     },
     {
       "id": "catalog-028-عمارة-يعقوبيان",
       "title": "عمارة يعقوبيان",
       "author": "علاء الأسواني",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 52.5,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=960961c1-7eb4-4c9a-a300-bbd582039f48",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "السعر المنشور 52.5 جنيه، لكن الصفحة تشير إلى أن الكتاب غير متوفر حالياً."
     },
     {
       "id": "catalog-029-شيكاجو",
@@ -1899,12 +1902,13 @@
       "title": "النبطي",
       "author": "يوسف زيدان",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 150,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=b1421cab-0a65-430e-995f-864232a5fa78",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور على صفحة المنتج؛ قد يختلف حسب الطبعة والتوفر."
     },
     {
       "id": "catalog-032-تراب-الماس",
@@ -2128,12 +2132,13 @@
       "title": "الحب في المنفى",
       "author": "بهاء طاهر",
       "category": "أدب وروايات",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 225,
+      "merchant": "مكتبات الشروق",
+      "source": "https://www.shoroukbookstores.com/books/view.aspx?id=f5cb4f62-d6c6-4a12-b135-30aebeb42807",
+      "checkedAt": "2026-11-10",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "priceStatus": "سعر منشور على صفحة المنتج؛ قد يختلف حسب الطبعة والتوفر."
     },
     {
       "id": "catalog-050-ذاكرة-الجسد",
@@ -2420,13 +2425,12 @@
       "title": "نساء صغيرات",
       "author": "لويزا ماي ألكوت",
       "category": "أدب عالمي",
-      "price": 150,
-      "merchant": "دار فاروس للنشر",
-      "source": "https://books.ay7aaga.com/publisher/%D9%81%D8%A7%D8%B1%D9%88%D8%B3/",
-      "checkedAt": "2026-11-10",
+      "price": null,
+      "merchant": "غير محدد",
+      "source": "",
+      "checkedAt": "",
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
-      "priceStatus": "السعر المنشور لطبعة دار فاروس؛ قد يختلف حسب الطبعة."
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
     },
     {
       "id": "catalog-074-جين-إير",
