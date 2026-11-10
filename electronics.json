@@ -2653,15 +2653,16 @@
   },
   {
     "id": "elx-0187",
-    "name": "Apple Mac mini M2 Pro",
+    "name": "Apple Mac mini 2023 M2 Pro 16GB/512GB",
     "category": "أجهزة الكمبيوتر المكتبية",
     "brand": "Apple",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 137810.18,
+    "merchant": "TechT Egypt",
+    "source": "https://techtegypt.com/collections/mac-mini",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور للنسخة M2 Pro بذاكرة 16GB وتخزين 512GB؛ منتج مستورد وقد يتغير السعر.",
+    "note": "السعر خاص بالنسخة المطابقة 16GB/512GB كما في صفحة المتجر.",
+    "model": "M2 Pro (2023), 16GB unified memory, 512GB SSD"
   },
   {
     "id": "elx-0188",
@@ -6000,15 +6001,17 @@
   },
   {
     "id": "elx-0458",
-    "name": "Cooler Master MWE 650 Bronze PSU",
+    "name": "Cooler Master MWE 650W Bronze V2",
     "category": "مكونات الكمبيوتر",
     "brand": "Cooler Master",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 2640,
+    "merchant": "Sigma Computer",
+    "source": "https://www.sigma-computer.com/en/item?id=2863&name=COOLER_MASTER_MWE_650W_BRONZE_-_V2-80_PLUS_BRONZE_",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "السعر المنشور 2,640 جنيه؛ المنتج غير متوفر وقت الرصد.",
+    "note": "تم ربط السجل بإصدار MWE 650W Bronze V2 المحدد؛ السعر المنشور لا يعني توفر المخزون.",
+    "model": "MWE 650W Bronze V2",
+    "availability": "غير متاح وقت الرصد"
   },
   {
     "id": "elx-0459",
