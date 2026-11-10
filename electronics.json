@@ -7094,15 +7094,16 @@
   },
   {
     "id": "elx-0545",
-    "name": "Baseus PowerCombo 6-in-1",
+    "name": "Baseus GaN3 Pro Desktop Powerstrip 65W 6-in-1",
     "category": "أجهزة الطاقة والشحن",
     "brand": "Baseus",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 1999,
+    "merchant": "Games World Egypt",
+    "source": "https://www.gamesworldegypt.com/index.php?path=2286_2370_2374&route=product%2Fcategory",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "سعر منشور 1,999 جنيه لدى متجر مصري؛ الصفحة تعرض المنتج كغير متاح وقت الرصد.",
+    "note": "تطابق اسم PowerCombo 6-in-1 من حيث محطة الطاقة المكتبية ذات 6 منافذ؛ تم تحديد النسخة المنشورة GaN3 Pro 65W، مع تسجيل عدم التوفر.",
+    "model": "GaN3 Pro AC+2U+2C 65W EU"
   },
   {
     "id": "elx-0546",
