@@ -356,3 +356,28 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 
 /* Hide last-updated dates beneath product prices; retain internal timestamps for data maintenance. */
 .book-date{display:none!important}
+
+
+/* Redesigned school-book catalogue: search-first, compact filters, no forced teacher step */
+.book-catalog-head{display:flex;align-items:center;justify-content:space-between;gap:14px;margin-bottom:14px}
+.book-catalog-head h2{margin:4px 0;font-size:clamp(1.45rem,4vw,2rem)}
+.book-catalog-head p{margin:5px 0;color:#64748b;line-height:1.7}
+.book-catalog-head .catalog-section-icon{font-size:2.5rem;flex:0 0 auto}
+.book-search-main{display:grid;gap:6px;margin:18px 0 14px}
+.book-search-main input{width:100%;min-height:58px;border:1px solid #cbd8e6;border-radius:15px;padding:13px 16px;font:inherit;background:#fff;color:#102b50;box-shadow:0 5px 18px #102b500a}
+.book-search-main input:focus{outline:3px solid #527eae30;border-color:#527eae}
+.book-search-main span{font-size:.78rem;color:#77869a}
+.book-filter-tabs{display:flex;gap:8px;overflow-x:auto;padding:3px 1px 10px;scrollbar-width:thin}
+.book-filter-tab{flex:0 0 auto;border:1px solid #d7e1ec;border-radius:999px;background:#fff;color:#30445e;padding:9px 14px;font:inherit;font-size:.86rem;font-weight:700;cursor:pointer}
+.book-filter-tab.is-active{background:#102f55;border-color:#102f55;color:#fff}
+.book-filter-panel{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;padding:14px;background:#f4f7fb;border:1px solid #e1e8f0;border-radius:16px}
+.book-filter-panel label{display:flex;flex-direction:column;gap:6px;min-width:0;font-size:.83rem;font-weight:700;color:#344963}
+.book-filter-panel select{width:100%;min-width:0;min-height:44px;border:1px solid #d5dfeb;border-radius:10px;background:#fff;padding:8px;font:inherit;color:#102b50}
+.book-results-bar{display:flex;align-items:center;justify-content:space-between;gap:10px;margin:12px 0}
+.book-results-bar p{margin:0}
+.book-reset{border:0;background:transparent;color:#235b91;font:inherit;font-size:.83rem;font-weight:800;cursor:pointer}
+.book-more{display:block;margin:18px auto 6px;border:0;border-radius:12px;background:#102f55;color:#fff;padding:12px 24px;font:inherit;font-weight:800;cursor:pointer}
+.book-catalog .book-grid{margin-top:12px}
+.book-catalog .book-card{min-width:0}
+@media(max-width:650px){.book-filter-panel{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;padding:11px}.book-catalog-head{align-items:flex-start}.book-catalog-head .catalog-section-icon{font-size:2rem}.book-search-main input{font-size:15px}.book-filter-tab{padding:8px 12px;font-size:.8rem}}
+@media(max-width:360px){.book-filter-panel{grid-template-columns:1fr}}
