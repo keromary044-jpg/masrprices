@@ -214,15 +214,15 @@
     },
     {
       "id": "spare-parts-فلتر-زيت-لنيسان-صني-nissan-قطعة",
-      "name": "فلتر زيت لنيسان صني",
+      "name": "فلتر زيت GBM لنيسان صني",
       "category": "فلاتر",
-      "brand": "Nissan",
+      "brand": "GBM",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 60,
+      "merchant": "Dynamu",
+      "source": "https://dynamu.co/ar/c/40-filters",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لفلتر زيت GBM مع ظهور توافق نيسان صني في صفحة المتجر؛ راجع الموديل وسنة الصنع قبل الشراء."
     },
     {
       "id": "spare-parts-فلتر-هواء-لنيسان-صني-nissan-قطعة",
@@ -262,15 +262,15 @@
     },
     {
       "id": "spare-parts-فلتر-زيت-لكيا-سيراتو-kia-قطعة",
-      "name": "فلتر زيت لكيا سيراتو",
+      "name": "فلتر زيت Bosch لكيا سيراتو وهيونداي",
       "category": "فلاتر",
-      "brand": "Kia",
+      "brand": "Bosch",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 325,
+      "merchant": "Dynamu",
+      "source": "https://dynamu.co/ar/c/40-filters",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لفلتر زيت Bosch مع ظهور كيا سيراتو ضمن السيارات المرتبطة بالمنتج؛ يلزم التحقق من توافق المحرك."
     },
     {
       "id": "spare-parts-فلتر-تكييف-لكيا-سيراتو-kia-قطعة",
@@ -569,15 +569,16 @@
     },
     {
       "id": "spare-parts-بوجيهات-هيونداي-ngk-طقم",
-      "name": "بوجيهات هيونداي",
+      "name": "طقم بوجيهات Double Iridium لهيونداي إلنترا MD",
       "category": "إشعال ومحرك",
-      "brand": "NGK",
+      "brand": "Bosch",
       "unit": "طقم",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 2100,
+      "merchant": "Auto Spare",
+      "source": "https://autospare.com.eg/",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن لطقم بوجيهات دابل إيريديوم؛ يجب مطابقة المحرك ورقم القطعة قبل الشراء.",
+      "model": "Hyundai Elantra MD"
     },
     {
       "id": "spare-parts-كويل-إشعال-لتويوتا-toyota-قطعة",
@@ -715,15 +716,15 @@
     },
     {
       "id": "spare-parts-مساحات-زجاج-أمامية-24-بوصة-bosch-زوج",
-      "name": "مساحات زجاج أمامية 24 بوصة",
+      "name": "طقم مساحات Bosch AeroTwin أمامي 24 بوصة + 19 بوصة",
       "category": "مساحات زجاج",
       "brand": "Bosch",
       "unit": "زوج",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ تأكد من المواصفات والتوافق أو شروط الخدمة قبل الطلب."
+      "price": 920,
+      "merchant": "Battireo",
+      "source": "https://www.battireo.com/ar/products?category=wipers",
+      "checkedAt": "2026-11-10",
+      "details": "سعر معلن للطقم بالمقاسين 600 مم/24 بوصة و475 مم/19 بوصة؛ ليس طقمًا متماثل الطول."
     },
     {
       "id": "spare-parts-مراية-جانبية-لتويوتا-toyota-قطعة",
