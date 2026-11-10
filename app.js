@@ -1020,7 +1020,9 @@
         const mergedRates={},rateDates={},sources={};
         const requests=[
           {urls:["https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json","https://latest.currency-api.pages.dev/v1/currencies/usd.json"],name:"currency-api"},
-          {urls:["https://open.er-api.com/v6/latest/USD"],name:"open-er-api"}
+          {urls:["https://open.er-api.com/v6/latest/USD"],name:"open-er-api"},
+          {urls:["https://api.exchangerate-api.com/v4/latest/USD"],name:"exchangerate-api"},
+          {urls:["https://api.frankfurter.dev/v1/latest?base=USD"],name:"frankfurter"}
         ];
         for(const provider of requests){
           for(const url of provider.urls){
