@@ -1204,12 +1204,12 @@
     "name": "Sharp 4K Smart TV 55",
     "category": "الشاشات والتلفزيونات",
     "brand": "Sharp",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 21499,
+    "merchant": "Carrefour Egypt",
+    "source": "https://priceteq.com/eg/shop/944?cat=printer",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى 5 متاجر؛ سعر منشور في متابعة يومية",
+    "note": "Sharp 55-inch 4K UHD Smart Android TV 4T-C55FL6EX."
   },
   {
     "id": "elx-0070",
@@ -1454,12 +1454,12 @@
     "name": "HP E27 G5 27",
     "category": "شاشات الكمبيوتر",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 12210,
+    "merchant": "MEST Stores Egypt",
+    "source": "https://www.egprices.com/en/product/hp-e27-g5-27-inch-full-hd-ips-monitor",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون؛ آخر تحقق قبل ساعتين",
+    "note": "HP E27 G5 27-inch Full HD IPS Monitor, part number 6N4E2AS."
   },
   {
     "id": "elx-0090",
