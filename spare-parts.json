@@ -3247,11 +3247,16 @@
     },
     {
       "id": "part-catalog-0178",
-      "name": "صباب محرك – خلفي",
+      "name": "طقم صباب محرك نيسان صني N17",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Nissan",
+      "price": 2200,
+      "details": "طقم صباب كامل لنيسان صني N17؛ السعر المنشور 2,200 جنيه. السعر للطقم وليس لصباب منفرد.",
+      "model": "Sunny N17",
+      "partNumber": "Y3293",
+      "merchant": "AutoSpare",
+      "source": "https://autospare.com.eg/products/طقم-صباب-نيسان-صني-n17",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0179",
@@ -3271,11 +3276,16 @@
     },
     {
       "id": "part-catalog-0181",
-      "name": "عمود كامة – أمامي",
+      "name": "عمود كامات شيفروليه لانوس 2",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Chevrolet",
+      "price": 1950,
+      "details": "عمود كامات ماركة GMB صيني لشيفروليه لانوس 2؛ السعر المنشور 1,950 جنيه.",
+      "model": "Lanos 2",
+      "partNumber": "U3035",
+      "merchant": "AutoSpare",
+      "source": "https://autospare.com.eg/products/عمود-كامات-شيفروليه-لانوس-2",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0182",
@@ -3399,11 +3409,16 @@
     },
     {
       "id": "part-catalog-0197",
-      "name": "كارتيرة زيت – أمامي",
+      "name": "كارتيرة زيت فتيس شيفروليه نيو أوبترا",
       "category": "قطع غيار سيارات",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي في الكتالوج؛ راجع المقاس أو التوافق مع الموديل قبل الشراء."
+      "brand": "Chevrolet",
+      "price": 1500,
+      "details": "كارتيرة زيت فتيس أصلية SAIC MOTOR لشيفروليه نيو أوبترا؛ السعر المنشور 1,500 جنيه.",
+      "model": "New Optra",
+      "partNumber": "U3715",
+      "merchant": "AutoSpare",
+      "source": "https://autospare.com.eg/products/كارتيرة-زيت-فتيس-شيفروليه-نيو-اوبترا",
+      "checkedAt": "2026-11-10"
     },
     {
       "id": "part-catalog-0198",
