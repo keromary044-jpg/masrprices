@@ -1998,12 +1998,12 @@
     "name": "HP Victus 15",
     "category": "لابتوبات",
     "brand": "HP",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 44999,
+    "merchant": "Raya Shop Egypt",
+    "source": "https://priceteq.com/eg/product/473ca8c0-a6c1-4bf5-bf1e-93dbf3b0afdb",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى متجرين؛ أقل سعر منشور بتاريخ 9 نوفمبر 2026",
+    "note": "HP Victus 15-fa2038ne؛ Core i5-13420H، RAM 8GB، SSD 512GB، RTX 2050."
   },
   {
     "id": "elx-0135",
@@ -2022,12 +2022,12 @@
     "name": "Lenovo IdeaPad Slim 3 15",
     "category": "لابتوبات",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 40499,
+    "merchant": "TradeMark Egypt",
+    "source": "https://priceteq.com/eg/product/ea6635ab-11b1-41f8-9c01-53265d4a112d",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى 14 متجرًا؛ أقل سعر منشور بتاريخ 4 نوفمبر 2026",
+    "note": "Lenovo IdeaPad Slim 3 15IPH11؛ Core Ultra 5، RAM 16GB، SSD 512GB."
   },
   {
     "id": "elx-0137",
@@ -2092,12 +2092,12 @@
     "name": "Lenovo LOQ 15",
     "category": "لابتوبات",
     "brand": "Lenovo",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 35899,
+    "merchant": "Peta Store Egypt",
+    "source": "https://priceteq.com/eg/product/83bf02ae-8f2f-4324-9d4c-0e46bbd7847c",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى 8 متاجر؛ أقل سعر منشور بتاريخ 9 نوفمبر 2026",
+    "note": "Lenovo LOQ 15IAX9؛ Core i5-12450HX، RAM 12GB، SSD 512GB، RTX 2050."
   },
   {
     "id": "elx-0142",
@@ -2140,12 +2140,12 @@
     "name": "ASUS TUF Gaming A15",
     "category": "لابتوبات",
     "brand": "ASUS",
-    "price": null,
-    "merchant": null,
-    "source": null,
-    "checkedAt": null,
-    "priceStatus": "غير متحقق",
-    "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما."
+    "price": 52850,
+    "merchant": "Delta Computer Egypt",
+    "source": "https://priceteq.com/eg/product/d921a9ef-6db9-46ae-b4f3-819460c9b1d9",
+    "checkedAt": "2026-11-10",
+    "priceStatus": "متاح بالمخزون لدى 9 متاجر؛ أقل سعر منشور بتاريخ 6 نوفمبر 2026",
+    "note": "ASUS TUF Gaming A15 FA506NCQ-HN167W؛ Ryzen 7، RAM 16GB، SSD 512GB، RTX 3050."
   },
   {
     "id": "elx-0146",
