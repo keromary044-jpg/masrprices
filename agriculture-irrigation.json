@@ -348,239 +348,341 @@
       "name": "رشاش ثابت – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 130,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: رشاش دوار للحدائق.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "رشاش ثابت – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 130,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع رشاش ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "محبس ري – قطر 16 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 130,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع رشاش ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "محبس ري – قطر 20 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 130,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع رشاش ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "محبس ري – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 32,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: محبس صغير لشبكة التنقيط.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://landpro-eg.com/collections/driplines-fittings",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "محبس ري – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 32,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع محبس صغير؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://landpro-eg.com/collections/driplines-fittings",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "محبس كهربائي – قطر 16 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 32,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع محبس صغير؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://landpro-eg.com/collections/driplines-fittings",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "محبس كهربائي – قطر 20 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 32,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع محبس صغير؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://landpro-eg.com/collections/driplines-fittings",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "محبس كهربائي – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 480,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مؤقت ري أوتوماتيكي.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "محبس كهربائي – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 480,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مؤقت ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "فلتر شبكي للري – قطر 16 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 480,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مؤقت ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "فلتر شبكي للري – قطر 20 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 480,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مؤقت ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "فلتر شبكي للري – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 550,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: فلتر شبكة ري صغير؛ السعر مرجعي من فئة وصلات وفلاتر التنقيط.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://landpro-eg.com/collections/driplines-fittings",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "فلتر شبكي للري – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 550,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع فلتر شبكة؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://landpro-eg.com/collections/driplines-fittings",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "فلتر رملي للري – قطر 16 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 550,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع فلتر شبكة؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://landpro-eg.com/collections/driplines-fittings",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "فلتر رملي للري – قطر 20 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 550,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع فلتر شبكة؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://landpro-eg.com/collections/driplines-fittings",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "فلتر رملي للري – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 850,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع فلتر ري؛ لا يحدد المصدر نفس درجة الترشيح.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "فلتر رملي للري – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 850,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع فلتر ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة مياه زراعية – قطر 16 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 850,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع فلتر ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة مياه زراعية – قطر 20 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 850,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع فلتر ري؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة مياه زراعية – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 18900,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مضخة مياه Brava W20X كمرجع لفئة المضخات.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة مياه زراعية – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 18900,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مضخة مياه؛ اختلاف القطر/التدفق غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة غاطسة – قطر 16 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 18900,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مضخة مياه؛ اختلاف القطر/التدفق غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة غاطسة – قطر 20 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 18900,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مضخة مياه؛ اختلاف القطر/التدفق غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة غاطسة – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 2650,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مضخة غاطسة من فئة مضخات المياه.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "مضخة غاطسة – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 2650,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مضخة غاطسة؛ اختلاف القدرة غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "موتور رفع مياه – قطر 16 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 2650,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مضخة غاطسة؛ اختلاف القدرة غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "موتور رفع مياه – قطر 20 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 2650,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع مضخة غاطسة؛ اختلاف القدرة غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "موتور رفع مياه – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 3200,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع موتور رفع مياه؛ اختلاف القدرة غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "موتور رفع مياه – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 3200,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع موتور رفع مياه؛ اختلاف القدرة غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شبكة ري بالتنقيط – قطر 16 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 3200,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع موتور رفع مياه؛ اختلاف القدرة غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شبكة ري بالتنقيط – قطر 20 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 3200,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع موتور رفع مياه؛ اختلاف القدرة غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://tredcoelsayadstore.com/en/collections/مضخات-برافا",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شبكة ري بالتنقيط – قطر 25 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 350,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: طقم ري بالتنقيط 50 نقطة.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شبكة ري بالتنقيط – قطر 32 مم",
       "brand": "ماركات متعددة",
       "category": "مستلزمات الزراعة والري",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 350,
+      "details": "عنصر تعريفي بالكتالوج. مرجع سعري من منتج مماثل منشور في متجر مصري، وليس سعرًا مؤكدًا لنفس الموديل أو المقاس أو السعة: مرجع طقم تنقيط؛ اختلاف القطر غير مؤكد.",
+      "priceStatus": "market_reference_price",
+      "sourceUrl": "https://alphafarmegypt.com/irrigation",
+      "priceCheckedAt": "2026-11-10"
     },
     {
       "name": "شبكة ري بالرش – قطر 16 مم",
