@@ -381,3 +381,10 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .book-catalog .book-card{min-width:0}
 @media(max-width:650px){.book-filter-panel{grid-template-columns:repeat(2,minmax(0,1fr));gap:9px;padding:11px}.book-catalog-head{align-items:flex-start}.book-catalog-head .catalog-section-icon{font-size:2rem}.book-search-main input{font-size:15px}.book-filter-tab{padding:8px 12px;font-size:.8rem}}
 @media(max-width:360px){.book-filter-panel{grid-template-columns:1fr}}
+
+/* Dedicated novels switch beside the catalogue search */
+.book-search-row{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:9px;align-items:stretch}
+.book-search-row input{min-width:0}
+.book-novels-toggle{min-width:112px;border:1px solid #d5dfeb;border-radius:15px;background:#fff;color:#102f55;padding:10px 15px;font:inherit;font-weight:800;white-space:nowrap;cursor:pointer;box-shadow:0 5px 18px #102b500a}
+.book-novels-toggle.is-active{background:#102f55;color:#fff;border-color:#102f55}
+@media(max-width:390px){.book-search-row{grid-template-columns:minmax(0,1fr) 102px}.book-novels-toggle{min-width:0;padding:9px 8px;font-size:.88rem}}
