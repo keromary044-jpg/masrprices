@@ -8,7 +8,7 @@ export default {
   if (categoryMatch) {
    if (request.method !== "GET" && request.method !== "HEAD") return new Response("Method Not Allowed",{status:405});
    if (!url.pathname.endsWith("/")) return Response.redirect(SITE + "/category/" + encodeURIComponent(categoryMatch) + "/",301);
-   const categoryNames = {"phones":"الموبايلات (9)","electronics":"الإلكترونيات والملحقات (35)","home-appliances":"الأجهزة المنزلية (24)","books":"الكتب (92)","cars":"السيارات (18)","groceries":"الطعام والبقالة (9)","tools":"الأدوات (21)","baby":"مستلزمات الأطفال (3)","clothing":"الملابس (9)","furniture":"الأثاث (13)","personal-care":"العناية الشخصية (20)","sports":"الرياضة (11)","plants":"الزراعة والنباتات (10)","telecom":"خدمات الاتصالات (12)"};
+   const categoryNames = {"phones":"الموبايلات (9)","electronics":"الإلكترونيات والملحقات (35)","home-appliances":"الأجهزة المنزلية (24)","books":"الكتب (90)","cars":"السيارات (18)","groceries":"الطعام والبقالة (9)","tools":"الأدوات (21)","baby":"مستلزمات الأطفال (3)","clothing":"الملابس (9)","furniture":"الأثاث (13)","personal-care":"العناية الشخصية (20)","sports":"الرياضة (10)","plants":"الزراعة والنباتات (10)","telecom":"خدمات الاتصالات (12)"};
    const categoryName = categoryNames[categoryMatch];
    if (!categoryName) return new Response("القسم غير موجود",{status:404});
    const response = await env.ASSETS.fetch(new Request(new URL("/products-data.json",url)));
