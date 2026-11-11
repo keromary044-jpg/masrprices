@@ -12,6 +12,7 @@ const FILES_TO_CACHE = [
   "./privacy.html",
   "./terms.html",
   "./products/",
+  "./product.html",
   "./phones.json",
   "./phone-model-index.json",
   "./books.json",
