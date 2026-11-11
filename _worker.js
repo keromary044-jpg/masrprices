@@ -8,7 +8,7 @@ export default {
   if (categoryMatch) {
    if (request.method !== "GET" && request.method !== "HEAD") return new Response("Method Not Allowed",{status:405});
    if (!url.pathname.endsWith("/")) return Response.redirect(SITE + "/category/" + encodeURIComponent(categoryMatch) + "/",301);
-   const categoryNames = {"phones":"الموبايلات (9)","electronics":"الإلكترونيات والملحقات (35)","home-appliances":"الأجهزة المنزلية (24)","books":"الكتب (90)","cars":"السيارات (18)","groceries":"الطعام والبقالة (9)","tools":"الأدوات (21)","baby":"مستلزمات الأطفال (3)","clothing":"الملابس (9)","furniture":"الأثاث (13)","personal-care":"العناية الشخصية (20)","sports":"الرياضة (10)","plants":"الزراعة والنباتات (10)","telecom":"خدمات الاتصالات (12)"};
+   const categoryNames = {"phones":"الموبايلات (9)","electronics":"الإلكترونيات والملحقات (35)","home-appliances":"الأجهزة المنزلية (24)","books":"الكتب (90)","cars":"السيارات (18)","groceries":"الطعام والبقالة (9)","tools":"الأدوات (21)","baby":"مستلزمات الأطفال (3)","clothing":"الملابس (9)","furniture":"الأثاث (13)","personal-care":"العناية الشخصية (18)","sports":"الرياضة (10)","plants":"الزراعة والنباتات (10)","telecom":"خدمات الاتصالات (12)"};
    const categoryName = categoryNames[categoryMatch];
    if (!categoryName) return new Response("القسم غير موجود",{status:404});
    const response = await env.ASSETS.fetch(new Request(new URL("/products-data.json",url)));
@@ -40,7 +40,7 @@ export default {
    const price = p.price === null ? "لا يوجد سعر مسجل حاليًا" : Number(p.price).toLocaleString("en-US") + " جنيه مصري";
    const description = "سعر " + p.name + " في مصر: " + price + (p.date ? "، آخر رصد " + p.date : "") + ". بيانات استرشادية من MasrPrices وقد تتغير لدى البائع.";
    const canonical = SITE + "/products/" + p.slug + "/";
-   const schema = {"@context":"https://schema.org","@type":"Product","name":p.name,"description":description,"category":p.category,"url":canonical};
+   const schema = {"@context":"https://schema.org","@type":"Product","name":p.name,"description":description,"category":p.category,"url":canonical,...(Number.isFinite(Number(p.price)) && Number(p.price)>0 ? {"offers":{"@type":"Offer","price":String(p.price),"priceCurrency":"EGP","url":canonical}} : {})};
    const sameCategory = products.filter(item => item.category === p.category && item.slug !== p.slug && Number.isFinite(Number(item.price)) && Number(item.price) > 0).sort((a,b)=>Number(a.price)-Number(b.price));
    const comparable = sameCategory.slice(0,6);
    const prices = sameCategory.map(item=>Number(item.price));
