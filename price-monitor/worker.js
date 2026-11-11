@@ -1,8 +1,40 @@
 const LIMIT=40,CONCURRENCY=8;
 const SKIP_PATH=/\/collections?\/|\/category\/|\/product-category\/|\/categories\/|\/search|\/brand\//i;
 const now=()=>new Date().toISOString().replace('T',' ').slice(0,19);
-function collect(v,out){if(!v||typeof v!=='object')return;if(Array.isArray(v)){for(const x of v)collect(x,out);return;}const os=v.offers;if(os)for(const o of(Array.isArray(os)?os:[os])){if(!o||typeof o!=='object')continue;const p=Number(o.price??o.lowPrice);if(Number.isFinite(p)&&p>0&&String(o.priceCurrency||o.currency||'').toUpperCase()==='EGP')out.push(p);}if(v['@type']==='Offer'||v['@type']==='AggregateOffer'){const p=Number(v.price??v.lowPrice);if(Number.isFinite(p)&&p>0&&String(v.priceCurrency||'').toUpperCase()==='EGP')out.push(p);}for(const x of Object.values(v))if(x&&typeof x==='object')collect(x,out);}
-function extract(html){const ps=[];const blocks=html.match(/<script[^>]*type=["']application\/ld\+json["'][^>]*>[\s\S]*?<\/script>/gi)||[];for(const b of blocks){const raw=b.replace(/^.*?>/s,'').replace(/<\/script>$/i,'').trim();try{collect(JSON.parse(raw),ps)}catch{}}const currencies=[...html.matchAll(/(?:itemprop=["']priceCurrency["'][^>]*content=["']([^"']+)["']|property=["']product:price:currency["'][^>]*content=["']([^"']+)["'])/gi)];if(currencies.some(m=>String(m[1]||m[2]||'').toUpperCase()==='EGP'))for(const re of [/itemprop=["']price["'][^>]*content=["']([0-9,.]+)["']/i,/property=["']product:price:amount["'][^>]*content=["']([0-9,.]+)["']/i]){const m=html.match(re);if(m){const n=Number(m[1].replace(/,/g,''));if(n>0)ps.push(n);}}const valid=ps.filter(x=>Number.isFinite(x)&&x>0&&x<1e10).sort((a,b)=>a-b);return valid.length?valid[Math.floor(valid.length/2)]:null;}
+function collect(v,out,inheritedCurrency=""){
+ if(!v||typeof v!=="object")return;
+ if(Array.isArray(v)){for(const x of v)collect(x,out,inheritedCurrency);return;}
+ const currency=String(v.priceCurrency||v.currency||inheritedCurrency||"").toUpperCase();
+ const type=Array.isArray(v["@type"])?v["@type"].join(" "):String(v["@type"]||"");
+ if(currency==="EGP"&&(/Offer|AggregateOffer/i.test(type)||v.price!==undefined||v.lowPrice!==undefined)){
+  for(const raw of [v.price,v.lowPrice,v.highPrice]){
+   const n=Number(String(raw??"").replace(/,/g,""));
+   if(Number.isFinite(n)&&n>0&&n<1e10)out.push(n);
+  }
+ }
+ for(const x of Object.values(v))if(x&&typeof x==="object")collect(x,out,currency);
+}
+function extract(html){
+ const prices=[];
+ const blocks=html.match(/<script[^>]*type=["']application\\/ld\\+json["'][^>]*>[\\s\\S]*?<\\/script>/gi)||[];
+ for(const block of blocks){
+  const raw=block.replace(/^.*?>/s,"").replace(/<\\/script>$/i,"").trim();
+  try{collect(JSON.parse(raw.replace(/&quot;/g,'"').replace(/&#34;/g,'"')),prices);}catch{}
+ }
+ const tags=html.match(/<meta\\b[^>]*>/gi)||[];
+ const attrs=tag=>Object.fromEntries([...tag.matchAll(/([a-zA-Z_:][-a-zA-Z0-9_:.]*)\\s*=\\s*["']([^"']*)["']/g)].map(m=>[m[1].toLowerCase(),m[2]]));
+ let currency="";
+ const amounts=[];
+ for(const tag of tags){
+  const a=attrs(tag);
+  const key=String(a.itemprop||a.property||a.name||"").toLowerCase();
+  if(["pricecurrency","product:price:currency","og:price:currency"].includes(key))currency=String(a.content||"").toUpperCase();
+  if(["price","product:price:amount","og:price:amount"].includes(key)&&a.content)amounts.push(a.content);
+ }
+ if(currency==="EGP")for(const raw of amounts){const n=Number(String(raw).replace(/,/g,""));if(Number.isFinite(n)&&n>0&&n<1e10)prices.push(n);}
+ const valid=prices.filter(x=>Number.isFinite(x)&&x>0&&x<1e10).sort((a,b)=>a-b);
+ return valid.length?valid[Math.floor(valid.length/2)]:null;
+}
 async function saveState(env,row,value){await env.DB.prepare("INSERT INTO price_monitor_state(key,value,updated_at) VALUES(?,?,CURRENT_TIMESTAMP) ON CONFLICT(key) DO UPDATE SET value=excluded.value,updated_at=CURRENT_TIMESTAMP").bind("offer:"+row.id,JSON.stringify(value)).run();}
 async function saveFailure(env,row,error){let attempts=0;try{const old=await env.DB.prepare("SELECT value FROM price_monitor_state WHERE key=?").bind("offer:"+row.id).first();attempts=Number(JSON.parse(old?.value||"{}").failures||0);}catch{}attempts++;const hours=attempts>=3?24:6;await saveState(env,row,{failures:attempts,lastAttempt:now(),retryAfter:new Date(Date.now()+hours*3600000).toISOString().replace('T',' ').slice(0,19),lastError:String(error?.message||error||"تعذر التحقق").slice(0,180)});}
 async function checkOne(env,row){const stamp=now();try{const target=new URL(row.product_url);if(target.protocol!=="https:"||target.username||target.password)throw Error("رابط المصدر غير آمن");if(SKIP_PATH.test(target.pathname))return {kind:"skipped"};const res=await fetch(target.href,{headers:{"User-Agent":"Mozilla/5.0 (compatible; MasrPricesPriceMonitor/1.2; +https://masrprices.pages.dev)","Accept":"text/html,application/xhtml+xml"},redirect:"follow",signal:AbortSignal.timeout(15000)});if(!res.ok)throw Error("HTTP "+res.status);const html=await res.text();if(html.length>1800000)throw Error("صفحة المصدر أكبر من الحد المسموح");const price=extract(html);if(!price)throw Error("لم يظهر سعر EGP صريح في صفحة المنتج");const old=Number(row.price_egp),delta=Math.abs(price-old)/Math.max(old,1);if(Math.abs(price-old)<0.005){await env.DB.prepare("UPDATE offers SET checked_at=? WHERE id=?").bind(stamp,row.id).run();}else if(delta>0.30){await env.DB.prepare("INSERT INTO offers(product_id,store_name,price_egp,product_url,source_name,variant,region,checked_at,status) SELECT product_id,store_name,?,product_url,?,variant,region,?,'pending' FROM offers WHERE id=?").bind(price,"مراجعة آلية لتغير كبير: "+row.source_name,stamp,row.id).run();await env.DB.prepare("INSERT INTO price_update_log(source_name,items_received,items_accepted,status,message) VALUES(?,1,0,'review_required',?)").bind(row.source_name,"تغير كبير يحتاج مراجعة: "+row.name+" من "+old+" إلى "+price+" جنيه").run();await env.DB.prepare("UPDATE offers SET checked_at=? WHERE id=?").bind(stamp,row.id).run();}else{await env.DB.prepare("UPDATE offers SET price_egp=?,checked_at=? WHERE id=?").bind(price,stamp,row.id).run();await env.DB.prepare("INSERT INTO price_history(product_id,offer_id,store_name,price_egp,source_name,checked_at) VALUES(?,?,?,?,?,?)").bind(row.product_id,row.id,row.store_name,price,row.source_name,stamp).run();}await saveState(env,row,{verifiedAt:stamp,failures:0});return {kind:"checked",changed:Math.abs(price-old)>=0.005};}catch(error){await saveFailure(env,row,error);console.error("price-check-failed",row.id,String(error?.message||error));return {kind:"failed"};}}
