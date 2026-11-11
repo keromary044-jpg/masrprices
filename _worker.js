@@ -72,7 +72,7 @@ export default {
    const price = p.price === null ? "لا يوجد سعر مسجل حاليًا" : Number(p.price).toLocaleString("en-US") + " جنيه مصري";
    const priceAge = Math.floor((Date.now() - new Date(String(p.date || "").slice(0,10) + "T00:00:00Z").getTime()) / 86400000);
    const priceFreshness = Number.isFinite(priceAge) && priceAge <= 1 ? "تم رصده خلال آخر 24 ساعة" : Number.isFinite(priceAge) && priceAge <= 3 ? "تم رصده خلال آخر 3 أيام" : "يحتاج إلى إعادة تحقق من المصدر";
-   const hasVerifiedOffer = p.sourceType === "product" && Number.isFinite(priceAge) && priceAge <= 3 && Number.isFinite(Number(p.price)) && Number(p.price) > 0;
+   const hasVerifiedOffer = false; // Offer markup is withheld until a live monitor verification is available.
    const description = "سعر " + p.name + " في مصر: " + price + (p.date ? "، آخر رصد " + p.date : "") + ". " + priceFreshness + ". بيانات استرشادية من MasrPrices وقد تتغير لدى البائع."; 
    const canonical = SITE + "/products/" + p.slug + "/";
    const schema = {"@context":"https://schema.org","@type":"Product","name":p.name,"description":description,"category":p.category,"url":canonical,...(hasVerifiedOffer ? {"offers":{"@type":"Offer","price":String(p.price),"priceCurrency":"EGP","url":p.sourceUrl}} : {})};
