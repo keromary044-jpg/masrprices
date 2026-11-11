@@ -73,6 +73,7 @@ jobs:
           node --check sw.js
           node --input-type=module --check < worker.js
           node --input-type=module --check < price-updater/index.js
+          node --input-type=module --check < price-monitor/worker.js
           node --input-type=module --check < "functions/products/[slug].js"
           for file in functions/api/*.js; do node --input-type=module --check < "$file"; done
       - name: Validate JSON, sitemap, SEO metadata and PWA manifest
@@ -98,6 +99,14 @@ jobs:
           catalog_slugs = [item.get("slug") for item in catalog]
           assert set(product_slugs) == set(catalog_slugs), "SEO product data and public catalogue are out of sync"
           assert all(product_slugs) and len(product_slugs) == len(set(product_slugs)), "SEO product slugs are missing or duplicated"
+          compare_api = (root / "functions/api/compare.js").read_text(encoding="utf-8")
+          product_page = (root / "functions/products/[slug].js").read_text(encoding="utf-8")
+          monitor = (root / "price-monitor/worker.js").read_text(encoding="utf-8")
+          app = (root / "app.js").read_text(encoding="utf-8")
+          assert "source_quality" in compare_api and "verifiedAt" in compare_api and "trusted_offer_count" in compare_api, "Comparison API must expose verified source quality and freshness"
+          assert "priceFreshness" in product_page and "sourceNote" in product_page, "Product pages must explain price age and source quality"
+          assert "price-check-failed" in monitor and "retryAfter" in monitor and "verifiedAt" in monitor, "Price monitor must track failures and verified checks separately"
+          assert "sourceQuality" in app and "freshness" in app and "trustedOffers" in app, "Comparison UI must not label unverified offers as the lowest price"
           sitemap_slugs = [url[len(base + "products/"):].strip("/") for url in urls if url.startswith(base + "products/") and url != base + "products/"]
           product_index = (root / "products/index.html").read_text(encoding="utf-8")
           index_slugs = re.findall(r'href="/products/([^"/]+)/"', product_index)
