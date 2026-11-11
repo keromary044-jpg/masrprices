@@ -137,6 +137,7 @@ jobs:
           assert 'src="/products-directory.js"' in product_index, "Product directory is missing its external search script"
           assert '"./products-directory.js"' in sw, "Service worker is missing the directory search script"
           assert 'src="/site-enhancements.js"' in home, "Home page is missing the CSP-compatible enhancement script"
+          assert 'href="/catalog/"' in home, "Home page does not link to the full catalogue"
           assert 'src="/site-enhancements.js"' in contact, "Contact page is missing the CSP-compatible enhancement script"
           assert "<script>" not in home.lower(), "Inline script remains on the home page and conflicts with the CSP"
           assert "<script>" not in contact.lower(), "Inline script remains on the contact page and conflicts with the CSP"
