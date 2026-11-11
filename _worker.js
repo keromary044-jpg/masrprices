@@ -1,6 +1,6 @@
 const SITE = "https://masrprices.pages.dev";
 const API_ORIGIN = "https://masrprices-new.keromary044.workers.dev";
-const API_PATHS = new Set(["/api/admin","/api/compare","/api/price-submission","/api/real-estate","/api/real-estate-admin","/api/suggestion","/api/stocks"]);
+const API_PATHS = new Set(["/api/admin","/api/catalog","/api/compare","/api/price-submission","/api/real-estate","/api/real-estate-admin","/api/suggestion","/api/stocks"]);
 function secure(response, request) {
  const headers = new Headers(response.headers);
  headers.set("X-Content-Type-Options","nosniff");
