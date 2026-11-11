@@ -1,4 +1,4 @@
-const CACHE_NAME = "masrprices-global-currency-7";
+const CACHE_NAME = "masrprices-global-currency-8";
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
@@ -12,6 +12,7 @@ const FILES_TO_CACHE = [
   "./privacy.html",
   "./terms.html",
   "./products/",
+  "./products-directory.js",
   "./product.html",
   "./phones.json",
   "./phone-model-index.json",
