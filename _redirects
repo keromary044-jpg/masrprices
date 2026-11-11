@@ -1,2 +1,1 @@
-/products/ /products/index.html 200
-/products/* /product.html 200
+# Product detail URLs are handled by _worker.js; keep /products/ directory available as static index.html.
