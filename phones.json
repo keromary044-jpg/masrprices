@@ -20,25 +20,25 @@
       "build": "راجع صفحة المواصفات الرسمية",
       "source": "https://priceteq.com/eg/product/6c7e60eb-3dc7-42bc-b861-812a75226a85",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 54999,
-      "priceSource": "Ennap Egypt – صفحة المنتج المباشرة؛ مطابقة PriceTeq",
+      "priceEGP": 49999,
+      "priceSource": "Ennap Egypt – صفحة المنتج المباشرة (سعر متجر)",
       "priceCheckedAt": "2026-11-11",
-      "priceStatus": "صفحة Ennap تعرض 54,999 جنيه لنسخة 12GB RAM / 256GB، وPriceTeq أدرج العرض ضمن المتاجر المتاحة. واجهة الصفحة تعرض أيضًا إشعار توفر؛ لذلك حالة المخزون تحتاج تأكيدًا عند إتمام الطلب. سعر متجر وليس سعرًا رسميًا، ورسوم تسجيل NTRA غير مشمولة.",
+      "priceStatus": "صفحة Ennap المباشرة تعرض 49,999 جنيه لنسخة 12GB RAM / 256GB / 5G، مع ظهور خيار Add to cart. هذا سعر متجر وليس سعرًا رسميًا؛ رسوم تسجيل NTRA غير مشمولة، والضمان المعروض 100 يوم دولي.",
       "priceOffers": [
         {
           "merchant": "Ennap Egypt",
-          "priceEGP": 54999,
+          "priceEGP": 49999,
           "variant": "12GB RAM / 256GB / 5G",
           "source": "https://priceteq.com/eg/product/1e2c4893-e9c8-4b5e-9f66-84f3a22efc1a",
-          "sourceLabel": "PriceTeq – Ennap Egypt؛ صفحة Ennap المباشرة",
+          "sourceLabel": "PriceTeq – Ennap Egypt؛ السعر والنسخة راجعا من صفحة Ennap المباشرة",
           "checkedAt": "2026-11-11",
           "observedAt": "2026-11-11",
-          "availability": "check_store",
+          "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
-          "verificationMethod": "retailer_page_and_price_aggregator",
-          "note": "PriceTeq lists the offer as in stock; Ennap page confirms the exact variant and price but also shows a notify-me availability control."
+          "verificationMethod": "retailer_page",
+          "note": "تم فتح صفحة Ennap مباشرة في 11 نوفمبر 2026؛ السعر 49,999 جنيه، والنسخة المحددة 12GB + 256GB، وزر Add to cart ظاهر. رسوم NTRA غير مشمولة؛ الضمان المعروض 100 يوم دولي."
         },
         {
           "merchant": "Carrefour Egypt",
@@ -137,11 +137,12 @@
       ],
       "priceObservedAt": "2026-11-11",
       "merchant": "Ennap Egypt",
-      "priceVerifiedAt": "2026-11-11T13:32:39+02:00",
-      "priceLastVerifiedAt": "2026-11-11T13:32:39+02:00",
-      "priceAvailability": "check_store",
+      "priceVerifiedAt": "2026-11-11T20:58:00+02:00",
+      "priceLastVerifiedAt": "2026-11-11T20:58:00+02:00",
+      "priceAvailability": "in_stock",
       "priceProvider": "Ennap Egypt",
-      "priceSourceUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g"
+      "priceSourceUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
+      "priceType": "store"
     },
     {
       "id": "samsung-galaxy-a56-5g",
@@ -30743,5 +30744,5 @@
   ],
   "priceUpdateNote": "استكمال مراجعة الموديلات الستة عشر التي لم يكن لها سعر: أضيفت أسعار Symphony بعملة BDT كمرجع أجنبي منفصل دون تحويلها إلى جنيه مصري أو احتسابها ضمن التغطية المصرية؛ تم توثيق نفاد مخزون Reekoo Note 60 MAX رسميًا؛ وتأكيد أن موديلات Celphy القديمة لا تطابق عروض C500/C600 الحالية، وأن Xiaomi Mi 1 تاريخي. لا توجد أسعار مصرية موثوقة لهذه السجلات حتى الآن.\nمراجعة يدوية بتاريخ 8 نوفمبر 2026: تم تحديث عروض متاجر مباشرة موثقة مع مطابقة الموديل وسعة التخزين والذاكرة؛ أسعار المتاجر لا تُعرض كسعر رسمي للشركة. تم توثيق نفاد عرض Raneen الأساسي لنسخة Galaxy A37 8GB/256GB مع وجود عرضين آخرين غير متحققين، وسعر iPhone 15 لدى Elshennawy قبل الضريبة. لم يتم تشغيل أو إثبات أي تكامل تلقائي جديد.\nمراجعة يدوية 9 نوفمبر 2026: تم تحديث سجلات الأسعار التي تطابقت مع صفحات PriceTeq المصرية بحسب اسم الموديل وRAM وسعة التخزين والجيل؛ أُدرجت عروض المتاجر الجديدة فقط مع روابط صفحات المقارنة وتاريخ التحقق وحالة التوفر المعلنة. أسعار المتاجر ليست أسعارًا رسمية من الشركات. أسعار iPhone 15 128GB وiPhone 17 256GB ظلت موسومة كسعر معلن قبل الضريبة/ضريبة غير محسومة بسبب تعارض شارات صفحة المصدر. لم يُحدّث Galaxy S26 Ultra 12/256 بسبب تعارض بين صفحة المنتج ودليل الأسعار بتاريخ 9 نوفمبر، كما لم تُحدّث نسخ S25 التي لم يُسمِّ الدليل متجرها الأرخص.\nمراجعة يدوية بتاريخ 11 نوفمبر 2026: تم فحص 11 تكوينًا موجودًا بالفعل في كتالوج الهواتف عبر صفحات متاجر مصرية ومقارنة PriceTeq. تم تحديث أسعار A17 4/128 مع تمييز عرض Vodafone غير المتاح؛ Galaxy A07 6/128؛ Galaxy A08 6/128؛ OPPO A6 4/128 و6/128 (تعارض 14,799 في PriceTeq مقابل 14,999 في صفحة Elghazawy المباشرة، فاعتمدت الصفحة المباشرة ووسمت السعر الأقل غير محسوم)؛ Galaxy S26 FE 8/512؛ Infinix Smart 20 4/128 (8,949 مباشر لدى B.TECH مقابل 8,700 في PriceTeq، فوسمت الفرق غير محسوم)؛ iPhone 17 256GB (48,750 قبل الضريبة حسب صفحة Elshennawy، رغم أن PriceTeq يضع شارة شمول الضريبة)؛ vivo Y11D 4/128؛ OPPO A6x 4/128 و4/64. لم تُخمن أسعار، وتم إبقاء عروض نفاد المخزون أو التعارضات منفصلة عن السعر القابل للشراء. لم يتم تعديل phone-model-index.json أو أي ملف آخر. | مراجعة يدوية موثقة 2026-11-11: تحديث أسعار مباشرة لـ Samsung S26 Ultra 12/256 وA56 8/256 وA57 12/256 وOPPO A6 6/128؛ إضافة عروض مقارنة متعارضة/غير مؤكدة دون اعتمادها كسعر أساسي.",
   "lastAutomaticUpdate": "2026-11-09 19:17 Cairo",
-  "lastManualPriceVerification": "2026-11-11T13:32:39+02:00"
+  "lastManualPriceVerification": "2026-11-11T20:58:00+02:00"
 }
