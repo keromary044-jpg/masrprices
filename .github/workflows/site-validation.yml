@@ -26,6 +26,7 @@ on:
       - "robots.txt"
       - "sitemap.xml"
       - "seo-products.json"
+      - "price-monitor/**"
       - ".github/workflows/site-validation.yml"
   pull_request:
     paths:
