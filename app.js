@@ -638,7 +638,7 @@
   });
 
   const globalSearchBox=element("div","global-search-results");
-  globalSearchBox.id="globalSearchResults";globalSearchBox.hidden=true;
+  globalSearchBox.id="globalSearchResults";globalSearchBox.hidden=true;globalSearchBox.setAttribute("role","listbox");globalSearchBox.setAttribute("aria-label","نتائج البحث");
   if(searchInput)searchInput.parentElement.insertAdjacentElement("afterend",globalSearchBox);
   updateCategoryCount();
   if(clearSearchButton&&searchInput){
@@ -729,7 +729,7 @@
     const heading=element("div","search-results-heading","نتائج البحث · "+matches.length+" نتيجة");
     globalSearchBox.append(heading);
     lastSearchMatches.forEach(({meta,item},index)=>{
-      const button=element("button","global-search-result");button.type="button";button.dataset.index=String(index);
+      const button=element("button","global-search-result");button.type="button";button.setAttribute("role","option");button.setAttribute("aria-selected","false");button.id="global-search-option-"+index;button.dataset.index=String(index);
       const imageUrl=item.image||item.imageUrl||item.image_url||"";
       if(/^https?:\/\//i.test(imageUrl)){const thumb=element("img","global-search-thumb");thumb.src=imageUrl;thumb.alt="";thumb.loading="lazy";thumb.referrerPolicy="no-referrer";thumb.onerror=()=>thumb.remove();button.append(thumb);}
       const info=element("span","global-search-info");
@@ -744,6 +744,9 @@
     if(matches.length>20)globalSearchBox.append(element("small","catalog-footnote","أول 20 نتيجة من "+matches.length+". حدّد البحث لمزيد من الدقة."));
   }
   if(searchInput){
+    searchInput.setAttribute("role","combobox");
+    searchInput.setAttribute("aria-autocomplete","list");
+    searchInput.setAttribute("aria-haspopup","listbox");
     searchInput.setAttribute("aria-controls","globalSearchResults");
     searchInput.setAttribute("autocomplete","off");
     searchInput.setAttribute("aria-expanded","false");
