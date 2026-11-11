@@ -1,5 +1,6 @@
 import { onRequest as adminHandler } from "./functions/api/admin.js";
 import { onRequestGet as compareHandler } from "./functions/api/compare.js";
+import { onRequestGet as catalogHandler } from "./functions/api/catalog.js";
 import { onRequestPost as suggestionHandler } from "./functions/api/suggestion.js";
 import { onRequestPost as priceSubmissionHandler } from "./functions/api/price-submission.js";
 import { onRequest as realEstateHandler } from "./functions/api/real-estate.js";
@@ -176,6 +177,13 @@ export default {
       const blocked = await rateLimit(env.PUBLIC_READ_RATE_LIMITER, request, "stocks");
       if (blocked) return secure(blocked, request);
       return secure(await egidStocksHandler(request, env, ctx), request);
+    }
+
+    if (url.pathname === "/api/catalog") {
+      if (request.method !== "GET") return secure(json(405, { error: "طريقة الطلب غير مدعومة." }), request);
+      const blocked = await rateLimit(env.PUBLIC_READ_RATE_LIMITER, request, "catalog");
+      if (blocked) return secure(blocked, request);
+      return secure(await catalogHandler({ request, env, ctx, params: {} }), request);
     }
 
     if (url.pathname === "/api/compare") {
