@@ -39,12 +39,12 @@ export default {
   const categoryMatch = pathParts[0] === "category" && pathParts.length === 2 ? pathParts[1] : null;
   if (categoryMatch) {
    if (request.method !== "GET" && request.method !== "HEAD") return secure(new Response("Method Not Allowed",{status:405}),request);
-   if (!url.pathname.endsWith("/")) return Response.redirect(SITE + "/category/" + encodeURIComponent(categoryMatch) + "/",301);
+   if (!url.pathname.endsWith("/")) return secure(Response.redirect(SITE + "/category/" + encodeURIComponent(categoryMatch) + "/",301),request);
    const categoryNames = {"phones":"الموبايلات (9)","electronics":"الإلكترونيات والملحقات (35)","home-appliances":"الأجهزة المنزلية (24)","books":"الكتب (90)","cars":"السيارات (18)","groceries":"الطعام والبقالة (9)","tools":"الأدوات (21)","baby":"مستلزمات الأطفال (3)","clothing":"الملابس (9)","furniture":"الأثاث (13)","personal-care":"العناية الشخصية (18)","sports":"الرياضة (10)","plants":"الزراعة والنباتات (10)","telecom":"خدمات الاتصالات (12)"};
    const categoryName = categoryNames[categoryMatch];
    if (!categoryName) return secure(new Response("القسم غير موجود",{status:404}),request);
    const response = await env.ASSETS.fetch(new Request(new URL("/products-data.json",url)));
-   if (!response.ok) return new Response("تعذر تحميل بيانات المنتجات",{status:503});
+   if (!response.ok) return secure(new Response("تعذر تحميل بيانات المنتجات",{status:503}),request);
    const allProducts = await response.json();
    const items = allProducts.filter(item => item.category === categoryName);
    const definition = {"phones":{"title":"أسعار الموبايلات في مصر","description":"قارن أسعار الهواتف المحمولة المتاحة في دليل MasrPrices، وراجع السعر المسجل وتاريخ رصده قبل الشراء."},"electronics":{"title":"أسعار الإلكترونيات والملحقات في مصر","description":"تصفح أسعار السماعات والملحقات والأجهزة الإلكترونية المسجلة في دليل MasrPrices."},"home-appliances":{"title":"أسعار الأجهزة المنزلية في مصر","description":"قارن أسعار الأجهزة المنزلية المسجلة مثل الثلاجات والغسالات والتلفزيونات وأجهزة المطبخ."},"books":{"title":"أسعار الكتب في مصر","description":"تصفح أسعار الكتب والروايات والكتب التعليمية المسجلة في دليل MasrPrices."},"cars":{"title":"أسعار السيارات في مصر","description":"استعرض أسعار طرازات السيارات المسجلة في الدليل مع توضيح تاريخ الرصد عند توفره."},"groceries":{"title":"أسعار الطعام والبقالة في مصر","description":"تصفح أسعار السلع الغذائية ومنتجات البقالة المسجلة، وتحقق من تاريخ السعر قبل الشراء."},"tools":{"title":"أسعار الأدوات في مصر","description":"قارن أسعار الأدوات اليدوية ومستلزمات الورش والمنزل المسجلة في دليل MasrPrices."},"baby":{"title":"أسعار مستلزمات الأطفال في مصر","description":"تصفح أسعار مستلزمات الأطفال المسجلة في الدليل، مع عرض السعر فقط عند توفره."},"clothing":{"title":"أسعار الملابس والأحذية في مصر","description":"استعرض أسعار الملابس والأحذية المسجلة في دليل MasrPrices."},"furniture":{"title":"أسعار الأثاث والمفروشات في مصر","description":"تصفح أسعار الأثاث المنزلي والقطع المسجلة في دليل MasrPrices."},"personal-care":{"title":"أسعار العناية الشخصية في مصر","description":"قارن أسعار منتجات العناية الشخصية المسجلة في الدليل، وتحقق من تفاصيل العبوة والسعر."},"sports":{"title":"أسعار المنتجات الرياضية في مصر","description":"تصفح أسعار الأدوات والمنتجات الرياضية المسجلة في دليل MasrPrices."},"plants":{"title":"أسعار الزراعة والنباتات في مصر","description":"استعرض أسعار البذور ومستلزمات الزراعة والنباتات المسجلة في دليل MasrPrices."},"telecom":{"title":"أسعار خدمات الاتصالات والإنترنت في مصر","description":"تصفح أسعار باقات وخدمات الاتصالات والإنترنت المسجلة في الدليل، وتأكد من شروط كل باقة لدى مقدم الخدمة."}};
@@ -62,7 +62,7 @@ export default {
   if (match) {
    if (request.method !== "GET" && request.method !== "HEAD") return new Response("Method Not Allowed",{status:405});
    const slug = decodeURIComponent(match[1]);
-   if (!url.pathname.endsWith("/")) return Response.redirect(SITE + "/products/" + encodeURIComponent(slug) + "/",301);
+   if (!url.pathname.endsWith("/")) return secure(Response.redirect(SITE + "/products/" + encodeURIComponent(slug) + "/",301),request);
    const response = await env.ASSETS.fetch(new Request(new URL("/products-data.json",url)));
    if (!response.ok) return new Response("تعذر تحميل بيانات المنتجات",{status:503});
    const products = await response.json();
