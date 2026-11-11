@@ -16,13 +16,13 @@ function collect(v,out,inheritedCurrency=""){
 }
 function extract(html){
  const prices=[];
- const blocks=html.match(/<script[^>]*type=["']application\\/ld\\+json["'][^>]*>[\\s\\S]*?<\\/script>/gi)||[];
+ const blocks=html.match(/<script[^>]*type=["']application\/ld\+json["'][^>]*>[\s\S]*?<\/script>/gi)||[];
  for(const block of blocks){
-  const raw=block.replace(/^.*?>/s,"").replace(/<\\/script>$/i,"").trim();
+  const raw=block.replace(/^.*?>/s,"").replace(/<\/script>$/i,"").trim();
   try{collect(JSON.parse(raw.replace(/&quot;/g,'"').replace(/&#34;/g,'"')),prices);}catch{}
  }
- const tags=html.match(/<meta\\b[^>]*>/gi)||[];
- const attrs=tag=>Object.fromEntries([...tag.matchAll(/([a-zA-Z_:][-a-zA-Z0-9_:.]*)\\s*=\\s*["']([^"']*)["']/g)].map(m=>[m[1].toLowerCase(),m[2]]));
+ const tags=html.match(/<meta\b[^>]*>/gi)||[];
+ const attrs=tag=>Object.fromEntries([...tag.matchAll(/([a-zA-Z_:][-a-zA-Z0-9_:.]*)\s*=\s*["']([^"']*)["']/g)].map(m=>[m[1].toLowerCase(),m[2]]));
  let currency="";
  const amounts=[];
  for(const tag of tags){
