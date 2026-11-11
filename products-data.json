@@ -4,497 +4,639 @@
     "name": "Samsung Galaxy S26 Ultra 5G",
     "price": 54999,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22Samsung%20Galaxy%20S26%20Ultra%205G%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "honor-x5c-plus",
     "name": "Honor X5c Plus 128GB / 4GB RAM",
     "price": 8555,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22Honor%20X5c%20Plus%20128GB%20%2F%204GB%20RAM%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "samsung-a07",
     "name": "Samsung Galaxy A07 128GB / 4GB RAM",
     "price": 9550,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22Samsung%20Galaxy%20A07%20128GB%20%2F%204GB%20RAM%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "xiaomi-redmi-a7",
     "name": "Xiaomi Redmi A7 64GB / 3GB RAM",
     "price": 7900,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22Xiaomi%20Redmi%20A7%2064GB%20%2F%203GB%20RAM%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "realme-c100i",
     "name": "realme C100i 64GB / 4GB RAM",
     "price": 8099,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22realme%20C100i%2064GB%20%2F%204GB%20RAM%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tecno-spark-go-3",
     "name": "TECNO Spark Go 3 64GB / 4GB RAM",
     "price": 7040,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22TECNO%20Spark%20Go%203%2064GB%20%2F%204GB%20RAM%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "vivo-y05e",
     "name": "vivo Y05e 64GB / 4GB RAM",
     "price": 7399,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22vivo%20Y05e%2064GB%20%2F%204GB%20RAM%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "oppo-a6x",
     "name": "OPPO A6X 64GB / 4GB RAM",
     "price": 8999,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22OPPO%20A6X%2064GB%20%2F%204GB%20RAM%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "samsung-a17",
     "name": "Samsung Galaxy A17 128GB / 4GB RAM",
     "price": 11999,
     "date": "2026-11-02",
-    "category": "الموبايلات (9)"
+    "category": "الموبايلات (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22Samsung%20Galaxy%20A17%20128GB%20%2F%204GB%20RAM%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-mouse-speedlink",
     "name": "ماوس لاسلكي Speedlink",
     "price": 249,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%A7%D9%88%D8%B3%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%20Speedlink%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-earbuds-riversong",
     "name": "سماعة RIVERSONG AIRFLY L2 TWS أبيض",
     "price": 599,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20RIVERSONG%20AIRFLY%20L2%20TWS%20%D8%A3%D8%A8%D9%8A%D8%B6%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-band-huawei",
     "name": "سوار Huawei Band 10S B19",
     "price": 1399,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%88%D8%A7%D8%B1%20Huawei%20Band%2010S%20B19%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-powerbank-smartgate",
     "name": "باور بانك SMART GATE سعة 20000mAh",
     "price": 849,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%88%D8%B1%20%D8%A8%D8%A7%D9%86%D9%83%20SMART%20GATE%20%D8%B3%D8%B9%D8%A9%2020000mAh%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-router-huawei",
     "name": "راوتر Huawei WiFi AX2 WS7001 V2",
     "price": 1249,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B1%D8%A7%D9%88%D8%AA%D8%B1%20Huawei%20WiFi%20AX2%20WS7001%20V2%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-printer-canon",
     "name": "طابعة Canon PIXMA TS3640 متعددة الوظائف",
     "price": 2199,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D8%A7%D8%A8%D8%B9%D8%A9%20Canon%20PIXMA%20TS3640%20%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D8%A9%20%D8%A7%D9%84%D9%88%D8%B8%D8%A7%D8%A6%D9%81%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-headphones-majentk",
     "name": "سماعة رأس MAJENTK MH-003",
     "price": 749,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20%D8%B1%D8%A3%D8%B3%20MAJENTK%20MH-003%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-earbuds-zerotech",
     "name": "سماعات ZEROTECH AIRBUDS-C010-BL",
     "price": 999,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A7%D8%AA%20ZEROTECH%20AIRBUDS-C010-BL%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-watch-riversong",
     "name": "ساعة RIVERSONG SW903",
     "price": 2199,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%A7%D8%B9%D8%A9%20RIVERSONG%20SW903%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-mouse-hp",
     "name": "ماوس HP 240 Bluetooth MO172",
     "price": 699,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%A7%D9%88%D8%B3%20HP%20240%20Bluetooth%20MO172%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-watch-riversong9",
     "name": "ساعة RIVERSONG Watch 9 Pro",
     "price": 1999,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%A7%D8%B9%D8%A9%20RIVERSONG%20Watch%209%20Pro%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-powerbank-majentk",
     "name": "باور بانك MAJENTK MJ-16 سعة 30000mAh",
     "price": 1444,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%88%D8%B1%20%D8%A8%D8%A7%D9%86%D9%83%20MAJENTK%20MJ-16%20%D8%B3%D8%B9%D8%A9%2030000mAh%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-samsung-tv65",
     "name": "Samsung OLED TV 65 بوصة S85F مع ساوند بار B450",
     "price": 44777,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22Samsung%20OLED%20TV%2065%20%D8%A8%D9%88%D8%B5%D8%A9%20S85F%20%D9%85%D8%B9%20%D8%B3%D8%A7%D9%88%D9%86%D8%AF%20%D8%A8%D8%A7%D8%B1%20B450%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-toshiba-tv75",
     "name": "Toshiba QLED TV 75 بوصة M450R",
     "price": 39999,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22Toshiba%20QLED%20TV%2075%20%D8%A8%D9%88%D8%B5%D8%A9%20M450R%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-haier-tv50",
     "name": "Haier QLED TV 50 بوصة H50S80G",
     "price": 18499,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22Haier%20QLED%20TV%2050%20%D8%A8%D9%88%D8%B5%D8%A9%20H50S80G%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-jac-tv32",
     "name": "JAC LED TV 32 بوصة JD3110B",
     "price": 4777,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22JAC%20LED%20TV%2032%20%D8%A8%D9%88%D8%B5%D8%A9%20JD3110B%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-hp-printer",
     "name": "HP DeskJet IA 2976 All-in-One",
     "price": 2849,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22HP%20DeskJet%20IA%202976%20All-in-One%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-pantum-printer",
     "name": "PANTUM BM2300AW",
     "price": 4799,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22PANTUM%20BM2300AW%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-lenovo-tablet",
     "name": "Lenovo Tablet TB K11 8GB RAM 256GB",
     "price": 18999,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22Lenovo%20Tablet%20TB%20K11%208GB%20RAM%20256GB%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-inoi-tablet",
     "name": "INOI TAB 2 PRO 6GB RAM 256GB",
     "price": 5699,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22INOI%20TAB%202%20PRO%206GB%20RAM%20256GB%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-jbl-headset",
     "name": "JBL T530BT سماعة رأس لاسلكية",
     "price": 2699,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22JBL%20T530BT%20%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20%D8%B1%D8%A3%D8%B3%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "elc-speaker-zerotech",
     "name": "ZEROTECH Speaker 8 بوصة Trolley P8DT",
     "price": 10299,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22ZEROTECH%20Speaker%208%20%D8%A8%D9%88%D8%B5%D8%A9%20Trolley%20P8DT%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tv-haier50-cf",
     "name": "Haier 50-inch 4K UHD Smart TV H50K75GUX",
     "price": 14777,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22Haier%2050-inch%204K%20UHD%20Smart%20TV%20H50K75GUX%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tv-fresh-micro",
     "name": "Fresh Microwave 20L 700W FMW-20MC-B",
     "price": 3599,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22Fresh%20Microwave%2020L%20700W%20FMW-20MC-B%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tv-samsung55-mini",
     "name": "Samsung 55-inch Mini LED 4K UA55M70HAUXEG",
     "price": 23333,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22Samsung%2055-inch%20Mini%20LED%204K%20UA55M70HAUXEG%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tv-jac50-4k",
     "name": "JAC 50-inch 4K Smart TV 50JE8136F",
     "price": 15177,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22JAC%2050-inch%204K%20Smart%20TV%2050JE8136F%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tv-samsung55-crystal",
     "name": "Samsung 55-inch Crystal UHD UA55AU8000",
     "price": 22777,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22Samsung%2055-inch%20Crystal%20UHD%20UA55AU8000%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-lenovo-mouse400",
     "name": "ماوس لاسلكي Lenovo 400 Wireless Mouse",
     "price": 599,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%A7%D9%88%D8%B3%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%20Lenovo%20400%20Wireless%20Mouse%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-dell-wm126",
     "name": "ماوس لاسلكي Dell WM126",
     "price": 645,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%A7%D9%88%D8%B3%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%20Dell%20WM126%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-logitech-mk120",
     "name": "طقم Logitech MK120 لوحة مفاتيح وماوس سلكي",
     "price": 670,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20Logitech%20MK120%20%D9%84%D9%88%D8%AD%D8%A9%20%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD%20%D9%88%D9%85%D8%A7%D9%88%D8%B3%20%D8%B3%D9%84%D9%83%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-logitech-mk220",
     "name": "طقم Logitech MK220 لاسلكي",
     "price": 999,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20Logitech%20MK220%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-hyperx-cloud-mini",
     "name": "سماعة ألعاب HyperX Cloud Mini",
     "price": 1550,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20%D8%A3%D9%84%D8%B9%D8%A7%D8%A8%20HyperX%20Cloud%20Mini%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-hyperx-stinger2",
     "name": "سماعة ألعاب HyperX Cloud Stinger 2 Core",
     "price": 2450,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20%D8%A3%D9%84%D8%B9%D8%A7%D8%A8%20HyperX%20Cloud%20Stinger%202%20Core%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-baseus-hub5",
     "name": "موزع USB Baseus UltraJoy بخمسة منافذ",
     "price": 1475,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%88%D8%B2%D8%B9%20USB%20Baseus%20UltraJoy%20%D8%A8%D8%AE%D9%85%D8%B3%D8%A9%20%D9%85%D9%86%D8%A7%D9%81%D8%B0%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-lenovo-webcam",
     "name": "كاميرا ويب Lenovo HD",
     "price": 2499,
     "date": "2026-11-02",
-    "category": "الإلكترونيات والملحقات (35)"
+    "category": "الإلكترونيات والملحقات (35)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%20%D9%88%D9%8A%D8%A8%20Lenovo%20HD%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "midea-fridge-330l",
     "name": "ثلاجة ميديا 330 لتر MDRB489FGN46",
     "price": 22749,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AB%D9%84%D8%A7%D8%AC%D8%A9%20%D9%85%D9%8A%D8%AF%D9%8A%D8%A7%20330%20%D9%84%D8%AA%D8%B1%20MDRB489FGN46%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "beko-fridge-590l",
     "name": "ثلاجة بيكو 590 لتر B3RDNE590ZB",
     "price": 53299,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AB%D9%84%D8%A7%D8%AC%D8%A9%20%D8%A8%D9%8A%D9%83%D9%88%20590%20%D9%84%D8%AA%D8%B1%20B3RDNE590ZB%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "toshiba-fridge-338l",
     "name": "ثلاجة توشيبا 338 لتر GR-RT468WE-PMN(49)-Pro",
     "price": 19149,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AB%D9%84%D8%A7%D8%AC%D8%A9%20%D8%AA%D9%88%D8%B4%D9%8A%D8%A8%D8%A7%20338%20%D9%84%D8%AA%D8%B1%20GR-RT468WE-PMN(49)-Pro%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "fresh-minibar-50l",
     "name": "ميني بار فريش 50 لتر FMB-70",
     "price": 8059,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%D9%86%D9%8A%20%D8%A8%D8%A7%D8%B1%20%D9%81%D8%B1%D9%8A%D8%B4%2050%20%D9%84%D8%AA%D8%B1%20FMB-70%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "lg-fridge-450l",
     "name": "ثلاجة إل جي 450 لتر GTF452SSAN",
     "price": 35989,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AB%D9%84%D8%A7%D8%AC%D8%A9%20%D8%A5%D9%84%20%D8%AC%D9%8A%20450%20%D9%84%D8%AA%D8%B1%20GTF452SSAN%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "samsung-washer-8kg",
     "name": "غسالة سامسونج 8 كجم WW80T4040CX1AS",
     "price": 24773,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC%208%20%D9%83%D8%AC%D9%85%20WW80T4040CX1AS%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "samsung-washer-11kg",
     "name": "غسالة سامسونج 11 كجم WW11B1534DABAS",
     "price": 35999,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC%2011%20%D9%83%D8%AC%D9%85%20WW11B1534DABAS%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "whitepoint-washer-9kg",
     "name": "غسالة وايت بوينت تحميل علوي 9 كجم WPTL9DBTEA",
     "price": 9599,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20%D9%88%D8%A7%D9%8A%D8%AA%20%D8%A8%D9%88%D9%8A%D9%86%D8%AA%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%B9%D9%84%D9%88%D9%8A%209%20%D9%83%D8%AC%D9%85%20WPTL9DBTEA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "toshiba-tv-65",
     "name": "تلفزيون توشيبا 65 بوصة 4K Smart 65C350RP",
     "price": 23499,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%AA%D9%88%D8%B4%D9%8A%D8%A8%D8%A7%2065%20%D8%A8%D9%88%D8%B5%D8%A9%204K%20Smart%2065C350RP%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "samsung-tv-55",
     "name": "تلفزيون سامسونج 55 بوصة 4K Crystal 55U8000F",
     "price": 24786,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC%2055%20%D8%A8%D9%88%D8%B5%D8%A9%204K%20Crystal%2055U8000F%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "midea-dishwasher-14",
     "name": "غسالة أطباق ميديا 14 فرد Mdwef1433D",
     "price": 22999,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20%D8%A3%D8%B7%D8%A8%D8%A7%D9%82%20%D9%85%D9%8A%D8%AF%D9%8A%D8%A7%2014%20%D9%81%D8%B1%D8%AF%20Mdwef1433D%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "fresh-microwave-28",
     "name": "ميكروويف فريش 28 لتر FMW-28ECB",
     "price": 6749,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%88%D9%8A%D9%81%20%D9%81%D8%B1%D9%8A%D8%B4%2028%20%D9%84%D8%AA%D8%B1%20FMW-28ECB%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-ac-midea-15",
     "name": "تكييف ميديا إكستريم برو 1.5 حصان بارد",
     "price": 22999,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%83%D9%8A%D9%8A%D9%81%20%D9%85%D9%8A%D8%AF%D9%8A%D8%A7%20%D8%A5%D9%83%D8%B3%D8%AA%D8%B1%D9%8A%D9%85%20%D8%A8%D8%B1%D9%88%201.5%20%D8%AD%D8%B5%D8%A7%D9%86%20%D8%A8%D8%A7%D8%B1%D8%AF%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-washer-zanussi-9",
     "name": "غسالة زانوسي 9 كجم تحميل أمامي",
     "price": 22499,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20%D8%B2%D8%A7%D9%86%D9%88%D8%B3%D9%8A%209%20%D9%83%D8%AC%D9%85%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A3%D9%85%D8%A7%D9%85%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-freezer-fresh",
     "name": "ديب فريزر فريش رأسي 6 درج",
     "price": 23499,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AF%D9%8A%D8%A8%20%D9%81%D8%B1%D9%8A%D8%B2%D8%B1%20%D9%81%D8%B1%D9%8A%D8%B4%20%D8%B1%D8%A3%D8%B3%D9%8A%206%20%D8%AF%D8%B1%D8%AC%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-washer-lg-8",
     "name": "غسالة LG سعة 8 كجم",
     "price": 26989,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20LG%20%D8%B3%D8%B9%D8%A9%208%20%D9%83%D8%AC%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-airfryer-kenwood",
     "name": "قلاية كينوود هوائية 7 لتر",
     "price": 6599,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%82%D9%84%D8%A7%D9%8A%D8%A9%20%D9%83%D9%8A%D9%86%D9%88%D9%88%D8%AF%20%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9%207%20%D9%84%D8%AA%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-microwave-samsung40",
     "name": "ميكروويف سامسونج 40 لتر بشواية",
     "price": 11999,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%88%D9%8A%D9%81%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC%2040%20%D9%84%D8%AA%D8%B1%20%D8%A8%D8%B4%D9%88%D8%A7%D9%8A%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-zanussi-cooker90",
     "name": "بوتاجاز زانوسي 90 سم Cool Max ZCG94396XB",
     "price": 17199,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D9%88%D8%AA%D8%A7%D8%AC%D8%A7%D8%B2%20%D8%B2%D8%A7%D9%86%D9%88%D8%B3%D9%8A%2090%20%D8%B3%D9%85%20Cool%20Max%20ZCG94396XB%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-lg-topload11",
     "name": "غسالة LG تحميل علوي 11 كجم T11V1TEHGX",
     "price": 15899,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20LG%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%B9%D9%84%D9%88%D9%8A%2011%20%D9%83%D8%AC%D9%85%20T11V1TEHGX%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-blackdecker-airfryer12",
     "name": "قلاية هوائية Black+Decker سعة 12 لتر AOF100",
     "price": 5399,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%82%D9%84%D8%A7%D9%8A%D8%A9%20%D9%87%D9%88%D8%A7%D8%A6%D9%8A%D8%A9%20Black%2BDecker%20%D8%B3%D8%B9%D8%A9%2012%20%D9%84%D8%AA%D8%B1%20AOF100%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-argosta-washer6",
     "name": "غسالة ARGOSTA تحميل أمامي 6 كجم",
     "price": 9999,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20ARGOSTA%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A3%D9%85%D8%A7%D9%85%D9%8A%206%20%D9%83%D8%AC%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-fresh-micro20",
     "name": "ميكروويف فريش 20 لتر 700 وات FMW-20MC-B",
     "price": 3599,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%88%D9%8A%D9%81%20%D9%81%D8%B1%D9%8A%D8%B4%2020%20%D9%84%D8%AA%D8%B1%20700%20%D9%88%D8%A7%D8%AA%20FMW-20MC-B%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "app-midea-dishwasher",
     "name": "غسالة أطباق Midea WiFi MDWPF1333C",
     "price": 15999,
     "date": "2026-11-02",
-    "category": "الأجهزة المنزلية (24)"
+    "category": "الأجهزة المنزلية (24)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20%D8%A3%D8%B7%D8%A8%D8%A7%D9%82%20Midea%20WiFi%20MDWPF1333C%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "ahram-politics",
     "name": "السياسة الخارجية الأمريكية",
     "price": 45,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "ahram-heykl",
     "name": "هيكل.. لمحات إنسانية",
     "price": 63,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%87%D9%8A%D9%83%D9%84..%20%D9%84%D9%85%D8%AD%D8%A7%D8%AA%20%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "ahram-life",
     "name": "لقطات من العمر",
     "price": 72,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%84%D9%82%D8%B7%D8%A7%D8%AA%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "ahram-journey",
@@ -509,553 +651,711 @@
     "name": "مي زيادة",
     "price": 144,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%20%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "insan-sherlock-bohemia",
     "name": "مغامرات شارلوك هولمز: فضيحة في بوهيميا",
     "price": 190,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A7%D8%AA%20%D8%B4%D8%A7%D8%B1%D9%84%D9%88%D9%83%20%D9%87%D9%88%D9%84%D9%85%D8%B2%3A%20%D9%81%D8%B6%D9%8A%D8%AD%D8%A9%20%D9%81%D9%8A%20%D8%A8%D9%88%D9%87%D9%8A%D9%85%D9%8A%D8%A7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "insan-blue-carbuncle",
     "name": "مغامرات شارلوك هولمز: الجوهرة الزرقاء",
     "price": 170,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%BA%D8%A7%D9%85%D8%B1%D8%A7%D8%AA%20%D8%B4%D8%A7%D8%B1%D9%84%D9%88%D9%83%20%D9%87%D9%88%D9%84%D9%85%D8%B2%3A%20%D8%A7%D9%84%D8%AC%D9%88%D9%87%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B2%D8%B1%D9%82%D8%A7%D8%A1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "insan-dracula",
     "name": "ضيف دراكولا",
     "price": 170,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B6%D9%8A%D9%81%20%D8%AF%D8%B1%D8%A7%D9%83%D9%88%D9%84%D8%A7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "insan-horse-boy",
     "name": "الحصان والصبي",
     "price": 170,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%AD%D8%B5%D8%A7%D9%86%20%D9%88%D8%A7%D9%84%D8%B5%D8%A8%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "insan-silver-chair",
     "name": "الكرسي الفضي",
     "price": 210,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%83%D8%B1%D8%B3%D9%8A%20%D8%A7%D9%84%D9%81%D8%B6%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "kotobzone-happiness",
     "name": "للسعادة وجوه أخرى",
     "price": 600,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%84%D9%84%D8%B3%D8%B9%D8%A7%D8%AF%D8%A9%20%D9%88%D8%AC%D9%88%D9%87%20%D8%A3%D8%AE%D8%B1%D9%89%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "kotobzone-microphone",
     "name": "ميكروفون كاتم صوت",
     "price": 260,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%81%D9%88%D9%86%20%D9%83%D8%A7%D8%AA%D9%85%20%D8%B5%D9%88%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "kotobzone-last-cassette",
     "name": "آخر شريط كاسيت في مصر",
     "price": 270,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A2%D8%AE%D8%B1%20%D8%B4%D8%B1%D9%8A%D8%B7%20%D9%83%D8%A7%D8%B3%D9%8A%D8%AA%20%D9%81%D9%8A%20%D9%85%D8%B5%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "kotobzone-returns",
     "name": "عودة التمائم",
     "price": 275,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B9%D9%88%D8%AF%D8%A9%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%A6%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "kotobzone-sunrise",
     "name": "Sunrise on the Reaping",
     "price": 1825,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22Sunrise%20on%20the%20Reaping%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1",
     "name": "المعاصر اللغة الإنجليزية – 1ع – الترم الأول 2026/2027",
     "price": 199,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-1k66x9w",
     "name": "المعاصر الرياضيات – 1ع – الترم الأول 2026/2027",
     "price": 185,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-12jzh3o",
     "name": "الامتحان العلوم – 1ع – الترم الأول 2026/2027",
     "price": 199,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-1vx1jkx",
     "name": "الامتحان الدراسات الاجتماعية – 1ع – الترم الأول 2026/2027",
     "price": 187,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-1mu735s",
     "name": "المرشد اللغة العربية – 1ع – الترم الأول 2026/2027",
     "price": 125,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AF%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-1clpw2k",
     "name": "المرشد التربية الدينية – 1ع – الترم الأول 2026/2027",
     "price": 110,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AF%20%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-1c03zne",
     "name": "الأضواء الرياضيات – 1ع – الترم الأول 2026/2027",
     "price": 169,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-1q8x4li",
     "name": "الأضواء الدراسات الاجتماعية – 1ع – الترم الأول 2026/2027",
     "price": 175,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-4db74g",
     "name": "الأضواء اللغة العربية – 1ع – الترم الأول 2026/2027",
     "price": 199,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-1-vsgzlt",
     "name": "الأضواء العلوم – 1ع – الترم الأول 2026/2027",
     "price": 185,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%E2%80%93%201%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-2",
     "name": "الأضواء اللغة العربية – 2ع – الترم الأول 2026/2027",
     "price": 199,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%202%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-2-4nipbk",
     "name": "الامتحان الدراسات الاجتماعية – 2ع – الترم الأول 2026/2027",
     "price": 189,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9%20%E2%80%93%202%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-2-185821h",
     "name": "الامتحان العلوم – 2ع – الترم الأول 2026/2027",
     "price": 189,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%E2%80%93%202%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-2-yfi3aa",
     "name": "المعاصر اللغة الإنجليزية – 2ع – الترم الأول 2026/2027",
     "price": 199,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9%20%E2%80%93%202%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-2-uzpoew",
     "name": "الأضواء اللغة الإنجليزية – 2ع – الترم الأول 2026/2027",
     "price": 199,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9%20%E2%80%93%202%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-2-kkimts",
     "name": "الأضواء العلوم – 2ع – الترم الأول 2026/2027",
     "price": 185,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%E2%80%93%202%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-2-ndxbeb",
     "name": "الأضواء الدراسات الاجتماعية – 2ع – الترم الأول 2026/2027",
     "price": 179,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9%20%E2%80%93%202%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-2-1qeeul3",
     "name": "الأضواء الرياضيات – 2ع – الترم الأول 2026/2027",
     "price": 169,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%E2%80%93%202%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3",
     "name": "الأضواء اللغة العربية – 3ع – الترم الأول 2026/2027",
     "price": 215,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%203%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-18vdcu9",
     "name": "المعاصر اللغة الإنجليزية – 3ع – الترم الأول 2026/2027",
     "price": 210,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9%20%E2%80%93%203%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1jmtkb8",
     "name": "الأضواء الدراسات الاجتماعية – 3ع – الترم الأول 2026/2027",
     "price": 189,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9%20%E2%80%93%203%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1ff88xr",
     "name": "الأضواء العلوم – 3ع – الترم الأول 2026/2027",
     "price": 189,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%E2%80%93%203%D8%B9%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1fjo9y2",
     "name": "أفوجادرو شرح الكيمياء – 3ث – الترم الأول 2026/2027",
     "price": 185,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A3%D9%81%D9%88%D8%AC%D8%A7%D8%AF%D8%B1%D9%88%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1omxg7x",
     "name": "أفوجادرو أسئلة الكيمياء – 3ث – الترم الأول 2026/2027",
     "price": 330,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A3%D9%81%D9%88%D8%AC%D8%A7%D8%AF%D8%B1%D9%88%20%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D9%83%D9%8A%D9%85%D9%8A%D8%A7%D8%A1%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-6h5j9v",
     "name": "الوافي أسئلة الأحياء – 3ث – الترم الأول 2026/2027",
     "price": 230,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%88%D8%A7%D9%81%D9%8A%20%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1qv7fx9",
     "name": "الأضواء بنك الأسئلة اللغة العربية – 3ث – الترم الأول 2026/2027",
     "price": 329,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A8%D9%86%D9%83%20%D8%A7%D9%84%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1ih9enj",
     "name": "الإبداع شرح اللغة العربية – 3ث – الترم الأول 2026/2027",
     "price": 310,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A5%D8%A8%D8%AF%D8%A7%D8%B9%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1h29ixh",
     "name": "الامتحان شرح اللغة العربية – 3ث – الترم الأول 2026/2027",
     "price": 278,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1y74ukc",
     "name": "الامتحان أسئلة اللغة العربية – 3ث – الترم الأول 2026/2027",
     "price": 405,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-v9lvse",
     "name": "الأضواء أسئلة التاريخ – 3ث – الترم الأول 2026/2027",
     "price": 249,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1rxya5h",
     "name": "الامتحان أسئلة الجغرافيا – 3ث – الترم الأول 2026/2027",
     "price": 270,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A7%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-6jvgok",
     "name": "الأضواء التربية الدينية – 3ث – الترم الأول 2026/2027",
     "price": 125,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D8%AA%D8%B1%D8%A8%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-9jkzzq",
     "name": "الأضواء شرح اللغة العربية – 3ث – الترم الأول 2026/2027",
     "price": 249,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%B4%D8%B1%D8%AD%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1s0sf5i",
     "name": "الأضواء النحو والصرف – 3ث – الترم الأول 2026/2027",
     "price": 229,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A7%D9%84%D9%86%D8%AD%D9%88%20%D9%88%D8%A7%D9%84%D8%B5%D8%B1%D9%81%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-kx0e9s",
     "name": "المعاصر الإحصاء – 3ث – الترم الأول 2026/2027",
     "price": 285,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-lc65a5",
     "name": "المعاصر الرياضيات التطبيقية – 3ث – الترم الأول 2026/2027",
     "price": 550,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "school-3-1ab13e5",
     "name": "الامتحان أسئلة الأحياء – 3ث – الترم الأول 2026/2027",
     "price": 299,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D8%A3%D8%AD%D9%8A%D8%A7%D8%A1%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-1th-ali-salah-math",
     "name": "باكدج مستر علي صلاح – أولى ثانوي",
     "price": 180,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D9%85%D8%B3%D8%AA%D8%B1%20%D8%B9%D9%84%D9%8A%20%D8%B5%D9%84%D8%A7%D8%AD%20%E2%80%93%20%D8%A3%D9%88%D9%84%D9%89%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-1th-ibrahim-farid-english",
     "name": "باكدج الدحيح في اللغة الإنجليزية – أولى ثانوي",
     "price": 250,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D8%A7%D9%84%D8%AF%D8%AD%D9%8A%D8%AD%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9%20%E2%80%93%20%D8%A3%D9%88%D9%84%D9%89%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-1th-ahmed-sakka-programming",
     "name": "باكدج البرمجة – أولى ثانوي",
     "price": 120,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9%20%E2%80%93%20%D8%A3%D9%88%D9%84%D9%89%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-1th-ahmed-gohary-science",
     "name": "باكدج العلوم المتكاملة – أولى ثانوي",
     "price": 150,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D9%85%D8%AA%D9%83%D8%A7%D9%85%D9%84%D8%A9%20%E2%80%93%20%D8%A3%D9%88%D9%84%D9%89%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-1th-abdelhamid",
     "name": "باكدج مستر عبد الحميد حامد – أولى ثانوي",
     "price": 200,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D9%85%D8%B3%D8%AA%D8%B1%20%D8%B9%D8%A8%D8%AF%20%D8%A7%D9%84%D8%AD%D9%85%D9%8A%D8%AF%20%D8%AD%D8%A7%D9%85%D8%AF%20%E2%80%93%20%D8%A3%D9%88%D9%84%D9%89%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-2th-islam-samir-physics",
     "name": "باكدج فيزياء – تانية ثانوي بكالوريا",
     "price": 225,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1%20%E2%80%93%20%D8%AA%D8%A7%D9%86%D9%8A%D8%A9%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%20%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-2th-wael-issa-arabic",
     "name": "باكدج اللغة العربية – تانية ثانوي بكالوريا",
     "price": 150,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%E2%80%93%20%D8%AA%D8%A7%D9%86%D9%8A%D8%A9%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%20%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-2th-ayman-hassan-math",
     "name": "باكدج الرياضيات – تانية ثانوي بكالوريا",
     "price": 280,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA%20%E2%80%93%20%D8%AA%D8%A7%D9%86%D9%8A%D8%A9%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%20%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-2th-ahmed-zahran",
     "name": "باكدج مستر أحمد زهران – تانية ثانوي بكالوريا",
     "price": 250,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D9%85%D8%B3%D8%AA%D8%B1%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%B2%D9%87%D8%B1%D8%A7%D9%86%20%E2%80%93%20%D8%AA%D8%A7%D9%86%D9%8A%D8%A9%20%D8%AB%D8%A7%D9%86%D9%88%D9%8A%20%D8%A8%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-3th-khaled-saqr",
     "name": "باكدج مستر خالد صقر – الباب الثالث والرابع",
     "price": 230,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D9%85%D8%B3%D8%AA%D8%B1%20%D8%AE%D8%A7%D9%84%D8%AF%20%D8%B5%D9%82%D8%B1%20%E2%80%93%20%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D9%88%D8%A7%D9%84%D8%B1%D8%A7%D8%A8%D8%B9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-3th-omar-raya",
     "name": "باكدج مستر عمر راعية – Chapter 2",
     "price": 280,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D9%85%D8%B3%D8%AA%D8%B1%20%D8%B9%D9%85%D8%B1%20%D8%B1%D8%A7%D8%B9%D9%8A%D8%A9%20%E2%80%93%20Chapter%202%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-3th-joseph-adel",
     "name": "باكدج دكتور جوزيف عادل – Chapter 2",
     "price": 450,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D8%AF%D9%83%D8%AA%D9%88%D8%B1%20%D8%AC%D9%88%D8%B2%D9%8A%D9%81%20%D8%B9%D8%A7%D8%AF%D9%84%20%E2%80%93%20Chapter%202%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-3prep-omar-suleiman",
     "name": "باكدج مستر عمر سليمان – الصف الثالث الإعدادي",
     "price": 250,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%83%D8%AF%D8%AC%20%D9%85%D8%B3%D8%AA%D8%B1%20%D8%B9%D9%85%D8%B1%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-3prep-mazen-youssef",
     "name": "كتاب Science – الصف الثالث الإعدادي",
     "price": 200,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%AA%D8%A7%D8%A8%20Science%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-2prep-mazen-youssef",
     "name": "كتاب Science – الصف الثاني الإعدادي",
     "price": 200,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%AA%D8%A7%D8%A8%20Science%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-1prep-mazen-youssef",
     "name": "كتاب Science – الصف الأول الإعدادي",
     "price": 200,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%AA%D8%A7%D8%A8%20Science%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-1prep-abdelmoez-german",
     "name": "كتاب اللغة الألمانية – الصف الأول الإعدادي",
     "price": 100,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-2prep-abdelmoez-german",
     "name": "كتاب اللغة الألمانية – الصف الثاني الإعدادي",
     "price": 100,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "bs-3prep-abdelmoez-german",
     "name": "كتاب اللغة الألمانية – الصف الثالث الإعدادي",
     "price": 100,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-ayyam",
     "name": "أيام في ذاكرة المصريين",
     "price": 180,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A3%D9%8A%D8%A7%D9%85%20%D9%81%D9%8A%20%D8%B0%D8%A7%D9%83%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-hokkam",
     "name": "حكام الدولة المصرية",
     "price": 81,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D9%83%D8%A7%D9%85%20%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-psychology-crowds",
     "name": "سيكولوجية الجماهير",
     "price": 90,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%8A%D9%83%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-case-fahm",
     "name": "حالة فهم",
     "price": 135,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D8%A7%D9%84%D8%A9%20%D9%81%D9%87%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-keyword",
     "name": "كلمة السر",
     "price": 189,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-sindirella",
     "name": "سندريلا وذات الوجنات الوردية",
     "price": 225,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%86%D8%AF%D8%B1%D9%8A%D9%84%D8%A7%20%D9%88%D8%B0%D8%A7%D8%AA%20%D8%A7%D9%84%D9%88%D8%AC%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%88%D8%B1%D8%AF%D9%8A%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-bayt-alhayah",
     "name": "في بيت الحياة",
     "price": 225,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%81%D9%8A%20%D8%A8%D9%8A%D8%AA%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-tut",
     "name": "لغز خنجر توت عنخ آمون",
     "price": 216,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%84%D8%BA%D8%B2%20%D8%AE%D9%86%D8%AC%D8%B1%20%D8%AA%D9%88%D8%AA%20%D8%B9%D9%86%D8%AE%20%D8%A2%D9%85%D9%88%D9%86%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-ma-zal",
     "name": "ما زال هنا",
     "price": 171,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%A7%20%D8%B2%D8%A7%D9%84%20%D9%87%D9%86%D8%A7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-sirr-malika",
     "name": "سر ملكة الملوك",
     "price": 405,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%B1%20%D9%85%D9%84%D9%83%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-1984",
     "name": "1984",
     "price": 90,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%221984%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-relativity",
     "name": "النظرية النسبية لآينشتاين",
     "price": 63,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D9%86%D8%B8%D8%B1%D9%8A%D8%A9%20%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%8A%D8%A9%20%D9%84%D8%A2%D9%8A%D9%86%D8%B4%D8%AA%D8%A7%D9%8A%D9%86%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-dangwan",
@@ -1070,7 +1370,9 @@
     "name": "مذكرات ماجدة الصباحي",
     "price": 36,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA%20%D9%85%D8%A7%D8%AC%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%D9%8A%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-ta-haussein",
@@ -1085,14 +1387,18 @@
     "name": "الصحة النفسية",
     "price": 270,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%B5%D8%AD%D8%A9%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-body-language",
     "name": "لغة الجسد",
     "price": 225,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%AC%D8%B3%D8%AF%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "book-history",
@@ -1107,133 +1413,171 @@
     "name": "أين الإنسان",
     "price": 252,
     "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "category": "الكتب (90)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A3%D9%8A%D9%86%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "nissan-sunny-2027-base-mt",
     "name": "Nissan Sunny 2027 – Base MT",
     "price": 665000,
     "date": "2026-10-31",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Nissan%20Sunny%202027%20%E2%80%93%20Base%20MT%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "nissan-sunny-2027-at-base",
     "name": "Nissan Sunny 2027 – AT Base",
     "price": 765000,
     "date": "2026-11-01",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Nissan%20Sunny%202027%20%E2%80%93%20AT%20Base%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "nissan-sunny-2027-at-mid",
     "name": "Nissan Sunny 2027 – AT Mid",
     "price": 799999,
     "date": "2026-11-01",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Nissan%20Sunny%202027%20%E2%80%93%20AT%20Mid%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "nissan-sunny-2027-super-saloon",
     "name": "Nissan Sunny 2027 – Super Saloon",
     "price": 835000,
     "date": "2026-11-01",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Nissan%20Sunny%202027%20%E2%80%93%20Super%20Saloon%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "toyota-corolla-2026-active",
     "name": "Toyota Corolla 2026 – Active",
     "price": 1280000,
     "date": "2026-10-27",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Toyota%20Corolla%202026%20%E2%80%93%20Active%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "toyota-corolla-2026-comfort",
     "name": "Toyota Corolla 2026 – Comfort",
     "price": 1380000,
     "date": "2026-10-27",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Toyota%20Corolla%202026%20%E2%80%93%20Comfort%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "toyota-corolla-2026-smart",
     "name": "Toyota Corolla 2026 – Smart",
     "price": 1480000,
     "date": "2026-10-27",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Toyota%20Corolla%202026%20%E2%80%93%20Smart%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "toyota-corolla-2026-elegance",
     "name": "Toyota Corolla 2026 – Elegance",
     "price": 1630000,
     "date": "2026-10-27",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Toyota%20Corolla%202026%20%E2%80%93%20Elegance%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "mg-5-2026-comfort",
     "name": "MG 5 2026 – Comfort",
     "price": 874990,
     "date": "2026-09-10",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22MG%205%202026%20%E2%80%93%20Comfort%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "mg-5-2026-luxury",
     "name": "MG 5 2026 – Luxury",
     "price": 974990,
     "date": "2026-09-10",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22MG%205%202026%20%E2%80%93%20Luxury%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "mg-zs-2026-comfort",
     "name": "MG ZS 2026 – Comfort",
     "price": 1075000,
     "date": "2026-08-05",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22MG%20ZS%202026%20%E2%80%93%20Comfort%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "mg-zs-2026-luxury",
     "name": "MG ZS 2026 – Luxury",
     "price": 1150000,
     "date": "2026-08-05",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22MG%20ZS%202026%20%E2%80%93%20Luxury%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "hyundai-elantra-shadow-2026",
     "name": "Hyundai Elantra 2026 1.6L Shadow",
     "price": 1375000,
     "date": "2026-11-02",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Hyundai%20Elantra%202026%201.6L%20Shadow%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "hyundai-elantra-blaze-2026",
     "name": "Hyundai Elantra 2026 1.6L Blaze",
     "price": 1530000,
     "date": "2026-11-02",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Hyundai%20Elantra%202026%201.6L%20Blaze%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "hyundai-elantra-redline-2026",
     "name": "Hyundai Elantra 2026 1.6L RedLine",
     "price": 1700000,
     "date": "2026-11-02",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Hyundai%20Elantra%202026%201.6L%20RedLine%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "hyundai-elantra-blackdiamond-2026",
     "name": "Hyundai Elantra 2026 1.6L Black Diamond",
     "price": 1930000,
     "date": "2026-11-02",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Hyundai%20Elantra%202026%201.6L%20Black%20Diamond%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "nissan-sentra-s-2026",
     "name": "Nissan Sentra 2026 1.6L S",
     "price": 949000,
     "date": "2026-11-02",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Nissan%20Sentra%202026%201.6L%20S%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "nissan-sentra-full-2026",
     "name": "Nissan Sentra 2026 1.6L Full Option",
     "price": 1049000,
     "date": "2026-11-02",
-    "category": "السيارات (18)"
+    "category": "السيارات (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22Nissan%20Sentra%202026%201.6L%20Full%20Option%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "grocery-rice-darahem",
@@ -1254,9 +1598,10 @@
   {
     "slug": "grocery-vermicelli",
     "name": "شعرية أهل القمة 400 جم",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "الطعام والبقالة (9)"
+    "price": 10.99,
+    "date": "2026-11-11",
+    "category": "الطعام والبقالة (9)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000"
   },
   {
     "slug": "grocery-rice-elsaa",
@@ -1271,203 +1616,254 @@
     "name": "جل غسيل أطباق Wafeer ليمون 4 كجم",
     "price": 126,
     "date": "2026-11-02",
-    "category": "الطعام والبقالة (9)"
+    "category": "الطعام والبقالة (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AC%D9%84%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%A3%D8%B7%D8%A8%D8%A7%D9%82%20Wafeer%20%D9%84%D9%8A%D9%85%D9%88%D9%86%204%20%D9%83%D8%AC%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "grocery-eggs-index",
     "name": "متوسط سعر البيضة – مؤشر القاهرة",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "الطعام والبقالة (9)"
+    "price": 6.38,
+    "date": "2026-11-11",
+    "category": "الطعام والبقالة (9)",
+    "sourceUrl": "https://index.el-basket.com/"
   },
   {
     "slug": "grocery-salt-index",
     "name": "متوسط سعر الملح – مؤشر القاهرة",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "الطعام والبقالة (9)"
+    "price": 6.15,
+    "date": "2026-11-11",
+    "category": "الطعام والبقالة (9)",
+    "sourceUrl": "https://index.el-basket.com/"
   },
   {
     "slug": "grocery-vermicelli-index",
     "name": "متوسط سعر الشعرية – مؤشر القاهرة",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "الطعام والبقالة (9)"
+    "price": 10.63,
+    "date": "2026-11-11",
+    "category": "الطعام والبقالة (9)",
+    "sourceUrl": "https://index.el-basket.com/"
   },
   {
     "slug": "grocery-tomato-paste-index",
     "name": "متوسط سعر معجون الطماطم – مؤشر القاهرة",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "الطعام والبقالة (9)"
+    "price": 26.63,
+    "date": "2026-11-11",
+    "category": "الطعام والبقالة (9)",
+    "sourceUrl": "https://index.el-basket.com/"
   },
   {
     "slug": "tool-tape3",
     "name": "متر قياس 3 أمتار",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "price": 35,
+    "date": "2026-11-11",
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://elghazawy.com/en/product/38074270252659/page/page/about-us"
   },
   {
     "slug": "tool-wrench",
     "name": "مفتاح ربط Giza",
     "price": 70,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%81%D8%AA%D8%A7%D8%AD%20%D8%B1%D8%A8%D8%B7%20Giza%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-testdriver",
     "name": "مفك اختبار كهرباء Giza",
     "price": 50,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%81%D9%83%20%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1%20Giza%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-screwdriver-cross",
     "name": "مفكات صليبة Giza",
     "price": 65,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%81%D9%83%D8%A7%D8%AA%20%D8%B5%D9%84%D9%8A%D8%A8%D8%A9%20Giza%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-screwdriver-set",
     "name": "طقم مفكات Elgiza قطعتان",
     "price": 119,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D9%85%D9%81%D9%83%D8%A7%D8%AA%20Elgiza%20%D9%82%D8%B7%D8%B9%D8%AA%D8%A7%D9%86%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-hammer",
     "name": "شاكوش Elgiza وزن 500 جرام",
     "price": 249,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B4%D8%A7%D9%83%D9%88%D8%B4%20Elgiza%20%D9%88%D8%B2%D9%86%20500%20%D8%AC%D8%B1%D8%A7%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-toolbox",
     "name": "حقيبة عدة Port Ekono مقاس 40 سم",
     "price": 629,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D9%82%D9%8A%D8%A8%D8%A9%20%D8%B9%D8%AF%D8%A9%20Port%20Ekono%20%D9%85%D9%82%D8%A7%D8%B3%2040%20%D8%B3%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-measure3m",
     "name": "شريط قياس INGCO طول 3 متر",
     "price": 60,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B4%D8%B1%D9%8A%D8%B7%20%D9%82%D9%8A%D8%A7%D8%B3%20INGCO%20%D8%B7%D9%88%D9%84%203%20%D9%85%D8%AA%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-allen",
     "name": "طقم مفاتيح ألن INGCO عدد 9",
     "price": 160,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD%20%D8%A3%D9%84%D9%86%20INGCO%20%D8%B9%D8%AF%D8%AF%209%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-screwdrivers",
     "name": "طقم مفكات Bosch عدد 3",
     "price": 399,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D9%85%D9%81%D9%83%D8%A7%D8%AA%20Bosch%20%D8%B9%D8%AF%D8%AF%203%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-bitset",
     "name": "طقم رؤوس مفكات Bosch عدد 32",
     "price": 598,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D8%B1%D8%A4%D9%88%D8%B3%20%D9%85%D9%81%D9%83%D8%A7%D8%AA%20Bosch%20%D8%B9%D8%AF%D8%AF%2032%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-level",
     "name": "ميزان استواء TRIXIG",
     "price": 999,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%D8%B2%D8%A7%D9%86%20%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1%20TRIXIG%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-hacksaw-apt",
     "name": "منشار حديد يدوي APT مقاس 12 بوصة",
     "price": 215,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%86%D8%B4%D8%A7%D8%B1%20%D8%AD%D8%AF%D9%8A%D8%AF%20%D9%8A%D8%AF%D9%88%D9%8A%20APT%20%D9%85%D9%82%D8%A7%D8%B3%2012%20%D8%A8%D9%88%D8%B5%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-bosch-brick-bits",
     "name": "طقم بنط حائط Bosch عدد 7",
     "price": 798,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D8%A8%D9%86%D8%B7%20%D8%AD%D8%A7%D8%A6%D8%B7%20Bosch%20%D8%B9%D8%AF%D8%AF%207%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-bosch-concrete-bits",
     "name": "طقم بنط خرسانة Bosch عدد 7",
     "price": 484,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D8%A8%D9%86%D8%B7%20%D8%AE%D8%B1%D8%B3%D8%A7%D9%86%D8%A9%20Bosch%20%D8%B9%D8%AF%D8%AF%207%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-bosch-laser40",
     "name": "متر قياس ليزر Bosch حتى 40 متر",
     "price": 5130,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%AA%D8%B1%20%D9%82%D9%8A%D8%A7%D8%B3%20%D9%84%D9%8A%D8%B2%D8%B1%20Bosch%20%D8%AD%D8%AA%D9%89%2040%20%D9%85%D8%AA%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-bosch-tripod",
     "name": "حامل قياس Bosch BT 150 ارتفاع 1.5 متر",
     "price": 2850,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D8%A7%D9%85%D9%84%20%D9%82%D9%8A%D8%A7%D8%B3%20Bosch%20BT%20150%20%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9%201.5%20%D9%85%D8%AA%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-weneed-set",
     "name": "طقم إصلاح منزلي Weneed عدد 5 قطع",
     "price": 260,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D8%A5%D8%B5%D9%84%D8%A7%D8%AD%20%D9%85%D9%86%D8%B2%D9%84%D9%8A%20Weneed%20%D8%B9%D8%AF%D8%AF%205%20%D9%82%D8%B7%D8%B9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-giza-pincer",
     "name": "كماشة Giza",
     "price": 209,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D9%85%D8%A7%D8%B4%D8%A9%20Giza%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-weneed-spanner",
     "name": "طقم مفاتيح ربط Weneed ثلاثة مقاسات",
     "price": 177,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD%20%D8%B1%D8%A8%D8%B7%20Weneed%20%D8%AB%D9%84%D8%A7%D8%AB%D8%A9%20%D9%85%D9%82%D8%A7%D8%B3%D8%A7%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tool-bosch-marker",
     "name": "قلم تحديد عميق Bosch",
     "price": 229,
     "date": "2026-11-02",
-    "category": "الأدوات (21)"
+    "category": "الأدوات (21)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%82%D9%84%D9%85%20%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF%20%D8%B9%D9%85%D9%8A%D9%82%20Bosch%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "baby-products---------1-molfix---1",
     "name": "حفاضات حديثي الولادة مقاس 1",
     "price": 319,
     "date": "2026-11-04",
-    "category": "مستلزمات الأطفال (3)"
+    "category": "مستلزمات الأطفال (3)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D9%81%D8%A7%D8%B6%D8%A7%D8%AA%20%D8%AD%D8%AF%D9%8A%D8%AB%D9%8A%20%D8%A7%D9%84%D9%88%D9%84%D8%A7%D8%AF%D8%A9%20%D9%85%D9%82%D8%A7%D8%B3%201%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "baby-products-------3-pampers---3",
     "name": "حفاضات أطفال مقاس 3",
-    "price": null,
-    "date": "2026-11-04",
-    "category": "مستلزمات الأطفال (3)"
+    "price": 454.99,
+    "date": "2026-11-11",
+    "category": "مستلزمات الأطفال (3)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/AR/c/FEGY1020503"
   },
   {
     "slug": "baby-products-molfix-3d-midi-size-3-80pcs",
     "name": "حفاضات مولفيكس 3D ميدي مقاس 3",
-    "price": null,
-    "date": "2026-11-04",
-    "category": "مستلزمات الأطفال (3)"
+    "price": 429.99,
+    "date": "2026-11-11",
+    "category": "مستلزمات الأطفال (3)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/baby-diapers/molfix-3d-midi-mega-pack-80-d/p/501162"
   },
   {
     "slug": "clothing-women-vneck",
@@ -1482,147 +1878,189 @@
     "name": "توب نسائي Marco Lorie بدون أكمام مقاس L",
     "price": 189,
     "date": "2026-11-02",
-    "category": "الملابس (9)"
+    "category": "الملابس (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%88%D8%A8%20%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%20Marco%20Lorie%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%A3%D9%83%D9%85%D8%A7%D9%85%20%D9%85%D9%82%D8%A7%D8%B3%20L%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "clothing-men-jil",
     "name": "تيشيرت رجالي Jil سادة كم قصير مقاس L",
     "price": 399,
     "date": "2026-11-02",
-    "category": "الملابس (9)"
+    "category": "الملابس (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%20%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%20Jil%20%D8%B3%D8%A7%D8%AF%D8%A9%20%D9%83%D9%85%20%D9%82%D8%B5%D9%8A%D8%B1%20%D9%85%D9%82%D8%A7%D8%B3%20L%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "clothing-men-print",
     "name": "تيشيرت رجالي مطبوع برسمة نخيل",
     "price": 249,
     "date": "2026-11-02",
-    "category": "الملابس (9)"
+    "category": "الملابس (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%20%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%20%D9%85%D8%B7%D8%A8%D9%88%D8%B9%20%D8%A8%D8%B1%D8%B3%D9%85%D8%A9%20%D9%86%D8%AE%D9%8A%D9%84%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "clothing-women-raneen",
     "name": "تيشيرت نسائي قطن وليكرا مقاسات 4–12",
     "price": 99,
     "date": "2026-11-02",
-    "category": "الملابس (9)"
+    "category": "الملابس (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%20%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%20%D9%82%D8%B7%D9%86%20%D9%88%D9%84%D9%8A%D9%83%D8%B1%D8%A7%20%D9%85%D9%82%D8%A7%D8%B3%D8%A7%D8%AA%204%E2%80%9312%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "clothing-andora-hoodie",
     "name": "هودي Andora Essential Plain بأكمام طويلة",
     "price": 599,
     "date": "2026-11-02",
-    "category": "الملابس (9)"
+    "category": "الملابس (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%87%D9%88%D8%AF%D9%8A%20Andora%20Essential%20Plain%20%D8%A8%D8%A3%D9%83%D9%85%D8%A7%D9%85%20%D8%B7%D9%88%D9%8A%D9%84%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "clothing-roomba-sneaker",
     "name": "حذاء Roomba Fashion Sneakers",
     "price": 335,
     "date": "2026-11-02",
-    "category": "الملابس (9)"
+    "category": "الملابس (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D8%B0%D8%A7%D8%A1%20Roomba%20Fashion%20Sneakers%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "clothing-activ-sneaker",
     "name": "حذاء Activ White Perforated Unisex",
     "price": 699,
     "date": "2026-11-02",
-    "category": "الملابس (9)"
+    "category": "الملابس (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D8%B0%D8%A7%D8%A1%20Activ%20White%20Perforated%20Unisex%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "clothing-andora-tee",
     "name": "تيشيرت Andora Essential Plain قصير الأكمام",
     "price": 229,
     "date": "2026-11-02",
-    "category": "الملابس (9)"
+    "category": "الملابس (9)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%20Andora%20Essential%20Plain%20%D9%82%D8%B5%D9%8A%D8%B1%20%D8%A7%D9%84%D8%A3%D9%83%D9%85%D8%A7%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-homecentre-chair",
     "name": "كرسي سفرة قماش Trixia",
     "price": 3999,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%B3%D9%8A%20%D8%B3%D9%81%D8%B1%D8%A9%20%D9%82%D9%85%D8%A7%D8%B4%20Trixia%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-homecentre-wardrobe",
     "name": "دولاب Mabel ستة أبواب مع أدراج",
     "price": 61799,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AF%D9%88%D9%84%D8%A7%D8%A8%20Mabel%20%D8%B3%D8%AA%D8%A9%20%D8%A3%D8%A8%D9%88%D8%A7%D8%A8%20%D9%85%D8%B9%20%D8%A3%D8%AF%D8%B1%D8%A7%D8%AC%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-homecentre-sofa",
     "name": "كنبة Kipper مقعدين قماش",
     "price": 26000,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D9%86%D8%A8%D8%A9%20Kipper%20%D9%85%D9%82%D8%B9%D8%AF%D9%8A%D9%86%20%D9%82%D9%85%D8%A7%D8%B4%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-homecentre-mattress",
     "name": "مرتبة Jan Deluxe مفردة 120×200 سم",
     "price": 6499,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%B1%D8%AA%D8%A8%D8%A9%20Jan%20Deluxe%20%D9%85%D9%81%D8%B1%D8%AF%D8%A9%20120%C3%97200%20%D8%B3%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-ileera-table",
     "name": "ترابيزة طعام ومذاكرة خشبية Talqa",
     "price": 3999,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A%D8%B2%D8%A9%20%D8%B7%D8%B9%D8%A7%D9%85%20%D9%88%D9%85%D8%B0%D8%A7%D9%83%D8%B1%D8%A9%20%D8%AE%D8%B4%D8%A8%D9%8A%D8%A9%20Talqa%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-ileera-side",
     "name": "ترابيزة جانبية Estekana",
     "price": 1099,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D8%B1%D8%A7%D8%A8%D9%8A%D8%B2%D8%A9%20%D8%AC%D8%A7%D9%86%D8%A8%D9%8A%D8%A9%20Estekana%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-woodco-sofabed",
     "name": "كنبة سرير WOODCO مودرن",
     "price": 6850,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D9%86%D8%A8%D8%A9%20%D8%B3%D8%B1%D9%8A%D8%B1%20WOODCO%20%D9%85%D9%88%D8%AF%D8%B1%D9%86%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-cataloug-bed",
     "name": "سرير MDF مقاس 160×195 سم",
     "price": 10499,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%B1%D9%8A%D8%B1%20MDF%20%D9%85%D9%82%D8%A7%D8%B3%20160%C3%97195%20%D8%B3%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-cataloug-wardrobe",
     "name": "دولاب MDF مقاس 160×50×185 سم",
     "price": 19699,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%AF%D9%88%D9%84%D8%A7%D8%A8%20MDF%20%D9%85%D9%82%D8%A7%D8%B3%20160%C3%9750%C3%97185%20%D8%B3%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-cataloug-tv",
     "name": "وحدة تلفزيون MDF مقاس 200×40×35 سم",
     "price": 11499,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%88%D8%AD%D8%AF%D8%A9%20%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20MDF%20%D9%85%D9%82%D8%A7%D8%B3%20200%C3%9740%C3%9735%20%D8%B3%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-hub-bed",
     "name": "سرير METROPOL-EM عرض 180 سم",
     "price": 18580,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%B1%D9%8A%D8%B1%20METROPOL-EM%20%D8%B9%D8%B1%D8%B6%20180%20%D8%B3%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-hub-bed120",
     "name": "سرير CITY-EM عرض 120 سم",
     "price": 12038,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%B1%D9%8A%D8%B1%20CITY-EM%20%D8%B9%D8%B1%D8%B6%20120%20%D8%B3%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "furn-bath-trolley",
     "name": "عربة حمام بثلاثة أرفف",
     "price": 350,
     "date": "2026-11-02",
-    "category": "الأثاث (13)"
+    "category": "الأثاث (13)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B9%D8%B1%D8%A8%D8%A9%20%D8%AD%D9%85%D8%A7%D9%85%20%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D8%A9%20%D8%A3%D8%B1%D9%81%D9%81%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-soap-lux",
@@ -1685,7 +2123,9 @@
     "name": "غسول يدين سائل Diva Family Care 500 مل",
     "price": 45,
     "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D9%88%D9%84%20%D9%8A%D8%AF%D9%8A%D9%86%20%D8%B3%D8%A7%D8%A6%D9%84%20Diva%20Family%20Care%20500%20%D9%85%D9%84%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-mouthwash-listerine",
@@ -1698,44 +2138,51 @@
   {
     "slug": "pc-lotion-glysolid",
     "name": "لوشن Glysolid للبشرة الحساسة 200 مل",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "price": 124.99,
+    "date": "2026-11-11",
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar//mafegy/ar/body-lotion-creams/glysolid-lotion-musk-200ml/p/489055"
   },
   {
     "slug": "pc-handcream-caremore",
     "name": "كريم يدين Care & More 50 مل",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "price": 57.5,
+    "date": "2026-11-11",
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2020000"
   },
   {
     "slug": "pc-showergel-lux",
     "name": "جل استحمام Lux Magical Beauty 500 مل",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "price": 86.99,
+    "date": "2026-11-11",
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/13531"
   },
   {
     "slug": "pc-lifebuoy-soap",
     "name": "صابون لايف بوي Mild Care 115 جم",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "price": 30.99,
+    "date": "2026-11-11",
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/antibacterial-soap/lifebuoy-soap-bar-mild-cr-lmflx115g/p/628024"
   },
   {
     "slug": "pc-loreal-shampoo",
     "name": "شامبو لوريال إلفيف 400 مل",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "price": 191.99,
+    "date": "2026-11-11",
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500"
   },
   {
     "slug": "pc-diva-handwash",
     "name": "صابون يدين سائل Diva 500 مل",
     "price": 45,
     "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%B5%D8%A7%D8%A8%D9%88%D9%86%20%D9%8A%D8%AF%D9%8A%D9%86%20%D8%B3%D8%A7%D8%A6%D9%84%20Diva%20500%20%D9%85%D9%84%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "pc-closeup",
@@ -1748,239 +2195,305 @@
   {
     "slug": "pc-nivea-deo",
     "name": "مزيل عرق Nivea Deep Black 150 مل",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "price": 169.99,
+    "date": "2026-11-11",
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/02006"
   },
   {
     "slug": "pc-sunsilk",
     "name": "شامبو Sunsilk Stunning Black Shine 1 لتر",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "العناية الشخصية (18)"
+    "price": 232.5,
+    "date": "2026-11-11",
+    "category": "العناية الشخصية (18)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/shampoo/sunsilk-shamp-black-shine-1-l/p/508879"
   },
   {
     "slug": "sport-ball-kids3",
     "name": "كرة قدم KIPSTA للأطفال مقاس 3",
     "price": 379,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%82%D8%AF%D9%85%20KIPSTA%20%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D9%85%D9%82%D8%A7%D8%B3%203%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-kids4",
     "name": "كرة قدم KIPSTA للأطفال مقاس 4",
     "price": 379,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%82%D8%AF%D9%85%20KIPSTA%20%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D9%85%D9%82%D8%A7%D8%B3%204%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-kids5",
     "name": "كرة قدم KIPSTA للأطفال مقاس 5",
     "price": 399,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%82%D8%AF%D9%85%20KIPSTA%20%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D9%85%D9%82%D8%A7%D8%B3%205%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-training5",
     "name": "كرة قدم تدريب KIPSTA مقاس 5 مخيطة آليًا",
     "price": 749,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%82%D8%AF%D9%85%20%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%20KIPSTA%20%D9%85%D9%82%D8%A7%D8%B3%205%20%D9%85%D8%AE%D9%8A%D8%B7%D8%A9%20%D8%A2%D9%84%D9%8A%D9%8B%D8%A7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-sunny300",
     "name": "كرة قدم KIPSTA Sunny 300 مقاس 4",
     "price": 319,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%82%D8%AF%D9%85%20KIPSTA%20Sunny%20300%20%D9%85%D9%82%D8%A7%D8%B3%204%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-fifa-match",
     "name": "كرة قدم KIPSTA Match مقاس 5 FIFA Quality",
     "price": 1899,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%82%D8%AF%D9%85%20KIPSTA%20Match%20%D9%85%D9%82%D8%A7%D8%B3%205%20FIFA%20Quality%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-fifa-basic",
     "name": "كرة قدم KIPSTA FIFA Basic Hybrid مقاس 5",
     "price": 1199,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%82%D8%AF%D9%85%20KIPSTA%20FIFA%20Basic%20Hybrid%20%D9%85%D9%82%D8%A7%D8%B3%205%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-learning",
     "name": "كرة قدم KIPSTA Light Learning مقاس 5",
     "price": 749,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%82%D8%AF%D9%85%20KIPSTA%20Light%20Learning%20%D9%85%D9%82%D8%A7%D8%B3%205%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-mini",
     "name": "كرة مصغرة KIPSTA UEFA Europa League 25/26 مقاس 5",
     "price": 1899,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20%D9%85%D8%B5%D8%BA%D8%B1%D8%A9%20KIPSTA%20UEFA%20Europa%20League%2025%2F26%20%D9%85%D9%82%D8%A7%D8%B3%205%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "sport-ball-fans-ligue1",
     "name": "كرة KIPSTA Fans Ball Ligue 1 مقاس 5",
     "price": 899,
     "date": "2026-11-02",
-    "category": "الرياضة (10)"
+    "category": "الرياضة (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%B1%D8%A9%20KIPSTA%20Fans%20Ball%20Ligue%201%20%D9%85%D9%82%D8%A7%D8%B3%205%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-thyme-seeds",
     "name": "بذور زعتر Green Valley – 20 بذرة",
     "price": 45,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D8%B2%D8%B9%D8%AA%D8%B1%20Green%20Valley%20%E2%80%93%2020%20%D8%A8%D8%B0%D8%B1%D8%A9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-basil-seeds",
     "name": "بذور ريحان Green Valley – 10 جم",
     "price": 45,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D8%B1%D9%8A%D8%AD%D8%A7%D9%86%20Green%20Valley%20%E2%80%93%2010%20%D8%AC%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-parsley-seeds",
     "name": "بذور بقدونس Green Valley – 20 جم",
     "price": 50,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D8%A8%D9%82%D8%AF%D9%88%D9%86%D8%B3%20Green%20Valley%20%E2%80%93%2020%20%D8%AC%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-peat5",
     "name": "بيتموس Green Valley – 5 كجم",
     "price": 315,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D9%8A%D8%AA%D9%85%D9%88%D8%B3%20Green%20Valley%20%E2%80%93%205%20%D9%83%D8%AC%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-peat2",
     "name": "بيتموس Green Valley – 2 كجم",
     "price": 125,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D9%8A%D8%AA%D9%85%D9%88%D8%B3%20Green%20Valley%20%E2%80%93%202%20%D9%83%D8%AC%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-peat1",
     "name": "بيتموس Green Valley – 1 كجم",
     "price": 65,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D9%8A%D8%AA%D9%85%D9%88%D8%B3%20Green%20Valley%20%E2%80%93%201%20%D9%83%D8%AC%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-seed-cucumber",
     "name": "بذور خيار",
     "price": 20,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D8%AE%D9%8A%D8%A7%D8%B1%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-seed-anise",
     "name": "بذور ينسون",
     "price": 20,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D9%8A%D9%86%D8%B3%D9%88%D9%86%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-seed-mint",
     "name": "بذور نعناع",
     "price": 20,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D9%86%D8%B9%D9%86%D8%A7%D8%B9%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "plant-pot",
     "name": "أصيص بلاستيك أسود مقاس 30 سم",
     "price": 35,
     "date": "2026-11-02",
-    "category": "الزراعة والنباتات (10)"
+    "category": "الزراعة والنباتات (10)",
+    "sourceUrl": "https://www.google.com/search?q=%22%D8%A3%D8%B5%D9%8A%D8%B5%20%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83%20%D8%A3%D8%B3%D9%88%D8%AF%20%D9%85%D9%82%D8%A7%D8%B3%2030%20%D8%B3%D9%85%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-we-150",
     "name": "WE OneHome إنترنت منزلي 150 جيجابايت",
     "price": 300,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22WE%20OneHome%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%85%D9%86%D8%B2%D9%84%D9%8A%20150%20%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-we-200",
     "name": "WE OneHome إنترنت منزلي 200 جيجابايت",
     "price": 370,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22WE%20OneHome%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%85%D9%86%D8%B2%D9%84%D9%8A%20200%20%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-we-250",
     "name": "WE OneHome إنترنت منزلي 250 جيجابايت",
     "price": 435,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22WE%20OneHome%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%85%D9%86%D8%B2%D9%84%D9%8A%20250%20%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-we-300",
     "name": "WE OneHome إنترنت منزلي 300 جيجابايت",
     "price": 500,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22WE%20OneHome%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%85%D9%86%D8%B2%D9%84%D9%8A%20300%20%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-voda-40",
     "name": "Vodafone Home Wireless 40 جيجابايت",
     "price": 290,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22Vodafone%20Home%20Wireless%2040%20%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-voda-135",
     "name": "Vodafone Home Wireless 135 جيجابايت",
     "price": 520,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22Vodafone%20Home%20Wireless%20135%20%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-voda-250",
     "name": "Vodafone Home Wireless 250 جيجابايت",
     "price": 830,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22Vodafone%20Home%20Wireless%20250%20%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-voda-400",
     "name": "Vodafone Home Wireless 400 جيجابايت",
     "price": 1270,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22Vodafone%20Home%20Wireless%20400%20%D8%AC%D9%8A%D8%AC%D8%A7%D8%A8%D8%A7%D9%8A%D8%AA%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-orange-go-150",
     "name": "Orange GO 150 – إنترنت للخطوط",
     "price": 150,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22Orange%20GO%20150%20%E2%80%93%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-orange-go-265",
     "name": "Orange GO 265 – إنترنت للخطوط",
     "price": 265,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22Orange%20GO%20265%20%E2%80%93%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-orange-go-530",
     "name": "Orange GO 530 – إنترنت للخطوط",
     "price": 530,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22Orange%20GO%20530%20%E2%80%93%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7%22%20Egypt%20price",
+    "sourceType": "search"
   },
   {
     "slug": "tel-orange-go-900",
     "name": "Orange GO 900 – إنترنت للخطوط",
     "price": 900,
     "date": "2026-11-02",
-    "category": "خدمات الاتصالات (12)"
+    "category": "خدمات الاتصالات (12)",
+    "sourceUrl": "https://www.google.com/search?q=%22Orange%20GO%20900%20%E2%80%93%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7%22%20Egypt%20price",
+    "sourceType": "search"
   }
 ]
