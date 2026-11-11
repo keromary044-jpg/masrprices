@@ -105,13 +105,14 @@ jobs:
           assert 'url.pathname.endsWith(".json")' in sw, "Service worker does not refresh JSON data from the network"
           robots = (root / "robots.txt").read_text(encoding="utf-8")
           assert base + "sitemap.xml" in robots, "robots.txt does not point to the production sitemap"
-          assert "Disallow: /admin.html" in robots, "robots.txt does not exclude the admin page"
           for name in ["index.html", "about.html", "contact.html", "privacy.html", "terms.html", "products/index.html"]:
               html = (root / name).read_text(encoding="utf-8")
               match = re.search('rel="canonical" href="([^"]+)"', html)
               assert match and match.group(1).startswith(base), f"Missing or incorrect canonical URL: {name}"
           home = (root / "index.html").read_text(encoding="utf-8")
           contact = (root / "contact.html").read_text(encoding="utf-8")
+          admin = (root / "admin.html").read_text(encoding="utf-8")
+          assert '<meta name="robots" content="noindex,nofollow">' in admin, "Admin page must be noindex"
           assert 'src="/products-directory.js"' in product_index, "Product directory is missing its external search script"
           assert '"./products-directory.js"' in sw, "Service worker is missing the directory search script"
           assert 'src="/site-enhancements.js"' in home, "Home page is missing the CSP-compatible enhancement script"
