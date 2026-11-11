@@ -23983,9 +23983,8 @@
           "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
-          "retailerUrl": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb",
           "verificationMethod": "price_aggregator",
-          "note": "PriceTeq lists 7,799 EGP as in stock on 11 Nov; the direct Vodafone page could not be fetched successfully."
+          "note": "PriceTeq reports this offer; no direct Vodafone product URL was confirmed in this check."
         },
         {
           "merchant": "B.TECH Egypt",
