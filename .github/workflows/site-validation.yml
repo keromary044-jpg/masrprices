@@ -94,16 +94,24 @@ jobs:
           assert all(url.startswith(base) for url in urls), "Sitemap contains a URL outside the production origin"
           seo_products = json.loads((root / "seo-products.json").read_text(encoding="utf-8"))
           product_slugs = [item.get("slug") for item in seo_products]
+          catalog = json.loads((root / "products-data.json").read_text(encoding="utf-8"))
+          catalog_slugs = [item.get("slug") for item in catalog]
+          assert set(product_slugs) == set(catalog_slugs), "SEO product data and public catalogue are out of sync"
           assert all(product_slugs) and len(product_slugs) == len(set(product_slugs)), "SEO product slugs are missing or duplicated"
           sitemap_slugs = [url[len(base + "products/"):].strip("/") for url in urls if url.startswith(base + "products/") and url != base + "products/"]
           product_index = (root / "products/index.html").read_text(encoding="utf-8")
           index_slugs = re.findall(r'href="/products/([^"/]+)/"', product_index)
+          category_slugs = ["phones", "electronics", "home-appliances", "books", "cars", "groceries", "tools", "baby", "clothing", "furniture", "personal-care", "sports", "plants", "telecom"]
+          assert all(base + "category/" + slug + "/" in urls for slug in category_slugs), "A category landing page is missing from the sitemap"
+          assert all('href="/category/' + slug + '/"' in product_index for slug in category_slugs), "A category landing page is not linked from the product directory"
           assert set(product_slugs) == set(sitemap_slugs) == set(index_slugs), "Product index, SEO data and sitemap do not contain the same product slugs"
           sw = (root / "sw.js").read_text(encoding="utf-8")
           for required_asset in ['"./site-enhancements.js"', '"./assets/icon.svg"', '"./products/"']:
               assert required_asset in sw, f"Service worker precache is missing {required_asset}"
           assert 'url.pathname.endsWith(".json")' in sw, "Service worker does not refresh JSON data from the network"
           robots = (root / "robots.txt").read_text(encoding="utf-8")
+          pages_worker = (root / "_worker.js").read_text(encoding="utf-8")
+          assert "masrprices-new.keromary044.workers.dev" in pages_worker and "X-Frame-Options" in pages_worker, "Pages API proxy or security headers are missing"
           assert base + "sitemap.xml" in robots, "robots.txt does not point to the production sitemap"
           for name in ["index.html", "about.html", "contact.html", "privacy.html", "terms.html", "products/index.html"]:
               html = (root / name).read_text(encoding="utf-8")
