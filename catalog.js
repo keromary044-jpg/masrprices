@@ -1,7 +1,7 @@
 "use strict";
 (() => {
  const q=document.getElementById("q"),category=document.getElementById("category"),search=document.getElementById("search"),results=document.getElementById("results"),count=document.getElementById("count"),prev=document.getElementById("prev"),next=document.getElementById("next");
- const limit=40;let offset=0,total=0;
+ const limit=24;let offset=0,total=0;
  const el=(tag,cls,txt)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(txt!==undefined)n.textContent=txt;return n;};
  function render(data){
   total=Number(data.total||0);count.textContent="إجمالي المنتجات المطابقة: "+total.toLocaleString("en-US")+" · المعروض: "+(data.products||[]).length.toLocaleString("en-US");
