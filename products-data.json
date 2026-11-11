@@ -644,7 +644,8 @@
     "price": 67.5,
     "date": "2026-11-11",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/en/Books"
+    "sourceUrl": "https://store.ahram.org.eg/en/Books",
+    "sourceType": "category"
   },
   {
     "slug": "ahram-may",
@@ -1363,7 +1364,8 @@
     "price": 67.5,
     "date": "2026-11-11",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/en/Books"
+    "sourceUrl": "https://store.ahram.org.eg/en/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-memoirs-magda",
@@ -1380,7 +1382,8 @@
     "price": 157.5,
     "date": "2026-11-11",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/en/Books"
+    "sourceUrl": "https://store.ahram.org.eg/en/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-psychology",
@@ -1406,7 +1409,8 @@
     "price": 175.5,
     "date": "2026-11-11",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/en/Books"
+    "sourceUrl": "https://store.ahram.org.eg/en/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-humanity",
@@ -1585,7 +1589,8 @@
     "price": 24.99,
     "date": "2026-11-11",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701200"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701200",
+    "sourceType": "category"
   },
   {
     "slug": "grocery-pasta-maleka",
@@ -1593,7 +1598,8 @@
     "price": 16.99,
     "date": "2026-11-11",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701220"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701220",
+    "sourceType": "category"
   },
   {
     "slug": "grocery-vermicelli",
@@ -1601,7 +1607,8 @@
     "price": 10.99,
     "date": "2026-11-11",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000",
+    "sourceType": "category"
   },
   {
     "slug": "grocery-rice-elsaa",
@@ -1609,7 +1616,8 @@
     "price": 47.99,
     "date": "2026-11-11",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701200"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701200",
+    "sourceType": "category"
   },
   {
     "slug": "grocery-wafeer-dishgel",
@@ -1626,7 +1634,8 @@
     "price": 6.38,
     "date": "2026-11-11",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://index.el-basket.com/"
+    "sourceUrl": "https://index.el-basket.com/",
+    "sourceType": "index"
   },
   {
     "slug": "grocery-salt-index",
@@ -1634,7 +1643,8 @@
     "price": 6.15,
     "date": "2026-11-11",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://index.el-basket.com/"
+    "sourceUrl": "https://index.el-basket.com/",
+    "sourceType": "index"
   },
   {
     "slug": "grocery-vermicelli-index",
@@ -1642,7 +1652,8 @@
     "price": 10.63,
     "date": "2026-11-11",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://index.el-basket.com/"
+    "sourceUrl": "https://index.el-basket.com/",
+    "sourceType": "index"
   },
   {
     "slug": "grocery-tomato-paste-index",
@@ -1650,7 +1661,8 @@
     "price": 26.63,
     "date": "2026-11-11",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://index.el-basket.com/"
+    "sourceUrl": "https://index.el-basket.com/",
+    "sourceType": "index"
   },
   {
     "slug": "tool-tape3",
@@ -1658,7 +1670,8 @@
     "price": 35,
     "date": "2026-11-11",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://elghazawy.com/en/product/38074270252659/page/page/about-us"
+    "sourceUrl": "https://elghazawy.com/en/product/38074270252659/page/page/about-us",
+    "sourceType": "product"
   },
   {
     "slug": "tool-wrench",
@@ -1855,7 +1868,8 @@
     "price": 454.99,
     "date": "2026-11-11",
     "category": "مستلزمات الأطفال (3)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/AR/c/FEGY1020503"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/AR/c/FEGY1020503",
+    "sourceType": "category"
   },
   {
     "slug": "baby-products-molfix-3d-midi-size-3-80pcs",
@@ -1863,7 +1877,8 @@
     "price": 429.99,
     "date": "2026-11-11",
     "category": "مستلزمات الأطفال (3)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/baby-diapers/molfix-3d-midi-mega-pack-80-d/p/501162"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/baby-diapers/molfix-3d-midi-mega-pack-80-d/p/501162",
+    "sourceType": "product"
   },
   {
     "slug": "clothing-women-vneck",
@@ -1871,7 +1886,8 @@
     "price": 189.99,
     "date": "2026-11-11",
     "category": "الملابس (9)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/ladies-t-shirts/lc-s26-women-t-shirt-v-neck-black-l/p/672809"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/ladies-t-shirts/lc-s26-women-t-shirt-v-neck-black-l/p/672809",
+    "sourceType": "product"
   },
   {
     "slug": "clothing-women-top",
@@ -2068,7 +2084,8 @@
     "price": 15.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/secented-soap/lux-bar-soft-touch-75g/p/615221"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/secented-soap/lux-bar-soft-touch-75g/p/615221",
+    "sourceType": "product"
   },
   {
     "slug": "pc-soap-dettol",
@@ -2076,7 +2093,8 @@
     "price": 34.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "sourceType": "category"
   },
   {
     "slug": "pc-toothpaste-signal",
@@ -2084,7 +2102,8 @@
     "price": 52.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/root-maf-category/nonfood-navigation-category/beauty-personal-care/dental-care/toothpaste/tooth-paste-daily-use/signal-tooth-paste-calcium120m/p/372007"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/root-maf-category/nonfood-navigation-category/beauty-personal-care/dental-care/toothpaste/tooth-paste-daily-use/signal-tooth-paste-calcium120m/p/372007",
+    "sourceType": "product"
   },
   {
     "slug": "pc-toothbrush",
@@ -2092,7 +2111,8 @@
     "price": 52.5,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/02101"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/02101",
+    "sourceType": "category"
   },
   {
     "slug": "pc-shampoo-sunsilk",
@@ -2100,7 +2120,8 @@
     "price": 109.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/shampoo-herbal/sunsilk-shamp-nat-coconut-350ml/p/500804"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/shampoo-herbal/sunsilk-shamp-nat-coconut-350ml/p/500804",
+    "sourceType": "product"
   },
   {
     "slug": "pc-shampoo-tresemme",
@@ -2108,7 +2129,8 @@
     "price": 184.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "sourceType": "category"
   },
   {
     "slug": "pc-deodorant-nivea",
@@ -2116,7 +2138,8 @@
     "price": 169.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/root-maf-category/nonfood-navigation-category/beauty-personal-care/men-s-grooming/body-skincare/men-deodorant-spray/nivea-spray-fresh-active-men-150m/p/23245"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/root-maf-category/nonfood-navigation-category/beauty-personal-care/men-s-grooming/body-skincare/men-deodorant-spray/nivea-spray-fresh-active-men-150m/p/23245",
+    "sourceType": "product"
   },
   {
     "slug": "pc-handwash-diva",
@@ -2133,7 +2156,8 @@
     "price": 119.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
+    "sourceType": "category"
   },
   {
     "slug": "pc-lotion-glysolid",
@@ -2141,7 +2165,8 @@
     "price": 124.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar//mafegy/ar/body-lotion-creams/glysolid-lotion-musk-200ml/p/489055"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar//mafegy/ar/body-lotion-creams/glysolid-lotion-musk-200ml/p/489055",
+    "sourceType": "product"
   },
   {
     "slug": "pc-handcream-caremore",
@@ -2149,7 +2174,8 @@
     "price": 57.5,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2020000"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2020000",
+    "sourceType": "category"
   },
   {
     "slug": "pc-showergel-lux",
@@ -2157,7 +2183,8 @@
     "price": 86.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/13531"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/13531",
+    "sourceType": "category"
   },
   {
     "slug": "pc-lifebuoy-soap",
@@ -2165,7 +2192,8 @@
     "price": 30.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/antibacterial-soap/lifebuoy-soap-bar-mild-cr-lmflx115g/p/628024"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/antibacterial-soap/lifebuoy-soap-bar-mild-cr-lmflx115g/p/628024",
+    "sourceType": "product"
   },
   {
     "slug": "pc-loreal-shampoo",
@@ -2173,7 +2201,8 @@
     "price": 191.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500",
+    "sourceType": "category"
   },
   {
     "slug": "pc-diva-handwash",
@@ -2190,7 +2219,8 @@
     "price": 46.5,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/regular-toothpaste/close-up-tth-paste-red-hot100m-poff/p/369883"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/regular-toothpaste/close-up-tth-paste-red-hot100m-poff/p/369883",
+    "sourceType": "product"
   },
   {
     "slug": "pc-nivea-deo",
@@ -2198,7 +2228,8 @@
     "price": 169.99,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/02006"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/02006",
+    "sourceType": "category"
   },
   {
     "slug": "pc-sunsilk",
@@ -2206,7 +2237,8 @@
     "price": 232.5,
     "date": "2026-11-11",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/shampoo/sunsilk-shamp-black-shine-1-l/p/508879"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/shampoo/sunsilk-shamp-black-shine-1-l/p/508879",
+    "sourceType": "product"
   },
   {
     "slug": "sport-ball-kids3",
