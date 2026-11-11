@@ -3,7 +3,8 @@ const esc = value => String(value ?? "").replace(/[&<>"']/g, ch => ({"&":"&amp;"
 export default {
  async fetch(request, env) {
   const url = new URL(request.url);
-  const match = url.pathname.match(/^\\/products\\/([^/]+)\\/?$/);
+  const pathParts = url.pathname.split("/").filter(Boolean);
+  const match = pathParts[0] === "products" && pathParts.length === 2 ? [url.pathname, pathParts[1]] : null;
   if (match) {
    if (request.method !== "GET" && request.method !== "HEAD") return new Response("Method Not Allowed",{status:405});
    const slug = decodeURIComponent(match[1]);
