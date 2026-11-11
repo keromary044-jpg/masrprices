@@ -14,7 +14,7 @@ export async function onRequestGet({request,env}){
   const [count,items,categories]=await Promise.all([
    env.DB.prepare("SELECT COUNT(*) AS total FROM products p WHERE "+where).bind(...filters).first(),
    env.DB.prepare("SELECT p.id,p.name,p.brand,p.category,p.variant,p.unit,COUNT(o.id) AS offers_count,MIN(CASE WHEN json_extract(ms.value,'$.verifiedAt') IS NOT NULL AND datetime(json_extract(ms.value,'$.verifiedAt'))>=datetime('now','-1 day') AND (o.product_url LIKE '%/product/%' OR o.product_url LIKE '%/products/%' OR o.product_url LIKE '%/item/%' OR o.product_url LIKE '%/items/%' OR o.product_url LIKE '%/dp/%') THEN o.price_egp END) AS best_price FROM products p LEFT JOIN offers o ON o.product_id=p.id AND o.status='verified' LEFT JOIN price_monitor_state ms ON ms.key=('offer:'||o.id) WHERE "+where+" GROUP BY p.id ORDER BY CASE WHEN best_price IS NULL THEN 1 ELSE 0 END, p.category COLLATE NOCASE, p.name COLLATE NOCASE LIMIT ? OFFSET ?").bind(...filters,limit,offset).all(),
-   env.DB.prepare("SELECT category,COUNT(*) AS count FROM products WHERE trim(category)<>'' GROUP BY category ORDER BY count DESC,category COLLATE NOCASE LIMIT 100").all()
+   env.DB.prepare("SELECT p.category,COUNT(*) AS count FROM products p WHERE trim(p.category)<>'' AND "+exclusionSql+" GROUP BY p.category ORDER BY count DESC,p.category COLLATE NOCASE LIMIT 100").bind(...excluded)
   ]);
   const products=(items.results||[]).map(p=>({...p,price_status:p.best_price!==null?"verified":"needs_check"}));
   return json(200,{total:Number(count?.total||0),limit,offset,query:q,category,products,categories:categories.results||[],message:"الأسعار التي لم يتم التحقق منها حديثًا من صفحة منتج مباشرة لا تظهر كسعر مؤكد."});
