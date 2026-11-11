@@ -24,6 +24,8 @@ export async function onRequestGet({ request, env }) {
   try {
     const product = await env.DB.prepare("SELECT id,name,brand,category,variant,unit,image_url FROM products WHERE id = ?").bind(productId).first();
     if (!product) return reply(404, { error: "المنتج غير مسجل في قاعدة المقارنة." });
+    const restricted=/weapon|firearm|gun|knife|sword|ammunition|alcohol|wine|beer|vape|tobacco|nicotine|drug|cannabis|gambling|casino|سلاح|سكين|سكاكين|سيف|ذخيرة|خمور|كحول|نبيذ|بيرة|فيب|سجائر|نيكوتين|مخدرات|قمار|مراهنات|صاعق|بخاخ فلفل/i;
+    if(restricted.test([product.name,product.brand,product.category].join(" "))) return reply(404,{error:"هذا المنتج غير متاح للمقارنة العامة."});
     const { results = [] } = await env.DB.prepare("SELECT o.store_name,o.price_egp,o.product_url,o.source_name,o.variant,o.region,o.checked_at,o.status,ms.value AS monitor_state FROM offers o LEFT JOIN price_monitor_state ms ON ms.key=('offer:'||o.id) WHERE o.product_id = ? AND o.status = 'verified' ORDER BY o.price_egp ASC,o.checked_at DESC").bind(productId).all();
     const offers = results.map((offer) => {
       const quality=sourceQuality(offer.product_url);
