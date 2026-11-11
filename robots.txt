@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://masrprices.pages.dev/sitemap.xml
+
+# MasrPrices public sitemap
