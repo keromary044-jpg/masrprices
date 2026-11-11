@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>كتالوج المنتجات الكامل في مصر | MasrPrices</title>
+<meta name="description" content="ابحث في قاعدة منتجات MasrPrices الكاملة، واكتشف المنتجات حسب القسم. نعرض السعر فقط عندما يتوفر تحقق حديث من صفحة المنتج مباشرة.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://masrprices.pages.dev/catalog/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="كتالوج المنتجات الكامل | MasrPrices">
+<meta property="og:description" content="ابحث في قاعدة المنتجات المصرية حسب الاسم والقسم، مع توضيح حالة التحقق من الأسعار.">
+<meta property="og:url" content="https://masrprices.pages.dev/catalog/">
+<link rel="icon" href="/assets/icon.svg" type="image/svg+xml">
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f4f7fb;color:#172b45;font-family:Arial,Tahoma,sans-serif;line-height:1.75}header{background:#102b50;color:#fff;padding:15px 18px}header a{color:#fff;text-decoration:none;font-weight:700}.wrap{max-width:1050px;margin:24px auto;padding:0 14px}.panel{background:#fff;border:1px solid #dce5ef;border-radius:15px;padding:18px;margin-bottom:16px}h1{font-size:clamp(24px,5vw,34px);margin:0 0 8px}h2{font-size:20px;margin:0 0 12px}.muted{color:#5f6f84;font-size:14px}.filters{display:grid;grid-template-columns:minmax(0,1fr) minmax(190px,280px) auto;gap:10px}input,select,button{font:inherit;border:1px solid #cbd6e2;border-radius:10px;padding:11px;background:#fff;color:#172b45;min-width:0}button{background:#145da0;color:#fff;border:0;font-weight:700;cursor:pointer}.stats{font-weight:700;color:#145da0}.results{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}.product{border:1px solid #e1e8f0;border-radius:12px;padding:13px;min-width:0}.product h3{font-size:16px;margin:0 0 6px}.product p{margin:4px 0}.price{font-size:18px;font-weight:800;color:#087443}.pending{color:#8a5a00;font-weight:700}.tag{display:inline-block;background:#edf3f9;border-radius:20px;padding:2px 9px;font-size:12px;color:#435a73}.pager{display:flex;gap:10px;justify-content:center;margin-top:16px}.pager button:disabled{opacity:.4;cursor:not-allowed}.empty{padding:24px;text-align:center;color:#5f6f84}.error{color:#a11d2b}.crumb{font-size:13px;color:#5f6f84;margin-bottom:10px}.crumb a{color:#145da0}@media(max-width:650px){.filters{grid-template-columns:1fr}.filters button{width:100%}}
+</style>
+</head>
+<body>
+<header><a href="/">MasrPrices | أسعار مصر</a></header>
+<main class="wrap">
+<nav class="crumb"><a href="/">الرئيسية</a> ← <a href="/products/">دليل المنتجات</a> ← الكتالوج الكامل</nav>
+<section class="panel">
+<h1>كتالوج المنتجات الكامل</h1>
+<p>ابحث في قاعدة منتجات MasrPrices حسب الاسم أو العلامة التجارية أو القسم. لن نعرض سعرًا على أنه مؤكد إلا إذا تم التحقق منه حديثًا من صفحة منتج مباشرة.</p>
+<p id="count" class="stats" aria-live="polite">جارٍ تحميل عدد المنتجات…</p>
+<div class="filters">
+<input id="q" type="search" placeholder="ابحث عن منتج أو علامة تجارية…" aria-label="البحث في المنتجات">
+<select id="category" aria-label="اختر القسم"><option value="">كل الأقسام</option></select>
+<button id="search" type="button">بحث</button>
+</div>
+</section>
+<section class="panel">
+<h2>المنتجات</h2>
+<div id="results" class="results" aria-live="polite"><p class="empty">جارٍ تحميل المنتجات…</p></div>
+<div class="pager"><button id="prev" type="button" disabled>السابق</button><button id="next" type="button" disabled>التالي</button></div>
+<p class="muted">الأسعار غير المتحقق منها حديثًا لا تظهر كسعر مؤكد. راجع المصدر وتأكد من التوفر قبل الشراء.</p>
+</section>
+<p><a href="/products/">العودة إلى دليل المنتجات المختارة</a></p>
+</main>
+<script src="/catalog.js" defer></script>
+</body>
+</html>
