@@ -5,6 +5,13 @@ on:
     branches: [main]
     paths:
       - "index.html"
+      - "_worker.js"
+      - "_redirects"
+      - "styles.css"
+      - "products-data.json"
+      - "products-directory.js"
+      - "admin.html"
+      - "admin.js"
       - "about.html"
       - "contact.html"
       - "privacy.html"
@@ -23,6 +30,13 @@ on:
   pull_request:
     paths:
       - "index.html"
+      - "_worker.js"
+      - "_redirects"
+      - "styles.css"
+      - "products-data.json"
+      - "products-directory.js"
+      - "admin.html"
+      - "admin.js"
       - "about.html"
       - "contact.html"
       - "privacy.html"
@@ -54,6 +68,8 @@ jobs:
           node --check app.js
           node --check admin.js
           node --check site-enhancements.js
+          node --check products-directory.js
+          node --input-type=module --check < _worker.js
           node --check sw.js
           node --input-type=module --check < worker.js
           node --input-type=module --check < price-updater/index.js
@@ -72,6 +88,7 @@ jobs:
           sitemap = ET.parse(root / "sitemap.xml").getroot()
           ns = {"sm": "http://www.sitemaps.org/schemas/sitemap/0.9"}
           urls = [node.text for node in sitemap.findall("sm:url/sm:loc", ns)]
+          assert len(urls) == len(set(urls)), "Sitemap contains duplicate URLs"
           assert urls, "Sitemap contains no URLs"
           base = "https://masrprices.pages.dev/"
           assert all(url.startswith(base) for url in urls), "Sitemap contains a URL outside the production origin"
@@ -88,12 +105,15 @@ jobs:
           assert 'url.pathname.endsWith(".json")' in sw, "Service worker does not refresh JSON data from the network"
           robots = (root / "robots.txt").read_text(encoding="utf-8")
           assert base + "sitemap.xml" in robots, "robots.txt does not point to the production sitemap"
+          assert "Disallow: /admin.html" in robots, "robots.txt does not exclude the admin page"
           for name in ["index.html", "about.html", "contact.html", "privacy.html", "terms.html", "products/index.html"]:
               html = (root / name).read_text(encoding="utf-8")
               match = re.search('rel="canonical" href="([^"]+)"', html)
               assert match and match.group(1).startswith(base), f"Missing or incorrect canonical URL: {name}"
           home = (root / "index.html").read_text(encoding="utf-8")
           contact = (root / "contact.html").read_text(encoding="utf-8")
+          assert 'src="/products-directory.js"' in product_index, "Product directory is missing its external search script"
+          assert '"./products-directory.js"' in sw, "Service worker is missing the directory search script"
           assert 'src="/site-enhancements.js"' in home, "Home page is missing the CSP-compatible enhancement script"
           assert 'src="/site-enhancements.js"' in contact, "Contact page is missing the CSP-compatible enhancement script"
           assert "<script>" not in home.lower(), "Inline script remains on the home page and conflicts with the CSP"
