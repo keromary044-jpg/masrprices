@@ -1075,9 +1075,10 @@
   {
     "slug": "book-ta-haussein",
     "name": "دعاء الكروان – الأعمال الكاملة لطه حسين",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "الكتب (90)"
+    "price": 157.5,
+    "date": "2026-11-11",
+    "category": "الكتب (90)",
+    "sourceUrl": "https://store.ahram.org.eg/en/Books"
   },
   {
     "slug": "book-psychology",
@@ -1245,9 +1246,10 @@
   {
     "slug": "grocery-pasta-maleka",
     "name": "مكرونة خواتم الملكة 400 جم",
-    "price": null,
-    "date": "2026-11-02",
-    "category": "الطعام والبقالة (9)"
+    "price": 16.99,
+    "date": "2026-11-11",
+    "category": "الطعام والبقالة (9)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701220"
   },
   {
     "slug": "grocery-vermicelli",
