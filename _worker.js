@@ -70,9 +70,12 @@ export default {
    if (!p) return new Response("<!doctype html><html lang='ar' dir='rtl'><meta charset='utf-8'><title>المنتج غير موجود | MasrPrices</title><h1>المنتج غير موجود</h1><a href='/products/'>دليل المنتجات</a></html>",{status:404,headers:{"Content-Type":"text/html; charset=utf-8"}});
    const title = "سعر " + p.name + " في مصر | MasrPrices";
    const price = p.price === null ? "لا يوجد سعر مسجل حاليًا" : Number(p.price).toLocaleString("en-US") + " جنيه مصري";
-   const description = "سعر " + p.name + " في مصر: " + price + (p.date ? "، آخر رصد " + p.date : "") + ". بيانات استرشادية من MasrPrices وقد تتغير لدى البائع.";
+   const priceAge = Math.floor((Date.now() - new Date(String(p.date || "").slice(0,10) + "T00:00:00Z").getTime()) / 86400000);
+   const priceFreshness = Number.isFinite(priceAge) && priceAge <= 1 ? "تم رصده خلال آخر 24 ساعة" : Number.isFinite(priceAge) && priceAge <= 3 ? "تم رصده خلال آخر 3 أيام" : "يحتاج إلى إعادة تحقق من المصدر";
+   const hasVerifiedOffer = p.sourceType === "product" && Number.isFinite(priceAge) && priceAge <= 3 && Number.isFinite(Number(p.price)) && Number(p.price) > 0;
+   const description = "سعر " + p.name + " في مصر: " + price + (p.date ? "، آخر رصد " + p.date : "") + ". " + priceFreshness + ". بيانات استرشادية من MasrPrices وقد تتغير لدى البائع."; 
    const canonical = SITE + "/products/" + p.slug + "/";
-   const schema = {"@context":"https://schema.org","@type":"Product","name":p.name,"description":description,"category":p.category,"url":canonical,...(Number.isFinite(Number(p.price)) && Number(p.price)>0 ? {"offers":{"@type":"Offer","price":String(p.price),"priceCurrency":"EGP","url":canonical}} : {})};
+   const schema = {"@context":"https://schema.org","@type":"Product","name":p.name,"description":description,"category":p.category,"url":canonical,...(hasVerifiedOffer ? {"offers":{"@type":"Offer","price":String(p.price),"priceCurrency":"EGP","url":p.sourceUrl}} : {})};
    const sameCategory = products.filter(item => item.category === p.category && item.slug !== p.slug && Number.isFinite(Number(item.price)) && Number(item.price) > 0).sort((a,b)=>Number(a.price)-Number(b.price));
    const comparable = sameCategory.slice(0,6);
    const prices = sameCategory.map(item=>Number(item.price));
