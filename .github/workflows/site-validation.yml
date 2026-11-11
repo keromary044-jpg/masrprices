@@ -17,6 +17,8 @@ on:
       - "privacy.html"
       - "terms.html"
       - "products/**"
+      - "catalog/**"
+      - "catalog.js"
       - "site-enhancements.js"
       - "app.js"
       - "worker.js"
