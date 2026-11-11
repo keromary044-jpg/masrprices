@@ -119,7 +119,7 @@ jobs:
           assert all('href="/category/' + slug + '/"' in product_index for slug in category_slugs), "A category landing page is not linked from the product directory"
           assert set(product_slugs) == set(sitemap_slugs) == set(index_slugs), "Product index, SEO data and sitemap do not contain the same product slugs"
           sw = (root / "sw.js").read_text(encoding="utf-8")
-          for required_asset in ['"./site-enhancements.js"', '"./assets/icon.svg"', '"./products/"']:
+          for required_asset in ['"./site-enhancements.js"', '"./assets/icon.svg"', '"./products/"', '"./catalog/"', '"./catalog.js"']:
               assert required_asset in sw, f"Service worker precache is missing {required_asset}"
           assert 'url.pathname.endsWith(".json")' in sw, "Service worker does not refresh JSON data from the network"
           robots = (root / "robots.txt").read_text(encoding="utf-8")
