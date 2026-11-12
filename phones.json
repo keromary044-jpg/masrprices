@@ -22395,10 +22395,9 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-10T19:24:48+02:00",
+          "reviewedAt": "2026-11-12T19:05:41+02:00",
           "note": "الصفحة المباشرة تعرض 26,900 جنيه، In Stock، وAdd to cart، وضمانًا محليًا لمدة سنة."
         }
       ],
@@ -22409,7 +22408,7 @@
       "priceProvider": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-10T19:24:48+02:00",
+      "priceReviewedAt": "2026-11-12T19:05:41+02:00",
       "price": 26900
     },
     {
@@ -23361,10 +23360,9 @@
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-12gb-256gb-egypt/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-10T19:24:48+02:00",
+          "reviewedAt": "2026-11-12T19:05:41+02:00",
           "note": "الصفحة المباشرة تعرض 30,800 جنيه، وتطابق 12GB RAM و256GB، مع In Stock وAdd to cart وضمان محلي لمدة سنة."
         },
         {
@@ -23403,7 +23401,7 @@
       "priceProvider": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-10T19:24:48+02:00",
+      "priceReviewedAt": "2026-11-12T19:05:41+02:00",
       "price": 30800
     },
     {
