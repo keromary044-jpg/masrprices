@@ -20,25 +20,25 @@
       "build": "راجع صفحة المواصفات الرسمية",
       "source": "https://priceteq.com/eg/product/6c7e60eb-3dc7-42bc-b861-812a75226a85",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 49999,
+      "priceEGP": 54999,
       "priceSource": "Ennap Egypt – صفحة المنتج المباشرة (سعر متجر)",
-      "priceCheckedAt": "2026-11-11",
-      "priceStatus": "صفحة Ennap المباشرة تعرض 49,999 جنيه لنسخة 12GB RAM / 256GB / 5G، مع ظهور خيار Add to cart. هذا سعر متجر وليس سعرًا رسميًا؛ رسوم تسجيل NTRA غير مشمولة، والضمان المعروض 100 يوم دولي.",
+      "priceCheckedAt": "2026-11-12",
+      "priceStatus": "تم التحقق مباشرة في 12 نوفمبر 2026: 54,999 جنيه لنسخة 12GB RAM / 256GB / 5G، مع ظهور Add to cart. رسوم تسجيل NTRA غير مشمولة، والضمان المعروض 100 يوم دولي. سعر متجر وليس سعرًا رسميًا.",
       "priceOffers": [
         {
           "merchant": "Ennap Egypt",
-          "priceEGP": 49999,
+          "priceEGP": 54999,
           "variant": "12GB RAM / 256GB / 5G",
-          "source": "https://priceteq.com/eg/product/1e2c4893-e9c8-4b5e-9f66-84f3a22efc1a",
-          "sourceLabel": "PriceTeq – Ennap Egypt؛ السعر والنسخة راجعا من صفحة Ennap المباشرة",
-          "checkedAt": "2026-11-11",
-          "observedAt": "2026-11-11",
+          "source": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
+          "sourceLabel": "Ennap Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-12",
+          "observedAt": "2026-11-12",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
           "verificationMethod": "retailer_page",
-          "note": "تم فتح صفحة Ennap مباشرة في 11 نوفمبر 2026؛ السعر 49,999 جنيه، والنسخة المحددة 12GB + 256GB، وزر Add to cart ظاهر. رسوم NTRA غير مشمولة؛ الضمان المعروض 100 يوم دولي."
+          "note": "الصفحة تعرض 54,999 جنيهًا للنسخة 12GB+256GB وزر Add to cart. رسوم NTRA غير مشمولة؛ الضمان المعروض 100 يوم دولي."
         },
         {
           "merchant": "Carrefour Egypt",
@@ -48,11 +48,12 @@
           "sourceLabel": "PriceTeq – عرض Carrefour Egypt",
           "checkedAt": "2026-11-08",
           "observedAt": "2026-11-08",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
-          "retailerUrl": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-s26-ultra5g-12-256gb-black/p/678325"
+          "retailerUrl": "https://www.carrefouregypt.com/mafegy/en/smartphones/samsung-s26-ultra5g-12-256gb-black/p/678325",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "El Avocato Mobile Egypt",
@@ -62,7 +63,8 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "availability": "check_store",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "B.TECH Egypt",
@@ -72,7 +74,8 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "availability": "check_store",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "Vodafone Egypt",
@@ -82,7 +85,8 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "availability": "check_store",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "Sharaf DG Egypt",
@@ -92,7 +96,8 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "availability": "check_store",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "Technology Valley Egypt",
@@ -102,7 +107,8 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "availability": "check_store",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "Elghazawy Egypt",
@@ -112,7 +118,8 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "availability": "check_store",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "iMedia Stores Egypt",
@@ -122,7 +129,8 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "availability": "check_store",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "Etisal Stores Egypt",
@@ -132,17 +140,34 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "availability": "check_store",
+          "note": "عرض قديم من مقارنة أسعار؛ لم تتم إعادة تأكيده مباشرة اليوم."
+        },
+        {
+          "merchant": "Jumia Egypt",
+          "priceEGP": 71799,
+          "variant": "12GB RAM / 256GB / 5G – Black",
+          "source": "https://www.jumia.com.eg/ar/s26-ultra-12gb-256gb-black-5g-dual-sim-samsung-mpg3930791.html",
+          "sourceLabel": "Jumia Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-12",
+          "observedAt": "2026-11-12",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://www.jumia.com.eg/ar/s26-ultra-12gb-256gb-black-5g-dual-sim-samsung-mpg3930791.html",
+          "verificationMethod": "retailer_page",
+          "note": "صفحة جوميا المباشرة تعرض 71,799 جنيهًا، Few units left، وزر إضافة للسلة، وضمان سنة من الشركة؛ النسخة 12GB/256GB/5G."
         }
       ],
-      "priceObservedAt": "2026-11-11",
+      "priceObservedAt": "2026-11-12",
       "merchant": "Ennap Egypt",
-      "priceVerifiedAt": "2026-11-11T20:58:00+02:00",
-      "priceLastVerifiedAt": "2026-11-11T20:58:00+02:00",
+      "priceVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceLastVerifiedAt": "2026-11-12T19:05:41+02:00",
       "priceAvailability": "in_stock",
       "priceProvider": "Ennap Egypt",
       "priceSourceUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
-      "priceType": "store"
+      "priceType": "store",
+      "price": 54999
     },
     {
       "id": "samsung-galaxy-a56-5g",
@@ -22352,38 +22377,40 @@
       "category": "هواتف ذكية",
       "source": "https://priceteq.com/eg/product/ae14e7a2-3f9e-4610-98dd-9e4d2fb506bf",
       "sourceLabel": "El Avocato Mobile Egypt – قائمة الهواتف",
-      "priceEGP": 27300,
-      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-10",
-      "priceStatus": "سعر متجر مباشر لنسخة Galaxy A57 8GB/256GB/5G؛ الصفحة تعرض 27,300 جنيه وتؤكد وجود مخزون.",
+      "priceEGP": 26900,
+      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
+      "priceCheckedAt": "2026-11-12",
+      "priceStatus": "تم التحقق مباشرة في 12 نوفمبر 2026: Samsung Galaxy A57 5G نسخة 8GB/256GB بسعر 26,900 جنيه، مع In Stock وAdd to cart وOne-year local warranty. سعر متجر وليس سعرًا رسميًا.",
       "memory": "8GB RAM / 256GB / 5G",
       "merchant": "El Avocato Mobile Egypt",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 27300,
+          "priceEGP": 26900,
           "variant": "8GB RAM / 256GB / 5G",
           "source": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-10",
-          "observedAt": "2026-11-10",
+          "checkedAt": "2026-11-12",
+          "observedAt": "2026-11-12",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-10T19:24:48+02:00"
+          "reviewedAt": "2026-11-10T19:24:48+02:00",
+          "note": "الصفحة المباشرة تعرض 26,900 جنيه، In Stock، وAdd to cart، وضمانًا محليًا لمدة سنة."
         }
       ],
-      "priceObservedAt": "2026-11-10",
+      "priceObservedAt": "2026-11-12",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
-      "priceVerifiedAt": "2026-11-10T13:30:44+02:00",
-      "priceLastVerifiedAt": "2026-11-10T13:30:44+02:00",
+      "priceVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceLastVerifiedAt": "2026-11-12T19:05:41+02:00",
       "priceProvider": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-10T19:24:48+02:00"
+      "priceReviewedAt": "2026-11-10T19:24:48+02:00",
+      "price": 26900
     },
     {
       "id": "samsunggalaxys2612gb256gb",
@@ -23315,29 +23342,30 @@
       "brand": "Samsung",
       "category": "متوسط",
       "memory": "12GB RAM / 256GB / 5G",
-      "priceEGP": 31500,
-      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-11",
-      "priceObservedAt": "2026-11-11",
-      "priceStatus": "صفحة El Avocato تعرض Galaxy A57 5G بنسخة 12GB/256GB بسعر 31,500 جنيه وتذكر أنه متوفر بالمخزون. سعر متجر وليس سعرًا رسميًا.",
+      "priceEGP": 30800,
+      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
+      "priceCheckedAt": "2026-11-12",
+      "priceObservedAt": "2026-11-12",
+      "priceStatus": "تم التحقق مباشرة في 12 نوفمبر 2026: Samsung Galaxy A57 5G نسخة 12GB/256GB بسعر 30,800 جنيه، مع In Stock وAdd to cart وضمان محلي لمدة سنة. سعر متجر وليس سعرًا رسميًا.",
       "source": "https://priceteq.com/eg/product/657de371-2d83-4394-a564-4fbf2ffac86e",
       "sourceLabel": "El Avocato Mobile Egypt – قائمة الهواتف",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 31500,
+          "priceEGP": 30800,
           "variant": "12GB RAM / 256GB / 5G",
           "source": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-12gb-256gb-egypt/",
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-11",
-          "observedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
+          "observedAt": "2026-11-12",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-12gb-256gb-egypt/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-10T19:24:48+02:00"
+          "reviewedAt": "2026-11-10T19:24:48+02:00",
+          "note": "الصفحة المباشرة تعرض 30,800 جنيه، وتطابق 12GB RAM و256GB، مع In Stock وAdd to cart وضمان محلي لمدة سنة."
         },
         {
           "merchant": "B.TECH Egypt",
@@ -23347,10 +23375,11 @@
           "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
           "checkedAt": "2026-11-09",
           "observedAt": "2026-11-09",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "note": "عرض مقارنة قديم لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "Technology Valley Egypt",
@@ -23360,20 +23389,22 @@
           "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
           "checkedAt": "2026-11-09",
           "observedAt": "2026-11-09",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "note": "عرض مقارنة قديم لم تتم إعادة تأكيده مباشرة اليوم."
         }
       ],
       "merchant": "El Avocato Mobile Egypt",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-12gb-256gb-egypt/",
-      "priceVerifiedAt": "2026-11-11T13:32:39+02:00",
-      "priceLastVerifiedAt": "2026-11-11T13:32:39+02:00",
+      "priceVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceLastVerifiedAt": "2026-11-12T19:05:41+02:00",
       "priceProvider": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-10T19:24:48+02:00"
+      "priceReviewedAt": "2026-11-10T19:24:48+02:00",
+      "price": 30800
     },
     {
       "id": "honor-x7e-6-256",
@@ -24770,24 +24801,25 @@
       "source": "https://priceteq.com/eg/product/a43282b9-e1de-4305-9dcd-706d20bdc53e",
       "sourceLabel": "Samsung Egypt – المواصفات الرسمية",
       "priceEGP": 23999,
-      "priceSource": "Etisal Stores Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-11",
-      "priceObservedAt": "2026-11-11",
-      "priceStatus": "تم التحقق مباشرة من Etisal: Samsung Galaxy A56 5G، ذاكرة 8GB وسعة 256GB بسعر 23,999 جنيه مع خيار Add to cart. سعر متجر وليس سعرًا رسميًا.",
+      "priceSource": "Etisal Stores Egypt – صفحة المنتج المباشرة (سعر متجر)",
+      "priceCheckedAt": "2026-11-12",
+      "priceObservedAt": "2026-11-12",
+      "priceStatus": "تم التحقق مباشرة في 12 نوفمبر 2026: Samsung Galaxy A56 5G نسخة 8GB/256GB بسعر 23,999 جنيه، والصفحة تعرض Add to cart وBuy now. سعر متجر وليس سعرًا رسميًا.",
       "priceOffers": [
         {
           "merchant": "Etisal Stores Egypt",
           "priceEGP": 23999,
-          "variant": "8GB RAM / 256GB / 5G",
-          "source": "https://priceteq.com/eg/product/e3c3f5ea-90bf-4cde-9aea-62e7c8dded92",
-          "sourceLabel": "PriceTeq – Etisal Stores Egypt؛ تحقق مباشر من Etisal",
-          "checkedAt": "2026-11-11",
-          "observedAt": "2026-11-11",
+          "variant": "8GB RAM / 256GB / 5G – Awesome Graphite",
+          "source": "https://etisalstore.com/en/samsung-galaxy-a56-5g-8gb-ram-256gb-awesome-graphite",
+          "sourceLabel": "Etisal Stores Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-12",
+          "observedAt": "2026-11-12",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://etisalstore.com/en/samsung-galaxy-a56-5g-8gb-ram-256gb-awesome-graphite",
-          "verificationMethod": "retailer_page"
+          "verificationMethod": "retailer_page",
+          "note": "صفحة Etisal المباشرة تعرض 23,999 جنيهًا، SKU 8806097490821، وزري Add to cart وBuy now."
         },
         {
           "merchant": "Etisal Stores Egypt",
@@ -24810,10 +24842,11 @@
           "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
           "checkedAt": "2026-11-09",
           "observedAt": "2026-11-08",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "note": "عرض مقارنة قديم لم تتم إعادة تأكيده مباشرة اليوم."
         },
         {
           "merchant": "Raneen Egypt",
@@ -24823,18 +24856,21 @@
           "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
           "checkedAt": "2026-11-09",
           "observedAt": "2026-11-08",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true
+          "taxIncluded": true,
+          "note": "عرض مقارنة قديم لم تتم إعادة تأكيده مباشرة اليوم."
         }
       ],
       "priceSourceUrl": "https://etisalstore.com/en/samsung-galaxy-a56-5g-8gb-ram-256gb-awesome-graphite",
       "priceProvider": "Etisal Stores Egypt",
       "merchant": "Etisal Stores Egypt",
-      "priceVerifiedAt": "2026-11-11T13:32:39+02:00",
-      "priceLastVerifiedAt": "2026-11-11T13:32:39+02:00",
-      "priceAvailability": "in_stock"
+      "priceVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceLastVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceAvailability": "in_stock",
+      "price": 23999,
+      "priceType": "store"
     },
     {
       "id": "samsung-galaxy-s25-ultra-12-512",
@@ -26674,11 +26710,11 @@
       "release": "2026",
       "memory": "8GB RAM / 256GB / 4G",
       "connectivity": "4G",
-      "priceEGP": 18999,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-06",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-06؛ تحقق من السعر والتوفر لدى المتجر.",
+      "priceEGP": 19999,
+      "priceSource": "Raya Shop Egypt – صفحة المنتج المباشرة (سعر متجر)",
+      "priceCheckedAt": "2026-11-12",
+      "priceObservedAt": "2026-11-12",
+      "priceStatus": "تم التحقق مباشرة في 12 نوفمبر 2026: vivo Y500 4G نسخة 8GB/256GB بسعر 19,999 جنيه، مع Add to Cart. الصفحة تعرض SKU Y500 8G-Blue 256. سعر متجر وليس سعرًا رسميًا.",
       "priceOffers": [
         {
           "merchant": "Raneen Egypt",
@@ -26687,7 +26723,9 @@
           "source": "https://priceteq.com/eg/product/86aa5988-82be-486a-aa67-76e143f05c0e",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-06",
+          "availability": "check_store",
+          "note": "عروض مقارنة مؤرخة 6–7 نوفمبر؛ لم تتم إعادة تأكيد توفرها مباشرة اليوم."
         },
         {
           "merchant": "Elghazawy Egypt",
@@ -26696,7 +26734,9 @@
           "source": "https://priceteq.com/eg/product/86aa5988-82be-486a-aa67-76e143f05c0e",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-06",
+          "availability": "check_store",
+          "note": "عروض مقارنة مؤرخة 6–7 نوفمبر؛ لم تتم إعادة تأكيد توفرها مباشرة اليوم."
         },
         {
           "merchant": "B.TECH Egypt",
@@ -26705,7 +26745,9 @@
           "source": "https://priceteq.com/eg/product/86aa5988-82be-486a-aa67-76e143f05c0e",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-06",
+          "availability": "check_store",
+          "note": "عروض مقارنة مؤرخة 6–7 نوفمبر؛ لم تتم إعادة تأكيد توفرها مباشرة اليوم."
         },
         {
           "merchant": "Carrefour Egypt",
@@ -26714,12 +26756,36 @@
           "source": "https://priceteq.com/eg/product/86aa5988-82be-486a-aa67-76e143f05c0e",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-06",
+          "availability": "check_store",
+          "note": "عروض مقارنة مؤرخة 6–7 نوفمبر؛ لم تتم إعادة تأكيد توفرها مباشرة اليوم."
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 19999,
+          "variant": "8GB RAM / 256GB / 4G – Midnight Blue",
+          "source": "https://www.rayashop.com/en/vivo-y500-dual-sim-256gb-8gb-ram-4g-lte-midnight-blue-8",
+          "sourceLabel": "Raya Shop Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-12",
+          "observedAt": "2026-11-12",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://www.rayashop.com/en/vivo-y500-dual-sim-256gb-8gb-ram-4g-lte-midnight-blue-8",
+          "verificationMethod": "retailer_page",
+          "note": "الصفحة المباشرة تعرض 19,999 جنيهًا، و8GB RAM و256GB و4G، وSKU Y500 8G-Blue 256، وزر Add to Cart."
         }
       ],
-      "merchant": "Raneen Egypt",
+      "merchant": "Raya Shop Egypt",
       "source": "https://priceteq.com/eg/product/86aa5988-82be-486a-aa67-76e143f05c0e",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
+      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "price": 19999,
+      "priceSourceUrl": "https://www.rayashop.com/en/vivo-y500-dual-sim-256gb-8gb-ram-4g-lte-midnight-blue-8",
+      "priceProvider": "Raya Shop Egypt",
+      "priceType": "store",
+      "priceVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceLastVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceAvailability": "in_stock"
     },
     {
       "id": "apple-iphone-16-plus-256",
@@ -30815,7 +30881,7 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية"
     }
   ],
-  "priceUpdateNote": "استكمال مراجعة الموديلات الستة عشر التي لم يكن لها سعر: أضيفت أسعار Symphony بعملة BDT كمرجع أجنبي منفصل دون تحويلها إلى جنيه مصري أو احتسابها ضمن التغطية المصرية؛ تم توثيق نفاد مخزون Reekoo Note 60 MAX رسميًا؛ وتأكيد أن موديلات Celphy القديمة لا تطابق عروض C500/C600 الحالية، وأن Xiaomi Mi 1 تاريخي. لا توجد أسعار مصرية موثوقة لهذه السجلات حتى الآن.\nمراجعة يدوية بتاريخ 8 نوفمبر 2026: تم تحديث عروض متاجر مباشرة موثقة مع مطابقة الموديل وسعة التخزين والذاكرة؛ أسعار المتاجر لا تُعرض كسعر رسمي للشركة. تم توثيق نفاد عرض Raneen الأساسي لنسخة Galaxy A37 8GB/256GB مع وجود عرضين آخرين غير متحققين، وسعر iPhone 15 لدى Elshennawy قبل الضريبة. لم يتم تشغيل أو إثبات أي تكامل تلقائي جديد.\nمراجعة يدوية 9 نوفمبر 2026: تم تحديث سجلات الأسعار التي تطابقت مع صفحات PriceTeq المصرية بحسب اسم الموديل وRAM وسعة التخزين والجيل؛ أُدرجت عروض المتاجر الجديدة فقط مع روابط صفحات المقارنة وتاريخ التحقق وحالة التوفر المعلنة. أسعار المتاجر ليست أسعارًا رسمية من الشركات. أسعار iPhone 15 128GB وiPhone 17 256GB ظلت موسومة كسعر معلن قبل الضريبة/ضريبة غير محسومة بسبب تعارض شارات صفحة المصدر. لم يُحدّث Galaxy S26 Ultra 12/256 بسبب تعارض بين صفحة المنتج ودليل الأسعار بتاريخ 9 نوفمبر، كما لم تُحدّث نسخ S25 التي لم يُسمِّ الدليل متجرها الأرخص.\nمراجعة يدوية بتاريخ 11 نوفمبر 2026: تم فحص 11 تكوينًا موجودًا بالفعل في كتالوج الهواتف عبر صفحات متاجر مصرية ومقارنة PriceTeq. تم تحديث أسعار A17 4/128 مع تمييز عرض Vodafone غير المتاح؛ Galaxy A07 6/128؛ Galaxy A08 6/128؛ OPPO A6 4/128 و6/128 (تعارض 14,799 في PriceTeq مقابل 14,999 في صفحة Elghazawy المباشرة، فاعتمدت الصفحة المباشرة ووسمت السعر الأقل غير محسوم)؛ Galaxy S26 FE 8/512؛ Infinix Smart 20 4/128 (8,949 مباشر لدى B.TECH مقابل 8,700 في PriceTeq، فوسمت الفرق غير محسوم)؛ iPhone 17 256GB (48,750 قبل الضريبة حسب صفحة Elshennawy، رغم أن PriceTeq يضع شارة شمول الضريبة)؛ vivo Y11D 4/128؛ OPPO A6x 4/128 و4/64. لم تُخمن أسعار، وتم إبقاء عروض نفاد المخزون أو التعارضات منفصلة عن السعر القابل للشراء. لم يتم تعديل phone-model-index.json أو أي ملف آخر. | مراجعة يدوية موثقة 2026-11-11: تحديث أسعار مباشرة لـ Samsung S26 Ultra 12/256 وA56 8/256 وA57 12/256 وOPPO A6 6/128؛ إضافة عروض مقارنة متعارضة/غير مؤكدة دون اعتمادها كسعر أساسي.\nمراجعة يدوية موثقة 2026-11-12: تم تحديث 4 نسخ مطابقة بعد فتح صفحات متاجر مصرية مباشرة: Samsung Galaxy A37 5G 8/128 لدى 2K Egypt، vivo Y11d 6/128 لدى 2B Egypt، vivo Y500 8/256 لدى El Hashim Store، وvivo V70 12/256 لدى Cairocart. الأسعار عروض متاجر وليست أسعارًا رسمية. لم تُحدّث نسخة vivo V70 FE 8/256 لأن صفحة Jumia أعادت التوجيه إلى صفحة فئة، وصفحة 2B تعذر فتحها مباشرة؛ لذلك لم يُعتمد سعر غير متحقق.\nتصحيح قائمة العروض بتاريخ 2026-11-12: استُبدلت عروض 23 أكتوبر غير المعاد التحقق منها بالعروض المباشرة الحالية للنسخ الأربع أعلاه؛ لم تُترك الأسعار القديمة ضمن العروض النشطة حتى لا تُعرض كأرخص سعر حالي رغم انتهاء صلاحية التحقق.\nمراجعة توافق نسخة Galaxy A37 8/128 بتاريخ 2026-11-12: تمت إضافة ملاحظة تعارض بين صفحة 2K Egypt وصفحة Samsung Egypt؛ السعر 24,450 جنيه محفوظ كعرض متجر بحالة check_store وليس كسعر رسمي أو نسخة مصرية مؤكدة. يوجد سجلان في الكتالوج للنسخة نفسها (samsunggalaxya375g8gb128gb وsamsung-galaxy-a37-8-128) وتمت مزامنتهما مع العرض نفسه دون تغيير بنية الكتالوج.",
+  "priceUpdateNote": "استكمال مراجعة الموديلات الستة عشر التي لم يكن لها سعر: أضيفت أسعار Symphony بعملة BDT كمرجع أجنبي منفصل دون تحويلها إلى جنيه مصري أو احتسابها ضمن التغطية المصرية؛ تم توثيق نفاد مخزون Reekoo Note 60 MAX رسميًا؛ وتأكيد أن موديلات Celphy القديمة لا تطابق عروض C500/C600 الحالية، وأن Xiaomi Mi 1 تاريخي. لا توجد أسعار مصرية موثوقة لهذه السجلات حتى الآن.\nمراجعة يدوية بتاريخ 8 نوفمبر 2026: تم تحديث عروض متاجر مباشرة موثقة مع مطابقة الموديل وسعة التخزين والذاكرة؛ أسعار المتاجر لا تُعرض كسعر رسمي للشركة. تم توثيق نفاد عرض Raneen الأساسي لنسخة Galaxy A37 8GB/256GB مع وجود عرضين آخرين غير متحققين، وسعر iPhone 15 لدى Elshennawy قبل الضريبة. لم يتم تشغيل أو إثبات أي تكامل تلقائي جديد.\nمراجعة يدوية 9 نوفمبر 2026: تم تحديث سجلات الأسعار التي تطابقت مع صفحات PriceTeq المصرية بحسب اسم الموديل وRAM وسعة التخزين والجيل؛ أُدرجت عروض المتاجر الجديدة فقط مع روابط صفحات المقارنة وتاريخ التحقق وحالة التوفر المعلنة. أسعار المتاجر ليست أسعارًا رسمية من الشركات. أسعار iPhone 15 128GB وiPhone 17 256GB ظلت موسومة كسعر معلن قبل الضريبة/ضريبة غير محسومة بسبب تعارض شارات صفحة المصدر. لم يُحدّث Galaxy S26 Ultra 12/256 بسبب تعارض بين صفحة المنتج ودليل الأسعار بتاريخ 9 نوفمبر، كما لم تُحدّث نسخ S25 التي لم يُسمِّ الدليل متجرها الأرخص.\nمراجعة يدوية بتاريخ 11 نوفمبر 2026: تم فحص 11 تكوينًا موجودًا بالفعل في كتالوج الهواتف عبر صفحات متاجر مصرية ومقارنة PriceTeq. تم تحديث أسعار A17 4/128 مع تمييز عرض Vodafone غير المتاح؛ Galaxy A07 6/128؛ Galaxy A08 6/128؛ OPPO A6 4/128 و6/128 (تعارض 14,799 في PriceTeq مقابل 14,999 في صفحة Elghazawy المباشرة، فاعتمدت الصفحة المباشرة ووسمت السعر الأقل غير محسوم)؛ Galaxy S26 FE 8/512؛ Infinix Smart 20 4/128 (8,949 مباشر لدى B.TECH مقابل 8,700 في PriceTeq، فوسمت الفرق غير محسوم)؛ iPhone 17 256GB (48,750 قبل الضريبة حسب صفحة Elshennawy، رغم أن PriceTeq يضع شارة شمول الضريبة)؛ vivo Y11D 4/128؛ OPPO A6x 4/128 و4/64. لم تُخمن أسعار، وتم إبقاء عروض نفاد المخزون أو التعارضات منفصلة عن السعر القابل للشراء. لم يتم تعديل phone-model-index.json أو أي ملف آخر. | مراجعة يدوية موثقة 2026-11-11: تحديث أسعار مباشرة لـ Samsung S26 Ultra 12/256 وA56 8/256 وA57 12/256 وOPPO A6 6/128؛ إضافة عروض مقارنة متعارضة/غير مؤكدة دون اعتمادها كسعر أساسي.\nمراجعة يدوية موثقة 2026-11-12: تم تحديث 4 نسخ مطابقة بعد فتح صفحات متاجر مصرية مباشرة: Samsung Galaxy A37 5G 8/128 لدى 2K Egypt، vivo Y11d 6/128 لدى 2B Egypt، vivo Y500 8/256 لدى El Hashim Store، وvivo V70 12/256 لدى Cairocart. الأسعار عروض متاجر وليست أسعارًا رسمية. لم تُحدّث نسخة vivo V70 FE 8/256 لأن صفحة Jumia أعادت التوجيه إلى صفحة فئة، وصفحة 2B تعذر فتحها مباشرة؛ لذلك لم يُعتمد سعر غير متحقق.\nتصحيح قائمة العروض بتاريخ 2026-11-12: استُبدلت عروض 23 أكتوبر غير المعاد التحقق منها بالعروض المباشرة الحالية للنسخ الأربع أعلاه؛ لم تُترك الأسعار القديمة ضمن العروض النشطة حتى لا تُعرض كأرخص سعر حالي رغم انتهاء صلاحية التحقق.\nمراجعة توافق نسخة Galaxy A37 8/128 بتاريخ 2026-11-12: تمت إضافة ملاحظة تعارض بين صفحة 2K Egypt وصفحة Samsung Egypt؛ السعر 24,450 جنيه محفوظ كعرض متجر بحالة check_store وليس كسعر رسمي أو نسخة مصرية مؤكدة. يوجد سجلان في الكتالوج للنسخة نفسها (samsunggalaxya375g8gb128gb وsamsung-galaxy-a37-8-128) وتمت مزامنتهما مع العرض نفسه دون تغيير بنية الكتالوج.\nمراجعة يدوية موثقة 2026-11-12 الساعة 19:05:41 بتوقيت القاهرة: أعيد فتح صفحات المتاجر المباشرة وتم تحديث 5 تكوينات مطابقة: Samsung Galaxy S26 Ultra 12/256 لدى Ennap (54,999 جنيه) وإضافة عرض Jumia (71,799 جنيه)؛ Samsung Galaxy A56 8/256 لدى Etisal (23,999 جنيه)؛ Samsung Galaxy A57 8/256 لدى El Avocato (26,900 جنيه)؛ Samsung Galaxy A57 12/256 لدى El Avocato (30,800 جنيه)؛ vivo Y500 4G 8/256 لدى Raya Shop (19,999 جنيه). كل الأسعار أسعار متاجر وليست أسعارًا رسمية. العروض القديمة التي لم تُراجع مباشرة اليوم وُسِمت check_store بدل اعتبارها متاحة مؤكدة.",
   "lastAutomaticUpdate": "2026-11-09 19:17 Cairo",
   "lastManualPriceVerification": "2026-11-12T13:05:55+02:00"
 }
