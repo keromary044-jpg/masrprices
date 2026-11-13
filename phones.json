@@ -22,8 +22,8 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceEGP": 54999,
       "priceSource": "Ennap Egypt – صفحة المنتج المباشرة (سعر متجر)",
-      "priceCheckedAt": "2026-11-12",
-      "priceStatus": "تم التحقق مباشرة في 12 نوفمبر 2026: 54,999 جنيه لنسخة 12GB RAM / 256GB / 5G، مع ظهور Add to cart. رسوم تسجيل NTRA غير مشمولة، والضمان المعروض 100 يوم دولي. سعر متجر وليس سعرًا رسميًا.",
+      "priceCheckedAt": "2026-11-13",
+      "priceStatus": "تم التحقق مباشرة 2026-11-13 الساعة 20:57 بتوقيت مصر: Samsung Galaxy S26 Ultra 5G، النسخة 12GB RAM / 256GB / 5G بسعر 54,999 جنيه لدى Ennap Egypt. الصفحة تعرض 54,999 جنيهًا للنسخة 12GB+256GB مع Add to cart. رسوم تسجيل NTRA غير مشمولة والضمان دولي لمدة 100 يوم. السعر سعر متجر وليس سعرًا رسميًا من الشركة.",
       "priceOffers": [
         {
           "merchant": "Ennap Egypt",
@@ -31,14 +31,15 @@
           "variant": "12GB RAM / 256GB / 5G",
           "source": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
           "sourceLabel": "Ennap Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-12",
-          "observedAt": "2026-11-12",
+          "checkedAt": "2026-11-13",
+          "observedAt": "2026-11-13",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
           "verificationMethod": "retailer_page",
-          "note": "الصفحة تعرض 54,999 جنيهًا للنسخة 12GB+256GB وزر Add to cart. رسوم NTRA غير مشمولة؛ الضمان المعروض 100 يوم دولي."
+          "note": "الصفحة تعرض 54,999 جنيهًا للنسخة 12GB+256GB مع Add to cart. رسوم تسجيل NTRA غير مشمولة والضمان دولي لمدة 100 يوم.",
+          "reviewedAt": "2026-11-13T20:57:06+02:00"
         },
         {
           "merchant": "Carrefour Egypt",
@@ -159,15 +160,16 @@
           "note": "صفحة جوميا المباشرة تعرض 71,799 جنيهًا، Few units left، وزر إضافة للسلة، وضمان سنة من الشركة؛ النسخة 12GB/256GB/5G."
         }
       ],
-      "priceObservedAt": "2026-11-12",
+      "priceObservedAt": "2026-11-13",
       "merchant": "Ennap Egypt",
-      "priceVerifiedAt": "2026-11-12T19:05:41+02:00",
-      "priceLastVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
       "priceAvailability": "in_stock",
       "priceProvider": "Ennap Egypt",
       "priceSourceUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
       "priceType": "store",
-      "price": 54999
+      "price": 54999,
+      "priceReviewedAt": "2026-11-13T20:57:06+02:00"
     },
     {
       "id": "samsung-galaxy-a56-5g",
@@ -419,39 +421,40 @@
       "brand": "Samsung",
       "category": "اقتصادي ومتوسط",
       "release": "2026",
-      "priceEGP": 18200,
-      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-10",
-      "priceStatus": "سعر متجر مباشر لنفس نسخة 8GB/256GB/5G؛ الصفحة تعرض المنتج متاحًا بالمخزون بتاريخ 10 نوفمبر 2026. ليس سعرًا رسميًا من Samsung.",
+      "priceEGP": 17800,
+      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
+      "priceCheckedAt": "2026-11-13",
+      "priceStatus": "تم التحقق مباشرة 2026-11-13 الساعة 20:57 بتوقيت مصر: Samsung Galaxy A17 5G 256GB / 8GB RAM، النسخة 8GB RAM / 256GB / 5G بسعر 17,800 جنيه لدى El Avocato Mobile Egypt. الصفحة تعرض 17,800 جنيهًا، وتؤكد نسخة 8GB/256GB/5G وحالة In Stock وزر Add to cart وضمانًا محليًا لمدة 12 شهرًا. السعر سعر متجر وليس سعرًا رسميًا من الشركة.",
       "sourceLabel": "Samsung Egypt – المواصفات الرسمية",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 18200,
+          "priceEGP": 17800,
           "variant": "8GB RAM / 256GB / 5G",
           "source": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-10",
-          "observedAt": "2026-11-10",
+          "checkedAt": "2026-11-13",
+          "observedAt": "2026-11-13",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-10T19:24:48+02:00"
+          "reviewedAt": "2026-11-13T20:57:06+02:00",
+          "note": "الصفحة تعرض 17,800 جنيهًا، وتؤكد نسخة 8GB/256GB/5G وحالة In Stock وزر Add to cart وضمانًا محليًا لمدة 12 شهرًا."
         }
       ],
       "source": "https://priceteq.com/eg/product/5d66133b-d007-418c-a80e-013be76ff76a",
-      "priceObservedAt": "2026-11-10",
+      "priceObservedAt": "2026-11-13",
       "merchant": "El Avocato Mobile Egypt",
-      "priceVerifiedAt": "2026-11-10T13:30:44+02:00",
-      "priceLastVerifiedAt": "2026-11-10T13:30:44+02:00",
+      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
       "priceType": "store",
       "priceSourceUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
       "priceAvailability": "in_stock",
       "priceProvider": "El Avocato Mobile Egypt",
-      "priceReviewedAt": "2026-11-10T19:24:48+02:00"
+      "priceReviewedAt": "2026-11-13T20:57:06+02:00"
     },
     {
       "id": "honor-x5c-plus",
@@ -460,25 +463,27 @@
       "category": "اقتصادي ومتوسط",
       "release": "2026",
       "priceEGP": 8499,
-      "priceSource": "Elghazawy Egypt – صفحة المنتج المباشرة؛ مطابقة PriceTeq",
-      "priceCheckedAt": "2026-11-10",
-      "priceStatus": "السعر ظاهر على صفحة Elghazawy لنفس نسخة 4GB/128GB؛ PriceTeq يعرض العرض متاحًا اليوم. السعر سعر متجر وليس رسميًا.",
+      "priceSource": "Elghazawy Egypt – صفحة المنتج المباشرة (سعر متجر)",
+      "priceCheckedAt": "2026-11-13",
+      "priceStatus": "تم التحقق مباشرة 2026-11-13 الساعة 20:57 بتوقيت مصر: Honor X5c Plus 128GB / 4GB RAM، النسخة 4GB RAM / 128GB / 4G بسعر 8,499 جنيه لدى Elghazawy Egypt. الصفحة تعرض 8,499 جنيهًا ونسخة 4GB/128GB/4G وزر ADD TO CART؛ السعر يخص اللون Midnight Black. السعر سعر متجر وليس سعرًا رسميًا من الشركة.",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceOffers": [
         {
           "merchant": "Elghazawy Egypt",
           "priceEGP": 8499,
           "variant": "4GB RAM / 128GB / 4G",
-          "source": "https://elghazawy.com/en/product/38074270308527/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BOcean%2BCyan",
-          "sourceLabel": "Elghazawy Egypt – صفحة المنتج المباشرة؛ مطابقة PriceTeq",
-          "checkedAt": "2026-11-10",
-          "observedAt": "2026-11-10",
+          "source": "https://elghazawy.com/en/product/38074270298563/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BMidnight%2BBlack",
+          "sourceLabel": "Elghazawy Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-13",
+          "observedAt": "2026-11-13",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
-          "retailerUrl": "https://elghazawy.com/en/product/38074270308527/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BOcean%2BCyan",
-          "verificationMethod": "retailer_page"
+          "retailerUrl": "https://elghazawy.com/en/product/38074270298563/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BMidnight%2BBlack",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-13T20:57:06+02:00",
+          "note": "الصفحة تعرض 8,499 جنيهًا ونسخة 4GB/128GB/4G وزر ADD TO CART؛ السعر يخص اللون Midnight Black."
         },
         {
           "merchant": "Raneen Egypt",
@@ -521,15 +526,16 @@
         }
       ],
       "source": "https://priceteq.com/eg/product/1c3705fa-1e37-405e-a27c-3d5947b72315",
-      "priceObservedAt": "2026-11-10",
+      "priceObservedAt": "2026-11-13",
       "memory": "4GB RAM / 128GB",
       "merchant": "Elghazawy Egypt",
-      "priceVerifiedAt": "2026-11-10T13:30:44+02:00",
-      "priceLastVerifiedAt": "2026-11-10T13:30:44+02:00",
+      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceSourceUrl": "https://elghazawy.com/en/product/38074270308527/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BOcean%2BCyan",
-      "priceProvider": "Elghazawy Egypt"
+      "priceSourceUrl": "https://elghazawy.com/en/product/38074270298563/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BMidnight%2BBlack",
+      "priceProvider": "Elghazawy Egypt",
+      "priceReviewedAt": "2026-11-13T20:57:06+02:00"
     },
     {
       "id": "samsung-a07",
@@ -817,23 +823,26 @@
       "source": "https://priceteq.com/eg/product/057112d5-c764-465a-ad16-5a634f3a566d",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceEGP": 9499,
-      "priceSource": "PriceTeq – Elghazawy Egypt",
-      "priceCheckedAt": "2026-11-11",
-      "priceStatus": "نسخة OPPO A6x بذاكرة 4GB وسعة 64GB: أقل سعر متجر ظاهر بتاريخ 11 نوفمبر هو 9,499 جنيه لدى Elghazawy Egypt؛ عروض أخرى ظاهرة عند 9,779 جنيه ثم 9,999 جنيه. المصدر مجمّع أسعار ويجب تأكيد المخزون لدى المتجر.",
+      "priceSource": "Elghazawy Egypt – صفحة المنتج المباشرة (سعر متجر)",
+      "priceCheckedAt": "2026-11-13",
+      "priceStatus": "تم التحقق مباشرة 2026-11-13 الساعة 20:57 بتوقيت مصر: OPPO A6X 64GB / 4GB RAM، النسخة 4GB RAM / 64GB / 4G بسعر 9,499 جنيه لدى Elghazawy Egypt. الصفحة المباشرة تعرض 9,499 جنيهًا للنسخة 4GB/64GB/4G مع ADD TO CART. يوجد عرض ثانٍ من Raya Shop بنفس النسخة بسعر 9,999 جنيه. السعر سعر متجر وليس سعرًا رسميًا من الشركة.",
       "priceOffers": [
         {
           "merchant": "Elghazawy Egypt",
           "priceEGP": 9499,
           "variant": "4GB RAM / 64GB / 4G",
-          "source": "https://priceteq.com/eg/product/2a239a33-25c9-42e2-9c14-0adb0bb259f9",
-          "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
-          "checkedAt": "2026-11-11",
-          "observedAt": "2026-11-11",
+          "source": "https://elghazawy.com/en/product/38074270295469/OPPO%2BA6X%2BDual%2BSIM%2B64GB%2B4GB%2BRAM%2B4G%2BLTE%2B-%2BLight%2BBlue",
+          "sourceLabel": "Elghazawy Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-13",
+          "observedAt": "2026-11-13",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
-          "verificationMethod": "price_aggregator"
+          "verificationMethod": "retailer_page",
+          "retailerUrl": "https://elghazawy.com/en/product/38074270295469/OPPO%2BA6X%2BDual%2BSIM%2B64GB%2B4GB%2BRAM%2B4G%2BLTE%2B-%2BLight%2BBlue",
+          "reviewedAt": "2026-11-13T20:57:06+02:00",
+          "note": "الصفحة المباشرة تعرض 9,499 جنيهًا للنسخة 4GB/64GB/4G مع ADD TO CART. يوجد عرض ثانٍ من Raya Shop بنفس النسخة بسعر 9,999 جنيه."
         },
         {
           "merchant": "Raneen Egypt",
@@ -890,17 +899,33 @@
           "currency": "EGP",
           "taxIncluded": true,
           "verificationMethod": "price_aggregator"
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 9999,
+          "variant": "4GB RAM / 64GB / 4G – Ice Blue",
+          "source": "https://www.rayashop.com/en/oppo-a6x-dual-sim-64gb-4gb-ram-4g-lte-ice-blue-4",
+          "sourceLabel": "Raya Shop Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-13",
+          "observedAt": "2026-11-13",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://www.rayashop.com/en/oppo-a6x-dual-sim-64gb-4gb-ram-4g-lte-ice-blue-4",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-13T20:57:06+02:00",
+          "note": "الصفحة تعرض 9,999 جنيهًا، و4GB RAM و64GB و4G، وزر Add To Cart وضمان سنة."
         }
       ],
-      "priceObservedAt": "2026-11-11",
+      "priceObservedAt": "2026-11-13",
       "merchant": "Elghazawy Egypt",
-      "priceVerifiedAt": "2026-11-11T13:10:53+02:00",
-      "priceLastVerifiedAt": "2026-11-11T13:10:53+02:00",
+      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
       "priceAvailability": "in_stock",
-      "priceSourceUrl": "https://priceteq.com/eg/product/2a239a33-25c9-42e2-9c14-0adb0bb259f9",
+      "priceSourceUrl": "https://elghazawy.com/en/product/38074270295469/OPPO%2BA6X%2BDual%2BSIM%2B64GB%2B4GB%2BRAM%2B4G%2BLTE%2B-%2BLight%2BBlue",
       "priceType": "store",
       "priceProvider": "Elghazawy Egypt",
-      "priceReviewedAt": "2026-11-11T13:10:53+02:00"
+      "priceReviewedAt": "2026-11-13T20:57:06+02:00"
     },
     {
       "id": "samsung-a17",
@@ -22407,39 +22432,39 @@
       "category": "هواتف ذكية",
       "source": "https://priceteq.com/eg/product/ae14e7a2-3f9e-4610-98dd-9e4d2fb506bf",
       "sourceLabel": "El Avocato Mobile Egypt – قائمة الهواتف",
-      "priceEGP": 26900,
+      "priceEGP": 26750,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
-      "priceCheckedAt": "2026-11-12",
-      "priceStatus": "تم التحقق مباشرة في 12 نوفمبر 2026: Samsung Galaxy A57 5G نسخة 8GB/256GB بسعر 26,900 جنيه، مع In Stock وAdd to cart وOne-year local warranty. سعر متجر وليس سعرًا رسميًا.",
+      "priceCheckedAt": "2026-11-13",
+      "priceStatus": "تم التحقق مباشرة 2026-11-13 الساعة 20:57 بتوقيت مصر: Samsung Galaxy A57 5G 8GB / 256GB، النسخة 8GB RAM / 256GB / 5G بسعر 26,750 جنيه لدى El Avocato Mobile Egypt. الصفحة تعرض 26,750 جنيهًا، وتؤكد 8GB RAM و256GB، وحالة In Stock وزري Buy now وAdd to cart وضمانًا محليًا لمدة سنة. السعر سعر متجر وليس سعرًا رسميًا من الشركة.",
       "memory": "8GB RAM / 256GB / 5G",
       "merchant": "El Avocato Mobile Egypt",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 26900,
+          "priceEGP": 26750,
           "variant": "8GB RAM / 256GB / 5G",
           "source": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-12",
-          "observedAt": "2026-11-12",
+          "checkedAt": "2026-11-13",
+          "observedAt": "2026-11-13",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-12T19:05:41+02:00",
-          "note": "الصفحة المباشرة تعرض 26,900 جنيه، In Stock، وAdd to cart، وضمانًا محليًا لمدة سنة."
+          "reviewedAt": "2026-11-13T20:57:06+02:00",
+          "note": "الصفحة تعرض 26,750 جنيهًا، وتؤكد 8GB RAM و256GB، وحالة In Stock وزري Buy now وAdd to cart وضمانًا محليًا لمدة سنة."
         }
       ],
-      "priceObservedAt": "2026-11-12",
+      "priceObservedAt": "2026-11-13",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
-      "priceVerifiedAt": "2026-11-12T19:05:41+02:00",
-      "priceLastVerifiedAt": "2026-11-12T19:05:41+02:00",
+      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
       "priceProvider": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-12T19:05:41+02:00",
-      "price": 26900
+      "priceReviewedAt": "2026-11-13T20:57:06+02:00",
+      "price": 26750
     },
     {
       "id": "samsunggalaxys2612gb256gb",
@@ -23467,7 +23492,7 @@
           "currency": "EGP",
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-12gb-256gb-egypt/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-12T19:05:41+02:00",
+          "reviewedAt": "2026-11-13T20:57:06+02:00",
           "note": "تمت إعادة الفتح 13 نوفمبر: 30,800 جنيه، 12GB RAM و256GB، والصفحة تعرض In Stock وAdd to cart. سعر متجر وليس سعرًا رسميًا. PriceTeq يعرض 31,500 جنيه كأقل سعر في صفحة المقارنة الأقدم؛ اعتمدت الصفحة المباشرة المطابقة."
         },
         {
@@ -23501,12 +23526,12 @@
       ],
       "merchant": "El Avocato Mobile Egypt",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-12gb-256gb-egypt/",
-      "priceVerifiedAt": "2026-11-13T13:35:03+02:00",
-      "priceLastVerifiedAt": "2026-11-13T13:35:03+02:00",
+      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
       "priceProvider": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-12T19:05:41+02:00",
+      "priceReviewedAt": "2026-11-13T20:57:06+02:00",
       "price": 30800
     },
     {
@@ -24923,7 +24948,7 @@
       "priceSource": "Raneen Egypt – صفحة المنتج وقائمة البائعين (سعر متجر؛ التوفر يحتاج تأكيدًا)",
       "priceCheckedAt": "2026-11-13",
       "priceObservedAt": "2026-11-13",
-      "priceStatus": "نسخة 8GB/256GB. صفحة Raneen الرئيسية تعرض Out of stock، لكن قسم Other Sellers يعرض Raneen بسعر 24,499 جنيه مع Add to Cart؛ لذلك الحالة check_store وليست توافرًا مؤكدًا. صفحة Etisal المباشرة تعرض Out of stock رغم إدراج PriceTeq لها كمتاحة.",
+      "priceStatus": "تمت مراجعة الصفحة مباشرة 13 نوفمبر 2026 الساعة 20:57:06: النسخة 8GB/256GB. الصفحة الأساسية تعرض Out of stock، لكن قائمة Other Sellers تعرض Raneen بسعر 24,499 جنيهًا مع Add to Cart؛ أبقيت حالة العرض check_store بسبب تعارض الحالة الرئيسية مع قائمة البائعين. صفحة Etisal تعرض Out of stock.",
       "priceOffers": [
         {
           "merchant": "Etisal Stores Egypt",
@@ -24966,19 +24991,21 @@
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
-          "note": "نسخة 8GB/256GB. صفحة Raneen الرئيسية تعرض Out of stock، لكن قسم Other Sellers يعرض Raneen بسعر 24,499 جنيه مع Add to Cart؛ لذلك الحالة check_store وليست توافرًا مؤكدًا. صفحة Etisal المباشرة تعرض Out of stock رغم إدراج PriceTeq لها كمتاحة.",
+          "note": "صفحة Raneen تعرض Out of stock في المنتج الأساسي، لكن Other Sellers يعرض Raneen بسعر 24,499 جنيهًا مع Add to Cart؛ لذلك لم أرفع الحالة إلى in_stock.",
           "retailerUrl": "https://www.raneen.com/en/samsung-galaxy-a56-smartphone-dual-sim-5g-256gb-8gb-ram-graphite-2",
-          "verificationMethod": "retailer_page"
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-13T20:57:06+02:00"
         }
       ],
       "priceSourceUrl": "https://www.raneen.com/en/samsung-galaxy-a56-smartphone-dual-sim-5g-256gb-8gb-ram-graphite-2",
       "priceProvider": "Raneen Egypt",
       "merchant": "Raneen Egypt",
-      "priceVerifiedAt": "2026-11-13T13:35:03+02:00",
-      "priceLastVerifiedAt": "2026-11-13T13:35:03+02:00",
+      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
       "priceAvailability": "check_store",
       "price": 24499,
-      "priceType": "store"
+      "priceType": "store",
+      "priceReviewedAt": "2026-11-13T20:57:06+02:00"
     },
     {
       "id": "samsung-galaxy-s25-ultra-12-512",
@@ -26820,9 +26847,9 @@
       "connectivity": "4G",
       "priceEGP": 19999,
       "priceSource": "Raya Shop Egypt – صفحة المنتج المباشرة (سعر متجر)",
-      "priceCheckedAt": "2026-11-12",
-      "priceObservedAt": "2026-11-12",
-      "priceStatus": "تم التحقق مباشرة في 12 نوفمبر 2026: vivo Y500 4G نسخة 8GB/256GB بسعر 19,999 جنيه، مع Add to Cart. الصفحة تعرض SKU Y500 8G-Blue 256. سعر متجر وليس سعرًا رسميًا.",
+      "priceCheckedAt": "2026-11-13",
+      "priceObservedAt": "2026-11-13",
+      "priceStatus": "تم التحقق مباشرة 2026-11-13 الساعة 20:57 بتوقيت مصر: vivo Y500 4G 8GB / 256GB، النسخة 8GB RAM / 256GB / 4G بسعر 19,999 جنيه لدى Raya Shop Egypt. الصفحة تعرض 19,999 جنيهًا، و8GB RAM و256GB و4G، وSKU Y500 8G-Blue 256، وزر Add To Cart وضمان سنة. السعر سعر متجر وليس سعرًا رسميًا من الشركة.",
       "priceOffers": [
         {
           "merchant": "Raneen Egypt",
@@ -26882,6 +26909,22 @@
           "retailerUrl": "https://www.rayashop.com/en/vivo-y500-dual-sim-256gb-8gb-ram-4g-lte-midnight-blue-8",
           "verificationMethod": "retailer_page",
           "note": "الصفحة المباشرة تعرض 19,999 جنيهًا، و8GB RAM و256GB و4G، وSKU Y500 8G-Blue 256، وزر Add to Cart."
+        },
+        {
+          "merchant": "Raya Shop Egypt",
+          "priceEGP": 19999,
+          "variant": "8GB RAM / 256GB / 4G",
+          "source": "https://www.rayashop.com/en/vivo-y500-dual-sim-256gb-8gb-ram-4g-lte-midnight-blue-8",
+          "sourceLabel": "Raya Shop Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-13",
+          "observedAt": "2026-11-13",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://www.rayashop.com/en/vivo-y500-dual-sim-256gb-8gb-ram-4g-lte-midnight-blue-8",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-13T20:57:06+02:00",
+          "note": "الصفحة تعرض 19,999 جنيهًا، و8GB RAM و256GB و4G، وSKU Y500 8G-Blue 256، وزر Add To Cart وضمان سنة."
         }
       ],
       "merchant": "Raya Shop Egypt",
@@ -26891,9 +26934,10 @@
       "priceSourceUrl": "https://www.rayashop.com/en/vivo-y500-dual-sim-256gb-8gb-ram-4g-lte-midnight-blue-8",
       "priceProvider": "Raya Shop Egypt",
       "priceType": "store",
-      "priceVerifiedAt": "2026-11-12T19:05:41+02:00",
-      "priceLastVerifiedAt": "2026-11-12T19:05:41+02:00",
-      "priceAvailability": "in_stock"
+      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceAvailability": "in_stock",
+      "priceReviewedAt": "2026-11-13T20:57:06+02:00"
     },
     {
       "id": "apple-iphone-16-plus-256",
