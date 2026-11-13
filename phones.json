@@ -592,7 +592,9 @@
           "source": "https://priceteq.com/eg/product/e0e4ecac-acaf-4ca7-8c0b-ec66e34a454f",
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-06",
-          "observedAt": "2026-11-06"
+          "observedAt": "2026-11-06",
+          "availability": "check_store",
+          "note": "رصد مقارنة قديم بتاريخ 6 نوفمبر؛ تم تأكيد السعر مباشرة من صفحة 2B بتاريخ 13 نوفمبر في سجل عرض منفصل."
         },
         {
           "merchant": "2B Egypt",
@@ -24929,30 +24931,14 @@
           "variant": "8GB RAM / 256GB / 5G – Awesome Graphite",
           "source": "https://etisalstore.com/en/samsung-galaxy-a56-5g-8gb-ram-256gb-awesome-graphite",
           "sourceLabel": "Etisal Stores Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-12",
-          "observedAt": "2026-11-12",
-          "availability": "in_stock",
-          "priceType": "store",
-          "currency": "EGP",
-          "retailerUrl": "https://etisalstore.com/en/samsung-galaxy-a56-5g-8gb-ram-256gb-awesome-graphite",
-          "verificationMethod": "retailer_page",
-          "note": "صفحة Etisal المباشرة تعرض 23,999 جنيهًا، SKU 8806097490821، وزري Add to cart وBuy now."
-        },
-        {
-          "merchant": "Etisal Stores Egypt",
-          "priceEGP": 23999,
-          "variant": "8GB RAM / 256GB / 5G",
-          "source": "https://etisalstore.com/en/samsung-galaxy-a56-5g-8gb-ram-256gb-awesome-graphite",
-          "sourceLabel": "Etisal Stores Egypt – صفحة المنتج المباشرة",
           "checkedAt": "2026-11-13",
           "observedAt": "2026-11-13",
           "availability": "out_of_stock",
           "priceType": "store",
           "currency": "EGP",
-          "taxIncluded": true,
           "retailerUrl": "https://etisalstore.com/en/samsung-galaxy-a56-5g-8gb-ram-256gb-awesome-graphite",
           "verificationMethod": "retailer_page",
-          "note": "الصفحة المباشرة تعرض Out of stock بتاريخ 13 نوفمبر؛ لا يُعتمد السعر كعرض قابل للشراء رغم نتيجة PriceTeq."
+          "note": "صفحة Etisal المباشرة تعرض Out of stock بتاريخ 13 نوفمبر؛ لا يُعامل السعر كعرض متاح للشراء."
         },
         {
           "merchant": "B.TECH Egypt",
@@ -24966,7 +24952,7 @@
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
-          "note": "عرض مقارنة قديم لم تتم إعادة تأكيده مباشرة اليوم."
+          "note": "عرض مقارنة قديم بتاريخ 9 نوفمبر؛ لم تتم إعادة تأكيده مباشرة في 13 نوفمبر."
         },
         {
           "merchant": "Raneen Egypt",
