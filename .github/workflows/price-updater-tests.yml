@@ -1,0 +1,30 @@
+name: Price updater regression tests
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "price-updater/**"
+      - ".github/workflows/price-updater-tests.yml"
+  pull_request:
+    paths:
+      - "price-updater/**"
+      - ".github/workflows/price-updater-tests.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Compile updater
+        run: python -m py_compile price-updater/github_actions_updater.py
+      - name: Run matching regression tests
+        run: python -m unittest discover -s price-updater -p "test_*.py" -v
