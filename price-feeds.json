@@ -153,8 +153,8 @@
       "id": "raneen-eg-public-catalogue",
       "name": "Raneen Egypt public read-only product catalogue API",
       "adapter": "raneen",
-      "active": true,
-      "status": "enabled_limited_validation",
+      "active": false,
+      "status": "paused_http_403_provider_access_denied",
       "endpoint": "https://mcp.raneen.com/v1",
       "country": "eg",
       "currency": "EGP",
@@ -177,9 +177,9 @@
         "kitchen-tools-utensils.json",
         "maternity.json"
       ],
-      "max_searches_per_run": 10,
+      "max_searches_per_run": 0,
       "max_details_per_search": 2,
-      "activation_note": "Re-enabled for bounded live validation after the provider published current documentation for its unauthenticated read-only REST API at https://mcp.raneen.com/docs. Begin with 10 searches per run and at most 2 detail checks per search. Import only exact-matched, in-stock EGP products with official Raneen product URLs. If the endpoint returns 403 or another access error, stop and pause this source again; do not bypass access controls.",
+      "activation_note": "Paused after the provider endpoint returned HTTP 403 for all 10 bounded validation searches on 2026-11-14. Do not retry or bypass access controls. Re-enable only after the provider confirms API access for this integration.",
       "max_runtime_seconds": 1020
     }
   ],
