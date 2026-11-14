@@ -4197,6 +4197,116 @@
       "merchant": "LC Waikiki Egypt",
       "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
       "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-women-sweater-799-20261114",
+      "name": "سويتر نسائي LCW Comfort برقبة مرتفعة",
+      "category": "ملابس نسائية",
+      "brand": "LCW Comfort",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 799,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/women-sweaters-t-202",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-women-sweater-999-20261114",
+      "name": "سويتر نسائي LCW EVERYDAY مخطط برقبة دائرية",
+      "category": "ملابس نسائية",
+      "brand": "LCW EVERYDAY",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 999,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/women-sweaters-t-202",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-navy-shorts-20261114",
+      "name": "شورت رجالي LC WAIKIKI Man Navy Shorts",
+      "category": "ملابس رجالية",
+      "brand": "LC WAIKIKI",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 499,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-shorts-t-316",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-southblue-shorts-20261114",
+      "name": "شورت رجالي SOUTHBLUE بقصة عادية",
+      "category": "ملابس رجالية",
+      "brand": "SOUTHBLUE",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 899,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-shorts-t-316",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-vision-shorts-20261114",
+      "name": "شورت رجالي LCW Vision بقصة عادية",
+      "category": "ملابس رجالية",
+      "brand": "LCW Vision",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 699,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-shorts-t-316",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-classic-cargo-shorts-20261114",
+      "name": "شورت رجالي LCWAIKIKI Classic Cargo",
+      "category": "ملابس رجالية",
+      "brand": "LCWAIKIKI Classic",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 999,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-shorts-t-316",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-xside-shorts-20261114",
+      "name": "شورت رجالي XSIDE Standard Fit",
+      "category": "ملابس رجالية",
+      "brand": "XSIDE",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 999,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-shorts-t-316",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-xside-active-shorts-20261114",
+      "name": "شورت رياضي رجالي XSIDE ACTIVE",
+      "category": "ملابس رياضية",
+      "brand": "XSIDE ACTIVE",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 799,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-shorts-t-316",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-vision-sweatshirt-20261114",
+      "name": "سويت شيرت رجالي LCW Vision برقبة دائرية",
+      "category": "ملابس رجالية",
+      "brand": "LCW Vision",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 899,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-sweatshirts-t-300",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-xside-thick-sweatshirt-20261114",
+      "name": "سويت شيرت رجالي XSIDE برقبة مرتفعة",
+      "category": "ملابس رجالية",
+      "brand": "XSIDE",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 999,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/en/men-sweatshirts-t-300",
+      "checkedAt": "2026-11-14"
     }
   ],
   "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
