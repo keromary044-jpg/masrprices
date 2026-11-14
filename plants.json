@@ -2028,5 +2028,445 @@
     "merchant": "Plantos",
     "source": "https://www.plantoseg.store/category/trb-o-bthor",
     "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-molokhia-seeds-20261114",
+    "name": "بذور ملوخية",
+    "category": "بذور",
+    "brand": "Plantos",
+    "price": 20,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/trb-o-bthor",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-augusta-seeds-20261114",
+    "name": "بذور أوجاستا (عصفور الجنة)",
+    "category": "بذور",
+    "brand": "Plantos",
+    "price": 20,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/trb-o-bthor",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-perlite-20261114",
+    "name": "بيرلايت",
+    "category": "تربة وزراعة",
+    "brand": "Plantos",
+    "price": 35,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/trb-o-bthor",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-plastic-pot-35cm-20261114",
+    "name": "أصيص بلاستيك أسود مقاس 35 سم",
+    "category": "أصص وزراعة",
+    "brand": "Plantos",
+    "price": 40,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-winka-20261114",
+    "name": "ونكا",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 25,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-mexican-pepper-20261114",
+    "name": "فلفل مكسيكي",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 80,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-syngonium-large-20261114",
+    "name": "سنجونيوم أخضر كبير",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 80,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-aglaonema-moonstone-pot-20261114",
+    "name": "أجلونيما مون ستون (بوت فخار)",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 350,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-sansevieria-moonshine-silver-20261114",
+    "name": "سانسفيرا مون شاين (جلد نمر فضي)",
+    "category": "صبارات وعصاريات",
+    "brand": "Plantos",
+    "price": 80,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-sansevieria-moonshine-20261114",
+    "name": "سانسفيرا مون شاين",
+    "category": "صبارات وعصاريات",
+    "brand": "Plantos",
+    "price": 150,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-crassula-pot-20261114",
+    "name": "كراسولا بوت فخار",
+    "category": "صبارات وعصاريات",
+    "brand": "Plantos",
+    "price": 100,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-sansevieria-dwarf-20261114",
+    "name": "سانسفيرا مقزمة",
+    "category": "صبارات وعصاريات",
+    "brand": "Plantos",
+    "price": 120,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-crassula-large-20261114",
+    "name": "كراسولا كبيرة",
+    "category": "صبارات وعصاريات",
+    "brand": "Plantos",
+    "price": 45,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-crassula-small-20261114",
+    "name": "كراسولا صغيرة",
+    "category": "صبارات وعصاريات",
+    "brand": "Plantos",
+    "price": 35,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-schefflera-goldstick-20261114",
+    "name": "شيفليرا جولد استيك",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 250,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-syngonium-pink-20261114",
+    "name": "سنجونيوم بينك",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 250,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-schefflera-20261114",
+    "name": "شوفليرا",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 70,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-aeonium-20261114",
+    "name": "أيونيوم",
+    "category": "صبارات وعصاريات",
+    "brand": "Plantos",
+    "price": 85,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-ficus-panda-20261114",
+    "name": "فيكس باندا",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 120,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-monstera-20261114",
+    "name": "مونستيرا قفص صدري",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 250,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-pothos-enjoy-20261114",
+    "name": "بوتس إنجوي",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 250,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-philodendron-prince-pink-20261114",
+    "name": "فيلودندرون برينس أوف بينك",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 350,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-philodendron-silver-sword-20261114",
+    "name": "فيلودندرون سيلفر سورد",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 300,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-chrysanthemum-seedling-20261114",
+    "name": "نبات الأراولا المقزمة – كريزانتيم",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 25,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-croton-small-20261114",
+    "name": "كروتون ألوان صغير",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 40,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-laurel-leaf-20261114",
+    "name": "ورق لوري",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 120,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-atar-20261114",
+    "name": "عتر",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 50,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-marigold-flower-20261114",
+    "name": "زهرة قطيفة",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 25,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-duranta-lemon-20261114",
+    "name": "دورانتا ليموني",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 30,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-netera-baladi-20261114",
+    "name": "نتيرا بلدي",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 35,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-sharania-20261114",
+    "name": "شرانيا",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 25,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-sheeh-20261114",
+    "name": "شيح",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 25,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-croton-lens-large-20261114",
+    "name": "كروتون عدسي كبير",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 250,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-indian-jasmine-red-20261114",
+    "name": "ياسمين هندي أحمر",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 200,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-kana-red-20261114",
+    "name": "كنا حمراء",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 45,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-asparagus-20261114",
+    "name": "أسبارجس ناعم",
+    "category": "نباتات خارجية",
+    "brand": "Plantos",
+    "price": 100,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-khargyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-boston-fern-20261114",
+    "name": "فوجير بوستن",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 150,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-string-of-hearts-20261114",
+    "name": "سلسلة القلوب",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 350,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-fern-20261114",
+    "name": "فوجير",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 250,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-aglaonema-silver-queen-20261114",
+    "name": "أجلونيما سيلفر كوين",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 350,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-augusta-plant-20261114",
+    "name": "أوجاستا",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 150,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-hanging-pothos-60cm-20261114",
+    "name": "حوض بوتس 60 سم مهدل",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 1000,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-white-rubber-ficus-20261114",
+    "name": "فيكس مطاط أبيض",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 250,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "plantos-small-green-syngonium-20261114",
+    "name": "سنجونيوم أخضر صغير",
+    "category": "نباتات داخلية",
+    "brand": "Plantos",
+    "price": 30,
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/nbatat-dakhlyh",
+    "checkedAt": "2026-11-14"
   }
 ]
