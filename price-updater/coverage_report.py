@@ -19,7 +19,7 @@ def positive_price(value):
         return False
 
 def has_price(product):
-    for key in ("priceEGP", "price", "price_egp", "lowestPrice", "lowest_price", "priceFrom", "priceTo"):
+    for key in ("priceEGP", "price", "price_egp", "lowestPrice", "lowest_price", "priceFrom", "priceTo", "priceMin", "priceMax", "minPrice", "maxPrice", "startingPrice"):
         if positive_price(product.get(key)):
             return True
     offers = product.get("priceOffers")
