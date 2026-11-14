@@ -149,7 +149,7 @@ def build_exact_index(catalogs, allowed_files=None):
 
 def catalog_product_has_price(product):
     """Return True only when a positive EGP price or offer is already recorded."""
-    for key in ("priceEGP", "price", "price_egp", "lowestPrice", "lowest_price"):
+    for key in ("priceEGP", "price", "price_egp", "lowestPrice", "lowest_price", "priceFrom", "priceTo"):
         try:
             if float(str(product.get(key) or "").replace(",", "").strip()) > 0:
                 return True
