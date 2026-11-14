@@ -110,16 +110,6 @@
     if(typeof MutationObserver!=="undefined"){const observer=new MutationObserver(()=>{if(!panel.hidden&&input.value.trim()&&Number(input.value)>0)applyBudget();});observer.observe(section,{childList:true,subtree:true});}
   }
 
-  function xmlText(value){
-    return String(value||"").replace(/[&<>"']/g,ch=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&apos;"}[ch]));
-  }
-  function productIllustration(item){
-    const name=String(item?.name||item?.title||"منتج").slice(0,34);
-    const category=String(item?.category||item?.brand||"MasrPrices").slice(0,24);
-    const svg='<svg xmlns="http://www.w3.org/2000/svg" width="640" height="420" viewBox="0 0 640 420"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eaf1f8"/><stop offset="1" stop-color="#d6e2ef"/></linearGradient></defs><rect width="640" height="420" rx="28" fill="url(#g)"/><circle cx="320" cy="150" r="82" fill="#fff" opacity=".85"/><path d="M276 178V124q0-12 12-12h64q12 0 12 12v54q0 12-12 12h-64q-12 0-12-12Z" fill="#173d68"/><path d="M296 132h48M296 146h48M296 160h30" stroke="#fff" stroke-width="7" stroke-linecap="round"/><text x="320" y="292" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#102b50">'+xmlText(name)+'</text><text x="320" y="332" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#65758b">'+xmlText(category)+'</text><text x="320" y="378" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" fill="#8b3b42">رسم تعريفي مؤقت — ليس صورة المنتج</text></svg>';
-    return "data:image/svg+xml;charset=UTF-8,"+encodeURIComponent(svg);
-  }
-
   // Device-local account, favorites, price targets and product feedback.
   const mpStore={
     read(key,fallback){try{return JSON.parse(localStorage.getItem("mp:"+key)||"null")??fallback;}catch{return fallback;}},
