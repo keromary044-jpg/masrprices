@@ -254,19 +254,19 @@ def apply_offer(index, name, brand, price, store, link, checked_at, source_label
         return False
     normalized_name = normalize(name)
     normalized_brand = normalize(brand)
-    matches = index.get((normalized_name, normalized_brand), [])
-    if not matches:
-        # Allow a provider-supplied brand to match a catalog entry whose brand
-        # field is blank only when that full product name occurs exactly once
-        # across the complete allowed index. Never use this fallback for
-        # placeholder brands or when another branded product shares the name.
-        blank_brand_matches = index.get((normalized_name, ""), [])
-        same_name_count = sum(
-            len(rows) for (indexed_name, _indexed_brand), rows in index.items()
-            if indexed_name == normalized_name
-        )
-        if same_name_count == 1:
-            matches = blank_brand_matches
+    same_name_count = sum(
+        len(rows) for (indexed_name, _indexed_brand), rows in index.items()
+        if indexed_name == normalized_name
+    )
+    if normalized_brand:
+        matches = index.get((normalized_name, normalized_brand), [])
+        if not matches and same_name_count == 1:
+            # A provider-supplied brand may match a catalog entry with a blank
+            # brand only when the complete normalized name is globally unique.
+            matches = index.get((normalized_name, ""), [])
+    else:
+        # A blank provider brand is accepted only for a globally unique name.
+        matches = index.get((normalized_name, ""), []) if same_name_count == 1 else []
     if len(matches) != 1:
         return False
 
