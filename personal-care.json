@@ -2577,5 +2577,165 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر منشور ضمن قائمة أجهزة الحلاقة من Braun على جوميا مصر؛ منخفض المخزون والسعر قابل للتغيير.",
     "details": "طقم عناية 8 في 1 موديل AIO3540؛ السعر المرصود بتاريخ 9 نوفمبر 2026."
+  },
+  {
+    "id": "pc-eva-aloe-argan-shampoo-230",
+    "name": "شامبو إيفا لتقوية الشعر بالصبار وزيت الأرجان 230 مل",
+    "category": "شامبو وبلسم",
+    "brand": "Eva",
+    "price": 74.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-dove-intense-repair-shampoo-600",
+    "name": "شامبو دوف إصلاح مكثف 600 مل",
+    "category": "شامبو وبلسم",
+    "brand": "Dove",
+    "price": 194.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-mood-keratin-shampoo-400",
+    "name": "شامبو Mood Keratin Plus خالٍ من السلفات 400 مل",
+    "category": "شامبو وبلسم",
+    "brand": "Mood",
+    "price": 154.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-elvive-hyaluron-shampoo-400",
+    "name": "شامبو لوريال باريس إلفيف هيالورون 72 ساعة 400 مل",
+    "category": "شامبو وبلسم",
+    "brand": "L'Oréal Paris",
+    "price": 149.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-tresemme-nourish-conditioner-600",
+    "name": "بلسم TRESemmé Nourish and Replenish بجوز الهند والصبار 600 مل",
+    "category": "شامبو وبلسم",
+    "brand": "TRESemmé",
+    "price": 274.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-sunsilk-shine-strength-shampoo-600",
+    "name": "شامبو صانسيلك لمعان وقوة 600 مل",
+    "category": "شامبو وبلسم",
+    "brand": "Sunsilk",
+    "price": 144.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-clear-hair-fall-defense-180",
+    "name": "شامبو Clear Hair Fall Defense ضد القشرة 180 مل",
+    "category": "شامبو وبلسم",
+    "brand": "Clear",
+    "price": 88.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2030500",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-nivea-pearl-beauty-rollon-50",
+    "name": "مزيل عرق نيفيا Pearl and Beauty رول أون 50 مل",
+    "category": "مزيلات العرق",
+    "brand": "Nivea",
+    "price": 74.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2100100",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-nivea-pearl-beauty-spray-150",
+    "name": "مزيل عرق نيفيا Pearl and Beauty بخاخ 150 مل",
+    "category": "مزيلات العرق",
+    "brand": "Nivea",
+    "price": 169.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2100100",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-dove-even-tone-rollon-50",
+    "name": "مزيل عرق دوف Even Tone رول أون 50 مل",
+    "category": "مزيلات العرق",
+    "brand": "Dove",
+    "price": 94.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2100100",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-nivea-black-white-rollon-50",
+    "name": "مزيل عرق نيفيا Black and White Invisible رول أون 50 مل",
+    "category": "مزيلات العرق",
+    "brand": "Nivea",
+    "price": 74.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2100100",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-nivea-derma-control-rollon-50",
+    "name": "مزيل عرق نيفيا Derma Control Pure Hyaluron رول أون 50 مل",
+    "category": "مزيلات العرق",
+    "brand": "Nivea",
+    "price": 93.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/AR/c/NFEGY2100100",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-sensodyne-deep-clean-gel-100",
+    "name": "معجون أسنان Sensodyne Deep Clean Gel 100 مل",
+    "category": "العناية بالفم",
+    "brand": "Sensodyne",
+    "price": 99.95,
+    "merchant": "Seoudi",
+    "source": "https://fattuta.com/eg/en/categories/personal-care",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-signal-whitening-toothpaste-100",
+    "name": "معجون أسنان Signal Whitening 100 مل",
+    "category": "العناية بالفم",
+    "brand": "Signal",
+    "price": 53,
+    "merchant": "Fathalla",
+    "source": "https://fattuta.com/eg/en/categories/personal-care",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-nivea-soft-cream-100",
+    "name": "كريم نيفيا Soft المرطب 100 مل",
+    "category": "العناية بالبشرة",
+    "brand": "Nivea",
+    "price": 49.95,
+    "merchant": "Metro",
+    "source": "https://fattuta.com/eg/en/categories/personal-care",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "pc-listerine-cool-mint-250",
+    "name": "غسول فم Listerine Cool Mint 250 مل",
+    "category": "العناية بالفم",
+    "brand": "Listerine",
+    "price": 86.5,
+    "merchant": "Seoudi",
+    "source": "https://fattuta.com/eg/en/categories/personal-care",
+    "checkedAt": "2026-11-14"
   }
 ]
