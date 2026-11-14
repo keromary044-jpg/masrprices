@@ -1298,7 +1298,7 @@
         let live={listings:[]};
         if(apiResponse.ok)live=await apiResponse.json();
         else console.warn("Real estate API:",(await apiResponse.json().catch(()=>({}))).error||apiResponse.status);
-        realEstateData={governorates:live.governorates?.length?live.governorates:base.governorates,listings:Array.isArray(live.listings)?live.listings:[]};
+        realEstateData={governorates:live.governorates?.length?live.governorates:base.governorates,listings:Array.isArray(live.listings)&&live.listings.length?live.listings:(Array.isArray(base.listings)?base.listings:[])};
         governorate.replaceChildren(new Option("اختر المحافظة",""));
         realEstateData.governorates.forEach(g=>governorate.add(new Option(g.name,g.name)));
         const submitGov=document.getElementById("submitPropertyGovernorate");
