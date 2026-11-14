@@ -23659,23 +23659,6 @@
           "taxIncluded": true,
           "verificationMethod": "price_aggregator",
           "note": "PriceTeq يعرض 31,700 جنيه لدى El Avocato، لكن صفحة المتجر المباشرة المفتوحة في اليوم نفسه تعرض 30,800 جنيه. تم تسجيل التعارض دون اعتماد سعر المقارنة."
-        },
-        {
-          "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 31700,
-          "variant": "12GB RAM / 256GB / 5G",
-          "source": "https://priceteq.com/eg/product/a3c93b8a-56a7-41f0-b4a1-2398faa1b51b",
-          "sourceLabel": "PriceTeq – مقارنة أسعار مصر بتاريخ 14 نوفمبر؛ عرض El Avocato",
-          "checkedAt": "2026-11-14",
-          "observedAt": "2026-11-14",
-          "reviewedAt": "2026-11-14T19:07:19+02:00",
-          "availability": "check_store",
-          "priceType": "store",
-          "currency": "EGP",
-          "taxIncluded": true,
-          "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-12gb-256gb-egypt/",
-          "verificationMethod": "price_aggregator",
-          "note": "PriceTeq يعرض 31,700 جنيه لدى El Avocato ويذكر أن العرض متاح وفُحص اليوم، لكن صفحة El Avocato المباشرة التي فُحصت اليوم في 13:47 تعرض 30,800 جنيه لنفس النسخة. أبقيت 30,800 كسعر الصفحة المباشرة وسجلت تعارض المقارنة دون اعتمادها."
         }
       ],
       "merchant": "El Avocato Mobile Egypt",
