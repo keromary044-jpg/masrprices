@@ -3061,5 +3061,71 @@
     "source": "https://www.jumia.com.eg/home-office/",
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر ظاهر في قائمة Jumia وقت الرصد؛ يلزم تأكيد السعر والتوفر عند الشراء"
+  },
+  {
+    "id": "appliance-midea-eco-master-miseft-12crdn8f-q8",
+    "name": "تكييف Midea Eco Master MISEFT-12CRDN8F-Q8 بارد فقط 1.5 حصان",
+    "category": "تكييفات",
+    "brand": "Midea",
+    "model": "MISEFT-12CRDN8F-Q8",
+    "price": 27525,
+    "merchant": "Sharaf DG",
+    "source": "https://www.egprices.com/en/product/midea-eco-master-miseft-12crdn8f-q8-1-5-hp-split-air-conditioner-cooling-only",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "appliance-toshiba-f-dsd70eg-w-fan",
+    "name": "مروحة توشيبا ستاند 16 بوصة F-DSD70EG-W",
+    "category": "مراوح",
+    "brand": "Toshiba",
+    "model": "F-DSD70EG-W",
+    "price": 3999,
+    "merchant": "Sharaf DG",
+    "source": "https://www.egprices.com/en/product/toshiba-f-dsd70eg-w-16-inch-stand-fan",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "appliance-mienta-km38632a-kitchen-machine",
+    "name": "عجان ومضرب Mienta Kitchen Pro KM38632A قدرة 2000 وات",
+    "category": "أجهزة المطبخ",
+    "brand": "Mienta",
+    "model": "KM38632A",
+    "price": 10999,
+    "merchant": "Bouri",
+    "source": "https://www.egprices.com/en/product/mienta-kitchen-pro-km38632a-2000w-kitchen-machine",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "appliance-hisense-icy-smart-as-12hw4swuha00",
+    "name": "تكييف Hisense ICY SMART AS-12HW4SWUHA00 بارد وساخن 1.5 حصان",
+    "category": "تكييفات",
+    "brand": "Hisense",
+    "model": "AS-12HW4SWUHA00",
+    "price": 21999,
+    "merchant": "Raya Shop",
+    "source": "https://www.egprices.com/en/product/hisense-icy-smart-as-12hw4swuha00-1-5-hp-split-air-conditioner-cooling-and-heating",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "appliance-ido-steam-iron-si2200-bwh",
+    "name": "مكواة بخار IDO أبيض وأسود 2200 وات SI2200-BWH",
+    "category": "مكاوي",
+    "brand": "IDO",
+    "model": "SI2200-BWH",
+    "price": 895,
+    "merchant": "Al Morshedy",
+    "source": "https://fattuta.com/eg/en/categories/electronics/home-appliances",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "appliance-tefal-steam-iron-fv2831e2",
+    "name": "مكواة بخار Tefal 2200 وات FV2831E2",
+    "category": "مكاوي",
+    "brand": "Tefal",
+    "model": "FV2831E2",
+    "price": 1699,
+    "merchant": "Carrefour",
+    "source": "https://fattuta.com/eg/en/categories/electronics/home-appliances",
+    "checkedAt": "2026-11-14"
   }
 ]
