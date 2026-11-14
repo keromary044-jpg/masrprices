@@ -538,9 +538,7 @@
     panel.hidden=true; panel.id="details-"+(index+1);
     panel.setAttribute("role","region");
     panel.setAttribute("aria-label","تفاصيل القسم");
-    panel.append(element("h3","",getTitle(card)));
-    panel.append(element("p","","هذا القسم ضمن خطة MasrPrices. ستضاف بياناته بعد مراجعة مصادرها."));
-    panel.append(element("p","details-note","لن نعرض سعراً غير موثّق على أنه سعر مؤكد."));
+    panel.setAttribute("aria-hidden","true");
     card.insertAdjacentElement("afterend",panel);
     panels.set(card,panel);
 
