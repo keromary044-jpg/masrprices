@@ -140,7 +140,10 @@ def build_exact_index(catalogs, allowed_files=None):
                 continue
             name = normalize(product.get("name") or product.get("title"))
             brand = normalize(product.get("brand"))
-            if name and brand:
+            # Keep products with an intentionally blank brand in the index too.
+            # They can be matched later only when the full normalized name is unique
+            # across every product in the provider's allowed catalogs.
+            if name:
                 index.setdefault((name, brand), []).append((filename, product))
     return index
 
@@ -168,6 +171,9 @@ def catalog_product_has_price(product):
 def build_search_candidates(source_catalogs, rotation_key="", rotation_offset=0):
     """Interleave products across catalogs and rotate the starting catalog each day."""
     exact_index = build_exact_index(source_catalogs)
+    name_counts = {}
+    for (indexed_name, _indexed_brand), rows in exact_index.items():
+        name_counts[indexed_name] = name_counts.get(indexed_name, 0) + len(rows)
     by_catalog = {}
     seen = set()
     for filename in sorted(source_catalogs):
@@ -179,8 +185,15 @@ def build_search_candidates(source_catalogs, rotation_key="", rotation_offset=0)
             brand = str(product.get("brand") or "").strip()
             key_pair = (normalize(name), normalize(brand))
             placeholder_brands = {"غير محدد", "ماركات متعددة", "متعدد", "متعددة", "multiple brands", "unspecified", "various"}
-            if (not name or not brand or key_pair[1] in placeholder_brands
-                    or key_pair in seen or len(exact_index.get(key_pair, [])) != 1):
+            if (not name or key_pair[1] in placeholder_brands or key_pair in seen):
+                continue
+            # Branded items still require an exact name+brand match. A product
+            # with no brand is eligible only if its complete normalized name is
+            # unique across the selected catalogs, preventing ambiguous matches.
+            if brand:
+                if len(exact_index.get(key_pair, [])) != 1:
+                    continue
+            elif name_counts.get(key_pair[0], 0) != 1:
                 continue
             seen.add(key_pair)
             try:
@@ -231,7 +244,7 @@ def mark_search_attempt(product, checked_at):
     product["priceSearchLastAttempt"] = checked_at
 
 def apply_offer(index, name, brand, price, store, link, checked_at, source_label, variant=""):
-    if not name or not brand or not store or not valid_https(link):
+    if not name or not store or not valid_https(link):
         return False
     try:
         price = float(price)
@@ -239,7 +252,21 @@ def apply_offer(index, name, brand, price, store, link, checked_at, source_label
         return False
     if price <= 0 or price > 100_000_000:
         return False
-    matches = index.get((normalize(name), normalize(brand)), [])
+    normalized_name = normalize(name)
+    normalized_brand = normalize(brand)
+    matches = index.get((normalized_name, normalized_brand), [])
+    if not matches:
+        # Allow a provider-supplied brand to match a catalog entry whose brand
+        # field is blank only when that full product name occurs exactly once
+        # across the complete allowed index. Never use this fallback for
+        # placeholder brands or when another branded product shares the name.
+        blank_brand_matches = index.get((normalized_name, ""), [])
+        same_name_count = sum(
+            len(rows) for (indexed_name, _indexed_brand), rows in index.items()
+            if indexed_name == normalized_name
+        )
+        if same_name_count == 1:
+            matches = blank_brand_matches
     if len(matches) != 1:
         return False
 
