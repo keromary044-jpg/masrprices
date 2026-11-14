@@ -27,9 +27,9 @@
     "category": "أرز وبقوليات",
     "brand": "الضحى",
     "unit": "1 كجم",
-    "price": 44.5,
+    "price": 34.99,
     "merchant": "Carrefour Egypt",
-    "checkedAt": "2026-11-08",
+    "checkedAt": "2026-11-14",
     "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200"
   },
   {
@@ -4276,5 +4276,137 @@
     "checkedAt": "2026-11-09",
     "priceStatus": "سعر ظاهر على صفحة Carrefour Egypt بتاريخ 9 نوفمبر 2026.",
     "details": "In stock"
+  },
+  {
+    "id": "grocery-pasta-elmaleka-rings-400g",
+    "name": "مكرونة الملكة حلقات صغيرة 400 جم",
+    "category": "مكرونة",
+    "brand": "الملكة",
+    "unit": "400 جم",
+    "price": 16.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-pasta-italiano-fettuccini-400g",
+    "name": "مكرونة إيطاليانو فيتوتشيني 400 جم",
+    "category": "مكرونة",
+    "brand": "Italiano",
+    "unit": "400 جم",
+    "price": 23.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-tuna-sunshine-185g",
+    "name": "تونة صن شاين قطع سهلة الفتح 185 جم",
+    "category": "معلبات",
+    "brand": "Sunshine",
+    "unit": "185 جم",
+    "price": 70.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1600000",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-milk-beyti-900ml",
+    "name": "لبن بيتي كامل الدسم 900 مل",
+    "category": "ألبان",
+    "brand": "Beyti",
+    "unit": "900 مل",
+    "price": 39.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1600000",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-milk-juhayna-1l",
+    "name": "لبن جهينة كامل الدسم 1 لتر",
+    "category": "ألبان",
+    "brand": "Juhayna",
+    "unit": "1 لتر",
+    "price": 47.95,
+    "merchant": "HyperOne",
+    "source": "https://fattuta.com/eg/en",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-sugar-rehana-1kg",
+    "name": "سكر ريحانة 1 كجم",
+    "category": "سكر ومحليات",
+    "brand": "Rehana",
+    "unit": "1 كجم",
+    "price": 32.99,
+    "merchant": "El Fergany",
+    "source": "https://fattuta.com/eg/en",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-rice-alsa-a-5kg",
+    "name": "أرز الساعة المصري الممتاز 5 كجم",
+    "category": "أرز وبقوليات",
+    "brand": "AL SA'A",
+    "unit": "5 كجم",
+    "price": 169.99,
+    "merchant": "El Fergany",
+    "source": "https://fattuta.com/eg/en",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-kiri-cheese-500g",
+    "name": "جبنة كيري قابلة للدهن 500 جم",
+    "category": "أجبان",
+    "brand": "Kiri",
+    "unit": "500 جم",
+    "price": 309.95,
+    "merchant": "Seoudi",
+    "source": "https://fattuta.com/eg/en",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-eggs-alwaha-30",
+    "name": "بيض الواحة أبيض 30 قطعة",
+    "category": "بيض",
+    "brand": "Al Waha",
+    "unit": "30 قطعة",
+    "price": 157.75,
+    "merchant": "Seoudi",
+    "source": "https://fattuta.com/eg/en",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-pasta-star-rice-1kg",
+    "name": "مكرونة ستار أرز 1 كجم",
+    "category": "مكرونة",
+    "brand": "Star",
+    "unit": "1 كجم",
+    "price": 34.99,
+    "merchant": "El Fergany",
+    "source": "https://fattuta.com/eg/en",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-tea-elarosa-100bags",
+    "name": "شاي العروسة 100 فتلة",
+    "category": "شاي ومشروبات",
+    "brand": "ELAROSA",
+    "unit": "100 فتلة",
+    "price": 63,
+    "merchant": "Fathalla",
+    "source": "https://fattuta.com/eg/en",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "grocery-fava-beans-doha-500g",
+    "name": "فول الضحى 500 جم",
+    "category": "أرز وبقوليات",
+    "brand": "Al Doha",
+    "unit": "500 جم",
+    "price": 50.4,
+    "merchant": "Amazon Now",
+    "source": "https://fattuta.com/eg/en",
+    "checkedAt": "2026-11-14"
   }
 ]
