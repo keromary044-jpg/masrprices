@@ -1,4 +1,4 @@
-const CACHE_NAME = "masrprices-global-currency-9";
+const CACHE_NAME = "masrprices-hide-category-pages-10";
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
