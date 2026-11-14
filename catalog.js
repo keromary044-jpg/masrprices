@@ -12,7 +12,7 @@
    card.append(name);
    if(p.brand)card.append(el("p","muted",p.brand));
    if(p.category)card.append(el("span","tag",p.category));
-   if(p.best_price!==null&&p.best_price!==undefined)card.append(el("p","price",Number(p.best_price).toLocaleString("en-US")+" جنيه · سعر متحقق حديثًا"));
+   if(p.best_price!==null&&p.best_price!==undefined)card.append(el("p","price",Number(p.best_price).toLocaleString("en-US")+" جنيه · سعر مسجل"));
    else card.append(el("p","pending","السعر قيد التحقق"));
    card.append(el("p","muted",Number(p.offers_count||0).toLocaleString("en-US")+" عروض مسجلة"));
    results.append(card);
