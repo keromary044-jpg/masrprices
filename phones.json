@@ -23237,7 +23237,7 @@
       "priceEGP": 35999,
       "priceSource": "Elghazawy Egypt – آخر سعر معروض بصفحة المنتج المباشرة (غير متوفر حاليًا)",
       "priceCheckedAt": "2026-11-14",
-      "priceStatus": "فحص 14 نوفمبر: صفحة Elghazawy تعرض آخر سعر 35,999 جنيه لنسخة 12GB/256GB لكن الكمية Not available وزر Notify Me؛ صفحة B.TECH المباشرة تعرض Out of stock، وصفحة Raneen المباشرة تعرض Out of stock. PriceTeq ما زال يعرض B.TECH كمتاح عند 35,899 جنيه، لكن صفحة المتجر المباشرة تناقض ذلك. لذلك 35,999 هو آخر سعر معروض فقط وليس سعرًا متاحًا للشراء الآن؛ لم يتم تأكيد متجر متاح.",
+      "priceStatus": "فحص 14 نوفمبر: Elghazawy يعرض آخر سعر 35,999 جنيه لنسخة 12GB/256GB لكن الكمية Not available وزر Notify Me؛ صفحة B.TECH المباشرة تعرض Out of stock، وصفحة Raneen تعرض 32,040 جنيه لكنها Out of stock. PriceTeq يعرض B.TECH عند 35,899 جنيه كمتاح، لكن صفحة المتجر المباشرة تناقض ذلك. لذلك 35,999 هو آخر سعر معروض فقط وليس سعرًا متاحًا للشراء الآن؛ لم يتم تأكيد متجر متاح.",
       "memory": "12GB RAM / 256GB",
       "merchant": "Elghazawy Egypt",
       "priceOffers": [
@@ -23302,6 +23302,22 @@
           "retailerUrl": "https://priceteq.com/eg/product/adcdb0a5-a159-4659-a02d-90b2dfa0b133",
           "verificationMethod": "price_aggregator",
           "note": "مقارنة 11 نوفمبر تعرض 35,899 جنيه لدى B.TECH، لكن صفحة B.TECH المباشرة المفتوحة 14 نوفمبر تعرض Out of stock."
+        },
+        {
+          "merchant": "Raneen Egypt",
+          "priceEGP": 32040,
+          "variant": "12GB RAM / 256GB / 5G",
+          "source": "https://www.raneen.com/en/el1145927gry",
+          "sourceLabel": "Raneen Egypt – صفحة المنتج المباشرة (غير متوفر)",
+          "checkedAt": "2026-11-14",
+          "observedAt": "2026-11-14",
+          "reviewedAt": "2026-11-14T13:47:35+02:00",
+          "availability": "out_of_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://www.raneen.com/en/el1145927gry",
+          "verificationMethod": "retailer_page",
+          "note": "صفحة Raneen تعرض 32,040 جنيه لنفس نسخة vivo V70 12GB/256GB، لكنها تعرض Out of stock؛ السعر مرصود فقط وليس عرضًا قابلًا للشراء."
         }
       ],
       "price": 35999,
