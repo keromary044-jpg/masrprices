@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08",
+  "updatedAt": "2026-11-14",
   "currency": "EGP",
   "notice": "أسعار مسجلة من صفحات متاجر مصرية كما ظهرت بتاريخ الرصد؛ قد تتغير الأسعار أو حالة التوفر، ويجب مراجعة صفحة المتجر قبل الشراء.",
   "products": [
@@ -12015,6 +12015,171 @@
       "source": "https://elghazawy.com/en/sub-category/engineering-tools?ordered=price&sort=asc",
       "checkedAt": "2026-11-09",
       "details": "مسطرة Faber-Castell بلاستيك 30 سم؛ السعر المنشور 25 جنيهًا."
+    },
+    {
+      "id": "stationery-fattuta-bravo-200-6pens",
+      "name": "طقم أقلام جاف Bravo 200 – 6 أقلام",
+      "category": "أقلام وأدوات كتابة",
+      "unit": "6 أقلام",
+      "priceFrom": 29,
+      "priceTo": 29,
+      "merchant": "HyperOne",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-prima-fullmaster-12",
+      "name": "ألوان Prima Fullmaster – 12 لونًا",
+      "category": "أقلام وألوان",
+      "unit": "12 لونًا",
+      "priceFrom": 46.95,
+      "priceTo": 46.95,
+      "merchant": "Panda",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-prima-tango-10",
+      "name": "طقم أقلام Prima Tango – 10 أقلام",
+      "category": "أقلام وأدوات كتابة",
+      "unit": "10 أقلام",
+      "priceFrom": 26,
+      "priceTo": 26,
+      "merchant": "El Fergany",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-prima-forsa-blue-10",
+      "name": "طقم أقلام Prima Forsa أزرق – 10 أقلام",
+      "category": "أقلام وأدوات كتابة",
+      "unit": "10 أقلام",
+      "priceFrom": 32,
+      "priceTo": 32,
+      "merchant": "El Fergany",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-faber-mini-12",
+      "name": "أقلام تلوين Faber-Castell Mini – 12 لونًا",
+      "category": "أقلام وألوان",
+      "unit": "12 لونًا",
+      "priceFrom": 47,
+      "priceTo": 47,
+      "merchant": "El Fergany",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-lunchbox-helal-star",
+      "name": "علبة طعام El Helal and Star ثلاثية",
+      "category": "علب طعام مدرسية",
+      "unit": "قطعة",
+      "priceFrom": 149.99,
+      "priceTo": 149.99,
+      "merchant": "El Fergany",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-bravo-200-10pens",
+      "name": "طقم أقلام جاف Bravo 200 – 10 أقلام",
+      "category": "أقلام وأدوات كتابة",
+      "unit": "10 أقلام",
+      "priceFrom": 48,
+      "priceTo": 48,
+      "merchant": "Mahmoud Elfar",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-prima-a4-file",
+      "name": "ملف كبس Prima 200 مقاس A4",
+      "category": "ملفات وحافظات",
+      "unit": "قطعة",
+      "priceFrom": 10,
+      "priceTo": 10,
+      "merchant": "Mahmoud Elfar",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-prima-flomaster-6",
+      "name": "ألوان فلوماستر Prima – 6 ألوان",
+      "category": "أقلام وألوان",
+      "unit": "6 ألوان",
+      "priceFrom": 23.95,
+      "priceTo": 23.95,
+      "merchant": "Panda",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-prima-genta-10",
+      "name": "طقم أقلام Prima Genta – 10 أقلام",
+      "category": "أقلام وأدوات كتابة",
+      "unit": "10 أقلام",
+      "priceFrom": 61.95,
+      "priceTo": 61.95,
+      "merchant": "Panda",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-prima-nova-10",
+      "name": "طقم أقلام Prima Nova – 10 أقلام",
+      "category": "أقلام وأدوات كتابة",
+      "unit": "10 أقلام",
+      "priceFrom": 61.95,
+      "priceTo": 61.95,
+      "merchant": "Panda",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-roto-fusion-12",
+      "name": "أقلام Roto Fusion جاف 0.7 مم – 12 قطعة",
+      "category": "أقلام وأدوات كتابة",
+      "unit": "12 قطعة",
+      "priceFrom": 35,
+      "priceTo": 35,
+      "merchant": "El Fergany",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-roto-highlighter-4",
+      "name": "أقلام تحديد Roto Highlighter Neon – 4 قطع",
+      "category": "أقلام وألوان",
+      "unit": "4 قطع",
+      "priceFrom": 34.99,
+      "priceTo": 34.99,
+      "merchant": "El Fergany",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-staedtler-norica-12",
+      "name": "أقلام رصاص Staedtler Norica مع استيكة – 12 قلمًا",
+      "category": "أقلام وأدوات كتابة",
+      "unit": "12 قلمًا",
+      "priceFrom": 134,
+      "priceTo": 134,
+      "merchant": "Fathalla",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "stationery-fattuta-mg-glue-60g",
+      "name": "لاصق مدرسي أبيض M&G – 60 جم",
+      "category": "لوازم مدرسية",
+      "unit": "60 جم",
+      "priceFrom": 33.5,
+      "priceTo": 33.5,
+      "merchant": "HyperOne",
+      "source": "https://fattuta.com/eg/en/categories/toys-school/school-supplies",
+      "checkedAt": "2026-11-14"
     }
   ]
 }
