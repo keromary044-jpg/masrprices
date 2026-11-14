@@ -45,6 +45,7 @@ on:
       - "privacy.html"
       - "terms.html"
       - "products/**"
+      - "functions/products/**"
       - "site-enhancements.js"
       - "app.js"
       - "worker.js"
@@ -125,6 +126,8 @@ jobs:
           robots = (root / "robots.txt").read_text(encoding="utf-8")
           pages_worker = (root / "_worker.js").read_text(encoding="utf-8")
           assert "masrprices-new.keromary044.workers.dev" in pages_worker and "X-Frame-Options" in pages_worker, "Pages API proxy or security headers are missing"
+          assert "const categorySlugByName =" in pages_worker and "categorySlugByName[p.category]" in pages_worker, "Product detail pages must link to their own category"
+          assert 'href="/category/phones/">تصفح الأقسام' not in pages_worker, "Product pages must not all link to the phones category"
           assert base + "sitemap.xml" in robots, "robots.txt does not point to the production sitemap"
           for name in ["index.html", "about.html", "contact.html", "privacy.html", "terms.html", "products/index.html"]:
               html = (root / name).read_text(encoding="utf-8")
