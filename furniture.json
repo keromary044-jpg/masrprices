@@ -1871,5 +1871,125 @@
     "source": "https://www.ikea.com/eg/en/cat/desks-computer-desks-20649/",
     "checkedAt": "2026-11-09",
     "priceStatus": "retailer_listing"
+  },
+  {
+    "id": "furn-ikea-sandsberg-chair-20261114",
+    "name": "كرسي SANDSBERG أبيض",
+    "category": "كراسي",
+    "brand": "IKEA",
+    "price": 995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/chairs-700676/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-sandsberg-chair-anthracite-20261114",
+    "name": "كرسي SANDSBERG أنثراسيت",
+    "category": "كراسي",
+    "brand": "IKEA",
+    "price": 1395,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/chairs-700676/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-vihals-table-20261114",
+    "name": "ترابيزة VIHALS أبيض 125×74 سم",
+    "category": "ترابيزات",
+    "brand": "IKEA",
+    "price": 5995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/vihals-series-57167/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-sandsberg-table-20261114",
+    "name": "ترابيزة SANDSBERG أسود 110×67 سم",
+    "category": "ترابيزات",
+    "brand": "IKEA",
+    "price": 4995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/tables-700675/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-lack-coffee-table-20261114",
+    "name": "ترابيزة قهوة LACK أبيض 90×55 سم",
+    "category": "ترابيزات",
+    "brand": "IKEA",
+    "price": 1995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/tables-700675/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-neiden-bed-20261114",
+    "name": "سرير NEIDEN خشب صنوبر 90×200 سم",
+    "category": "سراير",
+    "brand": "IKEA",
+    "price": 3695,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/beds-bm003/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-vihals-bed-20261114",
+    "name": "سرير VIHALS أبيض 160×200 سم",
+    "category": "سراير",
+    "brand": "IKEA",
+    "price": 10995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/vihals-series-57167/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-glostad-sofa-2-20261114",
+    "name": "كنبة GLOSTAD مقعدين رمادي غامق",
+    "category": "كنب",
+    "brand": "IKEA",
+    "price": 9995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/sofas-fu003/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-glostad-sofa-3-20261114",
+    "name": "كنبة GLOSTAD ثلاثة مقاعد رمادي غامق",
+    "category": "كنب",
+    "brand": "IKEA",
+    "price": 14995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/sofas-fu003/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-friheten-sofabed-20261114",
+    "name": "كنبة سرير FRIHETEN ثلاثة مقاعد رمادي غامق",
+    "category": "كنب وسراير",
+    "brand": "IKEA",
+    "price": 35995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/friheten-series-54980/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-vihals-shelf-20261114",
+    "name": "وحدة رفوف VIHALS ستة أرفف رمادي غامق",
+    "category": "تخزين وتنظيم",
+    "brand": "IKEA",
+    "price": 4995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/vihals-series-57167/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-smaskrake-chair-20261114",
+    "name": "كرسي وطاولة أطفال SMÅSKRAKE أخضر",
+    "category": "كراسي",
+    "brand": "IKEA",
+    "price": 1299,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/chairs-700676/",
+    "checkedAt": "2026-11-14"
   }
 ]
