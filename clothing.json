@@ -4109,6 +4109,94 @@
       "merchant": "LC Waikiki Egypt",
       "source": "https://www.lcwaikiki.eg/en/t-shirts-u-300345",
       "checkedAt": "2026-11-08"
+    },
+    {
+      "id": "clothing-lcw-pique-polo-20261114",
+      "name": "تيشيرت رجالي LCWAIKIKI Classic بياقة بولو من قماش بيكيه",
+      "category": "ملابس رجالية",
+      "brand": "LCWAIKIKI Classic",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 499,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-xside-print-tee-20261114",
+      "name": "تيشيرت رجالي XSIDE جيرسي مطبوع بياقة دائرية",
+      "category": "ملابس رجالية",
+      "brand": "XSIDE",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 399,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-vision-shirt-20261114",
+      "name": "قميص رجالي LCW Vision دوبي بقصة عادية",
+      "category": "ملابس رجالية",
+      "brand": "LCW Vision",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 899,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-classic-sweatshirt-20261114",
+      "name": "سويت شيرت رجالي LCWAIKIKI Classic سميك بياقة عالية",
+      "category": "ملابس رجالية",
+      "brand": "LCWAIKIKI Classic",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 699,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-xside-hoodie-20261114",
+      "name": "هودي رجالي XSIDE مطبوع سميك",
+      "category": "ملابس رجالية",
+      "brand": "XSIDE",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 999,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-xside-cargo-20261114",
+      "name": "بنطلون كارجو رجالي XSIDE جاباردين بقصة عادية",
+      "category": "ملابس رجالية",
+      "brand": "XSIDE",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 1299,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-jeans-20261114",
+      "name": "جينز رجالي LCW Jeans قصة مريحة",
+      "category": "ملابس رجالية",
+      "brand": "LCW Jeans",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 1099,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
+      "checkedAt": "2026-11-14"
+    },
+    {
+      "id": "clothing-lcw-southblue-coat-20261114",
+      "name": "معطف رجالي SOUTHBLUE بمظهر الجلد",
+      "category": "ملابس رجالية",
+      "brand": "SOUTHBLUE",
+      "size": "حسب المقاسات المتاحة بالمتجر",
+      "price": 2999,
+      "merchant": "LC Waikiki Egypt",
+      "source": "https://www.lcwaikiki.eg/%D8%A7%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3-t-9",
+      "checkedAt": "2026-11-14"
     }
   ],
   "lastAutomaticUpdate": "2026-11-09 10:48 Cairo"
