@@ -427,3 +427,11 @@ footer{background:var(--deep);color:#dce6f1;text-align:center;padding:18px 0;fon
 .currency-search-input{display:block;width:100%;min-height:52px;padding:12px 16px;border:1px solid #cbd8e7;border-radius:14px;background:#fff;color:#12385e;font:inherit;box-sizing:border-box;outline-offset:2px}
 .currency-search-input:focus{border-color:#27649a;box-shadow:0 0 0 3px rgba(39,100,154,.12)}
 .currency-count{margin:10px 2px;color:#64748b;font-size:.9rem;font-weight:700}
+
+
+/* Final viewport safety: prevent accidental page-wide horizontal scrolling on phones. */
+html,body{max-width:100%;overflow-x:clip}
+.container{max-width:100%;min-width:0}
+img,video,iframe,svg{max-width:100%}
+input,select,textarea,button{max-width:100%}
+.category-grid,.phone-grid,.book-grid,.generic-product-grid,.market-grid,.market-quote-grid,.generic-catalog-section,.phone-catalog,.book-catalog{min-width:0;max-width:100%}
