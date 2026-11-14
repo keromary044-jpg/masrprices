@@ -816,9 +816,12 @@
     "name": "بذور زينيا",
     "category": "بذور",
     "brand": "كتالوج نباتات MasrPrices",
-    "price": null,
+    "price": 20,
     "priceStatus": "لا يوجد سعر موثق؛ ليس عرض بيع",
-    "details": "سجل تعريفي ضمن كتالوج النباتات. لم يُنشر سعر لأننا لم نتحقق من عرض بيع موثوق لهذا الصنف."
+    "details": "سعر منشور لدى Plantos وقت الرصد؛ تحقق من حجم العبوة والتوافر قبل الاعتماد.",
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/trb-o-bthor",
+    "checkedAt": "2026-11-14"
   },
   {
     "id": "plant-added-marigold",
@@ -915,9 +918,12 @@
     "name": "بذور سبانخ",
     "category": "بذور خضروات",
     "brand": "كتالوج نباتات MasrPrices",
-    "price": null,
+    "price": 20,
     "priceStatus": "لا يوجد سعر موثق؛ ليس عرض بيع",
-    "details": "سجل تعريفي ضمن كتالوج النباتات. لم يُنشر سعر لأننا لم نتحقق من عرض بيع موثوق لهذا الصنف."
+    "details": "سعر منشور لدى Plantos وقت الرصد؛ تحقق من حجم العبوة والتوافر قبل الاعتماد.",
+    "merchant": "Plantos",
+    "source": "https://www.plantoseg.store/category/trb-o-bthor",
+    "checkedAt": "2026-11-14"
   },
   {
     "id": "plant-added-radish",
