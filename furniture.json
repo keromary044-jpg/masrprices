@@ -1991,5 +1991,105 @@
     "merchant": "IKEA Egypt",
     "source": "https://www.ikea.com/eg/en/cat/chairs-700676/",
     "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-vihals-tvbench-20261114",
+    "name": "وحدة تلفزيون VIHALS أبيض 146×37×50 سم",
+    "category": "تخزين وتنظيم",
+    "brand": "IKEA",
+    "price": 14995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/vihals-series-57167/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-neiden-bed-140-20261114",
+    "name": "سرير NEIDEN خشب صنوبر 140×200 سم",
+    "category": "سراير",
+    "brand": "IKEA",
+    "price": 4395,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/beds-bm003/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-gullaberg-bed-20261114",
+    "name": "سرير GULLABERG أبيض 160×200 سم",
+    "category": "سراير",
+    "brand": "IKEA",
+    "price": 18495,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/beds-bm003/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-hemnes-daybed-20261114",
+    "name": "سرير نهاري HEMNES بثلاثة أدراج",
+    "category": "سراير",
+    "brand": "IKEA",
+    "price": 24995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/sofa-beds-10663/f/sofa-beds-with-storage-f-feature--47487/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-fridhult-sofabed-20261114",
+    "name": "كنبة سرير FRIDHULT أصفر",
+    "category": "كنب وسراير",
+    "brand": "IKEA",
+    "price": 14495,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/two-seat-sofa-beds-700629/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-friheten-corner-20261114",
+    "name": "كنبة سرير FRIHETEN ركنية مع تخزين",
+    "category": "كنب وسراير",
+    "brand": "IKEA",
+    "price": 38995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/friheten-series-54980/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-ektorp-armchair-20261114",
+    "name": "كرسي بذراعين EKTORP مع مسند قدم",
+    "category": "كراسي",
+    "brand": "IKEA",
+    "price": 22990,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/chairs-700676/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-alhult-chair-20261114",
+    "name": "كرسي ÅLHULT بيج",
+    "category": "كراسي",
+    "brand": "IKEA",
+    "price": 5995,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/chairs-700676/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-vihals-dining-set-20261114",
+    "name": "طقم VIHALS ترابيزة وأربعة كراسي",
+    "category": "ترابيزات",
+    "brand": "IKEA",
+    "price": 21975,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/vihals-series-57167/",
+    "checkedAt": "2026-11-14"
+  },
+  {
+    "id": "furn-ikea-gavle-chair-20261114",
+    "name": "كرسي استرخاء GÄVLE رمادي",
+    "category": "كراسي",
+    "brand": "IKEA",
+    "price": 2495,
+    "merchant": "IKEA Egypt",
+    "source": "https://www.ikea.com/eg/en/cat/chairs-700676/",
+    "checkedAt": "2026-11-14"
   }
 ]
