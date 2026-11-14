@@ -204,35 +204,28 @@
   mpInitConsent();
 
   function appendProductVisual(card,item){
-    const wrap=element("div","catalog-image-wrap");
-    const image=element("img","catalog-product-image");
     const realUrl=item?.image||item?.imageUrl||item?.image_url||item?.coverImage||"";
-    const fallback=productIllustration(item);
-    image.alt="صورة "+String(item?.name||item?.title||"المنتج");
-    image.loading="lazy";image.decoding="async";image.referrerPolicy="no-referrer";
-    image.src=/^https:\/\//i.test(realUrl)?realUrl:fallback;
-    if(!/^https:\/\//i.test(realUrl))wrap.append(element("span","catalog-image-label","رسم تعريفي مؤقت"));
-    image.onerror=()=>{if(image.src!==fallback){image.src=fallback;wrap.replaceChildren(element("span","catalog-image-label","رسم تعريفي مؤقت"));}};
-    wrap.append(image);card.append(wrap);
+    if(/^https:\/\//i.test(realUrl)){
+      const wrap=element("div","catalog-image-wrap");
+      const image=element("img","catalog-product-image");
+      image.alt="صورة "+String(item?.name||item?.title||"المنتج");
+      image.loading="lazy";image.decoding="async";image.referrerPolicy="no-referrer";
+      image.src=realUrl;
+      image.onerror=()=>wrap.remove();
+      wrap.append(image);card.append(wrap);
+    }
     mpAttachProductTools(card,item);
   }
-  // Ensure every product card in every catalogue has at least an honest illustrative image.
+  // Do not manufacture product artwork. Only real HTTPS product images are shown.
   function ensureCatalogueImages(root=document){
     const selector='[id$="Products"] article,[id$="Catalog"] article,.book-grid article,.phone-grid article,.product-grid article,.catalog-grid article,.market-grid article';
     const candidates=[];
     if(root.matches?.(selector))candidates.push(root);
     if(root.querySelectorAll)candidates.push(...root.querySelectorAll(selector));
     candidates.forEach(card=>{
-      if(card.querySelector(".catalog-image-wrap")||!card.querySelector("h3,strong"))return;
-      const title=card.querySelector("h3,strong")?.textContent?.trim()||"منتج";
-      const item={name:title,category:card.closest("[id$='Catalog']")?.querySelector("h2")?.textContent?.trim()||"MasrPrices"};
-      const wrap=element("div","catalog-image-wrap");
-      const image=element("img","catalog-product-image");
-      image.alt="رسم توضيحي لـ "+title;
-      image.loading="lazy";image.decoding="async";
-      image.src=productIllustration(item);
-      wrap.append(element("span","catalog-image-label","رسم توضيحي — ليس صورة حقيقية"),image);
-      card.prepend(wrap);
+      const wrap=card.querySelector(".catalog-image-wrap");
+      const image=wrap?.querySelector("img");
+      if(image&&!/^https:\/\//i.test(image.getAttribute("src")||""))wrap.remove();
     });
   }
   ensureCatalogueImages();
