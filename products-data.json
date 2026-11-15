@@ -1301,8 +1301,8 @@
     "price": 225,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=917&code=14361&contentCode=8",
+    "sourceType": "product"
   },
   {
     "slug": "book-bayt-alhayah",
@@ -1310,8 +1310,8 @@
     "price": 225,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=919&code=14359&contentCode=8",
+    "sourceType": "product"
   },
   {
     "slug": "book-tut",
@@ -1319,8 +1319,8 @@
     "price": 216,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=927&code=14355&contentCode=8",
+    "sourceType": "product"
   },
   {
     "slug": "book-ma-zal",
@@ -1337,8 +1337,8 @@
     "price": 405,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?code=14325&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "book-1984",
@@ -1391,8 +1391,8 @@
     "price": 270,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=1559&code=125690&contentCode=79&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "book-body-language",
