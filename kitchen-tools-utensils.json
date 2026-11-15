@@ -1428,11 +1428,17 @@
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
     },
     {
-      "name": "علبة توابل – طقم 5 قطع",
-      "brand": "ماركات متعددة",
+      "name": "طقم مطبخ شفاف 5 قطع: 3 برطمانات توابل وزجاجتا زيت 500 مل",
+      "brand": "Generic",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 299,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
+      "unit": "5 قطع",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/slp/%D8%B7%D9%82%D9%85-%D9%85%D8%AC%D8%A7%D8%AA-%D9%83%D9%85%D8%A7%D9%84%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B7%D8%A8%D8%AE",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "M Design Dish Rack 33 x 43 x 12.5 cm",
@@ -1448,22 +1454,35 @@
       "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "حامل أطباق – طقم 2 قطعة",
-      "brand": "ماركات متعددة",
+      "name": "مجفف أطباق Max Plast بطابقين مع حامل أكواب وصينية تصريف",
+      "brand": "Max Plast",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "price": 356.25,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:04 Cairo",
+      "unit": "حامل بطابقين",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/countertop-dish-racks/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
-      "name": "حامل أطباق – طقم 3 قطع",
-      "brand": "ماركات متعددة",
+      "name": "حامل أطباق ستانلس ستيل ثلاثي الطبقات",
+      "brand": "Generic",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:11 Cairo",
+      "priceFrom": 600,
+      "priceTo": 670,
+      "unit": "3 طبقات",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/countertop-dish-racks/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "حامل أطباق – طقم 5 قطع",
@@ -1475,22 +1494,35 @@
       "priceSearchLastAttempt": "2026-11-09 15:11 Cairo"
     },
     {
-      "name": "رف مطبخ – قطعة واحدة",
-      "brand": "ماركات متعددة",
+      "name": "منظم رفوف توابل قائم بذاته من طبقتين",
+      "brand": "Generic",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "price": 213.75,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo",
+      "unit": "رف بطبقتين",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/countertop-dish-racks/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
-      "name": "رف مطبخ – طقم 2 قطعة",
-      "brand": "ماركات متعددة",
+      "name": "خزانة مطبخ ستانلس ستيل ثلاثية الطبقات مع درج",
+      "brand": "Generic",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:20 Cairo",
+      "priceFrom": 1075,
+      "priceTo": 1240,
+      "unit": "3 طبقات",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/countertop-dish-racks/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "رف مطبخ – طقم 3 قطع",
@@ -1518,18 +1550,30 @@
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
     },
     {
-      "name": "مفرش سفرة – طقم 2 قطعة",
-      "brand": "ماركات متعددة",
+      "name": "سرفيس ميلامين للاستخدامات المتعددة عدد 2 قطعة",
+      "brand": "Generic",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 200,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
+      "unit": "قطعتان",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/serving-set/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
-      "name": "مفرش سفرة – طقم 3 قطع",
-      "brand": "ماركات متعددة",
+      "name": "قواعد أكواب ليلة النجوم مجموعة 4 قطع",
+      "brand": "Generic",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
+      "price": 130,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
+      "unit": "4 قطع",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/serving-set/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "مفرش سفرة – طقم 5 قطع",
@@ -1539,13 +1583,19 @@
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا."
     },
     {
-      "name": "طقم أكواب – قطعة واحدة",
-      "brand": "ماركات متعددة",
+      "name": "أكواب زجاجية مزخرفة مجموعة 4 قطع",
+      "brand": "Generic",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "price": 130,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:17 Cairo",
+      "unit": "4 أكواب",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/serving-set/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "Elite Diamond Plastic Cup Set 2 Pieces",
@@ -1588,13 +1638,19 @@
       "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
-      "name": "طقم أطباق – طقم 2 قطعة",
-      "brand": "ماركات متعددة",
+      "name": "طقم 4 أطباق تقديم مستطيلة ملونة",
+      "brand": "Generic",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "price": 275,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+      "unit": "4 أطباق",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/serving-set/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "Elite Bowl Set 3 Pieces",
@@ -1653,13 +1709,19 @@
       "priceSearchLastAttempt": "2026-11-09 19:17 Cairo"
     },
     {
-      "name": "زجاجة زيت – قطعة واحدة",
-      "brand": "ماركات متعددة",
+      "name": "رشاش زيت وخل للطهي قابل لإعادة التعبئة",
+      "brand": "Taha",
       "category": "أدوات وأواني المطبخ",
-      "price": null,
-      "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
+      "price": 86,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
       "priceSearchAttempts": 1,
-      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo"
+      "priceSearchLastAttempt": "2026-11-09 15:45 Cairo",
+      "unit": "قطعة",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/graters-peelers-slicers/sun-plast/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "Home Oil and Vinegar Set 2 Piece 170ml",
@@ -1673,18 +1735,30 @@
       "priceStatus": "سعر منشور في قائمة متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب تأكيد التوفر عند الشراء."
     },
     {
-      "name": "مغرفة سيليكون",
-      "brand": "ماركات متعددة",
+      "name": "معلقة مخرمة سيليكون بيد خشبية",
+      "brand": "Generic",
       "category": "أدوات المطبخ",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 150,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
+      "unit": "قطعة",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/generic-silicone-slotted-spoon-kitchen-cooking-utensil-with-wooden-handle-134969683.html",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
-      "name": "ملعقة تقليب خشبية",
-      "brand": "ماركات متعددة",
+      "name": "ملعقة خشبية صغيرة من طه",
+      "brand": "Taha",
       "category": "أدوات المطبخ",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 14.78,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
+      "unit": "قطعة",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/graters-peelers-slicers/sun-plast/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "Pink Blue Bottle and Nipple Cleaning Brush Set 2 Pieces",
@@ -1698,11 +1772,17 @@
       "priceStatus": "سعر منشور في مصدر/متجر مصري بتاريخ 9 نوفمبر 2026؛ قابل للتغيير ويجب التأكد من التوفر والمواصفات عند الشراء."
     },
     {
-      "name": "فتاحة زجاجات",
-      "brand": "ماركات متعددة",
+      "name": "مجموعة فتاحات زجاجات بألوان متنوعة 3 قطع",
+      "brand": "Generic",
       "category": "أدوات المطبخ",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج."
+      "price": 30,
+      "details": "السعر المنشور في صفحة جوميا؛ تاريخ الرصد الدقيق غير متاح، والسعر قد يتغير حسب البائع والتوفر.",
+      "unit": "3 قطع",
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/graters-peelers-slicers/sun-plast/",
+      "checkedAt": null,
+      "currency": "EGP",
+      "priceStatus": "retailer_listing"
     },
     {
       "name": "Aramex Stainless Steel Multi-function Peeler",
