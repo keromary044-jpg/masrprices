@@ -1499,8 +1499,8 @@
     "price": 889990,
     "date": "2026-11-15",
     "category": "السيارات (18)",
-    "sourceUrl": "https://eg.instadriv.com/en/news/prices/mg-egypt-price-increase-october-up-to-25k-egp-4687",
-    "sourceType": "category"
+    "sourceUrl": "https://www.contactcars.com/en/new-cars/mg-5",
+    "sourceType": "comparison"
   },
   {
     "slug": "mg-5-2026-luxury",
@@ -1508,8 +1508,8 @@
     "price": 989990,
     "date": "2026-11-15",
     "category": "السيارات (18)",
-    "sourceUrl": "https://eg.instadriv.com/en/news/prices/mg-egypt-price-increase-october-up-to-25k-egp-4687",
-    "sourceType": "category"
+    "sourceUrl": "https://www.contactcars.com/en/new-cars/mg-5",
+    "sourceType": "comparison"
   },
   {
     "slug": "mg-zs-2026-comfort",
@@ -1526,8 +1526,8 @@
     "price": 1165000,
     "date": "2026-11-15",
     "category": "السيارات (18)",
-    "sourceUrl": "https://www.contactcars.com/sitemap.xml.gzcontaabout-uscontact-us/new-cars/mg-zs/year-2026",
-    "sourceType": "category"
+    "sourceUrl": "https://www.contactcars.com/en/new-cars/mg-zs/year-2026",
+    "sourceType": "comparison"
   },
   {
     "slug": "hyundai-elantra-shadow-2026",
@@ -1589,8 +1589,8 @@
     "price": 24.99,
     "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/egyptian-rice/darahem-egyptian-rice-1kg/p/588442",
+    "sourceType": "product"
   },
   {
     "slug": "grocery-pasta-maleka",
@@ -1607,8 +1607,8 @@
     "price": 10.99,
     "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/short-cut-pasta/ahl-alqema-pasta-vermicelli-400g/p/644719",
+    "sourceType": "product"
   },
   {
     "slug": "grocery-rice-elsaa",
@@ -1679,8 +1679,8 @@
     "price": 80,
     "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/tools-sets-/giza-adjustable-spanner/p/266335",
+    "sourceType": "product"
   },
   {
     "slug": "tool-testdriver",
@@ -1688,8 +1688,8 @@
     "price": 60,
     "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/tools-sets-/giza-screwdriver-for-electric-test/p/328850",
+    "sourceType": "product"
   },
   {
     "slug": "tool-screwdriver-cross",
@@ -1706,8 +1706,8 @@
     "price": 129,
     "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/tools-sets-/giza-screwdrivers-set-2-pcs-deluxe/p/266442",
+    "sourceType": "product"
   },
   {
     "slug": "tool-hammer",
@@ -1820,11 +1820,11 @@
   {
     "slug": "tool-weneed-set",
     "name": "طقم إصلاح منزلي Weneed عدد 5 قطع",
-    "price": 260,
+    "price": 274.95,
     "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/tools-sets-/weneed-screwdriver-set-5-pieces/p/668241",
+    "sourceType": "product"
   },
   {
     "slug": "tool-giza-pincer",
@@ -1841,8 +1841,8 @@
     "price": 177,
     "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/tools-sets-/wrench-size-3-set/p/668236",
+    "sourceType": "product"
   },
   {
     "slug": "tool-bosch-marker",
@@ -2255,8 +2255,8 @@
     "price": 379,
     "date": "2026-11-15",
     "category": "الرياضة (10)",
-    "sourceUrl": "https://www.decathlon.eg/ar/4913-balls",
-    "sourceType": "category"
+    "sourceUrl": "https://www.decathlon.eg/ar/p/334351-36610-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-first-kick-%D9%85%D9%82%D8%A7%D8%B3-4-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D8%B3%D9%86-9-%D8%A5%D9%84%D9%89-12-%D8%B3%D9%86%D8%A9-%D8%A3%D8%AD%D9%85%D8%B1.html",
+    "sourceType": "product"
   },
   {
     "slug": "sport-ball-kids5",
@@ -2264,8 +2264,8 @@
     "price": 399,
     "date": "2026-11-15",
     "category": "الرياضة (10)",
-    "sourceUrl": "https://www.decathlon.eg/ar/4913-balls",
-    "sourceType": "category"
+    "sourceUrl": "https://www.decathlon.eg/ar/p/334351-36609-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-first-kick-%D9%85%D9%82%D8%A7%D8%B3-5-%D9%84%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D9%86-%D8%B3%D9%86-%D8%A5%D9%84%D9%89-12-%D8%B3%D9%86%D8%A9-%D8%A3%D8%B5%D9%81%D8%B1.html",
+    "sourceType": "product"
   },
   {
     "slug": "sport-ball-training5",
@@ -2279,10 +2279,10 @@
   {
     "slug": "sport-ball-sunny300",
     "name": "كرة قدم KIPSTA Sunny 300 مقاس 4",
-    "price": 419,
+    "price": 319,
     "date": "2026-11-15",
     "category": "الرياضة (10)",
-    "sourceUrl": "https://www.decathlon.eg/ar/p/146097-164652-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%85%D9%82%D8%A7%D8%B3-4-%D8%A8%D8%B1%D8%AA%D9%82%D8%A7%D9%84%D9%8A.html",
+    "sourceUrl": "https://www.decathlon.eg/en/p/146097-165448-football-sunny-300-size-4-orange.html",
     "sourceType": "product"
   },
   {
@@ -2291,8 +2291,8 @@
     "price": 1899,
     "date": "2026-11-15",
     "category": "الرياضة (10)",
-    "sourceUrl": "https://www.decathlon.eg/en/content/68-football",
-    "sourceType": "category"
+    "sourceUrl": "https://www.decathlon.eg/en/p/373172-170026-football-match-ball-size-5-fifa-quality.html",
+    "sourceType": "product"
   },
   {
     "slug": "sport-ball-fifa-basic",
@@ -2309,8 +2309,8 @@
     "price": 749,
     "date": "2026-11-15",
     "category": "الرياضة (10)",
-    "sourceUrl": "https://www.decathlon.eg/ar/content/68-football",
-    "sourceType": "category"
+    "sourceUrl": "https://www.decathlon.eg/en/p/330946-123484-football-light-learning-ball-size-5-white-black.html",
+    "sourceType": "product"
   },
   {
     "slug": "sport-ball-mini",
