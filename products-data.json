@@ -2091,10 +2091,10 @@
     "slug": "pc-soap-dettol",
     "name": "صابون ديتول مضاد للبكتيريا 115 جم",
     "price": 34.99,
-    "date": "2026-11-11",
+    "date": "2026-11-15",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
-    "sourceType": "category"
+    "sourceUrl": "https://fattuta.com/eg/en/product/dettol-antibacterial-soap-original-115-g-fc0020533",
+    "sourceType": "comparison"
   },
   {
     "slug": "pc-toothpaste-signal",
@@ -2126,11 +2126,11 @@
   {
     "slug": "pc-shampoo-tresemme",
     "name": "شامبو Tresemme Keratin Smooth 400 مل",
-    "price": 184.99,
-    "date": "2026-11-11",
+    "price": 150,
+    "date": "2026-11-15",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
-    "sourceType": "category"
+    "sourceUrl": "https://fattuta.com/eg/en/product/tresemm-keratin-smooth-and-straight-shampoo-20-off-400-ml-fc0023903",
+    "sourceType": "comparison"
   },
   {
     "slug": "pc-deodorant-nivea",
@@ -2154,10 +2154,10 @@
     "slug": "pc-mouthwash-listerine",
     "name": "غسول فم Listerine Advanced White 250 مل",
     "price": 119.99,
-    "date": "2026-11-11",
+    "date": "2026-11-15",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2000000",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/mouth-wash-hygiene/listerine-advanced-white-250ml/p/611051",
+    "sourceType": "product"
   },
   {
     "slug": "pc-lotion-glysolid",
@@ -2172,19 +2172,19 @@
     "slug": "pc-handcream-caremore",
     "name": "كريم يدين Care & More 50 مل",
     "price": 57.5,
-    "date": "2026-11-11",
+    "date": "2026-11-15",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY2020000",
-    "sourceType": "category"
+    "sourceUrl": "https://fattuta.com/eg/en/product/care-and-more-hand-cream-moisturizing-and-nourishing-50-ml-fc0040672",
+    "sourceType": "comparison"
   },
   {
     "slug": "pc-showergel-lux",
     "name": "جل استحمام Lux Magical Beauty 500 مل",
-    "price": 86.99,
-    "date": "2026-11-11",
+    "price": 87.5,
+    "date": "2026-11-15",
     "category": "العناية الشخصية (18)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/13531",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/shower-gel-beauty/lux-shower-gel-magical-beauty-500m/p/435908",
+    "sourceType": "product"
   },
   {
     "slug": "pc-lifebuoy-soap",
