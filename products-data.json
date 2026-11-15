@@ -1010,11 +1010,11 @@
   {
     "slug": "school-3-v9lvse",
     "name": "الأضواء أسئلة التاريخ – 3ث – الترم الأول 2026/2027",
-    "price": 249,
-    "date": "2026-11-02",
+    "price": 234,
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%A3%D8%B6%D9%88%D8%A7%D8%A1%20%D8%A3%D8%B3%D8%A6%D9%84%D8%A9%20%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%E2%80%93%203%D8%AB%20%E2%80%93%20%D8%A7%D9%84%D8%AA%D8%B1%D9%85%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%202026%2F2027%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.kareemandahmed.com/product/%D8%A7%D9%84%D8%A7%D8%B6%D9%88%D8%A7%D8%A1-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D8%B3%D8%A6%D9%84%D9%87-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D8%AB%D8%A7%D9%86%D9%88%D9%8A-sahl-1376",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-1rxya5h",
@@ -1389,10 +1389,10 @@
     "slug": "book-psychology",
     "name": "الصحة النفسية",
     "price": 270,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%B5%D8%AD%D8%A9%20%D8%A7%D9%84%D9%86%D9%81%D8%B3%D9%8A%D8%A9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-body-language",
@@ -1416,10 +1416,10 @@
     "slug": "book-humanity",
     "name": "أين الإنسان",
     "price": 252,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A3%D9%8A%D9%86%20%D8%A7%D9%84%D8%A5%D9%86%D8%B3%D8%A7%D9%86%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "nissan-sunny-2027-base-mt",
@@ -1496,38 +1496,38 @@
   {
     "slug": "mg-5-2026-comfort",
     "name": "MG 5 2026 – Comfort",
-    "price": 874990,
-    "date": "2026-09-10",
+    "price": 889990,
+    "date": "2026-11-15",
     "category": "السيارات (18)",
-    "sourceUrl": "https://www.google.com/search?q=%22MG%205%202026%20%E2%80%93%20Comfort%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://eg.instadriv.com/en/news/prices/mg-egypt-price-increase-october-up-to-25k-egp-4687",
+    "sourceType": "category"
   },
   {
     "slug": "mg-5-2026-luxury",
     "name": "MG 5 2026 – Luxury",
-    "price": 974990,
-    "date": "2026-09-10",
+    "price": 989990,
+    "date": "2026-11-15",
     "category": "السيارات (18)",
-    "sourceUrl": "https://www.google.com/search?q=%22MG%205%202026%20%E2%80%93%20Luxury%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://eg.instadriv.com/en/news/prices/mg-egypt-price-increase-october-up-to-25k-egp-4687",
+    "sourceType": "category"
   },
   {
     "slug": "mg-zs-2026-comfort",
     "name": "MG ZS 2026 – Comfort",
     "price": 1075000,
-    "date": "2026-08-05",
+    "date": "2026-11-15",
     "category": "السيارات (18)",
-    "sourceUrl": "https://www.google.com/search?q=%22MG%20ZS%202026%20%E2%80%93%20Comfort%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.contactcars.com/ar/new-cars/mg-zs/e48c01b02a28",
+    "sourceType": "product"
   },
   {
     "slug": "mg-zs-2026-luxury",
     "name": "MG ZS 2026 – Luxury",
-    "price": 1150000,
-    "date": "2026-08-05",
+    "price": 1165000,
+    "date": "2026-11-15",
     "category": "السيارات (18)",
-    "sourceUrl": "https://www.google.com/search?q=%22MG%20ZS%202026%20%E2%80%93%20Luxury%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.contactcars.com/sitemap.xml.gzcontaabout-uscontact-us/new-cars/mg-zs/year-2026",
+    "sourceType": "category"
   },
   {
     "slug": "hyundai-elantra-shadow-2026",
