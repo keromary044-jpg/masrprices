@@ -326,11 +326,11 @@
   {
     "slug": "pc-lenovo-mouse400",
     "name": "ماوس لاسلكي Lenovo 400 Wireless Mouse",
-    "price": 599,
-    "date": "2026-11-02",
+    "price": 559,
+    "date": "2026-11-13",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%A7%D9%88%D8%B3%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%20Lenovo%20400%20Wireless%20Mouse%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://priceteq.com/eg/product/b30ab736-9ce1-46b1-b2bd-3e9667c0b9b8",
+    "sourceType": "comparison"
   },
   {
     "slug": "pc-dell-wm126",
@@ -362,20 +362,20 @@
   {
     "slug": "pc-hyperx-cloud-mini",
     "name": "سماعة ألعاب HyperX Cloud Mini",
-    "price": 1550,
-    "date": "2026-11-02",
+    "price": 1899,
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20%D8%A3%D9%84%D8%B9%D8%A7%D8%A8%20HyperX%20Cloud%20Mini%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.noon.com/egypt-ar/cloud-mini-wired-headset-black-red/N70098368V/p/",
+    "sourceType": "product"
   },
   {
     "slug": "pc-hyperx-stinger2",
     "name": "سماعة ألعاب HyperX Cloud Stinger 2 Core",
-    "price": 2450,
-    "date": "2026-11-02",
+    "price": 2499,
+    "date": "2026-10-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20%D8%A3%D9%84%D8%B9%D8%A7%D8%A8%20HyperX%20Cloud%20Stinger%202%20Core%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://connect4techs.com/hardware-prices/hyperx-cloud-stinger-2-core/",
+    "sourceType": "comparison"
   },
   {
     "slug": "pc-baseus-hub5",
