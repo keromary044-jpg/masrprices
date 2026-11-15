@@ -1398,10 +1398,10 @@
     "slug": "book-body-language",
     "name": "لغة الجسد",
     "price": 225,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%AC%D8%B3%D8%AF%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=1387&code=141230&contentCode=80",
+    "sourceType": "product"
   },
   {
     "slug": "book-history",
@@ -1910,11 +1910,11 @@
   {
     "slug": "clothing-men-print",
     "name": "تيشيرت رجالي مطبوع برسمة نخيل",
-    "price": 249,
-    "date": "2026-11-02",
+    "price": 630,
+    "date": "2026-11-15",
     "category": "الملابس (9)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%20%D8%B1%D8%AC%D8%A7%D9%84%D9%8A%20%D9%85%D8%B7%D8%A8%D9%88%D8%B9%20%D8%A8%D8%B1%D8%B3%D9%85%D8%A9%20%D9%86%D8%AE%D9%8A%D9%84%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.maxfashion.com/eg/en/buy-palm-tree-print-t-shirt/p/167636987",
+    "sourceType": "product"
   },
   {
     "slug": "clothing-women-raneen",
@@ -1938,10 +1938,10 @@
     "slug": "clothing-roomba-sneaker",
     "name": "حذاء Roomba Fashion Sneakers",
     "price": 335,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الملابس (9)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D8%B0%D8%A7%D8%A1%20Roomba%20Fashion%20Sneakers%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.jumia.com.eg/generic-roomba-fashion-sneakers-men-34970502.html",
+    "sourceType": "product"
   },
   {
     "slug": "clothing-activ-sneaker",
