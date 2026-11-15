@@ -588,10 +588,10 @@
     "slug": "app-argosta-washer6",
     "name": "غسالة ARGOSTA تحميل أمامي 6 كجم",
     "price": 9999,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الأجهزة المنزلية (24)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20ARGOSTA%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A3%D9%85%D8%A7%D9%85%D9%8A%206%20%D9%83%D8%AC%D9%85%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.jumia.com.eg/argosta-front-load-washing-machine-6kg-1000-rpm-made-in-turkey-134587356.html",
+    "sourceType": "product"
   },
   {
     "slug": "app-fresh-micro20",
@@ -1892,11 +1892,11 @@
   {
     "slug": "clothing-women-top",
     "name": "توب نسائي Marco Lorie بدون أكمام مقاس L",
-    "price": 189,
-    "date": "2026-11-02",
+    "price": 229,
+    "date": "2026-11-15",
     "category": "الملابس (9)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%88%D8%A8%20%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%20Marco%20Lorie%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%A3%D9%83%D9%85%D8%A7%D9%85%20%D9%85%D9%82%D8%A7%D8%B3%20L%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/ladies-t-shirts/marco-lorie-women-top-white-l/p/657911",
+    "sourceType": "product"
   },
   {
     "slug": "clothing-men-jil",
