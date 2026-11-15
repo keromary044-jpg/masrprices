@@ -461,14 +461,16 @@
   },
   {
     "id": "groceries-catalog-020",
-    "name": "سمن نباتي – مقاس صغير",
+    "name": "سمن نباتي ظاظا 350 جم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "price": 19.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000",
+    "checkedAt": "2026-11-15",
+    "brand": "ظاظا",
+    "unit": "350 جم",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المعروض في قائمة منتجات كارفور مصر وقت الرصد؛ قد يتغير حسب الفرع والتوفر."
   },
   {
     "id": "groceries-catalog-021",
@@ -905,14 +907,16 @@
   },
   {
     "id": "groceries-catalog-053",
-    "name": "خل أبيض – مقاس صغير",
+    "name": "خل أبيض وادي فوود 1 لتر",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "price": 17.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000",
+    "checkedAt": "2026-11-15",
+    "brand": "وادي فوود",
+    "unit": "1 لتر",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المعروض في قائمة منتجات كارفور مصر وقت الرصد؛ قد يتغير حسب الفرع والتوفر."
   },
   {
     "id": "groceries-catalog-054",
@@ -1541,14 +1545,16 @@
   },
   {
     "id": "groceries-catalog-103",
-    "name": "ملح طعام – مقاس متوسط",
+    "name": "ملح طعام يودي كوكس 700 جم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "price": 14.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000",
+    "checkedAt": "2026-11-15",
+    "brand": "كوكس",
+    "unit": "700 جم",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المعروض في قائمة منتجات كارفور مصر وقت الرصد؛ قد يتغير حسب الفرع والتوفر."
   },
   {
     "id": "groceries-catalog-104",
@@ -1693,14 +1699,16 @@
   },
   {
     "id": "groceries-catalog-115",
-    "name": "زبدة – مقاس متوسط",
+    "name": "زبدة المراعي طبيعية غير مملحة 200 جم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "price": 189.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar",
+    "checkedAt": "2026-11-15",
+    "brand": "المراعي",
+    "unit": "200 جم",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المعروض في قائمة منتجات كارفور مصر وقت الرصد؛ قد يتغير حسب الفرع والتوفر."
   },
   {
     "id": "groceries-catalog-116",
@@ -2125,14 +2133,16 @@
   },
   {
     "id": "groceries-catalog-147",
-    "name": "خل أبيض – مقاس متوسط",
+    "name": "خل أبيض هاينز 1 لتر",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "price": 21.5,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000",
+    "checkedAt": "2026-11-15",
+    "brand": "هاينز",
+    "unit": "1 لتر",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المعروض في قائمة منتجات كارفور مصر وقت الرصد؛ قد يتغير حسب الفرع والتوفر."
   },
   {
     "id": "groceries-catalog-148",
@@ -2283,14 +2293,16 @@
   },
   {
     "id": "groceries-catalog-161",
-    "name": "تمر – مقاس متوسط",
+    "name": "تمر القصيم سكري 1 كجم",
     "category": "مواد غذائية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
-    "unit": "عبوة/وزن حسب المنتج"
+    "price": 219.99,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar",
+    "checkedAt": "2026-11-15",
+    "brand": "القصيم",
+    "unit": "1 كجم",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المعروض في قائمة منتجات كارفور مصر وقت الرصد؛ قد يتغير حسب الفرع والتوفر."
   },
   {
     "id": "groceries-catalog-162",
