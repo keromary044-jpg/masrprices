@@ -1713,10 +1713,10 @@
     "slug": "tool-hammer",
     "name": "شاكوش Elgiza وزن 500 جرام",
     "price": 249,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B4%D8%A7%D9%83%D9%88%D8%B4%20Elgiza%20%D9%88%D8%B2%D9%86%20500%20%D8%AC%D8%B1%D8%A7%D9%85%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/30513",
+    "sourceType": "category"
   },
   {
     "slug": "tool-toolbox",
@@ -1748,11 +1748,11 @@
   {
     "slug": "tool-screwdrivers",
     "name": "طقم مفكات Bosch عدد 3",
-    "price": 399,
-    "date": "2026-11-02",
+    "price": 265,
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D9%85%D9%81%D9%83%D8%A7%D8%AA%20Bosch%20%D8%B9%D8%AF%D8%AF%203%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.el-catalog.store/en/collections/bosch-power-tools/products/bosch-screwdriver-set-3-piece-1600a0275g",
+    "sourceType": "product"
   },
   {
     "slug": "tool-bitset",
@@ -1775,11 +1775,11 @@
   {
     "slug": "tool-hacksaw-apt",
     "name": "منشار حديد يدوي APT مقاس 12 بوصة",
-    "price": 215,
-    "date": "2026-11-02",
+    "price": 237,
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%86%D8%B4%D8%A7%D8%B1%20%D8%AD%D8%AF%D9%8A%D8%AF%20%D9%8A%D8%AF%D9%88%D9%8A%20APT%20%D9%85%D9%82%D8%A7%D8%B3%2012%20%D8%A8%D9%88%D8%B5%D8%A9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.shabanastores.com/en/shop/tools/hand-tools/apt-hacksaw-12-inch-30-cm/",
+    "sourceType": "product"
   },
   {
     "slug": "tool-bosch-brick-bits",
@@ -1830,10 +1830,10 @@
     "slug": "tool-giza-pincer",
     "name": "كماشة Giza",
     "price": 209,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D9%85%D8%A7%D8%B4%D8%A9%20Giza%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/30513",
+    "sourceType": "category"
   },
   {
     "slug": "tool-weneed-spanner",
