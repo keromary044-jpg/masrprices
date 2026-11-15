@@ -1676,20 +1676,20 @@
   {
     "slug": "tool-wrench",
     "name": "مفتاح ربط Giza",
-    "price": 70,
-    "date": "2026-11-02",
+    "price": 80,
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%81%D8%AA%D8%A7%D8%AD%20%D8%B1%D8%A8%D8%B7%20Giza%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+    "sourceType": "category"
   },
   {
     "slug": "tool-testdriver",
     "name": "مفك اختبار كهرباء Giza",
-    "price": 50,
-    "date": "2026-11-02",
+    "price": 60,
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%81%D9%83%20%D8%A7%D8%AE%D8%AA%D8%A8%D8%A7%D8%B1%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A1%20Giza%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+    "sourceType": "category"
   },
   {
     "slug": "tool-screwdriver-cross",
@@ -1703,11 +1703,11 @@
   {
     "slug": "tool-screwdriver-set",
     "name": "طقم مفكات Elgiza قطعتان",
-    "price": 119,
-    "date": "2026-11-02",
+    "price": 129,
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D9%85%D9%81%D9%83%D8%A7%D8%AA%20Elgiza%20%D9%82%D8%B7%D8%B9%D8%AA%D8%A7%D9%86%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+    "sourceType": "category"
   },
   {
     "slug": "tool-hammer",
@@ -1739,11 +1739,11 @@
   {
     "slug": "tool-allen",
     "name": "طقم مفاتيح ألن INGCO عدد 9",
-    "price": 160,
-    "date": "2026-11-02",
+    "price": 189.8,
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD%20%D8%A3%D9%84%D9%86%20INGCO%20%D8%B9%D8%AF%D8%AF%209%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://elsabtiya.com/product/ingco-hhk11092-9pcs-hex-allen-key-wrench-set-extra-long-arm%D8%B7%D9%82%D9%85-%D8%A7%D9%84%D9%86%D9%83%D9%8A%D8%A9-%D9%85%D8%B3%D8%AF%D8%B3-%D8%B7%D9%88%D9%8A%D9%84-c/",
+    "sourceType": "product"
   },
   {
     "slug": "tool-screwdrivers",
@@ -1757,20 +1757,20 @@
   {
     "slug": "tool-bitset",
     "name": "طقم رؤوس مفكات Bosch عدد 32",
-    "price": 598,
-    "date": "2026-11-02",
+    "price": 475,
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D8%B1%D8%A4%D9%88%D8%B3%20%D9%85%D9%81%D9%83%D8%A7%D8%AA%20Bosch%20%D8%B9%D8%AF%D8%AF%2032%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://adwatmisr.com/products/copy-of-bosch-2607019504-screwdriver-set-of-46-pieces-assorted-color-%D8%B7%D9%82%D9%85-%D8%B3%D9%86%D9%88%D9%86-%D9%85%D9%81%D9%83-%D9%88-%D9%84%D9%82%D9%85-46-%D9%82%D8%B7%D8%B9%D9%87-%D9%85%D8%B9-%D9%85%D9%81%D9%83-%D8%B3%D9%8A%D8%B3%D8%AA%D9%8A%D9%85-%D9%85%D9%86-%D8%A8%D9%88%D8%B4",
+    "sourceType": "product"
   },
   {
     "slug": "tool-level",
     "name": "ميزان استواء TRIXIG",
-    "price": 999,
-    "date": "2026-11-02",
+    "price": 899,
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%D8%B2%D8%A7%D9%86%20%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1%20TRIXIG%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.ikea.com/eg/en/p/trixig-spirit-level-70546907/",
+    "sourceType": "product"
   },
   {
     "slug": "tool-hacksaw-apt",
@@ -1839,10 +1839,10 @@
     "slug": "tool-weneed-spanner",
     "name": "طقم مفاتيح ربط Weneed ثلاثة مقاسات",
     "price": 177,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الأدوات (21)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD%20%D8%B1%D8%A8%D8%B7%20Weneed%20%D8%AB%D9%84%D8%A7%D8%AB%D8%A9%20%D9%85%D9%82%D8%A7%D8%B3%D8%A7%D8%AA%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY8051000",
+    "sourceType": "category"
   },
   {
     "slug": "tool-bosch-marker",
