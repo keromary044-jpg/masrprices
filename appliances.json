@@ -1113,15 +1113,19 @@
   },
   {
     "id": "appliances-catalog-064",
-    "name": "مبرد مياه – مقاس متوسط",
+    "name": "مبرد مياه كولدير بثلاجة ساخن وبارد فضي Classic-AF",
     "category": "أجهزة منزلية",
-    "price": null,
-    "merchant": "غير محدد",
-    "source": "",
-    "checkedAt": "",
-    "brand": "غير محدد",
+    "price": 8199,
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/ar",
+    "checkedAt": "2026-11-15",
+    "brand": "كولدير",
     "priceSearchAttempts": 1,
-    "priceSearchLastAttempt": "2026-11-09 19:02 Cairo"
+    "priceSearchLastAttempt": "2026-11-09 19:02 Cairo",
+    "model": "Classic-AF",
+    "unit": "جهاز",
+    "priceStatus": "retailer_listing",
+    "details": "السعر المعروض في قائمة منتجات كارفور مصر وقت الرصد؛ قد يتغير حسب الفرع والتوفر."
   },
   {
     "id": "appliances-catalog-065",
