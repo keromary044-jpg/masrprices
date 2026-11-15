@@ -644,8 +644,8 @@
     "price": 67.5,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?code=3327&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "ahram-may",
