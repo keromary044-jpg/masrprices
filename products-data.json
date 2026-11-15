@@ -1236,28 +1236,28 @@
     "slug": "bs-2prep-abdelmoez-german",
     "name": "كتاب اللغة الألمانية – الصف الثاني الإعدادي",
     "price": 100,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://books-station.com/products?category_id=%D9%83%D8%AA%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D9%86",
+    "sourceType": "category"
   },
   {
     "slug": "bs-3prep-abdelmoez-german",
     "name": "كتاب اللغة الألمانية – الصف الثالث الإعدادي",
     "price": 100,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D8%AA%D8%A7%D8%A8%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A9%20%E2%80%93%20%D8%A7%D9%84%D8%B5%D9%81%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB%20%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://books-station.com/products?category_id=%D9%83%D8%AA%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D9%86",
+    "sourceType": "category"
   },
   {
     "slug": "book-ayyam",
     "name": "أيام في ذاكرة المصريين",
     "price": 180,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A3%D9%8A%D8%A7%D9%85%20%D9%81%D9%8A%20%D8%B0%D8%A7%D9%83%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-hokkam",
@@ -1272,73 +1272,73 @@
     "slug": "book-psychology-crowds",
     "name": "سيكولوجية الجماهير",
     "price": 90,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%8A%D9%83%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9%20%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-case-fahm",
     "name": "حالة فهم",
     "price": 135,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%AD%D8%A7%D9%84%D8%A9%20%D9%81%D9%87%D9%85%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-keyword",
     "name": "كلمة السر",
     "price": 189,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-sindirella",
     "name": "سندريلا وذات الوجنات الوردية",
     "price": 225,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%86%D8%AF%D8%B1%D9%8A%D9%84%D8%A7%20%D9%88%D8%B0%D8%A7%D8%AA%20%D8%A7%D9%84%D9%88%D8%AC%D9%86%D8%A7%D8%AA%20%D8%A7%D9%84%D9%88%D8%B1%D8%AF%D9%8A%D8%A9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-bayt-alhayah",
     "name": "في بيت الحياة",
     "price": 225,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%81%D9%8A%20%D8%A8%D9%8A%D8%AA%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-tut",
     "name": "لغز خنجر توت عنخ آمون",
     "price": 216,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%84%D8%BA%D8%B2%20%D8%AE%D9%86%D8%AC%D8%B1%20%D8%AA%D9%88%D8%AA%20%D8%B9%D9%86%D8%AE%20%D8%A2%D9%85%D9%88%D9%86%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-ma-zal",
     "name": "ما زال هنا",
     "price": 171,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%A7%20%D8%B2%D8%A7%D9%84%20%D9%87%D9%86%D8%A7%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-sirr-malika",
     "name": "سر ملكة الملوك",
     "price": 405,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%B1%20%D9%85%D9%84%D9%83%D8%A9%20%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-1984",
@@ -1371,10 +1371,10 @@
     "slug": "book-memoirs-magda",
     "name": "مذكرات ماجدة الصباحي",
     "price": 36,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%B0%D9%83%D8%B1%D8%A7%D8%AA%20%D9%85%D8%A7%D8%AC%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%AD%D9%8A%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-ta-haussein",
