@@ -1346,8 +1346,8 @@
     "price": 90,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Outer?PubCode=14",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=1609&code=15102&contentCode=78&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "book-relativity",
@@ -1362,10 +1362,10 @@
     "slug": "book-dangwan",
     "name": "الدنجوان",
     "price": 67.5,
-    "date": "2026-11-11",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/en/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=23",
+    "sourceType": "product"
   },
   {
     "slug": "book-memoirs-magda",
@@ -1407,10 +1407,10 @@
     "slug": "book-history",
     "name": "مصطلح التاريخ",
     "price": 175.5,
-    "date": "2026-11-11",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/en/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/en/InnerBook?bookListId=530&code=14111&contentCode=48&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "book-humanity",
