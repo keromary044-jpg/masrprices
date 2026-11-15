@@ -177,21 +177,7 @@
       if(match){const notice=element("p","mp-alert-hit",price===0?"المنتج متاح مجانًا.":"وصل السعر المسجل إلى "+price.toLocaleString("en-US")+" جنيه — أقل من هدفك.");card.append(notice);match.lastNotified=String(price);mpStore.write("alerts",alerts);}
     }
   }
-  function mpInitConsent(){
-    const key="mp:ad-consent";let choice=null;try{choice=localStorage.getItem(key);}catch{}
-    const loadAds=()=>{if(document.querySelector('script[data-mp-ads]'))return;const s=document.createElement("script");s.async=true;s.crossOrigin="anonymous";s.dataset.mpAds="1";s.src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7745184141725915";document.head.append(s);};
-    if(choice==="accepted"){loadAds();return;}
-    if(choice==="rejected")return;
-    const box=element("section","mp-consent");box.setAttribute("aria-label","اختيارات الإعلانات");
-    box.append(element("strong","","اختيارات الإعلانات والخصوصية"),element("p","","يمكنك السماح بتحميل إعلانات Google أو رفضها. اختيارك محفوظ على هذا الجهاز ويمكن تغييره لاحقًا."));
-    const yes=element("button","mp-action","السماح بالإعلانات"),no=element("button","mp-action","رفض الإعلانات");
-    yes.type=no.type="button";
-    yes.addEventListener("click",()=>{try{localStorage.setItem(key,"accepted");}catch{}box.remove();loadAds();});
-    no.addEventListener("click",()=>{try{localStorage.setItem(key,"rejected");}catch{}box.remove();});
-    box.append(yes,no);document.body.append(box);
-  }
   mpEnsurePanel();
-  mpInitConsent();
 
   function appendProductVisual(card,item){
     const realUrl=item?.image||item?.imageUrl||item?.image_url||item?.coverImage||"";
