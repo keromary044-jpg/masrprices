@@ -1,10 +1,12 @@
-const CACHE_NAME = "masrprices-hide-category-pages-10";
+const CACHE_NAME = "masrprices-ad-consent-11";
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
   "./styles.css",
   "./app.js",
   "./site-enhancements.js",
+  "./ads-consent.js",
+  "./methodology.html",
   "./manifest.webmanifest",
   "./assets/icon.svg",
   "./about.html",
