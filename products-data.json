@@ -201,10 +201,10 @@
     "slug": "elc-toshiba-tv75",
     "name": "Toshiba QLED TV 75 بوصة M450R",
     "price": 39999,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22Toshiba%20QLED%20TV%2075%20%D8%A8%D9%88%D8%B5%D8%A9%20M450R%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/qled-qned-tv/toshiba-qled-75m450rp-uhd-sm-rc/p/691476",
+    "sourceType": "product"
   },
   {
     "slug": "elc-haier-tv50",
@@ -515,11 +515,11 @@
   {
     "slug": "app-washer-zanussi-9",
     "name": "غسالة زانوسي 9 كجم تحميل أمامي",
-    "price": 22499,
-    "date": "2026-11-02",
+    "price": 22950,
+    "date": "2026-11-15",
     "category": "الأجهزة المنزلية (24)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%BA%D8%B3%D8%A7%D9%84%D8%A9%20%D8%B2%D8%A7%D9%86%D9%88%D8%B3%D9%8A%209%20%D9%83%D8%AC%D9%85%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A3%D9%85%D8%A7%D9%85%D9%8A%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.zanussi.com.eg/en/laundry/washing-machines/zanussi-steam-max-9kg-front-load-dark-gray-washing-machine-inverter-motor.html",
+    "sourceType": "product"
   },
   {
     "slug": "app-freezer-fresh",
@@ -552,10 +552,10 @@
     "slug": "app-microwave-samsung40",
     "name": "ميكروويف سامسونج 40 لتر بشواية",
     "price": 11999,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الأجهزة المنزلية (24)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%88%D9%8A%D9%81%20%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%AC%2040%20%D9%84%D8%AA%D8%B1%20%D8%A8%D8%B4%D9%88%D8%A7%D9%8A%D8%A9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://arkhasfeen.com/ar/c/microwave/samsung",
+    "sourceType": "category"
   },
   {
     "slug": "app-zanussi-cooker90",
