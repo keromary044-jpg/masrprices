@@ -2388,28 +2388,28 @@
     "slug": "plant-seed-cucumber",
     "name": "بذور خيار",
     "price": 20,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الزراعة والنباتات (10)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D8%AE%D9%8A%D8%A7%D8%B1%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.plantoseg.store/product/bthor-khyar",
+    "sourceType": "product"
   },
   {
     "slug": "plant-seed-anise",
     "name": "بذور ينسون",
     "price": 20,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الزراعة والنباتات (10)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D9%8A%D9%86%D8%B3%D9%88%D9%86%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.plantoseg.store/product/bthor-ynson",
+    "sourceType": "product"
   },
   {
     "slug": "plant-seed-mint",
     "name": "بذور نعناع",
     "price": 20,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الزراعة والنباتات (10)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%B0%D9%88%D8%B1%20%D9%86%D8%B9%D9%86%D8%A7%D8%B9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.plantoseg.store/product/bthor-naanaaa",
+    "sourceType": "product"
   },
   {
     "slug": "plant-pot",
