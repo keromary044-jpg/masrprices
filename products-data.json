@@ -1587,9 +1587,9 @@
     "slug": "grocery-rice-darahem",
     "name": "أرز دراهم مصري 1 كجم",
     "price": 24.99,
-    "date": "2026-11-11",
+    "date": "2026-11-15",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701200",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
     "sourceType": "category"
   },
   {
@@ -1599,34 +1599,34 @@
     "date": "2026-11-14",
     "category": "الطعام والبقالة (9)",
     "sourceUrl": "https://fattuta.com/eg/en/product/el-maleka-ring-pasta-400-g-fc0018889",
-    "sourceType": "product"
+    "sourceType": "comparison"
   },
   {
     "slug": "grocery-vermicelli",
     "name": "شعرية أهل القمة 400 جم",
     "price": 10.99,
-    "date": "2026-11-11",
+    "date": "2026-11-15",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1700000",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
     "sourceType": "category"
   },
   {
     "slug": "grocery-rice-elsaa",
     "name": "أرز الساعة أبيض 1 كجم",
-    "price": 47.99,
-    "date": "2026-11-11",
+    "price": 39.99,
+    "date": "2026-11-15",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/c/FEGY1701200",
-    "sourceType": "category"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/egyptian-rice/elsaa-rice-1k/p/334177",
+    "sourceType": "product"
   },
   {
     "slug": "grocery-wafeer-dishgel",
     "name": "جل غسيل أطباق Wafeer ليمون 4 كجم",
-    "price": 126,
-    "date": "2026-11-02",
+    "price": 150,
+    "date": "2026-11-15",
     "category": "الطعام والبقالة (9)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%AC%D9%84%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%A3%D8%B7%D8%A8%D8%A7%D9%82%20Wafeer%20%D9%84%D9%8A%D9%85%D9%88%D9%86%204%20%D9%83%D8%AC%D9%85%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.jumia.com.eg/wafeer-wafeer-dish-washing-gel-green-lemon-4-kg-24675965.html",
+    "sourceType": "product"
   },
   {
     "slug": "grocery-eggs-index",
