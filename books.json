@@ -2681,12 +2681,13 @@
       "title": "التأملات",
       "author": "ماركوس أوريليوس",
       "category": "فلسفة",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 110,
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/meditations-by-marcus-aurelius-generic-mpg3850474.html",
+      "checkedAt": null,
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "details": "سعر منشور لكتاب Meditations لماركوس أوريليوس؛ صفحة المتجر أظهرت توفره وقت الرصد، وقد يتغير السعر أو التوفر. تاريخ الرصد الدقيق غير متاح."
     },
     {
       "id": "catalog-092-هكذا-تكلم-زرادشت",
@@ -3154,12 +3155,13 @@
       "title": "العمل العميق",
       "author": "كال نيوبورت",
       "category": "إنتاجية",
-      "price": null,
-      "merchant": "غير محدد",
-      "source": "",
-      "checkedAt": "",
+      "price": 95,
+      "merchant": "Jumia Egypt",
+      "source": "https://www.jumia.com.eg/ar/generic-deep-work-by-cal-newport-44991393.html",
+      "checkedAt": null,
       "legalPdfUrl": null,
-      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص"
+      "pdfStatus": "بيانات تعريفية؛ لم يتم التحقق من سعر أو رابط PDF مرخّص",
+      "details": "سعر منشور لكتاب Deep Work لكال نيوبورت؛ صفحة المتجر أظهرت توفره وقت الرصد، وقد يتغير السعر أو التوفر. تاريخ الرصد الدقيق غير متاح."
     },
     {
       "id": "catalog-129-لا-تهتم-بصغائر-الأمور",
