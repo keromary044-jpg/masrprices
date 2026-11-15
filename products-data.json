@@ -1256,8 +1256,8 @@
     "price": 180,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=131&code=4290&contentCode=1&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "book-hokkam",
@@ -1265,8 +1265,8 @@
     "price": 81,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Outer?PubCode=14",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=164",
+    "sourceType": "product"
   },
   {
     "slug": "book-psychology-crowds",
@@ -1328,8 +1328,8 @@
     "price": 171,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=933&code=14353&contentCode=8",
+    "sourceType": "product"
   },
   {
     "slug": "book-sirr-malika",
