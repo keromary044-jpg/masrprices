@@ -160,16 +160,16 @@
           "note": "صفحة جوميا المباشرة تعرض 71,799 جنيهًا، Few units left، وزر إضافة للسلة، وضمان سنة من الشركة؛ النسخة 12GB/256GB/5G."
         }
       ],
-      "priceObservedAt": "2026-11-13",
+      "priceObservedAt": "2026-11-15",
       "merchant": "Ennap Egypt",
-      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
-      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "priceVerifiedAt": "2026-11-15T13:57:00+02:00",
+      "priceLastVerifiedAt": "2026-11-15T13:57:00+02:00",
       "priceAvailability": "in_stock",
       "priceProvider": "Ennap Egypt",
       "priceSourceUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
       "priceType": "store",
       "price": 54999,
-      "priceReviewedAt": "2026-11-13T20:57:06+02:00"
+      "priceReviewedAt": "2026-11-15T13:57:00+02:00"
     },
     {
       "id": "samsung-galaxy-a56-5g",
@@ -574,16 +574,16 @@
         }
       ],
       "source": "https://priceteq.com/eg/product/3914cff9-0615-4a66-b7cb-1a2dc1545089",
-      "priceObservedAt": "2026-11-13",
+      "priceObservedAt": "2026-11-14",
       "memory": "4GB RAM / 128GB",
-      "merchant": "Elghazawy Egypt",
-      "priceVerifiedAt": "2026-11-13T20:57:06+02:00",
-      "priceLastVerifiedAt": "2026-11-13T20:57:06+02:00",
+      "merchant": "Etisalat Egypt",
+      "priceVerifiedAt": "2026-11-15T13:57:00+02:00",
+      "priceLastVerifiedAt": "2026-11-15T13:57:00+02:00",
       "priceAvailability": "check_store",
       "priceType": "store",
       "priceSourceUrl": "https://priceteq.com/eg/product/3914cff9-0615-4a66-b7cb-1a2dc1545089",
-      "priceProvider": "Elghazawy Egypt",
-      "priceReviewedAt": "2026-11-13T20:57:06+02:00"
+      "priceProvider": "Etisalat Egypt",
+      "priceReviewedAt": "2026-11-15T13:57:00+02:00"
     },
     {
       "id": "samsung-a07",
