@@ -153,11 +153,11 @@
       "category": "أقلام",
       "brand": "BIC",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 26,
+      "merchant": "BumbleToys",
+      "source": "https://bumbletoys.com/collections/pens?filter.p.vendor=Bic",
+      "checkedAt": "2026-11-15",
+      "details": "سعر منشور لقلم BIC Round Stic Xtra Life الأحمر؛ قد يتغير حسب التوفر."
     },
     {
       "id": "stationery-قلم-رصاص-hb-faber-castell-قطعة",
@@ -262,11 +262,11 @@
       "category": "ألوان ورسم",
       "brand": "Maped",
       "unit": "علبة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 86.37,
+      "merchant": "Nedostavka (متوسط أسعار مصر)",
+      "source": "https://prices.nedostavka.net/en/product/3154148610113",
+      "checkedAt": "2026-10-25",
+      "details": "متوسط سعر منشور في مصر لعلبة Maped Colour Peps Wax Crayons عدد 12 لونًا؛ ليس عرض متجر لحظيًا."
     },
     {
       "id": "stationery-ألوان-مائية-faber-castell-علبة",
@@ -298,11 +298,11 @@
       "category": "أدوات هندسية",
       "brand": "Maped",
       "unit": "قطعة",
-      "price": null,
-      "merchant": null,
-      "source": null,
-      "checkedAt": null,
-      "details": "بيانات تعريفية للبحث والمقارنة. السعر غير مضاف لعدم توفر تحقق موثوق؛ راجع المقاس والخامة والمواصفات قبل الشراء."
+      "price": 40,
+      "merchant": "Nedostavka (متوسط أسعار مصر)",
+      "source": "https://prices.nedostavka.net/en/product/3154142456106",
+      "checkedAt": "2026-10-25",
+      "details": "متوسط سعر منشور في مصر لمسطرة Maped Study Flat بطول 30 سم؛ قد يختلف حسب المتجر."
     },
     {
       "id": "stationery-منقلة-هندسية-maped-قطعة",
