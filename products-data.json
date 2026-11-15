@@ -1355,8 +1355,8 @@
     "price": 63,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=360&code=10201&contentCode=13&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "book-dangwan",
