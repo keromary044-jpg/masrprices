@@ -1271,11 +1271,11 @@
   {
     "slug": "book-psychology-crowds",
     "name": "سيكولوجية الجماهير",
-    "price": 90,
+    "price": 125,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://azhabooks.com/product/%D8%B3%D9%8A%D9%83%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1/",
+    "sourceType": "product"
   },
   {
     "slug": "book-case-fahm",
@@ -1378,12 +1378,12 @@
   },
   {
     "slug": "book-ta-haussein",
-    "name": "دعاء الكروان – الأعمال الكاملة لطه حسين",
-    "price": 157.5,
-    "date": "2026-11-11",
+    "name": "دعاء الكروان – طه حسين (طبعة ديوان)",
+    "price": 165,
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/en/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://diwanegypt.com/product/%D8%AF%D8%B9%D8%A7%D8%A1-%D8%A7%D9%84%D9%83%D8%B1%D9%88%D8%A7%D9%86-2/",
+    "sourceType": "product"
   },
   {
     "slug": "book-psychology",
