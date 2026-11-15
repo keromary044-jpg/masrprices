@@ -524,11 +524,11 @@
   {
     "slug": "app-freezer-fresh",
     "name": "ديب فريزر فريش رأسي 6 درج",
-    "price": 23499,
-    "date": "2026-11-02",
+    "price": 22094,
+    "date": "2026-11-15",
     "category": "الأجهزة المنزلية (24)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%AF%D9%8A%D8%A8%20%D9%81%D8%B1%D9%8A%D8%B2%D8%B1%20%D9%81%D8%B1%D9%8A%D8%B4%20%D8%B1%D8%A3%D8%B3%D9%8A%206%20%D8%AF%D8%B1%D8%AC%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://eg.pricena.com/ar/product/fresh-upright-freezer-6-drawers-touch-stainless-fnu-mt270t-price-in-Egypt-36507304",
+    "sourceType": "comparison"
   },
   {
     "slug": "app-washer-lg-8",
@@ -1920,10 +1920,10 @@
     "slug": "clothing-women-raneen",
     "name": "تيشيرت نسائي قطن وليكرا مقاسات 4–12",
     "price": 99,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الملابس (9)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%AA%D9%8A%D8%B4%D9%8A%D8%B1%D8%AA%20%D9%86%D8%B3%D8%A7%D8%A6%D9%8A%20%D9%82%D8%B7%D9%86%20%D9%88%D9%84%D9%8A%D9%83%D8%B1%D8%A7%20%D9%85%D9%82%D8%A7%D8%B3%D8%A7%D8%AA%204%E2%80%9312%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://snapflyer.io/eg/downtown/products?category=fashion&lang=en&sort=discount_desc&type=tops",
+    "sourceType": "category"
   },
   {
     "slug": "clothing-andora-hoodie",
