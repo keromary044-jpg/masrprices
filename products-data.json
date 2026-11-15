@@ -617,8 +617,8 @@
     "price": 45,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?code=6076&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "ahram-heykl",
@@ -626,8 +626,8 @@
     "price": 63,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?code=5227&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "ahram-life",
@@ -635,8 +635,8 @@
     "price": 72,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?code=4937&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "ahram-journey",
@@ -653,8 +653,8 @@
     "price": 144,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?code=10051&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "insan-sherlock-bohemia",
@@ -1292,8 +1292,8 @@
     "price": 189,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?bookListId=929&code=14351&contentCode=8&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "book-sindirella",
@@ -1373,8 +1373,8 @@
     "price": 36,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
-    "sourceType": "category"
+    "sourceUrl": "https://store.ahram.org.eg/ar/InnerBook?code=3560&formId=1",
+    "sourceType": "product"
   },
   {
     "slug": "book-ta-haussein",
