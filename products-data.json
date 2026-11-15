@@ -713,11 +713,11 @@
   {
     "slug": "kotobzone-microphone",
     "name": "ميكروفون كاتم صوت",
-    "price": 260,
+    "price": 219,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://egbookfair.com/collections/%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82-%D9%84%D9%84%D9%86%D8%B4%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B2%D9%8A%D8%B9",
-    "sourceType": "category"
+    "sourceUrl": "https://egbookfair.com/products/%D9%85%D9%8A%D9%83%D8%B1%D9%88%D9%81%D9%88%D9%86-%D9%83%D8%A7%D8%AA%D9%85-%D8%B5%D9%88%D8%AA-%D9%85%D8%AD%D9%85%D8%AF-%D8%B7%D8%B1%D8%B2%D9%8A-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%B4%D8%B1%D9%88%D9%82-%D9%84%D9%84%D9%86%D8%B4%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-egbookfair",
+    "sourceType": "product"
   },
   {
     "slug": "kotobzone-last-cassette",
@@ -761,8 +761,8 @@
     "price": 185,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.masrawy.com/news/news_egypt/details/2026/8/11/3031362/%D9%82%D8%A8%D9%84-%D8%A8%D8%AF%D8%A1-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%AA%D8%A8-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D9%84%D9%84%D8%B5%D9%81-%D8%A7%D9%84%D8%A3%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D8%AF%D9%8A-2026-2027",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/elmoasser-elm_004-grade-1-prep-math-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-1-12jzh3o",
@@ -770,8 +770,8 @@
     "price": 199,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/elemtehan/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/elemtehan-ele_076-grade-1-prep-science-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-1-1vx1jkx",
@@ -806,8 +806,8 @@
     "price": 169,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/aladwaa/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/aladwaa-sa2704104100np-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-1-1q8x4li",
@@ -815,8 +815,8 @@
     "price": 175,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/aladwaa/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/aladwaa-sa2704105100np-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-1-4db74g",
@@ -833,8 +833,8 @@
     "price": 185,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/aladwaa/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/aladwaa-sa2704106100np-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-2",
@@ -851,8 +851,8 @@
     "price": 189,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/elemtehan/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/elemtehan-ele_065-grade-2-prep-social-studies-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-2-185821h",
@@ -887,8 +887,8 @@
     "price": 185,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/aladwaa/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/aladwaa-sa2704206100np-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-2-ndxbeb",
@@ -896,8 +896,8 @@
     "price": 179,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/aladwaa/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/aladwaa-sa2704205100np-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-2-1qeeul3",
@@ -905,8 +905,8 @@
     "price": 169,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/aladwaa/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/aladwaa-sa2704204100np-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-3",
@@ -1004,8 +1004,8 @@
     "price": 405,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/elemtehan/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/elemtehan-ele_069-grade-3-sec-arabic-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-v9lvse",
@@ -1022,8 +1022,8 @@
     "price": 270,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/elemtehan/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/elemtehan-ele_072-grade-3-sec-geography-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-6jvgok",
@@ -1076,8 +1076,8 @@
     "price": 299,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/elemtehan/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/elemtehan-ele_063-grade-3-sec-biology-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "bs-1th-ali-salah-math",
