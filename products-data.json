@@ -642,9 +642,9 @@
     "slug": "ahram-journey",
     "name": "رحلة إلى جهنم",
     "price": 67.5,
-    "date": "2026-11-11",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/en/Books",
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
     "sourceType": "category"
   },
   {
@@ -955,12 +955,12 @@
   },
   {
     "slug": "school-3-1omxg7x",
-    "name": "أفوجادرو أسئلة الكيمياء – 3ث – الترم الأول 2026/2027",
+    "name": "أفوجادرو كيمياء أسئلة 3ث – 2026/2027",
     "price": 305,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabaa.com/series/avogadro",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabaa.com/b/67",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-6h5j9v",
@@ -982,12 +982,12 @@
   },
   {
     "slug": "school-3-1ih9enj",
-    "name": "الإبداع شرح اللغة العربية – 3ث – الترم الأول 2026/2027",
+    "name": "الإبداع عربي شرح وتدريبات 3ث – 2026/2027",
     "price": 290,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabaa.com/grade/14/1",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabaa.com/b/88",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-1h29ixh",
@@ -1271,11 +1271,11 @@
   {
     "slug": "book-psychology-crowds",
     "name": "سيكولوجية الجماهير",
-    "price": 103.75,
+    "price": 90,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://egbookfair.com/products/%D8%B3%D9%8A%D9%83%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D8%BA%D9%88%D8%B3%D8%AA%D8%A7%D9%81-%D9%84%D9%88%D8%A8%D9%88%D9%86-%D8%AF%D8%A7%D8%B1-%D8%A3%D8%B2%D9%87%D9%89-%D9%84%D9%84%D9%86%D8%B4%D8%B1-%D9%88%D8%A7%D9%84%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D8%B1%D8%B6-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8-egbookfair",
-    "sourceType": "product"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "book-case-fahm",
@@ -1355,7 +1355,7 @@
     "price": 63,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://store.ahram.org.eg/ar/Outer?PubCode=14",
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
     "sourceType": "category"
   },
   {
