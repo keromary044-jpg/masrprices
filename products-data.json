@@ -101,20 +101,20 @@
   {
     "slug": "elc-band-huawei",
     "name": "سوار Huawei Band 10S B19",
-    "price": 2151,
+    "price": 1399,
     "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/promo-big-discounts",
-    "sourceType": "category"
+    "sourceUrl": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-powerbank-smartgate",
     "name": "باور بانك SMART GATE سعة 20000mAh",
     "price": 849,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A8%D8%A7%D9%88%D8%B1%20%D8%A8%D8%A7%D9%86%D9%83%20SMART%20GATE%20%D8%B3%D8%B9%D8%A9%2020000mAh%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-router-huawei",
@@ -122,8 +122,8 @@
     "price": 1249,
     "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/NFEGY4070700",
-    "sourceType": "category"
+    "sourceUrl": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-printer-canon",
@@ -194,8 +194,8 @@
     "price": 44777,
     "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://snapflyer.io/eg/downtown/products?category=electronics&lang=en&type=tv",
-    "sourceType": "category"
+    "sourceUrl": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-toshiba-tv75",
@@ -218,11 +218,11 @@
   {
     "slug": "elc-jac-tv32",
     "name": "JAC LED TV 32 بوصة JD3110B",
-    "price": 5549,
+    "price": 4777,
     "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://arkhasfeen.com/c/tv/jac",
-    "sourceType": "category"
+    "sourceUrl": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-hp-printer",
@@ -246,10 +246,10 @@
     "slug": "elc-lenovo-tablet",
     "name": "Lenovo Tablet TB K11 8GB RAM 256GB",
     "price": 18999,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22Lenovo%20Tablet%20TB%20K11%208GB%20RAM%20256GB%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://snapflyer.io/eg/all/products?category=electronics&lang=en",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-inoi-tablet",
