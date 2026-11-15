@@ -977,8 +977,8 @@
     "price": 329,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/aladwaa/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/aladwaa-sa270530330qnp-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-1ih9enj",
@@ -1049,26 +1049,26 @@
     "price": 229,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.maktabtystore.com/publishers/aladwaa/",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/aladwaa-sa2705328300np-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-kx0e9s",
     "name": "المعاصر الإحصاء – 3ث – الترم الأول 2026/2027",
-    "price": 200,
+    "price": 199,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://elfagalla.com/category/%25d8%25a7%25d9%2584%25d8%25b5%25d9%2581-%25d8%25a7%25d9%2584%25d8%25ab%25d8%25a7%25d9%2584%25d8%25ab-%25d8%25a7%25d9%2584%25d8%25ab%25d8%25a7%25d9%2586%25d9%2588%25d9%258a-%25d9%2583%25d8%25aa%25d8%25a8-%25d8%25ae%25d8%25a7%25d8%25b1%25d8%25ac%25d9%258a%25d8%25a9",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/elmoasser-elm_018-grade-3-sec-arabic-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-lc65a5",
     "name": "المعاصر الرياضيات التطبيقية – 3ث – الترم الأول 2026/2027",
-    "price": 400,
+    "price": 550,
     "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://elfagalla.com/category/%25d8%25a7%25d9%2584%25d8%25b5%25d9%2581-%25d8%25a7%25d9%2584%25d8%25ab%25d8%25a7%25d9%2584%25d8%25ab-%25d8%25a7%25d9%2584%25d8%25ab%25d8%25a7%25d9%2586%25d9%2588%25d9%258a-%25d9%2583%25d8%25aa%25d8%25a8-%25d8%25ae%25d8%25a7%25d8%25b1%25d8%25ac%25d9%258a%25d8%25a9",
-    "sourceType": "category"
+    "sourceUrl": "https://www.maktabtystore.com/books/elmoasser-elm_017-grade-1-primary-math-2026/",
+    "sourceType": "product"
   },
   {
     "slug": "school-3-1ab13e5",
@@ -1631,8 +1631,8 @@
   {
     "slug": "grocery-eggs-index",
     "name": "متوسط سعر البيضة – مؤشر القاهرة",
-    "price": 6.38,
-    "date": "2026-11-11",
+    "price": 6.29,
+    "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
     "sourceUrl": "https://index.el-basket.com/",
     "sourceType": "index"
@@ -1640,8 +1640,8 @@
   {
     "slug": "grocery-salt-index",
     "name": "متوسط سعر الملح – مؤشر القاهرة",
-    "price": 6.15,
-    "date": "2026-11-11",
+    "price": 6.5,
+    "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
     "sourceUrl": "https://index.el-basket.com/",
     "sourceType": "index"
@@ -1649,8 +1649,8 @@
   {
     "slug": "grocery-vermicelli-index",
     "name": "متوسط سعر الشعرية – مؤشر القاهرة",
-    "price": 10.63,
-    "date": "2026-11-11",
+    "price": 10.78,
+    "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
     "sourceUrl": "https://index.el-basket.com/",
     "sourceType": "index"
@@ -1658,8 +1658,8 @@
   {
     "slug": "grocery-tomato-paste-index",
     "name": "متوسط سعر معجون الطماطم – مؤشر القاهرة",
-    "price": 26.63,
-    "date": "2026-11-11",
+    "price": 26.07,
+    "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
     "sourceUrl": "https://index.el-basket.com/",
     "sourceType": "index"
@@ -2425,8 +2425,8 @@
     "name": "WE OneHome إنترنت منزلي 150 جيجابايت",
     "price": 300,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
-    "sourceUrl": "https://te.eg/en/web/guest/personal/home/one-home/one-home-monthly-600mins",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://te.eg/ar/web/guest/personal/home/one-home/monthly",
     "sourceType": "category"
   },
   {
@@ -2434,8 +2434,8 @@
     "name": "WE OneHome إنترنت منزلي 200 جيجابايت",
     "price": 370,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
-    "sourceUrl": "https://te.eg/en/web/guest/personal/home/one-home/one-home-monthly-600mins",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://te.eg/ar/web/guest/personal/home/one-home/monthly",
     "sourceType": "category"
   },
   {
@@ -2443,8 +2443,8 @@
     "name": "WE OneHome إنترنت منزلي 250 جيجابايت",
     "price": 435,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
-    "sourceUrl": "https://te.eg/en/web/guest/personal/home/one-home/one-home-monthly-600mins",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://te.eg/ar/web/guest/personal/home/one-home/monthly",
     "sourceType": "category"
   },
   {
@@ -2452,8 +2452,8 @@
     "name": "WE OneHome إنترنت منزلي 300 جيجابايت",
     "price": 500,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
-    "sourceUrl": "https://te.eg/en/web/guest/personal/home/one-home/one-home-monthly-600mins",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://te.eg/ar/web/guest/personal/home/one-home/monthly",
     "sourceType": "category"
   },
   {
@@ -2461,7 +2461,7 @@
     "name": "Vodafone Home Wireless 40 جيجابايت",
     "price": 290,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
+    "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
     "sourceType": "category"
   },
@@ -2470,7 +2470,7 @@
     "name": "Vodafone Home Wireless 135 جيجابايت",
     "price": 520,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
+    "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
     "sourceType": "category"
   },
@@ -2479,7 +2479,7 @@
     "name": "Vodafone Home Wireless 250 جيجابايت",
     "price": 830,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
+    "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
     "sourceType": "category"
   },
@@ -2488,7 +2488,7 @@
     "name": "Vodafone Home Wireless 400 جيجابايت",
     "price": 1270,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
+    "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://eshop.vodafone.com.eg/ar/internetServices/at-home/at-home-bundles",
     "sourceType": "category"
   },
@@ -2497,7 +2497,7 @@
     "name": "Orange GO 150 – إنترنت للخطوط",
     "price": 150,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
+    "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
     "sourceType": "category"
   },
@@ -2506,7 +2506,7 @@
     "name": "Orange GO 265 – إنترنت للخطوط",
     "price": 265,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
+    "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
     "sourceType": "category"
   },
@@ -2515,7 +2515,7 @@
     "name": "Orange GO 530 – إنترنت للخطوط",
     "price": 530,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
+    "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
     "sourceType": "category"
   },
@@ -2524,7 +2524,7 @@
     "name": "Orange GO 900 – إنترنت للخطوط",
     "price": 900,
     "date": "2026-11-15",
-    "category": "خدمات الاتصالات (12)",
+    "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
     "sourceType": "category"
   },
@@ -2545,5 +2545,50 @@
     "category": "الطعام والبقالة (11)",
     "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/salt/al-khair-table-salt-200g/p/405794",
     "sourceType": "product"
+  },
+  {
+    "slug": "tel-eand-40",
+    "name": "e& eHome Wireless 40 جيجابايت",
+    "price": 290,
+    "date": "2026-11-15",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceType": "category"
+  },
+  {
+    "slug": "tel-eand-90",
+    "name": "e& eHome Wireless 90 جيجابايت",
+    "price": 390,
+    "date": "2026-11-15",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceType": "category"
+  },
+  {
+    "slug": "tel-eand-140",
+    "name": "e& eHome Wireless 140 جيجابايت",
+    "price": 520,
+    "date": "2026-11-15",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceType": "category"
+  },
+  {
+    "slug": "tel-eand-225",
+    "name": "e& eHome Wireless 225 جيجابايت",
+    "price": 750,
+    "date": "2026-11-15",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceType": "category"
+  },
+  {
+    "slug": "tel-eand-400",
+    "name": "e& eHome Wireless 400 جيجابايت",
+    "price": 1270,
+    "date": "2026-11-15",
+    "category": "خدمات الاتصالات (17)",
+    "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceType": "category"
   }
 ]
