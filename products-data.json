@@ -1588,7 +1588,7 @@
     "name": "أرز دراهم مصري 1 كجم",
     "price": 24.99,
     "date": "2026-11-15",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
     "sourceType": "category"
   },
@@ -1597,7 +1597,7 @@
     "name": "مكرونة خواتم الملكة 400 جم",
     "price": 14.99,
     "date": "2026-11-14",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://fattuta.com/eg/en/product/el-maleka-ring-pasta-400-g-fc0018889",
     "sourceType": "comparison"
   },
@@ -1606,7 +1606,7 @@
     "name": "شعرية أهل القمة 400 جم",
     "price": 10.99,
     "date": "2026-11-15",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/FEGY1701200",
     "sourceType": "category"
   },
@@ -1615,7 +1615,7 @@
     "name": "أرز الساعة أبيض 1 كجم",
     "price": 39.99,
     "date": "2026-11-15",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/egyptian-rice/elsaa-rice-1k/p/334177",
     "sourceType": "product"
   },
@@ -1624,7 +1624,7 @@
     "name": "جل غسيل أطباق Wafeer ليمون 4 كجم",
     "price": 150,
     "date": "2026-11-15",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://www.jumia.com.eg/wafeer-wafeer-dish-washing-gel-green-lemon-4-kg-24675965.html",
     "sourceType": "product"
   },
@@ -1633,7 +1633,7 @@
     "name": "متوسط سعر البيضة – مؤشر القاهرة",
     "price": 6.38,
     "date": "2026-11-11",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://index.el-basket.com/",
     "sourceType": "index"
   },
@@ -1642,7 +1642,7 @@
     "name": "متوسط سعر الملح – مؤشر القاهرة",
     "price": 6.15,
     "date": "2026-11-11",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://index.el-basket.com/",
     "sourceType": "index"
   },
@@ -1651,7 +1651,7 @@
     "name": "متوسط سعر الشعرية – مؤشر القاهرة",
     "price": 10.63,
     "date": "2026-11-11",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://index.el-basket.com/",
     "sourceType": "index"
   },
@@ -1660,7 +1660,7 @@
     "name": "متوسط سعر معجون الطماطم – مؤشر القاهرة",
     "price": 26.63,
     "date": "2026-11-11",
-    "category": "الطعام والبقالة (9)",
+    "category": "الطعام والبقالة (10)",
     "sourceUrl": "https://index.el-basket.com/",
     "sourceType": "index"
   },
@@ -2527,5 +2527,14 @@
     "category": "خدمات الاتصالات (12)",
     "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
     "sourceType": "category"
+  },
+  {
+    "slug": "grocery-salt-nour-350g",
+    "name": "ملح نور طعام يودي 350 جم",
+    "price": 7.5,
+    "date": "2026-11-15",
+    "category": "الطعام والبقالة (10)",
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/nour-iodized-table-salt-350g/p/528450",
+    "sourceType": "product"
   }
 ]
