@@ -95,17 +95,17 @@
     "price": 599,
     "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://snapflyer.io/eg/downtown/products?category=electronics&lang=en&type=audio",
-    "sourceType": "comparison"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/wireless-earbuds/riversong-airfly-l2-tws-white/p/660376?offer=offer_carrefour_&sellerId=0000&sid=SLOTTED",
+    "sourceType": "product"
   },
   {
     "slug": "elc-band-huawei",
     "name": "سوار Huawei Band 10S B19",
-    "price": 1399,
-    "date": "2026-11-02",
+    "price": 2151,
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%88%D8%A7%D8%B1%20Huawei%20Band%2010S%20B19%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/c/promo-big-discounts",
+    "sourceType": "category"
   },
   {
     "slug": "elc-powerbank-smartgate",
@@ -228,10 +228,10 @@
     "slug": "elc-hp-printer",
     "name": "HP DeskJet IA 2976 All-in-One",
     "price": 2849,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22HP%20DeskJet%20IA%202976%20All-in-One%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/all-in-one-printers/hp-dj-ia-2976-aio-printer/p/670326",
+    "sourceType": "product"
   },
   {
     "slug": "elc-pantum-printer",
@@ -281,11 +281,11 @@
   {
     "slug": "tv-haier50-cf",
     "name": "Haier 50-inch 4K UHD Smart TV H50K75GUX",
-    "price": 14777,
-    "date": "2026-11-02",
+    "price": 14966,
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22Haier%2050-inch%204K%20UHD%20Smart%20TV%20H50K75GUX%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en?linkId=100000119139465",
+    "sourceType": "category"
   },
   {
     "slug": "tv-fresh-micro",
