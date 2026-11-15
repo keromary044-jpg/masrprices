@@ -84,19 +84,19 @@
     "slug": "elc-mouse-speedlink",
     "name": "ماوس لاسلكي Speedlink",
     "price": 249,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D8%A7%D9%88%D8%B3%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%20Speedlink%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/ar/mouse/speedlink-optical-mouse-wireless/p/491308?offer=offer_carrefour_&sellerId=0000&sid=SLOTTED",
+    "sourceType": "product"
   },
   {
     "slug": "elc-earbuds-riversong",
     "name": "سماعة RIVERSONG AIRFLY L2 TWS أبيض",
     "price": 599,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20RIVERSONG%20AIRFLY%20L2%20TWS%20%D8%A3%D8%A8%D9%8A%D8%B6%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://snapflyer.io/eg/downtown/products?category=electronics&lang=en&type=audio",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-band-huawei",
@@ -138,28 +138,28 @@
     "slug": "elc-headphones-majentk",
     "name": "سماعة رأس MAJENTK MH-003",
     "price": 749,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A9%20%D8%B1%D8%A3%D8%B3%20MAJENTK%20MH-003%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://snapflyer.io/eg/downtown/products?category=electronics&lang=en&type=audio",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-earbuds-zerotech",
     "name": "سماعات ZEROTECH AIRBUDS-C010-BL",
     "price": 999,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D9%85%D8%A7%D8%B9%D8%A7%D8%AA%20ZEROTECH%20AIRBUDS-C010-BL%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://snapflyer.io/eg/downtown/products?category=electronics&lang=en&type=audio",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-watch-riversong",
     "name": "ساعة RIVERSONG SW903",
     "price": 2199,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%A7%D8%B9%D8%A9%20RIVERSONG%20SW903%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/smart-watches-wearables/riversong-amoled-smar-watch-sw903/p/650435?offer=offer_carrefour_&sellerId=0000&sid=SLOTTED",
+    "sourceType": "product"
   },
   {
     "slug": "elc-mouse-hp",
@@ -174,10 +174,10 @@
     "slug": "elc-watch-riversong9",
     "name": "ساعة RIVERSONG Watch 9 Pro",
     "price": 1999,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B3%D8%A7%D8%B9%D8%A9%20RIVERSONG%20Watch%209%20Pro%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://snapflyer.io/eg/downtown/products?category=electronics&lang=en&type=smartwatches",
+    "sourceType": "comparison"
   },
   {
     "slug": "elc-powerbank-majentk",
