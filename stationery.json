@@ -7988,14 +7988,17 @@
     },
     {
       "id": "stationery-store-faber-ruler-30",
-      "name": "مسطرة Faber-Castell بلاستيك 30 سم 171220",
+      "name": "مسطرة بلاستيك Faber-Castell 30 سم 171220",
       "brand": "Faber-Castell",
       "category": "أدوات هندسية",
       "unit": "قطعة",
       "price": 25,
       "merchant": "ElGhazawy",
-      "source": "https://elghazawy.com/en/sub-category/school-supplies-",
-      "details": "السعر ظاهر في صفحة متجر الغزاوي التي كانت مفهرسة منذ نحو أسبوعين؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+      "source": "https://elghazawy.com/public/en/sub-category/engineering-tools?ordered=price&sort=asc",
+      "details": "السعر ظاهر في قائمة أدوات الهندسة لدى المتجر وقت الرصد.",
+      "model": "171220",
+      "checkedAt": "2026-11-15",
+      "priceStatus": "retailer_listing"
     },
     {
       "id": "stationery-store-faber-ballpoint-black-07",
@@ -9077,14 +9080,17 @@
     },
     {
       "id": "stationery-store-gbh-metal-ruler-30",
-      "name": "مسطرة معدنية 30 سم",
-      "brand": "متعدد",
+      "name": "مسطرة ستانلس ستيل M&G 30 سم ARL96120",
+      "brand": "M&G",
       "category": "أدوات هندسية",
       "unit": "قطعة",
-      "price": 25.65,
-      "merchant": "GBH",
-      "source": "https://www.gb-hub.com/ar/shop?order=list_price+asc&tags=6",
-      "details": "السعر ظهر في صفحة المتجر عند الفهرسة؛ تاريخ تحديث السعر الفعلي غير مؤكد، لذا راجع صفحة المتجر قبل الشراء."
+      "price": 119,
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY1380000",
+      "details": "السعر المعروض في قائمة الأدوات المكتبية لدى كارفور مصر وقت الرصد.",
+      "model": "ARL96120",
+      "checkedAt": "2026-11-15",
+      "priceStatus": "retailer_listing"
     },
     {
       "id": "stationery-store-gbh-snowman-whiteboard",
@@ -10353,14 +10359,16 @@
     },
     {
       "id": "stationery-store-plastic-ruler-20-gbh",
-      "name": "مسطرة بلاستيك 20 سم",
+      "name": "مسطرة بلاستيك عريضة شفافة 20 سم",
       "brand": "متعدد",
       "category": "أدوات هندسية",
       "unit": "قطعة",
-      "price": 8.55,
-      "merchant": "GBH",
-      "source": "https://www.gb-hub.com/shop/category/corporate-supplies-office-supplies-rulers-geometry-121",
-      "details": "السعر منشور لدى المتجر؛ قد يتغير حسب التوفر، راجع صفحة المنتج قبل الشراء."
+      "price": 6,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/public/en/sub-category/engineering-tools?ordered=price&sort=asc",
+      "details": "السعر ظاهر في قائمة أدوات الهندسة لدى المتجر وقت الرصد.",
+      "checkedAt": "2026-11-15",
+      "priceStatus": "retailer_listing"
     },
     {
       "id": "stationery-store-maped-study-compass-bayan",
@@ -10463,14 +10471,16 @@
     },
     {
       "id": "stationery-store-fagala-prima-flash-set",
-      "name": "طقم أقلام Prima Flash",
+      "name": "طقم أقلام جاف Prima Flash عدد 5 ألوان متنوعة",
       "brand": "Prima",
       "category": "أقلام",
-      "unit": "قطعة",
-      "price": 15,
-      "merchant": "El-Fagala",
-      "source": "https://www.fagalaonline.com/collections/school-items-1",
-      "details": "السعر ظاهر في قائمة متجر الفجالة المفهرسة اليوم؛ قد تتغير الأسعار أو حالة التوفر، راجع المتجر قبل الشراء."
+      "unit": "طقم 5 أقلام",
+      "price": 16,
+      "merchant": "ElGhazawy",
+      "source": "https://elghazawy.com/en/sub-category/stationery",
+      "details": "السعر ظاهر في قائمة منتجات القرطاسية لدى المتجر وقت الرصد.",
+      "checkedAt": "2026-11-15",
+      "priceStatus": "retailer_listing"
     },
     {
       "id": "stationery-store-fagala-foldable-geometry-ruler",
@@ -10837,14 +10847,17 @@
     },
     {
       "id": "stationery-store-shopzawy-mg-wax-crayons-12",
-      "name": "علبة ألوان شمع M&G عدد 12 لونًا",
+      "name": "ألوان شمع M&G غير سامة 12 لون AGMX4255",
       "brand": "M&G",
       "category": "ألوان ورسم",
-      "unit": "قطعة",
-      "price": 35,
-      "merchant": "Al-Morshedy Marts",
-      "source": "https://almorshedymarts.net/en/categories/office-supplies",
-      "details": "السعر كما ظهر في قائمة المتجر المفهرسة؛ قد يتغير السعر أو التوفر، راجع صفحة المتجر قبل الشراء."
+      "unit": "علبة 12 لون",
+      "price": 38,
+      "merchant": "ElManar Stationery",
+      "source": "https://elmanar.com.eg/collections/art-crafts-sample-colors/products/m-g-pack-of-12-non-toxic-wax-crayons-no-agmx4255",
+      "details": "السعر المعروض على صفحة المنتج لدى المتجر وقت الرصد.",
+      "model": "AGMX4255",
+      "checkedAt": "2026-11-15",
+      "priceStatus": "retailer_listing"
     },
     {
       "id": "stationery-store-shopzawy-mg-whiteboard-black",
