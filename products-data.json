@@ -2073,10 +2073,10 @@
     "slug": "furn-bath-trolley",
     "name": "عربة حمام بثلاثة أرفف",
     "price": 350,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الأثاث (13)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B9%D8%B1%D8%A8%D8%A9%20%D8%AD%D9%85%D8%A7%D9%85%20%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%D8%A9%20%D8%A3%D8%B1%D9%81%D9%81%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://helalgroup.store/ar/products/bathroom-trolley-3-levels?variant=44095182930175",
+    "sourceType": "product"
   },
   {
     "slug": "pc-soap-lux",
@@ -2414,11 +2414,11 @@
   {
     "slug": "plant-pot",
     "name": "أصيص بلاستيك أسود مقاس 30 سم",
-    "price": 35,
-    "date": "2026-11-02",
+    "price": 40,
+    "date": "2026-11-15",
     "category": "الزراعة والنباتات (10)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A3%D8%B5%D9%8A%D8%B5%20%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83%20%D8%A3%D8%B3%D9%88%D8%AF%20%D9%85%D9%82%D8%A7%D8%B3%2030%20%D8%B3%D9%85%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://harraz.shop/shop/newest-products/plastic-pot-egyptian-30cm/",
+    "sourceType": "product"
   },
   {
     "slug": "tel-we-150",
@@ -2496,36 +2496,36 @@
     "slug": "tel-orange-go-150",
     "name": "Orange GO 150 – إنترنت للخطوط",
     "price": 150,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "خدمات الاتصالات (12)",
-    "sourceUrl": "https://www.google.com/search?q=%22Orange%20GO%20150%20%E2%80%93%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
+    "sourceType": "category"
   },
   {
     "slug": "tel-orange-go-265",
     "name": "Orange GO 265 – إنترنت للخطوط",
     "price": 265,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "خدمات الاتصالات (12)",
-    "sourceUrl": "https://www.google.com/search?q=%22Orange%20GO%20265%20%E2%80%93%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
+    "sourceType": "category"
   },
   {
     "slug": "tel-orange-go-530",
     "name": "Orange GO 530 – إنترنت للخطوط",
     "price": 530,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "خدمات الاتصالات (12)",
-    "sourceUrl": "https://www.google.com/search?q=%22Orange%20GO%20530%20%E2%80%93%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
+    "sourceType": "category"
   },
   {
     "slug": "tel-orange-go-900",
     "name": "Orange GO 900 – إنترنت للخطوط",
     "price": 900,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "خدمات الاتصالات (12)",
-    "sourceUrl": "https://www.google.com/search?q=%22Orange%20GO%20900%20%E2%80%93%20%D8%A5%D9%86%D8%AA%D8%B1%D9%86%D8%AA%20%D9%84%D9%84%D8%AE%D8%B7%D9%88%D8%B7%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://www.orange.eg/ar/internet/internet-lines",
+    "sourceType": "category"
   }
 ]
