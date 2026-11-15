@@ -1570,11 +1570,17 @@
     },
     {
       "id": "catalog-stationery-0085",
-      "name": "مقص مدرسي – قطعة",
+      "name": "مقص إم آند جي للأطفال ألوان متنوعة ASSN2229",
       "category": "أدوات مدرسية",
-      "brand": "متعدد",
-      "price": null,
-      "details": "عنصر تعريفي بالكتالوج؛ تفاصيل الخدمة أو المواصفات تُراجع لدى الجهة المقدمة."
+      "brand": "M&G",
+      "price": 45,
+      "details": "السعر المعروض في قائمة الأدوات المكتبية لدى كارفور مصر وقت الرصد؛ قد يتغير حسب الفرع والتوفر.",
+      "model": "ASSN2229",
+      "unit": "قطعة",
+      "merchant": "Carrefour Egypt",
+      "source": "https://www.carrefouregypt.com/mafegy/ar/c/NFEGY1380000",
+      "checkedAt": "2026-11-15",
+      "priceStatus": "retailer_listing"
     },
     {
       "id": "catalog-stationery-0086",
