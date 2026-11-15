@@ -1630,39 +1630,39 @@
   },
   {
     "slug": "grocery-eggs-index",
-    "name": "متوسط سعر البيضة – مؤشر القاهرة",
-    "price": 6.29,
+    "name": "بيض المزارعون المصريون أبيض 10 بيضات",
+    "price": 65.45,
     "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
-    "sourceUrl": "https://index.el-basket.com/",
-    "sourceType": "index"
+    "sourceUrl": "https://fattuta.com/eg/en/product/egyptian-growers-white-eggs-10-pieces-fc0105717",
+    "sourceType": "comparison"
   },
   {
     "slug": "grocery-salt-index",
-    "name": "متوسط سعر الملح – مؤشر القاهرة",
-    "price": 6.5,
+    "name": "ملح My Choice مكرر 700 جم – عبوة 3 قطع",
+    "price": 38.99,
     "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
-    "sourceUrl": "https://index.el-basket.com/",
-    "sourceType": "index"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/salt/mychoice-refined-table-salt-700g-3/p/598185",
+    "sourceType": "product"
   },
   {
     "slug": "grocery-vermicelli-index",
-    "name": "متوسط سعر الشعرية – مؤشر القاهرة",
-    "price": 10.78,
+    "name": "شعرية أهل القمة 300 جم",
+    "price": 8.5,
     "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
-    "sourceUrl": "https://index.el-basket.com/",
-    "sourceType": "index"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/short-cut-pasta/ahl-alqema-pasta-vermicelli-300g/p/644726",
+    "sourceType": "product"
   },
   {
     "slug": "grocery-tomato-paste-index",
-    "name": "متوسط سعر معجون الطماطم – مؤشر القاهرة",
-    "price": 26.07,
+    "name": "معجون طماطم داراهم 300 جم",
+    "price": 19.99,
     "date": "2026-11-15",
     "category": "الطعام والبقالة (11)",
-    "sourceUrl": "https://index.el-basket.com/",
-    "sourceType": "index"
+    "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/tomato-paste/darahem-tomato-paste-300g/p/662799",
+    "sourceType": "product"
   },
   {
     "slug": "tool-tape3",
