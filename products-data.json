@@ -344,20 +344,20 @@
   {
     "slug": "pc-logitech-mk120",
     "name": "طقم Logitech MK120 لوحة مفاتيح وماوس سلكي",
-    "price": 670,
-    "date": "2026-11-02",
+    "price": 675,
+    "date": "2026-11-11",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20Logitech%20MK120%20%D9%84%D9%88%D8%AD%D8%A9%20%D9%85%D9%81%D8%A7%D8%AA%D9%8A%D8%AD%20%D9%88%D9%85%D8%A7%D9%88%D8%B3%20%D8%B3%D9%84%D9%83%D9%8A%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://priceteq.com/eg/product/1c29e201-40f4-46be-8f2c-4de799f5bdba",
+    "sourceType": "comparison"
   },
   {
     "slug": "pc-logitech-mk220",
     "name": "طقم Logitech MK220 لاسلكي",
-    "price": 999,
-    "date": "2026-11-02",
+    "price": 825,
+    "date": "2026-11-11",
     "category": "الإلكترونيات والملحقات (35)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%B7%D9%82%D9%85%20Logitech%20MK220%20%D9%84%D8%A7%D8%B3%D9%84%D9%83%D9%8A%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://priceteq.com/eg/product/2e2c35d9-6ac1-4745-af00-8249a5d79b5e",
+    "sourceType": "comparison"
   },
   {
     "slug": "pc-hyperx-cloud-mini",
