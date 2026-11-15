@@ -615,28 +615,28 @@
     "slug": "ahram-politics",
     "name": "السياسة الخارجية الأمريكية",
     "price": 45,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "ahram-heykl",
     "name": "هيكل.. لمحات إنسانية",
     "price": 63,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%87%D9%8A%D9%83%D9%84..%20%D9%84%D9%85%D8%AD%D8%A7%D8%AA%20%D8%A5%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "ahram-life",
     "name": "لقطات من العمر",
     "price": 72,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%84%D9%82%D8%B7%D8%A7%D8%AA%20%D9%85%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%B1%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "ahram-journey",
@@ -651,10 +651,10 @@
     "slug": "ahram-may",
     "name": "مي زيادة",
     "price": 144,
-    "date": "2026-11-02",
+    "date": "2026-11-15",
     "category": "الكتب (90)",
-    "sourceUrl": "https://www.google.com/search?q=%22%D9%85%D9%8A%20%D8%B2%D9%8A%D8%A7%D8%AF%D8%A9%22%20Egypt%20price",
-    "sourceType": "search"
+    "sourceUrl": "https://store.ahram.org.eg/ar/Books",
+    "sourceType": "category"
   },
   {
     "slug": "insan-sherlock-bohemia",
