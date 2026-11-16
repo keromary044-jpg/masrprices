@@ -2,6 +2,13 @@
 
 (function () {
   const searchInput = document.getElementById("searchInput");
+  const homeSearchAction = document.getElementById("homeSearchAction");
+  if (homeSearchAction && searchInput) {
+    homeSearchAction.addEventListener("click", () => {
+      searchInput.scrollIntoView({ behavior: "smooth", block: "center" });
+      window.setTimeout(() => searchInput.focus({ preventScroll: true }), 250);
+    });
+  }
   const cards = Array.from(document.querySelectorAll(".category-card"));
   const noResults = document.getElementById("noResults");
   const clearSearchButton = document.getElementById("clearSearch");
