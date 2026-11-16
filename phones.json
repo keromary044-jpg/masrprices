@@ -23,7 +23,7 @@
       "priceEGP": 54999,
       "priceSource": "Ennap Egypt – صفحة المنتج المباشرة (آخر سعر ظاهر؛ غير متوفر)",
       "priceCheckedAt": "2026-11-16",
-      "priceStatus": "فحص مباشر 16 نوفمبر: الصفحة تعرض 54,999 جنيهًا للنسخة 12GB/256GB، لكنها تعرض رسالة «سنخبرك عند عودته» وزر Notify me when available؛ لذلك 54,999 هو آخر سعر ظاهر وليس عرضًا متاحًا للشراء الآن.",
+      "priceStatus": "آخر نتيجة مفهرسة لصفحة Ennap تعرض 54,999 جنيهًا لنسخة 12GB/256GB، وتعرض خيار Add to Cart. لم أتمكن من تحميل الصفحة الحية اليوم؛ وعبارة Notify me when price drops هي تنبيه سعر وليست دليل نفاد مخزون. لذلك أبقيت السعر كآخر سعر ظاهر وحالة التوفر check_store حتى يُعاد تأكيد المخزون مباشرة.",
       "priceOffers": [
         {
           "merchant": "Ennap Egypt",
@@ -33,12 +33,12 @@
           "sourceLabel": "Ennap Egypt – صفحة المنتج المباشرة",
           "checkedAt": "2026-11-16",
           "observedAt": "2026-11-16",
-          "availability": "out_of_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
           "verificationMethod": "retailer_page",
-          "note": "فحص مباشر 16 نوفمبر: الصفحة تعرض 54,999 جنيهًا للنسخة 12GB/256GB، لكنها تعرض رسالة «سنخبرك عند عودته» وزر Notify me when available؛ لذلك 54,999 هو آخر سعر ظاهر وليس عرضًا متاحًا للشراء الآن.",
+          "note": "آخر فحص مباشر مسجل 15 نوفمبر بسعر 54,999 جنيهًا لنسخة 12GB/256GB. نتيجة البحث المفهرسة تعرض Add to Cart وNotify me when price drops، لكن الصفحة الحية لم تُفتح اليوم؛ لا أؤكد التوفر الحالي.",
           "reviewedAt": "2026-11-16T13:46:26+02:00"
         },
         {
@@ -164,7 +164,7 @@
       "merchant": "Ennap Egypt",
       "priceVerifiedAt": "2026-11-16T13:46:26+02:00",
       "priceLastVerifiedAt": "2026-11-16T13:46:26+02:00",
-      "priceAvailability": "out_of_stock",
+      "priceAvailability": "check_store",
       "priceProvider": "Ennap Egypt",
       "priceSourceUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
       "priceType": "store",
