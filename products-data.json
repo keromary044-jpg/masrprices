@@ -2532,63 +2532,120 @@
     "slug": "grocery-salt-nour-350g",
     "name": "ملح نور طعام يودي 350 جم",
     "price": 7.5,
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "category": "الطعام والبقالة (11)",
     "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/nour-iodized-table-salt-350g/p/528450",
-    "sourceType": "product"
+    "sourceType": "product",
+    "merchant": "Carrefour Egypt",
+    "details": {
+      "brand": "Nour",
+      "unit": "350 جم",
+      "taxNote": "السعر المرصود من صفحة المنتج لدى Carrefour Egypt، شامل ضريبة القيمة المضافة المعروضة على الصفحة."
+    }
   },
   {
     "slug": "grocery-salt-alkhair-200g",
     "name": "ملح الخير طعام يودي 200 جم",
     "price": 2.5,
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "category": "الطعام والبقالة (11)",
     "sourceUrl": "https://www.carrefouregypt.com/mafegy/en/salt/al-khair-table-salt-200g/p/405794",
-    "sourceType": "product"
+    "sourceType": "product",
+    "merchant": "Carrefour Egypt",
+    "details": {
+      "brand": "Al Khair",
+      "unit": "200 جم",
+      "taxNote": "السعر المرصود من صفحة المنتج لدى Carrefour Egypt، شامل ضريبة القيمة المضافة المعروضة على الصفحة."
+    }
   },
   {
     "slug": "tel-eand-40",
     "name": "e& eHome Wireless 40 جيجابايت",
-    "price": 290,
-    "date": "2026-11-15",
+    "price": 357,
+    "date": "2026-11-16",
     "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
-    "sourceType": "category"
+    "sourceType": "official_plan",
+    "merchant": "e& Egypt",
+    "details": {
+      "brand": "e& Egypt",
+      "package": "40 جيجابايت",
+      "billingPeriod": "شهري",
+      "priceBeforeTax": "290 جنيه",
+      "priceIncludingTax": "357 جنيه",
+      "taxNote": "السعر المعروض في MasrPrices شامل الضرائب وفق صفحة eHome Wireless الرسمية."
+    }
   },
   {
     "slug": "tel-eand-90",
     "name": "e& eHome Wireless 90 جيجابايت",
-    "price": 390,
-    "date": "2026-11-15",
+    "price": 480,
+    "date": "2026-11-16",
     "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
-    "sourceType": "category"
+    "sourceType": "official_plan",
+    "merchant": "e& Egypt",
+    "details": {
+      "brand": "e& Egypt",
+      "package": "90 جيجابايت",
+      "billingPeriod": "شهري",
+      "priceBeforeTax": "390 جنيه",
+      "priceIncludingTax": "480 جنيه",
+      "taxNote": "السعر المعروض في MasrPrices شامل الضرائب وفق صفحة eHome Wireless الرسمية."
+    }
   },
   {
     "slug": "tel-eand-140",
     "name": "e& eHome Wireless 140 جيجابايت",
-    "price": 520,
-    "date": "2026-11-15",
+    "price": 640,
+    "date": "2026-11-16",
     "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
-    "sourceType": "category"
+    "sourceType": "official_plan",
+    "merchant": "e& Egypt",
+    "details": {
+      "brand": "e& Egypt",
+      "package": "140 جيجابايت",
+      "billingPeriod": "شهري",
+      "priceBeforeTax": "520 جنيه",
+      "priceIncludingTax": "640 جنيه",
+      "taxNote": "السعر المعروض في MasrPrices شامل الضرائب وفق صفحة eHome Wireless الرسمية."
+    }
   },
   {
     "slug": "tel-eand-225",
     "name": "e& eHome Wireless 225 جيجابايت",
-    "price": 750,
-    "date": "2026-11-15",
+    "price": 923,
+    "date": "2026-11-16",
     "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
-    "sourceType": "category"
+    "sourceType": "official_plan",
+    "merchant": "e& Egypt",
+    "details": {
+      "brand": "e& Egypt",
+      "package": "225 جيجابايت",
+      "billingPeriod": "شهري",
+      "priceBeforeTax": "750 جنيه",
+      "priceIncludingTax": "923 جنيه",
+      "taxNote": "السعر المعروض في MasrPrices شامل الضرائب وفق صفحة eHome Wireless الرسمية."
+    }
   },
   {
     "slug": "tel-eand-400",
     "name": "e& eHome Wireless 400 جيجابايت",
-    "price": 1270,
-    "date": "2026-11-15",
+    "price": 1564,
+    "date": "2026-11-16",
     "category": "خدمات الاتصالات (17)",
     "sourceUrl": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
-    "sourceType": "category"
+    "sourceType": "official_plan",
+    "merchant": "e& Egypt",
+    "details": {
+      "brand": "e& Egypt",
+      "package": "400 جيجابايت",
+      "billingPeriod": "شهري",
+      "priceBeforeTax": "1270 جنيه",
+      "priceIncludingTax": "1564 جنيه",
+      "taxNote": "السعر المعروض في MasrPrices شامل الضرائب وفق صفحة eHome Wireless الرسمية."
+    }
   }
 ]

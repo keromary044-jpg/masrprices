@@ -3,41 +3,12 @@
     "slug": "samsung-galaxy-s26-ultra",
     "name": "Samsung Galaxy S26 Ultra 5G",
     "category": "الموبايلات",
-    "price": 54999,
-    "date": "2026-11-02",
-    "merchant": "",
-    "source": "https://www.google.com/search?q=%22Samsung%20Galaxy%20S26%20Ultra%205G%22%20Egypt%20price",
-    "sourceLabel": "رابط بحث عن السعر",
-    "offers": [
-      {
-        "merchant": "Ennap Egypt",
-        "price": 54999,
-        "variant": "256GB / 12GB – Dual SIM 5G",
-        "source": "https://priceteq.com/eg/product/0f603b6d-eb40-4420-b120-6ab770a8a285",
-        "checkedAt": "2026-11-02"
-      },
-      {
-        "merchant": "El Avocato Mobile Egypt",
-        "price": 69000,
-        "variant": "256GB / 12GB – حسب صفحة المقارنة",
-        "source": "https://priceteq.com/eg/product/0f603b6d-eb40-4420-b120-6ab770a8a285",
-        "checkedAt": "2026-11-02"
-      },
-      {
-        "merchant": "Smart Koshk Egypt",
-        "price": 69990,
-        "variant": "256GB / 12GB – حسب صفحة المقارنة",
-        "source": "https://priceteq.com/eg/product/0f603b6d-eb40-4420-b120-6ab770a8a285",
-        "checkedAt": "2026-11-02"
-      },
-      {
-        "merchant": "Samsung Egypt",
-        "price": 76490,
-        "variant": "256GB / 12GB – SM-S948BLBIMEA",
-        "source": "https://www.samsung.com/eg/smartphones/galaxy-s26-ultra/buy/",
-        "checkedAt": "2026-11-02"
-      }
-    ],
+    "price": 67000,
+    "date": "2026-11-12",
+    "merchant": "PriceTeq",
+    "source": "https://priceteq.com/eg/product/cee04adf-6b28-487e-b3d1-ccb39470f126",
+    "sourceLabel": "صفحة مقارنة أسعار PriceTeq — السعر يحتاج إلى إعادة تحقق",
+    "offers": [],
     "details": {
       "brand": "Samsung",
       "category": "رائد",
@@ -4431,6 +4402,191 @@
       "category": "إنترنت موبايل للراوتر",
       "unit": "6 أشهر",
       "details": "60,000 ميجابايت؛ باقة مخصصة لخطوط الإنترنت فقط."
+    }
+  },
+  {
+    "slug": "grocery-salt-nour-350g",
+    "name": "ملح نور طعام يودي 350 جم",
+    "category": "الطعام والبقالة",
+    "price": 7.5,
+    "date": "2026-11-16",
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/nour-iodized-table-salt-350g/p/528450",
+    "sourceLabel": "صفحة المنتج المباشرة لدى Carrefour Egypt",
+    "offers": [
+      {
+        "merchant": "Carrefour Egypt",
+        "price": 7.5,
+        "variant": "350 جم",
+        "source": "https://www.carrefouregypt.com/mafegy/en/nour-iodized-table-salt-350g/p/528450",
+        "checkedAt": "2026-11-16"
+      }
+    ],
+    "details": {
+      "brand": "Nour",
+      "category": "ملح طعام",
+      "unit": "350 جم",
+      "taxNote": "السعر الظاهر شامل ضريبة القيمة المضافة."
+    }
+  },
+  {
+    "slug": "grocery-salt-alkhair-200g",
+    "name": "ملح الخير طعام يودي 200 جم",
+    "category": "الطعام والبقالة",
+    "price": 2.5,
+    "date": "2026-11-16",
+    "merchant": "Carrefour Egypt",
+    "source": "https://www.carrefouregypt.com/mafegy/en/salt/al-khair-table-salt-200g/p/405794",
+    "sourceLabel": "صفحة المنتج المباشرة لدى Carrefour Egypt",
+    "offers": [
+      {
+        "merchant": "Carrefour Egypt",
+        "price": 2.5,
+        "variant": "200 جم",
+        "source": "https://www.carrefouregypt.com/mafegy/en/salt/al-khair-table-salt-200g/p/405794",
+        "checkedAt": "2026-11-16"
+      }
+    ],
+    "details": {
+      "brand": "Al Khair",
+      "category": "ملح طعام",
+      "unit": "200 جم",
+      "taxNote": "السعر الظاهر شامل ضريبة القيمة المضافة."
+    }
+  },
+  {
+    "slug": "tel-eand-40",
+    "name": "e& eHome Wireless 40 جيجابايت",
+    "category": "خدمات الاتصالات",
+    "price": 357,
+    "date": "2026-11-16",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceLabel": "صفحة باقات eHome Wireless الرسمية لدى e& Egypt — السعر شامل الضرائب",
+    "offers": [
+      {
+        "merchant": "e& Egypt",
+        "price": 357,
+        "variant": "40 جيجابايت شهريًا؛ 290 جنيه قبل الضرائب و357 جنيه شامل الضرائب",
+        "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+        "checkedAt": "2026-11-16"
+      }
+    ],
+    "details": {
+      "brand": "e& Egypt",
+      "category": "eHome Wireless",
+      "unit": "40 جيجابايت شهريًا",
+      "priceBeforeTax": "290 جنيه",
+      "priceIncludingTax": "357 جنيه",
+      "taxNote": "السعر المعروض شامل الضرائب وفق صفحة مقدم الخدمة."
+    }
+  },
+  {
+    "slug": "tel-eand-90",
+    "name": "e& eHome Wireless 90 جيجابايت",
+    "category": "خدمات الاتصالات",
+    "price": 480,
+    "date": "2026-11-16",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceLabel": "صفحة باقات eHome Wireless الرسمية لدى e& Egypt — السعر شامل الضرائب",
+    "offers": [
+      {
+        "merchant": "e& Egypt",
+        "price": 480,
+        "variant": "90 جيجابايت شهريًا؛ 390 جنيه قبل الضرائب و480 جنيه شامل الضرائب",
+        "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+        "checkedAt": "2026-11-16"
+      }
+    ],
+    "details": {
+      "brand": "e& Egypt",
+      "category": "eHome Wireless",
+      "unit": "90 جيجابايت شهريًا",
+      "priceBeforeTax": "390 جنيه",
+      "priceIncludingTax": "480 جنيه",
+      "taxNote": "السعر المعروض شامل الضرائب وفق صفحة مقدم الخدمة."
+    }
+  },
+  {
+    "slug": "tel-eand-140",
+    "name": "e& eHome Wireless 140 جيجابايت",
+    "category": "خدمات الاتصالات",
+    "price": 640,
+    "date": "2026-11-16",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceLabel": "صفحة باقات eHome Wireless الرسمية لدى e& Egypt — السعر شامل الضرائب",
+    "offers": [
+      {
+        "merchant": "e& Egypt",
+        "price": 640,
+        "variant": "140 جيجابايت شهريًا؛ 520 جنيه قبل الضرائب و640 جنيه شامل الضرائب",
+        "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+        "checkedAt": "2026-11-16"
+      }
+    ],
+    "details": {
+      "brand": "e& Egypt",
+      "category": "eHome Wireless",
+      "unit": "140 جيجابايت شهريًا",
+      "priceBeforeTax": "520 جنيه",
+      "priceIncludingTax": "640 جنيه",
+      "taxNote": "السعر المعروض شامل الضرائب وفق صفحة مقدم الخدمة."
+    }
+  },
+  {
+    "slug": "tel-eand-225",
+    "name": "e& eHome Wireless 225 جيجابايت",
+    "category": "خدمات الاتصالات",
+    "price": 923,
+    "date": "2026-11-16",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceLabel": "صفحة باقات eHome Wireless الرسمية لدى e& Egypt — السعر شامل الضرائب",
+    "offers": [
+      {
+        "merchant": "e& Egypt",
+        "price": 923,
+        "variant": "225 جيجابايت شهريًا؛ 750 جنيه قبل الضرائب و923 جنيه شامل الضرائب",
+        "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+        "checkedAt": "2026-11-16"
+      }
+    ],
+    "details": {
+      "brand": "e& Egypt",
+      "category": "eHome Wireless",
+      "unit": "225 جيجابايت شهريًا",
+      "priceBeforeTax": "750 جنيه",
+      "priceIncludingTax": "923 جنيه",
+      "taxNote": "السعر المعروض شامل الضرائب وفق صفحة مقدم الخدمة."
+    }
+  },
+  {
+    "slug": "tel-eand-400",
+    "name": "e& eHome Wireless 400 جيجابايت",
+    "category": "خدمات الاتصالات",
+    "price": 1564,
+    "date": "2026-11-16",
+    "merchant": "e& Egypt",
+    "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+    "sourceLabel": "صفحة باقات eHome Wireless الرسمية لدى e& Egypt — السعر شامل الضرائب",
+    "offers": [
+      {
+        "merchant": "e& Egypt",
+        "price": 1564,
+        "variant": "400 جيجابايت شهريًا؛ 1270 جنيه قبل الضرائب و1564 جنيه شامل الضرائب",
+        "source": "https://www.eand.com.eg/portal/eHome/eHome-wireless?lang=ar",
+        "checkedAt": "2026-11-16"
+      }
+    ],
+    "details": {
+      "brand": "e& Egypt",
+      "category": "eHome Wireless",
+      "unit": "400 جيجابايت شهريًا",
+      "priceBeforeTax": "1270 جنيه",
+      "priceIncludingTax": "1564 جنيه",
+      "taxNote": "السعر المعروض شامل الضرائب وفق صفحة مقدم الخدمة."
     }
   }
 ]

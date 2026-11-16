@@ -1,4 +1,4 @@
-const CACHE_NAME = "masrprices-ad-consent-11";
+const CACHE_NAME = "masrprices-product-index-sync-12";
 const FILES_TO_CACHE = [
   "./",
   "./index.html",
