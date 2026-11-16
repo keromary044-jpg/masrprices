@@ -1,122 +1,171 @@
 "use strict";
-const search = document.getElementById("q");
-if (search) {
-  search.addEventListener("input", () => {
-    const term = search.value.trim().toLocaleLowerCase("ar");
-    let count = 0;
-    document.querySelectorAll(".group").forEach(group => {
-      let visible = 0;
-      group.querySelectorAll("li").forEach(item => {
-        const show = item.textContent.toLocaleLowerCase("ar").includes(term);
-        item.hidden = !show;
-        if (show) visible++;
+(function () {
+  function initProductComparison() {
+    const page = document.querySelector("body.products-directory-page");
+    if (!page || page.dataset.compareReady === "1") return;
+    page.dataset.compareReady = "1";
+    const groups = Array.from(page.querySelectorAll(".group"));
+    const selected = new Map();
+    if (!groups.length) return;
+    const el = (tag, className, text) => {
+      const node = document.createElement(tag);
+      if (className) node.className = className;
+      if (text !== undefined) node.textContent = text;
+      return node;
+    };
+    const tray = el("aside", "mp-compare-tray");
+    tray.hidden = true;
+    tray.setAttribute("aria-label", "مقارنة المنتجات المختارة");
+    const count = el("span", "mp-compare-count", "اختر منتجين على الأقل");
+    const compare = el("button", "mp-compare-open", "قارن المنتجات المختارة");
+    compare.type = "button";
+    compare.disabled = true;
+    compare.title = "اختر منتجين على الأقل أولًا";
+    const clear = el("button", "mp-compare-clear", "مسح الاختيارات");
+    clear.type = "button";
+    tray.append(count, compare, clear);
+    const overlay = el("div", "mp-compare-overlay");
+    overlay.hidden = true;
+    const dialog = el("section", "mp-compare-dialog");
+    dialog.setAttribute("role", "dialog");
+    dialog.setAttribute("aria-modal", "true");
+    dialog.setAttribute("aria-labelledby", "mpCompareTitle");
+    const header = el("div", "mp-compare-dialog-head");
+    const title = el("h2", "", "مقارنة المنتجات");
+    title.id = "mpCompareTitle";
+    const close = el("button", "mp-compare-close", "إغلاق");
+    close.type = "button";
+    header.append(title, close);
+    const note = el("p", "mp-compare-note", "قارن الأسعار المسجلة وتاريخها. قد تتغير الأسعار، فتأكد من السعر النهائي لدى البائع قبل الشراء.");
+    const wrap = el("div", "mp-compare-table-wrap");
+    const table = el("table", "mp-compare-table");
+    const thead = document.createElement("thead");
+    const tbody = document.createElement("tbody");
+    table.append(thead, tbody);
+    wrap.append(table);
+    dialog.append(header, note, wrap);
+    overlay.append(dialog);
+    document.body.append(tray, overlay);
+    function getProduct(li, group) {
+      const link = li.querySelector("a[href*='/products/']");
+      if (!link) return null;
+      const priceNode = li.querySelector(":scope > strong") || li.querySelector("strong");
+      const dateNode = li.querySelector("small");
+      const priceText = priceNode ? priceNode.textContent.trim() : "";
+      const normalized = priceText.replace(/[^0-9٠-٩۰-۹.,]/g, "")
+        .replace(/[٠-٩]/g, d => String("٠١٢٣٤٥٦٧٨٩".indexOf(d)))
+        .replace(/[۰-۹]/g, d => String("۰۱۲۳۴۵۶۷۸۹".indexOf(d))).replace(/,/g, "");
+      const price = Number(normalized);
+      const heading = group.querySelector("h2,h3");
+      return {
+        id: link.getAttribute("href"), name: link.textContent.trim(), url: link.href,
+        price: Number.isFinite(price) && price > 0 ? price : null,
+        priceText: priceText || "غير مسجل",
+        date: dateNode ? dateNode.textContent.trim() : "غير محدد",
+        category: heading ? heading.textContent.trim() : "غير محدد"
+      };
+    }
+    const products = new Map();
+    groups.forEach(group => group.querySelectorAll("li").forEach(li => {
+      const item = getProduct(li, group);
+      if (!item) return;
+      products.set(item.id, item);
+      const button = el("button", "mp-compare-pick", "＋ أضف للمقارنة");
+      button.type = "button";
+      button.dataset.compareId = item.id;
+      button.setAttribute("aria-pressed", "false");
+      li.append(button);
+    }));
+    function refresh() {
+      const n = selected.size;
+      tray.hidden = n === 0;
+      count.textContent = n + " منتجات مختارة (الحد الأقصى 4)";
+      compare.disabled = n < 2;
+      compare.textContent = "قارن المنتجات المختارة";
+      compare.title = n < 2 ? "اختر منتجين على الأقل أولًا" : "اعرض مقارنة المنتجات";
+      page.querySelectorAll(".mp-compare-pick").forEach(button => {
+        const active = selected.has(button.dataset.compareId);
+        button.classList.toggle("is-picked", active);
+        button.setAttribute("aria-pressed", String(active));
+        button.textContent = active ? "✓ تمت الإضافة (اضغط للإزالة)" : "＋ أضف للمقارنة";
       });
-      group.hidden = visible === 0;
-      count += visible;
-    });
-    const empty = document.getElementById("empty");
-    if (empty) empty.style.display = count ? "none" : "block";
-  });
-}
-
-/* Multi-product comparison for the product directory */
-(function(){
-  "use strict";
-  const groups=[...document.querySelectorAll(".products-directory-page .group")];
-  if(!groups.length)return;
-  const selected=new Map();
-  const create=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n;};
-  const tray=create("aside","mp-compare-tray");tray.hidden=true;tray.setAttribute("aria-label","شريط مقارنة المنتجات");
-  const trayText=create("span","mp-compare-count","لم تختر منتجات");
-  const compareBtn=create("button","mp-compare-open","قارن المنتجات");
-  compareBtn.type="button";compareBtn.disabled=true;
-  const clearBtn=create("button","mp-compare-clear","إلغاء الاختيار");clearBtn.type="button";
-  tray.append(trayText,compareBtn,clearBtn);
-  const overlay=create("div","mp-compare-overlay");overlay.hidden=true;
-  overlay.setAttribute("role","presentation");
-  const dialog=create("section","mp-compare-dialog");dialog.setAttribute("role","dialog");dialog.setAttribute("aria-modal","true");dialog.setAttribute("aria-labelledby","mpCompareTitle");
-  const dialogHead=create("div","mp-compare-dialog-head");
-  const title=create("h2","","مقارنة المنتجات");
-  const close=create("button","mp-compare-close","إغلاق");close.type="button";close.setAttribute("aria-label","إغلاق المقارنة");
-  dialogHead.append(title,close);
-  const intro=create("p","mp-compare-note","قارن الأسعار المسجلة والمواصفات الأساسية. قد تتغير أسعار المتاجر؛ افتح المصدر للتأكد من السعر النهائي والتوافر.");
-  const tableWrap=create("div","mp-compare-table-wrap");
-  const table=create("table","mp-compare-table");
-  const tableHead=document.createElement("thead"),tableBody=document.createElement("tbody");
-  table.append(tableHead,tableBody);tableWrap.append(table);
-  dialog.append(dialogHead,intro,tableWrap);
-  overlay.append(dialog);document.body.append(tray,overlay);
-  function productFrom(li,group){
-    const link=li.querySelector("div a[href]");
-    if(!link)return null;
-    const priceNode=li.querySelector(":scope > strong");
-    const source=li.querySelector("a.source[href]");
-    const date=li.querySelector("small");
-    const rawPrice=(priceNode?.textContent||"").replace(/[^0-9٠-٩۰-۹.,]/g,"").replace(/[٠-٩]/g,d=>String("٠١٢٣٤٥٦٧٨٩".indexOf(d))).replace(/[۰-۹]/g,d=>String("۰۱۲۳۴۵۶۷۸۹".indexOf(d))).replace(/,/g,"");
-    const price=Number(rawPrice);
-    return {id:link.getAttribute("href"),name:link.textContent.trim(),url:link.href,price:Number.isFinite(price)&&price>0?price:null,priceText:priceNode?.textContent.trim()||"غير مسجل",date:date?.textContent.trim()||"غير محدد",category:group.querySelector("h2,h3")?.textContent.trim()||"غير محدد",sourceUrl:source?.href||"",sourceText:source?.textContent.trim()||"المصدر غير متاح"};
-  }
-  function refresh(){
-    const count=selected.size;tray.hidden=count===0;
-    trayText.textContent="تم اختيار "+count+" من 4 منتجات";
-    compareBtn.disabled=count<2;
-    compareBtn.textContent=count<2?"اختر منتجًا آخر للمقارنة":"قارن "+count+" منتجات";
-    document.querySelectorAll(".mp-compare-pick").forEach(btn=>{
-      const on=selected.has(btn.dataset.compareId);
-      btn.classList.toggle("is-picked",on);
-      btn.setAttribute("aria-pressed",String(on));
-      btn.textContent=on?"✓ تمت الإضافة":"＋ أضف للمقارنة";
-    });
-  }
-  function makeCell(row,text,cls){const td=create("td",cls||"",text);row.append(td);return td;}
-  function renderTable(){
-    tableHead.replaceChildren();tableBody.replaceChildren();
-    const items=[...selected.values()];
-    const head=document.createElement("tr");
-    ["البيان",...items.map(x=>x.name)].forEach((label,i)=>{const th=create("th","",label);if(i)th.scope="col";else th.scope="row";head.append(th);});
-    tableHead.append(head);
-    const lowest=items.filter(x=>x.price!==null).reduce((m,x)=>Math.min(m,x.price),Infinity);
-    const rows=[
-      ["القسم",x=>x.category],
-      ["السعر المسجل",x=>x.price===null?"لا يوجد سعر مسجل":x.priceText],
-      ["تاريخ السعر",x=>x.date],
-      ["صفحة المنتج",x=>x.url],
-      ["مصدر السعر",x=>x.sourceUrl]
-    ];
-    rows.forEach(([label,get],index)=>{
-      const tr=document.createElement("tr");makeCell(tr,label,"mp-compare-row-label");
-      items.forEach(item=>{
-        const value=get(item);
-        const td=document.createElement("td");
-        if(index===1&&item.price!==null&&item.price===lowest){td.classList.add("mp-compare-lowest");td.append(create("span","mp-compare-lowest-tag","أقل سعر مسجل"));}
-        if(index===3||index===4){
-          if(value){const a=create("a","",index===3?"عرض المنتج":item.sourceText);a.href=value;a.target="_blank";a.rel="noopener noreferrer";td.append(a);}
-          else td.textContent="غير متاح";
-        }else td.append(document.createTextNode(value));
-        tr.append(td);
+    }
+    function addCell(row, value, className) {
+      const td = el("td", className || "", value);
+      row.append(td);
+      return td;
+    }
+    function render() {
+      thead.replaceChildren();
+      tbody.replaceChildren();
+      const items = Array.from(selected.values());
+      const head = document.createElement("tr");
+      ["البيان", ...items.map(item => item.name)].forEach((label, i) => {
+        const th = el("th", "", label);
+        th.scope = i === 0 ? "row" : "col";
+        head.append(th);
       });
-      tableBody.append(tr);
-    });
-    intro.textContent="تظهر الأسعار كما سُجلت في الموقع مع تاريخها، وليس بالضرورة أنها أسعار لحظية. أقل سعر هنا هو الأقل بين الأسعار المسجلة فقط؛ افتح المصدر وتأكد قبل الشراء.";
-  }
-  function openDialog(){if(selected.size<2)return;renderTable();overlay.hidden=false;close.focus();}
-  function closeDialog(){overlay.hidden=true;compareBtn.focus();}
-  compareBtn.addEventListener("click",openDialog);
-  close.addEventListener("click",closeDialog);
-  overlay.addEventListener("click",e=>{if(e.target===overlay)closeDialog();});
-  document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!overlay.hidden)closeDialog();});
-  clearBtn.addEventListener("click",()=>{selected.clear();refresh();});
-  groups.forEach(group=>group.querySelectorAll("li").forEach(li=>{
-    const item=productFrom(li,group);if(!item)return;
-    const btn=create("button","mp-compare-pick","＋ أضف للمقارنة");
-    btn.type="button";btn.dataset.compareId=item.id;btn.setAttribute("aria-pressed","false");
-    btn.addEventListener("click",()=>{
-      if(selected.has(item.id))selected.delete(item.id);
-      else if(selected.size>=4){trayText.textContent="يمكنك مقارنة 4 منتجات كحد أقصى";return;}
-      else selected.set(item.id,item);
+      thead.append(head);
+      const prices = items.filter(item => item.price !== null).map(item => item.price);
+      const lowest = prices.length ? Math.min(...prices) : null;
+      const rows = [
+        ["القسم", item => item.category],
+        ["السعر المسجل", item => item.priceText],
+        ["تاريخ السعر", item => item.date],
+        ["صفحة المنتج", item => item.url]
+      ];
+      rows.forEach(([label, getter], rowIndex) => {
+        const tr = document.createElement("tr");
+        addCell(tr, label, "mp-compare-row-label");
+        items.forEach(item => {
+          const value = getter(item);
+          const td = document.createElement("td");
+          if (rowIndex === 1 && item.price !== null && item.price === lowest) {
+            td.classList.add("mp-compare-lowest");
+            td.append(el("span", "mp-compare-lowest-tag", "أقل سعر مسجل"));
+          }
+          if (rowIndex === 3) {
+            const link = el("a", "", "عرض المنتج");
+            link.href = value;
+            td.append(link);
+          } else td.append(document.createTextNode(value || "غير متاح"));
+          tr.append(td);
+        });
+        tbody.append(tr);
+      });
+    }
+    function openDialog() {
+      if (selected.size < 2) return;
+      render();
+      overlay.hidden = false;
+      close.focus();
+    }
+    function closeDialog() {
+      overlay.hidden = true;
+      compare.focus();
+    }
+    page.addEventListener("click", event => {
+      const button = event.target.closest(".mp-compare-pick");
+      if (!button || !page.contains(button)) return;
+      const id = button.dataset.compareId;
+      if (selected.has(id)) selected.delete(id);
+      else {
+        if (selected.size >= 4) {
+          count.textContent = "يمكنك اختيار 4 منتجات فقط للمقارنة";
+          return;
+        }
+        const item = products.get(id);
+        if (item) selected.set(id, item);
+      }
       refresh();
     });
-    li.append(btn);
-  }));
-  refresh();
+    compare.addEventListener("click", openDialog);
+    close.addEventListener("click", closeDialog);
+    overlay.addEventListener("click", event => { if (event.target === overlay) closeDialog(); });
+    document.addEventListener("keydown", event => { if (event.key === "Escape" && !overlay.hidden) closeDialog(); });
+    clear.addEventListener("click", () => { selected.clear(); refresh(); });
+    refresh();
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", initProductComparison, { once: true });
+  else initProductComparison();
 })();
