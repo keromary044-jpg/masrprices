@@ -22,7 +22,7 @@
       "sourceLabel": "Ennap Egypt – صفحة المنتج المباشرة (سعر متجر)",
       "priceEGP": 54999,
       "priceSource": "Ennap Egypt – صفحة المنتج المباشرة (آخر سعر ظاهر؛ غير متوفر)",
-      "priceCheckedAt": "2026-11-16",
+      "priceCheckedAt": "2026-11-15",
       "priceStatus": "آخر نتيجة مفهرسة لصفحة Ennap تعرض 54,999 جنيهًا لنسخة 12GB/256GB، وتعرض خيار Add to Cart. لم أتمكن من تحميل الصفحة الحية اليوم؛ وعبارة Notify me when price drops هي تنبيه سعر وليست دليل نفاد مخزون. لذلك أبقيت السعر كآخر سعر ظاهر وحالة التوفر check_store حتى يُعاد تأكيد المخزون مباشرة.",
       "priceOffers": [
         {
@@ -31,8 +31,8 @@
           "variant": "12GB RAM / 256GB / 5G",
           "source": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
           "sourceLabel": "Ennap Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-16",
-          "observedAt": "2026-11-16",
+          "checkedAt": "2026-11-15",
+          "observedAt": "2026-11-15",
           "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
@@ -160,10 +160,10 @@
           "note": "صفحة جوميا المباشرة تعرض 71,799 جنيهًا، Few units left، وزر إضافة للسلة، وضمان سنة من الشركة؛ النسخة 12GB/256GB/5G."
         }
       ],
-      "priceObservedAt": "2026-11-16",
+      "priceObservedAt": "2026-11-15",
       "merchant": "Ennap Egypt",
-      "priceVerifiedAt": "2026-11-16T13:46:26+02:00",
-      "priceLastVerifiedAt": "2026-11-16T13:46:26+02:00",
+      "priceVerifiedAt": "2026-11-15T19:23:47+02:00",
+      "priceLastVerifiedAt": "2026-11-15T19:23:47+02:00",
       "priceAvailability": "check_store",
       "priceProvider": "Ennap Egypt",
       "priceSourceUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
