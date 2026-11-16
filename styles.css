@@ -485,3 +485,9 @@ nav{align-items:center;gap:clamp(12px,2vw,26px)}nav a{font-weight:700;font-size:
 .mp-compare-table-wrap{overflow:auto;border:1px solid #e4eaf0;border-radius:13px}
 .mp-compare-table{width:100%;min-width:560px;border-collapse:collapse;text-align:right}.mp-compare-table th,.mp-compare-table td{padding:12px;border-bottom:1px solid #e8edf1;vertical-align:top}.mp-compare-table thead th{background:#102b50;color:#fff;max-width:230px}.mp-compare-table tbody tr:last-child td{border-bottom:0}.mp-compare-row-label{background:#f3f7fa;color:#29435e;font-weight:900;white-space:nowrap}.mp-compare-table td{font-size:.88rem;overflow-wrap:anywhere}.mp-compare-table a{color:#087d74;font-weight:800;text-decoration:underline}.mp-compare-lowest{background:#eaf7f3;color:#08786f;font-weight:900}.mp-compare-lowest-tag{display:block;font-size:.72rem;margin-bottom:4px}
 @media(max-width:600px){.mp-compare-tray{gap:7px;padding:10px}.mp-compare-count{width:100%;text-align:center}.mp-compare-open,.mp-compare-clear{flex:1;padding:10px 8px}.mp-compare-dialog{border-radius:15px}.mp-compare-pick{width:100%;margin-top:9px}}
+
+/* Mobile tap reliability for comparison flow */
+.primary-button,.hero-secondary,.mp-compare-pick,.mp-compare-open,.mp-compare-clear,.mp-compare-close{pointer-events:auto;touch-action:manipulation;-webkit-tap-highlight-color:transparent}
+.mp-compare-tray{z-index:1300;padding-bottom:calc(13px + env(safe-area-inset-bottom))}
+.mp-compare-overlay{z-index:1400;touch-action:pan-y}
+.mp-compare-pick{position:relative;z-index:1;min-height:42px}
