@@ -144,20 +144,20 @@
       overlay.hidden = true;
       compare.focus();
     }
-    page.addEventListener("click", event => {
-      const button = event.target.closest(".mp-compare-pick");
-      if (!button || !page.contains(button)) return;
-      const id = button.dataset.compareId;
-      if (selected.has(id)) selected.delete(id);
-      else {
-        if (selected.size >= 4) {
-          count.textContent = "يمكنك اختيار 4 منتجات فقط للمقارنة";
-          return;
+    page.querySelectorAll(".mp-compare-pick").forEach(button => {
+      button.addEventListener("click", () => {
+        const id = button.dataset.compareId;
+        if (selected.has(id)) selected.delete(id);
+        else {
+          if (selected.size >= 4) {
+            count.textContent = "يمكنك اختيار 4 منتجات فقط للمقارنة";
+            return;
+          }
+          const item = products.get(id);
+          if (item) selected.set(id, item);
         }
-        const item = products.get(id);
-        if (item) selected.set(id, item);
-      }
-      refresh();
+        refresh();
+      }, { passive: true });
     });
     compare.addEventListener("click", openDialog);
     close.addEventListener("click", closeDialog);
