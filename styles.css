@@ -491,3 +491,21 @@ nav{align-items:center;gap:clamp(12px,2vw,26px)}nav a{font-weight:700;font-size:
 .mp-compare-tray{z-index:1300;padding-bottom:calc(13px + env(safe-area-inset-bottom))}
 .mp-compare-overlay{z-index:1400;touch-action:pan-y}
 .mp-compare-pick{position:relative;z-index:1;min-height:42px}
+
+
+/* Natural mobile text interaction: no blue tap flash; text remains selectable by long-press */
+html,body,body *{
+  -webkit-tap-highlight-color:transparent;
+}
+body,body *{
+  -webkit-user-select:text;
+  user-select:text;
+}
+a,button,input,select,textarea,[role="button"],.mp-compare-tray,.mp-compare-overlay{
+  -webkit-user-select:none;
+  user-select:none;
+}
+::selection{
+  background:rgba(20,145,132,.24);
+  color:inherit;
+}
