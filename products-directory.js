@@ -14,54 +14,103 @@
       return node;
     };
     const entries = [];
-    groups.forEach(group => group.querySelectorAll("li").forEach(li => {
-      const link = li.querySelector("a[href*='/products/']");
-      if (!link) return;
-      const priceNode = li.querySelector(":scope > strong") || li.querySelector("strong");
-      const dateNode = li.querySelector("small");
-      const priceText = priceNode ? priceNode.textContent.trim() : "";
-      const normalizedPrice = priceText.replace(/[^0-9٠-٩۰-۹.,]/g, "")
-        .replace(/[٠-٩]/g, d => String("٠١٢٣٤٥٦٧٨٩".indexOf(d)))
-        .replace(/[۰-۹]/g, d => String("۰۱۲۳۴۵۶۷۸۹".indexOf(d))).replace(/,/g, "");
-      const price = Number(normalizedPrice);
+    groups.forEach(group => {
       const heading = group.querySelector("h2,h3");
-      entries.push({
-        id: link.getAttribute("href"), name: link.textContent.trim(), url: link.href,
-        price: Number.isFinite(price) && price > 0 ? price : null,
-        priceText: priceText || "غير مسجل",
-        date: dateNode ? dateNode.textContent.trim() : "غير محدد",
-        category: heading ? heading.textContent.trim() : "غير محدد"
+      const category = heading ? heading.textContent.trim().replace(/\\s*\\(\\d+\\)\\s*$/, "") : "قسم آخر";
+      group.querySelectorAll("li").forEach(li => {
+        const link = li.querySelector("a[href*='/products/']");
+        if (!link) return;
+        const priceNode = li.querySelector(":scope > strong") || li.querySelector("strong");
+        const dateNode = li.querySelector("small");
+        const priceText = priceNode ? priceNode.textContent.trim() : "";
+        const normalizedPrice = priceText.replace(/[^0-9٠-٩۰-۹.,]/g, "")
+          .replace(/[٠-٩]/g, d => String("٠١٢٣٤٥٦٧٨٩".indexOf(d)))
+          .replace(/[۰-۹]/g, d => String("۰۱۲۳۴۵۶۷۸۹".indexOf(d))).replace(/,/g, "");
+        const price = Number(normalizedPrice);
+        entries.push({
+          id: link.getAttribute("href"), name: link.textContent.trim(), url: link.href,
+          price: Number.isFinite(price) && price > 0 ? price : null,
+          priceText: priceText || "غير مسجل",
+          date: dateNode ? dateNode.textContent.trim() : "غير محدد",
+          category
+        });
       });
-    }));
+    });
     if (!entries.length) return;
 
     const selected = new Map();
-    const picker = el("section", "mp-picker mp-picker-simple");
+    const categories = [...new Set(entries.map(item => item.category))];
+    const picker = el("section", "mp-picker mp-picker-simple mp-picker-flow");
+    picker.id = "compare-products";
     picker.setAttribute("aria-label", "اختيار المنتجات للمقارنة");
-    const heading = el("h2", "mp-picker-title", "قارن المنتجات بسهولة");
-    const hint = el("p", "mp-picker-hint", "اكتب اسم المنتج واضغط عليه من النتائج. بعد اختيار الأول، ابحث عن المنتج الثاني.");
-    const searchWrap = el("div", "mp-simple-search-wrap");
-    const search = el("input", "mp-picker-search");
-    search.type = "search";
-    search.placeholder = "اكتب اسم المنتج هنا…";
-    search.autocomplete = "off";
-    search.setAttribute("aria-label", "ابحث عن المنتج الذي تريد مقارنته");
-    const results = el("div", "mp-simple-results");
-    results.setAttribute("role", "listbox");
-    results.setAttribute("aria-label", "نتائج البحث عن المنتجات");
-    searchWrap.append(search, results);
+
+    const launcher = el("button", "mp-start-compare", "ابدأ المقارنة");
+    launcher.type = "button";
+    launcher.setAttribute("aria-expanded", "false");
+
+    const panel = el("div", "mp-picker-panel");
+    panel.hidden = true;
+    const heading = el("h2", "mp-picker-title", "اختيار المنتجات للمقارنة");
+    const hint = el("p", "mp-picker-hint", "اختار القسم الأول، وبعده اختار المنتج، ثم اضغط إضافة للمقارنة.");
+    const controls = el("div", "mp-flow-controls");
+
+    const categoryLabel = el("label", "mp-flow-label", "١. اختار القسم");
+    const category = el("select", "mp-flow-select");
+    category.setAttribute("aria-label", "اختيار القسم");
+    const categoryPlaceholder = el("option", "", "اختار القسم");
+    categoryPlaceholder.value = "";
+    categoryPlaceholder.disabled = true;
+    categoryPlaceholder.selected = true;
+    category.append(categoryPlaceholder);
+    categories.forEach(name => {
+      const option = el("option", "", name);
+      option.value = name;
+      category.append(option);
+    });
+
+    const productLabel = el("label", "mp-flow-label", "٢. اختار المنتج");
+    const product = el("select", "mp-flow-select");
+    product.setAttribute("aria-label", "اختيار المنتج");
+    product.disabled = true;
+    const productPlaceholder = el("option", "", "اختار القسم الأول");
+    productPlaceholder.value = "";
+    productPlaceholder.selected = true;
+    product.append(productPlaceholder);
+
+    controls.append(categoryLabel, category, productLabel, product);
+    const add = el("button", "mp-flow-add", "إضافة للمقارنة");
+    add.type = "button";
+    add.disabled = true;
+
     const selectedTitle = el("strong", "mp-picker-selection-label", "المنتجات المختارة");
     const chips = el("div", "mp-picker-chips");
-    const footer = el("div", "mp-simple-footer");
-    const count = el("span", "mp-simple-count", "اختر منتجين للبدء");
-    const compare = el("button", "mp-compare-open", "قارن الآن");
+    const footer = el("div", "mp-simple-footer mp-flow-footer");
+    const count = el("span", "mp-simple-count", "لم يتم اختيار منتجات بعد");
+    const compare = el("button", "mp-compare-open", "قارن المنتجات");
     compare.type = "button";
     compare.disabled = true;
-    const clear = el("button", "mp-compare-clear", "مسح");
+    const clear = el("button", "mp-compare-clear", "مسح الاختيارات");
     clear.type = "button";
     footer.append(count, compare, clear);
-    picker.append(heading, hint, searchWrap, selectedTitle, chips, footer);
+    panel.append(heading, hint, controls, add, selectedTitle, chips, footer);
+    picker.append(launcher, panel);
     groups[0].parentNode.insertBefore(picker, groups[0]);
+
+    function fillProducts() {
+      product.replaceChildren();
+      const placeholder = el("option", "", category.value ? "اختار المنتج" : "اختار القسم الأول");
+      placeholder.value = "";
+      placeholder.selected = true;
+      product.append(placeholder);
+      product.disabled = !category.value;
+      if (!category.value) return;
+      entries.filter(item => item.category === category.value).forEach(item => {
+        const option = el("option", "", item.name + " — " + item.priceText);
+        option.value = item.id;
+        product.append(option);
+      });
+      add.disabled = true;
+    }
 
     const overlay = el("div", "mp-compare-overlay");
     overlay.hidden = true;
@@ -89,7 +138,7 @@
     function renderChips() {
       chips.replaceChildren();
       if (!selected.size) {
-        chips.append(el("span", "mp-picker-empty", "لم تختر أي منتج بعد"));
+        chips.append(el("span", "mp-picker-empty", "لسه ما ضفتش أي منتج"));
         return;
       }
       selected.forEach(item => {
@@ -101,57 +150,23 @@
         remove.addEventListener("click", () => {
           selected.delete(item.id);
           render();
-          search.focus();
+          if (product.value === item.id) product.value = "";
         });
         chip.append(remove);
         chips.append(chip);
       });
     }
-    function renderResults() {
-      results.replaceChildren();
-      const q = search.value.trim().toLocaleLowerCase("ar");
-      if (!q) {
-        results.hidden = true;
-        return;
-      }
-      const matches = entries.filter(item =>
-        !selected.has(item.id) && item.name.toLocaleLowerCase("ar").includes(q)
-      ).slice(0, 8);
-      if (!matches.length) {
-        results.append(el("p", "mp-simple-empty", "مش لاقيين المنتج ده. جرّب تكتب الاسم بشكل أبسط."));
-        results.hidden = false;
-        return;
-      }
-      matches.forEach(item => {
-        const button = el("button", "mp-simple-result");
-        button.type = "button";
-        button.setAttribute("role", "option");
-        const info = el("span", "mp-simple-result-info");
-        info.append(el("strong", "", item.name));
-        info.append(el("small", "", item.category + " · " + item.priceText));
-        button.append(info, el("span", "mp-simple-add", "اختيار"));
-        button.addEventListener("click", () => {
-          if (selected.size >= 4) {
-            count.textContent = "الحد الأقصى 4 منتجات.";
-            return;
-          }
-          selected.set(item.id, item);
-          search.value = "";
-          render();
-          search.placeholder = selected.size === 1 ? "ابحث عن المنتج الثاني…" : "ابحث عن منتج آخر…";
-          search.focus();
-        });
-        results.append(button);
-      });
-      results.hidden = false;
-    }
     function render() {
       renderChips();
-      renderResults();
       compare.disabled = selected.size < 2;
-      count.textContent = selected.size < 2
-        ? "اختر منتجًا آخر للمقارنة"
-        : selected.size + " منتجات جاهزة للمقارنة";
+      add.disabled = !product.value || selected.has(product.value) || selected.size >= 4;
+      if (selected.size >= 4) {
+        count.textContent = "وصلت للحد الأقصى: ٤ منتجات";
+      } else if (selected.size === 0) {
+        count.textContent = "اختار منتجين على الأقل للمقارنة";
+      } else {
+        count.textContent = "تمت إضافة " + selected.size + " من ٤ منتجات";
+      }
     }
     function renderComparison() {
       thead.replaceChildren();
@@ -197,12 +212,22 @@
       overlay.hidden = true;
       compare.focus();
     }
-    search.addEventListener("input", renderResults);
-    search.addEventListener("keydown", event => {
-      if (event.key === "Escape") {
-        search.value = "";
-        renderResults();
-      }
+
+    launcher.addEventListener("click", () => {
+      panel.hidden = false;
+      launcher.hidden = true;
+      launcher.setAttribute("aria-expanded", "true");
+      category.focus();
+    });
+    category.addEventListener("change", fillProducts);
+    product.addEventListener("change", render);
+    add.addEventListener("click", () => {
+      const item = entries.find(entry => entry.id === product.value);
+      if (!item || selected.has(item.id) || selected.size >= 4) return;
+      selected.set(item.id, item);
+      product.value = "";
+      render();
+      product.focus();
     });
     compare.addEventListener("click", openDialog);
     close.addEventListener("click", closeDialog);
@@ -214,12 +239,18 @@
     });
     clear.addEventListener("click", () => {
       selected.clear();
-      search.value = "";
-      search.placeholder = "اكتب اسم المنتج هنا…";
+      category.value = "";
+      fillProducts();
       render();
-      search.focus();
+      category.focus();
     });
+
     render();
+    if (window.location.hash === "#compare-products") {
+      panel.hidden = false;
+      launcher.hidden = true;
+      launcher.setAttribute("aria-expanded", "true");
+    }
   }
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", initProductComparison, { once: true });
