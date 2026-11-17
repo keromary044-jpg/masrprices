@@ -137,7 +137,7 @@ jobs:
           contact = (root / "contact.html").read_text(encoding="utf-8")
           admin = (root / "admin.html").read_text(encoding="utf-8")
           assert '<meta name="robots" content="noindex,nofollow">' in admin, "Admin page must be noindex"
-          assert 'src="/products-directory.js"' in product_index, "Product directory is missing its external search script"
+          assert re.search(r'src="/products-directory\.js(?:\?[^"]*)?"', product_index), "Product directory is missing its external search script"
           assert '"./products-directory.js"' in sw, "Service worker is missing the directory search script"
           assert 'src="/site-enhancements.js"' in home, "Home page is missing the CSP-compatible enhancement script"
           assert 'href="/catalog/"' in home, "Home page does not link to the full catalogue"
