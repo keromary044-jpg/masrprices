@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Build a complete inventory of product price coverage across catalog JSON files."""
 import json
+import re
+import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -8,6 +10,49 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "price-coverage-report.json"
 SKIP = {"price-feeds.json", "price-coverage-report.json", "phone-model-index.json", "seo-products.json"}
+
+
+DETAIL_CATEGORY_MAP = {
+    "الموبايلات": "phones.json",
+    "الإلكترونيات والملحقات": "electronics.json",
+    "الأجهزة المنزلية": "appliances.json",
+    "الكتب": "books.json",
+    "السيارات": "cars.json",
+    "الطعام والبقالة": "groceries.json",
+    "الأدوات": "tools.json",
+    "مستلزمات الأطفال": "baby-products.json",
+    "الملابس": "clothing.json",
+    "الأثاث": "furniture.json",
+    "العناية الشخصية": "personal-care.json",
+    "الرياضة": "sports.json",
+    "الزراعة والنباتات": "plants.json",
+    "خدمات الاتصالات": "telecom.json",
+}
+
+def normalize_label(value):
+    return " ".join(unicodedata.normalize("NFKC", str(value or "")).casefold().split())
+
+def is_duplicate_detail_product(product, primary_catalogs):
+    """Avoid counting product-detail mirrors twice while retaining unmatched detail-only items."""
+    category = re.sub(r"\\s*\\(\\d+\\)\\s*$", "", str(product.get("category") or "")).strip()
+    catalog_name = DETAIL_CATEGORY_MAP.get(category)
+    if not catalog_name:
+        return False
+    slug = str(product.get("slug") or product.get("id") or "").strip()
+    name = normalize_label(product.get("name") or product.get("title"))
+    brand = normalize_label(product.get("brand"))
+    for candidate in primary_catalogs.get(catalog_name, []):
+        candidate_ids = {
+            str(candidate.get(key) or "").strip()
+            for key in ("id", "slug", "productId", "product_id", "sku")
+        }
+        if slug and slug in candidate_ids:
+            return True
+        candidate_name = normalize_label(candidate.get("name") or candidate.get("title"))
+        candidate_brand = normalize_label(candidate.get("brand"))
+        if name and name == candidate_name and (not brand or not candidate_brand or brand == candidate_brand):
+            return True
+    return False
 
 def positive_price(value):
     if isinstance(value, dict):
@@ -46,7 +91,7 @@ def parse_observed_time(value):
         parsed = parsed.replace(tzinfo=ZoneInfo("Africa/Cairo"))
     return parsed.astimezone(timezone.utc)
 
-def freshness_status(product, now=None, max_age_days=14):
+def freshness_status(product, now=None, max_age_days=14, allow_generic_date=False):
     """Classify the displayed lowest offer by its own observation timestamp."""
     now = now or datetime.now(timezone.utc)
     offers = product.get("priceOffers")
@@ -72,15 +117,14 @@ def freshness_status(product, now=None, max_age_days=14):
             return "fresh" if max(best_dates) >= now - timedelta(days=max_age_days) else "stale"
     if not has_price(product):
         return "missing"
-    for key in ("priceCheckedAt", "checkedAt", "price_updated_at"):
+    for key in (("priceCheckedAt", "checkedAt", "price_updated_at", "date") if allow_generic_date else ("priceCheckedAt", "checkedAt", "price_updated_at")):
         observed = parse_observed_time(product.get(key))
         if observed:
             return "fresh" if observed >= now - timedelta(days=max_age_days) else "stale"
     return "unknown"
 
 def build_report():
-    categories = []
-    missing = []
+    catalog_data = {}
     for path in sorted(ROOT.glob("*.json")):
         if path.name in SKIP:
             continue
@@ -94,18 +138,31 @@ def build_report():
             products = data.get("products")
         else:
             products = None
-        if not isinstance(products, list):
-            continue
+        if isinstance(products, list):
+            catalog_data[path.name] = [item for item in products if isinstance(item, dict)]
+
+    primary_catalogs = {
+        filename: products
+        for filename, products in catalog_data.items()
+        if filename != "products-data.json"
+    }
+    if "products-data.json" in catalog_data:
+        catalog_data["products-data.json"] = [
+            item for item in catalog_data["products-data.json"]
+            if not is_duplicate_detail_product(item, primary_catalogs)
+        ]
+
+    categories = []
+    missing = []
+    for filename, products in sorted(catalog_data.items()):
         priced = 0
         fresh = 0
         stale = 0
         unknown = 0
         for item in products:
-            if not isinstance(item, dict):
-                continue
             if has_price(item):
                 priced += 1
-                status = freshness_status(item)
+                status = freshness_status(item, allow_generic_date=filename == "products-data.json")
                 if status == "fresh":
                     fresh += 1
                 elif status == "stale":
@@ -114,16 +171,16 @@ def build_report():
                     unknown += 1
             else:
                 missing.append({
-                    "catalog": path.name,
-                    "id": str(item.get("id") or item.get("productId") or item.get("sku") or ""),
+                    "catalog": filename,
+                    "id": str(item.get("id") or item.get("productId") or item.get("sku") or item.get("slug") or ""),
                     "name": str(item.get("name") or item.get("title") or ""),
                     "brand": str(item.get("brand") or ""),
                     "model": str(item.get("model") or ""),
                     "sku": str(item.get("sku") or ""),
                 })
-        total = sum(1 for item in products if isinstance(item, dict))
+        total = len(products)
         categories.append({
-            "catalog": path.name,
+            "catalog": filename,
             "total": total,
             "with_price": priced,
             "without_price": total - priced,
@@ -143,7 +200,7 @@ def build_report():
     return {
         "generated_at": now,
         "currency": "EGP",
-        "definition": "A product counts as priced only when a positive numeric price or positive offer price exists. Freshness is measured from the lowest offer timestamp; fresh means no older than 14 days.",
+        "definition": "A product counts once across its category catalog and product-detail mirror. Freshness uses the lowest offer timestamp; unmatched detail-only products use their explicit date field. Fresh means no older than 14 days.",
         "totals": {
             "products": total_products,
             "with_price": total_priced,

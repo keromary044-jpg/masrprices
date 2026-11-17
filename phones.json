@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T19:24:22+02:00",
+  "updatedAt": "2026-11-17T02:49:24+02:00",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -24560,28 +24560,28 @@
       "connectivity": "4G",
       "source": "https://priceteq.com/eg/product/06bbd3fa-1afd-4053-9059-6c4ae84339f5",
       "sourceLabel": "Samsung Egypt – صفحة سلسلة Galaxy A",
-      "priceEGP": 16400,
-      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
-      "priceCheckedAt": "2026-11-16",
-      "priceObservedAt": "2026-11-16",
-      "priceStatus": "تم فتح صفحة المنتج مباشرة 16 نوفمبر: Samsung Galaxy A17 4G نسخة 8GB/256GB بسعر 16,400 جنيه، In Stock وBuy now/Add to cart. يوجد نص FAQ قديم في الصفحة يذكر 9,800 جنيه؛ اعتمدت السعر الرئيسي المعروض بجوار المنتج وسجلت تعارض النص القديم.",
+      "priceEGP": 16100,
+      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
+      "priceCheckedAt": "2026-11-17",
+      "priceObservedAt": "2026-11-17",
+      "priceStatus": "فحص مباشر 17 نوفمبر 2026: صفحة El Avocato تعرض 16,100 جنيهًا لنسخة 8GB RAM / 256GB / 4G، مع In Stock وAdd to Cart.",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 16400,
+          "priceEGP": 16100,
           "variant": "8GB RAM / 256GB / 4G",
           "source": "https://elavocatomobile.net/product/samsung-galaxy-a17-4g-8gb-256gb/",
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-16",
-          "observedAt": "2026-11-16",
+          "checkedAt": "2026-11-17",
+          "observedAt": "2026-11-17",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a17-4g-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-16T19:24:22+02:00",
-          "note": "فحص مباشر 16 نوفمبر: 16,400 جنيه، 8GB/256GB/4G، In Stock وAdd to Cart. نص FAQ في الصفحة يذكر سعرًا قديمًا 9,800 جنيه؛ السعر المعتمد هو السعر الرئيسي الظاهر أعلى المنتج."
+          "reviewedAt": "2026-11-17T02:49:24+02:00",
+          "note": "فحص مباشر 17 نوفمبر 2026: صفحة El Avocato تعرض 16,100 جنيهًا لنسخة 8GB RAM / 256GB / 4G، مع In Stock وAdd to Cart."
         },
         {
           "merchant": "Sharaf DG Egypt",
@@ -24630,13 +24630,13 @@
         }
       ],
       "merchant": "El Avocato Mobile Egypt",
-      "priceVerifiedAt": "2026-11-16T19:24:22+02:00",
-      "priceLastVerifiedAt": "2026-11-16T19:24:22+02:00",
+      "priceVerifiedAt": "2026-11-17T02:49:24+02:00",
+      "priceLastVerifiedAt": "2026-11-17T02:49:24+02:00",
       "priceType": "store",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a17-4g-8gb-256gb/",
       "priceAvailability": "in_stock",
       "priceProvider": "El Avocato Mobile Egypt",
-      "priceReviewedAt": "2026-11-16T19:24:22+02:00"
+      "priceReviewedAt": "2026-11-17T02:49:24+02:00"
     },
     {
       "id": "infinix-smart-20-4-64",
