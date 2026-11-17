@@ -1,170 +1,46 @@
 "use strict";
-(function () {
-  function initProductComparison() {
-    const page = document.querySelector("body.products-directory-page");
-    if (!page || page.dataset.compareReady === "1") return;
-    const groups = Array.from(page.querySelectorAll(".group"));
-    if (!groups.length) return;
-    const make = (tag, cls, value) => {
-      const el = document.createElement(tag);
-      if (cls) el.className = cls;
-      if (value !== undefined) el.textContent = value;
-      return el;
-    };
-    const normalize = value => String(value || "").toLocaleLowerCase("ar").normalize("NFD")
-      .replace(/[\u064B-\u065F\u0670]/g, "").replace(/[أإآ]/g, "ا")
-      .replace(/ى/g, "ي").replace(/ة/g, "ه").replace(/\s+/g, " ").trim();
-    const toNumber = value => {
-      const digits = String(value || "").replace(/[٠-٩]/g, d => String("٠١٢٣٤٥٦٧٨٩".indexOf(d)))
-        .replace(/[۰-۹]/g, d => String("۰۱۲۳۴۵۶۷۸۹".indexOf(d)));
-      const n = Number(digits.replace(/[^\d.,]/g, "").replace(/,/g, ""));
-      return Number.isFinite(n) && n > 0 ? n : null;
-    };
-    const entries = [];
-    groups.forEach(group => {
-      const heading = group.querySelector("h2,h3");
-      const categoryName = heading ? heading.textContent.trim().replace(/\s*\(\d+\)\s*$/, "") : "قسم آخر";
-      group.querySelectorAll("li").forEach(li => {
-        const link = li.querySelector("a[href*='/products/']");
-        if (!link) return;
-        const priceNode = li.querySelector(":scope > strong") || li.querySelector("strong");
-        const dateNode = li.querySelector("small");
-        const priceText = priceNode ? priceNode.textContent.trim() : "غير مسجل";
-        entries.push({id:link.getAttribute("href"),name:link.textContent.trim(),url:link.href,category:categoryName,
-          price:toNumber(priceText),priceText,date:dateNode ? dateNode.textContent.trim() : "غير محدد"});
-      });
-    });
-    if (!entries.length) return;
-    page.dataset.compareReady = "1";
-    const categoryNames = ["الموبايلات والإلكترونيات","الإلكترونيات والملحقات","الكتب والروايات","مواد البناء","الأدوية والصحة","الأجهزة المنزلية","السيارات وقطع الغيار","العقارات","قطع غيار السيارات","مستلزمات المنزل والتنظيف","الطعام والبقالة","الملابس والأحذية","الأدوات المدرسية","مصاريف التعليم","الأثاث والمفروشات","التجميل والعناية","الكهرباء والسباكة","الرياضة والترفيه","الخدمات والاتصالات","الخدمات الحكومية","أسعار الذهب","أسعار الفضة","العملات الأجنبية","الحيوانات الأليفة","الزراعة والنباتات","السياحة والسفر","الأدوات والمعدات","الوقود ومشتقاته","مستلزمات الأطفال والرضع","الكمبيوتر واللاب توب","الطابعات والأحبار","أجهزة الألعاب","الشبكات والإنترنت","كاميرات المراقبة والأمان","الطاقة الشمسية","إطارات السيارات","بطاريات السيارات","الموتوسيكلات والسكوتر","زيوت السيارات والشحوم","أدوات وأواني المطبخ","المراتب والمفروشات المنزلية","الأدوات الصحية والحمامات","النظارات والعدسات","الساعات","الحقائب وشنط السفر","العطور","مستلزمات الأمومة","مستلزمات الزراعة والري","فلاتر المياه","الأجهزة والمستلزمات الطبية المنزلية"];
-    const categoryGroups = {
-      "الموبايلات والإلكترونيات":["الموبايلات","الإلكترونيات والملحقات"],
-      "الإلكترونيات والملحقات":["الإلكترونيات والملحقات"],
-      "الكتب والروايات":["الكتب"],
-      "الأجهزة المنزلية":["الأجهزة المنزلية"],
-      "السيارات وقطع الغيار":["السيارات"],
-      "قطع غيار السيارات":["السيارات"],
-      "الطعام والبقالة":["الطعام والبقالة"],
-      "الملابس والأحذية":["الملابس"],
-      "الأثاث والمفروشات":["الأثاث"],
-      "التجميل والعناية":["العناية الشخصية"],
-      "الرياضة والترفيه":["الرياضة"],
-      "الزراعة والنباتات":["الزراعة والنباتات"],
-      "الخدمات والاتصالات":["خدمات الاتصالات"],
-      "الأدوات والمعدات":["الأدوات"],
-      "مستلزمات الأطفال والرضع":["مستلزمات الأطفال"]
-    };
-    const selected = new Map();
-    const picker = make("section","mp-picker mp-modern-picker");
-    picker.id = "compare-products";
-    picker.setAttribute("aria-label","البحث واختيار المنتجات للمقارنة");
-    const launch = make("button","mp-one-launch","إضافة منتج للمقارنة");
-    launch.type = "button";
-    launch.setAttribute("aria-expanded","false");
-    const panel = make("div","mp-modern-panel");
-    panel.hidden = true;
-    const heading = make("h1","mp-modern-title","قارن المنتجات بسهولة");
-    const sub = make("p","mp-modern-sub","ابحث عن المنتج أو اختر قسمًا من الأقسام الخمسين");
-    const categoryLabel = make("label","mp-modern-label","تصفح الأقسام");
-    const category = make("select","mp-modern-category");
-    category.setAttribute("aria-label","اختيار واحد من 50 قسمًا");
-    const all = make("option","","كل الأقسام");
-    all.value = "";
-    category.append(all);
-    categoryNames.forEach(name => { const op=make("option","",name); op.value=name; category.append(op); });
-    categoryLabel.append(category);
-    const searchWrap = make("div","mp-modern-search-wrap");
-    searchWrap.append(make("span","mp-modern-search-icon","⌕"));
-    const search = make("input","mp-modern-search");
-    search.type = "search"; search.autocomplete = "off"; search.enterKeyHint = "search";
-    search.placeholder = "ابحث عن منتج بالاسم أو الموديل...";
-    search.setAttribute("aria-label","ابحث عن منتج بالاسم أو الموديل");
-    const clear = make("button","mp-modern-clear","×");
-    clear.type="button"; clear.hidden=true; clear.setAttribute("aria-label","مسح البحث");
-    searchWrap.append(search,clear);
-    const results = make("div","mp-modern-results");
-    results.setAttribute("role","listbox"); results.setAttribute("aria-label","المنتجات المطابقة"); results.hidden=true;
-    const selectedTitle = make("h2","mp-modern-section-title","المنتجات المختارة");
-    const selectedList = make("div","mp-one-selected-list");
-    const compareArea = make("div","mp-one-comparison");
-    panel.append(heading,sub,categoryLabel,searchWrap,results,selectedTitle,selectedList,compareArea);
-    picker.append(launch,panel);
-    groups[0].parentNode.insertBefore(picker,groups[0]);
-    function allowedGroups() {
-      if (!category.value) return null;
-      return categoryGroups[category.value] || [];
-    }
-    function filteredEntries() {
-      const q=normalize(search.value), allowed=allowedGroups();
-      return entries.filter(item => !selected.has(item.id) &&
-        (!allowed || allowed.some(name => normalize(name)===normalize(item.category))) &&
-        (!q || normalize(item.name).includes(q) || normalize(item.category).includes(q)))
-        .slice(0,40);
-    }
-    function showResults() {
-      results.replaceChildren();
-      const matches=filteredEntries();
-      clear.hidden=!search.value;
-      if (!search.value.trim() && !category.value) { results.hidden=true; return; }
-      if (!matches.length) {
-        const msg = category.value && !(categoryGroups[category.value] || []).length
-          ? "القسم موجود ضمن الأقسام الخمسين، وسيظهر هنا بمجرد إضافة منتجاته إلى الكتالوج."
-          : "مفيش منتجات مطابقة. جرّب كلمة تانية أو اختار قسمًا مختلفًا.";
-        results.append(make("p","mp-modern-empty",msg));
-      } else {
-        matches.forEach(item => {
-          const option=make("button","mp-modern-result");
-          option.type="button"; option.setAttribute("role","option");
-          const info=make("span","mp-modern-result-info");
-          info.append(make("strong","",item.name),make("small","",item.category+" · "+item.priceText));
-          option.append(info,make("span","mp-modern-add","＋"));
-          option.addEventListener("click",()=>{
-            if(selected.size>=4 || selected.has(item.id)) return;
-            selected.set(item.id,item); search.value=""; render(); search.focus();
-          });
-          results.append(option);
-        });
-      }
-      results.hidden=false;
-    }
-    function renderSelected() {
-      selectedList.replaceChildren();
-      if(!selected.size){selectedList.append(make("p","mp-one-empty-selected","لم تضف أي منتج بعد."));return;}
-      selected.forEach(item=>{
-        const row=make("div","mp-one-chip");
-        row.append(make("span","mp-one-chip-name",item.name+" — "+item.category));
-        const remove=make("button","mp-one-remove","×"); remove.type="button";
-        remove.setAttribute("aria-label","حذف "+item.name);
-        remove.addEventListener("click",()=>{selected.delete(item.id);render();});
-        row.append(remove);selectedList.append(row);
-      });
-    }
-    function renderComparison() {
-      compareArea.replaceChildren();
-      if(selected.size<2){if(selected.size===1)compareArea.append(make("p","mp-one-progress","اختار منتجًا ثانيًا لعرض المقارنة تلقائيًا."));return;}
-      const items=[...selected.values()],wrap=make("div","mp-one-table-wrap"),table=make("table","mp-one-table");
-      const head=document.createElement("thead"),body=document.createElement("tbody"),hr=document.createElement("tr");
-      hr.append(make("th","","البيان"));items.forEach(item=>hr.append(make("th","",item.name)));head.append(hr);table.append(head,body);
-      const prices=items.filter(x=>x.price!==null).map(x=>x.price),lowest=prices.length?Math.min(...prices):null;
-      [["القسم",x=>x.category],["السعر",x=>x.priceText],["تاريخ السعر",x=>x.date],["صفحة المنتج",x=>x.url]].forEach(([label,get],idx)=>{
-        const tr=document.createElement("tr");tr.append(make("th","mp-one-row-label",label));
-        items.forEach(item=>{const td=document.createElement("td");
-          if(idx===1&&item.price!==null&&item.price===lowest){td.classList.add("mp-one-lowest");td.append(make("small","mp-one-lowest-tag","أقل سعر مسجل"));}
-          if(idx===3){const a=make("a","","عرض المنتج");a.href=get(item);td.append(a);}else td.append(document.createTextNode(get(item)||"غير متاح"));
-          tr.append(td);
-        });body.append(tr);
-      });
-      wrap.append(table);compareArea.append(make("h2","mp-modern-section-title","مقارنة الأسعار"),wrap);
-    }
-    function render(){renderSelected();renderComparison();showResults();}
-    launch.addEventListener("click",()=>{panel.hidden=false;launch.hidden=true;launch.setAttribute("aria-expanded","true");search.focus();});
-    category.addEventListener("change",showResults);
-    search.addEventListener("input",showResults);
-    search.addEventListener("search",showResults);
-    clear.addEventListener("click",()=>{search.value="";showResults();search.focus();});
-    if(location.hash==="#compare-products"){panel.hidden=false;launch.hidden=true;launch.setAttribute("aria-expanded","true");}
-    render();
-  }
-  if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",initProductComparison,{once:true});
-  else initProductComparison();
+(function(){
+function init(){
+ const page=document.querySelector("body.products-directory-page");if(!page||page.dataset.compareReady==="1")return;
+ const groups=[...page.querySelectorAll(".group")];if(!groups.length)return;
+ const make=(tag,cls,txt)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(txt!==undefined)e.textContent=txt;return e};
+ const norm=s=>String(s||"").toLocaleLowerCase("ar").normalize("NFD").replace(/[\u064B-\u065F\u0670]/g,"").replace(/[أإآ]/g,"ا").replace(/ى/g,"ي").replace(/ة/g,"ه").trim();
+ const number=s=>{const x=String(s||"").replace(/[٠-٩]/g,d=>"٠١٢٣٤٥٦٧٨٩".indexOf(d)).replace(/[۰-۹]/g,d=>"۰۱۲۳۴۵۶۷۸۹".indexOf(d));const n=Number(x.replace(/[^\d.]/g,""));return Number.isFinite(n)&&n>0?n:null};
+ const items=[];
+ groups.forEach(g=>{const h=g.querySelector("h2,h3"),cat=h?h.textContent.trim().replace(/\s*\(\d+\)\s*$/,""):"";
+ g.querySelectorAll("li").forEach(li=>{const a=li.querySelector("a[href*='/products/']");if(!a)return;const p=li.querySelector("strong"),d=li.querySelector("small");items.push({id:a.getAttribute("href"),name:a.textContent.trim(),url:a.href,category:cat,price:number(p?.textContent),priceText:p?.textContent.trim()||"السعر غير مسجل",date:d?.textContent.trim()||"غير محدد"});});
+ });
+ if(!items.length)return;page.dataset.compareReady="1";
+ const categories=["الموبايلات والإلكترونيات","الإلكترونيات والملحقات","الكتب والروايات","مواد البناء","الأدوية والصحة","الأجهزة المنزلية","السيارات وقطع الغيار","العقارات","قطع غيار السيارات","مستلزمات المنزل والتنظيف","الطعام والبقالة","الملابس والأحذية","الأدوات المدرسية","مصاريف التعليم","الأثاث والمفروشات","التجميل والعناية","الكهرباء والسباكة","الرياضة والترفيه","الخدمات والاتصالات","الخدمات الحكومية","أسعار الذهب","أسعار الفضة","العملات الأجنبية","الحيوانات الأليفة","الزراعة والنباتات","السياحة والسفر","الأدوات والمعدات","الوقود ومشتقاته","مستلزمات الأطفال والرضع","الكمبيوتر واللاب توب","الطابعات والأحبار","أجهزة الألعاب","الشبكات والإنترنت","كاميرات المراقبة والأمان","الطاقة الشمسية","إطارات السيارات","بطاريات السيارات","الموتوسيكلات والسكوتر","زيوت السيارات والشحوم","أدوات وأواني المطبخ","المراتب والمفروشات المنزلية","الأدوات الصحية والحمامات","النظارات والعدسات","الساعات","الحقائب وشنط السفر","العطور","مستلزمات الأمومة","مستلزمات الزراعة والري","فلاتر المياه","الأجهزة والمستلزمات الطبية المنزلية"];
+ const map={"الموبايلات والإلكترونيات":["الموبايلات","الإلكترونيات والملحقات"],"الإلكترونيات والملحقات":["الإلكترونيات والملحقات"],"الكتب والروايات":["الكتب"],"الأجهزة المنزلية":["الأجهزة المنزلية"],"السيارات وقطع الغيار":["السيارات"],"قطع غيار السيارات":["السيارات"],"الطعام والبقالة":["الطعام والبقالة"],"الملابس والأحذية":["الملابس"],"الأثاث والمفروشات":["الأثاث"],"التجميل والعناية":["العناية الشخصية"],"الرياضة والترفيه":["الرياضة"],"الزراعة والنباتات":["الزراعة والنباتات"],"الخدمات والاتصالات":["خدمات الاتصالات"],"الأدوات والمعدات":["الأدوات"],"مستلزمات الأطفال والرضع":["مستلزمات الأطفال"]};
+ const icons=["📱","🎧","📚","🧱","💊","🏠","🚗","🏘️","⚙️","🧹","🛒","👕","✏️","🎓","🛋️","🧴","🔧","⚽","📶","🏛️","🥇","🥈","💱","🐾","🌱","✈️","🧰","⛽","🍼","💻","🖨️","🎮","🌐","📷","☀️","🛞","🔋","🛵","🛢️","🍳","🛏️","🚿","👓","⌚","🧳","🌸","🤱","🚜","💧","🩺"];
+ const selected=new Map(),root=make("section","mpx-shell");root.id="compare-products";
+ const launch=make("button","mpx-launch");launch.type="button";launch.innerHTML='<span class="mpx-launch-icon">＋</span><span><b>اختيار المنتجات للمقارنة</b><small>اختار منتجين أو أكثر وشوف الفرق بينهم</small></span><span class="mpx-launch-arrow">←</span>';
+ const panel=make("div","mpx-panel");panel.hidden=true;
+ const top=make("div","mpx-top");top.append(make("div","mpx-eyebrow","مقارنة ذكية"),make("h2","mpx-heading","إيه المنتجات اللي عايز تقارنها؟"),make("p","mpx-description","ابحث مباشرة أو تصفح الأقسام، واضغط على المنتج لإضافته."));
+ const search=make("input","mpx-search");search.type="search";search.placeholder="اكتب اسم المنتج أو الماركة أو الموديل...";search.autocomplete="off";search.setAttribute("aria-label","ابحث عن منتج");
+ const searchbox=make("div","mpx-searchbox");searchbox.innerHTML='<span class="mpx-search-symbol">⌕</span>';searchbox.append(search);
+ const clear=make("button","mpx-clear","×");clear.type="button";clear.hidden=true;clear.setAttribute("aria-label","مسح البحث");searchbox.append(clear);
+ const selectedBar=make("div","mpx-selectedbar");const selectedHeading=make("div","mpx-selected-heading");selectedHeading.append(make("b","","المنتجات المختارة"),make("span","mpx-count","0 / 4"));const chips=make("div","mpx-chips");
+ selectedBar.append(selectedHeading,chips);
+ const categoryHead=make("div","mpx-section-head");categoryHead.append(make("h3","","تصفح الأقسام"),make("span","","50 قسم"));
+ const catSearch=make("input","mpx-cat-search");catSearch.placeholder="ابحث عن قسم...";catSearch.setAttribute("aria-label","ابحث عن قسم");
+ const catGrid=make("div","mpx-category-grid");
+ const resultHead=make("div","mpx-section-head");resultHead.append(make("h3","","المنتجات"),make("span","mpx-result-count",items.length+" منتج"));
+ const results=make("div","mpx-results");
+ const footer=make("div","mpx-footer");const status=make("span","mpx-status","لم تختر منتجات بعد");const reset=make("button","mpx-reset","مسح الاختيارات");reset.type="button";footer.append(status,reset);
+ panel.append(top,searchbox,selectedBar,categoryHead,catSearch,catGrid,resultHead,results,footer);root.append(launch,panel);groups[0].parentNode.insertBefore(root,groups[0]);
+ let activeCat="";
+ function catItems(c){const aliases=map[c]||[c];return items.filter(x=>aliases.some(a=>norm(a)===norm(x.category)));}
+ function drawCats(){catGrid.replaceChildren();const q=norm(catSearch.value);categories.forEach((c,i)=>{if(q&&!norm(c).includes(q))return;const n=catItems(c).length;const b=make("button","mpx-category"+(activeCat===c?" is-active":""));b.type="button";b.innerHTML='<span class="mpx-cat-icon">'+icons[i]+'</span><span class="mpx-cat-text"><b></b><small></small></span><span class="mpx-cat-chevron">›</span>';b.querySelector("b").textContent=c;b.querySelector("small").textContent=n?n+" منتج متاح": "قريبًا";b.disabled=!n;b.addEventListener("click",()=>{activeCat=activeCat===c?"":c;drawCats();drawResults();});catGrid.append(b);});}
+ function filtered(){const q=norm(search.value);let list=items.filter(x=>!selected.has(x.id));if(activeCat){const aliases=map[activeCat]||[activeCat];list=list.filter(x=>aliases.some(a=>norm(a)===norm(x.category)));}if(q)list=list.filter(x=>norm(x.name).includes(q)||norm(x.category).includes(q));return list.slice(0,60);}
+ function drawResults(){results.replaceChildren();const list=filtered();resultHead.querySelector("span").textContent=list.length+" نتيجة";if(!search.value.trim()&&!activeCat){results.append(make("div","mpx-empty","ابدأ بكتابة اسم المنتج أو اختار قسمًا لعرض المنتجات المتاحة."));return;}if(!list.length){results.append(make("div","mpx-empty","مفيش منتجات مطابقة في الاختيار ده حاليًا. جرّب كلمة تانية أو قسم مختلف."));return;}list.forEach(x=>{const b=make("button","mpx-product");b.type="button";const details=make("span","mpx-product-details");details.append(make("b","",x.name),make("small","",x.category+"  •  "+x.priceText));const add=make("span","mpx-product-add","＋");b.append(details,add);b.addEventListener("click",()=>{if(selected.size>=4)return;selected.set(x.id,x);drawSelected();drawResults();});results.append(b);});}
+ function drawSelected(){chips.replaceChildren();selectedHeading.querySelector("span").textContent=selected.size+" / 4";status.textContent=selected.size<2?"أضف منتجًا آخر لبدء المقارنة": "تم اختيار "+selected.size+" منتجات — المقارنة جاهزة";selected.forEach(x=>{const chip=make("div","mpx-chip");chip.append(make("span","",x.name));const rm=make("button","","×");rm.type="button";rm.setAttribute("aria-label","إزالة "+x.name);rm.addEventListener("click",()=>{selected.delete(x.id);drawSelected();drawResults();drawComparison();});chip.append(rm);chips.append(chip);});drawComparison();}
+ function drawComparison(){let old=panel.querySelector(".mpx-compare");if(old)old.remove();if(selected.size<2)return;const box=make("div","mpx-compare");box.append(make("h3","","مقارنة المنتجات المختارة"));const table=make("table","mpx-table"),head=document.createElement("thead"),hr=document.createElement("tr");hr.append(make("th","","التفاصيل"));const arr=[...selected.values()];arr.forEach(x=>hr.append(make("th","",x.name)));head.append(hr);table.append(head);const body=document.createElement("tbody");const prices=arr.filter(x=>x.price!==null).map(x=>x.price),low=prices.length?Math.min(...prices):null;[["القسم",x=>x.category],["السعر",x=>x.priceText],["تاريخ السعر",x=>x.date]].forEach(([label,get],i)=>{const tr=document.createElement("tr");tr.append(make("th","",""+label));arr.forEach(x=>{const td=document.createElement("td");if(i===1&&x.price!==null&&x.price===low)td.className="mpx-low";td.textContent=get(x);tr.append(td);});body.append(tr);});table.append(body);const wrap=make("div","mpx-table-wrap");wrap.append(table);box.append(wrap);arr.forEach(x=>{const a=make("a","mpx-product-link","عرض المنتج");a.href=x.url;a.target="_self";box.append(a);});panel.insertBefore(box,footer);}
+ search.addEventListener("input",()=>{clear.hidden=!search.value;drawResults();});clear.addEventListener("click",()=>{search.value="";clear.hidden=true;drawResults();search.focus();});catSearch.addEventListener("input",drawCats);reset.addEventListener("click",()=>{selected.clear();drawSelected();drawResults();});
+ launch.addEventListener("click",()=>{panel.hidden=false;launch.hidden=true;search.focus();});
+ if(location.hash==="#compare-products"){panel.hidden=false;launch.hidden=true;}
+ drawCats();drawSelected();drawResults();
+}
+if(document.readyState==="loading")document.addEventListener("DOMContentLoaded",init,{once:true});else init();
 })();
