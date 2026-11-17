@@ -34,7 +34,7 @@ def normalize_label(value):
 
 def is_duplicate_detail_product(product, primary_catalogs):
     """Avoid counting product-detail mirrors twice while retaining unmatched detail-only items."""
-    category = re.sub(r"\\s*\\(\\d+\\)\\s*$", "", str(product.get("category") or "")).strip()
+    category = re.sub(r"\s*\(\d+\)\s*$", "", str(product.get("category") or "")).strip()
     catalog_name = DETAIL_CATEGORY_MAP.get(category)
     if not catalog_name:
         return False
