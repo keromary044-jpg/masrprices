@@ -588,3 +588,22 @@ a,button,input,select,textarea,[role="button"],.mp-compare-tray,.mp-compare-over
 .mp-picker-simple .mp-compare-open,.mp-picker-simple .mp-compare-clear{min-height:43px;padding:9px 15px}
 .mp-picker-simple .mp-compare-open:disabled{opacity:.45}
 @media(max-width:600px){.mp-simple-footer{display:grid;grid-template-columns:1fr 1fr}.mp-simple-count{grid-column:1/-1;text-align:center}.mp-picker-simple .mp-compare-open,.mp-picker-simple .mp-compare-clear{width:100%}}
+
+
+/* Step-by-step product comparison picker */
+.mp-picker-flow{padding:16px;border:1px solid #dce5ef;border-radius:16px;background:#fff;box-shadow:0 8px 24px #102b5008}
+.mp-start-compare{display:flex;align-items:center;justify-content:center;width:100%;min-height:54px;padding:13px 18px;border:0;border-radius:13px;background:#0e8f83;color:#fff;font:inherit;font-size:1rem;font-weight:900;cursor:pointer;touch-action:manipulation}
+.mp-start-compare:active,.mp-flow-add:active{transform:scale(.99)}
+.mp-picker-panel[hidden],.mp-start-compare[hidden]{display:none!important}
+.mp-picker-panel{padding-top:14px}
+.mp-flow-controls{display:grid;grid-template-columns:1fr;gap:8px;margin:14px 0 12px}
+.mp-flow-label{font-size:.88rem;font-weight:900;color:#29435e}
+.mp-flow-select{width:100%;min-height:52px;padding:10px 13px;border:1px solid #d6e1e9;border-radius:12px;background:#fbfdff;color:#17324d;font:inherit;font-size:16px}
+.mp-flow-select:focus{outline:2px solid #0e8f83;outline-offset:2px}
+.mp-flow-select:disabled{background:#f1f4f7;color:#8b98a5}
+.mp-flow-add{width:100%;min-height:49px;padding:11px 16px;border:0;border-radius:12px;background:#e8f4f2;color:#08786f;font:inherit;font-weight:900;cursor:pointer}
+.mp-flow-add:disabled{opacity:.45;cursor:not-allowed}
+.mp-flow-footer{margin-top:14px}
+.mp-flow-footer .mp-compare-open{background:#102b50;color:#fff}
+.mp-flow-footer .mp-compare-open:disabled{opacity:.4}
+@media(max-width:600px){.mp-picker-flow{padding:13px}.mp-flow-select{min-height:50px}.mp-flow-footer{display:grid;grid-template-columns:1fr 1fr}.mp-flow-footer .mp-simple-count{grid-column:1/-1;text-align:center}.mp-flow-footer .mp-compare-open,.mp-flow-footer .mp-compare-clear{width:100%;min-height:46px}}
