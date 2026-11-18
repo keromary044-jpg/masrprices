@@ -1,10 +1,29 @@
+import json
 import os
 import unittest
+from pathlib import Path
 from unittest.mock import patch
 from github_actions_updater import normalize, apply_offer, run_pricelens, run_open_prices, run_apish_jumia, run_apish_noon, run_raneen, expire_stale_offers
 from coverage_report import freshness_status
 
 class PriceUpdaterTests(unittest.TestCase):
+    def test_paid_or_permission_gated_sources_are_disabled(self):
+        config_path = Path(__file__).resolve().parents[1] / "price-feeds.json"
+        config = json.loads(config_path.read_text(encoding="utf-8"))
+        sources = {source.get("id"): source for source in config.get("sources", [])}
+        blocked = {
+            "pricelens-eg-retailers",
+            "apish-jumia-egypt",
+            "apish-noon-egypt",
+            "sama-link-store",
+            "egid-egx-market-data",
+            "open-prices-egypt-community",
+            "raneen-eg-public-catalogue",
+        }
+        for source_id in blocked:
+            self.assertIn(source_id, sources)
+            self.assertFalse(sources[source_id].get("active", False), source_id)
+
     def setUp(self):
         self.product = {"id":"p1","name":"سامسونج جالاكسي A56","brand":"Samsung","price":100}
         self.index = {(normalize(self.product["name"]), normalize(self.product["brand"])):[("phones.json",self.product)]}
