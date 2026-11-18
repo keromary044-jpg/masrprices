@@ -24606,7 +24606,7 @@
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
       "priceCheckedAt": "2026-11-18",
       "priceObservedAt": "2026-11-18",
-      "priceStatus": "تحقق مباشر 18 نوفمبر 2026: صفحة El Avocato تعرض HONOR 600 نسخة 8GB RAM / 256GB / 5G بسعر 29,000 جنيه، مع In Stock وAdd to cart وBuy now. سعر متجر وليس سعرًا رسميًا معلنًا من HONOR.",
+      "priceStatus": "مراجعة الصفحة المباشرة 18 نوفمبر 2026 الساعة 20:52: ظهر 27,800 جنيه مع In Stock، لكن صور/عنوان الصفحة يذكران 12GB/256GB بينما سجل المنتج هنا 8GB/256GB، لذلك لا أغيّر السعر ولا أؤكد النسخة؛ 29,000 جنيه يبقى آخر سعر مسجل للنسخة 8GB/256GB حتى تأكيد التاجر.",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
@@ -24616,14 +24616,14 @@
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
           "checkedAt": "2026-11-18",
           "observedAt": "2026-11-18",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/honor-600-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-18T13:52:23+02:00",
-          "note": "تحقق مباشر 18 نوفمبر 2026: الصفحة تعرض 29,000 جنيه لنسخة 8GB/256GB/5G، مع In Stock وAdd to cart وBuy now."
+          "reviewedAt": "2026-11-18T20:52:04+02:00",
+          "note": "آخر سعر مسجل 29,000 جنيه لنسخة 8GB/256GB؛ عند إعادة فتح الصفحة ظهر 27,800 جنيه لكن عنوان صورة المنتج يذكر 12GB/256GB، لذا لم يتم اعتماد السعر للنسخة 8GB حتى تأكيد التاجر."
         },
         {
           "merchant": "B.TECH Egypt",
@@ -24691,9 +24691,9 @@
       "priceVerifiedAt": "2026-11-18T13:52:23+02:00",
       "priceLastVerifiedAt": "2026-11-18T13:52:23+02:00",
       "priceProvider": "El Avocato Mobile Egypt",
-      "priceAvailability": "in_stock",
+      "priceAvailability": "check_store",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-18T13:52:23+02:00"
+      "priceReviewedAt": "2026-11-18T20:52:04+02:00"
     },
     {
       "id": "samsung-galaxy-a17-4g-8-256",
@@ -24814,7 +24814,7 @@
       "priceSource": "Vodafone Egypt – صفحة المنتج المباشرة (سعر متجر)",
       "priceCheckedAt": "2026-11-18",
       "priceObservedAt": "2026-11-18",
-      "priceStatus": "تحقق مباشر 18 نوفمبر 2026 الساعة 20:52: صفحة Vodafone تعرض Infinix Smart 20 4G نسخة 4+4GB RAM / 64GB باللون Cloudline Blue بسعر 7,999 جنيه مع Add To Cart وBuy Now. صفحة الويب المخزنة سابقًا أظهرت 8,099 جنيهًا، لذا اعتُمدت قراءة الجلب المباشر الأحدث 7,999. Carrefour يعرض نسخة 4GB/64GB/4G بسعر 9,379 جنيهًا في الجلب المباشر، بينما نسخة العرض المخزنة في الويب أظهرت 8,849؛ تم وضع عرض Carrefour في check_store بسبب اختلاف القراءة.",
+      "priceStatus": "تحقق مباشر 18 نوفمبر 2026 الساعة 20:52: أحدث جلب مباشر لصفحة Vodafone يعرض 7,999 جنيهًا لنسخة 4+4GB RAM / 64GB / 4G مع Add To Cart وBuy Now، بينما عرض الويب المخزن الذي أمكن فتحه يعرض 8,099 جنيهًا للنسخة نفسها. لذلك 7,999 هو آخر سعر مرصود بالجلب المباشر، لكن السعر النهائي يحتاج تأكيدًا عند الدفع؛ التوفر ظاهر من أزرار الشراء.",
       "priceOffers": [
         {
           "merchant": "Vodafone Egypt",
@@ -24828,7 +24828,7 @@
           "priceType": "store",
           "currency": "EGP",
           "verificationMethod": "retailer_page",
-          "note": "جلب مباشر 18 نوفمبر 2026 الساعة 20:52: الصفحة تعرض 7,999 جنيهًا، ونسخة 4+4/64GB، مع Add To Cart وBuy Now.",
+          "note": "جلب مباشر 18 نوفمبر 2026 الساعة 20:52 يعرض 7,999 جنيهًا مع Add To Cart وBuy Now؛ نسخة الويب المخزنة تعرض 8,099 جنيهًا، لذلك السعر المرصود يحتاج تأكيدًا عند الدفع.",
           "reviewedAt": "2026-11-18T20:52:04+02:00",
           "retailerUrl": "https://eshop.vodafone.com.eg/en/prod/infinix-smart-20-4g-64gb"
         },
