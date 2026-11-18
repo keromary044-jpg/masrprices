@@ -64,14 +64,10 @@ jobs:
           PY
       - name: Test price source matching and safety rules
         run: python -m unittest discover -s price-updater -p 'test_*.py'
-      - name: Fetch and validate authorized price feeds
-        # Paid/keyed providers run only on the daily schedule. Pushes run only
-        # the public, keyless Raneen feed to start importing verified prices.
+      - name: Run only enabled, approved no-cost price feeds
+        # Paid, key-restricted, permission-gated, and access-denied sources are disabled in price-feeds.json.
+        # Never inject paid-provider API keys into this workflow.
         if: github.event_name == 'schedule' || github.event_name == 'push'
-        env:
-          PRICELENS_API_KEY: ${{ secrets.PRICELENS_API_KEY }}
-          SAMA_LINK_API_KEY: ${{ secrets.SAMA_LINK_API_KEY }}
-          APISH_API_KEY: ${{ secrets.APISH_API_KEY }}
         run: |
           if [ "${{ github.event_name }}" = "schedule" ]; then
             python price-updater/github_actions_updater.py
