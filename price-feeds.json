@@ -2,14 +2,14 @@
   "version": 3,
   "currency": "EGP",
   "matching_policy": "Exact normalized product name AND brand only; ambiguous or partial matches are rejected.",
-  "update_schedule": "03:00 UTC daily (05:00 Africa/Cairo during Egypt winter time); API.SH retailer calls run only on the daily schedule, not on manual dispatch or code pushes.",
+  "update_schedule": "Daily schedule runs only feeds that are free, already authorized, and explicitly enabled. Paid, key-restricted, permission-gated, or access-denied providers remain disabled and must not be called.",
   "sources": [
     {
       "id": "pricelens-eg-retailers",
       "name": "PriceLens Egypt multi-store offers API",
       "adapter": "pricelens",
-      "active": true,
-      "status": "pending_api_key_and_plan_activation",
+      "active": false,
+      "status": "disabled_paid_plan_not_authorized",
       "secret_env": "PRICELENS_API_KEY",
       "endpoint": "https://pricelens.store/api/v1/partner/deals",
       "scope": "market:read",
@@ -27,15 +27,15 @@
         "watches.json",
         "groceries.json"
       ],
-      "activation_note": "Enabled in the updater configuration. Requires PRICELENS_API_KEY as a GitHub Actions repository secret and a provider plan with market:read access. Until the key is present the updater skips this source without making API calls. This endpoint is the deals feed, not a complete catalogue feed: it imports only recent in-stock discounted offers, exact-matched by product name and brand. Up to 3 pages (300 deals) per daily run; preserve PriceLens attribution and returned links exactly; cache no longer than 24 hours.",
+      "activation_note": "Disabled by project policy because this feed requires a provider plan and API key. Do not call or reactivate without separate explicit approval.",
       "max_pages": 3
     },
     {
       "id": "apish-jumia-egypt",
       "name": "API.SH Jumia Egypt product and price API",
       "adapter": "apish_jumia",
-      "active": true,
-      "status": "ready_for_api_key_secret",
+      "active": false,
+      "status": "disabled_paid_provider_prohibited",
       "secret_env": "APISH_API_KEY",
       "endpoint": "https://api.api.sh/jumia/v1/search",
       "country": "eg",
@@ -60,7 +60,7 @@
         "maternity.json"
       ],
       "max_calls_per_run": 1,
-      "activation_note": "One product search per scheduled daily run, rotating across all 15 priority catalogs. Estimated maximum: about 30 calls per month for this provider; combined Jumia and Noon budget about 60 calls per month. Only exact-matched, buyable/in-stock Egypt EGP offers are imported; failed 402 calls stop without retries."
+      "activation_note": "Disabled by project policy. API.SH calls are prohibited regardless of balance; do not call, test against the live endpoint, or reactivate."
     },
     {
       "id": "sama-link-store",
@@ -121,8 +121,8 @@
       "id": "apish-noon-egypt",
       "name": "API.SH Noon Egypt product and price API",
       "adapter": "apish_noon",
-      "active": true,
-      "status": "ready_for_shared_api_key",
+      "active": false,
+      "status": "disabled_paid_provider_prohibited",
       "secret_env": "APISH_API_KEY",
       "endpoint": "https://api.api.sh/noon/v1/search",
       "country": "eg",
@@ -147,7 +147,7 @@
         "maternity.json"
       ],
       "max_calls_per_run": 1,
-      "activation_note": "One product search per scheduled daily run, rotating across all 15 priority catalogs. Estimated maximum: about 30 calls per month for this provider; combined Jumia and Noon budget about 60 calls per month. Only exact-matched, buyable/in-stock Egypt EGP offers are imported; failed 402 calls stop without retries."
+      "activation_note": "Disabled by project policy. API.SH calls are prohibited regardless of balance; do not call, test against the live endpoint, or reactivate."
     },
     {
       "id": "raneen-eg-public-catalogue",
