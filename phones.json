@@ -500,15 +500,15 @@
       "brand": "Samsung",
       "category": "اقتصادي ومتوسط",
       "release": "2026",
-      "priceEGP": 17700,
-      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
+      "priceEGP": 17800,
+      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر؛ اختلاف قراءة يحتاج تأكيد)",
       "priceCheckedAt": "2026-11-18",
-      "priceStatus": "تحقق مباشر 18 نوفمبر 2026 الساعة 20:52: نسخة 8GB RAM / 256GB / 5G بسعر 17,700 جنيه، والصفحة تعرض In Stock وتوصيلًا 18–19 نوفمبر. عرض 2B للنسخة نفسها 18,599 جنيه مع In Stock وAdd to Cart. السعر الأساسي سعر متجر وليس سعرًا رسميًا من Samsung.",
+      "priceStatus": "فحص مباشر 18 نوفمبر 2026: صفحة El Avocato المفتوحة تعرض 17,800 جنيه لنسخة 8GB RAM / 256GB / 5G مع In Stock وBuy now وAdd to cart. جلب مباشر منفصل في نفس المراجعة أعاد 17,700 جنيه؛ لذلك 17,800 هو السعر الظاهر في صفحة الويب المفتوحة، مع تسجيل اختلاف القراءة وضرورة تأكيد السعر النهائي عند الدفع. 2B يعرض 18,599 جنيهًا للنسخة نفسها مع In Stock.",
       "sourceLabel": "Samsung Egypt – المواصفات الرسمية",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
-          "priceEGP": 17700,
+          "priceEGP": 17800,
           "variant": "8GB RAM / 256GB / 5G",
           "source": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
@@ -521,7 +521,7 @@
           "retailerUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
           "verificationMethod": "retailer_page",
           "reviewedAt": "2026-11-18T20:52:04+02:00",
-          "note": "فحص مباشر 18 نوفمبر 2026 الساعة 20:52: السعر 17,700 جنيه، والصفحة تعرض In Stock وتوصيلًا 18–19 نوفمبر."
+          "note": "الصفحة المفتوحة تعرض 17,800 جنيه وIn Stock وBuy now وAdd to cart. جلب مباشر منفصل أعاد 17,700 جنيه في نفس المراجعة؛ يُسجل 17,800 كسعر الصفحة الظاهر مع التنبيه لاختلاف القراءة."
         },
         {
           "merchant": "Elghazawy Egypt",
