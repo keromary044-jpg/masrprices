@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T20:52:04+02:00",
+  "updatedAt": "2026-11-19T13:17:17+02:00",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -20,10 +20,10 @@
       "build": "راجع صفحة المواصفات الرسمية",
       "source": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
       "sourceLabel": "Ennap Egypt – صفحة المنتج المباشرة (سعر متجر)",
-      "priceEGP": 54999,
-      "priceSource": "Ennap Egypt – آخر سعر ظاهر (غير متوفر)",
-      "priceCheckedAt": "2026-11-18",
-      "priceStatus": "تحقق مباشر 18 نوفمبر 2026: Ennap يعرض 54,999 جنيهًا لنسخة 12GB/256GB، ويعرض Notify me when available ويفيد بأن المنتج سيعود لاحقًا؛ السعر آخر سعر ظاهر وليس عرضًا متاحًا. لم أخلط السعر مع نسختي 12GB/512GB أو 16GB/1TB.",
+      "priceEGP": 76899,
+      "priceSource": "2B Egypt – آخر سعر ظاهر (غير متوفر)",
+      "priceCheckedAt": "2026-11-19",
+      "priceStatus": "إعادة فحص 19 نوفمبر 2026: صفحة 2B تعرض 76,899 جنيهًا لنسخة 12GB RAM / 256GB / 5G باللون Sky Blue، وتعرض Out of Stock. تاريخ الرصد الظاهر في نسخة الصفحة المفهرسة 18 نوفمبر؛ السعر آخر سعر ظاهر وليس عرضًا قابلًا للشراء. لم أخلط هذه النسخة مع S26 العادي أو سعات 512GB/1TB.",
       "priceOffers": [
         {
           "merchant": "Ennap Egypt",
@@ -153,12 +153,12 @@
           "sourceLabel": "Jumia Egypt – صفحة المنتج المباشرة",
           "checkedAt": "2026-11-12",
           "observedAt": "2026-11-12",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://www.jumia.com.eg/ar/s26-ultra-12gb-256gb-black-5g-dual-sim-samsung-mpg3930791.html",
           "verificationMethod": "retailer_page",
-          "note": "صفحة جوميا المباشرة تعرض 71,799 جنيهًا، Few units left، وزر إضافة للسلة، وضمان سنة من الشركة؛ النسخة 12GB/256GB/5G."
+          "note": "عرض Jumia السابق 71,799 جنيهًا بتاريخ 12 نوفمبر؛ لم يُعَد التحقق من التوفر في 19 نوفمبر، لذلك يلزم تأكيد المتجر قبل اعتباره متاحًا."
         },
         {
           "merchant": "Ennap Egypt",
@@ -175,18 +175,34 @@
           "retailerUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
           "verificationMethod": "retailer_page",
           "note": "فحص مباشر 18 نوفمبر 2026: 54,999 جنيه لنسخة 12GB/256GB؛ الصفحة تعرض Notify me when available."
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 76899,
+          "variant": "12GB RAM / 256GB / 5G – Sky Blue",
+          "source": "https://2b.com.eg/en/offers/samsung-galaxy-s26-ultra-12gb-ram-256gb-sky-blue.html",
+          "sourceLabel": "2B Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-19",
+          "observedAt": "2026-11-18",
+          "availability": "out_of_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://2b.com.eg/en/offers/samsung-galaxy-s26-ultra-12gb-ram-256gb-sky-blue.html",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-19T13:17:17+02:00",
+          "note": "إعادة فحص الصفحة في 19 نوفمبر 2026؛ صفحة 2B تعرض 76,899 جنيهًا للنسخة 12GB/256GB/5G باللون Sky Blue، لكنها تصرح Out of Stock. تاريخ الرصد الظاهر في نسخة الصفحة المفهرسة 18 نوفمبر؛ لذلك السعر آخر سعر ظاهر وليس عرضًا متاحًا."
         }
       ],
       "priceObservedAt": "2026-11-18",
-      "merchant": "Ennap Egypt",
-      "priceVerifiedAt": "2026-11-18T20:52:04+02:00",
-      "priceLastVerifiedAt": "2026-11-18T20:52:04+02:00",
+      "merchant": "2B Egypt",
+      "priceVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceLastVerifiedAt": "2026-11-19T13:17:17+02:00",
       "priceAvailability": "out_of_stock",
-      "priceProvider": "Ennap Egypt",
-      "priceSourceUrl": "https://ennap.com/products/samsung-galaxy-s26-ultra-dual-sim-5g",
+      "priceProvider": "2B Egypt",
+      "priceSourceUrl": "https://2b.com.eg/en/offers/samsung-galaxy-s26-ultra-12gb-ram-256gb-sky-blue.html",
       "priceType": "store",
-      "price": 54999,
-      "priceReviewedAt": "2026-11-18T20:52:04+02:00"
+      "price": 76899,
+      "priceReviewedAt": "2026-11-19T13:17:17+02:00"
     },
     {
       "id": "samsung-galaxy-a56-5g",
@@ -250,12 +266,18 @@
         {
           "merchant": "2B Egypt",
           "priceEGP": 25499,
-          "variant": "8GB RAM / 256GB / 5G",
-          "source": "https://priceteq.com/eg/product/e81ee8cf-6b7e-4539-adde-c57ddefb3d88",
-          "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-11-07",
-          "availability": "in_stock"
+          "variant": "8GB RAM / 256GB / 5G – Black",
+          "source": "https://2b.com.eg/en/samsung-galaxy-a56-8gb-ram-256gb-black.html",
+          "sourceLabel": "2B Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-19",
+          "observedAt": "2026-11-19",
+          "availability": "out_of_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://2b.com.eg/en/samsung-galaxy-a56-8gb-ram-256gb-black.html",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-19T13:17:17+02:00",
+          "note": "فحص مباشر 19 نوفمبر 2026: صفحة 2B تعرض 25,499 جنيهًا لنسخة 8GB/256GB/5G باللون الأسود، لكنها تصرح Out of Stock. السعر آخر سعر ظاهر وليس عرضًا متاحًا."
         },
         {
           "merchant": "Technology Valley Egypt",
@@ -324,19 +346,19 @@
           "note": "فحص مباشر 16 نوفمبر: صفحة Raneen الأساسية تعرض Out of stock، لكن قسم Other Sellers يعرض عرض Raneen بسعر 23,999 جنيهًا مع Add to Cart للنسخة 8GB/256GB/5G. بسبب تعارض حالة المنتج الأساسية مع قائمة البائعين، الحالة check_store وليست توافرًا مؤكدًا. PriceTeq كان يعرض 24,499 جنيهًا بتاريخ 13 نوفمبر."
         }
       ],
-      "priceEGP": 23999,
-      "priceSource": "Raneen Egypt – صفحة المنتج وقائمة البائعين (سعر متجر؛ التوفر يحتاج تأكيدًا)",
-      "priceCheckedAt": "2026-11-16",
-      "priceObservedAt": "2026-11-16",
-      "priceStatus": "فحص مباشر 16 نوفمبر: صفحة Raneen الأساسية تعرض Out of stock، لكن قسم Other Sellers يعرض عرض Raneen بسعر 23,999 جنيهًا مع Add to Cart للنسخة 8GB/256GB/5G. بسبب تعارض حالة المنتج الأساسية مع قائمة البائعين، الحالة check_store وليست توافرًا مؤكدًا. PriceTeq كان يعرض 24,499 جنيهًا بتاريخ 13 نوفمبر.",
-      "merchant": "Raneen Egypt",
-      "priceProvider": "Raneen Egypt",
-      "priceVerifiedAt": "2026-11-16T19:24:22+02:00",
-      "priceLastVerifiedAt": "2026-11-16T19:24:22+02:00",
-      "priceAvailability": "check_store",
-      "priceSourceUrl": "https://www.raneen.com/en/samsung-galaxy-a56-smartphone-dual-sim-5g-256gb-8gb-ram-graphite-2",
+      "priceEGP": 25499,
+      "priceSource": "2B Egypt – آخر سعر ظاهر (غير متوفر)",
+      "priceCheckedAt": "2026-11-19",
+      "priceObservedAt": "2026-11-19",
+      "priceStatus": "فحص مباشر 19 نوفمبر 2026: صفحة 2B تعرض 25,499 جنيهًا لنسخة 8GB RAM / 256GB / 5G باللون الأسود، لكنها تصرح Out of Stock. هذا آخر سعر ظاهر وليس عرضًا متاحًا. عرض Raneen الأقدم 23,999 جنيهًا كان يحتاج تأكيدًا بسبب تعارض حالة الصفحة، ولم أقدمه كسعر متاح مؤكد.",
+      "merchant": "2B Egypt",
+      "priceProvider": "2B Egypt",
+      "priceVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceLastVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceAvailability": "out_of_stock",
+      "priceSourceUrl": "https://2b.com.eg/en/samsung-galaxy-a56-8gb-ram-256gb-black.html",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-16T19:24:22+02:00"
+      "priceReviewedAt": "2026-11-19T13:17:17+02:00"
     },
     {
       "id": "redmi-note-14-pro-5g",
@@ -398,9 +420,11 @@
           "variant": "12GB RAM / 256GB / 5G",
           "source": "https://eshop.vodafone.com.eg/ar/prod/realme-14pro-5g-smart-phone",
           "sourceLabel": "Vodafone Egypt – آخر سعر معلن",
-          "checkedAt": "2026-11-07",
-          "observedAt": "2026-10-07",
-          "availability": "out_of_stock"
+          "checkedAt": "2026-11-19",
+          "observedAt": "2026-11-19",
+          "availability": "out_of_stock",
+          "reviewedAt": "2026-11-19T13:17:17+02:00",
+          "note": "فحص مباشر 19 نوفمبر 2026: Vodafone يعرض 18,499 جنيهًا لنسخة 12GB/256GB باللون Pearl White، ويصرح حاليًا غير متوفر مع خيار بلغني لما يتوفر. السعر آخر سعر ظاهر وليس عرضًا متاحًا."
         },
         {
           "merchant": "Vodafone Egypt",
@@ -422,16 +446,16 @@
       "priceEGP": 18499,
       "price": 18499,
       "priceSource": "Vodafone Egypt – آخر سعر ظاهر (غير متوفر)",
-      "priceCheckedAt": "2026-11-18",
+      "priceCheckedAt": "2026-11-19",
       "merchant": "Vodafone Egypt",
-      "priceStatus": "تحقق مباشر 18 نوفمبر 2026: Vodafone يعرض Realme 14 Pro 5G نسخة 12GB/256GB باللون Pearl White بسعر 18,499 جنيه، لكنه يذكر صراحة «حاليًا غير متوفر» وزر «بلغني لما يتوفر». هذا آخر سعر ظاهر وليس عرضًا متاحًا.",
-      "priceObservedAt": "2026-11-18",
-      "priceVerifiedAt": "2026-11-18T20:52:04+02:00",
-      "priceLastVerifiedAt": "2026-11-18T20:52:04+02:00",
+      "priceStatus": "فحص مباشر 19 نوفمبر 2026: Vodafone يعرض 18,499 جنيهًا لنسخة realme 14 Pro 5G بسعة 12GB/256GB واللون Pearl White، لكنه يصرح حاليًا غير متوفر. السعر آخر سعر ظاهر وليس عرضًا متاحًا.",
+      "priceObservedAt": "2026-11-19",
+      "priceVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceLastVerifiedAt": "2026-11-19T13:17:17+02:00",
       "priceAvailability": "out_of_stock",
       "priceSourceUrl": "https://eshop.vodafone.com.eg/ar/prod/realme-14pro-5g-smart-phone",
       "priceProvider": "Vodafone Egypt",
-      "priceReviewedAt": "2026-11-18T20:52:04+02:00",
+      "priceReviewedAt": "2026-11-19T13:17:17+02:00",
       "priceType": "store"
     },
     {
@@ -501,9 +525,9 @@
       "category": "اقتصادي ومتوسط",
       "release": "2026",
       "priceEGP": 17700,
-      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر؛ تحقق مباشر 19 نوفمبر 2026)",
+      "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
       "priceCheckedAt": "2026-11-19",
-      "priceStatus": "تحقق مباشر 19 نوفمبر 2026: صفحة El Avocato تعرض 17,700 جنيه لنسخة 8GB RAM / 256GB / 5G مع In Stock وBuy now وAdd to cart. عروض مقارنة للنسخة نفسها: 2B بسعر 18,599 جنيه مع In Stock وAdd to Cart، وVodafone بسعر 19,999 جنيه مع Add to Cart وBuy Now. قراءة PriceTeq السابقة 17,800 جنيه بتاريخ 14 نوفمبر لم تُعَد مراجعتها اليوم، لذلك حُوّلت إلى حالة تحتاج تأكيدًا ولم تُستخدم كسعر أساسي. هذه نسخة 5G/8GB/256GB وليست نسخة 4G/8GB/256GB أو 4G/4GB/128GB.",
+      "priceStatus": "إعادة فحص مباشر 19 نوفمبر 2026: El Avocato يعرض 17,700 جنيه لنسخة 8GB/256GB/5G مع In Stock. 2B يعرض النسخة نفسها بسعر 18,599 جنيهًا ومتوفرة بالمخزن. Vodafone يعرض 19,999 جنيهًا حسب الفحص المسجل اليوم. هذه أسعار متاجر وليست سعرًا رسميًا من Samsung.",
       "sourceLabel": "Samsung Egypt – المواصفات الرسمية",
       "priceOffers": [
         {
@@ -520,8 +544,8 @@
           "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-19T02:41:39+02:00",
-          "note": "فحص مباشر 19 نوفمبر 2026: صفحة El Avocato تعرض 17,700 جنيه لنسخة 8GB RAM / 256GB / 5G، مع In Stock وBuy now وAdd to cart."
+          "reviewedAt": "2026-11-19T13:17:17+02:00",
+          "note": "فحص مباشر 19 نوفمبر 2026: صفحة El Avocato تعرض 17,700 جنيهًا لنسخة 8GB RAM / 256GB / 5G مع In Stock وBuy now وAdd to cart."
         },
         {
           "merchant": "Elghazawy Egypt",
@@ -580,25 +604,25 @@
           "sourceLabel": "2B Egypt – صفحة المنتج المباشرة",
           "checkedAt": "2026-11-19",
           "observedAt": "2026-11-19",
-          "reviewedAt": "2026-11-19T02:41:39+02:00",
+          "reviewedAt": "2026-11-19T13:17:17+02:00",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://2b.com.eg/en/samsung-galaxy-a17-5g-8gb-ram-256gb-black.html",
           "verificationMethod": "retailer_page",
-          "note": "فحص مباشر 19 نوفمبر 2026: صفحة 2B تعرض 18,599 جنيه لنسخة 8GB RAM / 256GB / 5G، مع In Stock وAdd to Cart."
+          "note": "فحص مباشر 19 نوفمبر 2026: صفحة 2B تعرض 18,599 جنيهًا لنسخة 8GB RAM / 256GB / 5G باللون الأسود، مع متوفر في المخزن وAdd to Cart."
         }
       ],
       "source": "https://priceteq.com/eg/product/5d66133b-d007-418c-a80e-013be76ff76a",
       "priceObservedAt": "2026-11-19",
       "merchant": "El Avocato Mobile Egypt",
-      "priceVerifiedAt": "2026-11-19T02:41:39+02:00",
-      "priceLastVerifiedAt": "2026-11-19T02:41:39+02:00",
+      "priceVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceLastVerifiedAt": "2026-11-19T13:17:17+02:00",
       "priceType": "store",
       "priceSourceUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
       "priceAvailability": "in_stock",
       "priceProvider": "El Avocato Mobile Egypt",
-      "priceReviewedAt": "2026-11-19T02:41:39+02:00"
+      "priceReviewedAt": "2026-11-19T13:17:17+02:00"
     },
     {
       "id": "honor-x5c-plus",
@@ -608,8 +632,8 @@
       "release": "2026",
       "priceEGP": 8499,
       "priceSource": "Elghazawy Egypt – آخر سعر ظاهر (غير متوفر)",
-      "priceCheckedAt": "2026-11-18",
-      "priceStatus": "تحقق مباشر 18 نوفمبر 2026 الساعة 20:52: آخر سعر ظاهر 8,499 جنيه لنسخة 4GB/128GB/4G باللون Midnight Black، لكن الصفحة تعرض Quantity: Not available وNotify Me؛ لذلك السعر مسجل كآخر سعر ظاهر وليس عرضًا متاحًا.",
+      "priceCheckedAt": "2026-11-19",
+      "priceStatus": "فحص مباشر 19 نوفمبر 2026: آخر سعر ظاهر 8,499 جنيهًا لنسخة 4GB RAM / 128GB / 4G باللون Midnight Black. الصفحة تعرض Quantity: Not available وNotify Me؛ لذلك غير متوفر حاليًا، ولا يُعرض السعر كعرض قابل للشراء.",
       "sourceLabel": "PriceTeq – مقارنة عروض المتاجر المصرية",
       "priceOffers": [
         {
@@ -633,16 +657,16 @@
           "variant": "4GB RAM / 128GB / 4G – Midnight Black",
           "source": "https://elghazawy.com/en/product/38074270298563/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BMidnight%2BBlack",
           "sourceLabel": "Elghazawy Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-18",
-          "observedAt": "2026-11-18",
+          "checkedAt": "2026-11-19",
+          "observedAt": "2026-11-19",
           "availability": "out_of_stock",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
           "retailerUrl": "https://elghazawy.com/en/product/38074270298563/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BMidnight%2BBlack",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-18T20:52:04+02:00",
-          "note": "فحص مباشر 18 نوفمبر 2026: 8,499 جنيه آخر سعر ظاهر، لكن Quantity: Not available وNotify Me."
+          "reviewedAt": "2026-11-19T13:17:17+02:00",
+          "note": "فحص مباشر 19 نوفمبر 2026: الصفحة تعرض 8,499 جنيهًا لنسخة 4GB/128GB/4G باللون Midnight Black، لكن Quantity: Not available وNotify Me؛ لذلك السعر آخر سعر ظاهر وليس عرضًا متاحًا."
         },
         {
           "merchant": "Raneen Egypt",
@@ -691,26 +715,26 @@
           "sourceLabel": "Elghazawy Egypt – صفحة المنتج المباشرة",
           "checkedAt": "2026-11-15",
           "observedAt": "2026-11-15",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://elghazawy.com/en/product/38074270298563/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BMidnight%2BBlack",
           "verificationMethod": "retailer_page",
           "reviewedAt": "2026-11-15T19:23:47+02:00",
-          "note": "الصفحة تعرض 6,900 جنيهًا للنسخة 4GB/128GB/4G، مع زر ADD TO CART. السعر الحالي أقل من عرض Elghazawy المسجل سابقًا 8,499 جنيهًا."
+          "note": "سعر قديم 6,900 جنيه مسجل في 15 نوفمبر ولم يعد ظاهرًا في الفحص المباشر 19 نوفمبر؛ لا يُعرض كسعر متاح، ويلزم تأكيد المتجر."
         }
       ],
       "source": "https://priceteq.com/eg/product/3914cff9-0615-4a66-b7cb-1a2dc1545089",
-      "priceObservedAt": "2026-11-18",
+      "priceObservedAt": "2026-11-19",
       "memory": "4GB RAM / 128GB",
       "merchant": "Elghazawy Egypt",
-      "priceVerifiedAt": "2026-11-18T20:52:04+02:00",
-      "priceLastVerifiedAt": "2026-11-18T20:52:04+02:00",
+      "priceVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceLastVerifiedAt": "2026-11-19T13:17:17+02:00",
       "priceAvailability": "out_of_stock",
       "priceType": "store",
       "priceSourceUrl": "https://elghazawy.com/en/product/38074270298563/Honor%2BX5C%2BPlus%2B4G%2BLTE%2BDual%2BSIM%2B128GB%2B4GB%2BRAM%2B-%2BMidnight%2BBlack",
       "priceProvider": "Elghazawy Egypt",
-      "priceReviewedAt": "2026-11-18T20:52:04+02:00"
+      "priceReviewedAt": "2026-11-19T13:17:17+02:00"
     },
     {
       "id": "samsung-a07",
@@ -784,8 +808,8 @@
       "sourceLabel": "الموقع الرسمي للشركة – المواصفات",
       "priceEGP": 8999,
       "priceSource": "2B Egypt – صفحة المنتج المباشرة (سعر متجر)",
-      "priceCheckedAt": "2026-11-18",
-      "priceStatus": "تحقق مباشر 18 نوفمبر 2026 الساعة 20:52: Xiaomi Redmi A7 نسخة 3GB RAM / 64GB / 4G باللون Orchid Purple بسعر 8,999 جنيه؛ الصفحة تعرض In Stock وAdd to Cart. سعر متجر، وليس سعرًا رسميًا من Xiaomi.",
+      "priceCheckedAt": "2026-11-19",
+      "priceStatus": "فحص 19 نوفمبر 2026: صفحة 2B تعرض Xiaomi Redmi A7 نسخة 3GB RAM / 64GB / 4G باللون الأسود بسعر 8,999 جنيهًا مع In Stock وAdd to Cart. صفحة فئة Xiaomi لدى 2B التي ظهرت اليوم تعرض السعر نفسه. سعر متجر وليس سعرًا رسميًا من Xiaomi.",
       "priceOffers": [
         {
           "merchant": "2B Egypt",
@@ -830,17 +854,33 @@
           "retailerUrl": "https://2b.com.eg/en/xiaomi-redmi-a7-3gb-ram-64gb-orchid-purple.html",
           "verificationMethod": "price_aggregator",
           "note": "قائمة PriceTeq الحالية تعرض 8,299 جنيه لنسخة Redmi A7 3GB/64GB لدى 2B؛ صفحة 2B المباشرة المسجلة 13 نوفمبر تعرض السعر نفسه مع In Stock. لم تعرض قائمة المقارنة وحدها حالة المخزون."
+        },
+        {
+          "merchant": "2B Egypt",
+          "priceEGP": 8999,
+          "variant": "3GB RAM / 64GB / 4G – Black",
+          "source": "https://2b.com.eg/en/xiaomi-redmi-a7-3gb-ram-64gb-black.html",
+          "sourceLabel": "2B Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-19",
+          "observedAt": "2026-11-19",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://2b.com.eg/en/xiaomi-redmi-a7-3gb-ram-64gb-black.html",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-19T13:17:17+02:00",
+          "note": "فحص صفحة المنتج في 19 نوفمبر 2026: صفحة 2B تعرض 8,999 جنيهًا لنسخة 3GB/64GB باللون الأسود، مع In Stock وAdd to Cart. صفحة فئة Xiaomi لدى 2B التي ظهرت اليوم تعرض السعر نفسه؛ نتيجة بحث أقدم 8,299 جنيهًا لم تُستخدم لأنها أقدم من العرض الحالي."
         }
       ],
-      "priceObservedAt": "2026-11-18",
-      "priceSourceUrl": "https://2b.com.eg/en/xiaomi-redmi-a7-3gb-ram-64gb-orchid-purple.html",
+      "priceObservedAt": "2026-11-19",
+      "priceSourceUrl": "https://2b.com.eg/en/xiaomi-redmi-a7-3gb-ram-64gb-black.html",
       "merchant": "2B Egypt",
       "priceProvider": "2B Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceVerifiedAt": "2026-11-18T20:52:04+02:00",
-      "priceLastVerifiedAt": "2026-11-18T20:52:04+02:00",
-      "priceReviewedAt": "2026-11-18T20:52:04+02:00"
+      "priceVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceLastVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceReviewedAt": "2026-11-19T13:17:17+02:00"
     },
     {
       "id": "realme-c100i",
