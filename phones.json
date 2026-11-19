@@ -527,7 +527,7 @@
       "priceEGP": 17700,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
       "priceCheckedAt": "2026-11-19",
-      "priceStatus": "سعر المتجر الأساسي المسجل 17,700 جنيه لدى El Avocato من فحص مباشر في 19 نوفمبر الساعة 13:17؛ Vodafone يعرض 19,999 جنيهًا لنسخة 8/256؛ إعادة الفحص المباشر لصفحة 2B في 19 نوفمبر الساعة 20:50 تعرض 20,599 جنيهًا وتؤكد In Stock. الأسعار الثلاثة تخص 8GB/256GB/5G؛ لا تخلط مع نسخة A17 4G.",
+      "priceStatus": "أقل سعر مسجل 17,700 جنيه لدى El Avocato من فحص مباشر سابق اليوم الساعة 13:17، لكن إعادة فتح صفحة المتجر في فحص 20:50 انتهت بمهلة؛ لذلك بقي السعر آخر سعر مرصود وحالة التوفر check_store. صفحتا Vodafone و2B اللتان أُعيد فتحهما اليوم تعرضان 19,999 و20,599 جنيهًا على الترتيب لنسخة 8GB/256GB/5G مع Add to Cart/In Stock.",
       "sourceLabel": "Samsung Egypt – المواصفات الرسمية",
       "priceOffers": [
         {
@@ -616,11 +616,11 @@
       "source": "https://priceteq.com/eg/product/5d66133b-d007-418c-a80e-013be76ff76a",
       "priceObservedAt": "2026-11-19",
       "merchant": "El Avocato Mobile Egypt",
-      "priceVerifiedAt": "2026-11-19T13:17:17+02:00",
-      "priceLastVerifiedAt": "2026-11-19T13:17:17+02:00",
+      "priceVerifiedAt": "2026-11-19T20:50:32+02:00",
+      "priceLastVerifiedAt": "2026-11-19T20:50:32+02:00",
       "priceType": "store",
       "priceSourceUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
-      "priceAvailability": "in_stock",
+      "priceAvailability": "check_store",
       "priceProvider": "El Avocato Mobile Egypt",
       "priceReviewedAt": "2026-11-19T13:17:17+02:00"
     },
@@ -24480,7 +24480,7 @@
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة (سعر متجر)",
       "priceCheckedAt": "2026-11-17",
       "priceObservedAt": "2026-11-17",
-      "priceStatus": "آخر سعر مباشر مؤكد لدى El Avocato هو 26,000 جنيه لنسخة 12GB/256GB بتاريخ 17 نوفمبر. في 19 نوفمبر ظهرت عروض جديدة: Raneen يعرض 25,799 جنيهًا في Other Sellers مع تعارض لأن رأس الصفحة يقول Out of stock، وElghazawy يعرض 26,999 جنيهًا مع Add to Cart دون نص صريح عن المخزون. أُضيف العرضان بحالة check_store ولم أستبدل السعر الأساسي بعرض غير محسوم التوفر.",
+      "priceStatus": "آخر سعر مباشر مؤكد لدى El Avocato هو 26,000 جنيه لنسخة 12GB/256GB بتاريخ 17 نوفمبر. في 19 نوفمبر ظهرت عروض جديدة: Raneen يعرض 25,799 جنيهًا في Other Sellers مع تعارض لأن رأس الصفحة يقول Out of stock، وElghazawy يعرض 26,999 جنيهًا مع Add to Cart دون نص صريح عن المخزون. لذلك حالة السعر الأساسي check_store حتى يعاد تأكيد التوفر لدى المتجر.",
       "source": "https://priceteq.com/eg/product/ae537d04-8928-4ed6-9f6e-20f21cbf9646",
       "sourceLabel": "El Avocato Mobile Egypt – قائمة الهواتف",
       "priceOffers": [
@@ -24626,10 +24626,10 @@
       ],
       "merchant": "El Avocato Mobile Egypt",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a37-5g-12gb-256gb/",
-      "priceVerifiedAt": "2026-11-17T19:12:22+02:00",
-      "priceLastVerifiedAt": "2026-11-17T19:12:22+02:00",
+      "priceVerifiedAt": "2026-11-19T20:50:32+02:00",
+      "priceLastVerifiedAt": "2026-11-19T20:50:32+02:00",
       "priceProvider": "El Avocato Mobile Egypt",
-      "priceAvailability": "in_stock",
+      "priceAvailability": "check_store",
       "priceType": "store",
       "priceReviewedAt": "2026-11-17T19:12:22+02:00"
     },
