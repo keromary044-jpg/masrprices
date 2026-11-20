@@ -527,7 +527,7 @@
       "priceEGP": 17680,
       "priceSource": "B.TECH Egypt – صفحة المنتج المباشرة",
       "priceCheckedAt": "2026-11-20",
-      "priceStatus": "فحص مباشر 20 نوفمبر 2026: B.TECH يعرض Samsung Galaxy A17 5G نسخة 8GB RAM / 256GB باللون الأسود بسعر 17,680 جنيهًا. صفحة PriceTeq لنفس المطابقة تسجل العرض In Stock اليوم؛ سعر متجر وليس سعرًا رسميًا من Samsung.",
+      "priceStatus": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة B.TECH تعرض 17,680 جنيهًا لنسخة 8GB/256GB/5G السوداء مع Add to cart، لكن لا تظهر عبارة مخزون صريحة؛ لذلك يلزم تأكيد التوفر. صفحة El Avocato تعرض النسخة نفسها بسعر 17,700 جنيه مع In Stock.",
       "sourceLabel": "Samsung Egypt – المواصفات الرسمية",
       "priceOffers": [
         {
@@ -536,16 +536,16 @@
           "variant": "8GB RAM / 256GB / 5G",
           "source": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-19",
-          "observedAt": "2026-11-19",
+          "checkedAt": "2026-11-20",
+          "observedAt": "2026-11-20",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "taxIncluded": true,
           "retailerUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-19T13:17:17+02:00",
-          "note": "فحص مباشر 19 نوفمبر 2026: صفحة El Avocato تعرض 17,700 جنيهًا لنسخة 8GB RAM / 256GB / 5G مع In Stock وBuy now وAdd to cart."
+          "reviewedAt": "2026-11-20T19:16:16+02:00",
+          "note": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة El Avocato تعرض النسخة 8GB/256GB بسعر 17,700 جنيهًا مع In Stock وBuy now وAdd to cart."
         },
         {
           "merchant": "Elghazawy Egypt",
@@ -620,25 +620,26 @@
           "sourceLabel": "B.TECH Egypt – صفحة المنتج المباشرة؛ التوفر مدعوم بمقارنة PriceTeq بتاريخ 20 نوفمبر",
           "checkedAt": "2026-11-20",
           "observedAt": "2026-11-20",
-          "availability": "in_stock",
+          "availability": "check_store",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://btech.com/en/p/3fb64ab7-c14e-44f5-a2d8-8d32917fa801?offering_id=53961545-4af8-44dd-bd27-1af3f9421874",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-20T13:45:14+02:00",
-          "note": "فحص مباشر 20 نوفمبر 2026: B.TECH يعرض Samsung Galaxy A17 5G نسخة 8GB RAM / 256GB باللون الأسود بسعر 17,680 جنيهًا. صفحة PriceTeq لنفس المطابقة تسجل العرض In Stock اليوم؛ سعر متجر وليس سعرًا رسميًا من Samsung."
+          "reviewedAt": "2026-11-20T19:16:16+02:00",
+          "note": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة B.TECH تعرض 17,680 جنيهًا لنسخة 8GB/256GB/5G السوداء مع Add to cart، لكن لا تظهر عبارة مخزون صريحة؛ لذلك يلزم تأكيد التوفر. صفحة El Avocato تعرض النسخة نفسها بسعر 17,700 جنيه مع In Stock."
         }
       ],
       "source": "https://priceteq.com/eg/product/5d66133b-d007-418c-a80e-013be76ff76a",
       "priceObservedAt": "2026-11-20",
       "merchant": "B.TECH Egypt",
-      "priceVerifiedAt": "2026-11-20T13:45:14+02:00",
-      "priceLastVerifiedAt": "2026-11-20T13:45:14+02:00",
+      "priceVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceLastVerifiedAt": "2026-11-20T19:16:16+02:00",
       "priceType": "store",
       "priceSourceUrl": "https://btech.com/en/p/3fb64ab7-c14e-44f5-a2d8-8d32917fa801?offering_id=53961545-4af8-44dd-bd27-1af3f9421874",
-      "priceAvailability": "in_stock",
+      "priceAvailability": "check_store",
       "priceProvider": "B.TECH Egypt",
-      "priceReviewedAt": "2026-11-20T13:45:14+02:00"
+      "priceReviewedAt": "2026-11-20T13:45:14+02:00",
+      "priceVariant": "8GB RAM / 256GB / 5G – Black"
     },
     {
       "id": "honor-x5c-plus",
@@ -840,8 +841,8 @@
       "sourceLabel": "الموقع الرسمي للشركة – المواصفات",
       "priceEGP": 8999,
       "priceSource": "2B Egypt – صفحة المنتج المباشرة (سعر متجر)",
-      "priceCheckedAt": "2026-11-19",
-      "priceStatus": "فحص 19 نوفمبر 2026: صفحة 2B تعرض Xiaomi Redmi A7 نسخة 3GB RAM / 64GB / 4G باللون الأسود بسعر 8,999 جنيهًا مع In Stock وAdd to Cart. صفحة فئة Xiaomi لدى 2B التي ظهرت اليوم تعرض السعر نفسه. سعر متجر وليس سعرًا رسميًا من Xiaomi.",
+      "priceCheckedAt": "2026-11-20",
+      "priceStatus": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة 2B تحدد Redmi A7 نسخة 3GB/64GB باللون الأسود، وتعرض 8,999 جنيهًا مع In Stock وAdd to Cart.",
       "priceOffers": [
         {
           "merchant": "2B Egypt",
@@ -893,15 +894,15 @@
           "variant": "3GB RAM / 64GB / 4G – Black",
           "source": "https://2b.com.eg/en/xiaomi-redmi-a7-3gb-ram-64gb-black.html",
           "sourceLabel": "2B Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-19",
-          "observedAt": "2026-11-19",
+          "checkedAt": "2026-11-20",
+          "observedAt": "2026-11-20",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://2b.com.eg/en/xiaomi-redmi-a7-3gb-ram-64gb-black.html",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-19T13:17:17+02:00",
-          "note": "فحص صفحة المنتج في 19 نوفمبر 2026: صفحة 2B تعرض 8,999 جنيهًا لنسخة 3GB/64GB باللون الأسود، مع In Stock وAdd to Cart. صفحة فئة Xiaomi لدى 2B التي ظهرت اليوم تعرض السعر نفسه؛ نتيجة بحث أقدم 8,299 جنيهًا لم تُستخدم لأنها أقدم من العرض الحالي."
+          "reviewedAt": "2026-11-20T19:16:16+02:00",
+          "note": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة 2B تحدد Redmi A7 نسخة 3GB/64GB باللون الأسود، وتعرض 8,999 جنيهًا مع In Stock وAdd to Cart."
         }
       ],
       "priceObservedAt": "2026-11-19",
@@ -910,9 +911,10 @@
       "priceProvider": "2B Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
-      "priceVerifiedAt": "2026-11-19T13:17:17+02:00",
-      "priceLastVerifiedAt": "2026-11-19T13:17:17+02:00",
-      "priceReviewedAt": "2026-11-19T13:17:17+02:00"
+      "priceVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceLastVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceReviewedAt": "2026-11-19T13:17:17+02:00",
+      "priceVariant": "3GB RAM / 64GB / 4G – Black"
     },
     {
       "id": "realme-c100i",
@@ -22711,7 +22713,7 @@
       "priceEGP": 17300,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
       "priceCheckedAt": "2026-11-20",
-      "priceStatus": "فحص مباشر 20 نوفمبر 2026: Samsung Galaxy A27 5G نسخة 8GB RAM / 128GB باللون الأسود بسعر 17,300 جنيه، والصفحة تعرض In Stock وBuy now وAdd to cart. سعر متجر بضمان محلي.",
+      "priceStatus": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة El Avocato تحدد Galaxy A27 5G نسخة 8GB/128GB باللون الأسود بسعر 17,300 جنيهًا، وتذكر In Stock مع Buy now وAdd to cart.",
       "memory": "8GB RAM / 128GB / 5G",
       "merchant": "El Avocato Mobile Egypt",
       "priceOffers": [
@@ -22793,15 +22795,15 @@
           "variant": "8GB RAM / 128GB / 5G",
           "source": "https://elavocatomobile.net/product/samsung-galaxy-a27-5g-8-128/",
           "sourceLabel": "El Avocato Mobile Egypt",
-          "checkedAt": "2026-11-19",
-          "observedAt": "2026-11-19",
-          "reviewedAt": "2026-11-19T20:50:32+02:00",
+          "checkedAt": "2026-11-20",
+          "observedAt": "2026-11-20",
+          "reviewedAt": "2026-11-20T19:16:16+02:00",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a27-5g-8-128/",
           "verificationMethod": "retailer_page",
-          "note": "تحقق مباشر 19 نوفمبر 2026: صفحة El Avocato تحدد Galaxy A27 5G نسخة 8GB/128GB بسعر 17,300 جنيه، وتذكر In Stock مع Buy now وAdd to cart. انخفض السعر عن 17,600 المسجل في 14 نوفمبر."
+          "note": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة El Avocato تحدد Galaxy A27 5G نسخة 8GB/128GB باللون الأسود بسعر 17,300 جنيهًا، وتذكر In Stock مع Buy now وAdd to cart."
         },
         {
           "merchant": "El Avocato Mobile Egypt",
@@ -22837,15 +22839,15 @@
         }
       ],
       "priceObservedAt": "2026-11-20",
-      "priceVerifiedAt": "2026-11-20T13:45:14+02:00",
-      "priceLastVerifiedAt": "2026-11-20T13:45:14+02:00",
+      "priceVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceLastVerifiedAt": "2026-11-20T19:16:16+02:00",
       "priceType": "store",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a27-5g-8-128/",
       "priceAvailability": "in_stock",
       "priceProvider": "El Avocato Mobile Egypt",
       "price": 17300,
       "priceReviewedAt": "2026-11-20T13:45:14+02:00",
-      "priceVariant": "8GB RAM / 128GB / 5G"
+      "priceVariant": "8GB RAM / 128GB / 5G – Black"
     },
     {
       "id": "samsunggalaxya375g8gb128gb",
@@ -22896,7 +22898,7 @@
       "priceEGP": 27100,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
       "priceCheckedAt": "2026-11-20",
-      "priceStatus": "فحص مباشر 20 نوفمبر 2026: Samsung Galaxy A57 5G نسخة 8GB RAM / 256GB بسعر 27,100 جنيه، والصفحة تعرض In Stock وBuy now وAdd to cart. سعر متجر بضمان محلي.",
+      "priceStatus": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة El Avocato تحدد Galaxy A57 5G نسخة 8GB/256GB بسعر 27,100 جنيهًا، وتذكر In Stock مع Buy now وAdd to cart.",
       "memory": "8GB RAM / 256GB / 5G",
       "merchant": "El Avocato Mobile Egypt",
       "priceOffers": [
@@ -22906,15 +22908,15 @@
           "variant": "8GB RAM / 256GB / 5G",
           "source": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-          "checkedAt": "2026-11-19",
-          "observedAt": "2026-11-19",
+          "checkedAt": "2026-11-20",
+          "observedAt": "2026-11-20",
           "availability": "in_stock",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
           "verificationMethod": "retailer_page",
-          "reviewedAt": "2026-11-19T13:17:17+02:00",
-          "note": "فحص مباشر 19 نوفمبر 2026: الصفحة تعرض 27,100 جنيه لنسخة Galaxy A57 5G ذات 8GB RAM و256GB، مع In Stock وBuy now وAdd to cart.",
+          "reviewedAt": "2026-11-20T19:16:16+02:00",
+          "note": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة El Avocato تحدد Galaxy A57 5G نسخة 8GB/256GB بسعر 27,100 جنيهًا، وتذكر In Stock مع Buy now وAdd to cart.",
           "taxIncluded": true
         },
         {
@@ -23048,13 +23050,14 @@
       ],
       "priceObservedAt": "2026-11-20",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
-      "priceVerifiedAt": "2026-11-20T13:45:14+02:00",
-      "priceLastVerifiedAt": "2026-11-20T13:45:14+02:00",
+      "priceVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceLastVerifiedAt": "2026-11-20T19:16:16+02:00",
       "priceProvider": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
       "priceType": "store",
       "priceReviewedAt": "2026-11-20T13:45:14+02:00",
-      "price": 27100
+      "price": 27100,
+      "priceVariant": "8GB RAM / 256GB / 5G"
     },
     {
       "id": "samsunggalaxys2612gb256gb",
