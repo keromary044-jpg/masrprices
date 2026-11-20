@@ -23222,10 +23222,10 @@
       "category": "هواتف ذكية",
       "source": "https://mobilemasr.com/en/prices/oppo",
       "sourceLabel": "MobileMasr – أسعار الهواتف في مصر",
-      "priceEGP": 11550,
+      "priceEGP": 11800,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
       "priceCheckedAt": "2026-11-20",
-      "priceStatus": "فحص مباشر 20 نوفمبر 2026: OPPO A6x نسخة 4GB RAM / 128GB / 4G بسعر 11,550 جنيهًا، والصفحة تعرض In Stock وBuy now وAdd to cart. سعر متجر.",
+      "priceStatus": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة El Avocato تعرض 11,800 جنيهًا لنسخة 4GB RAM / 128GB / 4G، وتذكر In Stock مع Buy now وAdd to cart. سعر متجر وليس سعرًا رسميًا من OPPO.",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
@@ -23383,6 +23383,22 @@
           "verificationMethod": "retailer_page",
           "reviewedAt": "2026-11-20T13:45:14+02:00",
           "note": "فحص مباشر 20 نوفمبر 2026: OPPO A6x نسخة 4GB RAM / 128GB / 4G بسعر 11,550 جنيهًا، والصفحة تعرض In Stock وBuy now وAdd to cart. سعر متجر."
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 11800,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://elavocatomobile.net/product/oppo-a6x-4gb-128gb-egypt/",
+          "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-20",
+          "observedAt": "2026-11-20",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://elavocatomobile.net/product/oppo-a6x-4gb-128gb-egypt/",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-20T19:16:16+02:00",
+          "note": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة المنتج تحدد OPPO A6x نسخة 4GB RAM / 128GB، وتعرض 11,800 جنيهًا مع In Stock وBuy now وAdd to cart. السعر متجر، وليس سعرًا رسميًا من OPPO."
         }
       ],
       "priceObservedAt": "2026-11-20",
@@ -23391,9 +23407,10 @@
       "priceProvider": "El Avocato Mobile Egypt",
       "merchant": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
-      "priceVerifiedAt": "2026-11-20T13:45:14+02:00",
-      "priceLastVerifiedAt": "2026-11-20T13:45:14+02:00",
-      "priceReviewedAt": "2026-11-20T13:45:14+02:00"
+      "priceVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceLastVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceReviewedAt": "2026-11-20T13:45:14+02:00",
+      "priceVariant": "4GB RAM / 128GB / 4G"
     },
     {
       "id": "oppoa64gb128gb",
@@ -28442,11 +28459,11 @@
       "release": "2026",
       "memory": "4GB RAM / 128GB / 4G",
       "connectivity": "4G",
-      "priceEGP": 11550,
+      "priceEGP": 11800,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
       "priceCheckedAt": "2026-11-20",
       "priceObservedAt": "2026-11-20",
-      "priceStatus": "فحص مباشر 20 نوفمبر 2026: OPPO A6x نسخة 4GB RAM / 128GB / 4G بسعر 11,550 جنيهًا، والصفحة تعرض In Stock وBuy now وAdd to cart. سعر متجر.",
+      "priceStatus": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة El Avocato تعرض 11,800 جنيهًا لنسخة 4GB RAM / 128GB / 4G، وتذكر In Stock مع Buy now وAdd to cart. سعر متجر وليس سعرًا رسميًا من OPPO.",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
@@ -28604,6 +28621,22 @@
           "verificationMethod": "retailer_page",
           "reviewedAt": "2026-11-20T13:45:14+02:00",
           "note": "فحص مباشر 20 نوفمبر 2026: OPPO A6x نسخة 4GB RAM / 128GB / 4G بسعر 11,550 جنيهًا، والصفحة تعرض In Stock وBuy now وAdd to cart. سعر متجر."
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 11800,
+          "variant": "4GB RAM / 128GB / 4G",
+          "source": "https://elavocatomobile.net/product/oppo-a6x-4gb-128gb-egypt/",
+          "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-20",
+          "observedAt": "2026-11-20",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://elavocatomobile.net/product/oppo-a6x-4gb-128gb-egypt/",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-20T19:16:16+02:00",
+          "note": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة المنتج تحدد OPPO A6x نسخة 4GB RAM / 128GB، وتعرض 11,800 جنيهًا مع In Stock وBuy now وAdd to cart. السعر متجر، وليس سعرًا رسميًا من OPPO."
         }
       ],
       "merchant": "El Avocato Mobile Egypt",
@@ -28613,9 +28646,10 @@
       "priceType": "store",
       "priceProvider": "El Avocato Mobile Egypt",
       "priceAvailability": "in_stock",
-      "priceVerifiedAt": "2026-11-20T13:45:14+02:00",
-      "priceLastVerifiedAt": "2026-11-20T13:45:14+02:00",
-      "priceReviewedAt": "2026-11-20T13:45:14+02:00"
+      "priceVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceLastVerifiedAt": "2026-11-20T19:16:16+02:00",
+      "priceReviewedAt": "2026-11-20T13:45:14+02:00",
+      "priceVariant": "4GB RAM / 128GB / 4G"
     },
     {
       "id": "oppo-a6-8-256-4g",
