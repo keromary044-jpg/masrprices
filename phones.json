@@ -1702,10 +1702,24 @@
       "name": "Samsung Galaxy S23 Ultra",
       "category": "هاتف ذكي",
       "priceEGP": 29250,
-      "priceSource": "Mobile Store – سعر متجر مصري",
-      "priceStatus": "متاح حسب صفحة المتجر وقت الرصد؛ 12GB RAM / 256GB / جديد؛ تم رصد السعر بتاريخ 2026-11-07. تحقق من السعر والتوفر قبل الشراء.",
+      "priceSource": "MS Mobile Store – صفحة المنتج المباشرة",
+      "priceStatus": "صفحة MS Mobile Store تعرض 29,250 جنيهًا لنسخة جديدة 12GB RAM / 256GB / 5G، مع Add to Cart واستلام من فرع القاهرة. نص حالة المخزون يعرض In Stock / Out of Stock دون اختيار واضح؛ لذلك الحالة check_store.",
       "sourceLabel": "Mobile Store – سعر متجر مصري",
       "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 29250,
+          "variant": "12GB RAM / 256GB / 5G / جديد",
+          "source": "https://store-eg.com/s/mobile/en/product/samsung-galaxy-s23-ultra",
+          "sourceLabel": "MS Mobile Store – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-22",
+          "observedAt": "2026-11-22",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "verificationMethod": "retailer_page",
+          "note": "السعر والنسخة ظاهران مباشرة؛ صفحة المتجر تعرض Add to Cart واستلامًا من فرع القاهرة، لكن اختيار حالة المخزون غير واضح."
+        },
         {
           "merchant": "Mobile Store",
           "priceEGP": 29250,
@@ -1716,10 +1730,17 @@
           "observedAt": "2026-11-07"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
+      "priceCheckedAt": "2026-11-22",
+      "priceObservedAt": "2026-11-22",
       "source": "https://store-eg.com/s/mobile/en/product/samsung-galaxy-s23-ultra",
-      "merchant": "Mobile Store"
+      "merchant": "MS Mobile Store",
+      "price": 29250,
+      "priceSourceUrl": "https://store-eg.com/s/mobile/en/product/samsung-galaxy-s23-ultra",
+      "priceAvailability": "check_store",
+      "priceType": "store",
+      "priceProvider": "MS Mobile Store – صفحة المنتج المباشرة",
+      "priceVerifiedAt": "2026-11-22",
+      "priceLastVerifiedAt": "2026-11-22"
     },
     {
       "id": "samsung-galaxy-s23",
@@ -1990,10 +2011,24 @@
       "name": "Xiaomi Xiaomi 15 Ultra",
       "category": "هاتف ذكي",
       "priceEGP": 29000,
-      "priceSource": "Mobile Store – سعر متجر مصري",
-      "priceStatus": "سعر مرصود لنسخة 16GB RAM / 512GB / جديد حسب صفحة المتجر بتاريخ 2026-11-07؛ تحقق من السعر والتوفر قبل الشراء.",
+      "priceSource": "MS Mobile Store – صفحة المنتج المباشرة (نسخة مخبأة حديثًا نسبيًا)",
+      "priceStatus": "صفحة المتجر تعرض 29,000 جنيهًا لنسخة جديدة Xiaomi 15 Ultra 16GB RAM / 512GB / 5G مع Add to Cart واستلام من فرع القاهرة. الصفحة كانت آخر مرة مفهرسة الأسبوع الماضي، وواجهة المخزون غير محددة بوضوح؛ لذلك الحالة check_store ويجب تأكيد السعر والمخزون.",
       "sourceLabel": "Mobile Store – سعر متجر مصري",
       "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 29000,
+          "variant": "16GB RAM / 512GB / 5G / جديد",
+          "source": "https://mobile.store-eg.com/en/product/xiaomi-15-ultra",
+          "sourceLabel": "MS Mobile Store – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-22",
+          "observedAt": "2026-11-22",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "verificationMethod": "retailer_page",
+          "note": "تم فتح الصفحة اليوم لكن نسخة المحتوى مفهرسة من الأسبوع الماضي؛ السعر والنسخة ظاهران، والمخزون يحتاج تأكيدًا."
+        },
         {
           "merchant": "Mobile Store",
           "priceEGP": 29000,
@@ -2004,10 +2039,17 @@
           "observedAt": "2026-11-07"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
+      "priceCheckedAt": "2026-11-22",
+      "priceObservedAt": "2026-11-22",
       "source": "https://mobile.store-eg.com/en/product/xiaomi-15-ultra",
-      "merchant": "Mobile Store"
+      "merchant": "MS Mobile Store",
+      "price": 29000,
+      "priceSourceUrl": "https://mobile.store-eg.com/en/product/xiaomi-15-ultra",
+      "priceAvailability": "check_store",
+      "priceType": "store",
+      "priceProvider": "MS Mobile Store – صفحة المنتج المباشرة (نسخة مخبأة حديثًا نسبيًا)",
+      "priceVerifiedAt": "2026-11-22",
+      "priceLastVerifiedAt": "2026-11-22"
     },
     {
       "id": "xiaomi-xiaomi-15",
@@ -2835,10 +2877,24 @@
       "name": "realme GT 7 Pro",
       "category": "هاتف ذكي",
       "priceEGP": 29250,
-      "priceSource": "MS Mobile Store",
-      "priceStatus": "جديد؛ 16GB RAM / 512GB / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
+      "priceSource": "MS Mobile Store – صفحة المنتج المباشرة",
+      "priceStatus": "صفحة MS Mobile Store تعرض 29,250 جنيهًا لنسخة جديدة realme GT 7 Pro 16GB RAM / 512GB / 5G، مع Add to Cart واستلام من فرع القاهرة. واجهة المخزون تعرض In Stock / Out of Stock دون اختيار واضح؛ لذلك الحالة check_store.",
       "sourceLabel": "MS Mobile Store",
       "priceOffers": [
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 29250,
+          "variant": "16GB RAM / 512GB / 5G / جديد",
+          "source": "https://mobile.store-eg.com/en/product/realme-gt-7-pro",
+          "sourceLabel": "MS Mobile Store – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-22",
+          "observedAt": "2026-11-22",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "verificationMethod": "retailer_page",
+          "note": "السعر والنسخة ظاهران مباشرة؛ Add to Cart والاستلام من فرع القاهرة متاحان، لكن اختيار حالة المخزون غير واضح."
+        },
         {
           "merchant": "MS Mobile Store",
           "priceEGP": 29250,
@@ -2850,10 +2906,17 @@
           "observedAt": "2026-11-07"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
+      "priceCheckedAt": "2026-11-22",
+      "priceObservedAt": "2026-11-22",
       "source": "https://mobile.store-eg.com/en/product/realme-gt-7-pro",
-      "merchant": "MS Mobile Store"
+      "merchant": "MS Mobile Store",
+      "price": 29250,
+      "priceSourceUrl": "https://mobile.store-eg.com/en/product/realme-gt-7-pro",
+      "priceAvailability": "check_store",
+      "priceType": "store",
+      "priceProvider": "MS Mobile Store – صفحة المنتج المباشرة",
+      "priceVerifiedAt": "2026-11-22",
+      "priceLastVerifiedAt": "2026-11-22"
     },
     {
       "id": "realme-gt-6",
@@ -3453,13 +3516,37 @@
       "brand": "HONOR",
       "name": "Honor Magic7 Pro",
       "category": "هاتف ذكي",
-      "priceEGP": 46999,
-      "priceSource": "DaleelMob – أسعار سوق مرجعية",
-      "priceStatus": "السعر المنشور لدى دليل موب يبدأ من 46,999 ويصل إلى 56,666 جنيه. تم تسجيل الحد الأدنى كسعر مرجعي؛ قد يختلف حسب النسخة. ليس عرض متجر محددًا؛ تأكد من السعر عند الشراء.",
+      "priceEGP": 50500,
+      "priceSource": "ElhodaTel – صفحة المنتج المباشرة",
+      "priceStatus": "سعر متجر مباشر 50,500 جنيه لنسخة HONOR Magic7 Pro 5G 12GB RAM / 512GB. الصفحة تعرض متوفر في المخزون مع إمكانية الحجز المسبق وأزرار إضافة للسلة والشراء الآن؛ ليس سعرًا رسميًا من HONOR.",
       "sourceLabel": "DaleelMob – أسعار الهواتف في مصر",
-      "priceOffers": [],
-      "priceCheckedAt": "2026-11-07",
-      "source": "https://daleelmob.com/phones/egypt-prices"
+      "priceOffers": [
+        {
+          "merchant": "ElhodaTel",
+          "priceEGP": 50500,
+          "variant": "12GB RAM / 512GB / 5G",
+          "source": "https://elhodatell.com/product/honor-magic-7-pro-5g-12gb-ram-512gb/",
+          "sourceLabel": "ElhodaTel – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-21",
+          "observedAt": "2026-11-21",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "verificationMethod": "retailer_page",
+          "note": "الصفحة المفحوصة 21 نوفمبر تعرض متوفر في المخزون مع إمكانية الحجز المسبق وإضافة للسلة والشراء الآن."
+        }
+      ],
+      "priceCheckedAt": "2026-11-21",
+      "source": "https://daleelmob.com/phones/egypt-prices",
+      "price": 50500,
+      "priceSourceUrl": "https://elhodatell.com/product/honor-magic-7-pro-5g-12gb-ram-512gb/",
+      "priceObservedAt": "2026-11-21",
+      "priceAvailability": "in_stock",
+      "priceType": "store",
+      "priceProvider": "ElhodaTel – صفحة المنتج المباشرة",
+      "merchant": "ElhodaTel",
+      "priceVerifiedAt": "2026-11-21",
+      "priceLastVerifiedAt": "2026-11-21"
     },
     {
       "id": "honor-magic6-pro",
