@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T02:35:11+02:00",
+  "updatedAt": "2026-11-24T13:42:45+02:00",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -7200,10 +7200,26 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://priceteq.com/eg/product/e804eb2b-cc72-444b-bd39-df38d04d7247",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 22300,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-07؛ السعر قد يتغير ويجب التأكد من التوفر والضمان.",
+      "priceEGP": 24200,
+      "priceSource": "Raneen Egypt – صفحة المنتج المباشرة؛ سعر ظاهر غير متاح حاليًا",
+      "priceStatus": "فحص مباشر 24 نوفمبر 2026: صفحة Raneen تطابق Galaxy A36 نسخة 8GB/256GB/5G، وتعرض Out of stock. السعر الظاهر 27,104 جنيهًا مع عبارة As low as 24,200 جنيه؛ لذلك 24,200 هو آخر سعر منخفض ظاهر وليس عرضًا متاحًا للشراء. PriceTeq كان قد أظهر 24,200 لدى Raneen بتاريخ 21 نوفمبر، لكن حالة التوفر المباشرة اليوم غير متاحة.",
       "priceOffers": [
+        {
+          "merchant": "Raneen Marketplace – mobileplus",
+          "priceEGP": 24200,
+          "variant": "8GB RAM / 256GB / 5G – Black",
+          "source": "https://www.raneen.com/en/el1129935blk-5?utm_medium=referral&utm_source=priceteq.com",
+          "sourceLabel": "Raneen Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-24",
+          "observedAt": "2026-11-24",
+          "availability": "out_of_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://www.raneen.com/en/el1129935blk-5?utm_medium=referral&utm_source=priceteq.com",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-24T13:42:45+02:00",
+          "note": "صفحة Raneen تعرض Out of stock، وتظهر 27,104 جنيهًا وعبارة As low as 24,200 جنيه. السعر 24,200 محفوظ كسعر آخر ظاهر غير متاح للشراء."
+        },
         {
           "merchant": "El Avocato Mobile Egypt",
           "priceEGP": 22300,
@@ -7232,9 +7248,18 @@
           "observedAt": "2026-11-07"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "merchant": "El Avocato Mobile Egypt"
+      "priceCheckedAt": "2026-11-24",
+      "priceObservedAt": "2026-11-24",
+      "merchant": "Raneen Marketplace – mobileplus",
+      "price": 24200,
+      "priceVerifiedAt": "2026-11-24",
+      "priceLastVerifiedAt": "2026-11-24",
+      "priceReviewedAt": "2026-11-24T13:42:45+02:00",
+      "priceProvider": "Raneen Egypt – صفحة المنتج المباشرة",
+      "priceSourceUrl": "https://www.raneen.com/en/el1129935blk-5?utm_medium=referral&utm_source=priceteq.com",
+      "priceType": "store",
+      "priceVariant": "8GB RAM / 256GB / 5G – Black",
+      "priceAvailability": "out_of_stock"
     },
     {
       "id": "samsung-galaxy-a35",
@@ -23095,13 +23120,29 @@
       "category": "هواتف ذكية",
       "source": "https://priceteq.com/eg/product/7e6b25d0-4b45-4c7b-9a18-11d2a9b7d123",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 14320,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceCheckedAt": "2026-11-07",
-      "priceStatus": "أقل سعر متجر مرصود لنسخة 6GB RAM / 128GB / 5G، شامل الضريبة حسب المصدر. السعر متغير ويجب التأكد من السعر والمخزون والضمان لدى المتجر.",
+      "priceEGP": 14699,
+      "priceSource": "Kimo Store Egypt – صفحة المنتج المباشرة",
+      "priceCheckedAt": "2026-11-24",
+      "priceStatus": "فحص مباشر 24 نوفمبر 2026: صفحة Kimo Store تعرض 14,699 جنيهًا لنسخة Samsung Galaxy A17 5G بذاكرة 6GB وسعة 128GB، وتعرض Availability: In Stock وAdd to cart، لكن يظهر أيضًا عنصر Notify me when available؛ لذلك حالة المخزون check_store لحين إزالة التعارض. سعر متجر وليس سعرًا رسميًا من Samsung.",
       "memory": "6GB RAM / 128GB",
-      "merchant": "Etisal Stores Egypt",
+      "merchant": "Kimo Store Egypt",
       "priceOffers": [
+        {
+          "merchant": "Kimo Store Egypt",
+          "priceEGP": 14699,
+          "variant": "6GB RAM / 128GB / 5G – Black",
+          "source": "https://kimostore.net/products/samsung-galaxy-a17-dual-sim-128gb-6gb-ram-6-7-inch-5g-black",
+          "sourceLabel": "Kimo Store Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-24",
+          "observedAt": "2026-11-24",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://kimostore.net/products/samsung-galaxy-a17-dual-sim-128gb-6gb-ram-6-7-inch-5g-black",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-24T13:42:45+02:00",
+          "note": "السعر 14,699 جنيهًا؛ الصفحة تحدد 6GB RAM و128GB و5G، وتعرض Availability: In Stock وAdd to cart، لكن يظهر أيضًا Notify me when available؛ يلزم تأكيد المخزون."
+        },
         {
           "merchant": "Etisal Stores Egypt",
           "priceEGP": 14320,
@@ -23112,7 +23153,16 @@
           "observedAt": "2026-10-23"
         }
       ],
-      "priceObservedAt": "2026-10-23"
+      "priceObservedAt": "2026-11-24",
+      "price": 14699,
+      "priceVerifiedAt": "2026-11-24",
+      "priceLastVerifiedAt": "2026-11-24",
+      "priceReviewedAt": "2026-11-24T13:42:45+02:00",
+      "priceProvider": "Kimo Store Egypt – صفحة المنتج المباشرة",
+      "priceSourceUrl": "https://kimostore.net/products/samsung-galaxy-a17-dual-sim-128gb-6gb-ram-6-7-inch-5g-black",
+      "priceType": "store",
+      "priceVariant": "6GB RAM / 128GB / 5G – Black",
+      "priceAvailability": "check_store"
     },
     {
       "id": "samsunggalaxya275g8gb128gb",
@@ -24282,13 +24332,29 @@
       "category": "هواتف ذكية",
       "source": "https://kolasaar.com/eg/en/phones/brand/vivo/",
       "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
-      "priceEGP": 25999,
-      "priceSource": "Kolasaar – مقارنة متاجر مصر",
-      "priceCheckedAt": "2026-10-23",
-      "priceStatus": "أقل سعر مرصود للنسخة المحددة؛ قابل للتغيير",
+      "priceEGP": 24999,
+      "priceSource": "Elghazawy Egypt – صفحة المنتج المباشرة",
+      "priceCheckedAt": "2026-11-24",
+      "priceStatus": "فحص مباشر 24 نوفمبر 2026: صفحة Elghazawy تعرض Vivo V70 FE نسخة 8GB RAM / 256GB بسعر 24,999 جنيهًا مع ADD TO CART. لم يظهر تصريح مخزون صريح في الصفحة، لذلك الحالة check_store. سعر متجر وليس سعرًا رسميًا من vivo.",
       "memory": "8GB RAM / 256GB",
-      "merchant": "2B",
+      "merchant": "Elghazawy Egypt",
       "priceOffers": [
+        {
+          "merchant": "Elghazawy Egypt",
+          "priceEGP": 24999,
+          "variant": "8GB RAM / 256GB / 5G – Silver",
+          "source": "https://elghazawy.com/en/product/38074270299084/Vivo%2BV70%2BFE%2B5G%2BDual%2BSIM%2B256GB%2B8GB%2BRAM%2B-%2BSilver",
+          "sourceLabel": "Elghazawy Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-24",
+          "observedAt": "2026-11-24",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://elghazawy.com/en/product/38074270299084/Vivo%2BV70%2BFE%2B5G%2BDual%2BSIM%2B256GB%2B8GB%2BRAM%2B-%2BSilver",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-24T13:42:45+02:00",
+          "note": "صفحة المنتج تحدد 256GB و8GB RAM وتعرض 24,999 جنيهًا وADD TO CART؛ لا يوجد تصريح مخزون صريح."
+        },
         {
           "merchant": "2B",
           "priceEGP": 25999,
@@ -24297,7 +24363,17 @@
           "sourceLabel": "Kolasaar – مقارنة متاجر مصر",
           "checkedAt": "2026-10-23"
         }
-      ]
+      ],
+      "price": 24999,
+      "priceObservedAt": "2026-11-24",
+      "priceVerifiedAt": "2026-11-24",
+      "priceLastVerifiedAt": "2026-11-24",
+      "priceReviewedAt": "2026-11-24T13:42:45+02:00",
+      "priceProvider": "Elghazawy Egypt – صفحة المنتج المباشرة",
+      "priceSourceUrl": "https://elghazawy.com/en/product/38074270299084/Vivo%2BV70%2BFE%2B5G%2BDual%2BSIM%2B256GB%2B8GB%2BRAM%2B-%2BSilver",
+      "priceType": "store",
+      "priceVariant": "8GB RAM / 256GB / 5G – Silver",
+      "priceAvailability": "check_store"
     },
     {
       "id": "vivov7012gb256gb",
@@ -24926,14 +25002,30 @@
       "brand": "Infinix",
       "category": "اقتصادي",
       "memory": "4GB RAM / 128GB",
-      "priceEGP": 8949,
-      "priceSource": "B.TECH Egypt – صفحة المنتج المباشرة؛ PriceTeq أظهر سعرًا أقل سابقًا غير مطابق للصفحة الحالية",
-      "priceCheckedAt": "2026-11-11",
-      "priceObservedAt": "2026-11-11",
-      "priceStatus": "نسخة Infinix Smart 20 4G بذاكرة 4GB وسعة 128GB: صفحة B.TECH المباشرة تعرض حاليًا 8,949 جنيه (بدل السعر السابق 9,499). PriceTeq ما زال يعرض 8,700 جنيه في رصد 10 نوفمبر، وهو أقل من الصفحة المباشرة الحالية؛ لذلك سجلت 8,949 كسعر الصفحة المباشرة ووضعت 8,700 كعرض متعارض غير محسوم. حالة المخزون تحتاج تأكيدًا من المتجر.",
+      "priceEGP": 8150,
+      "priceSource": "B.TECH Egypt – صفحة المنتج المباشرة",
+      "priceCheckedAt": "2026-11-24",
+      "priceObservedAt": "2026-11-24",
+      "priceStatus": "فحص مباشر 24 نوفمبر 2026: صفحة B.TECH تعرض Infinix Smart 20 نسخة 4GB RAM / 128GB / 4G باللون Shadow Black بسعر 8,150 جنيهًا بدلًا من 9,499 جنيهًا. الصفحة تعرض Is Online: True، لكن لا تعرض حالة مخزون صريحة؛ لذلك الحالة check_store. سعر متجر وليس سعرًا رسميًا من Infinix.",
       "source": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceOffers": [
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 8150,
+          "variant": "4GB RAM / 128GB / 4G – Shadow Black",
+          "source": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
+          "sourceLabel": "B.TECH Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-24",
+          "observedAt": "2026-11-24",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-24T13:42:45+02:00",
+          "note": "الصفحة المباشرة تعرض 8,150 جنيهًا بدلًا من 9,499، وتحدد 4GB RAM و128GB و4G؛ Is Online: True لكن لا يوجد نص مخزون صريح."
+        },
         {
           "merchant": "B.TECH Egypt",
           "priceEGP": 8949,
@@ -25012,12 +25104,14 @@
       ],
       "merchant": "B.TECH Egypt",
       "priceSourceUrl": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
-      "priceVerifiedAt": "2026-11-11T13:10:53+02:00",
-      "priceLastVerifiedAt": "2026-11-11T13:10:53+02:00",
-      "priceProvider": "B.TECH Egypt",
+      "priceVerifiedAt": "2026-11-24",
+      "priceLastVerifiedAt": "2026-11-24",
+      "priceProvider": "B.TECH Egypt – صفحة المنتج المباشرة",
       "priceAvailability": "check_store",
       "priceType": "store",
-      "priceReviewedAt": "2026-11-11T13:10:53+02:00"
+      "priceReviewedAt": "2026-11-24T13:42:45+02:00",
+      "price": 8150,
+      "priceVariant": "4GB RAM / 128GB / 4G – Shadow Black"
     },
     {
       "id": "honor-600-lite-8-128",
