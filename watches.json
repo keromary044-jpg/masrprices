@@ -524,53 +524,25 @@
       "name": "Casio MTP-1314L-7AVDF Men's Watch",
       "brand": "Casio",
       "category": "ساعات يد رجالي",
-      "price": 3329,
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
-      "merchant": "Raneen",
-      "source": "https://www.raneen.com/en/4971850930815brn-conf",
       "currency": "EGP",
-      "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
-      "checkedAt": "2026-11-09 19:02 Cairo",
+      "priceStatus": "لا يوجد عرض حديث مؤكد؛ السعر غير متاح حالياً",
       "previousPrice": 2880,
       "previousMerchant": "ElGamel Watches Egypt",
       "previousSource": "https://elgamelwatches.com/ar/collections/casio",
-      "priceOffers": [
-        {
-          "merchant": "Raneen",
-          "priceEGP": 3329,
-          "source": "https://www.raneen.com/en/4971850930815brn-conf",
-          "sourceLabel": "Raneen Public Catalogue API",
-          "checkedAt": "2026-11-09 19:02 Cairo",
-          "variant": "cairotrading"
-        }
-      ],
-      "priceProvider": "Raneen Public Catalogue API"
+      "priceOffers": []
     },
     {
       "name": "Casio MTP-1314L-8AVDF Men's Watch",
       "brand": "Casio",
       "category": "ساعات يد رجالي",
-      "price": 3329,
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
-      "merchant": "Raneen",
-      "source": "https://www.raneen.com/en/4971850930839blk-conf",
       "currency": "EGP",
-      "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
-      "checkedAt": "2026-11-09 14:50 Cairo",
+      "priceStatus": "لا يوجد عرض حديث مؤكد؛ السعر غير متاح حالياً",
       "previousPrice": 2880,
       "previousMerchant": "ElGamel Watches Egypt",
       "previousSource": "https://elgamelwatches.com/ar/collections/casio",
-      "priceOffers": [
-        {
-          "merchant": "Raneen",
-          "priceEGP": 3329,
-          "source": "https://www.raneen.com/en/4971850930839blk-conf",
-          "sourceLabel": "Raneen Public Catalogue API",
-          "checkedAt": "2026-11-09 14:50 Cairo",
-          "variant": "cairotrading"
-        }
-      ],
-      "priceProvider": "Raneen Public Catalogue API"
+      "priceOffers": []
     },
     {
       "name": "Casio MTP-1314D-1AVDF Men's Watch",
@@ -828,24 +800,10 @@
       "name": "Casio LTP-VT01L-1BUDF Women's Watch",
       "brand": "Casio",
       "category": "ساعات يد حريمي",
-      "price": 2909,
       "details": "عنصر كتالوج تعريفي؛ السعر سيضاف بعد التحقق لاحقًا.",
-      "merchant": "Raneen",
-      "source": "https://www.raneen.com/en/4549526214523blg-conf",
       "currency": "EGP",
-      "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
-      "checkedAt": "2026-11-09 14:48 Cairo",
-      "priceOffers": [
-        {
-          "merchant": "Raneen",
-          "priceEGP": 2909,
-          "source": "https://www.raneen.com/en/4549526214523blg-conf",
-          "sourceLabel": "Raneen Public Catalogue API",
-          "checkedAt": "2026-11-09 14:48 Cairo",
-          "variant": "cairotrading"
-        }
-      ],
-      "priceProvider": "Raneen Public Catalogue API"
+      "priceStatus": "لا يوجد عرض حديث مؤكد؛ السعر غير متاح حالياً",
+      "priceOffers": []
     },
     {
       "name": "Casio LTP-VT02D-2AUDF Women's Watch",
@@ -4814,6 +4772,6 @@
       "checkedAt": "2026-11-09"
     }
   ],
-  "updatedAt": "2026-11-10",
-  "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
+  "updatedAt": "2026-11-24",
+  "lastAutomaticUpdate": "2026-11-24 02:42 Cairo"
 }

@@ -2945,31 +2945,9 @@
     "name": "Canon i-SENSYS MF3010",
     "category": "طابعات وماسحات",
     "brand": "Canon",
-    "price": 14025,
-    "merchant": "Raneen",
-    "source": "https://www.raneen.com/en/canon-mf3010-laser-printer-3-in-1-black-19-ppm-led-display-official-warranty",
-    "checkedAt": "2026-11-09 19:02 Cairo",
-    "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+    "priceStatus": "لا يوجد عرض حديث مؤكد؛ السعر غير متاح حالياً",
     "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
-    "priceOffers": [
-      {
-        "merchant": "Raneen",
-        "priceEGP": 14025,
-        "source": "https://www.raneen.com/en/canon-mf3010-laser-printer-3-in-1-black-19-ppm-led-display-official-warranty",
-        "sourceLabel": "Raneen Public Catalogue API",
-        "checkedAt": "2026-11-09 19:02 Cairo",
-        "variant": "elkhalij"
-      },
-      {
-        "merchant": "Raneen",
-        "priceEGP": 14525,
-        "source": "https://www.raneen.com/en/canon-mf3010-monochrome-inkjet-printer-3-in-1-energy-efficient",
-        "sourceLabel": "Raneen Public Catalogue API",
-        "checkedAt": "2026-11-09 15:45 Cairo",
-        "variant": "elkhalij"
-      }
-    ],
-    "priceProvider": "Raneen Public Catalogue API"
+    "priceOffers": []
   },
   {
     "id": "elx-0209",
@@ -3036,23 +3014,9 @@
     "name": "Epson EcoTank L5290",
     "category": "طابعات وماسحات",
     "brand": "Epson",
-    "price": 17524,
-    "merchant": "Raneen",
-    "source": "https://www.raneen.com/en/epson-wireless-multifunction-printer-lcd-display-black-2",
-    "checkedAt": "2026-11-09 19:02 Cairo",
-    "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+    "priceStatus": "لا يوجد عرض حديث مؤكد؛ السعر غير متاح حالياً",
     "note": "بيانات تعريفية للموديل فقط؛ السعر والتوافر في مصر غير متحقق منهما.",
-    "priceOffers": [
-      {
-        "merchant": "Raneen",
-        "priceEGP": 17524,
-        "source": "https://www.raneen.com/en/epson-wireless-multifunction-printer-lcd-display-black-2",
-        "sourceLabel": "Raneen Public Catalogue API",
-        "checkedAt": "2026-11-09 19:02 Cairo",
-        "variant": "egyptlaptop"
-      }
-    ],
-    "priceProvider": "Raneen Public Catalogue API"
+    "priceOffers": []
   },
   {
     "id": "elx-0215",

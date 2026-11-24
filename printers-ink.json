@@ -162,24 +162,10 @@
       "name": "HP Smart Tank 580 Wireless All-in-One 1F3Y2A",
       "brand": "HP",
       "category": "مستلزمات",
-      "price": 7757,
-      "priceStatus": "سعر مرصود من واجهة المصدر؛ تحقق من النسخة والتوفر عند الشراء",
+      "priceStatus": "لا يوجد عرض حديث مؤكد؛ السعر غير متاح حالياً",
       "details": "سعر الجنيه المصري كما ظهر في المصدر وقت الرصد.",
       "unit": "Ink tank multifunction printer",
-      "merchant": "Raneen",
-      "source": "https://www.raneen.com/en/hp-1f3y2a-smarttank-580-multifunction-wireless-printer-white-1",
-      "checkedAt": "2026-11-09 19:02 Cairo",
-      "priceOffers": [
-        {
-          "merchant": "Raneen",
-          "priceEGP": 7757,
-          "source": "https://www.raneen.com/en/hp-1f3y2a-smarttank-580-multifunction-wireless-printer-white-1",
-          "sourceLabel": "Raneen Public Catalogue API",
-          "checkedAt": "2026-11-09 19:02 Cairo",
-          "variant": "winnerbrands"
-        }
-      ],
-      "priceProvider": "Raneen Public Catalogue API"
+      "priceOffers": []
     },
     {
       "name": "HP Smart Tank 582 All-in-One 4A8D6A",
@@ -968,6 +954,6 @@
       "checkedAt": "2026-11-09"
     }
   ],
-  "updatedAt": "2026-11-09",
-  "lastAutomaticUpdate": "2026-11-09 19:17 Cairo"
+  "updatedAt": "2026-11-24",
+  "lastAutomaticUpdate": "2026-11-24 02:42 Cairo"
 }
