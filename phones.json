@@ -24335,14 +24335,14 @@
       "priceEGP": 24999,
       "priceSource": "Elghazawy Egypt – صفحة المنتج المباشرة",
       "priceCheckedAt": "2026-11-24",
-      "priceStatus": "فحص مباشر 24 نوفمبر 2026: صفحة Elghazawy تعرض Vivo V70 FE نسخة 8GB RAM / 256GB بسعر 24,999 جنيهًا مع ADD TO CART. لم يظهر تصريح مخزون صريح في الصفحة، لذلك الحالة check_store. سعر متجر وليس سعرًا رسميًا من vivo.",
+      "priceStatus": "فحص مباشر 24 نوفمبر 2026: صفحة Elghazawy تعرض Vivo V70 FE نسخة 8GB RAM / 256GB بسعر 24,999 جنيهًا مع ADD TO CART. عنوان الصفحة والوصف يذكران 5G، لكن جدول المواصفات يعرض 5G Network: No؛ لذلك لم أعتمد نوع الشبكة واحتفظت بالحالة check_store لحين تأكيد النسخة من المتجر. سعر متجر وليس سعرًا رسميًا من vivo.",
       "memory": "8GB RAM / 256GB",
       "merchant": "Elghazawy Egypt",
       "priceOffers": [
         {
           "merchant": "Elghazawy Egypt",
           "priceEGP": 24999,
-          "variant": "8GB RAM / 256GB / 5G – Silver",
+          "variant": "8GB RAM / 256GB – Silver (5G status unconfirmed)",
           "source": "https://elghazawy.com/en/product/38074270299084/Vivo%2BV70%2BFE%2B5G%2BDual%2BSIM%2B256GB%2B8GB%2BRAM%2B-%2BSilver",
           "sourceLabel": "Elghazawy Egypt – صفحة المنتج المباشرة",
           "checkedAt": "2026-11-24",
@@ -24353,7 +24353,7 @@
           "retailerUrl": "https://elghazawy.com/en/product/38074270299084/Vivo%2BV70%2BFE%2B5G%2BDual%2BSIM%2B256GB%2B8GB%2BRAM%2B-%2BSilver",
           "verificationMethod": "retailer_page",
           "reviewedAt": "2026-11-24T13:42:45+02:00",
-          "note": "صفحة المنتج تحدد 256GB و8GB RAM وتعرض 24,999 جنيهًا وADD TO CART؛ لا يوجد تصريح مخزون صريح."
+          "note": "الصفحة تعرض 24,999 جنيهًا وADD TO CART؛ العنوان والوصف يذكران 5G لكن جدول المواصفات يعرض 5G Network: No، لذا يجب تأكيد الشبكة والنسخة من المتجر."
         },
         {
           "merchant": "2B",
@@ -24372,7 +24372,7 @@
       "priceProvider": "Elghazawy Egypt – صفحة المنتج المباشرة",
       "priceSourceUrl": "https://elghazawy.com/en/product/38074270299084/Vivo%2BV70%2BFE%2B5G%2BDual%2BSIM%2B256GB%2B8GB%2BRAM%2B-%2BSilver",
       "priceType": "store",
-      "priceVariant": "8GB RAM / 256GB / 5G – Silver",
+      "priceVariant": "8GB RAM / 256GB – Silver (حالة 5G غير مؤكدة بسبب تعارض صفحة المتجر)",
       "priceAvailability": "check_store"
     },
     {
