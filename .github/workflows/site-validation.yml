@@ -104,6 +104,43 @@ jobs:
           catalog_slugs = [item.get("slug") for item in catalog]
           assert set(product_slugs) == set(catalog_slugs), "SEO product data and public catalogue are out of sync"
           assert all(product_slugs) and len(product_slugs) == len(set(product_slugs)), "SEO product slugs are missing or duplicated"
+
+          # Product detail pages are intentionally indexable only while at least one
+          # exact-variant, direct retailer offer was verified within the last 7 days.
+          # Keep this eligibility rule aligned with functions/products/[slug].js.
+          from datetime import datetime, timezone
+          today_utc = datetime.now(timezone.utc).date()
+          def offer_is_direct(product, offer):
+              source = str(offer.get("source") or "")
+              if not source.lower().startswith("https://") or re.search(r"google\\.com/search|priceteq\\.com/eg/phones", source, re.I):
+                  return False
+              product_path = re.search(r"/(product|products|item|items|p|dp)/", source, re.I) is not None
+              source_label = str(product.get("sourceLabel") or "")
+              official_plan = source.lower().startswith("https://www.eand.com.eg/") and "صفحة باقات" in source_label
+              return product_path or ("صفحة المنتج" in source_label and "priceteq.com" not in source.lower()) or official_plan
+
+          def offer_is_fresh_verified(product, offer):
+              try:
+                  checked = datetime.fromisoformat(str(offer.get("checkedAt") or "")[:10]).date()
+                  age = (today_utc - checked).days
+                  price = float(offer.get("price"))
+              except (TypeError, ValueError):
+                  return False
+              if age < 0 or age > 7 or price <= 0 or not offer_is_direct(product, offer):
+                  return False
+              specs = [re.sub(r"\\s+", "", item).lower() for item in re.findall(
+                  r"\\d+(?:\\.\\d+)?\\s*(?:GB|TB|جيجابايت|تيرابايت|جم|غرام|مل|لتر|كجم|كغ)",
+                  str(product.get("name") or ""), flags=re.I
+              )]
+              variant = re.sub(r"\\s+", "", str(offer.get("variant") or "")).lower()
+              return all(spec in variant for spec in specs)
+
+          eligible_product_slugs = {
+              item["slug"] for item in seo_products
+              if item.get("slug") and any(
+                  offer_is_fresh_verified(item, offer) for offer in item.get("offers", [])
+              )
+          }
           compare_api = (root / "functions/api/compare.js").read_text(encoding="utf-8")
           product_page = (root / "functions/products/[slug].js").read_text(encoding="utf-8")
           monitor = (root / "price-monitor/worker.js").read_text(encoding="utf-8")
@@ -118,7 +155,8 @@ jobs:
           category_slugs = ["phones", "electronics", "home-appliances", "books", "cars", "groceries", "tools", "baby", "clothing", "furniture", "personal-care", "sports", "plants", "telecom"]
           assert all(base + "category/" + slug + "/" in urls for slug in category_slugs), "A category landing page is missing from the sitemap"
           assert all('href="/category/' + slug + '/"' in product_index for slug in category_slugs), "A category landing page is not linked from the product directory"
-          assert set(product_slugs) == set(sitemap_slugs) == set(index_slugs), "Product index, SEO data and sitemap do not contain the same product slugs"
+          assert set(product_slugs) == set(index_slugs), "Product index and SEO product data do not contain the same product slugs"
+          assert set(sitemap_slugs) == eligible_product_slugs, "Sitemap must include exactly the product pages with fresh verified direct offers"
           sw = (root / "sw.js").read_text(encoding="utf-8")
           for required_asset in ['"./site-enhancements.js"', '"./assets/icon.svg"', '"./products/"', '"./catalog/"', '"./catalog.js"']:
               assert required_asset in sw, f"Service worker precache is missing {required_asset}"
