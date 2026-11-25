@@ -7974,7 +7974,7 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceEGP": 86000,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض iPhone 17 Pro Max بسعة 256GB بسعر 86,000 جنيهًا، وتصرح In Stock مع Buy now وAdd to cart، وتحدد التخزين 256GB. انخفض السعر 3,000 جنيه عن آخر تسجيل في المشروع بتاريخ 21 نوفمبر. سعر متجر وليس سعرًا رسميًا من Apple.",
+      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض 86,000 جنيهًا وIn Stock لنسخة iPhone 17 Pro Max بسعة 256GB، لكنها تحتوي أيضًا على قيمة price_egp داخل المحتوى المضمن لا تطابق السعر الرئيسي (8900). لذلك أبقيت 86,000 كسعر ظاهر للصفحة مع حالة uncertain، ويجب تأكيده من المتجر قبل الشراء. سعر متجر وليس سعرًا رسميًا من Apple.",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
@@ -8091,13 +8091,13 @@
           "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
           "checkedAt": "2026-11-25",
           "observedAt": "2026-11-25",
-          "availability": "in_stock",
+          "availability": "uncertain",
           "priceType": "store",
           "currency": "EGP",
           "retailerUrl": "https://elavocatomobile.net/product/apple-iphone-17-pro-max/",
           "verificationMethod": "retailer_page",
           "reviewedAt": "2026-11-25T13:37:49+02:00",
-          "note": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض iPhone 17 Pro Max بسعة 256GB بسعر 86,000 جنيهًا، وتصرح In Stock مع Buy now وAdd to cart، وتحدد التخزين 256GB. انخفض السعر 3,000 جنيه عن آخر تسجيل في المشروع بتاريخ 21 نوفمبر. سعر متجر وليس سعرًا رسميًا من Apple."
+          "note": "صفحة المنتج تعرض 86,000 جنيهًا وIn Stock لنسخة 256GB، لكن الصفحة نفسها تحتوي في محتوى الأسئلة/البيانات المضمنة على قيمة price_egp غير متطابقة (8900)؛ لذلك السعر الظاهر موثق كرصد للصفحة، لكن يلزم تأكيده من المتجر قبل اعتماده كسعر شراء نهائي."
         }
       ],
       "priceCheckedAt": "2026-11-25",
