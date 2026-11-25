@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:42:45+02:00",
+  "updatedAt": "2026-11-25T13:37:49+02:00",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -571,8 +571,8 @@
       "release": "2026",
       "priceEGP": 17700,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-23",
-      "priceStatus": "فحص مباشر 23 نوفمبر 2026: صفحة El Avocato تعرض 17,700 جنيهًا وIn Stock لنسخة Samsung Galaxy A17 5G 8GB RAM / 256GB. عروض B.TECH وVodafone رُصدت بأسعار متعارضة بين نسخ الصفحات والمقارنة، لذلك بقيت check_store ولم تُعتمد كسعر أساسي. سعر متجر وليس سعرًا رسميًا من Samsung.",
+      "priceCheckedAt": "2026-11-25",
+      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض 17,700 جنيهًا لنسخة Samsung Galaxy A17 5G بذاكرة 8GB وسعة 256GB، وتصرح In Stock مع Buy now وAdd to cart. سعر متجر وليس سعرًا رسميًا من Samsung.",
       "sourceLabel": "Samsung Egypt – المواصفات الرسمية",
       "priceOffers": [
         {
@@ -720,10 +720,26 @@
           "verificationMethod": "retailer_page",
           "reviewedAt": "2026-11-20T19:16:16+02:00",
           "note": "فحص مباشر 20 نوفمبر 2026 الساعة 19:16: صفحة B.TECH تعرض 17,680 جنيهًا لنسخة 8GB/256GB/5G السوداء مع Add to cart، لكن لا تظهر عبارة مخزون صريحة؛ لذلك يلزم تأكيد التوفر. صفحة El Avocato تعرض النسخة نفسها بسعر 17,700 جنيه مع In Stock."
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 17700,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
+          "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-25",
+          "observedAt": "2026-11-25",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://elavocatomobile.net/product/amsung-galaxy-a17-5g-8gb-256gb/",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-25T13:37:49+02:00",
+          "note": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض 17,700 جنيهًا لنسخة Samsung Galaxy A17 5G بذاكرة 8GB وسعة 256GB، وتصرح In Stock مع Buy now وAdd to cart. سعر متجر وليس سعرًا رسميًا من Samsung."
         }
       ],
       "source": "https://priceteq.com/eg/product/5d66133b-d007-418c-a80e-013be76ff76a",
-      "priceObservedAt": "2026-11-23",
+      "priceObservedAt": "2026-11-25",
       "merchant": "El Avocato Mobile Egypt",
       "priceVerifiedAt": "2026-11-23",
       "priceLastVerifiedAt": "2026-11-23",
@@ -1609,7 +1625,7 @@
       "category": "هاتف ذكي",
       "priceEGP": 64699,
       "priceSource": "Technology Valley Egypt – صفحة المنتج المباشرة",
-      "priceStatus": "سعر متجر مباشر لنسخة 12GB RAM / 256GB / 5G باللون Titanium Black؛ صفحة Technology Valley تعرض منتجًا واحدًا متاحًا وأزرار Add to cart وBuy Now. ليس سعرًا رسميًا من سامسونج.",
+      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة Technology Valley تعرض 64,699 جنيهًا لنسخة Samsung Galaxy S25 Ultra ذات 12GB RAM و256GB و5G باللون Titanium Black، موديل SM-S938B/DS، مع Add to cart. لا يوجد تصريح صريح بالمخزون في الصفحة؛ لذلك يلزم تأكيد المتجر. سعر متجر وليس سعرًا رسميًا من Samsung.",
       "sourceLabel": "يجب مراجعة صفحة الشركة الرسمية للتحقق من النسخة والمواصفات",
       "priceOffers": [
         {
@@ -1679,14 +1695,30 @@
           "sourceLabel": "PriceTeq – Elshennawy Stores Egypt",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "Technology Valley Egypt",
+          "priceEGP": 64699,
+          "variant": "12GB RAM / 256GB / 5G – Titanium Black (SM-S938B/DS)",
+          "source": "https://tv-it.com/products/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-black-sm-s938bds",
+          "sourceLabel": "Technology Valley Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-25",
+          "observedAt": "2026-11-25",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://tv-it.com/products/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-black-sm-s938bds",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-25T13:37:49+02:00",
+          "note": "تحقق مباشر 25 نوفمبر 2026: صفحة Technology Valley تعرض 64,699 جنيهًا لنسخة Samsung Galaxy S25 Ultra ذات 12GB RAM و256GB و5G باللون Titanium Black، موديل SM-S938B/DS، مع Add to cart. لا يوجد تصريح صريح بالمخزون في الصفحة؛ لذلك يلزم تأكيد المتجر. سعر متجر وليس سعرًا رسميًا من Samsung."
         }
       ],
       "price": 64699,
       "merchant": "Technology Valley Egypt",
       "source": "https://priceteq.com/eg/product/6613c41f-936d-4459-8453-d847bf7240c1",
-      "priceCheckedAt": "2026-11-22",
+      "priceCheckedAt": "2026-11-25",
       "memory": "أقل نسخة مرصودة: 12GB RAM / 256GB / 5G",
-      "priceObservedAt": "2026-11-22",
+      "priceObservedAt": "2026-11-25",
       "priceProvider": "Technology Valley Egypt – صفحة المنتج المباشرة",
       "priceSourceUrl": "https://tv-it.com/products/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-black-sm-s938bds",
       "priceAvailability": "in_stock",
@@ -7940,9 +7972,9 @@
       "build": "راجع صفحة الشركة الرسمية",
       "source": "https://priceteq.com/eg/product/35faad76-d375-4fc3-8dd6-b2306f4d821b",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceEGP": 89000,
+      "priceEGP": 86000,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-      "priceStatus": "إعادة فحص مباشر 21 نوفمبر 2026 الساعة 20:39: صفحة El Avocato تعرض iPhone 17 Pro Max بسعة 256GB بسعر 89,000 جنيهًا، وتصرح In Stock مع Buy Now وAdd to Cart. الصفحة لا تحدد RAM؛ لذلك سجل العرض كسعة 256GB فقط. سعر متجر وليس سعرًا رسميًا من Apple.",
+      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض iPhone 17 Pro Max بسعة 256GB بسعر 86,000 جنيهًا، وتصرح In Stock مع Buy now وAdd to cart، وتحدد التخزين 256GB. انخفض السعر 3,000 جنيه عن آخر تسجيل في المشروع بتاريخ 21 نوفمبر. سعر متجر وليس سعرًا رسميًا من Apple.",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
@@ -8050,10 +8082,26 @@
           "reviewedAt": "2026-11-20T13:45:14+02:00",
           "note": "فحص مباشر 20 نوفمبر 2026: Apple iPhone 17 Pro Max نسخة 256GB بسعر 89,000 جنيه، والصفحة تعرض In Stock وBuy now وAdd to cart. سعر متجر؛ لم يُعثر في هذا الفحص على سعر رسمي مصري منشور من Apple.",
           "taxIncluded": true
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 86000,
+          "variant": "256GB / 5G",
+          "source": "https://elavocatomobile.net/product/apple-iphone-17-pro-max/",
+          "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-25",
+          "observedAt": "2026-11-25",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://elavocatomobile.net/product/apple-iphone-17-pro-max/",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-25T13:37:49+02:00",
+          "note": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض iPhone 17 Pro Max بسعة 256GB بسعر 86,000 جنيهًا، وتصرح In Stock مع Buy now وAdd to cart، وتحدد التخزين 256GB. انخفض السعر 3,000 جنيه عن آخر تسجيل في المشروع بتاريخ 21 نوفمبر. سعر متجر وليس سعرًا رسميًا من Apple."
         }
       ],
-      "priceCheckedAt": "2026-11-21",
-      "priceObservedAt": "2026-11-21",
+      "priceCheckedAt": "2026-11-25",
+      "priceObservedAt": "2026-11-25",
       "merchant": "El Avocato Mobile Egypt",
       "priceVerifiedAt": "2026-11-21T20:39:22+02:00",
       "priceLastVerifiedAt": "2026-11-21T20:39:22+02:00",
@@ -23377,8 +23425,8 @@
       "sourceLabel": "El Avocato Mobile Egypt – قائمة الهواتف",
       "priceEGP": 28500,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-24",
-      "priceStatus": "فحص مباشر 24 نوفمبر 2026 الساعة 02:35 بتوقيت القاهرة: صفحة El Avocato تعرض 28,500 جنيهًا لنسخة Samsung Galaxy A57 5G ذات 8GB RAM / 256GB مع In Stock وBuy now وAdd to cart. صفحة B.TECH المباشرة تعرض 30,375 جنيهًا للنسخة نفسها. سعر متجر وليس سعرًا رسميًا من Samsung.",
+      "priceCheckedAt": "2026-11-25",
+      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض 28,500 جنيهًا لنسخة Samsung Galaxy A57 5G بذاكرة 8GB وسعة 256GB، وتصرح In Stock مع Buy now وAdd to cart. سعر متجر وليس سعرًا رسميًا من Samsung.",
       "memory": "8GB RAM / 256GB / 5G",
       "merchant": "El Avocato Mobile Egypt",
       "priceOffers": [
@@ -23541,9 +23589,25 @@
           "verificationMethod": "retailer_page",
           "reviewedAt": "2026-11-20T13:45:14+02:00",
           "note": "فحص مباشر 20 نوفمبر 2026: صفحة B.TECH تعرض 29,221 جنيهًا وتطابق 8GB/256GB/5G؛ الصفحة لا تعرض نصًا صريحًا عن المخزون، لذا يلزم تأكيد التوفر عند الشراء."
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 28500,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
+          "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-25",
+          "observedAt": "2026-11-25",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-25T13:37:49+02:00",
+          "note": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض 28,500 جنيهًا لنسخة Samsung Galaxy A57 5G بذاكرة 8GB وسعة 256GB، وتصرح In Stock مع Buy now وAdd to cart. سعر متجر وليس سعرًا رسميًا من Samsung."
         }
       ],
-      "priceObservedAt": "2026-11-24",
+      "priceObservedAt": "2026-11-25",
       "priceSourceUrl": "https://elavocatomobile.net/product/samsung-galaxy-a57-5g-8gb-256gb/",
       "priceVerifiedAt": "2026-11-24T02:35:11+02:00",
       "priceLastVerifiedAt": "2026-11-24T02:35:11+02:00",
@@ -25021,9 +25085,9 @@
       "memory": "4GB RAM / 128GB",
       "priceEGP": 8150,
       "priceSource": "B.TECH Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-24",
-      "priceObservedAt": "2026-11-24",
-      "priceStatus": "فحص مباشر 24 نوفمبر 2026: صفحة B.TECH تعرض Infinix Smart 20 نسخة 4GB RAM / 128GB / 4G باللون Shadow Black بسعر 8,150 جنيهًا بدلًا من 9,499 جنيهًا. الصفحة تعرض Is Online: True، لكن لا تعرض حالة مخزون صريحة؛ لذلك الحالة check_store. سعر متجر وليس سعرًا رسميًا من Infinix.",
+      "priceCheckedAt": "2026-11-25",
+      "priceObservedAt": "2026-11-25",
+      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة B.TECH تعرض 8,150 جنيهًا بدلًا من 9,499 جنيهًا وتحدد Infinix Smart 20 بذاكرة 4GB وسعة 128GB وشبكة 4G واللون Shadow Black. الصفحة لا تعرض حالة مخزون صريحة؛ لذلك يلزم تأكيد المتجر. سعر متجر وليس سعرًا رسميًا من Infinix.",
       "source": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceOffers": [
@@ -25117,6 +25181,22 @@
           "currency": "EGP",
           "taxIncluded": true,
           "verificationMethod": "price_aggregator"
+        },
+        {
+          "merchant": "B.TECH Egypt",
+          "priceEGP": 8150,
+          "variant": "4GB RAM / 128GB / 4G – Shadow Black",
+          "source": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
+          "sourceLabel": "B.TECH Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-25",
+          "observedAt": "2026-11-25",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://btech.com/en/p/012251d6-c872-47db-be03-c4e12687f205?offering_id=682a006c-8f26-41ee-8ae6-f0d612be4837",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-25T13:37:49+02:00",
+          "note": "تحقق مباشر 25 نوفمبر 2026: صفحة B.TECH تعرض 8,150 جنيهًا بدلًا من 9,499 جنيهًا وتحدد Infinix Smart 20 بذاكرة 4GB وسعة 128GB وشبكة 4G واللون Shadow Black. الصفحة لا تعرض حالة مخزون صريحة؛ لذلك يلزم تأكيد المتجر. سعر متجر وليس سعرًا رسميًا من Infinix."
         }
       ],
       "merchant": "B.TECH Egypt",
@@ -25495,11 +25575,11 @@
       "connectivity": "حسب نسخة السوق",
       "source": "https://elavocatomobile.net/product/honor-600-8gb-256gb/",
       "sourceLabel": "El Avocato Mobile Egypt – قائمة الهواتف",
-      "priceEGP": 27300,
+      "priceEGP": 27200,
       "priceSource": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-24",
-      "priceObservedAt": "2026-11-24",
-      "priceStatus": "فحص مباشر 24 نوفمبر 2026 الساعة 02:35 بتوقيت القاهرة: صفحة El Avocato تعرض 27,300 جنيهًا لنسخة HONOR 600 ذات 8GB RAM / 256GB / 5G مع In Stock وBuy now وAdd to cart. تم استبدال السعر السابق 27,800 بعد إعادة التحقق من صفحة النسخة نفسها. سعر متجر وليس سعرًا رسميًا من HONOR.",
+      "priceCheckedAt": "2026-11-25",
+      "priceObservedAt": "2026-11-25",
+      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض 27,200 جنيهًا لنسخة HONOR 600 بذاكرة 8GB وسعة 256GB، وتصرح In Stock مع Buy now وAdd to cart. انخفض السعر 100 جنيه عن آخر تسجيل في المشروع بتاريخ 24 نوفمبر. سعر متجر وليس سعرًا رسميًا من HONOR.",
       "priceOffers": [
         {
           "merchant": "El Avocato Mobile Egypt",
@@ -25576,6 +25656,22 @@
           "retailerUrl": "https://elavocatomobile.net/product/honor-600-8gb-256gb/",
           "verificationMethod": "retailer_page",
           "note": "قائمة المتجر القديمة كانت تعرض 26,700 جنيه؛ صفحة المنتج المباشرة المفتوحة 16 نوفمبر تعرض 29,000 جنيه، لذلك لم أعدّ السعر القديم عرضًا مؤكدًا."
+        },
+        {
+          "merchant": "El Avocato Mobile Egypt",
+          "priceEGP": 27200,
+          "variant": "8GB RAM / 256GB / 5G",
+          "source": "https://elavocatomobile.net/product/honor-600-8gb-256gb/",
+          "sourceLabel": "El Avocato Mobile Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-25",
+          "observedAt": "2026-11-25",
+          "availability": "in_stock",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://elavocatomobile.net/product/honor-600-8gb-256gb/",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-25T13:37:49+02:00",
+          "note": "تحقق مباشر 25 نوفمبر 2026: صفحة El Avocato تعرض 27,200 جنيهًا لنسخة HONOR 600 بذاكرة 8GB وسعة 256GB، وتصرح In Stock مع Buy now وAdd to cart. انخفض السعر 100 جنيه عن آخر تسجيل في المشروع بتاريخ 24 نوفمبر. سعر متجر وليس سعرًا رسميًا من HONOR."
         }
       ],
       "merchant": "El Avocato Mobile Egypt",
@@ -26990,9 +27086,9 @@
       "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
       "priceEGP": 64699,
       "priceSource": "Technology Valley Egypt – صفحة المنتج المباشرة",
-      "priceCheckedAt": "2026-11-22",
-      "priceObservedAt": "2026-11-22",
-      "priceStatus": "سعر متجر مباشر لنسخة 12GB RAM / 256GB / 5G باللون Titanium Black؛ صفحة Technology Valley تعرض منتجًا واحدًا متاحًا وأزرار Add to cart وBuy Now. ليس سعرًا رسميًا من سامسونج.",
+      "priceCheckedAt": "2026-11-25",
+      "priceObservedAt": "2026-11-25",
+      "priceStatus": "تحقق مباشر 25 نوفمبر 2026: صفحة Technology Valley تعرض 64,699 جنيهًا لنسخة Samsung Galaxy S25 Ultra ذات 12GB RAM و256GB و5G باللون Titanium Black، موديل SM-S938B/DS، مع Add to cart. لا يوجد تصريح صريح بالمخزون في الصفحة؛ لذلك يلزم تأكيد المتجر. سعر متجر وليس سعرًا رسميًا من Samsung.",
       "priceOffers": [
         {
           "merchant": "Technology Valley Egypt",
@@ -27067,6 +27163,22 @@
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
           "availability": "in_stock"
+        },
+        {
+          "merchant": "Technology Valley Egypt",
+          "priceEGP": 64699,
+          "variant": "12GB RAM / 256GB / 5G – Titanium Black (SM-S938B/DS)",
+          "source": "https://tv-it.com/products/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-black-sm-s938bds",
+          "sourceLabel": "Technology Valley Egypt – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-25",
+          "observedAt": "2026-11-25",
+          "availability": "check_store",
+          "priceType": "store",
+          "currency": "EGP",
+          "retailerUrl": "https://tv-it.com/products/samsung-galaxy-s25-ultra-256gb-12gb-ram-5g-dual-sim-titanium-black-sm-s938bds",
+          "verificationMethod": "retailer_page",
+          "reviewedAt": "2026-11-25T13:37:49+02:00",
+          "note": "تحقق مباشر 25 نوفمبر 2026: صفحة Technology Valley تعرض 64,699 جنيهًا لنسخة Samsung Galaxy S25 Ultra ذات 12GB RAM و256GB و5G باللون Titanium Black، موديل SM-S938B/DS، مع Add to cart. لا يوجد تصريح صريح بالمخزون في الصفحة؛ لذلك يلزم تأكيد المتجر. سعر متجر وليس سعرًا رسميًا من Samsung."
         }
       ],
       "price": 64699,
@@ -33082,5 +33194,5 @@
   ],
   "priceUpdateNote": "استكمال مراجعة الموديلات الستة عشر التي لم يكن لها سعر: أضيفت أسعار Symphony بعملة BDT كمرجع أجنبي منفصل دون تحويلها إلى جنيه مصري أو احتسابها ضمن التغطية المصرية؛ تم توثيق نفاد مخزون Reekoo Note 60 MAX رسميًا؛ وتأكيد أن موديلات Celphy القديمة لا تطابق عروض C500/C600 الحالية، وأن Xiaomi Mi 1 تاريخي. لا توجد أسعار مصرية موثوقة لهذه السجلات حتى الآن.\nمراجعة يدوية بتاريخ 8 نوفمبر 2026: تم تحديث عروض متاجر مباشرة موثقة مع مطابقة الموديل وسعة التخزين والذاكرة؛ أسعار المتاجر لا تُعرض كسعر رسمي للشركة. تم توثيق نفاد عرض Raneen الأساسي لنسخة Galaxy A37 8GB/256GB مع وجود عرضين آخرين غير متحققين، وسعر iPhone 15 لدى Elshennawy قبل الضريبة. لم يتم تشغيل أو إثبات أي تكامل تلقائي جديد.\nمراجعة يدوية 9 نوفمبر 2026: تم تحديث سجلات الأسعار التي تطابقت مع صفحات PriceTeq المصرية بحسب اسم الموديل وRAM وسعة التخزين والجيل؛ أُدرجت عروض المتاجر الجديدة فقط مع روابط صفحات المقارنة وتاريخ التحقق وحالة التوفر المعلنة. أسعار المتاجر ليست أسعارًا رسمية من الشركات. أسعار iPhone 15 128GB وiPhone 17 256GB ظلت موسومة كسعر معلن قبل الضريبة/ضريبة غير محسومة بسبب تعارض شارات صفحة المصدر. لم يُحدّث Galaxy S26 Ultra 12/256 بسبب تعارض بين صفحة المنتج ودليل الأسعار بتاريخ 9 نوفمبر، كما لم تُحدّث نسخ S25 التي لم يُسمِّ الدليل متجرها الأرخص.\nمراجعة يدوية بتاريخ 11 نوفمبر 2026: تم فحص 11 تكوينًا موجودًا بالفعل في كتالوج الهواتف عبر صفحات متاجر مصرية ومقارنة PriceTeq. تم تحديث أسعار A17 4/128 مع تمييز عرض Vodafone غير المتاح؛ Galaxy A07 6/128؛ Galaxy A08 6/128؛ OPPO A6 4/128 و6/128 (تعارض 14,799 في PriceTeq مقابل 14,999 في صفحة Elghazawy المباشرة، فاعتمدت الصفحة المباشرة ووسمت السعر الأقل غير محسوم)؛ Galaxy S26 FE 8/512؛ Infinix Smart 20 4/128 (8,949 مباشر لدى B.TECH مقابل 8,700 في PriceTeq، فوسمت الفرق غير محسوم)؛ iPhone 17 256GB (48,750 قبل الضريبة حسب صفحة Elshennawy، رغم أن PriceTeq يضع شارة شمول الضريبة)؛ vivo Y11D 4/128؛ OPPO A6x 4/128 و4/64. لم تُخمن أسعار، وتم إبقاء عروض نفاد المخزون أو التعارضات منفصلة عن السعر القابل للشراء. لم يتم تعديل phone-model-index.json أو أي ملف آخر. | مراجعة يدوية موثقة 2026-11-11: تحديث أسعار مباشرة لـ Samsung S26 Ultra 12/256 وA56 8/256 وA57 12/256 وOPPO A6 6/128؛ إضافة عروض مقارنة متعارضة/غير مؤكدة دون اعتمادها كسعر أساسي.\nمراجعة يدوية موثقة 2026-11-12: تم تحديث 4 نسخ مطابقة بعد فتح صفحات متاجر مصرية مباشرة: Samsung Galaxy A37 5G 8/128 لدى 2K Egypt، vivo Y11d 6/128 لدى 2B Egypt، vivo Y500 8/256 لدى El Hashim Store، وvivo V70 12/256 لدى Cairocart. الأسعار عروض متاجر وليست أسعارًا رسمية. لم تُحدّث نسخة vivo V70 FE 8/256 لأن صفحة Jumia أعادت التوجيه إلى صفحة فئة، وصفحة 2B تعذر فتحها مباشرة؛ لذلك لم يُعتمد سعر غير متحقق.\nتصحيح قائمة العروض بتاريخ 2026-11-12: استُبدلت عروض 23 أكتوبر غير المعاد التحقق منها بالعروض المباشرة الحالية للنسخ الأربع أعلاه؛ لم تُترك الأسعار القديمة ضمن العروض النشطة حتى لا تُعرض كأرخص سعر حالي رغم انتهاء صلاحية التحقق.\nمراجعة توافق نسخة Galaxy A37 8/128 بتاريخ 2026-11-12: تمت إضافة ملاحظة تعارض بين صفحة 2K Egypt وصفحة Samsung Egypt؛ السعر 24,450 جنيه محفوظ كعرض متجر بحالة check_store وليس كسعر رسمي أو نسخة مصرية مؤكدة. يوجد سجلان في الكتالوج للنسخة نفسها (samsunggalaxya375g8gb128gb وsamsung-galaxy-a37-8-128) وتمت مزامنتهما مع العرض نفسه دون تغيير بنية الكتالوج.\nمراجعة يدوية موثقة 2026-11-12 الساعة 19:05:41 بتوقيت القاهرة: أعيد فتح صفحات المتاجر المباشرة وتم تحديث 5 تكوينات مطابقة: Samsung Galaxy S26 Ultra 12/256 لدى Ennap (54,999 جنيه) وإضافة عرض Jumia (71,799 جنيه)؛ Samsung Galaxy A56 8/256 لدى Etisal (23,999 جنيه)؛ Samsung Galaxy A57 8/256 لدى El Avocato (26,900 جنيه)؛ Samsung Galaxy A57 12/256 لدى El Avocato (30,800 جنيه)؛ vivo Y500 4G 8/256 لدى Raya Shop (19,999 جنيه). كل الأسعار أسعار متاجر وليست أسعارًا رسمية. العروض القديمة التي لم تُراجع مباشرة اليوم وُسِمت check_store بدل اعتبارها متاحة مؤكدة.\nمراجعة يدوية موثقة بتاريخ 2026-11-13: تم إعادة فحص وتحديث بيانات أسعار نسخ Samsung Galaxy A56 8/256 (تمييز نفاد Etisal وحالة بائع Raneen marketplace كـ check_store)، Samsung Galaxy A57 12/256 (30,800 جنيه لدى El Avocato)، OPPO A6 6/128 (14,799 جنيه لدى Elghazawy مع عرض Etisal 14,999)، vivo Y11D 6/128 (الإبقاء على 2B بسعر 12,099 من تحقق 12 نوفمبر وإضافة Raneen 11,700 كغير متوفر، وتحديث سجل النسخة المكرر)، vivo V70 12/256 (35,999 جنيه لدى Elghazawy وتمييز B.TECH 35,899 كغير متوفر بعد فحص الصفحة المباشرة)، وXiaomi Redmi A7 3/64 (8,299 جنيه لدى 2B). لم تُعتمد أسعار المقارنة التي تعارض صفحات المتاجر المباشرة أو العروض غير المتاحة. لم يتغير عدد الموديلات أو الفهرس.\nمراجعة يدوية موثقة بتاريخ 2026-11-14 الساعة 13:47 بتوقيت القاهرة: تمت مراجعة 8 تكوينات مطابقة من صفحات متاجر مصرية مباشرة. خُفّض Samsung Galaxy A17 4G 8/256 من 16,800 إلى 16,400 جنيه لدى El Avocato؛ وخُفّض HONOR X7e 6/128 من 11,799 إلى 11,555 جنيه لدى Technology Valley. أُعيد تأكيد Samsung A17 5G 8/256 عند 17,800 جنيه لدى El Avocato مع عرض Elghazawy 19,999؛ Galaxy A37 12/256 عند 27,000 لدى El Avocato مع عرض Elghazawy 29,999؛ Galaxy A18 6/128 عند 13,999 لدى Elghazawy؛ Galaxy A57 12/256 عند 30,800 لدى El Avocato مع تعارض PriceTeq البالغ 31,700؛ وOPPO A6 6/128 عند 14,799 لدى Elghazawy مقابل 14,999 لدى Etisal. تم تحويل vivo V70 12/256 إلى out_of_stock بعد فحص صفحات Elghazawy وB.TECH وRaneen؛ 35,999 جنيه هو آخر سعر معروض وليس سعرًا متاحًا حاليًا. جميع الأسعار المعتمدة أسعار متاجر لا أسعار رسمية. لم يتم قبول أسعار تلقائية جديدة في التشغيل المجدول بتاريخ 14 نوفمبر؛ لم يتم تعديل phone-model-index.json أو أي ملف آخر.\nمراجعة يومية موثقة 16 نوفمبر 2026: أُعيد فحص 7 تكوينات مباشرة لدى متاجر مصرية. تم تأكيد Samsung Galaxy A17 4G 8/256 بسعر 16,400 جنيه لدى El Avocato، وSamsung Galaxy A57 8/256 بسعر 27,000، وA57 12/256 بسعر 31,700؛ كلها معروضة In Stock. تم تحديث Samsung Galaxy A07 4/128 إلى 11,000 جنيه، لكن وُسم check_store بسبب نص قديم متعارض داخل وصف الصفحة. ظهر HONOR 600 8/256 بسعر 29,000 لدى El Avocato مقابل 26,700 في PriceTeq بتاريخ 14 نوفمبر؛ سُجل التعارض ولم يُعتمد سعر المقارنة كعرض مباشر. صفحة Raneen لنسخة Galaxy A56 8/256 تعرض 23,999 جنيهًا في Other Sellers رغم أن المنتج الأساسي Out of stock؛ الحالة check_store. صفحة Ennap تعرض 54,999 جنيهًا لـ S26 Ultra 12/256 لكنها تطلب Notify me when available؛ السعر آخر سعر ظاهر وليس متاحًا. Infinix Smart 20 4/64 بقي 6,700 كآخر سعر مسجل 15 نوفمبر دون تأكيد جديد؛ عرض B.TECH البالغ 7,700 من 13 نوفمبر أصبح غير متاح حسب صفحة B.TECH المباشرة. كل الأسعار المذكورة أسعار متاجر وليست أسعارًا رسمية للشركات.\nمراجعة يدوية موثقة 17 نوفمبر 2026 الساعة 19:12 بتوقيت القاهرة: أعيد فتح صفحات المتاجر المباشرة لـSamsung A17 5G 8/256 (17,800، متاح)، A57 8/256 (27,000، متاح)، A57 12/256 (31,700، متاح)، HONOR 600 8/256 (29,000، متاح)، A17 4G 8/256 (تغير السعر من 16,100 صباحًا إلى 16,400، متاح)، Galaxy A56 8/256 (صفحة Carrefour الحالية تعرض 28,139 شامل الضريبة، البائع Radio Talaat، متبقٍ واحد؛ تم تخفيض عرض Carrefour القديم 24,999 إلى check_store لأن رابطه القديم لم يعد قابلًا للفحص)، Infinix Smart 20 4/64 لدى B.TECH (7,699، المخزون غير مؤكد)، HONOR X5c Plus 4/128 (8,499 آخر سعر ظاهر لكنه غير متوفر)، Galaxy A07 4/128 (11,000 في رأس الصفحة مع تعارض وصف قديم يذكر 5,500، check_store)، Galaxy A18 6/128 (13,999 مع Add to Cart دون عبارة مخزون صريحة، check_store)، Galaxy A37 12/256 (26,000، متاح)، Galaxy S26 FE 8/512 (49,999 مع Add to Cart دون عبارة مخزون صريحة، check_store)، وGalaxy S26 Ultra 12/256 (54,999 آخر سعر ظاهر لكنه غير متوفر). كل الأسعار أسعار متاجر وليست أسعارًا رسمية من الشركات. لم يُعتمد سعر B.TECH غير المؤكد كسعر الشراء الأدنى، ولم تُستخدم نتيجة بحث مختصرة كسعر.\n\nمراجعة يدوية موثقة 21 نوفمبر 2026 الساعة 14:00 بتوقيت القاهرة: فُحصت صفحات متاجر مباشرة وطوبقت النسخ قبل تحديث 9 سجلات لثمانية تكوينات موجودة بالفعل: Samsung A56 8/256 (Carrefour 24,999 متاح)، Samsung A17 5G 8/256 (17,700 متاح)، Samsung A57 5G 8/256 (27,100 متاح)، Samsung A27 5G 8/128 (17,300 متاح)، OPPO A6x 4/128 (El Avocato 11,800 متاح؛ Elghazawy 11,499 يحتاج تأكيد مخزون، والسجل المكرر تمت مزامنته)، HONOR 600 8/256 (27,800 متاح)، iPhone 17 Pro Max 256GB (89,000 متاح)، Infinix Smart 20 4/64 (Vodafone 7,999 متاح). كل الأسعار أسعار متاجر وليست أسعارًا رسمية. لم تُحدّث أي أسعار أخرى دون مصدر مباشر صالح. لم يتغير عدد المنتجات أو معرفاتها، ولم يتم تعديل فهرس الموديلات أو أي ملف آخر.\n\nمراجعة يدوية موثقة 21 نوفمبر 2026 الساعة 20:39 بتوقيت القاهرة: أُعيد فتح صفحات متاجر مباشرة لـ9 تكوينات فريدة من 933 سجلًا، مع مزامنة سجل OPPO A6x 4/128 المكرر (10 سجلات بيانات): Samsung A17 5G 8/256 بسعر 17,700 لدى El Avocato (In Stock)؛ iPhone 17 Pro Max 256GB بسعر 89,000 لدى El Avocato (In Stock، الصفحة لا تحدد RAM)؛ Samsung A27 5G 8/128 بسعر 17,300 لدى El Avocato (In Stock)؛ Samsung A57 5G 8/256 بسعر 27,100 لدى El Avocato (In Stock)؛ OPPO A6x 4/128 بسعر 11,800 لدى El Avocato (In Stock) وإضافة 11,499 لدى Elghazawy (check_store)؛ HONOR 600 8/256 بسعر 27,800 لدى El Avocato (In Stock)؛ Infinix Smart 20 4/64 بسعر 7,999 لدى Vodafone (check_store لأن الصفحة لا تصرح بالمخزون)؛ Samsung A56 5G 8/256 بسعر 24,999 لدى Carrefour (Only 2 left، شامل الضريبة) وإضافة عرض Raneen 23,499 (check_store بسبب تعارض Out of stock مع Other Sellers)؛ Xiaomi Redmi A7 3/64 بسعر 8,999 لدى 2B (In Stock، Orchid Purple). تم استبعاد عرض B.TECH البالغ 24,299 لنسخة A56 من سجل 5G لأن صفحة B.TECH المباشرة تصف النسخة 4G LTE. لم تُعتمد أسعار رسمية من الشركات؛ جميع الأسعار أعلاه أسعار متاجر. لم تتم إعادة فحص بقية سجلات الهواتف في هذه الجولة.\n\nمراجعة يدوية موثقة 23 نوفمبر 2026 الساعة 13:06 بتوقيت القاهرة: تم تحديث 4 سجلات أسعار أساسية بعد فحص صفحات متاجر مباشرة ومطابقة النسخ: Samsung Galaxy A17 5G 8/256 (B.TECH 19,680؛ Vodafone 19,999؛ تم استبعاد سعر PriceTeq 18,499 لعدم مطابقته صفحة Vodafone المباشرة)، Samsung Galaxy A57 5G 8/256 (B.TECH 30,375؛ عرض Raneen 28,989 من PriceTeq أُبقي check_store لأن الصفحة المباشرة لم تعرض السعر)، Infinix Smart 20 4/64 4G (B.TECH 7,000)، Samsung Galaxy S26 Ultra 12/256 5G (Ehab Center 71,399 ومتوافر). أضيف عرض Raneen لنسخة Samsung A56 8/256 بسعر 23,499 من PriceTeq كـ check_store فقط، دون تغيير السعر الأساسي Carrefour 24,999. لم يُحدّث HONOR 600 8/256 بسبب تعارض نص الصورة (12GB) مع عنوان صفحة المنتج (8GB)، لذلك بقي السعر السابق دون تغيير. جميع الأسعار المحدثة أسعار متاجر وليست أسعارًا رسمية. لم يتم تغيير أي موديل أو معرف أو فهرس.\n\nمراجعة إضافية 23 نوفمبر 2026: تم تصحيح السعر الأساسي لـ Samsung Galaxy A57 5G 8GB/256GB إلى 27,100 جنيهًا من El Avocato بعد فتح صفحته المباشرة التي تعرض In Stock؛ احتُفظ بعرض B.TECH 30,375 كعرض متاح أعلى سعرًا، وسُجل عرض Etisal 28,799 كآخر سعر مرصود لكنه غير متوفر لأن صفحة Etisal المباشرة تعرض Out of stock. كما أُعيد فحص HONOR 600 8GB/256GB عبر صفحة El Avocato الصحيحة، التي تؤكد النسخة والسعر 27,800 جنيهًا وIn Stock؛ تم تحديث تاريخ التحقق ومصدره. لم تتغير أعداد المنتجات أو معرفاتها أو الفهرس.\n\nتثبيت نهائي لتصحيح A17 بتاريخ 23 نوفمبر 2026: أُعيد تطبيق السعر المؤكد من صفحة El Avocato المباشرة 17,700 جنيهًا وIn Stock لنسخة 8GB/256GB/5G. عروض B.TECH وVodafone تبقى check_store بسبب اختلاف نسخ الأسعار بين الصفحة المباشرة وبيانات المقارنة. تمت قراءة الملف من Git blob الحالي لتجنب استخدام نسخة raw مخبأة.",
   "lastAutomaticUpdate": "2026-11-09 19:17 Cairo",
-  "lastManualPriceVerification": "2026-11-23T13:06:09+02:00"
+  "lastManualPriceVerification": "2026-11-25T13:37:49+02:00"
 }
