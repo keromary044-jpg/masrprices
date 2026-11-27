@@ -2216,6 +2216,16 @@
           "checkedAt": "2026-11-27",
           "observedAt": "2026-11-22",
           "availability": "in_stock"
+        },
+        {
+          "merchant": "Vodafone Egypt",
+          "priceEGP": 15999,
+          "variant": "8GB RAM / 256GB / Black",
+          "condition": "غير متوفر",
+          "source": "https://eshop.vodafone.com.eg/ar/prod/samsung-galaxy-m55-5g-smart-phone-256GB",
+          "sourceLabel": "Vodafone Egypt eShop",
+          "checkedAt": "2026-11-27",
+          "availability": "out_of_stock"
         }
       ],
       "priceCheckedAt": "2026-11-27",
