@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:17:26+02:00",
+  "updatedAt": "2026-11-27T13:26:40+02:00",
   "currency": "EGP",
   "notice": "الموديلات المضافة من صفحات الشركات أو قوائم اعتماد رسمية. لا يعني إدراج الموديل أن توافره التجاري الحالي أو سعره في مصر مؤكد.",
   "products": [
@@ -2047,10 +2047,10 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy A55 5G",
       "category": "هاتف ذكي",
-      "priceEGP": 20999,
-      "priceSource": "Noon Egypt",
-      "priceStatus": "جديد – المتجر يعرض 3 وحدات وقت الرصد؛ 8GB RAM / 128GB / 5G / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
-      "sourceLabel": "Noon Egypt",
+      "priceEGP": 17700,
+      "priceSource": "MS Mobile Store – سعر متجر مصري",
+      "priceStatus": "فحص 27 نوفمبر 2026: صفحة MS Mobile Store تعرض Samsung Galaxy A55 5G نسخة 8GB RAM / 128GB جديدة بسعر 17,700 جنيه مع Add to Cart وإمكانية الاستلام من فرع القاهرة. نص حالة المخزون يعرض In Stock وOut of Stock معًا؛ لذلك يلزم تأكيد المخزون من المتجر. سعر متجر وليس سعرًا رسميًا.",
+      "sourceLabel": "MS Mobile Store – صفحة المنتج المباشرة",
       "priceOffers": [
         {
           "merchant": "Noon Egypt",
@@ -2061,12 +2061,26 @@
           "sourceLabel": "Noon Egypt",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 17700,
+          "variant": "8GB RAM / 128GB / 5G / جديد",
+          "condition": "جديد",
+          "source": "https://mobile.store-eg.com/en/product/samsung-galaxy-a55-5g",
+          "sourceLabel": "MS Mobile Store – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-27",
+          "observedAt": "2026-11-27",
+          "availability": "check_store"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "source": "https://www.noon.com/egypt-ar/galaxy-a55-dual-sim-awesome-navy-8gb-ram-128gb-5g-middle-east-version/N70049904V/p/",
-      "merchant": "Noon Egypt"
+      "priceCheckedAt": "2026-11-27",
+      "priceObservedAt": "2026-11-27",
+      "source": "https://mobile.store-eg.com/en/product/samsung-galaxy-a55-5g",
+      "merchant": "MS Mobile Store",
+      "priceAvailability": "check_store",
+      "priceVerifiedAt": "2026-11-27T13:26:40+02:00",
+      "priceLastVerifiedAt": "2026-11-27T13:26:40+02:00"
     },
     {
       "id": "samsung-galaxy-a35-5g",
@@ -2177,10 +2191,10 @@
       "brand": "Samsung",
       "name": "Samsung Galaxy M55 5G",
       "category": "هاتف ذكي",
-      "priceEGP": 19990,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 5G هو 19,990 جنيه لدى Elshennawy Stores Egypt؛ صفحة PriceTeq مؤرخة 7 نوفمبر 2026 وتعرض المنتج متاحًا. لم أتعامل معه كسعر رسمي من سامسونج.",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 19679,
+      "priceSource": "Amazon.eg عبر أرخص فين؟ (مستورد، دون ضمان الوكيل)",
+      "priceStatus": "فحص 27 نوفمبر 2026: صفحة أرخص فين؟ تعرض عرض Amazon.eg لنسخة Denim Black 8GB RAM / 256GB بسعر 19,679 جنيهًا، وتذكر أن العرض متاح. الجهاز مستورد ودون ضمان الوكيل؛ آخر تحديث للعرض في صفحة المقارنة 22 نوفمبر 2026. سعر متجر/عرض سوقي وليس سعرًا رسميًا. ظهر عرض Vodafone بقيمة 15,999 جنيهًا للنسخة 8/256 Black لكنه غير متوفر.",
+      "sourceLabel": "أرخص فين؟ – رصد عرض Amazon.eg",
       "priceOffers": [
         {
           "merchant": "Elshennawy Stores Egypt",
@@ -2191,15 +2205,26 @@
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07",
           "availability": "in_stock"
+        },
+        {
+          "merchant": "Amazon.eg (مستورد)",
+          "priceEGP": 19679,
+          "variant": "8GB RAM / 256GB / Denim Black",
+          "condition": "مستورد؛ دون ضمان الوكيل",
+          "source": "https://arkhasfeen.com/ar/p/samsung-galaxy-m55-5g-8gb-ram-256gb-denim",
+          "sourceLabel": "أرخص فين؟ – رصد عرض Amazon.eg",
+          "checkedAt": "2026-11-27",
+          "observedAt": "2026-11-22",
+          "availability": "in_stock"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
+      "priceCheckedAt": "2026-11-27",
+      "priceObservedAt": "2026-11-22",
       "memory": "8GB RAM / 256GB / 5G",
-      "merchant": "Elshennawy Stores Egypt",
-      "source": "https://priceteq.com/eg/product/5e10cdf8-5154-4a14-ae1e-d69dde944162",
-      "priceVerifiedAt": "2026-11-07T20:25:57+02:00",
-      "priceLastVerifiedAt": "2026-11-07T20:25:57+02:00",
+      "merchant": "Amazon.eg (مستورد)",
+      "source": "https://arkhasfeen.com/ar/p/samsung-galaxy-m55-5g-8gb-ram-256gb-denim",
+      "priceVerifiedAt": "2026-11-27T13:26:40+02:00",
+      "priceLastVerifiedAt": "2026-11-27T13:26:40+02:00",
       "priceAvailability": "in_stock"
     },
     {
@@ -2583,10 +2608,10 @@
       "brand": "Xiaomi",
       "name": "Xiaomi Redmi Note 13 4G",
       "category": "هاتف ذكي",
-      "priceEGP": 14409,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceStatus": "سعر متجر مرصود لنسخة 8GB RAM / 256GB / 4G، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-04؛ يجب تأكيد السعر والمخزون من المتجر.",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 9990,
+      "priceSource": "Elghazawy – سعر متجر معلن (غير متوفر)",
+      "priceStatus": "فحص 27 نوفمبر 2026: صفحة Elghazawy تعرض Redmi Note 13 4G نسخة 8GB RAM / 256GB بسعر 9,990 جنيهًا، وتعرض Quantity: Not available. السعر معلن لكنه غير متاح للشراء حاليًا؛ ليس سعرًا رسميًا.",
+      "sourceLabel": "Elghazawy – صفحة المنتج المباشرة",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
@@ -2596,13 +2621,27 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-04"
+        },
+        {
+          "merchant": "Elghazawy",
+          "priceEGP": 9990,
+          "variant": "8GB RAM / 256GB / 4G / Midnight Black",
+          "condition": "غير متوفر",
+          "source": "https://elghazawy.com/en/product/38074270274414/Redmi-Note-13-Dual-SIM-Mobile,-128-GB-Memory,-8-GB-RAM,-4G-LTE,-Midnight-Black",
+          "sourceLabel": "Elghazawy – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-27",
+          "observedAt": "2026-11-27",
+          "availability": "out_of_stock"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-04",
+      "priceCheckedAt": "2026-11-27",
+      "priceObservedAt": "2026-11-27",
       "memory": "8GB RAM / 256GB / 4G",
-      "merchant": "Cairo Drop Egypt",
-      "source": "https://priceteq.com/eg/product/1921cd6b-c672-4f97-a565-7db3004d3471"
+      "merchant": "Elghazawy",
+      "source": "https://elghazawy.com/en/product/38074270274414/Redmi-Note-13-Dual-SIM-Mobile,-128-GB-Memory,-8-GB-RAM,-4G-LTE,-Midnight-Black",
+      "priceAvailability": "out_of_stock",
+      "priceVerifiedAt": "2026-11-27T13:26:40+02:00",
+      "priceLastVerifiedAt": "2026-11-27T13:26:40+02:00"
     },
     {
       "id": "xiaomi-redmi-13c",
@@ -2754,9 +2793,9 @@
       "name": "OPPO Find X8",
       "category": "هاتف ذكي",
       "priceEGP": 29500,
-      "priceSource": "MS Mobile Store",
-      "priceStatus": "جديد؛ 16GB RAM / 256GB / جديد؛ السعر مرصود بتاريخ 2026-11-07، وقد يتغير حسب المخزون والمتجر.",
-      "sourceLabel": "MS Mobile Store",
+      "priceSource": "MS Mobile Store – سعر متجر مصري",
+      "priceStatus": "فحص 27 نوفمبر 2026: صفحة MS Mobile Store تعرض OPPO Find X8 نسخة 16GB RAM / 256GB جديدة بسعر 29,500 جنيه مع Add to Cart وإمكانية الاستلام من فرع القاهرة. نص حالة المخزون يعرض In Stock وOut of Stock معًا؛ لذلك يلزم تأكيد المخزون من المتجر. سعر متجر وليس سعرًا رسميًا.",
+      "sourceLabel": "MS Mobile Store – صفحة المنتج المباشرة",
       "priceOffers": [
         {
           "merchant": "MS Mobile Store",
@@ -2767,12 +2806,26 @@
           "sourceLabel": "MS Mobile Store",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-07"
+        },
+        {
+          "merchant": "MS Mobile Store",
+          "priceEGP": 29500,
+          "variant": "16GB RAM / 256GB / 5G / جديد",
+          "condition": "جديد",
+          "source": "https://store-eg.com/s/mobile/en/product/oppo-find-x8",
+          "sourceLabel": "MS Mobile Store – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-27",
+          "observedAt": "2026-11-27",
+          "availability": "check_store"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-07",
-      "source": "https://mobile.store-eg.com/en/product/oppo-find-x8",
-      "merchant": "MS Mobile Store"
+      "priceCheckedAt": "2026-11-27",
+      "priceObservedAt": "2026-11-27",
+      "source": "https://store-eg.com/s/mobile/en/product/oppo-find-x8",
+      "merchant": "MS Mobile Store",
+      "priceAvailability": "check_store",
+      "priceVerifiedAt": "2026-11-27T13:26:40+02:00",
+      "priceLastVerifiedAt": "2026-11-27T13:26:40+02:00"
     },
     {
       "id": "oppo-reno13-pro-5g",
@@ -2951,10 +3004,10 @@
       "brand": "OPPO",
       "name": "OPPO A3x",
       "category": "هاتف ذكي",
-      "priceEGP": 7259,
-      "priceSource": "PriceTeq – مقارنة أسعار المتاجر المصرية",
-      "priceStatus": "سعر متجر معلن لنسخة 4GB RAM / 128GB، شامل الضريبة حسب المصدر. تاريخ الرصد 2026-11-05؛ قد يتغير السعر ويجب التأكد من التوفر قبل الشراء.",
-      "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
+      "priceEGP": 6590,
+      "priceSource": "Rayashop – سعر متجر معلن (غير متوفر)",
+      "priceStatus": "فحص 27 نوفمبر 2026: صفحة Rayashop تعرض OPPO A3X نسخة 4GB RAM / 128GB / 4G LTE باللون Ocean Blue بسعر 6,590 جنيهًا، والحالة Sold Out. السعر معلن لكنه غير متاح للشراء؛ ليس سعرًا رسميًا.",
+      "sourceLabel": "Rayashop – صفحة المنتج المباشرة",
       "priceOffers": [
         {
           "merchant": "Cairo Drop Egypt",
@@ -2964,13 +3017,27 @@
           "sourceLabel": "PriceTeq – مقارنة أسعار المتاجر المصرية",
           "checkedAt": "2026-11-07",
           "observedAt": "2026-11-05"
+        },
+        {
+          "merchant": "Rayashop Mobile",
+          "priceEGP": 6590,
+          "variant": "4GB RAM / 128GB / 4G LTE / Ocean Blue",
+          "condition": "غير متوفر",
+          "source": "https://www.rayashop.com/en/oppo-a3x-dual-sim-128gb-4gb-ram-4g-lte-ocean-blue-215818",
+          "sourceLabel": "Rayashop – صفحة المنتج المباشرة",
+          "checkedAt": "2026-11-27",
+          "observedAt": "2026-11-27",
+          "availability": "out_of_stock"
         }
       ],
-      "priceCheckedAt": "2026-11-07",
-      "priceObservedAt": "2026-11-05",
+      "priceCheckedAt": "2026-11-27",
+      "priceObservedAt": "2026-11-27",
       "memory": "4GB RAM / 128GB",
-      "merchant": "Cairo Drop Egypt",
-      "source": "https://priceteq.com/eg/product/2bae1b58-7766-4e7f-86cf-389bfaae703c"
+      "merchant": "Rayashop Mobile",
+      "source": "https://www.rayashop.com/en/oppo-a3x-dual-sim-128gb-4gb-ram-4g-lte-ocean-blue-215818",
+      "priceAvailability": "out_of_stock",
+      "priceVerifiedAt": "2026-11-27T13:26:40+02:00",
+      "priceLastVerifiedAt": "2026-11-27T13:26:40+02:00"
     },
     {
       "id": "oppo-a60",
