@@ -42,6 +42,46 @@ class CoverageReportTests(unittest.TestCase):
         detail = {"slug": "tool-hacksaw-apt", "name": "منشار حديد يدوي APT مقاس 12 بوصة", "category": "الأدوات (21)"}
         self.assertFalse(is_duplicate_detail_product(detail, primary))
 
+    def test_out_of_stock_lowest_offer_does_not_make_product_fresh(self):
+        now = datetime(2026, 11, 17, 0, 0, tzinfo=timezone.utc)
+        product = {
+            "priceEGP": 120,
+            "priceAvailability": "in_stock",
+            "priceOffers": [
+                {"priceEGP": 100, "availability": "out_of_stock", "checkedAt": "2026-11-16"},
+                {"priceEGP": 120, "availability": "in_stock", "checkedAt": "2026-11-01"},
+            ],
+        }
+        self.assertTrue(has_price(product))
+        self.assertEqual(freshness_status(product, now=now), "stale")
+
+    def test_check_store_offer_is_not_fresh(self):
+        now = datetime(2026, 11, 17, 0, 0, tzinfo=timezone.utc)
+        product = {
+            "priceEGP": 200,
+            "priceAvailability": "check_store",
+            "priceCheckedAt": "2026-11-16",
+            "priceOffers": [
+                {"priceEGP": 200, "availability": "check_store", "checkedAt": "2026-11-16"},
+            ],
+        }
+        self.assertEqual(freshness_status(product, now=now), "stale")
+
+    def test_arabic_unavailable_condition_is_not_fresh(self):
+        now = datetime(2026, 11, 17, 0, 0, tzinfo=timezone.utc)
+        product = {
+            "priceEGP": 200,
+            "priceOffers": [
+                {"priceEGP": 200, "condition": "غير متوفر", "checkedAt": "2026-11-16"},
+            ],
+        }
+        self.assertEqual(freshness_status(product, now=now), "stale")
+
+    def test_legacy_offer_without_availability_keeps_date_behavior(self):
+        now = datetime(2026, 11, 17, 0, 0, tzinfo=timezone.utc)
+        product = {"priceOffers": [{"priceEGP": 200, "checkedAt": "2026-11-16"}]}
+        self.assertEqual(freshness_status(product, now=now), "fresh")
+
     def test_detail_date_is_used_only_for_unmatched_detail_products(self):
         now = datetime(2026, 11, 17, 0, 0, tzinfo=timezone.utc)
         product = {"price": 305, "date": "2026-11-15"}

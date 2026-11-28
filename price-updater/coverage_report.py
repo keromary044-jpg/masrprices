@@ -91,17 +91,41 @@ def parse_observed_time(value):
         parsed = parsed.replace(tzinfo=ZoneInfo("Africa/Cairo"))
     return parsed.astimezone(timezone.utc)
 
+def is_non_buyable_availability(value):
+    """True when a recorded offer is explicitly unavailable or needs stock confirmation."""
+    normalized = normalize_label(value).replace("-", "_").replace(" ", "_")
+    blocked = {
+        "out_of_stock", "sold_out", "unavailable", "not_available",
+        "check_store", "needs_confirmation", "pending", "not_buyable",
+    }
+    return normalized in blocked or any(
+        term in normalized for term in ("غير متوفر", "غير متاح", "نفد المخزون")
+    )
+
+
+def is_non_buyable_offer(offer, fallback_availability=None):
+    availability = offer.get("availability") or fallback_availability
+    return (
+        is_non_buyable_availability(availability)
+        or is_non_buyable_availability(offer.get("condition"))
+    )
+
+
 def freshness_status(product, now=None, max_age_days=14, allow_generic_date=False):
-    """Classify the displayed lowest offer by its own observation timestamp."""
+    """Classify freshness using the lowest offer not explicitly marked unavailable."""
     now = now or datetime.now(timezone.utc)
     offers = product.get("priceOffers")
     if isinstance(offers, list):
         candidates = []
+        positive_offer_count = 0
         for offer in offers:
             if not isinstance(offer, dict):
                 continue
             value = offer.get("priceEGP") or offer.get("price_egp") or offer.get("price")
             if not positive_price(value):
+                continue
+            positive_offer_count += 1
+            if is_non_buyable_offer(offer, product.get("priceAvailability")):
                 continue
             try:
                 amount = float(str(value).replace(",", "").replace("جنيه", "").replace("EGP", "").strip())
@@ -115,8 +139,14 @@ def freshness_status(product, now=None, max_age_days=14, allow_generic_date=Fals
             if not best_dates:
                 return "unknown"
             return "fresh" if max(best_dates) >= now - timedelta(days=max_age_days) else "stale"
+        if positive_offer_count:
+            # Keep the positive price in total coverage, but never call an unavailable
+            # or unconfirmed offer fresh.
+            return "stale"
     if not has_price(product):
         return "missing"
+    if is_non_buyable_availability(product.get("priceAvailability")):
+        return "stale"
     for key in (("priceCheckedAt", "checkedAt", "price_updated_at", "date") if allow_generic_date else ("priceCheckedAt", "checkedAt", "price_updated_at")):
         observed = parse_observed_time(product.get(key))
         if observed:
@@ -200,7 +230,7 @@ def build_report():
     return {
         "generated_at": now,
         "currency": "EGP",
-        "definition": "A product counts once across its category catalog and product-detail mirror. Freshness uses the lowest offer timestamp; unmatched detail-only products use their explicit date field. Fresh means no older than 14 days.",
+        "definition": "A product counts once across its category catalog and product-detail mirror. Freshness uses the lowest offer not explicitly marked unavailable or awaiting stock confirmation; unmatched detail-only products use their explicit date field. Positive out-of-stock prices remain in total price coverage but are never classified as fresh. Fresh means no older than 14 days.",
         "totals": {
             "products": total_products,
             "with_price": total_priced,
