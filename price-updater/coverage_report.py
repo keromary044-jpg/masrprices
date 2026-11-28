@@ -99,7 +99,7 @@ def is_non_buyable_availability(value):
         "check_store", "needs_confirmation", "pending", "not_buyable",
     }
     return normalized in blocked or any(
-        term in normalized for term in ("غير متوفر", "غير متاح", "نفد المخزون")
+        term in normalized for term in ("غير_متوفر", "غير_متاح", "نفد_المخزون")
     )
 
 
