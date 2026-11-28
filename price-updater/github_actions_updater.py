@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 CONFIG = ROOT / "price-feeds.json"
 EXCLUDED_PRICE_CATALOGS = {
     # These need dedicated, separately authorized data integrations.
-    "medicines.json", "stocks.json", "real-estate.json", "market-rates.json",
+    "medicines.json", "stocks.json", "real-estate.json", "market-rates.json", "fuel.json", "car-oils-lubricants.json",
 }
 MAX_BYTES = 5_000_000
 MAX_PAGES = 10

@@ -3,7 +3,7 @@ import os
 import unittest
 from pathlib import Path
 from unittest.mock import patch
-from github_actions_updater import normalize, apply_offer, run_pricelens, run_open_prices, run_apish_jumia, run_apish_noon, run_raneen, expire_stale_offers
+from github_actions_updater import EXCLUDED_PRICE_CATALOGS, normalize, apply_offer, run_pricelens, run_open_prices, run_apish_jumia, run_apish_noon, run_raneen, expire_stale_offers
 from coverage_report import freshness_status
 
 class PriceUpdaterTests(unittest.TestCase):
@@ -30,6 +30,10 @@ class PriceUpdaterTests(unittest.TestCase):
 
     def test_arabic_normalization(self):
         self.assertEqual(normalize("أَبْجَدِيَّة"), normalize("ابجديه"))
+
+    def test_fuel_and_vehicle_lubricant_catalogs_are_excluded(self):
+        self.assertIn("fuel.json", EXCLUDED_PRICE_CATALOGS)
+        self.assertIn("car-oils-lubricants.json", EXCLUDED_PRICE_CATALOGS)
 
     def test_price_discovery_skips_restricted_catalog_items(self):
         from github_actions_updater import build_exact_index, build_search_candidates
